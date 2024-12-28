@@ -1,0 +1,19 @@
+Several platforms for noninvasive EGFR testing are currently used in the 
+clinical setting with sensitivities ranging from 30% to 100%. Prospective 
+studies evaluating agreement and sources for discordant results remain lacking. 
+Herein, seven methodologies including two next-generation sequencing (NGS)-based 
+methods, three high-sensitivity PCR-based platforms, and two FDA-approved 
+methods were compared using 72 plasma samples, from EGFR-mutant non-small-cell 
+lung cancer (NSCLC) patients progressing on a first-line tyrosine kinase 
+inhibitor (TKI). NGS platforms as well as high-sensitivity PCR-based 
+methodologies showed excellent agreement for EGFR-sensitizing mutations 
+(K = 0.80-0.89) and substantial agreement for T790M testing (K = 0.77 and 0.68, 
+respectively). Mutant allele frequencies (MAFs) obtained by different 
+quantitative methods showed an excellent reproducibility (intraclass correlation 
+coefficients 0.86-0.98). Among other technical factors, discordant calls mostly 
+occurred at mutant allele frequencies (MAFs) ≤ 0.5%. Agreement significantly 
+improved when discarding samples with MAF ≤ 0.5%. EGFR mutations were detected 
+at significantly lower MAFs in patients with brain metastases, suggesting that 
+these patients risk for a false-positive result. Our results support the use of 
+liquid biopsies for noninvasive EGFR testing and highlight the need to 
+systematically report MAFs.

@@ -1,0 +1,13 @@
+Repeated nitrogen dioxide exposures and eosinophilic airway inflammation in asthmatics: a randomized crossover study.
+
+1/BACKGROUND: Nitrogen dioxide (NO2), a ubiquitous atmospheric pollutant, may enhance the asthmatic response to allergens through eosinophilic activation in the airways. However, the effect of NO2 on inflammation without allergen exposure is poorly studied.
+OBJECTIVES: We investigated whether repeated peaks of NO2, at various realistic concentrations, induce changes in airway inflammation in asthmatics.
+
+2/METHODS: Nineteen nonsmokers with asthma were exposed at rest in a double-blind, crossover study, in randomized order, to 200 ppb NO2, 600 ppb NO2, or clean air once for 30 min on day 1 and twice for 30 min on day 2. The three series of exposures were separated by 2 weeks. The inflammatory response in sputum was measured 6 hr (day 1), 32 hr (day 2), and 48 hr (day 3) after the first 
+exposure, and compared with baseline values measured twice 10-30 days before the first exposure.
+
+3/RESULTS: Compared with baseline measurements, the percentage of eosinophils in sputum increased by 57% after exposure to 600 ppb NO2 (p = 0.003) but did not change significantly after exposure to 200 ppb. The slope of the association between the percentage of eosinophils and NO2 exposure level was significant (p = 0.04). Eosinophil cationic protein in sputum was highly correlated with 
+eosinophil count and increased significantly after exposure to 600 ppb NO2 (p = 0.001). Lung function, which was assessed daily, was not affected by NO2 exposure.
+
+4/CONCLUSIONS: We observed that repeated peak exposures of NO2 performed without allergen exposure were associated with airway eosinophilic inflammation in asthmatics in a dose-related manner.
+

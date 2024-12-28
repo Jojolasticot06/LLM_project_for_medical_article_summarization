@@ -1,0 +1,25 @@
+BACKGROUND: Against the background of missing culturally sensitive mental health 
+care services for refugees, we developed a group intervention (Empowerment) for 
+refugees at level 3 within the stratified Stepped and Collaborative Care Model 
+of the project Mental Health in Refugees and Asylum Seekers (MEHIRA). We aim to 
+evaluate the effectiveness of the Empowerment group intervention with its focus 
+on psychoeducation, stress management, and emotion regulation strategies in a 
+culturally sensitive context for refugees with affective disorders compared to 
+treatment-as-usual (TAU).
+METHOD: At level 3 of the MEHIRA project, 149 refugees and asylum seekers with 
+clinically relevant depressive symptoms were randomized to the Empowerment group 
+intervention or TAU. Treatment comprised 16 therapy sessions conducted over 
+12 weeks. Effects were measured with the Patient Health Questionnaire-9 (PHQ-9) 
+and the Montgomery-Åsberg Depression Rating Scale (MÅDRS). Further scales 
+included assessed emotional distress, self-efficacy, resilience, and quality of 
+life.
+RESULTS: Intention-to-treat analyses show significant cross-level interactions 
+on both self-rated depressive symptoms (PHQ-9; F(1,147) = 13.32, p < 0.001) and 
+clinician-rated depressive symptoms (MÅDRS; F(1,147) = 6.91, p = 0.01), 
+indicating an improvement in depressive symptoms from baseline to 
+post-intervention in the treatment group compared to the control group. The 
+effect sizes for both scales were moderate (d = 0.68, 95% CI 0.21-1.15 for PHQ-9 
+and d = 0.51, 95% CI 0.04-0.99 for MÅDRS).
+CONCLUSION: In the MEHIRA project comparing an SCCM approach versus TAU, the 
+Empowerment group intervention at level 3 showed effectiveness for refugees with 
+moderately severe depressive symptoms.

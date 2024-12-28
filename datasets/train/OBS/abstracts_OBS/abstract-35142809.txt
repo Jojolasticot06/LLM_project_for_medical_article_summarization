@@ -1,0 +1,30 @@
+OBJECTIVE: To examine whether BNT162b2 mRNA vaccination during pregnancy is 
+associated with adverse neonatal and early infant outcomes among the newborns.
+DESIGN, SETTING, AND PARTICIPANTS: Population-based cohort study comprising all 
+singleton live births in March through September 2021, within a large 
+state-mandated health care organization in Israel, followed up until October 31, 
+2021.
+EXPOSURE: Maternal BNT162b2 mRNA vaccination during pregnancy.
+MAIN OUTCOMES AND MEASURES: Risk ratios (RR) of preterm birth, small birth 
+weight for gestational age (SGA), congenital malformations, all-cause 
+hospitalizations, and infant death. Stabilized inverse probability weighting was 
+used to adjust for maternal age, timing of conception, parity, socioeconomic 
+status, population subgroup, and maternal influenza immunization status.
+RESULTS: The cohort included 24 288 eligible newborns (49% female, 96% born at 
+≥37 weeks' gestation), of whom 16 697 were exposed (n = 2134 and n = 9364 in the 
+first and second trimesters, respectively) to maternal vaccination in utero. 
+Median (IQR) follow-up after birth was 126 days (76-179) among exposed and 152 
+days (88-209) among unexposed newborns. No substantial differences were observed 
+in preterm birth rates between exposed and unexposed newborns (RR = 0.95; 95% 
+CI, 0.83-1.10) or SGA (RR = 0.97; 95% CI, 0.87-1.08). No significant differences 
+were observed in the incidence of all-cause neonatal hospitalizations 
+(RR = 0.99; 95% CI, 0.88-1.12), postneonatal hospitalizations after birth 
+(RR = 0.95; 95% CI, 0.84-1.07), congenital anomalies (RR = 0.69; 95% CI, 
+0.44-1.04), or infant mortality over the study period (RR = 0.84; 95% CI, 
+0.43-1.72).
+CONCLUSIONS AND RELEVANCE: This large population-based study found no evident 
+differences between newborns of women who received BNT162b2 mRNA vaccination 
+during pregnancy, vs those of women who were not vaccinated, and contributes to 
+current evidence in establishing the safety of prenatal vaccine exposure to the 
+newborns. Interpretation of study findings is limited by the observational 
+design.

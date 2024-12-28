@@ -1,0 +1,39 @@
+BACKGROUND: Gastrointestinal mucosal injury (mucositis), commonly affecting the 
+oral cavity, is a clinically significant yet incompletely understood 
+complication of cancer chemotherapy. Although antineoplastic cytotoxicity 
+constitutes the primary injury trigger, the interaction of oral microbial 
+commensals with mucosal tissues could modify the response. It is not clear, 
+however, whether chemotherapy and its associated treatments affect oral 
+microbial communities disrupting the homeostatic balance between resident 
+microorganisms and the adjacent mucosa and if such alterations are associated 
+with mucositis. To gain knowledge on the pathophysiology of oral mucositis, 49 
+subjects receiving 5-fluorouracil (5-FU) or doxorubicin-based chemotherapy were 
+evaluated longitudinally during one cycle, assessing clinical outcomes, 
+bacterial and fungal oral microbiome changes, and epithelial transcriptome 
+responses. As a control for microbiome stability, 30 non-cancer subjects were 
+longitudinally assessed. Through complementary in vitro assays, we also 
+evaluated the antibacterial potential of 5-FU on oral microorganisms and the 
+interaction of commensals with oral epithelial tissues.
+RESULTS: Oral mucositis severity was associated with 5-FU, increased salivary 
+flow, and higher oral granulocyte counts. The oral bacteriome was disrupted 
+during chemotherapy and while antibiotic and acid inhibitor intake contributed 
+to these changes, bacteriome disruptions were also correlated with 
+antineoplastics and independently and strongly associated with oral mucositis 
+severity. Mucositis-associated bacteriome shifts included depletion of common 
+health-associated commensals from the genera Streptococcus, Actinomyces, 
+Gemella, Granulicatella, and Veillonella and enrichment of Gram-negative 
+bacteria such as Fusobacterium nucleatum and Prevotella oris. Shifts could not 
+be explained by a direct antibacterial effect of 5-FU, but rather resembled the 
+inflammation-associated dysbiotic shifts seen in other oral conditions. 
+Epithelial transcriptional responses during chemotherapy included upregulation 
+of genes involved in innate immunity and apoptosis. Using a multilayer 
+epithelial construct, we show mucositis-associated dysbiotic shifts may 
+contribute to aggravate mucosal damage since the mucositis-depleted 
+Streptococcus salivarius was tolerated as a commensal, while the 
+mucositis-enriched F. nucleatum displayed pro-inflammatory and pro-apoptotic 
+capacity.
+CONCLUSIONS: Altogether, our work reveals that chemotherapy-induced oral 
+mucositis is associated with bacterial dysbiosis and demonstrates the potential 
+for dysbiotic shifts to aggravate antineoplastic-induced epithelial injury. 
+These findings suggest that control of oral bacterial dysbiosis could represent 
+a novel preventive approach to ameliorate oral mucositis.

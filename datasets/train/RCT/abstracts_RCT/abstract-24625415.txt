@@ -1,0 +1,11 @@
+Clinical significance of MYC expression and/or "high-grade" morphology in non-Burkitt, diffuse aggressive B-cell lymphomas: a SWOG S9704 correlative study.
+
+1/The clinicopathologic findings in Burkitt lymphoma (BL) and diffuse large B-cell lymphoma (DLBCL) may show significant overlap, and MYC abnormalities, found in all BLs, also occur in a subset of DLBCL. The 2008 World Health Organization classification introduced the category of "B-cell lymphoma, unclassifiable, with features intermediate between DLBCL and BL" (BCLU) in recognition of this overlap, but the clinical significance of BCLU (ie, "high-grade") morphology and the relationship between BCLU morphology and MYC abnormalities remains unclear. 
+
+2/In this study, we identified 260 cases of non-Burkitt, diffuse aggressive B-cell lymphomas from SWOG S9704, a phase 3 randomized study of standard immunochemotherapy versus autologous stem cell transplantation. 
+
+3/Of these, 31 
+cases (12%) showed BCLU morphology, and 229 (88%) showed typical DLBCL morphology. Of 198, 27 (14%) were positive for MYC by immunohistochemistry. BCLU morphology was associated with an increased incidence of MYC expression but otherwise was not associated with distinct clinicopathologic features or significantly decreased survival. MYC-positive cases were morphologically and phenotypically heterogenous and were associated with poor progression-free and overall survival in multivariate analysis. 
+
+4/These findings confirm that BCLU does not represent a distinct clinicopathologic entity and demonstrate that BCLU morphology alone does not significantly impact survival compared with typical DLBCL. In contrast, MYC protein expression is a poor prognostic factor that may 
+be associated with either BCLU or DLBCL morphology, and MYC immunohistochemistry is suggested for routine prognostic evaluation 

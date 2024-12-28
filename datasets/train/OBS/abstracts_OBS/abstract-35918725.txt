@@ -1,0 +1,26 @@
+BACKGROUND: In recent decades, it has been possible to observe an increase in 
+Complementary and Alternative Medicine (CAM) usage globally for both disease 
+prevention and health promotion purposes. we aim to estimate the prevalence of 
+CAM use and analyze associated factors in Brazil.
+METHODS: Observational study with data from the 2019 National Health Survey that 
+evaluated a sample of Brazilian adults. The outcome was CAM use, such as 
+acupuncture, homeopathy, medicinal plants and herbal medicines, meditation, and 
+yoga in the last 12 months. A logistic regression model with a 99% confidence 
+interval was used to assess factors associated with CAM use.
+RESULTS: The prevalence of CAM use in 2019 was 5.2% (CI99% = 4.8-5.6%), the most 
+used modalities: medicinal plants and herbal medicines, with a prevalence of 
+3.0% (CI99% = 2.7-3.33) followed by: acupuncture 1.4% (CI99% = 1.3-1.6) 
+homeopathy 0.9% (CI99% = 0.7-1.0), meditation 0.7% (CI99% = 0.6-0.8) and yoga 
+0.4% (CI99% = 0.4-0.5). We observed important geographical differences in CAM 
+use in Brazil, with a higher prevalence in the North Region, 3.7% 
+(CI99% = 2.81-4.75), where herbal medicines were more frequent the in the other 
+regions. After estimating an adjusted model, women, older people, and people 
+with a higher level of education and per capita income were the ones who used 
+all types of CAM the most. The practice of yoga stands out among women 3.6% 
+(CI99% = 2.49-5.28) and among individuals with higher per capita income 7.5% 
+(CI99% = 2.97-18.93); meditation among individuals with higher educational level 
+13.4% (CI99% = 6.41-28.33) and acupuncture for those who declared regular or 
+poor health 1.9% (CI99% = 1.51-2.39).
+CONCLUSIONS: We recommend that the Ministry of Health expand CAM access to 
+Unified Health System users and promote health professionals' conscious and 
+guided use for the Brazilian population.

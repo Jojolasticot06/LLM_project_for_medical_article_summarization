@@ -1,0 +1,12 @@
+Molecular biomarkers monitoring human skeletal muscle fibres and microvasculature following long-term bed rest with and without countermeasures.
+
+1/The cellular mechanisms of human skeletal muscle adaptation to disuse are largely unknown. The aim of this study was to determine the morphological and biochemical changes of the lower limb soleus and vastus lateralis muscles following 60 days of head-down tilt bed rest in women with and without exercise countermeasure using molecular biomarkers monitoring functional cell compartments. 
+
+2/Muscle biopsies were taken before (pre) and after bed rest (post) from a bed rest-only and a bed rest exercise group (n = 8, each). NOS1 and NOS3/PECAM, markers of myofibre 'activity' and capillary density, and MuRF1 (E3 ubiquitin-ligase), a marker of proteolysis, were documented by confocal immunofluorescence and immunoblot analyses. Morphometrical parameters (myofibre cross-sectional area, type I/II distribution) were largely preserved in muscles 
+from the exercise group with a robust trend for type II hypertrophy in vastus lateralis. 
+
+3/In the bed rest-only group, the relative NOS1 immunostaining intensity was decreased at type I and II myofibre membranes, while the bed rest plus exercise group compensated for this loss particularly in soleus. In the microvascular network, NOS3 expression and the capillary-to-fibre ratio were both increased in the exercise group. Elevated MuRF1 immunosignals found in subgroups of atrophic myofibres probably reflected accelerated proteolysis. Immunoblots revealed overexpression of the MuRF1 protein in the soleus of the 
+bed rest-only group (> 35% vs. pre). 
+
+4/We conclude that exercise countermeasure during bed rest affected both NOS/NO signalling and proteolysis in female skeletal muscle. Maintenance of NO signalling mechanisms and normal protein turnover by exercise countermeasure may be crucial steps to attenuate human 
+skeletal muscle atrophy and to maintain cell function following chronic disuse.

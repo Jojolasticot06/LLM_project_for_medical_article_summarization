@@ -1,0 +1,33 @@
+OBJECTIVE: To determine the associations between signal sensitivity, central 
+auditory processing, and dementia and Alzheimer dementia (AD) risk.
+DESIGN, SETTING, AND PARTICIPANTS: This follow-up observational study of a 
+sample from the prospective Adult Changes in Thought study of dementia risk was 
+conducted at Kaiser Permanente Washington, a western Washington health care 
+delivery system, and included 280 volunteer participants without dementia who 
+were evaluated from October 2003 to February 2006 with follow-up through 
+September 2018. Analyses began in 2019 and continued through 2021.
+EXPOSURES: Hearing tests included pure tone signal audibility, a monaural word 
+recognition test, and 2 dichotic tests: the Dichotic Sentence Identification 
+(DSI) test and the Dichotic Digits test (DDT).
+MAIN OUTCOMES AND MEASURES: Cognition was assessed biennially with the Cognitive 
+Abilities Screening Instrument (range, 1-100; higher scores are better), and 
+scores of less than 86 prompted clinical and neuropsychological evaluations. All 
+data were reviewed at multidisciplinary consensus conferences, and standardized 
+criteria were used to define incident cases of dementia and probable or possible 
+AD. Cox proportional hazard models were used to determine associations with 
+hearing test performance.
+RESULTS: A total of 280 participants (177 women [63%]; mean [SD] age, 79.5 [5.2] 
+years). As of September 2018, there were 2196 person-years of follow-up (mean, 
+7.8 years) and 89 incident cases of dementia (66 not previously analyzed), of 
+which 84 (94.4%) were AD (63 not previously analyzed). Compared with people with 
+DSI scores of more than 80, the dementia adjusted hazard ratio (aHR) for DSI 
+scores of less than 50 was 4.18 (95% CI, 2.37-7.38; P < .001); for a DSI score 
+of 50 to 80, it was 1.82 (95% CI, 1.10-3.04; P = .02). Compared with people with 
+DDT scores of more than 80, the dementia aHR for DDT scores of less than 50 was 
+2.66 (95% CI, 1.31-5.42; P = .01); for a DDT score of 50 to 80, it was 2.40 (95% 
+CI, 1.45-3.98; P = .001). The AD results were similar. Pure tone averages were 
+weakly and insignificantly associated with dementia and AD, and associations 
+were null when controlling for DSI scores.
+CONCLUSIONS AND RELEVANCE: In this cohort study, abnormal central auditory 
+processing as measured by dichotic tests was independently associated with 
+dementia and AD risk.

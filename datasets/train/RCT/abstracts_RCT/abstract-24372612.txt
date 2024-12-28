@@ -1,0 +1,10 @@
+Neopterin is associated with cardiovascular events and all-cause mortality in renal transplant patients.
+
+1/BACKGROUND: Inflammatory markers show significant associations with cardiovascular events and all-cause mortality after kidney transplantation. Neopterin, reflecting interferon-γ-release, may better reflect the 
+proinflammatory state of recipients than less specific markers.
+
+2/METHODS: Kidney transplant recipients in the Assessment of LEscol in Renal Transplant (ALERT) trial were examined and investigated for an association between serum neopterin and subsequent clinical events: graft loss, major cardiovascular events (MACE) and all-cause mortality.
+
+3/RESULTS: After adjustment for established and emerging risk factors neopterin expressed as neopterin-to-creatinine ratio was significantly associated with MACE (p = 0.009) and all-cause mortality (p = 0.002). Endpoints were more frequent with increasing quartiles of neopterin-to-creatinine ratio. The incidence rates of MACE and all-cause mortality were significantly increased in the upper quartiles compared with the first.
+
+4/CONCLUSIONS: This long-term prospective analysis in stable kidney allograft recipients suggests that neopterin is associated with long-term risk of cardiovascular events and all-cause mortality, but not renal outcomes.

@@ -1,0 +1,12 @@
+Ultrasound-Guided Infraclavicular Axillary Vein Versus Internal Jugular Vein Cannulation in Critically Ill Mechanically Ventilated Patients: A Randomized Trial
+
+1/Objectives: This clinical trial aimed to compare the ultrasound-guided in-plane infraclavicular cannulation of the axillary vein (AXV) and the ultrasound-guided out-of-plane cannulation of the internal jugular vein (IJV).
+
+2/Design: A prospective, single-blinded, open label, parallel-group, randomized trial.
+Setting: Two university-affiliated ICUs in Poland (Opole and Lublin).
+Patients: Mechanically ventilated intensive care patients with clinical indications for central venous line placement.
+Interventions: Patients were randomly assigned into two groups: the IJV group ( n = 304) and AXV group ( n = 306). The primary outcome was to compare the IJV group and AXV group through the venipuncture and catheterization success rates. Secondary outcomes were catheter tip malposition and early mechanical complication rates. All catheterizations were performed by advanced residents and consultants in anesthesiology and intensive care.
+
+3/Measurements and main results: The IJV puncture rate was 100%, and the AXV was 99.7% (chi-square, p = 0.19). The catheterization success rate in the IJV group was 98.7% and 96.7% in the AXV group (chi-square, p = 0.11). The catheter tip malposition rate was 9.9% in the IJV group and 10.1% in the AXV group (chi-square, p = 0.67). The early mechanical complication rate in the IJV group was 3% (common carotid artery puncture-4 cases, perivascular hematoma-2 cases, vertebral artery puncture-1 case, pneumothorax-1 case) and 2.6% in the AXV group (axillary artery puncture-4 cases, perivascular hematoma-4 cases) (chi-square, p = 0.79).
+
+4/Conclusions: No difference was found between the real-time ultrasound-guided out-of-plane cannulation of the IJV and the infraclavicular real-time ultrasound-guided in-plane cannulation of the AXV. Both techniques are equally efficient and safe in mechanically ventilated critically ill patients.

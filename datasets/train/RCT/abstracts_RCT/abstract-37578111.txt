@@ -1,0 +1,39 @@
+Dose-tapering trajectories in patients with remitted psychosis undergoing guided 
+antipsychotic reduction to reach minimum effective dose.
+
+1/BACKGROUND: Patients with remitted psychosis wish to reduce antipsychotic doses 
+yet facing increased risks of relapse. Examining dose-tapering processes may 
+provide insights to re-evaluate the risk-to-benefit balance. We aimed to depict 
+and subgroup tapering trajectories, and explore factors associated with 
+different dose-reduction patterns.
+
+2/METHODS: A 2-year open-label randomized prospective comparative trial from 
+August 2017 to September 2022 in Taiwan. Patients with a history of 
+schizophrenia-related psychotic disorders under stable medications and symptoms 
+were eligible, randomizing a proportion to conduct guided dose reduction. We 
+depicted the trajectories of individual patients and named subgroups based on 
+dose-tapering patterns. Predictors of baseline characteristics for designated 
+subgroups were examined by logistic regression analysis; changes in outcomes 
+were compared by paired t-test.
+
+3/RESULTS: Fifty-one patients undergoing guided dose reduction, 18 (35.3%) reduced 
+4 steps consecutively (sequential reducers, SR), 14 (27.5%) reduced 1 to 3 steps 
+(modest reducers, MR), 3 (5.9%) re-escalated to previous level (alert reducers, 
+AR), 7 (13.7%) returned to baseline level (baseline returners, BR), 6 (11.7%) 
+relapsed (failed reducers, FR) and 3 (5.9%) withdrew without relapse (early 
+exits, EE). Patients with a history of relapse assumed a conservative 
+dose-tapering pace; only the SR subgroup exhibited significant improvements in 
+functioning and quality of life while failing to identify variables for 
+predicting who would become SR or FR.
+
+4/CONCLUSIONS: Guided dose reduction comprises dynamic processes with differences 
+between individual trajectories. The proposed naming of dose-tapering 
+patterns/subgroups provides a framework depicting patients undergoing 
+dose-tapering. Longer-term observation and more flexible tapering approaches are 
+anticipated to reveal favorable outcomes.
+
+DOI: 10.1192/j.eurpsy.2023.2440
+PMCID: PMC10594210
+PMID: 37578111 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare none.

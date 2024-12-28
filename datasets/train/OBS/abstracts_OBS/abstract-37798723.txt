@@ -1,0 +1,30 @@
+BACKGROUND: Chronic obstructive pulmonary disease (COPD) is a lung disease 
+characterised by airflow-limiting inflammation and mucus production. Acute 
+exacerbations are a major cause of COPD-related morbidity and mortality and are 
+mostly associated with bacterial or viral infections. A vaccine targeting 
+non-typeable Haemophilus influenzae (NTHi) and Moraxella catarrhalis (Mcat), the 
+main bacteria associated with exacerbations, was tested in a Phase 2 trial. We 
+assessed "ex-vivo" expression of vaccine candidate and housekeeping genes pd, 
+pe, pilA, gapA, ompP6 of NTHi, and uspA2, parE, polA of Mcat in sputum samples 
+of COPD patients and determined whether expression of the vaccine candidate 
+genes pd, pe, pilA (NTHi) and uspA2 (Mcat) differed between stable and 
+exacerbation samples.
+METHODS: A single-centre, prospective, observational cohort study was conducted 
+where 123 COPD patients were seen on enrolment, followed monthly for 2 years, 
+and reviewed after onset of acute exacerbations. We selected 69 patients with 
+sputum samples positive for NTHi or Mcat by PCR during at least one stable and 
+one exacerbation visit. mRNA was isolated from the sputum, and expression of 
+NTHi and Mcat genes was analysed with RT-PCR. Statistical analyses compared mRNA 
+concentrations between stable and exacerbation samples and in relationship to 
+COPD severity and exacerbation frequency.
+RESULTS: The vaccine candidate genes were variably expressed in sputum samples, 
+suggesting they are expressed in the lung. Absolute and relative expression of 
+all NTHi vaccine candidate genes and Mcat uspA2 were similar between 
+exacerbation and stable samples. Expression of pd and pilA was slightly 
+associated with the number of exacerbations in the year before enrolment, and 
+uspA2 with the disease severity status at enrolment.
+CONCLUSIONS: The NTHi-Mcat vaccine candidate genes were expressed in sputum 
+samples, and each gene had a specific level of expression. No statistically 
+significant differences in gene expression were detectable between stable and 
+exacerbation samples. However, the history of COPD exacerbations was slightly 
+associated with the expression of pd, pilA and uspA2.

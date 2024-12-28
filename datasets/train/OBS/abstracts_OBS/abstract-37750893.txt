@@ -1,0 +1,35 @@
+AIMS/HYPOTHESIS: Previous studies have suggested that glucose variability may 
+accelerate atherosclerosis progression in people with type 2 diabetes. Current 
+guidelines recommend assessing glycaemic control using continuous glucose 
+monitoring (CGM), which provides a comprehensive glycaemic profile to supplement 
+HbA1c measurement. However, the association between CGM-derived metrics and 
+atherosclerosis progression is not entirely clear.
+METHODS: This exploratory study used baseline data and data obtained after 104 
+weeks from an ongoing prospective, multicentre, observational study. Six hundred 
+study participants with type 2 diabetes and no apparent history of symptomatic 
+cardiovascular disease underwent CGM and ultrasonographic atherosclerosis 
+measurements of the carotid arteries, including the intima-media thickness (IMT) 
+and grey-scale median (GSM), at baseline and 104 weeks. Non-invasive ultrasonic 
+tissue characterisation of the carotid artery wall or plaque using the GSM 
+reflects vascular composition. Multivariate regression models were used to 
+analyse the association between CGM-derived indices, mainly time in range (TIR) 
+and CV, and changes in carotid atherosclerosis index values.
+RESULTS: Over the 104-week study period, there were modest increases in mean IMT 
+(from 0.759±0.153 to 0.773±0.152 mm, p<0.001) and thickened-lesion GSM (from 
+43.5±19.5 to 53.9±23.5 units, p<0.001), but no significant changes in common 
+carotid artery maximum-IMT (from 1.109±0.442 to 1.116±0.469 mm, p=0.453) or mean 
+GSM (from 48.7±19.3 to 49.8±20.8 units, p=0.092). In a linear regression model 
+with adjustment for possible atherosclerotic risk factors, including HbA1c, TIR 
+and CV at baseline were significantly associated with the annual change in mean 
+GSM (regression coefficient per 10% increase in TIR 0.52; 95% CI 0.06, 0.98; 
+Hochberg-adjusted p value 0.038; regression coefficient per 1% increase in CV 
+-0.12; 95% CI -0.22, -0.02; Hochberg-adjusted p value 0.038). TIR and CV at 
+baseline were also significantly associated with the annual change in 
+thickened-lesion GSM (regression coefficient per 10% increase in TIR 0.95; 95% 
+CI 0.12, 1.79; Hochberg-adjusted p value 0.038; regression coefficient per 1% 
+increase in CV -0.19; 95% CI -0.36, -0.01; Hochberg-adjusted p value 0.038). 
+Participants who achieved target CGM-derived metrics at baseline, as proposed by 
+an international consensus, showed significant annual changes in mean GSM 
+compared with those who did not (0.94±6.88 vs -0.21±6.19 units/year, p=0.007).
+CONCLUSIONS/INTERPRETATION: TIR and CV were significantly associated with 
+changes in the tissue characteristics of the carotid artery wall.

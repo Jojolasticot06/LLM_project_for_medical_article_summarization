@@ -1,0 +1,74 @@
+Balloon occlusion versus wedged hepatic venography using iodinated contrast for targeting the portal vein during TIPS TIPS is an effective treatment for the management of portal hypertension and its complications [1]. The phase of the procedure that entails the highest risk is puncturing the portal vein through the parenchyma [2]. Hepatic laceration, lesions of the hepatic artery or intrahepatic puncture of the hepatic vein can cause profuse intraperitoneal bleeding. The main challenge is to target the portal vein correctly, thereby reducing the number of attempted punctures. Many portal venography (PV) techniques have been proposed [3], wedged catheter PV is a simple technique, commonly used technique in the large series [4] because it is simple and fast to perform. However, its limitations are on one hand that retrograde opacification of the portal vein is sometimes insufficient [5], [6] to target portal puncture. Although rare, the risk bleeding can potentially be serious. Intrahepatic hematoma and profuse intraperitoneal bleeding is described when the contrast medium, injected under pressure, causes hepatic laceration and effraction of the parenchyma [7], [8], [9].
+
+The goal of this study is to assess the contribution of an occlusion balloon, placed in the right hepatic vein when performing PV with an iodinated contrast medium. We studied the impact of this technique on the accuracy of the result in terms of locating the portal vein, procedure time and the risk of hemorrhagic complications versus the standard wedged catheter technique.
+
+Material and methods
+Study population
+Fifty-nine patients were prospectively included in the study between 01/11/2011 to 03/04/2013 after signing an informed consent form: the study rationale was approved by the local review board (Table 1). All patients referred for TIPS placement were included; those who presented with portal thrombosis or iodine allergy were excluded. The type of portal venography, using a wedged catheter (group 1) or with a hepatic balloon occlusion (group 2) was randomly allocated by draw.Procedures
+All procedures were performed under general anesthesia the digital angiography table (Innova 3100, General Electric, Milwaukee, USA) had the following characteristics: 30 cm × 30 cm flat panel detector, 4 fields of view: 30, 20, 16 et 12 cm, imaging acquisition rate (fluoroscopy: 15 or 30 i/s, graphy: 2.5, 5 or 7.5 i/s). Percutaneous access was obtained by puncturing the right internal jugular vein under ultrasound guidance to allow placement of a 10F haemostatic introducer (Terumo, Tokyo, Japan). The right hepatic vein was catheterized using a 4 or 5F catheter with a terminal hole (cobra, Terumo, Tokyo, Japan) and a 0.035-inch guide wire (Terumo, Tokyo, Japan). The catheter was inserted as distally as possible into the right hepatic vein.
+
+In group 1: the cobra catheter was positioned in an occlusive manner distally in the right hepatic vein to obtain a complete wedge position. The hepatic venography and portal venography were obtained by injecting 10 cc of iodinated contrast medium (iodixanol [Visipaque 320]; Guerbet, Villepinte, France) following by 10 cc of physiologic serum using a 3 way stop cook in the cobra catheter.
+
+In group 2: once we had catheterized the right hepatic vein, a stiff guide wire (Amplatz, Boston scientific, Natick, MA, USA) was used to withdraw the cobra and insert a 6F, coaxial, 8 mm balloon (Mustang, Boston scientific, Natick, MA, USA). The balloon was then positioned in the middle portion of the right hepatic vein. The balloon was inflated at a low pressure (3–4 ATM) just to ensure impervious vascular occlusion and the guide was withdrawn. The complete occlusion of the hepatic vein was checked using contrast media injection in the coaxial lumen of the balloon. If incomplete occlusion was detected the balloon was deflated and inserted deeper in the vein. Balloon occlusion hepatic venography was then obtained by manual injection of 10 cc of iodinated contrast medium (iodixanol [Visipaque 320], Guerbet, Villepinte, France) followed by 10 cc of physiologic serum using a 3-way stop cook in the coaxial lumen of the balloon.
+
+For both group, the last indirect portogram obtained was then used as a roadmap to guide the intrahepatic puncture from the right hepatic vein into the portal venous system. When a catheter was brought into the main portal vein, hand-injected direct portography with 10 mL of iodinated contrast medium was performed. In all procedures, this amount of contrast medium was enough to obtain adequate opacification of the portal venous system, and subsequently this technique could be considered the gold standard for portal vein opacification.
+
+Data analysis
+The 5 points scale following score was used to compare the quality of the retrograde opacification of the portal venous system (Fig. 1):
+•
+score 0: no opacification of the portal vessels;
+
+•
+score 1: opacification of the right peripheral portal branch vessels;
+
+•
+score 2: opacification of the right portal branch;
+
+•
+score 3: opacification of the portal bifurcation;
+
+•
+score 4: opacification of main portal vein.The retrograde portogram was defined as satisfactory if at least the main right portal branch vein was opaque (scores = 2).
+
+The procedure time to succeed in puncturing the portal vein was recorded for each group.
+
+Any complications of the PV procedures were also recorded: intrahepatic hematomas and intraperitoneal bleeding.
+
+Statistical analysis
+Categorical data were presented as proportions; quantitative data was given as mean values ± standard deviations. The two groups of patients were compared using Chi2 tests or Fisher's exact tests for the categorical variables or non-parametric tests (Mann-Whitney) for ordinal or continuous variables. Spearman's non-parametric correlation coefficient was calculated to assess the relationship between the “quality of portogram” score and procedure time we calculated Spearman's non-parametric correlation coefficient and for all the (bilateral) tests a P value of significance below 0.05 was considered as statistically significant.
+
+Results
+All the procedures were successfully completed, although one patient was excluded due to a old occlusion of the portal vein. A total of 30 retrograde wedge catheters venography (group 1) and 28 balloon occlusion hepatic venography (group 2) were performed with an iodinated contrast medium.
+
+Quality assessment of the indirect retrograde portography
+The right portal branch vein was visualized in a significantly higher number of patients with balloon hepatic venography (group 2) versus wedged catheter PV (group 1) (71.3% [20/28] versus 13.3% [4/30] respectively; [P = 0.002]) (Table 2 and Fig. 2). The quality score for the portogram was significantly higher for balloon hepatic venography (2.21) versus wedged catheter (2.21 versus 1.07, [P = 0.002]).
+
+The mean time required to successfully puncture the portal vein was significantly shorter when the right branch vein was visualized than when it was not (21 min versus 33.5 min: [P = 0.0046]).
+
+Analysis of complications
+One case of intrahepatic hematoma (3.3%) and 4 cases of intraperitoneal hemorrhages (13.3%) were recorded secondary to wedged hepatic venography (Fig. 3). No complications were recorded for balloon hepatic venography (P = 0.053).
+
+Three patients were treated by micro coils embolization to stop the bleeding and 1 was given no specific treatment. The clinical outcome was satisfactory in all four cases.
+
+Discussion
+The main findings of that paper were:
+
+Increase quality of retrograde portography and targeting of the portal vein
+Wedged catheter hepatic venography is a simple, fast technique that is commonly used in current practice. However, one of its limitations is that the portal vein is sometimes insufficiently opaque [5], [6]). The quality of the result obtained depends on several factors. It improves when the portosystemic gradient is high, with strong portal outflow flow, gastric varices or a direct, spontaneous, spleno-renal shunt [10]. CO2 can be used as a contrast medium to improve the quality of the portogram [11]. Its viscosity is low (400 times lower than a liquid agent), thereby increasing its diffusion capacity to disseminate in the sinusoid capillaries. It is thus more effective to target the portal vein [5], [6], [11], but CO2 is not commonly used because its low density and compressibility require special injectors and it is difficult to package.
+
+In the literature, hepatic occlusion balloons are mainly used with C02 [12], [13]. In these reports, retrograde opacification of the portal vein is better than with wedged hepatic venography. The advantage in favor of balloon occlusion hepatic venography is probably due to the fact that there is no reflux of the contrast medium into the suprahepatic vein. In addition, the injection is positioned more proximally, thereby increasing the volume of the liver that it encompasses and increasing the number of capillaries recruited. The occlusion balloon is used again in the second stage to dilate the intrahepatic pathway during the creation of the TIPS, generating no extra cost for the procedure.
+
+Many other PV techniques have been described: trans-mesenteric or splenic portal arteriography, percutaneous splenoportal venography [14], [15], catheterization of the recanalized umbilical vein [16], [17], direct PV by percutaneous transhepatic approach [18], [19] or by using US guidance [20], [21]. They offer the advantage of optimizing portal cartography but carry an inherent risk of additional complications and increase the length and complexity of the procedure. They are also often difficult to use when the TIPS is performed in an emergency setting.
+
+Avoid complications of wedged hepatic venography
+Wedged catheter PV is a safe procedure. The complications are rare (0.6–6.5%) but can be potentially serious [5], [7], [8], [9], [10], [11], [12]. The first complications reported, date back to the seventies when retrograde portal PV was used as a means of diagnosing chronic hepatic disorders. Semba [7] was the first to describe fatal complications. He described 3 lethal intraperitoneal hemorrhage caused by effraction of the parenchyma. Theuerkauf et al. [8] described one case with a fatal outcome. His patient had delayed hemorrhagic shock (onset 4 hours after the procedure). We suggest that the use of an occlusion balloon potentially decreases the risk of complications for several reasons [6], [12], [13]. It keeps the end of the catheter away from the parenchyma by positioning it more proximally in the suprahepatic portion of the vein, thereby reducing the risk of direct traumatic injury by laceration.
+
+As manual flow rate injection of 10 cc of iodinated is comparable in the two venographic techniques, the sinusoid fluid flow speed can be modelised in two models with different cross sections using continuum fluid mechanics equation (s1*v1 = s2*v2; where s is the vessel diameter and v the fluid flow speed). Therefore using cobra wedged occlusion compared with a 8 mm balloon occlusion rises fluid flow speed within sinusoid by a factor 3.6 with 5F (1.67 mm) and 4.5 with the use 4F (1.33 mm) cobra catheter. Using Bernoulli's principle (dynamic pressure = ½*?*v2; where ? is the density of the fluid and v the fluid flow speed), the dynamic pressure in sinusoid during venography rises in a range of 12 to 20 times when using a 5F and 4F respectively compared to the 8 mm balloon occlusion. This differential dynamic pressure within the sinusoid could thereby explain the higher hemorrhagic complications rate during wedged venography.
+
+Two comparative studies [12], [13] suggest a decrease in the risk of effraction of the parenchyma and intraperitoneal hemorrhage with an occlusion balloon and CO2 versus the wedged catheter technique. No serious complications are reported for PV with an occlusion balloon. Also, our 4 patients who had complications with peritoneal hemorrhage all presented with ascites like the cases in the literature, the use of an occlusion balloon is therefore particularly useful in such patients.
+
+Limitations of this study
+The number of patients in the two groups is small, which means that it is difficult to show differences that are really statistically significant for the risk of complications (P = 0.053). Our serious complication rate (7.5%) is higher than in the literature, but there are very few studies specifically on this subject in the literature and the complications are probably under-reported.
+
+Conclusion
+Compared to standard wedged hepatic venography balloon occlusion hepatic venography is more accurate to target the portal vein and decreases procedure time. In this study, balloon occlusion hepatic venography was safer with fewer hemorrhagic side effects.

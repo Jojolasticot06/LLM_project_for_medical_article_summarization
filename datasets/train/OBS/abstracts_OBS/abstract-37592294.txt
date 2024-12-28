@@ -1,0 +1,26 @@
+BACKGROUND: All health overuse implies an unnecessary risk of patients suffering 
+adverse events (AEs). However, this hypothesis has not been corroborated by 
+direct estimates for inappropriate hospital admission (IHA). The objectives of 
+the study were the following: (1) to analyze the association between IHA and the 
+development of subsequent AEs; (2) to explore the distinct clinical and economic 
+implications of AEs subsequent IHA compared to appropriate admissions.
+METHODS: An observational cross-sectional study was conducted on hospitalized 
+patients in May 2019 in a high-complexity hospital in Madrid, Spain. The 
+Appropriateness Evaluation Protocol was used to measure IHA, and the 
+methodologies of the Harvard Medical Practice Study and the European Point 
+Prevalence Survey of Healthcare-associated Infections were used to detect and 
+characterize AEs. The association between IHA and the subsequent.
+RESULTS: A total of 558 patients in the hospital ward were studied. IHA 
+increased the risk of subsequent occurrence of AEs (OR [95% CI]: 3.54 [1.87 to 
+6.69], versus appropriate) and doubled the mean AEs per patient (coefficient 
+[95% CI]: 0.19 [0.08 to 0.30] increase, versus appropriate) after adjusting for 
+confounders. IHA was a predictive variable of subsequent AEs and the number of 
+AEs per patient. AEs developed after IHA were associated with scheduled 
+admissions (78.9% of AEs, versus 27.9% after appropriate admissions; p < 0.001). 
+Compared with AEs developed after appropriate admissions, AEs after IHA added 
+2.4 additional days of stay in the intensive care unit and incurred an extra 
+cost of €166,324.9 for the studied sample.
+CONCLUSIONS: Patients with IHA have a higher risk of subsequent occurrence of 
+AE. Due to the multifactorial nature of AEs, IHA is a possible contributing 
+factor. AEs developed after IHA are associated with scheduled admissions, 
+prolonged ICU stays, and resulted in significant cost overruns.

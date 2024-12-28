@@ -1,0 +1,29 @@
+BACKGROUND: The Emergency Medical Service (EMS) in Germany is increasingly 
+challenged by strongly rising demand. Speculations about a greater utilisation 
+for minor cases have led to intensive media coverage, but empirical evidence is 
+lacking. We investigated the development of low-acuity calls from 2018 to 2021 
+in the federal state of Berlin and its correlations with sociodemographic 
+characteristics.
+METHODS: We analysed over 1.5 million call documentations including medical 
+dispatch codes, age, location and time using descriptive and inferential 
+statistics and multivariate binary logistic regression. We defined a code list 
+to classify low-acuity calls and merged the dataset with sociodemographic 
+indicators and data on population density.
+RESULTS: The number of emergency calls (phone number 112 in Germany) increased 
+by 9.1% from 2018 to 2021; however, the proportion of low-acuity calls did not 
+increase. The regression model shows higher odds of low-acuity for young to 
+medium age groups (especially for age 0-9, OR 1.50 [95% CI 1.45-1.55]; age 
+10-19, OR 1.77 [95% CI 1.71-1.83]; age 20-29, OR 1.64 [95% CI 1.59-1.68] and age 
+30-39, OR 1.40 [95% CI 1.37-1.44]; p < 0.001, reference group 80-89) and for 
+females (OR 1.12 [95% CI 1.1-1.13], p < 0.001). Odds were slightly higher for 
+calls from a neighbourhood with lower social status (OR 1.01 per index unit 
+increase [95% CI 1.0-1.01], p < 0.05) and at the weekend (OR 1.02 [95% CI 
+1.0-1.04, p < 0.05]). No significant association of the call volume with 
+population density was detected.
+CONCLUSIONS: This analysis provides valuable new insights into pre-hospital 
+emergency care. Low-acuity calls were not the primary driver of increased EMS 
+utilisation in Berlin. Younger age is the strongest predictor for low-acuity 
+calls in the model. The association with female gender is significant, while 
+socially deprived neighbourhoods play a minor role. No statistically significant 
+differences in call volume between densely and less densely populated regions 
+were detected. The results can inform the EMS in future resource planning.

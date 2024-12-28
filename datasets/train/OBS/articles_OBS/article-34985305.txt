@@ -1,0 +1,267 @@
+Introduction
+An estimated 
+ people per year die worldwide due to household air pollution from cookstove smoke, mostly in low- and middle-income countries (WHO 2018). Of these deaths, 27% are due to pneumonia, a type of acute lower respiratory infection (ALRI), and nearly half of all pneumonia-related deaths among children under 5 y old are attributable to inhaled household particulate matter (WHO 2018). In Nepal, where traditional woodburning stoves are widely used, the rate of child mortality attributed to lower respiratory infections is higher than the global mortality rate (129 per 100,000 deaths in Nepal vs. 119 per 100,000 deaths globally) (Institute for Health Metrics and Evaluation 2019).
+To reduce ALRI-related deaths from cookstove smoke, an estimated 400,000 domestic biodigesters and biogas cookstoves have been constructed to replace traditional woodburning cookstoves in Nepal. The Government of Nepal plans to install an additional 200,000 domestic biogas digesters, 600 institutional biogas plants, and 500 commercial biogas plants in urban areas between 2019 and 2024 (M. Adhikari, Executive Director, Alternative Energy Promotion Center, Government of Nepal, personal communication). Though replacing woodburning stoves with biogas stoves may reduce and prevent ALRIs, operating the biodigesters may increase exposures to fecal pathogens responsible for diarrheal diseases. In Nepal and globally, diarrhea remains the second leading cause of mortality (behind ALRI) among children under 5 y old, excluding neonatal disorders in the first 28 d of life (WHO 2017; Institute for Health Metrics and Evaluation 2019). We believe that exposure to diarrheal pathogens, associated with handling the fecal waste inputs and outputs, may be an unintended health risk associated with biogas cookstove interventions.
+The use and maintenance of biodigesters involves handling of human and animal waste for the production of methane. Although most human waste is piped directly into biodigesters from a nearby pit latrine, animal waste is collected and added into the biodigester using a separate opening and mixed in mechanically, which facilitates anaerobic digestion (Ghanimeh et al. 2012). In rural Nepal, the agitators used to stir animal waste introduced via an inlet (Figure 1) frequently break after a few months of use, requiring household members who maintain the biodigester to mix slurry—a combination of dung, water, and urine—by hand. Female caregivers who stay at home throughout the day are most likely to operate biodigesters, typically without personal protective equipment, and may be directly exposed to fecal pathogens. Caregivers may expose their children to fecal contamination through direct contact from contaminated hands or indirectly through ingesting contaminated household drinking water (Fuhrmeister et al. 2020a). Fecal pathogens are also carried into the household on feet or shoes, contaminating the floor in spaces where children crawl and play (Chambers et al. 2009). Young children who exhibit frequent hand-to-mouth behaviors and soil consumption are especially at risk of exposure to fecal pathogens (Ngure et al. 2013).
+
+Figure 1. Animal dung is collected, combined with water and urine, and mixed into biodigesters via an inlet with an agitator, shown here after construction (left) and after being used (right).
+OPEN IN VIEWER
+Exposure to both human and animal fecal contamination in the household environment can increase the risk of diarrhea among young children (Odagiri et al. 2016). Girls and children of a higher birth order are typically at greater risk of severe disease outcomes due to increased health care–seeking behavior for male children and firstborns (D’Souza 1997; El Gilany and Hammad 2005; Ismail et al. 2019). Irrigating household crops with biodigester effluent may also increase the risk of diarrhea due to exposure to fecal pathogens in soil and dirt near the household in which children may crawl and play (Le-Thi et al. 2017). These exposures could result in repeated enteric infections causing prolonged inflammation and environmental enteric dysfunction, which may lead to malnutrition, stunted growth, oral vaccine failure, and even cognitive impairments (Kosek and MAL-ED Network Investigators 2017; Naylor et al. 2015; Etheredge et al. 2018).
+Households in Nepal frequently own multiple stoves and change stove use depending on the weather, season, event, or food type (Rhodes et al. 2014). Despite owning biogas cookstoves, households may alternate between using traditional woodburning stoves and biogas. This alternating could introduce a combination of different exposures that could affect both ALRI and diarrhea incidence. ALRI and diarrhea share some common risk factors, such as vitamin A deficiency, food insecurity, and access to improved sanitation, though unmeasured confounding due to common causes of such risk factors (i.e., socioeconomic status) likely plays a role (Fenn et al. 2005; Ullah et al. 2019). Limited evidence suggests diarrhea may increase the risk of ALRI due to malnutrition and immunosuppression (Schmidt et al. 2009). We hypothesize that the opposite may also be true: ALRI may increase the risk of diarrhea due to similar mechanisms of immunosuppression. Identifying the role of ALRI in the relationship between biogas cookstoves and diarrhea is essential to improve intervention implementation and uptake, prevent potential adverse health outcomes, and maximize health benefits of biogas cookstoves.
+The primary aim of this analysis was to estimate the effect of household biodigester use on the risk of diarrhea among children under 5 y old in Nepal. Secondarily, we aimed to assess whether recent ALRI, season, baseline demographics, and household characteristics modify the effect of biogas cookstove use on diarrhea. To our knowledge, this research constitutes the first epidemiological study to estimate the effect of biogas cookstove use on child diarrhea.
+Methods
+Study Design and Participants
+The Partnerships for Enhanced Engagement in Research (PEER) Health study is a prospective cohort study that followed 550 children under 36 months old in the Kavrepalanchok District of Nepal for 2 y from January 2015 to January 2017. Households were randomly recruited from six Village Development Committees (Methinkot, Patalekhet, Saradabatase, Panchkhal, Mahadevstahn, and Jyamdi) in the Kavrepalanchok District. One child 
+ of age was enrolled per household. Informed consent was obtained from the head of the households or participants’ mothers before the start of their enrollment. This study was approved by the Human Subjects Committee at Nepal Health Research Council, Government of Nepal.
+Biogas System Intervention
+Prior to the beginning of study recruitment, various development agencies, including the federal government, were promoting and helping to construct biogas systems (comprising a biogas digester with inlet for animal waste, a pit latrine, and a biogas cookstove) for households throughout the Kavrepalanchok District. The poorest households were prioritized to receive the biogas systems first. Therefore, some households had already received the biogas intervention prior to the start of the study, some households received the intervention at different times throughout the study, and some households did not receive the intervention at any point during the study period.
+Data Collection
+Trained Female Community Health Volunteers (FCHVs) made a total of 107 visits to enrolled households in the Kavrepalanchok District between 12 January 2015 and 10 January 2017. On 25 April 2015, there was a 7.8-magnitude earthquake with the epicenter located approximately 
+ (51 mi) northwest of Kathmandu, followed by a 7.3-magnitude earthquake on 12 May 2015 centered about 
+ (47 mi) east–northeast of Kathmandu; central Kavrepalanchok is roughly 
+ northwest of Kathmandu. Data collection was halted for about 5 wk after the initial 
+ earthquake and resumed on 2 June 2015. Household visits included two baseline data collection visits before and after the 2015 earthquake, two health awareness visits after the earthquake, and 104 weekly visits before and after the earthquake to assess cookstove exposures, health outcomes, and additional covariates. Exposure and outcome data for each day in the prior week were collected during weekly household visits via surveys administered by FCHVs to caregivers of children enrolled in the study.
+Outcome Assessment
+Diarrhea was measured via a caregiver report each week using the World Health Organization definition of three or more loose or watery stools per day (WHO 2020). Caregivers were asked whether their child had diarrhea on each day of the past week. Incident diarrhea was defined as a single diarrhea event when no diarrhea was observed in at least 6 d prior to the day of onset. This 6-d buffer period ensures that diarrhea events represent distinct episodes of diarrhea. Each child’s first 6 d of follow-up time was defined as “at risk” unless they reported having incident diarrhea on one of those days.
+Exposure Assessment
+Exposure to fecal contamination due to the use of household biodigesters was estimated using a proxy exposure variable, biogas cookstove use. In weekly surveys, caregivers were asked which stove type(s) they used for each day of the past week. Biogas exposure was defined as whether or not a biogas cookstove was ever used by the household in the last 3 d (including the day of outcome assessment). Households in the study site typically stir their biodigester every day or every other day leading up to and including the day the biogas stove is used. A 3-d window of exposure to biogas stove use is, therefore, an approximation of a 3- to 5-d window of exposure to biodigester use, which is representative of the incubation period of most bacterial and viral enteric pathogens (Arnold et al. 2017). Under the assumption that biogas stove use is an accurate indicator of recent biodigester use or maintenance, we hypothesize that biogas stove use can be used to represent an increased potential for fecal contamination in and around the household environment.
+Covariates
+Baseline measurements were collected for biogas cookstove use, child health outcomes, and additional covariates, including child and caregiver demographics, child vaccination status, household size, home structure (e.g., roof type), food security, breastfeeding, drinking water source and treatment, and improved sanitation. Because many homes were damaged during the earthquake, we used roof type prior to the earthquake as a proxy indicator for household wealth. All other baseline covariates included in this analysis were collected after the earthquake. Time-varying covariates collected during weekly household visits including season, recent ALRI, and previous risk of diarrhea were also included in this analysis. Study physicians classified ALRI according to standard World Health Organization criteria: ALRI was defined as having cough or breathing difficulty combined with fast breathing (i.e., 
+ for children 2–11 months of age or 
+ for children 
+ of age) (WHO 2005). Recent ALRI was defined as having prevalent ALRI for at least 1 d in the past 14 d, based on literature on incubation periods of respiratory illnesses (1–14 d) (Lessler et al. 2009). Previous diarrhea risk was calculated by dividing the cumulative total days of reported diarrhea by the cumulative total observations on each day for an individual.
+Statistical Analysis
+We limited our analysis to baseline data and daily measurements collected after the 25 April 2015 earthquake. A complete case analysis was performed on all children with postearthquake baseline data; where data on roof type (proxy for wealth) was missing for one child, we imputed this observation using the variable’s mode. Joint distributions of exposures and covariates were examined for potential violations of positivity in practice—insufficient natural experimentation of the main exposure (biogas) within strata defined by covariates. Given anticipated risk of positivity violations, all variables were recoded as binary except for previous risk of diarrhea, which was left continuous-valued. We define the observation at time 
+ for a single subject to be 
+, where 
+ are the covariates measured at time 
+, assumed to occur before 
+, the exposure at time 
+, and 
+ is the outcome which follows exposure. We note that 
+ can contain both covariates measured at time 
+ and also summaries of the patient history (that is functions of 
+, 
+, …,
+) measured in the past. Thus, we can define the set of nonparametric structural equation models for a single time 
+ as:
+where the U are exogenous errors. As mentioned above, 
+ includes measures of the history of the patient up to time 
+, including both baseline and time-varying covariates (e.g., prior diarrhea risk, 14-d ALRI prevalence, season); 
+ is the exposure status on day 
+ given 
+; and 
+ is the outcome status on day 
+ following the covariates, 
+ and exposure, 
+.
+To estimate the effect of biogas stove use on diarrhea, we constructed a Directed Acyclic Graph and identified a set of minimally sufficient covariates to adjust for to block confounding pathways between the exposure and outcome (Supplemental Materials, Figure S1). Selected covariates were defined a priori as follows: primary stove at baseline (woodburning/other, biogas), child sex (female, male), child age (
+, 
+), birth order (firstborn, not firstborn), exclusive breastfeeding at 
+ (yes, no), proof of child vaccination (yes, no), roof type/wealth (corrugated sheet, other), household sanitation (improved, none/open defecation), water treatment (yes, no), food insecure (yes, no), season (dry, wet), recent 14-d ALRI prevalence (yes, no), and previous risk of diarrhea (continuous). Food insecurity was estimated by conducting a principal component analysis on three food security variables that capture if the child skips meals, if the caregiver cuts child’s food portion size, and whether the child is hungry (Hutson et al. 2014). Children with principal component scores below the median were categorized as “food insecure.” We also adjusted for previous diarrhea risk to control for chronic diarrhea that may be a strong predictor of incident diarrhea, improving our ability to isolate the effect of biogas exposure on incident diarrhea. Chronic diarrhea may also impact biogas stove use if caregivers whose children have chronic diarrhea alter cooking practices or reduce use of biodigesters. This aspect also supports adjusting for previous diarrhea risk, because it could confound the relationship between biogas exposure and incident diarrhea.
+We used univariate log-linear regression models to calculate unadjusted associations between each covariate and incident diarrhea, accounting for repeated measurements of individuals with generalized estimating equations to produce robust standard errors (Zeger et al. 1988). We also used machine learning to fit the data-generating models and used these to estimate the causal relative risk (RR). We used ensemble machine learning (van der Laan et al. 2007), pooling across the repeated measures to fit the outcome regression models. We fit a combination of simple parametric models and very flexible machine learning algorithms and used nonnegative least squares in the meta-learning step to construct the final ensemble (Table S1). Super Learner relies on internal cross-validation to construct the ensemble, and we structured this cross-validation so that all observation for a subject (across all times 
+) were placed in the same validation sample. We conducted a variable importance analysis to compare the relative importance of all variables in Super Learner’s ability to predict the outcome (Table S2; Figure S2). To estimate the impact of biogas on diarrhea based on the Super Learner fit, we used robust cross-validated target maximum likelihood estimation (CV-TMLE) and report it as the adjusted RR (i.e., causal RR) (Schuler and Rose 2017; van der Laan and Rubin 2006; Coyle et al. 2020, Zheng and van der Laan 2011). Conservative estimates of standard error, robust to repeated measures, were based on calculations accounting for the effective sample size, that is, only the unique number of subjects.
+Effect Measure Modification
+To assess effect measure modification, we used the aforementioned approach, which combines ensemble machine learning and CV-TMLE, to estimate stratified effect modification parameters for each stratum of all covariates. Effect measure modification for each covariate was evaluated based on differences between stratum-specific RRs indicated by 
+-values of statistical interaction at the 
+ level. Interaction 
+-values were obtained from 
+-scores estimated from the ratio of the difference in stratum-specific log relative risks and the standard error of the difference (Altman and Bland 2003). We report adjusted exposure-specific mean risk (multiplied by 1,000 for an estimate of incident diarrhea events per 1,000 person-days) and adjusted RRs with Wald-type 95% confidence intervals (CI) and 
+-values within each strata and overall. All statistical analyses were conducted using R (version 4.0.2; R Core Team 2020). We used packages geepack for unadjusted RR estimation (Halekoh et al. 2006), and sl3 and tmle3 for assessment of variable importance and estimation of the adjusted causal RRs (Coyle et al. 2020; Coyle and Hejazi 2020; van der Laan et al. 2017).
+Sensitivity Analyses
+As previously stated, some households never received the biodigester intervention during the study period. These households may tend to be wealthier, have higher education levels, and be more likely to practice hygiene behaviors like handwashing in comparison with the poorest households, which are prioritized to receive the intervention. Considering these important differences between those who used biogas throughout the entire study period vs. those who never used biogas, we conducted two sensitivity analyses. First, we excluded children who were never exposed to biogas cookstove use from the estimation of the adjusted causal RR (as described above). Second, we excluded children who were always exposed to biogas cookstove use.
+Results
+Of 550 children initially recruited, three children died during the 25 April 2015 earthquake, and another six children migrated out of the study area. The remaining 541 children had biogas and/or traditional woodburning cookstoves, or agenu chulos, in their home at baseline. We excluded two additional children who were missing all postearthquake baseline data. We analyzed 300,133 daily observations of 539 children between 13 June 2015 and 8 January 2017. The median total follow-up time per child was 570 d (range: 31–576).
+Baseline Characteristics
+Postearthquake baseline characteristics of the 539 households and children included in the final analysis are reported in Table 1. Most households (67%) had a corrugated metal sheet roof, whereas 33% had either natural roofing material (thatched, wood, or bamboo) or a mosaic/tile roof. Eighty percent (80%) of households had an improved pit latrine, and 38% reported treating their water (i.e., by filtration, boiling, or leaving to settle). At baseline, 32% of households reported using biogas cookstoves as their primary stove, 66% reported using woodburning cookstoves, and 2% reported using liquefied petroleum gas (LPG) stoves (included in “woodburning/other” stove type) as their primary stove. Prior to the earthquake, 53% of all households used biogas as their primary stove, 94% of which were damaged in the earthquake (though 48% of those damaged had been repaired at the time of postearthquake baseline data collection) (Supplemental Materials, Table S3).
+Table 1 Baseline demographics and household characteristics collected between 2 June 2015 and 20 July 2015 from enrolled households (
+) located in the semirural Kavrepalanchok district of Nepal.
+ 	 	Primary stove at baseline	 
+Participants [
+ (%)]	Wood burning/other [
+ (%)]	Biogas [
+ (%)]	
+-Value
+Total	539 (100)	365 (100)	174 (100)	—
+Child sex	—	—	—	0.395
+ Female	259 (48)	180 (49)	79 (45)	—
+ Male	280 (52)	185 (51)	95 (55)	—
+Child age	—	—	—	0.604
+ 
+241 (45)	166 (45)	75 (43)	—
+ 
+ y	298 (55)	199 (55)	99 (57)	—
+Birth order	—	—	—	0.285
+ Firstborn	320 (59)	211 (58)	109 (63)	—
+ Not firstborn	219 (41)	154 (42)	65 (37)	—
+Exclusive breastfeeding	—	—	—	0.025
+ Yes	191 (35)	141 (39)	50 (29)	—
+ No	348 (65)	224 (61)	124 (71)	—
+Proof of vaccination	—	—	—	0.485
+ Yes	309 (57)	213 (58)	96 (55)	—
+ No	230 (43)	152 (66)	78 (45)	—
+Roof type (wealth)	—	—	—	0.017
+ Corrugated sheet	360 (67)	255 (70)	104 (60)	—
+ Other	179 (33)	109 (30)	70 (40)	—
+ Missing	1	1	0	—
+Sanitation	—	—	—	0.413
+ Improved sanitation	432 (80)	289 (67)	143 (82)	—
+ Open defecation	107 (20)	76 (71)	31 (18)	—
+Water treatment	—	—	—	0.725
+ Yes	204 (38)	140 (69)	64 (37)	—
+ No	335 (62)	225 (67)	110 (63)	—
+Food insecure	—	—	—	0.429
+ No	281 (52)	186 (66)	95 (55)	—
+ Yes	258 (48)	179 (69)	79 (45)	—
+Note: Chi-square goodness of fit were used to determine 
+-values with significance at the 
+ level. —, no data.
+OPEN IN VIEWER
+Baseline exposure status differed based on exclusive breastfeeding status and roof type (wealth). Children who were not exclusively breastfed were more likely to live in households where the primary stove at baseline was biogas (36%) in comparison with children who were exclusively breastfed (26%) (
+). Children with roof types other than corrugated sheet, indicating lower wealth, were also more likely to live in households where the primary stove was biogas (39%) in comparison with those with corrugated sheet roofs (29%) (
+) (Table 1). Baseline exposure status did not significantly differ between strata of other potential confounders, such as household sanitation or drinking water treatment.
+Stove Use Patterns and Incidence of Diarrhea
+Overall, children were exposed to biogas stove use for 68,962 person-days (23%) (Table 2). Children in households that used woodburning/other cookstoves as their primary stove at baseline were classified as exposed to biogas cookstove use for 31,397 (15%) of 203,268 person-days, whereas children in households that primarily used biogas at baseline were exposed to biogas cookstove use for 37,565 (39%) of 96,865 person-days (Table 2). During the course of this 2-y observational study, 246 (46%) of households included in the analysis never reported using a biogas cookstove. Fifty percent of the 365 households that used a woodburning/other stove as the primary stove at baseline reported using a biogas cookstove at least once. Of the 174 households that used biogas as the primary stove at baseline, 36% did not report using biogas during the study period. Only 17 (3%) children were exposed to biogas stove use for every day they were observed in the study period. A total of 201 (37%) of 539 children had at least one incident diarrhea event during the 2-y study period. The cumulative incidence of diarrhea was 64% (347 incident events among 539 children). The overall crude risk was 1.56 diarrhea events per 1,000 person-days.
+Table 2 Joint distribution of covariates, exposure to biogas cookstove use, and incident diarrhea, and unadjusted associations between covariates and diarrhea among children 
+ old from 539 households in semirural Nepal.
+ 	No biogas exposure	Biogas exposure	 
+Incident diarrhea episodes	No. person-days	Crude risk per 1,000 person-daysa	Incident diarrhea episodes	No. person-days	Crude risk per 1,000 person-daysa	Unadjusted RR (95% CI)
+Overall effect
+ No biogas exposure	235	231,171	1.02	—	—	—	Ref
+ Biogas exposure	—	—	—	112	68,962	1.62	1.74 (1.31, 2.32)
+Primary stove at baseline
+ Woodburning/other	207	171,871	1.20	56	31,397	1.78	Ref
+ Biogas	28	59,300	0.47	56	37,565	1.49	0.67 (0.49, 0.93)
+Child sex
+ Female	132	114,271	1.16	31	29,777	1.04	Ref
+ Male	103	116,900	0.88	81	39,185	2.07	1.03 (0.78, 1.37)
+Child age
+ 
+95	105,509	0.90	38	28,827	1.32	Ref
+ 
+ y	140	125,662	1.11	74	40,135	1.84	1.31 (0.99, 1.73)
+Birth order
+ Firstborn	141	138,049	1.02	58	40,785	1.42	Ref
+ Not firstborn	94	93,122	1.01	54	28,177	1.92	1.10 (0.83, 1.46)
+Exclusive breastfeeding
+ Yes	91	83,506	1.09	53	22,781	2.33	Ref
+ No	144	147,665	0.98	59	46,181	1.28	0.77 (0.59, 1.01)
+Proof of vaccination
+ Yes	139	126,326	1.10	76	43,191	1.76	Ref.
+ No	96	104,845	0.92	36	25,771	1.40	0.79 (0.60, 1.05)
+Roof type (wealth)
+ Corrugated sheet	175	159,416	1.10	72	39,818	1.81	Ref
+ Other	60	71,755	0.84	40	29,144	1.37	0.80 (0.60, 1.07)
+Sanitation
+ Improved sanitation	164	177,496	0.92	102	61,616	1.66	Ref
+ Open defecation	71	53,675	1.32	10	7,346	1.36	1.19 (0.84, 1.69)
+Water treatment
+ Yes	88	87,769	1.00	32	27,921	1.15	Ref
+ No	147	143,402	1.03	80	41,041	1.95	1.20 (0.91, 1.57)
+Food insecure
+ No	96	118,018	0.81	50	37,923	1.32	Ref
+ Yes	139	113,153	1.23	62	31,039	2.00	1.48 (1.12, 1.97)
+Season
+ Dry	36	88,846	0.41	21	26,420	0.79	Ref
+ Wet	199	142,325	1.40	91	42,542	2.14	3.17 (2.47, 4.08)
+Recent ALRI
+ No	233	230,385	1.01	109	68,398	1.59	Ref
+ Yes	2	786	2.54	3	564	5.32	2.32 (0.77, 7.02)
+Note: Unadjusted results were estimated using univariate log-binomial regression models with generalized estimating equations. —, no data; ALRI, acute lower respiratory infection; CI, confidence interval; Ref, reference; RR, relative risk.
+a
+Crude risks were estimated by dividing the number of incident diarrhea events by observed person-days, yielding the crude risk of diarrhea for a child on a given day. Crude risks were then transformed by multiplying by 1,000, thus representing the unadjusted (i.e., crude) estimate of incident diarrhea events per 1,000 person-days.
+OPEN IN VIEWER
+Estimated Effect of Biogas Cookstove Use on Child Diarrhea
+Unadjusted regression results suggest children in households that reported using biogas as the primary stove at baseline had a lower risk of diarrhea in comparison with children in households where the primary stove at baseline was a woodburning or other type of cookstove (RR: 0.67; 95% CI: 0.49, 0.93) (Table 2). However, the unadjusted effect of daily exposure to biogas stove use on the risk of diarrhea was in the opposite direction: The risk of diarrhea among exposed children was 1.74 times the risk of unexposed children (95% CI: 1.31, 2.32) (Table 2). The overall adjusted RR comparing children with biogas exposure to those without was 1.31 (95% CI: 1.00, 1.71) (Table 3). Children with biogas stoves at baseline had an adjusted RR of 1.97 (95% CI: 1.10, 3.52), whereas those with woodburning or other stoves at baseline had an RR of 1.28 (95% CI: 0.92, 1.76), though this difference was only marginally significant (interaction 
+) (Table 3). In sensitivity analyses, the adjusted RRs after excluding children with no biogas exposures (1.40; 95% CI: 1.02, 1.92) and after excluding children who were always exposed to biogas (1.43; 95% CI: 1.07, 1.92) were both slightly higher in comparison with the adjusted RR with all children, but the differences were not statistically significant (Supplemental Materials, Table S4).
+Table 3 Adjusted effect of exposure to biogas cookstove use on incident diarrhea among children 
+ old from 539 households in semirural Nepal, overall and stratified by covariates.
+ 	No biogas exposure	Biogas exposure	Average exposure effect on diarrhea	 
+ 	No. person-days	Adjusted mean riska per 1,000 person-days (95% CI)	No. person-days	Adjusted mean riska per 1,000 person-days (95% CI)	Adjusted RR (95% CI)	
+-Valueb for interaction
+Overall effect	231,171	1.04 ( 0.86, 1.22)	68,962	1.36 (1.02, 1.69)	1.31 (1.00, 1.71)	—
+Primary stove at baseline	—	—	—	—	—	0.1022
+ Woodburning/other	171,871	1.24 (1.03, 1.44)	31,397	1.58 (1.07, 2.08)	1.28 (0.92, 1.76)	—
+ Biogas	59,300	0.54 (0.26, 0.82)	37,565	1.07 (0.70, 1.43)	1.97 (1.10, 3.52)	—
+Child sex	—	—	—	—	—	0.0876
+ Female	114,271	1.16 (0.88, 1.44)	29,777	1.22 (0.51, 1.93)	1.05 (0.58, 1.90)	—
+ Male	116,900	0.97 (0.75, 1.19)	39,185	1.64 (1.11, 2.16)	1.69 (1.19, 2.39)	—
+Child age	—	—	—	—	—	0.2792
+ 
+105,509	0.89 (0.68, 1.10)	28,827	1.25 (0.66, 1.85)	1.41 (0.85, 2.35)	—
+ 
+ years	125,662	1.21 (0.92, 1.50)	40,135	1.38 (0.81, 1.95)	1.14 (0.69, 1.87)	—
+Birth order	—	—	—	—	—	0.4305
+ Firstborn	138,049	1.01 (0.80, 1.23)	40,785	1.19 (0.74, 1.64)	1.18 (0.78, 1.76)	—
+ Not firstborn	93,122	1.21 (
+, 3.14)	28,177	1.66 (1.03, 2.28)	1.37 (0.27, 6.91)	—
+Exclusive breastfeeding	—	—	—	—	—	0.0369
+ Yes	83,506	1.09 (0.80, 1.39)	22,781	2.28 (1.41, 3.16)	2.09 (1.35, 3.25)	—
+ No	147,665	1.19 (0.45, 1.94)	46,181	1.10 (0.56, 1.63)	0.92 (0.42, 2.02)	—
+Proof of vaccination	—	—	—	—	—	0.1035
+ Yes	126,326	1.07 (0.83, 1.31)	43,191	1.70 (1.15, 2.25)	1.59 (1.10, 2.30)	—
+ No	104,845	0.95 (0.71, 1.19)	25,771	0.99 (0.48, 1.49)	1.04 (0.60, 1.79)	—
+Roof type (wealth)	—	—	—	—	—	0.4680
+ Corrugated sheet	159,416	1.13 (0.67, 1.59)	39,818	1.36 (0.95, 1.76)	1.20 (0.75, 1.92)	—
+ Other	71,755	0.88 (0.65, 1.11)	29,144	1.08 (0.72, 1.44)	1.23 (0.84, 1.79)	—
+Sanitation	—	—	—	—	—	0.4096
+ Improved sanitation	177,496	1.12 (
+, 2.61)	61,616	1.35 (0.99, 1.71)	1.21 (0.32, 4.62)	—
+ Open defecation	53,675	1.34 (0.90, 1.78)	7,346	1.93 (0.66, 3.20)	1.44 (0.74, 2.80)	—
+Water treatment	—	—	—	—	—	0.3404
+ Yes	87,769	1.03 (0.80, 1.27)	27,921	0.99 (0.47, 1.51)	0.96 (0.55, 1.68)	—
+ No	143,402	1.24 (
+, 2.91)	41,041	1.62 (1.12, 2.12)	1.31 (0.33, 5.13)	—
+Food insecure	—	—	—	—	—	0.3465
+ No	118,018	0.84 (0.61, 1.07)	37,923	1.13 (0.72, 1.53)	1.34 (0.91, 1.98)	—
+ Yes	113,153	1.23 (0.98, 1.48)	31,039	1.85 (1.16, 2.54)	1.50 (1.00, 2.24)	—
+Season	—	—	—	—	—	0.0335
+ Dry	88,846	0.4 (0.26, 0.54)	26,420	0.81 (0.43, 1.19)	2.03 (1.17, 3.53)	—
+ Wet	142,325	1.43 (1.19, 1.66)	42,542	1.64 (1.25, 2.02)	1.15 (0.89, 1.48)	—
+Recent ALRI	—	—	—	—	—	0.1884
+ No	230,385	1.05 (0.86, 1.23)	68,398	1.31 (0.98, 1.63)	1.25 (0.95, 1.64)	—
+ Yes	786	2.17 (0.44, 3.91)	564	4.53 (1.03, 8.04)	2.09 (0.69, 6.31)	—
+Note: Adjusted results were estimated using cross-validated targeted maximum likelihood estimation, with adjustment for covariates and repeated measures by child. For estimation of the overall effect, we controlled for all covariates included in this table. Stratified effect estimates were adjusted for all covariates other than the stratified covariate, itself. —, no data; ALRI, acute lower respiratory infection; CI, confidence interval; RR, relative risk.
+a
+Exposure-specific mean risks were transformed by multiplying the mean risk of diarrhea for a child on a given day by 1,000, thus representing the mean number of incident diarrhea events per 1,000 person-days.
+b
+bInteraction 
+-values (one-sided) were obtained from z-scores estimated from the ratio of the difference in stratum-specific log relative risks and the standard error of the difference.
+OPEN IN VIEWER
+Effect Measure Modification
+Child sex was not significantly associated with diarrhea in unadjusted regression models (Table 2), though it was an effect modifier of biogas use on child diarrhea in adjusted analyses at the 
+ level. Male children exposed to biogas stove use had 1.69 (95% CI: 1.19, 2.39) times the risk of diarrhea in comparison with unexposed male children, whereas there was no effect of biogas stove use on diarrhea among female children (1.05; 95% CI: 0.58, 1.90; interaction 
+) (Table 3). Children over 2 y old had a higher mean risk of diarrhea in comparison with children 2 y old or younger in unadjusted analyses (1.31; 95% CI: 0.99, 1.73) (Table 2) and in adjusted analyses, regardless of biogas exposure (Table 3, Figure 2). However, child age did not modify the effect of biogas exposure on diarrhea.
+
+Figure 2. Stratified adjusted causal RRs of incident diarrhea among children under 5 y old who were exposed to biogas cookstove use in the last 3 d in comparison with those who were not exposed. Dashed line indicates null effect (where 
+). Points represent stratified adjusted RRs and lines represent 95% CI. Stratified RRs were estimated using cross-validated targeted maximum likelihood estimation, with adjustment for repeated measures by child and for all covariates other than the stratified covariate itself. Corresponding numeric data are reported in Table 3. Note: CI, confidence interval; RR, relative risk.
+OPEN IN VIEWER
+Exclusive breastfeeding and proof of vaccination were not significantly associated with diarrhea in unadjusted analyses but did modify of the effect of biogas exposure on diarrhea. Adjusted results suggest that exclusive breastfeeding was a strong effect modifier (
+). Among those who were exclusively breastfed, children with biogas exposure had 2.09 (95% CI: 1.35, 3.25) times the risk of diarrhea in comparison with those without biogas exposure, whereas there was no effect of biogas use on diarrhea among children who were not exclusively breastfed (0.92; 95% CI: 0.42, 2.02; interaction 
+) (Table 3; Figure 2). Effect modification by vaccination status was borderline significant at the 
+ level. Among those who had proof of vaccination, children with biogas exposure had 1.59 (95% CI: 1.10, 2.30) times the risk of diarrhea in comparison with unexposed children; there was no significant effect among children who were not vaccinated (1.04; 95% CI: 0.60, 1.79; interaction 
+) (Table 3; Figure 2).
+Household water treatment and access to improved sanitation were not significantly associated with diarrhea in unadjusted analyses (Table 2), and there was no evidence that these variables modified the effect of biogas cookstove use on diarrhea (Table 3; Figure 2). Food insecurity was associated with diarrhea in unadjusted regression models (1.48; 95% CI: 1.12, 1.97) (Table 2). However, there was also no evidence of effect measure modification by food insecurity (Table 3; Figure 2).
+The frequency of biodigester use was similar across seasons. Biodigester use was reported for 23% of 184,867 d observed during the wet season, and for 23% of 115,266 d observed during the dry season (Table 2). Season was strongly associated with diarrhea in unadjusted analyses and was a strong effect modifier. The wet season was associated with an increased risk of child diarrhea (3.17; 95% CI: 2.47, 4.08) (Table 2). However, the effect of biogas exposure on diarrhea was greater during the dry season (2.03; 95% CI: 1.17, 3.53), whereas there was no effect during the wet season (1.15; 95% CI: 0.89, 1.48; interaction 
+) (Table 3; Figure 2).
+The proportion of person-days without biogas (
+) that were positive for 14-d ALRI was 0.34%, whereas the proportion of person-days with biogas (
+) that were positive for 14-d ALRI was 0.82%. The unadjusted RR for the association between 14-d ALRI and diarrhea was 2.32 (95% CI: 0.77, 7.02) (Table 2). Among children with an ALRI in the last 14 d, the RR of diarrhea given biogas exposure was 2.09 (95% CI: 0.69, 6.31), whereas the RR among children without a recent ALRI was 1.25 (95% CI: 0.95, 1.64) (Table 3, Figure 2). However, tests for statistical interaction were insignificant (
+). Notably, the highest stratum-specific risk estimate was among children with a recent ALRI (4.53; 95% CI: 1.03, 8.04).
+Discussion
+This analysis of data from the PEER Health Study in Nepal is the first, to our knowledge, to explore the effect of biogas cookstove use on the risk of diarrhea among children. In this 2-y observational cohort study, we identified biogas cookstove stove use as a risk factor for child diarrhea. We estimated that children exposed to biogas cookstove use had a 31% increase in the risk of diarrhea in comparison with unexposed children, adjusting for confounders. Exclusive breastfeeding and season were strong modifiers of the effect of biogas exposure on diarrhea. Primary stove at baseline, child sex, and proof of vaccination may be potential effect modifiers, though tests for statistical interaction were insignificant.
+Biodigesters have enormous potential to improve public health and sustainability through the reduction of household air pollution and generation of renewable energy (Manyi-Loh et al. 2013). In addition to reducing cookstove smoke exposures by generating clean cooking fuel, a primary goal of small-scale biodigesters is to manage waste from household livestock and/or poultry (Bond and Templeton 2011). In our study site, however, these systems may result in additional contact between people and animal waste. Exposure to animal waste is a known cause of zoonotic disease transmission and can lead to a variety of dangerous infections caused by pathogenic bacteria, protozoa and, to a lesser extent, some viruses (Delahoy et al. 2018). Livestock and animal waste are reservoirs of antimicrobials, antimicrobial resistant bacteria, and resistance genes, which persist in both untreated waste and in effluent from anaerobic biodigesters (Huijbers et al. 2015; He et al. 2020; Wallace et al. 2018). Recent studies have demonstrated that drug resistant bacteria are commonly spread between humans and domestic livestock (Li et al. 2019; Salinas et al. 2021). Reducing exposures to both untreated and treated animal waste throughout the process of using a biodigester is imperative for the prevention of difficult-to-treat and potentially life-threatening infections (Helms et al. 2002; de Kraker et al. 2011). Future research on exposures and risks associated with biodigester use should characterize fecal pathogens isolated from animal waste and slurry before and after digestion, as well as from humans, to assess zoonotic transmission associated with biodigester use.
+Little research has been conducted on routes of exposure to fecal pathogens specifically linked to the use of biodigesters, though exposure to human and animal fecal contamination in household environments has been widely studied. Of 354 households in the aforementioned cluster-randomized control trial in India, 70% had detectable levels of total (human and animal) and animal-specific fecal markers in stored drinking water or caregiver or child hand rinses, and 35% had detectable levels of human fecal markers (Odagiri et al. 2016). In a study observing hygiene-related behaviors of 23 caregiver–infant pairs in Burkina Faso, researchers found that infants frequently ingested fecally contaminated soil, handwashing was uncommon, and drinking water was contaminated with Escherichia coli in 50% of households (Ngure et al. 2013). Ngure et al. estimated that an infant ingesting 
+ of chicken feces would consume 
+ E. coli. A recent microbial source tracking analysis from the WASH Benefits study in Bangladesh determined that the greatest amount of fecal bacterial transfer occurred between mothers’ hands and children’s hands, and between mothers’ hands and stored drinking water (Fuhrmeister et al. 2020a). Flies have been identified as vectors of E. coli responsible for contaminating food in urban slums of Bangladesh (Lindeberg et al. 2018), and in rural Alaska, shoes were identified as vectors for tracking fecal contamination from outside to floors inside buildings (Chambers et al. 2009). Microbial contamination of animal farmworker shoes is also well-documented (Rashid et al. 2016). In our study population, exclusive breastfeeding resulted in a significantly stronger estimated effect of biogas exposure on child diarrhea in our study. Exclusive breastfeeding is typically protective against diarrhea due to its nutritional composition and because it reduces exposure to contaminated foods and drinking water (Turin and Ochoa 2014). We hypothesize that in our study area, children who breastfed had increased exposure to fecal pathogens from mother’s hands while breastfeeding. We are, however, unable to identify true exposure pathways due to a lack of data on hygiene behaviors (e.g., handwashing after using the biodigester and before breastfeeding) or fecal contamination of caregiver hands, shoes, soil, food, or household drinking water. Future studies should take advantage of microbial source tracking to identify principal exposure pathways of fecal pathogens caused by the use of biodigesters.
+Studies have assessed microbial risks associated with different sanitation technologies and services (Stenström et al. 2011; Mills et al. 2018; Winkler et al. 2017; Bischel et al. 2019). The biodigester intervention that households in the PEER Health Study received included the construction of a pit latrine. In addition to diverting human waste into biodigesters, pit latrine interventions are designed to remove human feces from the environment by containing human waste and reducing open defecation. However, several recent studies have determined that sanitation interventions did not effectively reduce domestic fecal contamination. A cluster-randomized control trial in rural India determined that increasing functional latrine coverage and use did not reduce fecal contamination in the household environment (Odagiri et al. 2016). An analysis from the WASH Benefits randomized control trial in Bangladesh also found that a sanitation intervention (provision of pit latrines, sani-scoops, and child potties) did not reduce the prevalence of diarrheal pathogens in the household environment in comparison with the control arm (Fuhrmeister et al. 2020b). Despite widespread latrine ownership among a study population in rural Burkina Faso, children were still exposed to fecal contamination due to inadequate disposal of livestock, poultry, and child feces (Ngure et al. 2019). Similarly, our results suggest that whether a household had improved sanitation (pit latrine) at baseline was not associated with child diarrhea. Further research on biogas cookstove interventions should comprehensively assess impacts of both the improved pit latrine component and the biodigester component of the intervention on fecal contamination of the household environment and diarrhea in infants and young children.
+Though biodigesters have been widely distributed throughout Nepal, uptake and the continued use of biogas stoves remains unclear. In Nepal, the use of woodburning cookstoves, known as the agenu chulo, is firmly rooted in traditional cooking practices and religious rituals, which may prevent the uptake of biogas cookstoves (Rhodes et al. 2014). Households often have multiple stoves and change stove use depending on the weather, season, event (i.e., festival or religious ceremony), or food type (i.e., meat vs. vegetarian foods) (Rhodes et al. 2014). Mixed stove use was also apparent among households in the PEER Health Study, though the frequency of biodigester stove use was similar during both the wet and dry seasons. Using a combination of stove types could result in exposures to both particulate matter from woodburning cookstoves and fecal pathogens from biodigesters, posing a combined risk of ALRI and diarrhea. We hypothesized that ALRI may increase the risk of diarrhea, potentially due to general immunosuppression caused by acute respiratory infections. In both unadjusted and adjusted analyses, recent ALRI seemed to have an effect on subsequent diarrhea, although the effect was insignificant. Of note, ALRI rarely preceded an incident diarrhea event in our study (
+; Table 2), limiting our ability to detect significant effects. An important consideration is that comorbid diarrhea and ALRI have been shown to increase the risk of mortality among children in Nepal and the severity of disease among children in Ghana (Fenn et al. 2005; Walker et al. 2013). Though the biological mechanisms of the relationship between ALRI and diarrhea remain unclear, the high frequency of mixed stove use in this study population warrants further research on the potential risks of combined use of both woodburning and biogas stoves.
+In our study, the estimated effect of biogas exposure on diarrhea was slightly stronger among children in households that used biogas as their primary stove at baseline, though the difference in point estimates was insignificant. It is possible that children in households using biogas stoves since the beginning of the study were more likely to be exposed to fecal pathogens from biodigesters. Given that households received the intervention at different time points throughout the study period, the duration of biodigester ownership and use may be correlated with the likelihood of mixing slurry by hand due to broken agitators, which occurred frequently in the study area. Future studies should assess frequency and duration of biodigester use; frequency of broken agitators or mixing slurry with hands; handwashing after biodigester use; and fecal contamination of hands, stored drinking water, and floors after biodigester use. Researchers should consider using a randomized controlled trial design and account for intervention compliance in their analysis (i.e., per-protocol analysis).
+Finally, though unadjusted results suggested that the risk of child diarrhea was significantly higher during the wet season, the risk of diarrhea associated with biogas use was significantly higher during the dry season. This finding is somewhat consistent with previous findings. A recent study on climate factors on childhood diarrhea in Kathmandu, Nepal, found that every 
+ increase in cumulative monthly rainfall was associated with a 0.9% increase in monthly cases of diarrhea (Bhandari et al. 2020). However, existing literature suggest that seasonal factors affecting environmental fecal contamination and diarrheal diseases are variable and context-specific. For example, levels of fecal indicator bacteria in surface waters are often higher during hotter, drier months in tropical climates, and higher during months with heavy rainfall in temperate climates (Rochelle-Newall et al. 2015). Climate factors have also been shown to have differential impacts on diarrhea within the same study location. In a prospective cohort study in India, diarrhea prevalence was 1.50 times higher (95% CI: 1.12, 2.02) after heavy rainfall in the last 3 wk, and 2.60 times higher (95% CI: 1.55, 4.36) after heavy rain followed by a 60-d dry period (Mertens et al. 2019). A case–control study in rural Ecuador found that the odds ratio (OR) of diarrhea associated with unimproved sanitation was highest after minimal rainfall (OR: 2.9; 95% CI: 1.3, 6.6), whereas the OR associated with an unimproved water source was highest after heavy rainfall (6.8; 95% CI: 1.9, 24.5) (Bhavnani et al. 2014). Future studies of sanitation interventions, including household biodigester systems, should continue to build on this nuanced area of research by assessing the impacts of rainfall on the environmental spread of fecal pathogens and child diarrhea.
+This study has some limitations, which we attempted to address in our analytical approach. First, the PEER Health study was not designed to directly assess exposure to fecal pathogens caused by the use of biodigesters. The study’s primary objective was to assess exposures to indoor particulate matter among households using biogas cookstoves in comparison with households using woodburning cookstoves. The study did not collect any human or environmental samples to detect specific fecal pathogens or fecal indicator bacteria. This approach resulted in the use of a proxy measure of exposure: reported use of biogas cookstoves. Though our proxy exposure variable was measurable, reliable, and sensitive to changes, it could not be validated using data from this study or from previous literature. Study participants were not aware of a possible link between biogas cookstove use and child diarrhea, reducing the likelihood of differential exposure misclassification. It is possible that nondifferential exposure misclassification biased our effect estimates toward the null. To our knowledge, no study to date has used biogas cookstove use as a proxy for biodigester use or as a proxy for fecal contamination.
+To address bias induced by the use of a proxy exposure variable, we employed doubly robust estimation methods with an additional layer of sample-splitting (cross-validation). Doubly robust approaches such as TMLE ensure that our causal effect estimates remain consistent (i.e., unbiased) even when either the outcome regression or the estimated propensity score for the exposure is incorrectly specified (van der Laan and Rubin 2006; Schuler and Rose 2017). The additional cross-validation step included in our TMLE enhances the debiasing (i.e., targeting) step of the estimation procedure, allowing for increased flexibility in the Super Learner ensemble used for initial estimation of the propensity score and outcome regressions, by circumventing possible overfitting of machine learning algorithms in the Super Learner ensemble’s candidate library (van der Laan et al. 2017). This targeted learning approach combines machine learning and causal inference to maximally reduce bias and improve precision (Coyle et al. 2020).
+Despite these doubly robust statistical estimation methods, identifiability of our causal effect hinged on several assumptions. First, we made certain convenience assumptions within our structural causal model. We assumed independence between the following variables: maternal education and hand hygiene, based on knowledge of an ongoing hand hygiene campaign in the study area; paternal occupation and biogas cookstove use, based on knowledge that male caregivers typically work away from the home, whereas female caregivers typically stay at home and are more likely to operate biodigesters; and unknown biological factors and other causes of diarrhea, such as irritable bowel syndrome and Crohn’s disease, which are rare among children in South Asia (Institute for Health Metrics and Evaluation 2019; Sýkora et al. 2018). Given our causal model, we were then able to satisfy the randomization assumption by adjusting for a minimally sufficient set of covariates that blocked all backdoor pathways between the outcome and exposure. Though we are confident that our adjustment of confounding was sufficient, it is possible that some remaining unmeasured confounding biased our causal RRs slightly away from the null. Follow-up work may include formal sensitivity analyses to assess the potential influence of unmeasured confounding on causal inference with observational studies (Ding and VanderWeele 2016; VanderWeele and Ding 2017; Díaz and van der Laan 2013). Owing to the high-dimensional covariate data used in our estimation procedures and because some levels of variables were rare, violations of the positivity assumption are plausible. Such concerns may be alleviated by the fact that TMLE, by way of being a substitution estimator, tends to perform better than other doubly robust estimators in the context of positivity violations or near violations (Lendle et al. 2013). Our doubly robust estimators still yield scientifically informative results even when the untestable causal identification assumptions are considered unsatisfied. The average effect of biogas cookstove use on child diarrhea estimated by our targeted learning approach may be interpreted as the adjusted mean ratio between the exposed and unexposed, marginalizing across strata of potential baseline confounders (van der Laan and Rose 2011).
+Conclusions
+Our investigation provides new evidence that child diarrhea is an unintended health risk associated with biogas cookstove use in rural Nepal. Additional studies are needed to assess the effectiveness of biogas cookstove interventions in both the elimination of existing exposures to household air pollution and the mitigation of exposures to fecal pathogens introduced by the biodigester. The results of this study suggest that breastfeeding and season are important modifiers of the effect of biogas cookstove use on child diarrhea. Future research should aim to better characterize biodigester usage and fecal pathogen exposure pathways throughout the year, in Nepal and in other settings. It is important that investigators consider and evaluate modifiable factors—such as hygiene behavior or structural components of biodigesters—that could reduce child exposures to fecal contamination, especially during intimate caregiver–child interactions. If these health implications of biodigesters are confirmed on further investigation, the implementation of biogas cookstove interventions may need to be expanded to include hygiene education or structural improvements to mitigate unintended health risks of biodigesters.

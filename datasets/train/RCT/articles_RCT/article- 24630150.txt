@@ -1,0 +1,66 @@
+MRI and venographic aspects of pelvic venous insufficiency
+Pelvic venous insufficiency is permanent venous dilatation due to valvular incompetence (type I), or an obstacle to venous return due to venous obstruction or extrinsic compression, particularly by pinching of a vein (type II), or a local cause (type III) [1].
+
+The varicose veins formed extend from the pelvis to the top of the legs, often fed by an incompetent left ovarian vein, and are at the crossroads between gynaecological pathology and vascular medicine. First-line examinations are ultrasonography and Doppler ultrasonography in these two specialties, but only a few knowledgeable specialists can evaluate the two aspects of the condition.
+
+Even if the varicose veins can be seen with pelvic ultrasound, the diagnosis is still not commonly suggested due to the lack of information concerning their potentially symptomatic nature and deficient diagnostic performance [2], probably because the varicose veins collapse due to filling of the bladder, which is necessary for a suprapubic view.
+
+MRI, already used by several teams [3], can cover all the anatomical regions concerned. With a specific protocol, its sensitivity is satisfactory, better than that of ultrasound for diagnosis [4]. In addition, it allows dynamic evaluation of ovarian reflux, as well as good morphological evaluation of the pelvic venous insufficiency. It is reproducible, less expensive than diagnostic venography and is non-irradiating in these young female patients. When evaluating type I venous insufficiency, it can substitute for pretherapeutic venography, indicating from the outset, with the clinical findings, the pathogenic incompetent afferents to be embolized.
+
+In this review of imaging, we compare the appearance of pelvic venous insufficiency in MRI with venography.
+
+Symptoms and method of detection
+Pelvic venous insufficiency is common in multiparous women because of the major strains on the venous system during pregnancy. It is mainly diagnosed in three situations:
+•
+in the first instance, by chance during abdominopelvic imaging, requiring comparison with the clinical picture to look for the sometimes neglected symptoms caused by it;
+
+•
+secondly, where there are atypical varicose veins of the perineum or top of the thighs, and/or pelvic supply to varicose veins of the legs, observed in a Doppler examination;
+
+•
+thirdly, in the event of chronic pelvic pain with negative gynecological findings, where the symptoms suggest congestion [5], [6], and may associate pelvic heaviness or pain (more towards the end of the cycle, increasing at the end of the day, with effort and with standing), dyspareunia or post-coital pain, dysuria or dysmenorrhea, the symptoms having been present for more than six months and no other etiology being found.
+
+
+This venous insufficiency needs only to be treated when it is symptomatic. The pretherapeutic examination must therefore eliminate type II or III insufficiency and evaluate the incompetent collectors to prepare for their embolization, which is usually performed later.
+
+Our experience for this review of imaging is based on retrospective study of the files of 141 patients referred to Angers University Hospitals’ Medical Imaging Department between September 2010 and September 2012 for investigation of pelvic venous insufficiency. All the patients had an MRI and venography examination.
+
+MRI protocol
+The MRI was performed before the venography (on a Siemens Magnetom 1.5 T imager) using a body phased-array coil. No rectal or vaginal marking was used and the bladder was empty to avoid compressing the varicose veins. The examination included:
+•
+a scout sequence in the three spatial planes centered on the abdomen and pelvis;
+
+•
+T2-weighted sequences with fat saturation (T2FS) in the axial plane covering the kidneys to the pelvis and in the sagittal plane centered on the pelvis and top of the thighs;
+
+•
+a dynamic angiography sequence with injection of contrast agent (Time-resolved angiography With Interleaved Stochastic Trajectories: TWIST Siemens) in the coronal plane, with contiguous slices of 1.6 mm, and a field of 45 cm covering the kidneys to the pelvis. The acquisition, with normal breathing, was repeated twenty times, every 5 seconds, and the contrast agent bolus (Dotarem: dose = 0.2 ml/kg, rate = 2 ml/s) was injected between the first and the second acquisition, the first series serving for subtraction from those following. The series obtained were studied in maximum intensity projection (MIP) reconstruction and kept for slice by slice analysis if necessary;
+
+•
+a T1-weighted sequence with fat saturation after gadolinium injection (T1FSGd) covering the kidneys to the pelvis.
+
+
+The varicose veins were defined as serpiginous images, hyperintense with T2FS and T1FSGd, which were parametrial, periuterine, perivaginal, sometimes perineal or on the top of the thighs.
+
+Venography protocol
+Venography was performed via the femoral venous route or exceptionally via the brachial route. It first consisted of catheterization of the left renal vein and its opacification, looking for a nutcracker syndrome and reflux in the left ovarian vein. Secondly, the left ovarian vein was catheterized for better filling and its reflux quantified using the description by Hiromura et al. [7], and the periovarian, parametrial or perineal varicose veins fed by it were evaluated. Then the iliac veins were successively catheterized looking for incompetent collectors, leaks to the legs and a left May-Thurner syndrome. The right ovarian vein was catheterized to its ostium to look for reflux only when dilatation was seen on the MRI.
+
+Anatomical overview
+Venous draining of the pelvis is via a richly anastomosed median collector system, the main collectors of which are the internal iliac veins, the ovarian veins and the superior rectal vein. The ovarian veins empty directly into the inferior vena cava on the right and via the renal vein on the left. The internal iliac collectors are composed of anterior visceral (uterine, vaginal, vesical, rectal) and parietal (inferior gluteal, obturator, pudendal) afferents and posterior pelvic parietal (iliolumbar and sacral) and extrapelvic (superior gluteal) afferents. Rich anastomoses exist between these collectors explaining the possible communications between a varicose vein developed at the expense of visceral collectors (particularly ovarian and uterine), and the saphenous system of the legs, via the parietal collectors (Fig. 1).
+Radiological description
+Examination of the left renal vein
+Before envisaging ovarian embolization, type II insufficiency, according to the classification described by Greiner et al. [1] involving compression of the renal vein between the aorta and mesenteric artery (nutcracker syndrome), must be eliminated by looking for an imprint in the terminal part of the renal vein (Fig. 2) combined with congestion of the renal venous system. Definitive diagnosis of the nutcracker syndrome is still difficult. It is currently based on measuring the vena cava and renal vein pressures, the diagnosis being made if there is a difference of more than 3 mmHg. MRI still has difficulty with this point through lack of spatial resolution. The renal vein may appear laminated on axial acquisitions (Fig. 3). The appearance of an impression on the left renal vein can be seen with dynamic angiography sequences (Fig. 4). However, in no case can these signs be considered as pathognomonic of the nutcracker syndrome. In all cases, pressure measurements are only possible during venography. Examination of the left ovarian vein
+MRI examination starts by measuring the diameter of the ovarian veins; diameters of more than 8 mm measured 10 mm from their termination is an argument for their incompetence (Fig. 5) [8]. Commonly used in ultrasonography, this criterion is easily measured on T2FS axial slices, but is not available with venography without calibration. It seems, however, debatable, as indicated by Black et al. [9] In addition, an MRI is performed with the patient lying, without a Valsalva maneuver, so that the incompetence is underestimated. Ovarian reflux is scored from 0 to 3 according to the description by Hiromura et al. [7] on dynamic MR angiography sequences (Fig. 6) and following selective catheterization of the ovarian vein in venography (Fig. 7). The pelvic/ovarian venous network is, like the majority of veins, subject to many anatomical variations, often including a left ovarian vein with a complex structure with many collaterals (Fig. 8). Examination of the right ovarian vein
+The diameter of the right ovarian vein can also be measured in MRI (Fig. 4) as well as any reflux, rare however on this side. A TWIST sequence may also find a vicarious right ovarian vein (Fig. 9) increasing its calibre by an increase in flow rate without loss of competence. In our practice, venography is only performed to look for reflux when dilatation can be seen with MRI. Vicariousness observed in the MRI in the lying position can mask effort incompetence, which will be revealed by the Valsalva maneuver (Fig. 10). Examination of the internal iliac veins and their collectors
+Searching for type II pelvic venous insufficiency through compression of the left common iliac vein between the sacral promontory and the right common iliac artery, the May-Thurner syndrome is an essential prerequisite to embolizing iliac incompetence.
+
+MRI may show the morphological compression on axial images, as well as the impression on dynamic angiography sequences (Fig. 11), but there again, diagnosing May-Thurner needs to result from a combination of the clinical data, the morphological appearance, and dynamic study with measurement of the ilio-caval pressures by venography (Fig. 12). Examination of the internal iliac veins and their collectors
+Searching for type II pelvic venous insufficiency through compression of the left common iliac vein between the sacral promontory and the right common iliac artery, the May-Thurner syndrome is an essential prerequisite to embolizing iliac incompetence.
+
+MRI may show the morphological compression on axial images, as well as the impression on dynamic angiography sequences (Fig. 11), but there again, diagnosing May-Thurner needs to result from a combination of the clinical data, the morphological appearance, and dynamic study with measurement of the ilio-caval pressures by venography (Fig. 12). Examination of pelvic varicose veins
+In MRI, pelvic varicosities are visible as serpiginous objects, which are hyperintense with T2FS. Pelvic varicosities are enhanced on late acquisitions with T1-weighting with gadolinium injection (Fig. 16). In venography, the varicose veins appear as tortuous, dilated veins with stagnation of the contrast agent (Fig. 17). These varicose veins may be located around the parametrium, the uterus (Figure 18, Figure 19, Figure 20) and the vagina (Figure 21, Figure 22, Figure 23, Figure 24). They may continue into vulvar projections, sometimes fed by an incompetent internal gluteal collector (Fig. 25), or projections into the buttock and top of the thighs (Figure 13, Figure 14, Figure 15). Conclusion
+Pelvic varicosities can be quantified using MRI, which usually also shows left ovarian reflux in dynamic angiography sequences. Investigation of right ovarian vein dilatation indicates, or not, the need for venographic examination which remains difficult for anatomical reasons.
+
+Venography is still the essential step prior to embolization but can be rapidly guided by MRI towards the incompetent collectors and leaks to the legs.
+
+A large comparative study with venography could evaluate MRI performance precisely for each criterion.

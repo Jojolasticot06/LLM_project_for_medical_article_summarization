@@ -1,0 +1,29 @@
+BACKGROUND: Vaccine hesitancy and lack of access remain major issues in 
+disseminating COVID-19 vaccination to liver patients globally. Factors 
+predicting poor response to vaccination and risk of breakthrough infection are 
+important data to target booster vaccine programs. The primary aim of the 
+current study was to measure humoral responses to 2 doses of COVID-19 vaccine. 
+Secondary aims included the determination of factors predicting breakthrough 
+infection.
+METHODS: COVID-19 vaccination and Biomarkers in cirrhosis And post-Liver 
+Transplantation is a prospective, multicenter, observational case-control study. 
+Participants were recruited at 4-10 weeks following first and second vaccine 
+doses in cirrhosis [n = 325; 94% messenger RNA (mRNA) and 6% viral vaccine], 
+autoimmune liver disease (AILD) (n = 120; 77% mRNA and 23% viral vaccine), 
+post-liver transplant (LT) (n = 146; 96% mRNA and 3% viral vaccine), and healthy 
+controls (n = 51; 72% mRNA, 24% viral and 4% heterologous combination). 
+Serological end points were measured, and data regarding breakthrough SARS-CoV-2 
+infection were collected.
+RESULTS: After adjusting by age, sex, and time of sample collection, anti-Spike 
+IgG levels were the lowest in post-LT patients compared to cirrhosis (p < 
+0.0001), AILD (p < 0.0001), and control (p = 0.002). Factors predicting reduced 
+responses included older age, Child-Turcotte-Pugh B/C, and elevated IL-6 in 
+cirrhosis; non-mRNA vaccine in AILD; and coronary artery disease, use of 
+mycophenolate and dysregulated B-call activating factor, and lymphotoxin-α 
+levels in LT. Incident infection occurred in 6.6%, 10.6%, 7.4%, and 15.6% of 
+cirrhosis, AILD, post-LT, and control, respectively. The only independent factor 
+predicting infection in cirrhosis was low albumin level.
+CONCLUSIONS: LT patients present the lowest response to the SARS-CoV-2 vaccine. 
+In cirrhosis, the reduced response is associated with older age, stage of liver 
+disease and systemic inflammation, and breakthrough infection with low albumin 
+level.

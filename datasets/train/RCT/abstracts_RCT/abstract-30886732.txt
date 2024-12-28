@@ -1,0 +1,11 @@
+Treatment outcomes in patients with seropositive versus seronegative rheumatoid arthritis in Phase III randomised clinical trials of tofacitinib.
+
+1/OBJECTIVES: Tofacitinib is an oral JAK inhibitor for the treatment of rheumatoid arthritis (RA). We examined response to tofacitinib 5 or 10 mg two times a day in patients with seropositive vs seronegative RA.
+
+2/mETHODS: Data were pooled from five Phase III studies of conventional synthetic disease-modifying antirheumatic drug (csDMARD)- or biological DMARD-inadequate responders (ORAL Step [NCT00960440]; ORAL Scan [NCT00847613]; ORAL Solo [NCT00814307]; ORAL Sync [NCT00856544]; ORAL Standard [NCT00853385]). 'Serotype' subgroups were: anticyclic citrullinated peptide (CCP) and rheumatoid factor (RF) positive (anti-CCP+/RF+); anti-CCP+/RF negative (-); anti-CCP-/RF+; anti-CCP-/RF-. At month 3, ACR20/50/70 response rates, Disease Activity Score (DAS28-4[ESR])-defined remission (DAS28-4[ESR]<2.6) and low disease activity (LDA; DAS28-4[ESR]≤3.2), changes from baseline (CFB) in Health Assessment Questionnaire-Disability Index (HAQ-DI), Short Form-36 Health Survey (SF-36) physical functioning and Functional Assessment of Chronic Illness Therapy-Fatigue (FACIT-F) were evaluated. Safety endpoints were compared.
+
+3/RESULTS: Baseline demographics/characteristics were similar across subgroups. Tofacitinib significantly improved ACR20/50/70 response rates, DAS28-4(ESR) LDA rates and CFB in HAQ-DI and FACIT-F vs placebo across subgroups. More anti-CCP+/RF+ than anti-CCP-/RF- patients had ACR20/50/70 responses (ACR20/50: both tofacitinib doses; ACR70: 10 mg two times a day). SF-36 physical 
+functioning improved in anti-CCP+/RF+, anti-CCP+/RF- and anti-CCP-/RF+ patients (both tofacitinib doses) and anti-CCP-/RF- patients (10 mg two times a day) vs placebo. More anti-CCP+/RF+ and anti-CCP+/RF- than anti-CCP-/RF- patients achieved DAS28-4(ESR) remission and LDA with tofacitinib 10 mg two times a day. Frequency of adverse events (AEs), serious AEs and discontinuations due to AEs 
+were similar across subgroups.
+
+4/CONCLUSION: Generally, tofacitinib efficacy (ACR20/50/70 responses) and safety were similar across subgroups. DAS28-4(ESR) remission rates and SF-36 physical functioning appeared lower in anti-CCP- patients.

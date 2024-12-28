@@ -1,0 +1,23 @@
+1/ Bedaquiline (BDQ) has shown great value in the treatment of multidrug-resistant 
+tuberculosis (MDR-TB) in recent years. However, exposure-safety relationships 
+must be explored to extend the use of BDQ. Two reported safety findings for BDQ 
+are prolongation of the QTc interval and elevation of transaminase levels. 
+2/ In this study, we investigated the potential relationships between BDQ and/or its 
+main metabolite (M2) pharmacokinetic (PK) metrics and QTcF interval or 
+transaminase levels in patients with MDR-TB using the approved dose regimen. 
+Data from 429 patients with MDR-TB from two phase IIb studies were analyzed via 
+nonlinear mixed-effects modeling. Individual model-predicted concentrations and 
+summary PK metrics were evaluated, respectively, in the QTcF interval and 
+transaminase level exposure-response models. Investigation of further covariate 
+effects was performed in both models. 
+3/ M2 concentrations were found to be responsible for the drug-related QTcF increase in a model accounting for 
+circadian rhythm patterns, time on study, effect of concomitant medication with 
+QT liability, and patient demographics. Simulations with the final model 
+suggested that doses higher than the approved dose (leading to increased M2 
+concentrations) are not expected to lead to a critical QTcF interval increase. 
+No exposure-safety relationship could be described with transaminase levels 
+despite previous reports of higher levels in patients treated with BDQ. 
+4/ The developed longitudinal models characterized the role of M2 concentrations in QTc 
+interval prolongation and found no concentration dependency for transaminase 
+level elevation, together suggesting that BDQ exposure at the high end of the 
+observed range may not be associated with a higher risk of safety events.

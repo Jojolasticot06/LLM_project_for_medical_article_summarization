@@ -1,0 +1,32 @@
+BACKGROUND: Real-world observational data are an important source of evidence on 
+the treatment effectiveness for patients hospitalized with coronavirus disease 
+2019 (COVID-19). However, observational studies evaluating treatment 
+effectiveness based on longitudinal data are often prone to methodological 
+biases such as immortal time bias, confounding bias, and competing risks.
+METHODS: For exemplary target trial emulation, we used a cohort of patients 
+hospitalized with COVID-19 (n = 501) in a single centre. We described the 
+methodology for evaluating the effectiveness of a single-dose treatment, 
+emulated a trial using real-world data, and drafted a hypothetical study 
+protocol describing the main components. To avoid immortal time and time-fixed 
+confounding biases, we applied the clone-censor-weight technique. We set a 5-day 
+grace period as a period of time when treatment could be initiated. We used the 
+inverse probability of censoring weights to account for the selection bias 
+introduced by artificial censoring. To estimate the treatment effects, we took 
+the multi-state model approach. We considered a multi-state model with five 
+states. The primary endpoint was defined as clinical severity status, assessed 
+by a 5-point ordinal scale on day 30. Differences between the treatment group 
+and standard of care treatment group were calculated using a proportional odds 
+model and shown as odds ratios. Additionally, the weighted cause-specific 
+hazards and transition probabilities for each treatment arm were presented.
+RESULTS: Our study demonstrates that trial emulation with a multi-state model 
+analysis is a suitable approach to address observational data limitations, 
+evaluate treatment effects on clinically heterogeneous in-hospital death and 
+discharge alive endpoints, and consider the intermediate state of admission to 
+ICU. The multi-state model analysis allows us to summarize results using stacked 
+probability plots that make it easier to interpret results.
+CONCLUSIONS: Extending the emulated target trial approach to multi-state model 
+analysis complements treatment effectiveness analysis by gaining information on 
+competing events. Combining two methodologies offers an option to address 
+immortal time bias, confounding bias, and competing risk events. This 
+methodological approach can provide additional insight for decision-making, 
+particularly when data from randomized controlled trials (RCTs) are unavailable.

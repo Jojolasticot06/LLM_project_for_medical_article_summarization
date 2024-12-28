@@ -1,0 +1,11 @@
+Effect of tofacitinib on patient-reported outcomes in patients with active psoriatic arthritis and an inadequate response to tumour necrosis factor inhibitors in the phase III, randomised controlled trial: OPAL Beyond.
+
+1/OBJECTIVES: Tofacitinib is an oral Janus kinase inhibitor for treatment of psoriatic arthritis (PsA). Patient-reported outcomes (PROs) were evaluated in patients with PsA with inadequate responses to tumour necrosis factor inhibitors (TNFi-IR) in a 6-month, phase III randomised controlled trial (OPAL Beyond [NCT01882439]).
+
+2/METHODS: Patients (N=394) received tofacitinib 5 or 10 mg twice daily or placebo (advancing to tofacitinib 5 or 10 mg twice daily at month 3). Least squares mean changes from baseline and percentages of patients reporting improvements ≥minimum clinically important differences and scores ≥normative values were determined in Patient Global Assessment of disease activity (PtGA), Pain, 
+Patient Global Joint and Skin Assessment (PGJS), Short Form-36 Health Survey version 2 (SF-36v2), Functional Assessment of Chronic Illness Therapy-Fatigue (FACIT-Fatigue), EuroQol 5-Dimensions-3-level (EQ-5D-3L), EQ-VAS and Ankylosing Spondylitis Quality of Life (ASQoL). Nominal p values are without multiple comparison adjustments.
+
+3/RESULTS: At month 3, PtGA, Pain, PGJS, SF-36v2 Physical Component Summary (PCS), physical functioning (PF), bodily pain (BP), vitality and social functioning (SF) domains, FACIT-Fatigue Total score, EQ-5D-3L pain/discomfort, EQ-VAS and ASQoL scores exceeded placebo with both tofacitinib doses (role physical [RP] with 10 mg twice daily only; p≤0.05). Patients reporting improvements ≥MCID (%) 
+in PtGA, PGJS, Pain, ASQoL and SF-36v2 PCS, PF, RP, BP, SF (both tofacitinib doses) exceeded placebo (p≤0.05).
+
+4/CONCLUSION: TNFi-IR patients with PsA receiving tofacitinib reported statistically and clinically meaningful improvements in PROs versus placebo over 3 months, which were maintained to month 6. Despite lower baseline scores, these improvements were similar to the csDMARD-IR TNFi-naive OPAL Broaden trial.

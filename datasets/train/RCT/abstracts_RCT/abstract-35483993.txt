@@ -1,0 +1,10 @@
+Effects of non-invasive respiratory supports on inspiratory effort in 
+moderate-severe COVID-19 patients. A randomized physiological study 
+ 
+
+1/Rationale and objective: Various forms of Non-invasive respiratory support (NRS) have been used during COVID-19, to treat Hypoxemic Acute Respiratory Failure (HARF), but it has been suggested that the occurrence of strenuous inspiratory efforts may cause Self Induced Lung Injury(P-SILI). The aim of this investigation was to record esophageal pressure, when starting NRS application, so as to better understand the potential risk of the 
+patients in terms of P-SILI and ventilator induced lung injury (VILI). 
+2/Methods and measurements: 21 patients with early de-novo respiratory failure due to cOVID-19, underwent three 30 min trials applied in random order: high-flow nasal cannula (HFNC), continuous positive airway pressure (CPAP), and non-invasive ventilation (NIV). After each trial, standard oxygen therapy was reinstituted using a Venturi mask (VM). 15 patients accepted a nasogastric tube placement. Esophageal Pressure (.Pes) and dynamic 
+transpulmonary driving pressure (.PLDyn), together with the breathing pattern using a bioelectrical impedance monitor were recorded. Arterial blood gases were collected in all patients. 
+3/Main results: No statistically significant differences in breathing pattern and PaCO2 were found. PaO2/FiO2 ratio improved significantly during NIV and CPAP vs VM. NIV was the only NRS to reduce significantly .Pes vs. VM (-10,2 ±5 cmH20 vs -3,9 ±3,4). No differences were found in .PLDyn between NRS (10,2±5; 9,9±3,8; 7,6±4,3; 8,8±3,6 during VM, HFNC, CPAP and NIV respectively). Minute ventilation (Ve) was directly dependent on the patient’s inspiratory effort, irrespective of the NRS applied. 14% of patients were intubated, none of them showing a reduction in .Pes during NRS. 
+4/Conclusions: In the early phase of HARF due to COVID-19, the inspiratory effort may not be markedly elevated and the application of NIV and CPAP ameliorates oxygenation vs VM. NIV was superior in reducing .Pes, maintaining .PLDyn within a range of potential safety. 

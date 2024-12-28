@@ -1,0 +1,29 @@
+OBJECTIVE: To evaluate whether circulating micro ribonucleic acids (miRNAs) 
+predict response to neoadjuvant chemotherapy (NAC) and inform decision-making in 
+breast cancer patients.
+INTRODUCTION: Deciphering response to NAC remains a challenge. Those unlikely to 
+respond may benefit from NAC de-escalation before completion, while "responders" 
+should complete treatment. Establishing biomarkers which identify response to 
+NAC is imperative to personalize treatment strategies. miRNAs are small 
+noncoding RNA molecules which modulate genetic expression. miRNAs are believed 
+to inform response to NAC.
+METHODS: This prospective, multicenter trial (NCT01722851) recruited 120 
+patients treated with NAC across 8 Irish treatment sites. Predetermined miRNAs 
+were quantified from patient whole bloods using relative quantification 
+polymerase chain reactiond. Venous sampling was performed at diagnosis and 
+midway during NAC. Trends in miRNA expression between timepoints were correlated 
+with treatment response. Data analysis was performed using R 3.2.3.
+RESULTS: A total of 120 patients were included (median age: 55 years). Overall, 
+49.2% had luminal breast cancers (59/120), 17.5% luminal B (L/HER2) (21/120), 
+12.5% human epidermal growth factor receptor-2 positive (HER2+) (15/120), and 
+20.8% triple negative disease (25/120). In total, 46.7% of patients responded to 
+NAC (56/125) and 26.7% achieved a pathological complete response (pCR) (32/120). 
+For patients with L/HER2, increased Let-7a predicted response to NAC ( P 
+=0.049), while decreased miR-145 predicted response to NAC in HER2+ ( P =0.033). 
+For patients with luminal breast cancers, reduced Let-7a predicted achieving a 
+pCR ( P =0.037) and reduced miR-145 predicted achieving a pCR to NAC in HER2+ ( 
+P =0.027).
+CONCLUSIONS: This study illustrates the potential value of circulatory miRNA 
+measurement in predicting response to NAC. Further interrogation of these 
+findings may see miRNAs personalize therapeutic decision-making for patients 
+undergoing NAC for early breast cancer.

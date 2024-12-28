@@ -1,0 +1,136 @@
+1. Introduction
+Since March 2020, the worldwide COVID-19 (coronavirus disease 2019) pandemic has put our health system under constant strain. Successive waves required day-to-day adaptation of admission capacities; dedicated COVID units needed premises, equipment, staff redeployment and cancellation or rescheduling of non-urgent admissions and operations [1], [2], [3]. This drastic reduction in medical and surgical activity affected all specialties, but ENT and head and neck surgery (ENT-H&N) was in double jeopardy, H&N surgeons being especially exposed to SARS-CoV-2 as they operate on a daily basis on the upper airways, with high risk of aerosolization [4], [5].
+
+Consequently, student training in ENT-H&N has had to adapt over these last 2 years, both in medical and surgical practice and in academic education, with many classes, exams and seminars cancelled or postponed. E-learning was rapidly developed, worldwide, with on-line teaching and lectures, to be able to pursue training while adhering to shielding measures and distancing [6]. The pandemic is still ongoing, with the emergence of new variants, and ENT-H&N residents’ practical and academic training is likely to continue to be impacted.
+
+The main aim of the present study was to analyze French ENT-H&N residents’ assessment of their practical and academic training during the COVID-19 pandemic. Secondary objectives comprised: analysis of the impact on practical and academic training according to subspecialty compared to the pre-COVID baseline; analysis of chronological impact over the first 3 waves and geographic impact according to region and to regional health situations; and analysis of the alternative educational solutions and redeployment of residents.
+
+2. Methods
+This was a retrospective observational study, using the STROBE methodology (https://www.equator-network.org/) [7]. To obtain an overview of the impact of COVID-19 on ENT-H&N residents’ training, we drew up a questionnaire which we e-mailed over a 2-month period to all ENT-H&N residents (n = 135) in 9 representative subdivisions of 5 large French regions: Paris (Île-de-France); Lyon and Grenoble (Rhône-Alpes Auvergne); Montpellier (Occitanie); Poitiers, Brest and Nantes (Grand Ouest); and Strasbourg and Nancy (Grand Est). The questionnaire comprised 55 items assessing the quality of practical and academic training during the COVID-19 pandemic (see Online materials).
+
+Th inclusion criterion was being an ENT-H&N resident in France between November 2019 and May 2021 (i.e., the 3 residency semesters corresponding to the first 3 COVID-19 waves).
+
+Response rate was calculated from the annual number of residents per subdivision. Non-specialty training periods, inter-hospital residencies and internships in functional exploration and Transverse Specialized Training were included in calculating the response rate.
+
+Demographic data comprised: age at questionnaire delivery, gender, and residency subdivision. For the 3 study semesters (November 2019–May 2020, May 2020–November 2020, November 2020–May 2021), data were collected for: residency structure (university hospital, other public-sector hospital, private-sector hospital), seniority (residency semester), and specialty (general medicine, oncology, rhinology, pediatrics, otology) of the residency department (as reported by the respondent).
+
+To meet the first objective, respondents assessed the pre-COVID quality of academic education (number of hours of lectures and classes, both for the “DES” national degree course and for “DU” university diploma courses) and practical training (percentage weekly time spent in theater, in consultation and the emergency department and on ward and department management) and then assessed the respective percentage reductions during the pandemic.
+
+For the secondary endpoints of impact according to subspecialty and chronological impact per wave, respondents assessed the reduction in medical and surgical practice in oncology, pediatrics, otology, rhinology and functional exploration, and change in academic education during each of the 3 waves. For the secondary endpoint of impact according to the regional health situation, numbers of daily COVID-19 admissions per 100,000 regional inhabitants per wave were extracted from the government's database (https://www.gouvernement.fr/info-coronavirus/carte-et-donnees).
+
+Residents were also asked to list the alternative solutions implemented (e-learning, course supports, simulations, etc.) and assess their respective contributions. They also listed any redeployment outside of ENT-H&N. Comments could be made in a free text item for verbatim analysis. Redeployment data and verbatims analyses are provided as Online materials Supplementary material.
+
+The study involved human subjects; it conformed to the Declaration of Helsinki and had local review board approval (CE-2021-152) as meeting the reference methodology MR004 for studies not covered by Act No. 2012-300 of March 5, 2012 concerning research involving human subjects (https://www.legifrance.gouv.fr/loda/id/JORFTEXT000033394083/). Respondents provided their informed consent.
+
+Categoric variables were reported as number and percentage, and quantitative variables as mean and standard deviation. For the main endpoint, results for percentage reduction in practical and academic training activities were reported as percentage responses and mean ± standard deviation per item. The study population in the 9 subdivisions was separated into 5 regions (Île-de-France, Rhône-Alpes Auvergne, Occitanie, Grand Ouest and Grand Est), and comparative analysis was performed using the parametric Chi2 test for categoric variables (comparison of percentages between samples) when appropriate or else the Fisher exact test in case of non-normal distribution, and the non-parametric Kruskal–Wallis (generalization of the Mann–Whitney U-test for comparison between > 3 groups) for continuous variables, as distributions were non-normal. Analyses used R software, version 4.1.2 (R Foundation for Statistical Computing, Vienna, Austria). In line with the movement for better science supported by the European Annals of Otorhinolaryngology Head & Neck Diseases [8], [9], the significance threshold was set at P < 0.005.
+
+3. Results
+3.1. Characteristics of respondent ENT-H&N residents
+Table 1 shows the characteristics of the 89 residents from the 9 subdivisions of the 5 regions (Île-de-France, Rhône-Alpes Auvergne, Occitanie, Grand Est, Grand Ouest) who answered the online questionnaire between August and October 2021. The response rate was 66% (89/135), and was lowest in the Île-de-France region (28/74, 38%). Respondents were mainly in the first 4 years of residency in the first wave (Table 1). There were no significant inter-region differences in age, gender or seniority (Online materials Supplementary Table S1). Only 7% of respondents (6/89), all in Île-de-France, were in transverse specialized training during the 1st wave. Over the 3 study periods, 74% (66/89) were in university hospitals (Table 1). Most structures were general ENT departments (44.3% (39/89), 42.7% (38/89) and 52.8% (47/89) respectively for the 3 semesters; the other half were, in decreasing order, oncologic, rhinology, pediatric or otologic. Respectively,17% (15/89), 16.9% (15/89) and 12.4% (11/89) of respondents were in non-ENT-H&N internships in the 3 semesters.
+
+Table 1. Characteristics of the 89 ENT-H&N residents responding to the questionnaire.
+
+Characteristics	Empty Cell
+Female, n (%)	50 (56)
+Age (years) (mean ± SD)	28 ± 2
+Region, n (%)	
+ Île-de-France (Paris)	28 (31.5)
+ Rhône-Alpes Auvergne (Lyon, Grenoble)	20 (22.5)
+ Occitanie (Montpellier)	17 (19.1)
+ Grand Ouest (Poitiers, Brest, Nantes)	12 (13.5)
+ Grand Est (Strasbourg, Nancy)	12 (13.5)
+Year in degree course in November 2019, n (%)	
+ 1st	17 (19.1)
+ 2nd	19 (21.3)
+ 3rd	23 (25.8)
+ 4th	20 (22.5)
+ 5th	10 (11.2)
+Residency structure, n (%)	
+ November 2019	
+  Public-sector hospital/cancer center	20 (23)
+  University hospital	66 (74)
+  Private-sector hospital	3 (3)
+ May 2020	
+  Public-sector hospital/cancer center	15 (17)
+  University hospital	70 (79)
+  Private-sector hospital	4 (4)
+ November 2020	
+  Public-sector hospital/cancer center	17 (19)
+  University hospital	67 (75)
+  Private-sector hospital	5 (6)
+Continuous variables reported as mean ± SD (standard deviation). Qualitative variables reported a number and percentage (n (%)).
+
+
+3.2. Pre-COVID training conditions
+Fig. 1 and Online materials Table S2 detail pre-COVID training conditions per region. There were no significant inter-regional differences in activity distribution between theater, department and consultation/emergency (respectively, P = 0.14, 0.536, 0.134). For 67% (60/89) of respondents, theater time accounted for 25–50% of activity. For 58%, consultation/emergency accounted for 25–50% of activity. For 61% (54/89), ward and department management accounted for less than 25%. Even so, 62.9% (56/89) considered surgery training to be insufficient to achieve autonomy by end of residency. On average, residents had 2 ± 1 hours of academic training per week, varying significantly between regions, with significantly more hours in Île-de-France (3 ± 1 hrs/wk, P < 0.001). Residents spent an average 4 ± 3 hours per week on personal academic study (including university diploma study), without difference between regions (P = 0.954). 53.9% (48/89) were registered for at least 1 university diploma in 2019–2020 and/or 2020–2021, although significantly fewer in Île-de-France (36%, 10/28) (P < 0.001) (Online materials Table S2).
+
+
+Download : Download high-res image (355KB)
+Download : Download full-size image
+Fig. 1. Pre-COVID distribution of practical activities (theater, ward and department management, consultation/emergency) according to Region. n = 89. The percentage of respondents for whom each activity accounted for < 25%, 25–50%, 50–75% or 75–100% of their time is shown according to activity (theater, ward and department management, consultation/emergency) and to Region (Île-de-France, Rhône-Alpes Auvergne, Occitanie, Grand Est, Grand Ouest).
+
+3.3. Health situation per wave and per region
+Fig. 2 shows the number of COVID-19 admissions per day per 100,000 inhabitants at the 3 peaks between 2019 and 2021. Île-de-France and Grand Est were severely affected by the 1st wave, while Rhône-Alpes Auvergne was the most affected by the 2nd wave. The other regions were less affected and without difference between waves.
+
+
+Download : Download high-res image (377KB)
+Download : Download full-size image
+Fig. 2. Number of COVID-19 admissions per day per 100,000 inhabitants at the 3 peaks (March 2020, November 2020, April 2021); source: https://www.gouvernement.fr/info-coronavirus/carte-et-donnees.
+
+3.4. Impact on academic and practical training and according to subspecialty
+Online materials Tables S3 and S4 show impact according to area of training during the 3 waves. In total, 58.1% of respondents (36/89) reported functional exploration to be the most strongly impacted practical area, followed by otology and rhinology (respectively for 17.7% (11/89) and 12.9% (8/89)). Only oncology and pediatrics were spared.
+
+In total, 56.2% of respondents (50/89) reported a reduction in academic training, with changes to exam conditions for 67.4% (60/89) (equally, cancellation/postponement or e-examination), while 50.6% (45/89) reported impact on university diploma training, independently of region (P = 0.213). For 51.7% (46/89), 1 or more congresses were cancelled.
+
+3.5. Impact of COVID-19 according to wave, region and regional health situation
+Table 2 shows that 79.7% of respondents (71/89) found that the 1st wave affected their training, compared to respectively 39.3% (35/89) and 44.9% (40/89) for waves 2 and 3. Independently of wave, two-thirds of respondents reported surgical training to be far more strongly impacted than academic education (respectively 55/89 (61.8%), 53/89 (59.6%) and 57/89 (64%) for the 3 waves). Fig. 3 shows that surgical training was reduced by 50–75% for 37/89 respondents (42%) in the 1st wave, whereas 40/89 (45%) estimated the reduction at 25–50% in the 2nd wave, and 34/89 (38%) estimated it at 0–25% in the 3rd wave. Online materials Table S5 shows that Île-de-France, Rhône-Alpes Auvergne and Grand Est were the most strongly affected regions in the 1st wave (majority of estimates at 75–100% reduction in surgical practice), while Occitanie was the most strongly affected in the 2nd wave (majority of estimates at 50–75% reduction in surgical practice), and Île-de-France, Rhône-Alpes Auvergne and Occitanie were moderately affected in the 3rd wave (majority of estimates at 25–50% reduction in surgical practice). In the 3 waves, the reduction in academic education for the DES national degree course was most often estimated at 0–25%: respectively 31/89 (34.8%), 41/89 (46.1%) and 34/89 (38.2%) per wave (Fig. 3).
+
+Table 2. Reported general impact of the COVID-19 pandemic on practical and academic training.
+
+The health crisis affected your training in November 2020–Mai 2021
+n (%)	
+ Completely disagree	11 (12.4)
+ Rather disagree	16 (18)
+ Neutral	22 (24.7)
+ Agree	14 (15.7)
+ Completely agree	26 (29.2)
+Was academic (degree course lectures and classes) or surgical training most affected?
+n (%)	
+ Semester November 2019–May 2020	
+  Surgical	55 (61.8)
+  Academic	6 (6.7)
+  Both equally	28 (31.5)
+ Semester May 2020–November 2020	
+  Surgical	53 (59.6)
+  Academic	15 (16.9)
+  Both equally	21 (23.6)
+ Semester November 2020–May 2021	
+  Surgical	57 (64)
+  Academic	14 (15.7)
+  Both equally	18 (20.2)
+Qualitative variables reported as number and percentage (n (%)).
+
+
+
+Download : Download high-res image (331KB)
+Download : Download full-size image
+Fig. 3. Estimated decrease in academic and in surgical training, overall and per subspecialty, during the first 3 waves; n = 89. The percentage of respondents for whom the decrease was < 25%, 25–50%, 50–75% or 75–100% is shown according to academic training, global surgical training and subspecialty (pediatrics, oncology, otology, rhinology, laryngology), for each wave: 1) semester November 2019–Mai 2020; 2) semester May 2020–November 2020; 3) semester November 2020–May 2021.
+
+3.6. Alternative training methods
+Online materials Table S4 shows that 86.5% of respondents (77/89) reported alternatives being implemented to compensate for the absence of in-person classes: as of the 1st wave according to 41% (36/89), as of the 2nd according to 41% (36/89) and as of the 3rd according to only 18% (16/89). According to 94.4% (84/89, including some who had answered “Don’t know” to the more general question), e-learning was set up, followed by classes in the department for 51% (46/89) and provision of digital supports for 29% (26/89); only 15.7% (14/89) reported simulation workshops. 50.6% (45/89) found these alternatives to be well adapted. Almost two-thirds felt a need to get supplementary supports to compensate for lack of academic training: books, scientific society webinars, and literature searches.
+
+4. Discussion
+The questionnaire revealed a reduction in training time for ENT-H&N residents in 5 large regions of France that were variously affected by the first 3 COVID-19 waves. According to two-thirds of respondents, surgical training suffered more than academic education, functional surgery being the most severely affected. It was notable, however, that, while 79% (71/89) considered that the 1st wave had a negative impact on their training, only 39% (35/89) and 44.9% (40/89) had the same feeling regarding the 2nd and 3rd waves respectively, whether due to resumption of activity and/or to adaptation of the hospital and university system. Reductions in surgical activity varied between regions, and paralleled the local health situation (Fig. 2).
+
+This feeling of deterioration in training under the pandemic was reported in many studies worldwide, in both medical and surgical residents [10], [11], [12]. The American study by Aziz et al., in 1,102 general surgery residents, found a significant reduction of more than 50% in the number of weekly cases operated on by residents compared to the pre-COVID situation [10]. Surgical and interventional specialties were more strongly impacted in terms of training than medical fields or fields such as radiology with less patient contact [13], [14], [15], [16], [17]. Amparore et al. analyzed responses by 377 Italian urology residents; the proportion experiencing severe reduction (> 40%) or almost total interruption (> 80%) of training was 41.1–81.2% in clinical activity and 44.2–62.1% in surgery [18]. Guo et al. reported that 98% of 216 North American otolaryngology trainees who responded to a questionnaire complained of reduction in clinical activity [19].
+
+Head and neck surgery is at particular risk of contamination by aerosolization [20]. This accounts for the large reduction not only in surgery but also in non-urgent and high-risk clinical activity such as nasal endoscopy, audiometry, rhinomanometry and acoustic rhinometry, or olfactometry. The French ENT Society (SFORL) published guidelines to limit unnecessary high-risk interventions (https://www.sforl.org/wp-content/uploads/2020/03/Alerte-Covid-19-Endoscopies-et-fibroscopies.pdf), and to postpone surgeries that could be deferred [2]. There was consequently an inexorable decrease in both clinical and surgical activity, impacting resident training. This was confirmed in the present study, where the most severely affected subspecialties were otology and rhinology, whereas oncology and pediatrics were little affected, in line with recommendations [21], [22]. Amparore et al. [18] reported that residents in Northern Italy, severely affected by the 1st wave, were especially affected by the fall in activity; likewise in the present study, regions in which the health situation was notably critical (Île-de-France, Rhône-Alpes Auvergne and Grand Est) were those in which respondents reported the greatest decrease in activity.
+
+In total, 86.5% of respondents (77/89) reported alternatives to compensate for the lack of practical and academic training, implemented as of the 1st wave according to 41% (36/89) and adapted to needs according to 50.6% (45/89). One of the main alternatives reported in the literature is e-learning, which is highly appreciated by residents and by the medical community as a whole, as it saves on travel time and offers easily accessible extra training [23], [24], [25], [26]. Telemedicine likewise partially compensates for decreases in consultation. However, although patients are very well satisfied [27], it is better appreciated and more adapted for medical than surgical residents, especially in head and neck surgery where direct clinical examination is often indispensable [12]. Bandi et al. reported that dissection is the alternative to actual surgery that is best appreciated by residents (53%), followed by online teaching and webinars (46%) [28]. In the present series, however, very few ENT-H&N residents has dissection sessions or simulations, as anatomy and simulation labs were locked down in France during the 1st wave. Although generally satisfied with the alternatives provided, two-thirds of respondents had needed to look for training aids over and above those provided officially. This argues for increasing e-learning and other alternatives such as simulation, which, if possible, should be directly available in hospital or university departments [26], [29].
+
+This was the first French study to assess the impact of COVID-19 on training for surgery residents and specifically on the national ENT-H&N surgery degree course. Its main interest compared to other studies in the international literature was to compare reduction in activity over the first 3 waves, whereas other studies were restricted to wave 1 or else did not assess comparisons. This disclosed major impact in the 1st wave, parallel to local health situations (number of COVID-19 admissions directly related to closure of operating rooms and beds), whereas the subsequent waves had less impact on residents’ training, thanks to better preparation and organization.
+
+The study shows the limitations inherent to any survey: response rate varying between regions, and the retrospective declarative nature of the responses. It would be useful to supplement subjective assessment by objective operative data, which we were unable to do due to inter-regional differences and the risk excessive declaration bias over a period of 18 months. We chose to focus on 5 large regions, diversely impacted by the pandemic, but a larger nationwide study would be useful. The psychological impact of the crisis on ENT-H&N residents was not studied, although ENT-H&N is a highly exposed specialty and it would be interesting to assess levels of stress and anxiety, which may be high, as reported by Ashoor et al. [30]. However, in the free text part of the questionnaire, respondents rarely reported fear of contamination or severe stress.
+
+5. Conclusion
+This study highlighted reduced activity, both practical and academic, reported by French ENT-H&N residents, related to the COVID-19 epidemic. The reduction was greater during the 1st wave than the 2 subsequent waves, and mainly affected residents in regions in which the epidemic was most severe. The study thus indicates a need for reorganization and national-level harmonization of training and educational tools, whether in view of another wave or more generally. Reform of the 3rd cycle of medical studies has been underway for years in France, seeking to make residents more autonomous, and it would be interesting to assess progress in the light of the present context.

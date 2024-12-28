@@ -1,0 +1,33 @@
+OBJECTIVE: To identify rates of pediatric septoplasty revision in the US.
+DESIGN, SETTING, AND PARTICIPANTS: This retrospective, observational cohort 
+study used administrative claims data from the IBM MarketScan Commercial 
+Database (which contains inpatient and outpatient data for millions of patients 
+and dependents covered by employer-sponsored private health insurance in the US) 
+to identify patients undergoing septoplasty between January 1, 2007, and 
+December 31, 2016. Patients 18 years or younger were included in the study as 
+the pediatric cohort, and patients aged 19 to 65 years were included as the 
+adult cohort for comparison. Patients were excluded if the initial surgery 
+included rhinoplasty, nasal vestibular stenosis, or costal cartilage grafts or 
+if the second surgery did not have nasal vestibular stenosis, septoplasty, 
+rhinoplasty, and/or cartilage grafts.
+MAIN OUTCOMES AND MEASURES: Outcomes included septoplasty revision rate, 
+septoplasty-to-rhinoplasty conversion rate, and associated risks for revision 
+surgery. Collected data were analyzed between January 1 and July 30, 2022.
+RESULTS: A total of 24 322 pediatric patients (mean [SD] age, 15.7 [2.5] years; 
+15 121 boys [62.2%]) who underwent an initial septoplasty were identified, of 
+whom 704 (2.9%) received a revision. In the adult cohort of 286 218 patients 
+(mean [SD] age, 41.4 [12.2] years; 162 893 [56.9%] men), 3081 individuals (1.1%) 
+received a revision. Within the pediatric revision group, 66 patients (9.4%) 
+received a rhinoplasty vs 162 (5.3%) in the adult revision group. All pediatric 
+age groups had higher revision rates than the adult population, with the 9- to 
+13-year-old group having the highest rates of revision (118 of 2763 [4.3%]). 
+Patients in the West and Northeast, along with those with point of service and 
+health maintenance organization health plans, were more likely to receive a 
+revision.
+CONCLUSION AND RELEVANCE: The findings of this cohort study suggest that 
+pediatric patients are more likely to receive a revision surgery than their 
+adult counterparts. Furthermore, pediatric patients are more likely than adults 
+to receive a rhinoplasty as their revision surgery. These findings provide 
+valuable information that may be used to inform clinical decision-making, 
+although further research is needed to better identify the causes for pediatric 
+septoplasty revision.

@@ -1,0 +1,17 @@
+Promoting vaccination in maternity wards ─ motivational interview technique reduces hesitancy and enhances intention to vaccinate, results from a multicentre non-controlled pre- and post-intervention RCT-nested study, Quebec, March 2014 to February 2015.
+
+1/Background
+Many countries are grappling with growing numbers of parents who delay or refuse recommended vaccinations for their children. This has created a need for strategies to address vaccine hesitancy (VH) and better support parental decision-making regarding vaccination.
+Aim
+To assess vaccination intention (VI) and VH among parents who received an individual motivational-interview (MI) based intervention on infant immunisation during post-partum stay at a maternity ward between March 2014 and February 2015.
+
+2/Methods
+This non-controlled pre-/post-intervention study was conducted using the results from parents enrolled in the intervention arm of the PromoVaQ randomised control trial (RCT), 
+which was conducted in four maternity wards across the Province of Quebec. Participants (n = 1,223) completed pre- and post-intervention questionnaires on VI and VH using Opel's score. Pre-/post-intervention measures were compared using McNemar's test for categorical variables and Wilcoxon signed-rank test for continuous variables.
+
+3/Results
+Pre-intervention: overall VI was 78% and significantly differed across maternity wards (74%, 77%, 84%, 79%, p = 0.02). Post-intervention: VI rose significantly across maternity wards (89%, 85%, 95%, 93%) and the overall increase in VI was 12% (78% vs 90%, p < 0.0001). VH 
+corroborated these observations, pre- vs post-intervention, for each maternity ward (28% vs 16%, 29% vs 21%, 27% vs 17%, 24% vs 13%). Overall, VH was curbed post-intervention by 40% (27% vs 16%; p < 0.0001).
+
+4/Conclusions
+Compared with pre-intervention status, participants who received the MI-based intervention on immunisation displayed lower hesitancy and greater intention to vaccinate their infant at 2 months of age.

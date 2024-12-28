@@ -1,0 +1,33 @@
+AIMS/HYPOTHESIS: During hyperglycaemia, some glucose bypasses glycolysis and is 
+metabolised via the potentially neurotoxic polyol pathway, in which glucose is 
+metabolised to sorbitol and fructose. Increased polyol concentrations have been 
+demonstrated in the cerebrospinal fluid (CSF) of neurological patients with and 
+without diabetes mellitus. However, polyol levels in patients without evident 
+neurological abnormalities have not been investigated so far. The aim of this 
+study was to determine CSF polyol concentrations in patients without major 
+neurological disease with normal or elevated CSF glucose concentrations.
+METHODS: This observational cohort study used CSF and plasma analyses, as well 
+as clinical data, from 30 participants of the Anaesthetic Biobank of 
+Cerebrospinal Fluid study. Biomaterial was collected from adult patients 
+scheduled for elective surgery under spinal anaesthesia. CSF polyol 
+concentrations were measured by GC/flame ionisation detector in ten patients 
+with normal CSF glucose levels (group 1), ten patients with elevated CSF glucose 
+levels (group 2) and ten patients with elevated CSF glucose levels and type 2 
+diabetes (group 3). We compared the concentrations of plasma glucose, CSF 
+glucose, sorbitol and fructose, and CSF polyol/glucose ratios between the three 
+groups, and determined the correlation between plasma glucose levels and CSF 
+glucose, sorbitol and fructose levels.
+RESULTS: Groups 2 and 3 had significantly higher CSF fructose levels compared 
+with group 1 (p=0.036 and p<0.001, respectively). Group 3 showed significant 
+differences compared with groups 1 and 2 for CSF sorbitol (p<0.001 and 0.036, 
+respectively). Moreover, patients with diabetes had a significantly higher CSF 
+sorbitol/glucose ratio compared with patients without diabetes. There was a 
+strong positive correlation between plasma glucose and CSF glucose, sorbitol and 
+fructose. Finally, age, sex, CSF/plasma albumin ratio and preoperative cognitive 
+function scores were significantly correlated with plasma glucose and CSF 
+glucose, sorbitol and fructose levels.
+CONCLUSIONS/INTERPRETATION: Hyperglycaemia causes a proportional increase in 
+polyol concentrations in CSF of patients without major neurological disease. 
+Furthermore, this study provides the first indication of upregulation of the 
+cerebral polyol pathway in patients with diabetes without evident neurological 
+abnormalities.

@@ -1,0 +1,148 @@
+1. Introduction
+Sex differences affect patient outcomes in many diseases, such as Coronavirus Disease 2019 (COVID-19), acute myocardial infarction, acute ischemic stroke and infectious diseases, while outcome differences in out of hospital cardiac arrest are still controversial [1, 2, 3, 4, 5, 6, 7]. Male sex was found to be an independent predictor of mortality in the Emergency Department (ED) [8, 9, 10, 11], but it is unclear whether this higher risk for men is caused by male sex itself, by higher disease severity at ED presentation, or by sex related differences in the recognition and treatment of patients at risk in the ED.
+We live in a society where sex-specific medicine acquires more attention and physicians become more aware of sex differences in acute diseases[[12]]. If healthcare providers are aware of sex differences in disease presentations and clinical outcomes, they may be able to better anticipate the clinical course and provide better treatment choices for both men and women. If sex differences in characteristics at ED presentation and (case-mix adjusted) outcomes exist, risk stratification tools, triage systems, and guidelines for management of patients in the ED may need to be sex-adjusted [13, 14, 15].
+The aim of this study is therefore twofold: first, to assess sex differences in ED presentations (such as vital signs, triage categories, presenting complaints, blood values, pain scores), and differences in unadjusted and case-mix adjusted clinical outcomes (in-hospital mortality, hospital, and ICU/Medium Care Unit (MCU) admissions and ED/hospital Length of Stay (LOS)). Secondly, to assess the relation between sex and outcomes in subgroups of patients by triage-category and presenting complaints.
+2. Methods
+2.1 Study design and setting
+This observational multicenter cohort study was conducted in three EDs in the Netherlands, with each approximately 20,000–30,000 ED visits per year. In this study an existing database was used in which all ED visits were registered of one tertiary care center (1 January 2017 – 8 June 2019), and two urban hospitals (from 1 January 2019–12 January 2020 and in one center from 1 January 2017 – 31 December 2019). The study was approved by the medical ethics committee of the Máxima Medical Center. The study was registered in the Netherlands Trials Register: NL9030.
+2.2 Selection of participants
+All consecutive ED patients ≥ 18 years were included if sex was registered.
+2.3 Data collection
+Data were collected from the Netherlands Emergency Department Evaluation Database (NEED), the national quality registration for EDs in the Netherlands (see www.stichting.need.nl). Data from three hospitals were available. The tertiary care center used the Manchester Triage System (MTS) and both urban hospitals the Dutch Triage Standard (NTS). Previously, we described in detail which data were collected, and how data were categorized and synchronized among hospitals before analyses was possible [[16]]. In addition, presenting complaints for both triage systems were merged and a National Early Warning Score (NEWS) was calculated (supplementary file 1) [[17]].
+2.4 Outcome measures
+The primary outcome was in-hospital mortality. Secondary outcomes were ICU/MCU admissions (including Coronary Care Unit admissions), ED-length of stay (0–4 or ≥ 4 h), hospital-length of stay, (0–5 or ≥ 5 days; 0–30 or ≥ 30 days) and total hospital admissions. Patients who required, or were likely to require, advanced respiratory support, inotropic agents or were at high risk for cardiac arrest, were admitted to the ICU/MCU if a specialist or intensivist considered this to be necessary. ICU/MCU admission did not include patients who were first admitted to a general ward and were later admitted to an ICU/MCU. A prolonged ED-length of stay was ≥ 4 h based on previous research [[18]]. Hospital-length of stay was dichotomized in two ways: shorter or longer than the median length of stay in the Netherlands (5 days) [[19]], and shorter or longer than 30 days as measure of prolonged hospital stay [[20]], Patients discharged from the ED were not included in this outcome. The total hospital admissions included deceased patients in the ED and patients transferred to other hospitals.
+2.5 Sample size estimation
+We aimed to adjust for 12 potential confounders in the regression analyses, mentioned in the ‘Statistical analyses’ section. Most variables were categorized and had to be used as dummy variables in the analyses. As a result, we had to include 44 (dummy) variables in the regression analysis. Approximately five to ten events per variable are needed to prevent overfitting in association studies [[21]]. The NEED contained 148,828 ED visits of patients ≥ 18 years of age, of whom ∼50% (74,000) are women. Estimated in-hospital mortality would be ∼3% of the overall population. On average we would have 0.03 × 74,000 = 2220 events per group to adjust for the 44 potential confounders in the analysis with the end-point mortality. This number of events is appropriate to prevent overfitting.
+2.6 Statistical analyses
+For objective 1, descriptive statistics were used to compare ED presentation and outcome between males and females. Data were presented as mean and standard deviation (SD) if normally distributed, skewed data were presented as median and interquartile range (IQR). Categorical data were presented as number and percentage (%). Paired Student's t-tests, Wilcoxon Signed rank test and Pearson χ2 tests (as appropriate) were used to compare outcomes between males and females. NEWS scores were presented with the commonly used trigger levels [[17]]. A sample of the top five diagnoses (using the International Classification of Diseases 10th Revision (ICD-10 codes)) were presented per sex and top 10 presenting complaints, from two out of three hospitals, as information was not available in the third hospital. Univariable and multivariable logistic regression analyses were performed to assess the association between sex and outcomes. All potential confounders considered relevant by three researchers (BC, SD, and BdG) were used in the multivariable model. Vital signs were categorized in four or five categories based on expected distribution to overcome non-linear associations [[22]], including a category ‘not measured’ to prevent information bias by missing data. Multicollinearity was considered not to be a problem if the Variance Inflation Factor (VIF) was below three. Separate models were made for the two different outcomes. Per outcome measure, two different models were constructed. The first model was built to adjust for reason of presentation in the ED and contained the following potential confounders: age, hospital location and presenting complaints (top ten most frequent presenting complaints + miscellaneous presenting complaints). The second model was also adjusted for severity of illness and treatments given in the ED, and contained 12 potential confounders: age, hospital location, presenting complaints, performed radiological tests (0= none performed, 1= X-ray, ultrasound or CT-scan performed), laboratory test score (0= no blood tests performed, 1= any blood test performed), amount of fluids administered during ED stay (0=no fluid, 1 = 0–500ml, 2 = > 500 ml), number of consultations in the ED (0=none, 1 = 1, 2 = 2, 3 = ≥ 3 consultations), respiratory rate (not measured, 0–9, 10–19, 20–29, ≥ 30 /min), peripheral oxygen saturation (not measured, 0–80, 81–85, 86–90, 91–95, 96–100%), systolic blood pressure (not measured, 0–80, 81–100, 101–120, 121–140, > 140 mmHg), heart rate (not measured, 0–50, 51–75, 76–100, 101–125, > 125beats/min.) and temperature (not measured, 0–30, 31–34, 35–37, 38–39, ≥ 40 °C). Vital signs and fluid administration were used as a measure of disease severity. The number of consultations, radiological tests and laboratory test score were used as a measure of comorbidities/complexity as described previously [[23]]. Patients with missing data were excluded from the analyses. Crude and adjusted odds ratio's (AORs) were reported with 95% Confidence Intervals (95%-CIs).
+For objective 2, we assessed the association between triage categories (1= non-urgent, 2= urgent, 3= very urgent, 4= most urgent), presenting complaints and mortality, and ICU/MCU admission with a new multivariable model for men and women separately, using similar potential confounders as used in model 2 described above. Mean adjusted mortality with 95% CIs for each triage category and presenting complaint were presented, which is the absolute mortality after correction for confounding.
+2.7 Sensitivity analyses
+A sensitivity analysis was performed to assess whether using different potential confounders in the multivariable logistic regression affected the impact of sex on outcome. Therefore, we repeated the multivariable model 2 as described above to assess the association between sex and outcome, but in which all vital signs were replaced as potential confounders NEWS score, and blood tests (urea, hemoglobin, and leukocytes) divided in categories, including a category ‘not measured’. If vital signs were not measured, they were considered normal values in the NEWS.
+In a second sensitivity analysis we excluded all patients who died in the ED. After exclusion of these patients, we repeated the multivariable logistic regression model 2 and reported the AOR for male sex.
+2.8 Subgroup analyses
+To assess whether etiology affected the association between sex and the primary outcome, subgroup analyses were performed selecting patients with suspected infection, trauma, and chest pain. Supplementary file 2 describes how these patients were selected in the database.
+IBM SPSS Statistics version 25.0 was used for all statistical analyses. A P-value < 0.05 was considered significant.
+3. Results
+3.1 Patient characteristics
+The total cohort consisted of 148,825 ED visits, of which 48.8% were women. Supplementary file 3 shows the flow chart of the present study. The mean age for men was 56.0 (20.0) years and for women 56.8 (20.9) years. Only small differences existed between men and women in demographics, characteristics during ED visit, vital signs, and performed diagnostics (Table 1). For example, self-referral was higher among men (43.8%) compared to women (37.5%), (difference 95%-CI 5.8–6.8%). Males more often presented with chest pain (8.8%) than women (7.4%) (difference, 95%-CI 1.0–1.6%). The miscellaneous presenting complaints consisted of 41 presenting complaints (supplementary file 1), including urinary tract problems, eye problems, suicidal behavior, intoxications, diarrhea/vomiting, and fall which all had an incidence of > 1.0% without differences between men and women. All other presenting complaints had an incidence < 1.0%. Males were more often triaged as ‘most urgent’ (4.7%) than women (3.7%) (difference, 95%-CI 0.7–1.1%). Severe pain (Numeric Rating Scale ≥ 7) was more often reported by women (7.6%) compared to men (5.8%) (difference 95%-CI 1.1–2.6%). Creatinine, urea, and hemoglobin levels were higher in male sex. A sample of the top five diagnoses per sex and presenting complaints from two hospitals show roughly similar results for men and women (supplementary file 4). Patient characteristics were also described separately for patients triaged as ‘very urgent’ and ‘most urgent’, which showed similar results (supplementary file 5).
+Table 1Patient characteristics.
+Total cohort	Male patients	Female patients
+Demographics			
+N (%)	148,825	76,271 (51.2)	72,554 (48.8)
+Age, years, mean (SD)	56.4 (20.5)	56.0 (20.0)	56.8 (20.9)
+Tertiary care center	55,069 (37.0)	28,786 (37.7)	28,283 (36.2)
+Arrived by ambulance, N (%)	45,148 (33.1)	23,425 (33.4)	21,723 (32.7)
+Self-referral, N (%)	59,718 (40.1)	32,811 (43.8)	26,907 (37.5)
+Trauma/shock room, N (%)	9689 (10.5)	5040 (10.8)	4649 (10.2)
+Characteristics during ED-visit
+Top 10 presenting complaints, N (%)			
+1. Extremity problems	26,981 (18.1)	13,003 (17.0)	13,978 (19.3)
+2. Feeling unwell	24,139 (16.2)	12,567 (16.5)	11,572 (15.9)
+3. Abdominal pain	16,032 (10.8)	6835 (9.0)	9197 (12.7)
+4. Dyspnea	13,049 (8.8)	6457 (8.5)	6592 (9.1)
+5. Chest pain	12,077 (8.1)	6675 (8.8)	5402 (7.4)
+6. Wounds	7102 (4.8)	4604 (6.0)	2498 (3.4)
+7. Trauma	5056 (3.4)	2769 (3.6)	2296 (3.2)
+8. Collapse	4385 (2.9)	2542 (3.3)	1843 (2.5)
+9. Palpitations	3746 (2.5)	2045 (2.7)	1701 (2.3)
+10. Headache	2503 (1.7)	1068 (1.4)	1435 (2.0)
+Miscellaneous	33,746 (22.7)	17,706 (23.2)	16,040 (22.1)
+Triage category, N (%)			
+Non-urgent	43,259 (30.3)	22,388 (30.7)	20.871 (30.0)
+Urgent	60,309 (42.3)	29,772 (40.8)	30,537 (43.9)
+Very urgent	33,090 (23.2)	17,442 (22.9)	15,648 (22.5)
+Most urgent	5970 (4.0)	3396 (4.7)	2574 (3.7)
+NEWS, median (IQR)	3 (3–5)	3 (3–5)	3 (3–5)
+NEWS trigger level 1 (0–4), N (%)	106,933 (71.9)	54,778 (71.8)	52,155 (71.9)
+NEWS trigger level 2 (5–6), N (%)	23,522 (15.8)	11,748 (15.4)	11,774 (16.2)
+NEWS trigger level 3 (7–23), N (%)	18,370 (12.3)	9745 (12.8)	8625 (11.9)
+Vital signs			
+SBP, mmHg, mean (SD)	133 (31)	132 (31)	133 (32)
+DBP, mmHg, mean (SD)	83 (17)	84 (17)	81 (17)
+MAP, mmHg, mean (SD)	99 (19)	99 (19)	98 (19)
+Temperature,°C, median [IQR]	36.9 [36.5–37.4]	37.0 [36.6–37.4]	36.8 [36.4–37.3]
+RR, /min, median [IQR]	17 [14–20]	17.0 [14–20]	17.0 [14–20]
+SPO2, %, median [IQR]	98 [96–100]	98.0 [96–99]	98.0 [96–100]
+HR, /min, mean (SD)	86 (21)	85 (22)	87 (20)
+Pain scores, Numeric Rating Scale, N (%)			
+Not measured	77,948 (52.4)	39,812 (52.2)	38,136 (52.6)
+0	18,979 (12.8)	10,476 (13.7)	8503 (11.7)
+1–3	22,357 (15.0)	12,154(15.9)	10,203 (14.1)
+4–6	19,582 (13.2)	9395 (12.3)	10,187 (14.0)
+7–10	9959 (6.7)	4434 (5.8)	5525 (7.6)
+Diagnostics			
+Radiology performeda, N (%)	83,886 (56.4)	42,682 (56.0)	41,204 (56.9)
+Urine sediment, N (%)	25,876 (26.1)	12,227 (24.4)	13,649 (27.9)
+Blood gas, N (%)	22,491 (15.1)	11,969 (15.7)	10,522 (14.5)
+Blood cultures, N (%)	13,357 (13.8)	7261 (14.8)	6096 (12.8)
+Laboratory test scoreb, N (%)	94,973 (63.9)	47,981 (62.8)	47,082 (64.9)
+Number of consultations, N (%)			
+None	58,570 (41.4)	29,944 (41.5)	28,626 (41.3)
+1	74,140 (52.4)	37,651 (52.2)	38,489 (52.7)
+2	7722 (5.5)	4005 (5.5)	3717 (5.4)
+≥ 3	1032 (0.7)	570 (0.8)	462 (0.7)
+Biomarkers			
+Sodium, median [IQR]	140 [137–142]	140 (137–142)	140 (137–142)
+Potassium, median [IQR]	4.1 [3.8–4.4]	4.2 (3.9–4.5)	4.1 (3.8–4.4)
+Creatinine, mmol/L, median [IQR]	77 [63–97]	87 [74–108]	67 [57–82]
+Urea, mmol/L, median [IQR]	5.8 [4.3–7.9]	6.3 [4.9–8.5]	5.2 [3.9–7.1]
+CRP, mg/L, median [IQR]	10 [4–47]	12 [5–53]	10 [4–42]
+Leucocytes, x10^9/L, median [IQR]	9.1 [7.0–12.0]	9.1 [7.0–12.1]	9.1 [7.0–12.0]
+Hb, mmol/L, mean (SD)	8.3 (1.3)	8.5 (1.4)	8.0 (1.1)
+Lactate, mmol/L, median [IQR]	1.6 [1.1–2.3]	1.6 [1.1–2.5]	1.5 [1.0–2.2]
+Abbreviations= N: number, SD: standard deviation, IQR: inter quartile range, ED: Emergency Department, NEWS: National Early Warning Score, SBP: systolic blood pressure, DBP: diastolic blood pressure, MAP: mean arterial pressure, RR: respiratory rate, HR: heart rate, SPO2: peripheral oxygen saturation, mmHg= millimetre mercury,°C: °C, CRP: C-reactive Protein, Hb: haemoglobin.
+a If one or more of the following radiological tests were performed: Ultrasound, radiography, and computer-tomography.
+b Laboratory test score reflects whether one or more blood tests were performed. Missing values (male;female)= age (0:0); arrival type (6220;6056) referral status (1321;850) location (0;0) triage category (3273;2924) presenting complaints (3626;2995) trauma room (29,499;26,773) radiology performed (107;87) consultations (4101;3260) blood gas (52;48) blood culture (27,112;24977) laboratory test score (52;48) sodium (29,872;27,330) Potassium (30,625;28,349) creatinine (30,910;28,124) urea (31,198;28,804) lactate (65,083;62,751) CRP (37,053;33,798) Leucocytes (30,681;27,572) Hb (29,712;26,805) SBP (31,158;28,136) DBP (31,181;28,169) MAP (31,160;28,153) temperature (34,931;31,530) HR (33,355;30,694) RR (40,815;39,347) SPO2 (30,076;26,964).
+Open table in a new tab
+3.2 The association between sex and clinical outcomes
+In-hospital mortality was 2.2% in males and 1.7% in females (Table 2). ICU/MCU admission was 4.7% in males and 3.1% in females. Females were more often discharged home from the ED (49.7%) compared to males (47.3%), however, 7-day revisit to the ED was similar for men and women.
+Table 2Relevant clinical outcomes in male and female ED patients.
+Total cohort N: 148,825	Males N = 76,271	Females N = 72,554	P value
+In hospital-mortalitya, N (%)	2851 (1.9)	1663 (2.2)	1188 (1.7)	< 0.01
+Disposition, N (%)				
+ Total hospital admissions	62,472 (42.0)	32,797 (43.0)	29,675 (40.9)	< 0.01
+  ICU/MCU admission	5425 (3.9)	3317 (4.7)	2108 (3.1)	< 0.01
+   Ward admission	54,175 (38.9)	27,936 (39.4)	26,239 (38.4)	< 0.01
+ Transfers to other hospitals	2519 (1.8)	1289 (1.8)	1230 (1.8)	0.84
+   Discharged home	67,472 (48.5)	33,554 (47.3)	33,918 (49.7)	< 0.01
+ED-LOS, hours, median [IQR]	2.7 [1.7–3.8]	2.6 [1.7–3.7]	2.8 [1.8–3.8]	< 0.01
+H-LOS, days, median [IQR]	4.0 [2.0–7.0]	4.0 [2.0–7.0]	4.0 [2.0–7.0]	< 0.01
+7-day revisit to the ED, N (%)	8015 (5.4)	4068 (5.3)	3947 (5.4)	0.79
+Abbreviations= N: number, SD: standard deviation, IQR: inter quartile range, ICU: intensive care unit, MCU: medium care unit, ED-LOS: Emergency Department-Length Of Stay, H-LOS: hospital-Length Of Stay.
+a in-hospital mortality included patients who died in the ED.Missing values (male;female)= mortality (1242;914) Disposition (5306;4279) ED-LOS (15;19) H-LOS (28,682;27,437)
+Open table in a new tab
+Males had higher unadjusted risk (AOR 1.34; 1.25–1.45) and adjusted risk for in-hospital mortality with both model 1 (AOR 1.36;1.26–1.47) and model 2 (AOR 1.34; 1.24–1.46). Also, for high dependency care unit admission, unadjusted risk (AOR 1.54;1.46–1.63) and adjusted risk with model 1 (AOR 1.47;1.38–1.55) and model 2 (AOR 1.46; 1.37–1.56) were higher in males (see Table 3). Males had lower unadjusted risk (AOR 0.90; 0.88–0.92) and adjusted risk (model 2) (AOR 0.89; 0.87–0.92) for a long ED length of stay of ≥ 4 h.
+Table 3The risk for clinical outcomes for male ED patients compared to female ED patients.
+Crude OR (95%-CI)	Model 1 AOR (95%-CI)	Model 2 AOR (95%-CI)
+In-hospital mortality	1.34 (1.25–145)	1.36 (1.26–1.47)	1.34 (1.24–1.46)
+ICU/MCU admission	1.54 (1.46–1.63)	1.47 (1.38–1.55)	1.46 (1.37–1.56)
+Total hospital admissions	1.09 (1.07–1.11)	1.16 (1.14–1.19)	1.18 (1.15–1.21)
+ED-LOS (≥ 4 h)	0.90 (0.88–0.92)	0.92 (0.90–0.94)	0.89 (0.87–0.92)
+H-LOS (≥ 5d)	0.96 (0.93–1.00)	0.98 (0.95–1.02)	0.97 (0.94–1.00)
+H-LOS (≥ 30d)	1.14 (1.01–1.30)	1.14 (1.00–1.29)	1.11 (0.98–1.26)
+Abbreviations= OR: odds ratio, AOR: adjusted odds ratio, CI: confidence interval, MCU: medium care unit, ICU: intensive care unit, ED-LOS: emergency department-Length Of Stay, H-LOS: hospital-Length Of Stay.
+For H-LOS, only patients who were admitted were included in the analyses.
+ORs > 1 means a higher risk on the outcome for males compared to females.
+Model 1 is adjusted for age, top 10 presenting complaints, and hospital location.
+Model 2 is adjusted for age, top 10 presenting complaints, hospital location, performed diagnostics (radiology, blood tests), fluid administration, number of consultations and vital signs.
+Open table in a new tab
+3.3 The association between triage categories, presenting complaints, and outcomes
+Men had higher risks on mortality or ICU/MCU admission in all triage categories (Fig. 1). In the ‘non-urgent’ triage-category, adjusted mortality was 0.52% (0.51–0.53%) in men and 0.46% (0.45–0.47%) for women. Adjusted ICU/MCU admission was 0.74% (0.72–0.76%) for men and 0.57% (0.56–0.59%) for women. In the ‘most urgent’ triage category, adjusted mortality was 16.0% (15.4–16.6%) in men and 12.2% (11.7–12.8%) in women. Adjusted ICU/MCU admission was 23.6% (23.0–24.2%) in men and 18.7% (18.1–19.3%) in women.
+Fig 1
+Fig. 1The first panel shows mean adjusted in-hospital mortality with 95% Confidence intervals for men and women per triage category, according to the Manchester Triage System or the Dutch Triage Standard. The multivariable model was adjusted for age, presenting complaints, disease severity, vital signs, and proxies for comorbidities/complexity. Panel B shows mean adjusted Intensive Care Unit/Medium Care Unit admission per triage category in men and women.
+View Large ImageFigure ViewerDownload Hi-res imageDownload (PPT)
+With all presenting complaints, except wounds and headache, men had higher adjusted mortality and ICU/MCU admission (see Fig. 2). Mean adjusted mortality in men and women was 0.34% (0.33–0.35%) and 0.33% (0.32–0.34%) for extremity complaints, 4.5% (4.4–4.6%) and 3.7% (3.6–3.8%) for feeling unwell, 1.6% (1.5–1.7%) and 0.85% (0.81–0.89%) for abdominal pain, 5.6% (5.4–5.8%) and 4.1% (3.9–4.2%) for dyspnea, 1.0% (0.98–1.1%) and 0.70% (0.66–0.73%) for chest pain, 0.090 (0.084–0.093%) and 0.12% (0.11–0.13%) for wounds, 1.4% (1.3–1.5%) and 1.1% (1.0–1.2%) for trauma, 4.7% (4.5–5.0%) and 3.3% (3.1–3.6%) for collapse, 0.45% (0.41–0.48%) and 0.18% (0.16–0.19%) for palpitations, 0.86% (0.78–0.94%) and 1.9% (1.8–2.1%) for headache and 2.1% (2.0–2.2%) and 1.5% (1.4–1.5%) for miscellaneous.
+Fig 2
+Fig. 2The first panel shows mean adjusted in-hospital mortality with 95% Confidence intervals for men and women per top 10 presenting complaints, according to the Manchester Triage System or the Dutch Triage Standard. The multivariable model was adjusted for age, presenting complaints, disease severity, vital signs, and proxies for comorbidities/complexity. Panel B shows mean adjusted Intensive Care Unit/Medium Care Unit admission per top 10 presenting complaints in men and women.
+View Large ImageFigure ViewerDownload Hi-res imageDownload (PPT)
+3.4 Sensitivity subgroup analyses
+The sensitivity analyses showed similar results with higher risks for men if other potential confounders were used for adjustment for severity of illness, and if patients who died in the ED were excluded from the analysis (supplementary file 6). Also, the subgroup analyses for suspected infection, trauma and patients with chest pain showed similar results with higher risks for men (supplementary file 2).
+4. Discussion
+Although characteristics at ED arrival are roughly similar, male ED patients have substantially higher crude and adjusted in-hospital mortality and were more often admitted to high dependency care units compared to female ED patients. These increased risks were also present in all triage categories and with almost all presenting complaints (including chest pain), as well as in subgroups of patients with suspected infection and trauma.
+To study the nature of the increased risk in males, we first explored whether this could be explained by higher age or different reasons for ED admission. We found that the differences in mortality and admission to high dependency care units persisted after correction for age and presenting complaints. Our results are in line with earlier studies, showing that male sex was found to be an independent predictor of adverse outcomes in patients admitted to an ED with AORs ranging from 1.14 to 1.62 [[8],[9],[11]]. However, in these studies it was not reported whether disease severity in males and females were similar at ED presentation. In our study the increased risk in male patients for adverse outcomes compared with females was still present after adjusting for initial disease severity before ED treatment, suggesting that factors other than age, presenting complaints and initial severity of illness were responsible for higher risk for adverse outcomes.
+We can only speculate which other factors may contribute to the increased risk for males compared to females. First, sex itself could be responsible for adverse outcomes in males, meaning that the male phenotype is associated with a more serious course of disease despite similar severity of illness at ED presentation. Differences in immune response, cardiovascular function and sex hormones have been suggested as the possible explanations for better outcomes of females in many diseases, like in sepsis patients [[24]]. Alternatively, it is possible that male patients present with more serious reasons for admission despite similar presenting complaints and vital signs. Male patients had higher ICU admissions than females, which may illustrate that they were more often non-responders to ED treatment, which is a measure of disease severity not captured in the initial variables. In addition, similar presenting complaints could represent more severe diseases in males. However, females are more likely to present with nonspecific complaints in for example acute myocardial infarction or stroke[[2],[25]]. Atypical presentation of disease was associated with adverse outcome [[26]]. Consequently, one would expect that nonspecific presenting complaints like feeling unwell, palpitations, or dyspnea would most likely represent serious disease in women with consequently higher risk for bad outcomes. In contrast we found lower risks for women, also in these subgroups. Furthermore, we showed that for each presenting complaint, diagnoses were comparable between men and women. Alternatively, we cannot exclude the possibility that differences in presenting complaints between males and females may lead to a different risk estimation in triage systems resulting in delayed initial management in the ED for males.
+Differences in ED treatment may be another possible explanation for outcome differences between men and women. Also, males with similar vital signs may be sicker than females due to differences in reference values. For example, a seemingly normal blood pressure in men may actually be relative hypotension, due to higher incidence of hypertension in males, causing end-organ hypoperfusion leading to adverse outcome [[27]]. If so, risk scores such as the triage system, which are mainly based on vital signs, may have different associations with clinical outcomes for men and women. In our study, in the non-urgent triage category, the absolute risk difference between men and women was only 0.06% while in the most-urgent triage category the difference was 3.8%, which suggests that disease severity is not equally valued in triage systems. Possibly, the same is true for other risk scores such as the NEWS, SIRS or PIRO score. In daily practice, risk stratification tools are used to guide treatment and disposition decisions. For example, in chest pain, the HEART and TIMI scores are used to identify low-risk patients who could be safely discharged from the ED [[28],[29]]. Studies that evaluated the HEART and TIMI score independently in men and women with chest pain, found a two times higher six-week risk for major adverse cardiac events in men than in women with low risk scores [[29],[30]]. By using risk stratification tools in the ED, like the HEART or TIMI score, or triage systems, physicians may not recognize potential sex differences in disease severity, which may cause inappropriate disposition decisions (i.e. to a ward instead of to ICU) or wrong initial treatment. Our findings suggest that male sex is an independent risk factor for adverse outcome, and thus, including male sex in scoring systems may improve risk stratification.
+Only in patients with headache as chief complaint, women had an increased risk compared to men. It is known that there is an increased risk for subarachnoid hemorrhage in women compared to men, and that women have an increased risk of death due to stroke [[3]]. Unfortunately, in our dataset, we had no information on incidence of stroke in patients presenting with headache.
+Our study has implications for clinical practice. First, sex differences in outcome cannot be explained by differences in age, presenting complaints, or disease severity before ED treatment. Secondly, in future studies, risk stratification tools and acute care guidelines may be improved if sex is implemented as a predictor of adverse outcomes, or if different risk scores are used for men and women, which is currently not done [[13]–[15],[31]].
+Despite several strengths like the large sample size and a multicenter design, this study has several limitations. First, the NEED did not contain information about comorbidities/complexity or frailty scores. To overcome this, we used variables that are associated with comorbidities and complexity [[18]]. Secondly, we had to assume that patients discharged from the ED did not have adverse outcomes as we did not follow-up on them. Nonetheless, we expect this would be similar for both sexes as 7-day ED revisit was also similar. Lastly, the observational nature of our study could have been subjected to errors of documentation and data entry, although this was largely automatized which minimalized accidental misregistration.
+In summary, male ED patients had higher risks for crude and adjusted in-hospital mortality and high dependency care unit admission compared to female ED patients, while patient characteristics at ED arrival were roughly similar. Furthermore, in all triage categories and with almost all presenting complaints, men had higher risks than women. Future studies should investigate reasons for higher risk in male ED patients, and whether sex-adjusted risk scores aid to identify patients at risk which may improve outcomes.

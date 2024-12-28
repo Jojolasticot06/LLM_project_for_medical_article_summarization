@@ -1,0 +1,21 @@
+Detecting signs of residual neural activity in patients with altered states of 
+consciousness is a crucial issue for the customization of neurorehabilitation 
+treatments and clinical decision-making. With this large observational 
+prospective study, we propose an innovative approach to detect residual signs of 
+consciousness via the assessment of the amount of autonomic information coded 
+within the brain. The latter was estimated by computing the mutual information 
+(MI) between preprocessed EEG and ECG signals, to be then compared across 
+consciousness groups, together with the absolute power and an international 
+qualitative labeling. One-hundred seventy-four patients (73 females, 42%) were 
+included in the study (median age of 65 years [IQR = 20], MCS +: 29, MCS -: 23, 
+UWS: 29). Electroencephalography (EEG) information content was found to be 
+mostly related to the coding of electrocardiography (ECG) activity, i.e., with 
+higher MI (p < 0.05), in Unresponsive Wakefulness Syndrome and Minimally 
+Consciousness State minus (MCS -). EEG-ECG MI, besides clearly discriminating 
+patients in an MCS - and +, significantly differed between lesioned areas 
+(sides) in a subgroup of unilateral hemorrhagic patients. Crucially, such an 
+accessible and non-invasive measure of residual consciousness signs was robust 
+across electrodes and patient groups. Consequently, exiting from a strictly 
+neuro-centric consciousness detection approach may be the key to provide 
+complementary insights for the objective assessment of patients' consciousness 
+levels and for the patient-specific planning of rehabilitative interventions.

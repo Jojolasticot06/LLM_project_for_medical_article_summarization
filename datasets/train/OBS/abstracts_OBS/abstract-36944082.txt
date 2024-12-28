@@ -1,0 +1,30 @@
+Context: Acute sore throat is a common presentation in primary care and often 
+results in antibiotic prescription. The Covid pandemic has driven changes in 
+consultation with less face to face visits. Scoring tools are available to 
+target antibiotics and widely used in the UK but it is not clear whether patient 
+self assessment is feasible and sufficiently precise to enable remote use of 
+scoring tools. Objective: A feasibility study to develop and test remote 
+assessment of acute sore throat. Design: Observational study Setting: UK primary 
+care Population: Adults and children with sore throat were asked to use the 
+online tool and report their clinical findings directly Intervention: An online 
+tool was developed that could help patients or parents of children with sore 
+throat assess the clinical features that make up clinical prediction rules and 
+to take a photograph of the throat Results: 221 patients with sore throat were 
+screened and 45 (33 adults and 12 children) were recruited. 44/45 (97.8%) 
+participants were able to complete all elements of the clinical assessment. It 
+was possible to calculate a FeverPAIN score for 25 (75.8%) adults and 10 (83.3%) 
+children. 35 participants (25 (75.8%) adults and 10 (83.3%) children) provided a 
+throat photograph but many of these were not of sufficient quality to enable 
+assessment of throat pus and inflammation. Poor lighting and focus were the main 
+problems. Photos that were of sufficient quality were available from 13 (39.4%) 
+adults and 5 (41.7%) children. Three GPs independently assessed these 
+photographs to assess for inflammation and pus. Using the clinician assessment 
+as the reference standard, self/parent/carer assessment of inflammation had a 
+sensitivity of 100%, specificity of 46.7%, positive predictive value (PPV) of 
+27.3% and negative predictive value (NPV) of 100%. The sensitivity, specificity, 
+PPV and NPV for pus were 76.5%, 100%, 71.4%, 42.9% and 100%. Conclusions: Self 
+assessment of sore throat was possible. Photographs were of sufficient quality 
+for clinical assessment less than half the time. Patients/parents/carers are 
+very good at ruling out pus and inflammation, but have a tendency to overcall 
+these findings, especially inflammation. Further implications for self 
+assessment and future work will be described.

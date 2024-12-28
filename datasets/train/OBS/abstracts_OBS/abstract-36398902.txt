@@ -1,0 +1,15 @@
+Mounting evidence points towards a pivotal role of gut microbiota in multiple 
+sclerosis (MS) pathophysiology. Yet, whether disease-modifying treatments alter 
+microbiota composition and whether microbiota shape treatment response and 
+side-effects remain unclear. In this prospective observational pilot study, we 
+assessed the effect of dimethyl fumarate (DMF) on gut microbiota and on 
+host/microbial metabolomics in a cohort of 20 MS patients. Combining 
+state-of-the-art microbial sequencing, metabolome mass spectrometry, and 
+computational analysis, we identified longitudinal changes in gut microbiota 
+composition under DMF-treatment and an increase in citric acid cycle 
+metabolites. Notably, DMF-induced lymphopenia, a clinically relevant safety 
+concern, was correlated with distinct baseline microbiome signatures in MS 
+patients. We identified gastrointestinal microbiota as a key therapeutic target 
+for metabolic properties of DMF. By characterizing gut microbial composition as 
+a candidate risk factor for DMF-induced lymphopenia, we provide novel insights 
+into the role of microbiota in mediating clinical side-effects.

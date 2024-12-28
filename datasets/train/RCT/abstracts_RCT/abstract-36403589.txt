@@ -1,0 +1,41 @@
+BACKGROUND: Older patients with early-stage rectal cancer are under-represented 
+in clinical trials and, therefore, little high-quality data are available to 
+guide treatment in this patient population. The TREC trial was a randomised, 
+open-label feasibility study conducted at 21 centres across the UK that compared 
+organ preservation through short-course radiotherapy (SCRT; 25 Gy in five 
+fractions) plus transanal endoscopic microsurgery (TEM) with standard total 
+mesorectal excision in adults with stage T1-2 rectal adenocarcinoma (maximum 
+diameter ≤30 mm) and no lymph node involvement or metastasis. TREC incorporated 
+a non-randomised registry offering organ preservation to patients who were 
+considered unsuitable for total mesorectal excision by the local colorectal 
+cancer multidisciplinary team. Organ preservation was achieved in 56 (92%) of 61 
+non-randomised registry patients with local recurrence-free survival of 91% (95% 
+CI 84-99) at 3 years. Here, we report acute and long-term patient-reported 
+outcomes from this non-randomised registry group.
+METHODS: Patients considered by the local colorectal cancer multidisciplinary 
+team to be at high risk of complications from total mesorectal excision on the 
+basis of frailty, comorbidities, and older age were included in a non-randomised 
+registry to receive organ-preserving treatment. These patients were invited to 
+complete questionnaires on patient-reported outcomes (the European Organisation 
+for Research and Treatment of Cancer Quality of Life [EORTC-QLQ] questionnaire 
+core module [QLQ-C30] and colorectal cancer module [QLQ-CR29], the Colorectal 
+Functional Outcome [COREFO] questionnaire, and EuroQol-5 Dimensions-3 Level 
+[EQ-5D-3L]) at baseline and at months 3, 6, 12, 24, and 36 postoperatively. To 
+aid interpretation, data from patients in the non-randomised registry were 
+compared with data from those patients in the TREC trial who had been randomly 
+assigned to organ-preserving therapy, and an additional reference cohort of 
+aged-matched controls from the UK general population. This study is registered 
+with the ISRCTN registry, ISRCTN14422743, and is closed.
+FINDINGS: Between July 21, 2011, and July 15, 2015, 88 patients were enrolled 
+onto the TREC study to undergo organ preservation, of whom 27 (31%) were 
+randomly allocated to organ-preserving therapy and 61 (69%) were added to the 
+non-randomised registry for organ-preserving therapy. Non-randomised patients 
+were older than randomised patients (median age 74 years [IQR 67-80] vs 65 years 
+[61-71]). Organ-preserving treatment was well tolerated among patients in the 
+non-randomised registry, with mild worsening of fatigue; quality of life; 
+physical, social, and role functioning; and bowel function 3 months 
+postoperatively compared with baseline values. By 6-12 months, most scores had 
+returned to baseline values, and were indistinguishable from data from the 
+reference cohort. Only mild symptoms of faecal incontinence and urgency, 
+equivalent to less than one episode per week, persisted at 36 months among 
+patients in both groups.

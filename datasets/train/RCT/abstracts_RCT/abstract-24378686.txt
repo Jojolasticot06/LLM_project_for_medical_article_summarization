@@ -1,0 +1,16 @@
+Sexuality talk during adolescent health maintenance visits.
+
+1/IMPORTANCE: Physicians may be important sources of sexuality information and preventive services, and one-on-one confidential time during health maintenance visits is recommended to allow discussions of sexual development, behavior, and risk reduction. However, little is known about the occurrence and characteristics of physician-adolescent discussions about sexuality.
+OBJECTIVE: To examine predictors of time spent discussing sexuality, level of 
+adolescent participation, and physician and patient characteristics associated with sexuality discussions during health maintenance visits by early and middle adolescents.
+
+2/DESIGN, SETTING, AND PARTICIPANTS: Observational study of audio-recorded conversations between 253 adolescents (mean age, 14.3 years; 53% female; 40% white; 47% African American) and 49 physicians (82% pediatricians; 84% white; 65% female; mean age, 40.9 years; mean [SD] duration in practice, 11.8 [8.7] 
+years) coded for sexuality content at 11 clinics (3 academic and 8 community-based practices) located throughout the Raleigh/Durham, North Carolina, area.
+
+3/MAIN OUTCOMES AND MEASURES: Total time per visit during which sexuality issues were discussed. RESULTS One hundred sixty-five (65%) of all visits had some sexual content within it. The average time of sexuality talk was 36 seconds (35% 0 seconds; 30% 1-35 seconds; and 35% ≥ 36 seconds). Ordinal logistic regression 
+(outcome of duration: 0, 1-35, or ≥ 36 seconds), adjusted for clustering of patients within physicians, found that female patients (odds ratio [OR] = 2.58; 95% CI, 1.53-4.36), older patients (OR = 1.37; 95% CI, 1.13-1.65), conversations with explicit confidentiality discussions (OR = 4.33; 95% CI, 2.58-7.28), 
+African American adolescents (OR = 1.58; 95% CI, 1.01-2.48), and longer overall visit (OR = 1.07; 95% CI, 1.03-1.11) were associated with more sexuality talk, and Asian physicians were associated with less sexuality talk (OR = 0.13; 95% CI, 0.08-0.20). In addition, the same significant associations between 
+adolescent, physician, and visit characteristics were significantly associated with greater adolescent participation.
+
+4/CONCLUSIONS AND RELEVANCE: Our study may be the first to directly observe sexuality talk between physicians and adolescents. We found that one-third of all adolescents had annual visits without any mention of sexuality issues; when sexuality talk occurred, it was brief. Research is needed to identify successful 
+strategies physicians can use to engage adolescents in discussions about sexuality to help promote healthy sexual development and decision making.

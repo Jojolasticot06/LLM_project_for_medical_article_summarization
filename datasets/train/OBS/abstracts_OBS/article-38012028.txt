@@ -1,0 +1,419 @@
+INTRODUCTION
+As defined in the Global Initiative for Asthma (GINA) annual report, asthma is
+a heterogeneous disease, usually characterized by chronic airway inflammation
+and a history of respiratory symptoms such as cough, wheezes, shortness
+of breath, and chest tightness, together with variable expiratory airflow limitation.
+1 It is the most common chronic disease of childhood and is a major source of
+childhood health burden worldwide, affecting 10% to 12% of children.2-4 It is also a
+prevalent respiratory disease among adults, affecting approximately 5% of men and
+6.5% of women in the European Union.5
+Asthma exacerbations represent a progressive deterioration of symptoms and
+lung function with respect to the patient’s usual status.1 Although asthma control
+can be reached in most cases within 1 year, data suggest that this is mostly achieved
+at the cost of maximizing drug dosages (68% and 76% of patients receiving salmeterol/
+fluticasone and fluticasone, respectively).6 Asthma exacerbations are associated
+with substantial health and economic effects including acute emergency department
+visits and occasional hospitalizations. Therefore, early diagnosis of an exacerbation
+is important for proper management and symptom relief. The identification
+and confirmation of an exacerbation is time sensitive, making efficient and effective
+home monitoring vital. Supplementary pulmonary function tests measuring peak
+expiratory flow (PEF) or forced expiratory volume in 1 second are available for
+home use. Whereas these tests are appropriate for use by adults and school children,
+they are not designed for use in children younger than 5 years of age.7,8
+
+To achieve effective asthma management, patients should
+be given the necessary tools to allow them to recognize and
+respond to worsening asthma. Whereas GINA identifies continuous
+sounds (wheezes, rhonchi) as crucial for exacerbation
+detection,1 auscultatory changes have thus far been assessed
+mainly by doctors during face-to-face meetings with patients.
+In this study, we investigated an artificial intelligence
+(AI)-aided home stethoscope, StethoMe (StethoMe sp. z
+o.o.), which enables the detection of pathologic auscultatory
+phenomena (including continuous sounds [wheezes and
+rhonchi] and transient sounds [coarse and fine crackles])
+automatically at home as well as the effective measurement
+of other parameters such as heart rate (HR), respiratory rate
+(RR), and inspiration-to-expiration duration ratio (I/E). The
+aim of this study was to investigate which parameters are of
+crucial importance in exacerbation detection and monitoring
+of patients with asthma and to what extent a home AI-aided
+stethoscope can support this process, especially in children,
+for whom there is a lack of efficient tools. We assessed data
+for a 6-month monitoring period of patients with asthma.
+Examinations were performed at home using an AI-aided
+home stethoscope, PEF (when possible) and peripheral capillary
+oxygen saturation (SpO2) measurements, and additional
+survey information.
+METHODS
+Study Design
+We conducted an observational study of patients of
+various ages with asthma. We monitored asthmarelated
+physiologic parameters (Table 1) at home
+for 6 months. Each patient (or parent) was required
+to perform health status (self-)examinations using
+a home stethoscope, peak flow meter, and pulse
+oximeter and indicate additional symptoms, including
+subjective breathing quality, and collect data as
+listed in Table 1, Figure 1, and Figure 2. The data
+were gathered with a dedicated smartphone application.
+Before the data collection process, each patient
+(or parent) was trained with respect to correct
+device usage and registration of all data in the provided
+mobile application. All information was sent to
+a platform accessed by physicians who analyzed the
+data to identify exacerbation occurrences.
+According to the research protocol, for the first
+14 days, 1 examination (collection of a set of recordings
+from auscultation points on the chest performed
+≥30 minutes after administration of asthma control
+drugs) per day was required, followed by ≥1 examination
+per week for the remaining duration of the
+program. When exacerbation or any alarming symptoms
+occurred, the participant was obliged to perform
+examinations twice a day. When determined
+by the physician assigned, participants were asked to
+perform additional examinations.
+Participants
+The patient consent form and the approval from the Poznań
+University of Medical Sciences Bioethics Committee are
+shown in Supplemental Appendix 1 and Supplemental
+Appendix 2, respectively. Patients were recruited from the
+general Slavic population via advertisements and recruitment
+efforts conducted by medical centers. The inclusion criterion
+for children and adults was diagnosed asthma (primary or
+secondary care). In younger children, suspicion of asthma
+was also accepted. Any other comorbidities that might affect
+asthma assessment or influence the measured parameters
+constituted exclusion criteria. Each participant underwent
+individual evaluation, during which a physician assessed their
+eligibility for inclusion in the study. Neither season nor pollen
+activity were factors considered for selection; however, the
+majority of participants collected data during the autumn.
+A total of 149 patients participated in the study. Among
+the 6,442 complete examinations, which included a total of
+41,872 recordings, 6.4% did not meet quality criteria and were
+not analyzed further; exclusion was determined by StethoMe
+AI on the basis of inadequate quality of the majority of recordings
+for an examination. All remaining examinations were
+labeled by physicians, and 282 examinations from 54 patients
+were identified as moderate or severe exacerbations (Table 2).
+Equipment
+We used standard certified medical devices, including
+pulse oximeters (Accurate FS20P, Accurate FS20C [Hunan Accurate Bio-Medical Technology Co, Ltd]) and peak flow
+meters (Mini Wright Peak Flow and Low Range [Clement
+Clarke International]), to collect SpO2 and PEF measurements.
+Other parameters were measured with the European
+Conformity (CE)-certified StethoMe stethoscope, which
+records auscultatory sounds from standard chest points
+(Figure 1) and transfers sound files wirelessly to a dedicated
+mobile phone application. The recordings were automatically
+analyzed by the AI module, and results (pathologic
+auscultatory sound intensities, HR, RR, I/E) were displayed
+in the application. In addition, the user provided other health
+state information in a survey in the mobile telephone application
+(Figure 2).
+We used StethoMe AI for automatic analysis of auscultatory
+recordings and aggregation of results for each
+examination (set of recordings from multiple auscultatory
+points on the chest). StethoMe AI has shown high effectiveness
+in respiratory sound recognition9-13; it was trained using
+>10,000 recordings of respiratory sounds (see Grzywalski
+et al9 for details) and is clinically validated and CE certified
+as a Class IIa medical device in Europe. This AI module is a
+specialized artificial neural network (NN) suitable for polyphonic
+sound event detection. It is composed of a dozen
+specialized layers of neurons, including many convolutional
+layers, which are effective at detecting local patterns in the
+signal, and several recurrent layers designed to capture longtime
+dependencies (eg, a patient’s breathing cycle and the
+associated recurrence of pathologic sounds). The network
+contains a total of 7.4 million trainable parameters. For output,
+the NN provides a matrix termed the probability raster.
+Figure 1. Auscultation points on the chest according to age group: (A) <12 years of age, (B) >12 years of age.
+
+In this data structure, the columns represent time, discretized
+into 10-ms frames, and the rows indicate the probability of
+phenomena (ie, wheezes, rhonchi, coarse and fine crackles)
+detection changing over the frames. The probability values
+provided by the NN are thresholded to obtain Boolean
+values indicating the presence or absence of a phenomenon
+in each frame.
+Sufficient quality of captured sounds was ensured by an
+inherent mechanism incorporated within the StethoMe AI.
+The quality assurance process relied on the following 2 primary
+factors: (1) the detection of the presence of breathing
+cycles, and (2) the absence of excessive background noise.
+Examination quality was then determined by evaluating
+the individual recordings. Quality assessment results were
+immediately available to patients on completion of the examination.
+In the case of rejection, users were encouraged to
+repeat auscultation for the low-quality points.
+Reference Standard
+Data were analyzed by physicians who assessed the asthma
+exacerbation level (none, mild, moderate, severe) for
+each examination. The assessment was carried out at the
+Table 2. Patients and Examination Information
+Data Children Aged 0-5 y Children Aged 6-17 y Adults
+No. of patients 52 38 59
+Male, % 63.5 76.3 27.1
+Age, y, median (1st, 3rd quartiles) 3.0 (3.0, 4.25) 8.5 (7.0, 10.0) 38.0 (32.5, 43.0)
+Weight, kg, median (1st, 3rd quartiles) 17.0 (14.0, 20.0) 32.5 (24.5, 44.2) 65.0 (60.0, 82.0)
+Height, cm, median (1st, 3rd quartiles) 104.5 (98.0, 112.5) 135.5 (126.2, 149.8) 169.0 (162.0, 174.0)
+No. of examinations (no. of individual recordings) 2,915 (17,532) 1,728 (10,883) 1,386 (11,076)
+No. of examinations with moderate or severe exacerbation
+(see Reference Standard in Methods below for details)
+143 82 57
+No. of patients with ≥1 examination with moderate or
+severe exacerbation
+25 17 12
+Auscultation period, d, median (1st, 3rd quartiles) 182.3 (160.0, 228.0) 188.2 (179.5, 223.3) 190.0 (133.4, 218.3)
+Note: Each examination is a set of data as described in Table 1 and is a set of several recordings taken from multiple auscultation points on the chest.
+Figure 2. Survey completed with a mobile application before each examination.
+PEF = peak expiratory flow.
+
+examination level rather than the recording level. A total of
+17 physicians with different specializations were involved
+in this process (2 internal medicine specialists, 4 pulmonologists,
+9 pediatricians, 5 allergologists, 4 family medicine
+specialists [some had a double specialization]), each
+assessing examinations performed by participants assigned
+exclusively to them. Each physician took into account all
+of the information generated by the participant (Table 1),
+listened to each auscultation recording, and analyzed the
+spectrogram (Supplemental Figure 1). Data from prior
+examinations were also available. These assessed examinations
+were considered the reference standard and were used
+to develop and evaluate the performance of machine learning
+classifiers.
+Figure 3. Receiver operating characteristic curves for classifiers based on different sets of home-collected data
+(physiologic parameters and survey data).
+AI = artificial intelligence.
+Note: Performance was measured on an independent validation set that included only patients not used during classifier training.
+
+Data Analysis
+All experiments and data analyses were carried out using
+Python 3.8 (Python Software Foundation) extended with the
+following packages: numpy version 1.19.5, scikit-learn version
+1.0.2, scipy version 1.7.1, and pandas version 1.3.1. The raw
+data are accessible in Supplemental Appendix 3 in the form
+of a comma-separated values file.
+We used the collected data to evaluate the effectiveness
+of different user-registered parameters (Table 1) for autonomous
+detection of asthma exacerbation. For this purpose, 12
+feature sets were defined, each including patient age, gender,
+an identifier physician assessing the exacerbation level, and
+≥1 user-registered parameters from Table 1. For each evaluated
+set, a random forest regressor (RFR) was fitted to the
+reference standard exacerbation levels mapped to a scale
+from 0 to 1.0 (none: 0; mild: 1/3; moderate: 2/3; severe: 1).
+Each RFR consisted of 100 decision trees trained using the
+squared error criterion and without constraining their maximum
+depth. For quantitative evaluation of the performance of
+the RFR, we rescaled the model’s prediction labels from the
+4-point scale to binary values by thresholding at 0.5 (values
+>0.5 were mapped to 1, and values <0.5 were mapped to 0)
+so as to predict the existence of at least moderate exacerbation
+level, as identified by the physician’s labels. The model’s
+area under the receiver operating characteristic (ROC) curve
+(AUC) achieved on a held-out test
+set was used as a measure of the
+effectiveness of each considered
+feature set in the detection of
+asthma exacerbation.14-20 Each feature
+set was evaluated in a 10-fold
+cross-validation experiment, and
+each experiment was repeated 20
+times to estimate the feature set’s
+mean AUC and 95% CIs. In each
+fold of the cross-validation process,
+the data set was categorized into
+a training set comprising 90% of
+patients. This training set was used
+to construct the RFR decision trees.
+In addition, a test set consisting
+of 10% of patients was created to
+evaluate the performance of the
+final model. Given that an individual’s
+data were never used for
+training and evaluation of the same
+RFR, the results show true model
+performance for patients not seen
+by the model.
+We selected the RFR model as
+the predictor for exacerbation level
+on the basis of a series of preliminary
+experiments. These experiments
+involved testing various
+alternative models including decision
+trees; support vector regressors with linear, radial basis
+function, and sigmoid kernels; multilayer perceptrons; adaptive
+boosting (AdaBoost); gradient-boosting regressors; and
+their ensembles. After thorough evaluation, we selected the
+RFR primarily because of its consistent performance across
+different subsets of analyzed features and fast computation. In
+addition, we optimized the meta-parameters of the RFR model
+using an automated machine learning method. We found that
+the optimal forest only marginally outperformed the default
+forest when evaluated on the held-out test set. As a result, we
+decided to retain the default RFR metaparameters.
+RESULTS
+Figure 3 shows the ROC curves obtained for the classifiers.
+To determine a standard performance measure, we calculated
+AUCs (Table 3 and Figure 4). Considering the ROC curves,
+the shapes for the different parameters and sets of parameters
+differed, which was reflected in the AUC values. For children,
+the ROCs with greatest curvature were obtained for the classifiers
+that used all provided input data (combination of all
+StethoMe AI analysis results, PEF, SpO2, and survey data) as
+well as those that used only data provided by the AI-aided
+stethoscope (4 pathologic sound intensities, HR, RR, and I/E)
+(shown in red and pink, respectively, in Figure 3), resulting
+Table 3. Effectiveness of Different Sets of Home-Collected Data in Decision
+Support Systems Classifying Asthma Exacerbations Measured Using AUC
+Parameter or Set of
+Parameters Used for
+Classifier Development
+AUC, % (95% CI)
+Children Aged 0-5 y Children Aged 6-17 y Adults
+Wheezes 83.8 (82.3-85.4) 79.5 (77.2-81.8) 71.3 (67.3-75.3)
+Rhonchi 77.0 (75.0-79.0) 81.3 (79.0-83.5) 75.4 (72.6-78.3)
+Fine crackles 71.9 (69.7-74.2) 77.3 (74.9-79.7) 68.3 (64.2-72.5)
+Coarse crackles 69.7 (67.3-72.0) 79.1 (75.1-83.2) 61.9 (55.2-68.6)
+Heart rate 61.1 (58.3-63.9) 62.8 (60.0-65.6) 65.1 (56.9-73.2)
+Respiratory rate 61.7 (57.5-65.9) 67.6 (64.1-71.0) 61.3 (55.7-66.8)
+Inspiration-to-expiration ratio 59.9 (57.6-62.2) 64.6 (62.0-67.2) 62.1 (57.4-66.8)
+All parameters provided by
+AI-aided stethoscope
+93.0 (92.1-93.9) 92.4 (91.1-93.7) 81.0 (75.1-86.8)
+Symptoms (survey) 72.0 (70.1-73.9) 78.5 (76.8-80.3) 92.0 (89.4-94.6)
+Peripheral capillary oxygen
+saturation
+66.6 (62.6-70.7) 68.1 (65.0-71.1) 71.5 (66.5-76.5)
+Peak expiratory flow n/aa 62.5 (57.2-67.7) 67.8 (58.9-76.8)
+All parameters 93.2 (92.1-94.4) 92.4 (90.9-93.9) 93.7 (92.1-95.3)
+AI = artificial intelligence; AUC = area under the receiver operating characteristic curve; n/a = not applicable.
+a Acquiring reliable data for younger children poses substantial challenges.1
+
+in the greatest AUC values (younger children: 93.2% [95%
+CI, 92.1%-94.4%] and 93.0% [95% CI, 92.1%-93.9%], respectively;
+older children: 92.4% [95% CI, 90.9%-93.9%] and
+92.4% [95% CI, 91.1%-93.7%]) (Table 3). For adults, the survey
+data performance (symptoms) was quantitatively similar
+to that of the curve corresponding to the use of all input data
+(AUCs 92.0% [95% CI, 89.4%-94.6%] and 93.7% [95% CI,
+92.1%-95.3%], respectively), whereas the set of parameters
+provided by the AI-aided stethoscope (pink curve) was more
+flattened (AUC 81.0% [95% CI, 75.1%-86.8%]). In addition,
+all of the data depicted by single parameters (HR, RR,
+I/E, PEF, and peripheral capillary oxygen saturation) were
+relatively close to the diagonal of the plot (Figure 3), suggesting
+poor performance of these parameters in classification
+tasks for all age groups (AUCs close to or <70%). The most
+efficient single value parameters were continuous respiratory
+sounds (wheezes and rhonchi, orange curves). In this case, the
+AUC values were the lowest for adults (approximately 70%),
+whereas they reached approximately 80% for children.
+DISCUSSION
+Given that the diagnosis and monitoring of asthma is most
+challenging in children, especially younger children,21 this
+group was of paramount importance in this study, and we
+therefore discuss the findings for this group first. The Global
+Initiative for Asthma suggests that in children younger than 5
+years of age, the evaluation of exacerbations should be based
+mainly on subjective assessment of the patient’s condition.
+Interestingly, Figures 3 and 4 clearly show that the subjective
+information noted by parents was not sufficient to confirm
+or exclude the appearance of an exacerbation (AUC 72.0%
+[95% CI, 70.1%-73.9%]) (Table 3). Our findings are consistent
+with prior research showing inconsistency in assessment
+between parents and doctors.22 Home monitoring of children
+is therefore strongly biased by the subjective assessment of
+lay persons (parents), and thus far there has been no tool to
+objectivize this. Our present results indicate that using a single-
+parameter approach, the determination of exacerbation is
+ambiguous, that is, PEF, SpO2, HR, RR, and I/E measurements
+appear to be relatively weak indicators of exacerbation in all
+groups of patients. Our findings are in line with the results
+of Muñoz-López23 and Brand et al,24 who suggest that during
+treatment, the PEF variation over time shows poor concordance
+with changes in other parameters of asthma severity. In
+addition, some authors suggest poor performance of HR and
+RR as determinants of acute asthma severity,25 which is confirmed
+by the present study. Constrained to single parameters,
+we found that continuous auscultatory sounds are more effective,
+with the AUC reaching approximately 80% for children.
+Figure 4. Results of the effectiveness (in terms of AUC) of different sets of home-collected data in decision support
+systems classifying asthma exacerbations.
+AI = artificial intelligence; AUC = area under the ROC curve; ROC = receiver operating characteristic.
+Note: The central line in each box denotes mean AUC, box edges extend to 1 SD from the mean, and fences (whiskers) denote 95% CI.
+
+Only incorporation of several parameters into a single
+classifier appeared to be sufficient to detect exacerbations
+in children. The data provided by AI-aided stethoscopes
+(including survey), together with PEF and SpO2, performed
+the best in identifying asthma exacerbation in all groups;
+nevertheless in both children groups, equally high efficiency
+was obtained when considering the parameters provided by
+AI-aided stethoscope alone. This means that using AI-aided
+stethoscopes facilitates the detection of exacerbations with
+high effectiveness even in children younger than 5 years of
+age. Our present results strengthen the statements by Priftis
+et al26 and the Consensus Document of the Emilia-Romagna
+Asthma Study Group27 and are in line with the priorities for
+future research into asthma diagnostic tools given by the
+European asthma research innovation partnership.28
+In contrast, in adults, the key to effective diagnosis of an
+exacerbation was patient reporting of disease-specific symptoms
+(Figures 3 and 4). Adding other parameters (AI-aided
+stethoscope data, PEF, and SpO2) only slightly improved performance.
+One might therefore state that adults can precisely
+describe their health status, and it can be difficult for parents
+when describing their children’s health status.
+Regarding needs and recommendations for the future, it
+should be noted that asthma management is becoming much
+more patient specific.29 Therefore, AI-aided stethoscopes
+are a particularly useful tool that can be applied to optimize
+and improve patient-doctor collaboration using telemedicine
+solutions. It has been reported that telehealth programs have
+strong potential with regard to asthma-related health outcome
+improvement,30 increased access to care,27,28 and cost
+effectiveness.31,32 Currently, it is possible to send medical
+records via the internet and also to preanalyze them using AI
+modules. Still, there are no exact guidelines on how to objectively
+monitor aspects other than apparent asthma symptoms
+at home. As a result, establishing a definitive action plan is
+particularly challenging for younger children, owing to the
+limitations of conducting standard physiologic tests such as
+peak-flow measurements or spirometry. Our present results
+suggest that the use of AI-aided home stethoscopes might fill
+this gap by monitoring a broader set of parameters.
+Strengths and Limitations
+The present results are based on large-scale data gathered
+from intended-use cases by certified medical devices, thus
+their reliability, especially considering home use, is much
+greater than that of a laboratory study with a limited number
+of participants and short-term monitoring. It is important
+to highlight that currently there are no definitive objective
+parameters or a specific set of objective parameters that can
+unequivocally confirm asthma exacerbation. The identification
+of asthma exacerbation relies on symptoms and indirect
+measures rather than concrete biomarkers. Thus, the reference
+standard we used was also established on the basis of the
+experience and subjective decisions of individual physicians.
+Nevertheless, this is fully consistent with the current clinical
+approach to asthma exacerbation detection. Finally, the present
+study focused solely on Slavic patients; however, there are
+no available data from GINA indicating any ethnic influence
+on exacerbation detection.
+Conclusions
+The present results clearly show that a set of parameters
+(wheezes, rhonchi, coarse and fine crackles, HR, RR, I/E)
+measured by a device such as an AI-aided home stethoscope
+allows for the detection of exacerbations without the need
+for performing PEF measurements, which can be equivocal.
+In addition, in the case of younger children (aged <5 years),
+when introduced on a large scale, the analyzed home stethoscope
+appears to be a promising tool that might make asthma
+diagnosis more straightforward and substantially facilitate
+asthma monitoring.

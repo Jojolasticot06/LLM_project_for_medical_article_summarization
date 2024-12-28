@@ -1,0 +1,9 @@
+Low levels of WRAP53 predict decreased efficacy of radiotherapy and are prognostic for local recurrence and death from breast cancer: a long-term follow-up of the SweBCG91RT randomized trial.
+
+
+1/Downregulation of the DNA repair protein WD40-encoding RNA antisense to p53 (WRAP53) has been associated with radiotherapy resistance and reduced cancer survival. The aim of this study was to evaluate WRAP53 protein and RNA levels as prognostic and predictive markers in the SweBCG91RT trial, in which breast cancer patients were randomized for postoperative radiotherapy. 
+2/Using tissue microarray and microarray-based gene expression, 965 and 759 tumors were assessed for WRAP53 protein and RNA levels, respectively. Correlation with local recurrence and breast cancer-related death was assessed for prognosis, and the interaction between WRAP53 and radiotherapy in relation to local recurrence was assessed for radioresistance prediction. 
+3/Tumors with low WRAP53 protein levels had a higher subhazard ratio (SHR) for local recurrence [1.76 (95% CI 
+1.10-2.79)] and breast cancer-related death [1.55 (1.02-2.38)]. Low WRAP53 RNA levels were associated with almost a three-fold decreased effect of radiotherapy in relation to ipsilateral breast tumor recurrence [IBTR; SHR 0.87 (95% CI 0.44-1.72)] compared with high RNA levels [0.33 (0.19-0.55)], with a significant 
+interaction (P = 0.024). 
+4/In conclusion, low WRAP53 protein is prognostic for local recurrence and breast cancer-related death. Low WRAP53 RNA is a potential marker for radioresistance.

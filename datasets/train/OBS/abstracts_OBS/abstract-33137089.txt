@@ -1,0 +1,23 @@
+Studies of differential gene expression have identified several molecular 
+signatures and pathways associated with Parkinson's disease (PD). The role of 
+isoform switches and differential transcript usage (DTU) remains, however, 
+unexplored. Here, we report the first genome-wide study of DTU in PD. We 
+performed RNA sequencing following ribosomal RNA depletion in prefrontal cortex 
+samples of 49 individuals from two independent case-control cohorts. DTU was 
+assessed using two transcript-count based approaches, implemented in the DRIMSeq 
+and DEXSeq tools. Multiple PD-associated DTU events were detected in each 
+cohort, of which 23 DTU events in 19 genes replicated across both patient 
+cohorts. For several of these, including THEM5, SLC16A1 and BCHE, DTU was 
+predicted to have substantial functional consequences, such as altered 
+subcellular localization or switching to non-protein coding isoforms. 
+Furthermore, genes with PD-associated DTU were enriched in functional pathways 
+previously linked to PD, including reactive oxygen species generation and 
+protein homeostasis. Importantly, the vast majority of genes exhibiting DTU were 
+not differentially expressed at the gene-level and were therefore not identified 
+by conventional differential gene expression analysis. Our findings provide the 
+first insight into the DTU landscape of PD and identify novel disease-associated 
+genes. Moreover, we show that DTU may have important functional consequences in 
+the PD brain, since it is predicted to alter the functional composition of the 
+proteome. Based on these results, we propose that DTU analysis is an essential 
+complement to differential gene expression studies in order to provide a more 
+accurate and complete picture of disease-associated transcriptomic alterations.

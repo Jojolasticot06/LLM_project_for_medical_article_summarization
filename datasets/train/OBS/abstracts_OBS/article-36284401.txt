@@ -1,0 +1,720 @@
+Introduction
+
+The gut microbiota plays a key role in determining 
+the features of the gut microbiome, and one aspect 
+which defines the gut microbiota is diet.1–4 Over the 
+last two decades, we have steadily developed a better 
+understanding of the roles that the gut microbiota 
+plays in the gut and extra-intestinally in the host.5,6 
+Furthermore, we can map the relationship between 
+the host and its microbiota in more detail in rodents 
+raised in a sterile environment, and we see how wide 
+the impact of many subsystems within the host is 
+felt. Therefore, voluntary or involuntary changes to 
+our dietary intake not only affect the host but it 
+impacts the gut microbiota which can disturb its 
+regular functions. Thus, impacts of dietary interventions 
+now need to be measured in a much more 
+holistic fashion and not simply from the point of 
+view of the host’s metabolism and physiology.
+
+For one group of individuals, namely gastrostomy 
+fed children, diets are usually nutritionally very well 
+controlled. These children are unable to swallow safely, 
+or take sufficient diet orally, due to, in the main part, an 
+underlying condition such as a neurological impairment. 
+They are fed directly into their stomach via 
+a surgically placed tube. The gastrostomy tube has 
+a narrow internal diameter; therefore, the food being 
+administered needs to be given as a liquid. Specialized 
+‘formulae feeds’, or diets, have been developed by commercial 
+companies to give the exact nutritional requirements 
+for a gastrostomy fed child. As well as being 
+nutritionally complete, the formula diets are convenient, 
+portable and can be administered to a regular 
+feeding regimen. Historically they have been endorsed 
+and prescribed by clinicians as they can calculate the 
+exact amount of micronutrients and calories required 
+by each individual child.
+
+However, it has been reported by several families 
+that this method and approach to feeding can separate 
+the child from the rest of the family during 
+mealtimes.7 Some clinicians and patients are now 
+questioning the impact of formula diets on, not 
+only the health and mental well-being of the 
+patients and their families, but also on the digestive 
+system of the patients too.8 An alternative approach 
+which uses blended “home foods” has started to 
+gain attention in families with gastrostomy fed 
+children; however, only one study has been undertaken 
+to assess to what extent the switch to 
+a blended diet affects the child’s gut microbiota.9 
+This study reported changes in Proteobacteria and 
+Firmicutes, but did not undertake an in-depth analysis 
+of the microbiota over time or its associated 
+metabonome. In comparison to the formula diets, 
+which have a controlled nutritional content, these 
+blended diets can vary in their nutritional content 
+and there is a concern that to achieve the correct 
+consistency to administer via gastrostomy, blended 
+diets need to be diluted, which may reduce nutritional 
+quality, also there are concerns about the risk 
+of infection due to the way the feeds are prepared.10
+
+Hence, we undertook an observational study of 
+families with gastrostomy fed children in the South 
+Wales region between 2017 and 2019 and collected 
+stool samples from children on blended and formula 
+diets, and where possible, their siblings too. 
+Using these samples, we pursued a metataxonomic, 
+metabonomic, limited culturomics, QoL questionnaire 
+and exo-proteome analysis to measure features 
+in the three cohorts.
+
+Results
+
+Study cohort and questionnaire results
+
+Most gastrostomy-fed participants had feeding 
+issues from birth and the mean length of time that 
+participants were tube-fed was 7.5 years. Tube- 
+feeding was the sole source of nutrition for most 
+of the children in both FD and BD groups, with 
+only seven parents stating that their child consumed 
+some small amounts of food orally. All 
+participants initially received a formula diet, but 
+some moved to a blended diet after experiencing 
+gastrointestinal disturbances. The participants 
+receiving a blended diet did so for an average of 
+2.1 years at the time of sampling. The contents of 
+the blended diets varied between participants, 
+depending on what was being eaten at home, and 
+a variety of different formula diets were used by the 
+subjects of this study. The demographics for the 
+study group were analyzed, where the data were 
+available. No significant differences were seen 
+between age (95% CI -2.28 to 2.43, P = .9707) 
+and gender (P = .7530), with a median age of 
+6 years and 6.5 years for the BD and FD groups, 
+respectively, and a gender split of 15:13 M:F for the 
+BD group and 10:6 M:F for the FD group.
+
+From the questionnaire, it was clear that the 
+blended diet was not statistically different to the 
+formulae fed in 3 of the 7 categories that we measured, 
+namely gastrostomy tube blockage, tube 
+damage/leakage and infection rates (Figure 1). 
+Bowel disturbances were significantly reduced in 
+the blended diet (BD) compared to the formulae 
+diet (FD) (6.3% vs 70%, P = .009), respectively, as 
+was total vomiting/retching (BD 12.5% v FD 50%, 
+P < .001). Both general health and mood were also 
+reported to have significantly improved in the BD 
+vs FD groups. More details from the questionnaire 
+are shown in supplementary figures S1-S6.
+
+Metataxonomic analysis of the three groups, 
+formulae fed children show the largest differences
+
+Metataxonomic analysis showed significant differences 
+between the community structure of the 
+Formulae fed vs the Sibling group (Figure 2a. 
+PERMANOVA analysis F Model 5.72, R2 0 Padj 
+= 0.006), but not between the bacterial communities 
+of the Blended vs Formulae, or Blended vs 
+Sibling groups. The PCA of the samples shows no 
+clustering according to the family from which they 
+originated (Figure 2b), for example in family 
+B (denoted by .), the two healthy siblings were 
+much closer to each other, than they were to the 
+sibling being given a Formulae diet. For the NMDS 
+plots of the Weighted Unifrac distance 
+(Supplemental Figure S7) the Formulae group 
+appears to be more diverse than the Blended or 
+Sibling groups, the ratio of the areas of the 95% 
+CI ellipses was approximately 1:0.43:0.26 for the 
+Formulae:Blended:Sibling groups in Supp Fig S7. 
+This difference shows that the stool samples in the 
+Blended and Sibling groups were more like each 
+other, in their respective group, and showed less 
+diversity, as measured using a ß-diversity index, 
+than the Formulae group. qPCR of the 16S rRNA 
+gene load for each group (Supplemental Fig S8) led 
+us to conclude that between the Blended and 
+Sibling groups the overall abundance was significantly 
+lower in the former (-377881, 95% CI 
+-696867 to -58895; P = .023). There was no 
+
+significant difference between the 16S rRNA gene 
+counts in the Sibling and Formulae group or 
+Blended and Formulae, however there was a trend 
+of increasing 16S rRNA genes in the groups: 
+2.30 × 105 ± 5.03x105 vs 6.06 × 106 ± 1.07x106 vs 
+6.08 × 105 ± 5.76x105 for the Blended vs Formulae 
+vs Sibling groups, respectively. While the qPCR 
+data trends toward higher bacterial load, the variation 
+is too large to determine if this difference was 
+significant. The qPCR adjusted phylum bar plots 
+are shown in Figure S8 and reflect the overall similar 
+abundance of the phyla between the three 
+groups. The alpha diversity for each group is 
+shown in Figure 3, and there was a clear reduction 
+of the alpha diversity in both diet groups when 
+compared to the Sibling group (Figures 3A and 
+3b), but not between the feeding regimes. When 
+comparing siblings from the same family 
+(Figures 3C and 3d) it was clear that there was no 
+consistent pattern, with some siblings on defined 
+diets having either higher or lower alpha diversity 
+than their healthy comparator.
+
+When the communities were analyzed in more 
+detail, significant differences were observed for 
+a wide range of genera (Figure 4). There were more 
+genera found to be different in the analysis of the 
+Formulae vs Sibling groups (78 features after correcting 
+for multiple testing and 18 showing an effect size 
+>1%), compared to the comparison of the Blended vs 
+Sibling (64 features after correcting for multiple testing, 
+and 7 showing an effect size >1%) and Blended vs 
+Formulae (55 features after correcting for multiple 
+testing, and 6 showing an effect size >1%). The largest 
+changes were seen in ASVs from the Anaerostipes and 
+Bifidobacterium, with the former enriched, 14.1%, 
+and the latter depleted, 14.2%, in the Formulae fed 
+children, compared to the Sibling group. In the 
+Blended diet group, there were modest enrichments, 
+between 1% and 3%, of the Enterococcus, 
+Erysipelatoclostridium, Lachnoclostridium and 
+Klebsiella genera, while Dialister, an ASV called 
+Ruminococcus_2 and Subdoligranulum genera were 
+depleted compared to the Sibling group. Between 
+the Blended and Formulae groups, the main change 
+was an enrichment of the Anaerostipes ASVs in the 
+Formulae group, 13.3%. In fact, this change was the 
+main feature of the formulae group that there was 
+a significant increase in the ASVs from the genus 
+Anaerostipes. Additionally, Tukey-Kramer post hoc 
+test results, comparing all three groups, identified 
+that the Formulae group had significantly more 
+Holdemania than both the Blended diet (P < .001) 
+and healthy Sibling groups (P < .01). Significantly 
+more Lachnoclostridium was present in both the 
+Formulae and Blended diet groups than in the 
+Sibling group (P = .0015)
+
+There were 16 sibling pairs with matched samples, 
+10 Blended diet and 6 Formulae diet. Examining the 
+phylum-level taxonomic profiles of each sibling pair 
+showed some general trends (Fig. S10). Children on 
+
+both Blended and Formula diets showed greater 
+enrichment of members of the Firmicutes than 
+their healthy sibling counterparts, 11/16. Blended 
+diet samples generally contained more 
+Gammaproteobacteria, Bacilli, Erysipelotrichia and 
+Coriobacteria than their siblings, while the siblings 
+contained more Bacteroidia. Formulae diet samples 
+generally contained more members of the class 
+Bacteroidia, Clostridia and Erysipelotrichia than 
+their sibling counterparts, while the siblings 
+0.018.6Mean proportion (%)
+Clostridium_sensu_stricto_1IntestinibacterPrevotella_9BifidobacteriumFaecalibacteriumDialisterSellimonasEggerthellaSubdoligranulumEubacteriumLachnoclostridiumAnaerostipesAgathobacterRuminococcus_2RoseburiaUBA1819Erysipelatoclostridiumunclassified_Erysipelotrichaceae3020100102030Difference in mean proportions (%)
+95%confidenceintervals0.0460.0280.0270.0160.0107.39e-30.0200.0120.0119.32e-36.75e-36.32e-35.93e-35.76e-35.44e-34.90e-34.08e-34.00e-3q-value (corrected)
+FormulaeSibling0.04.3Mean proportion (%)
+SubdoligranulumRuminococcus_2KlebsiellaLachnoclostridiumErysipelatoclostridiumEnterococcusDialister6420246Difference in mean proportions (%)
+95% confidence intervals0.0350.0160.0128.90e-38.51e-37.25e-35.29e-3q-value (corrected)
+BlendedSibling0.017.1Mean proportion (%)
+AgathobacterFaecalibacteriumAlistipesAnaerostipesVeillonellaRoseburia2520151050510Difference in mean proportions (%)
+95% confidence intervals0.0460.0450.0440.0130.0126.12e-3q-value (corrected)
+BlendedFormulaeFigure 4. Extended error bar plots showing statistically significant differences between genera in a two-group analysis, between the 
+different groups, e.g. blended diet vs formula diet. All reported P value are adjusted for multiple testing using the Benjamini-Hochberg 
+FDR method, and an effect size filter of 1% was applied to leave only changes that were > 1% between groups. The genera differences 
+between groups was tested using White’s non-parametric t-test.
+
+contained more Actinobacteria. Analyzing the individual 
+sibling pairs further down the taxonomic 
+levels showed similar results in the overall dataset. 
+The sibling group possessed more Ruminococcus 
+ASVs than both their blended diet and formula 
+diet counterparts and more of the beneficial 
+Bifidobacterium than the formula diet group. 
+Children from the blended diet group contained 
+more of the beneficial bacteria Lactobacillus than 
+their siblings and the siblings contained more 
+Roseburia, Dialister, Anaerostipes, Prevotella and 
+Faecalibacterium
+
+Inferred metabolic pathways using Piphillin
+
+Three metabolic pathways showed statistically 
+significant differences between the Formulae 
+and Blended diet groups: BioCyc annotation 
+RXN-14277, RXN-14274 and RXN-17782 (Data 
+not shown). The differences in mean proportion 
+of the pathways between these two groups, 
+although statistically significant, were very 
+small, <0.007%. These three reaction pathways 
+were identified using the MetaCyc database and 
+were found to be involved in fatty acid 
+oxidation.11 All three of these fatty acid oxidation 
+pathways were significantly more prevalent 
+in samples from children fed with a Blended diet 
+than with a Formulae diet.
+
+Analysis of functions in stool samples using 
+culture-based approaches and enzyme assays
+
+Two functions were screened using a culture-based 
+approach which shows the phenotype of the growing 
+colony on solid media. Numbers of CFU of 
+protease producing bacteria, where determined 
+using lactose-free skimmed milk agar (LF-SM).12 
+Eighteen random samples were selected, six from 
+each test group. For all samples tested, only the 
+lowest dilutions in the dilution series showed any 
+protease activity through their ability to produce 
+a clear zone on the LF-SM agar, and no clear 
+colonies exhibiting the phenotype were observed 
+at higher dilutions. Therefore, these highest dilutions 
+were spread as a lawn, and incubated anaerobically, 
+on new plates with the aim being to identify 
+individual colonies exhibiting the phenotype of 
+interest. However, no single proteolytic colonies 
+were seen, and we were unable to identify and 
+isolate any colonies of interest.
+
+ß-glucuronidase producing bacteria were 
+assessed by an enzyme activity assay in 30 samples, 
+10 from each test group (Figs S11A and S11B). 
+After adjusting the enzyme activity using the 
+qPCR data, we observed that there was no difference 
+between any of the diets. However, while not 
+significant, the formulae feed group also had 
+a higher median value for adjusted ß- 
+glucuronidase activity in the stool sample.
+
+Global metabonomic analysis of fecal samples does 
+not separate the dietary groups
+
+The PCA analysis of the full NMR spectra for each 
+group (Figure 5a) shows that there was no clear 
+separation of the three groups, with the Blended 
+diet group showing a larger and more diverse metabolic 
+space compared to the Formulae fed and 
+Sibling groups. The 95% confidence ellipse showed 
+that for the BD diet the metabolic space in the first 2 
+dimension was much larger than that for the FD 
+and siblings. OPLS-DA was used to identify the 
+components that best differentiate the predefined 
+classes of samples in each of the blended, formula 
+and sibling groups. The OPLS-DA analysis confirmed 
+that there were no discriminatory features 
+between the metabolic profiles of the samples for 
+comparisons between the three groups (data not 
+shown). This analysis indicated that the global 
+metabolic profiles between each of the Blended, 
+Formulae and Sibling groups was not statistically 
+different. There was a significant difference 
+between the three short chain fatty acids, acetate, 
+butyrate, and propionate (Figure 5b) in the blended 
+and formulae feeds when compared to the sibling 
+group, but not between the blended and formulae 
+feed groups.
+
+Discussion
+
+The gut microbiota has, over the last decade, gained 
+more importance as it has been shown time and 
+time again to be a significant factor in host 
+health.13–17 Furthermore, the gut microbial community, 
+mainly bacterial in mass, sits between the 
+host and its diet.18–20 It has adapted to use components 
+of the diet that are not available to the host, 
+
+for example, resistant starches21,22 and can produce 
+a wide range of metabolites on which the host 
+relies, for example short chain fatty acids.13 
+Therefore, diet is a key driver of the composition, 
+structure, and metabolic output of the gut microbiome, 
+influencing gut barrier function,23 epigenetic 
+status24 and inflammation.25 In gastrostomy 
+fed children the diet is commonly a prescribed formulae 
+feed, which, fulfills the nutritional requirement 
+of the child. More recently blended diets have 
+started to become more common as an alternative 
+to the standardized commercial formulae feed. 
+A blended diet is simply a meal, prepared at home 
+and liquidized to a suitable consistency which 
+allows it to be administered via the gastrostomy 
+tube into the child’s stomach. However, there is 
+currently a feeling amongst professionals that the 
+blended diet is not safe and is substandard,7 while 
+among parents of the gastrostomy fed child, report 
+that commercial feeds separate the child from the 
+family meal and focus only on the medical nature of 
+nutrition.26 There is also an ongoing debate, among 
+professionals, about the use and safety of blended 
+diets for gastrostomy fed children, leading to ambiguity, 
+which can create tension between the clinicians 
+responsible for the child, and the parents of 
+the child. Moreover, there are reports of parents 
+saying that their child is physically better when on 
+a BD. Hence, there is a clear need to understand 
+whether a blended diet shows a significant impact 
+on the gut microbiota and metabonome of gastrostomy 
+fed children.
+
+At the time of review of this work, there were no 
+studies which had combined metataxonomic with 
+metabonomics to investigate the microbiota and 
+metabolite profiles of gastrostomy fed children, on 
+blended or formulae feeds, with a comparison to 
+their siblings. In undertaking this study, we wanted 
+to determine the impact of the two dietary regimes 
+on the structure and composition of the colonic 
+microbiome and the metabolites therein. 
+Moreover, we also undertook a questionnaire to 
+assess a range of important lifestyle parameters in 
+both cohorts of children. The results from the questionnaire 
+showed that in many instances the BD 
+was not inferior to the FD and was superior to the 
+FD in important parameters such as vomiting and 
+retching. This finding is in keeping with recent 
+review of the literature7,27,28 also showing that 
+blended diets are not inferior to a formulae diet 
+from a QoL perspective. Recent studies of blended 
+enteral diets9,29,30 have also concluded that they 
+lead to improved clinical outcomes and symptom 
+scores.
+
+The analysis of the microbiota in the stool samples 
+showed that the BD was not creating bacterial 
+communities that were significantly different to the 
+siblings and that the FD gut communities were 
+significantly more different to the siblings. The 
+child’s status i.e., gastrostomy fed was most probably 
+one of the strongest drivers of community 
+structure, which is shown in Figure 2b where the 
+samples do not cluster based on family, but rather 
+on diet. In two families who had two siblings, in can 
+be seen that the siblings stool community structures 
+were much more closely related than they were to 
+their sibling who was gastrostomy fed, e.g., Families 
+B and G. This observation again highlights the 
+impact of the feeding modality rather than the 
+diet. The bacterial diversity was lower in both FD 
+and BD diets, with a lower diversity seen in FD, but 
+this was not significant. There is no clear explanation 
+as to why they may have lower diversity, but it 
+may be due to higher load of prescribed antibiotics 
+that these children are taking with nearly 70% having 
+them in the last 6 months. In the study of 
+Gallagher and colleagues9 in which they intervened 
+with a BD diet in FD fed cohort, there was a clear 
+increase in the diversity of the stool microbiota over 
+time on a BD diet. Minimal taxonomic data was 
+provided, with a reduction of OTUs in the 
+Proteobacteria, and an increase in OTUs from the 
+Firmicutes being reported. There were also enrichments 
+of two OTUs related to Eubacterium dolichum 
+and a Lachnospira sp. which did not match 
+ASVs there were different between Blended and 
+Formulae in our study. However, it might be too 
+difficult to reconcile the two cohorts due to 
+a different geographical location, i.e., Canada and 
+the interventional style of their study.
+
+At a genus level, there were clear and significant 
+differences between the levels of bacteria. Most 
+notable was the much lower levels of bifidobacteria 
+in the FD group when compared to the sibling 
+group, and much higher levels of Anaerostipes. 
+The Anaerostipes were also much higher in the FD 
+compared to the BD and appear to be an enriched 
+feature of the FD group. Modest changes were seen 
+
+between the BD and sibling groups with enrichment 
+of enterococci and depletion of ruminococci 
+in the BD group. The depletion of the bifidobacteria 
+is a point of concern as this genus is a very well- 
+established probiotic, with documented roles in gut 
+barrier function,31 atopic diseases,32 IBS,33,34 IBD35 
+and several other non-communicable diseases.36 
+Moreover, it has been tested as an intervention in 
+a wide range of conditions, such as IBS, anxiety, 
+NEC, and IBD36 and more recently in obesity37 and 
+upper respiratory infections.38 Hence, any changes 
+in the levels of this genus should be noted and 
+a possible intervention with a probiotic, in this 
+group, be considered for further investigation. 
+The other notable genus which changed was 
+Anaerostipes, this genus is a lactate and acetate 
+utilizer, and produces butyrate as a by-product of 
+cross-feeding,39–41 however, there was no increase 
+in butyrate in the FD group (vide supra). A more 
+modest change in the genus Eubacterium was also 
+seen in the FD group, again this a recognized producer 
+of butyrate.42 The most parsimonious explanation 
+for an increase in these genera would be the 
+reduction of bifidogenic components in the FD 
+group’s diet, for example short-chain galacto- 
+oligosaccharides and long-chain fructo- 
+oligosaccharides,43 which provides an opportunity 
+for both Anaerostipes and Eubacterium to flourish. 
+From the questionnaire (data not shown) we did 
+note that in both groups, the majority of children 
+were not receiving any probiotics (BD 68.7% and 
+FD 75%), which again may be an area for intervention 
+in both groups. The FD may not contain these 
+prebiotic elements which would be found in 
+a blended diet that includes a more complex mixture 
+of fiber such as inulin.8 However, both these 
+genera are also known to feed on the lactate and 
+acetate,44 and bifidobacteria produce these acids, 
+but there was no significant reduction in the levels 
+of lactate and acetate in the FD compared to the BD 
+groups, which leads us to conclude that a loss of 
+bifidobacteria does not impact the production of 
+these acids. The enrichment of Anaerostipes and 
+Eubacterium may indicate that these genera are 
+competing with bifidobacteria for other resources 
+and may not be cross-feeding on the lactate or 
+acetate, e.g., glucose or fructose.44–47 The BD and 
+FD also impacted the alpha diversity and total 
+bacterial load in both these groups. Interesting, 
+while not significant, the median values of diversity 
+were higher in the BD compared to FD groups, 
+while the trend in the bacterial load was in the 
+opposite direction, with higher median value for 
+the bacterial load in the FD compared to BD. 
+These trends may reflect the nature and diversity 
+of the diets being used but may also reflect other 
+underlying issues with respect to disease and quantities 
+of food being consumed, features which were 
+not captured in this study.
+
+Another aspect of the gut microbiota that we 
+measured was the metabolic landscape of the fecal 
+environment. Global profiles of the three different 
+groups were not statistically different and showed 
+that the BD and FD were not separating from each 
+other in metabolic space, and we concluded from 
+this analysis that the different diets were not translating 
+into significantly different metabotypes. For 
+the limited analysis of specific metabolites, viz short 
+chain fatty acids, both the FD and BD showed 
+significant reductions in concentrations of these 
+important metabolites. These metabolites are 
+important to the host in a wide range of physiological 
+and immunological settings13 and any changes 
+in the levels of these metabolites need to be considered 
+for remedial intervention. For example, 
+there are dietary products that can deliver propionate 
+to the gut,48 which was depleted in both BD 
+and FD groups, and should be considered in these 
+cohorts of children ad supplements in their diet. 
+Other options may again include probiotic supplements 
+which may, with an appropriate prebiotic 
+(aka a symbiotic), increase the levels of SCFA in 
+the colon,49 while also addressing the low levels of 
+“beneficial” bacterial such as the bifidobacteria. 
+A more detailed and targeted profiling of the colonic 
+metabonome would be valuable, for example 
+bile acids and more SCFA, to assess the impact of 
+the diet on this niche. Moreover, if we were able to 
+obtain blood and urine, we would be able to explore 
+the co-metabolic landscape in more detail, and map 
+this to immunological data too, e.g. T cell types and 
+abundance.
+
+There were limitations to this study, which 
+included the limited numbers in the study, the 
+lack of a longitudinal aspect, more detail on the 
+disease phenotypes and detailed data on the diet 
+itself, its components and how much was consumed. 
+We were also not able to collect dietary 
+
+data to determine the children’s nutritional status 
+or weight-for-age, which would be important 
+aspects to collect for future studies. However, 
+the study does, for the first time, show that 
+a blended diet does not make a dramatic change 
+to either the diversity of the colonic bacteria and 
+the metabolic space therein, when compared to 
+a formulae diet. In fact, we have shown that the 
+FD group did significantly impact some groups of 
+bacteria that would be beneficial to the host, i.e., 
+bifidobacteria. Moreover, from this study, we can 
+conclude that more needs to be undertaken to 
+improve the diets for this group of children, and 
+this may be in the form of addressing the fiber 
+content and the use of probiotics, prebiotics or 
+synbiotics.
+
+Materials and methods
+
+Cohort and ethics
+
+This study was undertaken following approval by 
+Southwest – Plymouth & Cornwall Research Ethics 
+Committee (REF 17/SW/0049), and informed consent 
+was obtained from all subjects, or their guardians, 
+prior to sampling. Gastrostomy-fed children, 
+fed with either a formula diet (n = 17) or a blended 
+diet (n = 28), due to medical reasons, were recruited 
+along with healthy siblings (n = 19) in a multi- 
+center collaboration across five Health Boards in 
+South Wales, led by Aneurin Bevan University 
+Health Board. See supplementary methods for 
+more details.
+
+Sample preparation
+
+The 66 frozen fecal samples were kept on ice, and 
+frozen, and sub-sampled using a sterile 4 mm disposable 
+biopsy punch (Kai Medical) to create 
+a pellet, ~100 mg, which was dispensed into 
+a sterile 1.5 mL microcentrifuge tube and stored 
+at -80°C until required for DNA extraction or 
+metabonomics (Dr Laura Osborne pers. comm.).
+
+DNA extraction from stool, quantification, and qPCR 
+of 16S rRNA genes
+
+Sub-sampled fecal punches were thawed on ice, and 
+DNA extraction was carried out using the DNeasy 
+PowerLyzer PowerSoil Kit (Qiagen, UK) with 
+0.1 mm silica glass beads and following the protocol’s 
+instructions with a few optimization steps for 
+fecal samples, as follows. See supplementary methods 
+for more details.
+
+Metataxonomics of stool DNA
+
+Next-Generation Sequencing (NGS) of the hypervariable 
+V1-V2 region of the 16S rRNA gene, using 
+the Illumina MiSeq platform (Illumina Inc.), was 
+performed in collaboration with the Genome 
+Sequencing Hub at Cardiff University. See supplementary 
+methods for more details.
+
+Processing of stool metataxonomic data
+
+The 16S rRNA gene sequencing data was processed 
+using the DADA2 pipeline as amplicon sequence 
+variants (ASV).50 The raw FASTQ files obtained 
+from sequencing were unzipped and uploaded to 
+a CLIMB server.51 See supplementary methods for 
+more details.
+
+Analysis of metataxonomic data
+
+Statistical analysis was carried out using the 
+STAMP statistical software to compare the taxonomic 
+reads between the different test groups at 
+different taxonomic levels,52 and ANOVA were 
+performed to compare differences between all 
+three diet groups with a Turkey-Kramer post hoc 
+test set at a 95% confidence limit and with 
+Benjamini-Hochberg FDR multiple test correction. 
+White’s non-parametric two-sided t-tests 
+were used to compare between two specific groups 
+with bootstrapping set at a 95% confidence limit 
+and Benjamini-Hochberg FDR multiple test correction. 
+PCA plots of Hellinger transformed ASV 
+data and PERMANOVA analysis of Weighted 
+Unifrac distances were also created and tested in 
+R using the packages BiodiversityR, vegan, and 
+MASS. Alpha diversity indices were calculated 
+using vegan in R on normalized data. Abundance 
+counts of bacterial groups were determined by 
+using the qPCR data to adjust the reads in each 
+sample.53 Duplicate samples were not included in 
+the statistical analysis here or for other tests outlined 
+below, but one duplicate sample from child 
+
+
+BD8 was included in the PCA plot to assess variation 
+between duplicate stool samples (see 
+Figure 2a).
+
+Protease activity of cultured isolates
+
+The fecal samples were prepared as an anaerobic 
+slurry using 8% v/v DMSO in PBS and performed 
+in an anaerobic chamber. Mixed bacteria in the 
+fecal samples were grown anaerobically at 37°C on 
+YCFA medium supplemented with lactose-free 
+skimmed milk (LF-SM) to observe the protease 
+activity.12 See supplementary methods for more 
+details.
+
+ß-Glucuronidase activity assay
+
+ß-glucuronidase enzyme activity was measured, as 
+previously described by Kim and Jin54 to for the 
+fecal samples and to determine if there were differences 
+between the three test groups. See supplementary 
+methods for more details.
+
+Statistical analysis for culture and enzyme activity
+
+The differences between the three test groups were 
+checked for statistical significance using a one-way 
+ANOVA and a Tukey HSD test, which performs 
+multiple comparisons of means, in R statistical software 
+(R Core Team 2018).
+
+Sample preparation for1H NMR spectroscopy
+
+Sub-sampled fecal samples were thoroughly thawed 
+at room temperature and weighed. Two portions of 
+H2O were added to each fecal sample, vortexed for 
+5 seconds and centrifuged at 14,000 g at 4°C for 
+10 minutes. See supplementary methods for more 
+details.
+
+1H NMR spectral acquisition and experimental 
+parameters
+
+1H NMR spectra were obtained using a Bruker 
+800 MHz spectrometer (Bruker, Rheinstetten, 
+Germany), at a temperature of 300 K running 
+a one dimensional (1D) standard experiment.
+
+See supplementary methods for more details.
+
+Spectral processing and metabolite identification
+
+TOPSPIN 3.1 software (Bruker) was used for 
+Fourier transformation, phasing and baseline correction. 
+The TSP signal for each spectrum was 
+visually assessed. See supplementary methods for 
+more details.
+
+Statistical analyses of NMR data
+
+All multivariate statistical analyses, including 
+Principal Components Analysis (PCA) and 
+Orthogonal Partial Least Squares – Discriminant 
+Analysis (OPLS-DA) were performed using 
+MATLAB R2017a (MathWorks Inc., Natick, USA). 
+R2Y (OPLS-DA) and R2X and Q2 (PCA and OPLS- 
+DA) values were used to assess the robustness of the 
+models. For univariate analyses, statistical significance 
+was determined using Kruskal–Wallis test 
+with Dunn’s multiple comparisons test. The level 
+of significance was set at P < .05.
+
+Quality of life questionnaire
+
+A survey was developed to capture the views 
+and experiences of children receiving a blended 
+diet (group A; BD) and parents of children in 
+receipt of a commercial formulae diet (group B; 
+FD). See supplementary methods for more 
+details and supplementary documents D1 and 
+D2 for the two questionnaires used in this 
+study.

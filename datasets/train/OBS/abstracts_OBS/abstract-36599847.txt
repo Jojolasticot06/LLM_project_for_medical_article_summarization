@@ -1,0 +1,22 @@
+This retrospective observational study (NEUF) included adult patients with 
+B-cell acute lymphoblastic leukemia (B-cell ALL) who had received blinatumomab 
+for the treatment of minimal residual disease-positive (MRD+) or 
+relapsed/refractory (R/R) B-cell ALL via an expanded access program (EAP). 
+Patients were eligible if blinatumomab was initiated via the EAP between January 
+2014 and June 2017. Patients were followed from blinatumomab initiation until 
+death, entry into a clinical trial, the end of follow-up, or the end of the 
+study period (December 31, 2017), whichever occurred first. Of the 249 adult 
+patients included, 109 were MRD+ (83 Philadelphia chromosome-negative [Ph-] and 
+26 Philadelphia chromosome-positive [Ph+]) and 140 had a diagnosis of R/R B-cell 
+ALL (106 Ph- and 34 Ph+). In the MRD+ group, within the first cycle of 
+blinatumomab treatment, 93% (n = 49/53) of Ph- and 64% (n = 7/11) of Ph+ 
+patients with evaluable MRD achieved an MRD response (MRD <0.01%). Median 
+overall survival (OS) was not reached over a median follow-up time of 18.5 
+months (Ph-, 18.8 [range: 5.1-34.8] months; Ph+, 16.5 [range: 1.8-31.6] months). 
+In the R/R group, within two cycles of blinatumomab, 51% of Ph- and 41% of Ph+ 
+patients achieved complete hematologic remission (CR/CRh/CRi), and 83% of Ph- 
+and 67% of Ph+ MRD-evaluable patients in CR/CRh/CRi achieved an MRD response. 
+Median (95% confidence interval) OS was 12.2 (7.3-24.2) months in the R/R Ph- 
+subgroup and 16.3 (5.3-not estimated) months in the R/R Ph+ subgroup. This 
+large, real-world data set of adults with B-cell ALL treated with blinatumomab 
+confirms efficacy outcomes from published studies.

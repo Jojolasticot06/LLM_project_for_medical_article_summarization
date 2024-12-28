@@ -1,0 +1,24 @@
+Congenital diaphragmatic hernia (CDH) is a severe birth defect that is often 
+accompanied by other congenital anomalies. Previous exome sequencing studies for 
+CDH have supported a role of de novo damaging variants but did not identify any 
+recurrently mutated genes. To investigate further the genetics of CDH, we 
+analyzed de novo coding variants in 362 proband-parent trios including 271 new 
+trios reported in this study. We identified four unrelated individuals with 
+damaging de novo variants in MYRF (P = 5.3x10(-8)), including one likely 
+gene-disrupting (LGD) and three deleterious missense (D-mis) variants. Eight 
+additional individuals with de novo LGD or missense variants were identified 
+from our other genetic studies or from the literature. Common phenotypes of MYRF 
+de novo variant carriers include CDH, congenital heart disease and genitourinary 
+abnormalities, suggesting that it represents a novel syndrome. MYRF is a 
+membrane associated transcriptional factor highly expressed in developing 
+diaphragm and is depleted of LGD variants in the general population. All de novo 
+missense variants aggregated in two functional protein domains. Analyzing the 
+transcriptome of patient-derived diaphragm fibroblast cells suggest that disease 
+associated variants abolish the transcription factor activity. Furthermore, we 
+showed that the remaining genes with damaging variants in CDH significantly 
+overlap with genes implicated in other developmental disorders. Gene expression 
+patterns and patient phenotypes support pleiotropic effects of damaging variants 
+in these genes on CDH and other developmental disorders. Finally, functional 
+enrichment analysis implicates the disruption of regulation of gene expression, 
+kinase activities, intra-cellular signaling, and cytoskeleton organization as 
+pathogenic mechanisms in CDH.

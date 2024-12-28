@@ -1,0 +1,335 @@
+Treatment and outcome of patients suffering from perineal/perianal rhabdomyosarcoma: results from the CWS trials--retrospective clinical study
+R
+habdomyosarcomas of the perineum and the perianal region
+[or perineal/perianal rhabdomyosarcoma (PRMS)] are extremely
+rare and occur in less than 2% of all primary cases.1 The 2 main
+histological subtypes are embryonal rhabdomyosarcoma and alveolar
+rhabdomyosarcoma. Alveolar histology is found more frequently in
+PRMS than those at other locations.2
+In addition, patients often have
+regional lymph node involvement and, at times, distant metastases.2
+Tumors are sometimes misdiagnosed as perirectal or gluteal abscess,
+delaying early diagnosis and appropriate therapy.3 The prognosis of
+patients with PRMS is relatively poor. Patients treated within IRS
+I–IV trials had a 5-year overall survival (OS) rate of only 49%.4,5
+Positive predictive factors described for a favorable outcome are tumor size of smaller than 5 cm, less advanced clinical group and stage,
+negative regional lymph node status, and age less than 10 years.5
+Surprisingly, histology has not been described to significantly affect
+the outcome.5 To date, there exist no data regarding stool continence
+and quality of life (QOL) in children with PRMS after treatment. The
+aim of this study was to analyze patients treated within the Cooperative Soft Tissue Sarcoma trials CWS-86, -91, -96, and -2002P of
+the Society of Pediatric Hematology and Oncology (GPOH) regarding treatment efficacy, including complications, outcome, positive
+predictive factors, incontinence, and QOL.
+PATIENTS AND METHODS
+Patients
+More than 3500 patients with centrally reviewed (IL) histological diagnosis of rhabdomyosarcoma were treated in 32 participating
+institutions in Germany and Switzerland and were enrolled on the Cooperative Soft Tissue Sarcoma Studies CWS-86, -91, -96, and -2002P
+of the Society of Pediatric Oncology and Hematology (GPOH) between 1986 and 2008. Thirty-five patients with a diagnosis of PRMS
+were identified. Three patients were excluded because of an incomplete data set (n = 2) or age more than 21 years at initial diagnosis
+(n = 1). The appropriate ethical committee approved the trials. The
+patients, guardians or parents, or both gave written informed consent
+for participation on the trials.
+Study Design
+Risk Stratification for Systemic Treatment
+All patients received multiagent chemotherapy with at least 3
+drugs, including alkylators, dactinomycin, and vincristine, depending on risk stratification and trial. Patients treated within the CWS-86
+trial underwent chemotherapy with VAIA (vincristine, ifosfamide,
+doxorubicin, dactinomycin).6
+In the CWS-91 trial, chemotherapy
+was carried out according to the VACA (vincristine, dactinomycin,
+doxorubicin, cyclophosphamide) for standard risk group patients or
+EVAIA regimen (etoposide, vincristine, dactinomycin, ifosfamide,
+doxorubicin) for high-risk patients (all patients with IRS group III
+except orbital and non–bladder-prostata genitourinary localization)
+In the CWS-96 trial, patients received IVA (ifosfamide, vincristine,
+dactinomycin) in the standard risk group. In the high-risk group,
+patients were randomized to VAIA (vincristine, ifosfamide, doxorubicin, dactinomycin) or CEVAIE (carboplatin, epirubicin, vincristine, dactinomycin, ifosfamide, etoposide).8
+In the CWS-2002P
+trial, standard risk group patients were treated with I2VA (ifosfamide,
+vincristine, dactinomycin). In the high-risk group, this therapy was
+broadened by doxorubicin.
+Neoadjuvant chemotherapy was prescribed for the majority of
+patients with macroscopic residual tumors after initial biopsy (IRS
+group III). In this group, radiographical response was assessed after
+9 weeks using computed tomography (CT) or magnetic resonance
+imaging (MRI), as further (local and systemic) treatment was response dependent.
+Radiotherapy
+The treatment protocol included radiotherapy in children older
+than 1 year. Children younger than 3 years should be treated with a
+radiation dosage of 32 Gy. Protection of the pelvic/hip growth plates
+was recommended to avoid growth disturbances. The target volume
+was based on the initial tumor volume on MRI plus a 2-cm margin. The radiation dose was stratified on response to chemotherapy,
+IRS group, and histology. Patients with complete response or good
+response (definition of response is described later) at radiological
+response assessment and favorable (embryonal) histology should undergo hyperfractionated, accelerated radiotherapy (HART) of 32 Gy
+to the primary site (1.6 Gy twice daily). Patients with poor response
+received a total of 44.8 Gy HART. Patients who did not qualify for
+HART (eg, necessity of repeated anesthesia at young age or gut/liver
+involvement) received conventional fractionation with 1.8 Gy per day
+(overall dose: 39.8 or 50 Gy). Lower dose was used for irradiation
+of the abdomen or if a dose reduction was necessary (age or tumor
+localization). For a better comparison between the groups, patients
+were assigned to a group (=36 Gy and >36 Gy).
+Surgery
+Surgical guidelines did not recommend a primary tumor resection unless a primary complete tumor resection without microscopic
+residual disease seemed to be feasible. In all other cases, a primary
+biopsy (open or tru-cut) should be carried out to establish a histological diagnosis. Secondary surgery after chemotherapy and/or
+radiotherapy was carried out if a residual tumor mass was detected
+at the time of response assessment. Mutilating surgery (resection of
+the rectum, exenteration of the pelvis) was allowed after neoadjuvant
+therapy. The extent of tumor resection was defined in the following
+way: R0 = complete tumor resection without microscopic residual
+disease; R1 = tumor resection with microscopic residual disease; and
+R2 = tumor resection with macroscopic residual disease.
+Definition of Treatment Groups and Response to
+Preoperative Chemotherapy
+Patients were evaluated regarding local treatment. Therefore,
+patients were assigned to 4 different local treatment groups. In group
+1, patients were treated with chemotherapy and surgery alone. In
+group 2, patients were treated with chemotherapy and radiotherapy.
+In group 3, patients were treated with chemotherapy, radiotherapy,
+and tumor resection (radiotherapy plus surgery). In group 4, patients
+received only chemotherapy. Patients were additionally subgrouped
+according to tumor size (=5 or >5 cm), patients’ age (<10 or =10
+years), locoregional lymph node status (negative or positive), and the
+IRS group.
+Complete response was assumed if there was a lack of visible
+tumor on CT/MRI or no evidence for viable tumor during second-look
+surgery. Good response was defined as a tumor volume reduction of
+more than two-thirds. Poor response was a tumor volume reduction
+between one-third and two-thirds. Objective response was presumed
+if the reduction was less than one-third and more than the baseline.
+Progressive disease described any tumor progression.
+Assessment of Postoperative Bowel and
+Bladder Function
+To assess the postoperative bowel and bladder function of
+the treated patients and for the acquisition of possible radiotherapyrelated restrictions of the pelvic mobility, a questionnaire was sent to
+surviving patients by mail. The questionnaire inquired about the quality, quantity, frequency, and problems of bowel movements. Second,
+subjective stool incontinence and symptoms of constipation were analyzed. In addition, the voiding behavior and problems with walking
+were evaluated. Fecal incontinence was also graded using the Wexner
+fecal incontinence score, with a possible range from 0 to 20.9
+QOL Assessment
+QOL assessment was carried out using an established gastrointestinal QOL questionnaire, which was initially described by
+Eypasch and colleagues.10 This validated questionnaire assesses 36
+items concerning physical, functional, mental, and social status. For
+each question, there are 5 possible answers, assigned a numeric value
+from 0 (lowest score) to 4 (highest score).10,11 The maximum score
+is 144 and the lowest score is 0. A high score correlates with a high
+QOL. The QOL questionnaire was also sent by mail to all surviving
+patients.
+Statistical Analysis
+The 5-year OS and the 5-year event-free survival (EFS) were
+calculated by Kaplan-Meier estimates. For the OS, the time from
+primary diagnosis to death (therapy related or other reasons) or last
+follow-up (censored observations) was used. For the EFS, the endpoint was defined as the time from diagnosis to first relapse. KaplanMeier estimates are given with log–log-transformed 95% confidence
+intervals (CIs).12 The Mantel-Cox log rank test was used to test the
+difference between survival curves. Cox proportional hazards analysis was performed to calculate single variable and adjusted risk ratios,
+with 95% CIs for risk factors. Demographic data are reported as median (interquartile range). A P value less than 0.05 was considered
+significant. The statistical analyses were performed using the IBM
+SPSS 20 software.
+RESULTS
+Patients
+The characteristics of the 32 evaluated patients are shown in
+Table 1. Response evaluation in IRS group III was not possible for 1
+patient, in whom the tumor volume was not measured, as the suggested
+imaging was not carried out at the correct time point. In IRS group
+IV, response could not be assessed for 2 patients for the same reasons.
+The 5-year EFS for different IRS groups are shown in Figure 1.
+Radiotherapy
+Twenty-three of 32 patients underwent radiotherapy. The
+different local treatment groups are shown in Table 2. Patients
+underwent either radiotherapy alone or radiotherapy followed by
+tumor resection. An incomplete tumor resection without preoperative
+radiotherapy was not recommended by the study protocols. Radiation
+doses ranged from 32 to 64 Gy. Doses 36 Gy or less were used for 7
+patients (HART: 5; conventional fractionation: 1; brachytherapy: 1).
+Doses more than 36 Gy were used for 16 patients (HART: 13;
+conventional: 3). There was no significant difference regarding the 5-year EFS rate between patients who were irradiated with a dose
+of 36 Gy or less (33.3%) compared with patients who underwent
+radiotherapy with a dose of more than 36 Gy (52.2%; P = 0.62),
+given that the irradiation dose was risk adapted (Fig. 2). Eight of
+11 patients treated only with radiotherapy had locoregional lymph
+node involvement, and 4 of 11 patients were in IRS group IV. Early
+complications of radiotherapy, including dermatitis, leucopenia,
+epidermiolysis, diarrhea, proctitis, and cystitis, were reported in 57%
+of the patients (13/23). Late effects of radiotherapy, including growth
+retardation of the pelvis, urinary incontinence, low compliance of
+the bladder, and stricture of the urethra, were observed in 3 patients.
+Surgery
+Primary Surgery
+Twenty-four patients underwent initial tumor biopsy (open
+biopsy: n = 20; needle biopsy: n = 2; perineal punch biopsy:
+n = 1; MRI-guided biopsy: n = 1). Regional lymph node sampling
+was done in 8 of these patients, all of which showed tumor-positive
+results. Eight patients were treated with primary tumor resection (resection status R0: n = 2; R1: n = 5; R2: n = 1). Regional lymph node
+sampling was carried out in 1 patient undergoing primary tumor resection without detection of tumor cells. Minor surgical complications
+(wound healing disorders) occurred in 3 patients after biopsy and in
+1 patient after tumor resection. There was no difference with respect
+to primary biopsy or tumor resection regarding complications.
+Secondary Surgery
+One patient underwent secondary tumor biopsy, in which no
+tumor cells could be detected. Twelve patients were treated with
+secondary tumor resection (resection status R0: n = 2; R1: n = 3;
+R2: n = 4; not assessable: n = 3). Additional regional lymph node
+sampling was carried out for 3 patients, of which 1 showed tumornegative findings and 2 were not assessable after chemotherapy. Minor
+surgical complications occurred in 2 patients, who developed woundhealing disorders. The complete overview and outcome of different
+treatment groups are shown in Table 2.
+Positive Predictive Factors for Outcome
+On the basis of the predescribed positive predictive factors
+of Blakely and colleagues,5 we investigated whether these positive
+predictive factors could also be identified in our cohort. Positive
+predictive factors for outcome in our group were patients’ age of
+less than 10 years, tumor size 5 cm or smaller, negative locoregional
+lymph node involvement, low IRS group, and embryonal histology
+(Tables 3, 4).
+Overall Survival
+The 5-year OS and EFS rate for the whole group was 47%
+(95% CI: 29–64).
+Assessment of Postoperative Bowel and
+Bladder Function
+The questionnaires were answered and sent back by only 5 of
+15 surviving patients despite forwarding 2 additional reminders to
+the participating centers. The oldest patient alive is currently 34 years
+of age, so many of the patients may have left the pediatric aftercare.
+All patients answering the questionnaire underwent radiotherapy. For
+4 patients, radiotherapy was combined with surgical tumor resection. All patients reported neither voiding problems nor limitations
+in pelvic motility as an indicator for impairments after radiotherapy.
+Three of 5 patients reported defecation problems and symptoms of fecal incontinence while having pasty stools. Four patients were able to
+discriminate between air, pasty, and solid stool. Three patients had a stool frequency of more than 2 and fewer than 6 per day. Two patients
+had a stool frequency of only 1 to 2 per day. Two patients constantly
+had to wear diapers. The median Wexner fecal incontinence score
+was 9 (min: 6; max: 16) (0 = no stool incontinence; 20 = complete
+stool incontinence).
+QOL Assessment
+Four of 5 patients responding to the QOL questionnaire completed the questionnaire entirely. The median QOL score was 90.5 (min: 74; max: 106) [lowest possible score 0 (no QOL), highest score
+144 (good QOL)].
+DISCUSSION
+PRMS is rare and only a very limited number of patients have
+been described.2,5,13 The largest published series by Blakely and
+colleagues5 described several risk factors for a favorable outcome,
+including a primary tumor size of smaller than 5 cm, less advanced
+clinical group and stage, negative regional lymph node status, and
+age less than 10 years. The histological subtype did not significantly affect the outcome in their trial.5
+In PRMS, alveolar histology is more
+often found than those in other locations and has been shown to be
+accompanied by a less favorable prognosis.2
+In IRS I–IV, 65% of
+the patients had alveolar or undifferentiated histology.5
+In our study,
+75% of the patients had alveolar histology. In contrast to the IRS
+results, the histological subtype significantly affected the outcome
+of our patients. The 5-year EFS rate was 39.1% in patients with
+alveolar histology compared with 87.5% in patients with embryonal
+tumors (P = 0.013). The detailed analysis of our smaller study cohort
+showed some well-defined differences in comparison with the IRS
+I–IV trials. In our series, patients with embryonal histology had less
+regional lymph node involvement, were mostly younger than 10 years,
+had no metastases, were often in lower IRS groups, and had only
+2 local relapses. In contrast, patients with alveolar histology often
+had locoregional lymph node involvement, were mostly older than
+10 years, had more distant metastases, were mostly in higher IRS
+groups, and had an increased number of local relapses. Therefore these factors may account for the significant difference between the
+2 histological subgroups.
+Another risk factor was the primary tumor size. Most of our
+patients had a tumor size of larger than 5 cm and had a higher clinical
+stage. This observation was also made by Blakely and colleagues.5
+The reason might be that older children tend to hide their intimate
+areas from their parents and therefore lesions are diagnosed later. The
+outcome of children with a tumor size of smaller than 5 cm was much
+better (5-year EFS rate: 81.8%) than those with a tumor size of larger
+than 5 cm (35%; P = 0.027).
+In IRS I–IV trials, 64% of the patients presented with advanced stage tumors (IRS III/IV).5
+In our study, 81% of the patients
+had advanced stage disease. We found a statistically significant difference between IRS group I–III patients and IRS group IV patients.
+Therefore, metastatic disease is a negative prognostic factor in our
+series.Locoregional lymph node involvement is often found in patients with PRMS and is reported to be highest among all sites in
+rhabdomyosarcoma.2,14 In the complete IRS I–IV trials, 46% of the
+patients had proven locoregional lymph node involvement.5
+In our
+series, 50% of the patients had positive lymph nodes and they had a
+statistically significant worse outcome. Seven of 16 patients were in
+IRS group IV. Therefore, the evaluation of locoregional lymph nodes
+needs to be continued in future CWS trials. Blakely and colleagues
+reported that positive lymph nodes are underestimated by CT and
+suggested surgical evaluation of regional lymph nodes.5
+In the CWS
+trials, MRI scans were used for the evaluation of lymph nodes, which
+offered a better soft-tissue contrast. Positron emission tomography
+(PET) and PET/CT seem to be even more beneficial in the diagnosis
+of lymph node lesions in rhabdomyosarcoma,15,16 but the final role of
+PET/CT in rhabdomyosarcoma is unclear. This should be taken into
+account during diagnostic workup, as further intensified therapy including radiotherapy might be required for the management of these
+lymph nodes.5
+Another important point is the age of the patients. Patients
+younger than 10 years have a better outcome than older patients,5
+which could also be confirmed in our series. This might be caused
+by the fact that patients younger than 10 years more often present
+with embryonal rhabdomyosarcoma than older patients. In addition,
+15 of 17 patients 10 years or older had a tumor size of larger than
+5 cm. A possible explanation might be that tumors in young children
+are diagnosed earlier because they are more often inspected by their
+parents.
+Taken together, we could confirm Blakely and colleagues’ positive predictive factors for survival, including primary tumor size of
+smaller than 5 cm, low clinical group/no IRS group IV disease, negative locoregional lymph node involvement, and age less than 10 years.
+In addition, we found that embryonal histology is a prognostic factor
+for survival.
+The optimal treatment modality for patients with PRMS is unclear. Within the CWS trials, patients were stratified for local control
+on the basis of several criteria such as assessment of resectability and
+tumor size and location. The principle of the CWS trials was that all
+patients should receive radiotherapy before surgery except if there was
+a contraindication for radiotherapy (eg, age <1 year, field) or if a nonmutilating R0 resection was feasible. Patients received treatment in 4
+groups. The best outcome regarding the 5-year EFS was found among
+the 7 patients undergoing surgical tumor resection and chemotherapy
+(85.7%). These results are better than among patients treated with
+radiochemotherapy and tumor resection (5-year EFS: 63.6%), but it
+must be taken into account that 3 of 7 patients had embryonal rhabdomyosarcoma and that only 1 of 7 patients had locoregional lymph
+node involvement, resulting in a better outcome. The question whether
+primary or secondary surgery is more beneficial for the outcome cannot be answered because of the small size of the cohort. Only 3 of
+7 patients had a microscopically complete tumor resection, yet only
+one patient had a local relapse. Interestingly, these patients underwent
+primary microscopic complete tumor resection. Most of the patients
+treated with combined radiochemotherapy and tumor resections had
+alveolar histology and were the more challenging tumors for local
+control. Five of 12 patients had locoregional lymph node involvement. A microscopic complete tumor resection was achieved in only
+one patient. Four patients in this group had a local relapse, of which
+only one patient underwent R0 resection. The necessity of a complete
+tumor resection in this location after radiochemotherapy remains unclear. Although reexcisions of primary lesions after primary surgery
+are recommended to achieve clinical group I,5
+the indication for microscopic complete mutilating secondary surgery remains—based on
+our data—unclear. Patients treated with radiochemotherapy alone had
+a significantly worse outcome compared with patients treated with chemotherapy and surgery or with radiochemotherapy and surgery,
+taking into account that 8 of 11 patients had locoregional lymph node
+involvement and 4 of 11 patients had local relapse. Therefore, radiation therapy was used for patients with tumors, which were judged as
+inoperable, and obviously the outcome was worse in these patients.
+The use of risk-adapted radiation therapy doses seemed to be reasonable in our cohort, but one must interpret these findings cautiously
+because an evaluation of different radiation dose levels in the singlerisk groups has not been possible. An analysis of larger numbers will
+be required to finally answer this question. Chemotherapy alone is
+not an alternative for these patients; in our studies, it was used for
+rapidly progressing patients who could not undergo local control.
+The assessment of postoperative bowel and bladder function
+was limited in our series. The reason for the low survey response rate
+remains unclear, but it might be due to the long period of observation
+and the challenges in locating patients. Nevertheless, 3 of 5 patients
+had fecal incontinence, which correlated with an increased Wexner
+fecal incontinence score. Therefore, improvements of local control
+including evaluation of proton beam therapy and brachytherapy might
+be studied in future CWS trials regarding treatment efficacy and side
+effects. QOL assessment revealed a low median QOL score of 90.5
+in comparison with patients undergoing surgery for other colorectal
+tumors. Patients undergoing sigmoid colectomy for carcinomas had a
+median QOL score of 106 of 113 depending on the surgical approach
+performed.11 In our series, fecal incontinence seems to be the most
+serious problem for the patients, resulting in a lower QOL score.
+CONCLUSIONS
+Patients with PRMS are a high-risk population with a higher
+proportion of alveolar histology and locoregional lymph node involvement than at other sites. Surgical evaluation of lymph nodes,
+followed by appropriate therapy, was carried out in the CWS trials in
+the past and was found to be appropriate. Novel diagnostic imaging
+tools such as PET/CT or PET/MRI may be useful for evaluation of
+suspicious lymph nodes and might replace the need for surgical evaluation but has yet to be defined. Several predictive risk factors for a
+more favorable prognosis could be identified. Besides systemic control by chemotherapy, local control should consist of surgical tumor
+resection or a combination of radiotherapy and surgery. Radiotherapy
+as the sole local therapy seems not to be adequate. In addition to oncological issues, fecal incontinence and QOL seem to be a problem
+of these patients and should be taken into account during treatment
+planning. Our preliminary QOL results underline that possible late
+effects should be taken into account in future treatment concepts.

@@ -1,0 +1,36 @@
+Treatment with soluble CD24 attenuates COVID-19-associated systemic immunopathology.
+
+1/BACKGROUND: Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) causes 
+coronavirus disease 2019 (COVID-19) through direct lysis of infected lung 
+epithelial cells, which releases damage-associated molecular patterns and 
+induces a pro-inflammatory cytokine milieu causing systemic inflammation. 
+Anti-viral and anti-inflammatory agents have shown limited therapeutic efficacy. 
+Soluble CD24 (CD24Fc) blunts the broad inflammatory response induced by 
+damage-associated molecular patterns via binding to extracellular high mobility 
+group box 1 and heat shock proteins, as well as regulating the downstream 
+Siglec10-Src homology 2 domain-containing phosphatase 1 pathway. A recent 
+randomized phase III trial evaluating CD24Fc for patients with severe COVID-19 
+(SAC-COVID; NCT04317040) demonstrated encouraging clinical efficacy.
+
+2/METHODS: Using a systems analytical approach, we studied peripheral blood 
+samples obtained from patients enrolled at a single institution in the SAC-COVID 
+trial to discern the impact of CD24Fc treatment on immune homeostasis. We 
+performed high dimensional spectral flow cytometry and measured the levels of a 
+broad array of cytokines and chemokines to discern the impact of CD24Fc 
+treatment on immune homeostasis in patients with COVID-19.
+
+3/RESULTS: Twenty-two patients were enrolled, and the clinical characteristics 
+from the CD24Fc vs. placebo groups were matched. Using high-content spectral 
+flow cytometry and network-level analysis, we found that patients with severe 
+COVID-19 had systemic hyper-activation of multiple cellular compartments, 
+including CD8+ T cells, CD4+ T cells, and CD56+ natural killer cells. Treatment 
+with CD24Fc blunted this systemic inflammation, inducing a return to homeostasis 
+in NK and T cells without compromising the anti-Spike protein antibody response. 
+CD24Fc significantly attenuated the systemic cytokine response and diminished 
+the cytokine coexpression and network connectivity linked with COVID-19 severity 
+and pathogenesis.
+
+4/CONCLUSIONS: Our data demonstrate that CD24Fc rapidly down-modulates systemic 
+inflammation and restores immune homeostasis in SARS-CoV-2-infected individuals, 
+supporting further development of CD24Fc as a novel therapeutic against severe 
+COVID-19.

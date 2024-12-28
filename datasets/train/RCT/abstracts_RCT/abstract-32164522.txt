@@ -1,0 +1,11 @@
+Four-year follow-up of a randomized controlled trial of choline for neurodevelopment in fetal alcohol spectrum disorder.
+
+1/BACKGROUND: Despite the high prevalence of fetal alcohol spectrum disorder (FASD), there are few interventions targeting its core neurocognitive and behavioral deficits. FASD is often conceptualized as static and permanent, but interventions that capitalize on brain plasticity and critical developmental 
+windows are emerging. We present a long-term follow-up study evaluating the neurodevelopmental effects of choline supplementation in children with FASD 4 years after an initial efficacy trial.
+
+2/METHODS: The initial study was a randomized, double-blind, placebo-controlled trial of choline vs. placebo in 2-5-year-olds with FASD. Participants include 31 children (16 placebo; 15 choline) seen 4 years after trial completion. The mean age at follow-up was 8.6 years. Diagnoses were 12.9% fetal alcohol syndrome 
+(FAS), 41.9% partial FAS, and 45.1% alcohol-related neurodevelopmental disorder. The follow-up included measures of intelligence, memory, executive functioning, and behavior.
+
+3/RESULTS: Children who received choline had higher non-verbal intelligence, higher visual-spatial skill, higher working memory ability, better verbal memory, and fewer behavioral symptoms of attention deficit hyperactivity disorder than the placebo group. No differences were seen for verbal intelligence, visual memory, or other executive functions.
+
+4/CONCLUSIONS: These data support choline as a potential neurodevelopmental intervention for FASD and highlight the need for long-term follow-up to capture treatment effects on neurodevelopmental trajectories.

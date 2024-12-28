@@ -1,0 +1,282 @@
+Introduction
+
+Extreme dilatative outward remodeling of the large intracranial arteries has been associated 
+with cognitive decline and dementia.1 Autopsies suggest that brain arterial aging is 
+associated with concentric wall thickening, luminal dilation, and outward remodeling, which 
+occurs even in the absence of atherosclerosis.2 This outward remodeling is theorized to 
+lower the impedance of the cerebral vasculature, reducing arterial pulse wave reflections 
+and facilitating the transmission of damaging pulsatile energy to the capillary bed.3 
+Excessive arterial pulsatility has a demonstrated association with microvascular dysfunction 
+in the systemic circulation.4 In the cerebral circulation, excessive pulsatility may lead to 
+parenchymal damage and cognitive impairment.3
+
+White matter hyperintensities (WMH) are radiographic features indicative of cerebral small 
+vessel disease, and have a reported prevalence of 94% in older adults.5 The associated 
+pathology of WMH is diverse, and includes ischemia, hypoperfusion, inflammation.6 Post-
+mortem examinations of WMH reveal arteriolar changes, fibrohyalinosis, and capillary 
+rarefaction, which are accompanied by axonal demyelination, gliosis, and white matter 
+degeneration.6 In previous investigations, central artery stiffness, as assessed by the carotid-
+femoral pulse wave velocity (cf-PWV), has been associated with WMH and cognitive 
+decline.7,8 Pulsatile energy transmits efficiently in the setting of central artery stiffness, 
+with minimal absorption by the normally compliant aortic walls.9 Without a buffering 
+impedance mismatch at the interface with distal arteries, excessive aortic pulsatile energy 
+could propagate to the distal cerebrovascular microcirculation,10 which may explain the 
+association between dilative remodeling of the cerebral arteries and cognitive outcomes.2 
+However, the relationship between central arterial stiffness, brain arterial dilation, and 
+WMH has not been previously investigated in a population-based study. We hypothesized 
+that in the general population of older adults, brain arterial dilation would associate with 
+microvascular damage as assessed by WMH volume, and that the relationship would be 
+modified by central artery stiffness.
+
+
+Methods
+
+The ARIC Study
+
+The Atherosclerosis Risk in Communities (ARIC) study’s data are owned by the National 
+Heart Lung and Blood Institute (NHLBI). The data are publicly available to qualified 
+investigators with an approved manuscript proposal and data use agreement. Upon 
+reasonable request, the ARIC coordinating center may make the data, analytic methods, 
+and study materials available to other researchers for purposes of reproducing the results or 
+replicating the procedure.
+
+The ARIC study is an observational, population-based cohort of 15,792 mostly white or 
+black adults in 4 US communities: Forsyth County, NC; Washington County, MD; Jackson, 
+MS; and Minneapolis, MN. Study participants were recruited with informed consent and 
+have been prospectively followed since enrollment (1987–1989). To date, participation in the 
+ARIC cohort study has involved 7 completed in-person study visits, with ongoing annual 
+telephone assessments and surveillance of hospitalized events. For the purposes of our study, 
+all imaging, clinical, neurocognitive, and laboratory data were collected from the ARIC 
+Neurocognitive Study (ARIC-NCS) in 2011–2013. All research activities are approved by 
+local institutional review boards from the 4 ARIC communities.
+
+Carotid-Femoral Pulse Wave Velocity
+
+Carotid-femoral pulse wave velocity (cf-PWV) was measured with an Omron VP-1000plus 
+device (Omron Corporation; Kyoto, Japan), following a standardized protocol.11 Pressure 
+waveforms at the carotid and femoral pulses were captured by applanation tonometry 
+with simultaneous electrocardiography. The time delay from the R-wave until the pressure 
+wave was quantified, and the carotid-femoral transit time was derived by subtracting the 
+carotid from the femoral time delay. The carotid-femoral transit distance was estimated by 
+measuring the linear distance from the carotid to femoral pulse, minus the linear distance 
+from the suprasternal notch to the carotid pulse. The cf-PWV was calculated by dividing 
+the transit distance by the transit time. In the published literature, mean cf-PWV among 
+individuals =70 years with normal blood pressure who lack cardiovascular risk factors and 
+take no medications for hypertension, diabetes, or hyperlipidemia is reported to be 10.9 
+m/s (95% CI: 5.5 – 16.3 m/s).12 Consistent with recommended age-specific cutpoints, we 
+considered a cf-PWV >12 m/s to be elevated.13 We considered a cf-PWV =40 m/s to be 
+physiologically implausible and likely to represent technical error, resulting in the omission 
+of 2 study participants from our analysis.
+
+Brain Magnetic Resonance Imaging
+
+Brain imaging was performed on 3.0 T scanners by certified MRI technologists following a 
+standardized imaging protocol. As previously described, 3-D time of flight (TOF) magnetic 
+resonance angiography (MRA) and 3-D high-isotropic resolution vessel wall imaging 
+were acquired with imaging resolutions of 0.50 × 0.50 × 0.55 mm3 and reviewed for 
+image quality.14 Intracranial plaque was qualitatively assessed by eccentric wall thickening 
+on vessel wall imaging, with or without luminal stenosis on coregistered TOF MRA.14 
+Arterial lumen diameters of the anterior cerebral artery and middle cerebral artery were 
+
+measured bilaterally from MRA with centerline segmentation, using non-uniform rational 
+b-splines (NURBS) surface modeling software (LAVA, Leiden University Medical Center, 
+the Netherlands) developed for the ARIC Study MRI analysis.15 For the purposes of this 
+analysis, the M1A1 segment diameter was defined by the larger of either the A1 segment 
+of the anterior cerebral artery or the M1 segment of the middle cerebral artery. The 
+cerebral white matter was imaged by T2 fluid attenuated inversion recovery (FLAIR), and 
+segmented by an atlas-based technique using 3-D magnetization-prepared rapid acquisition 
+gradient echo (MPRAGE), with volumes derived by a semi-automated algorithm.16 The total 
+intracranial volume (ICV) was quantified on MPRAGE using FreeSurfer (Martinos Center 
+for Biomedical Imaging; Boston, MA).17 Images were segmented and parcellated using an 
+atlas-based technique, and volumes were derived with a semi-automated algorithm.
+
+Clinical Covariates
+
+Clinical and laboratory data were collected by centrally trained personnel following 
+standardized protocols. Three seated blood pressure measurements were obtained after a 
+5-minute rest using an oscillometric automated sphygmomanometer (Omron HEM-907 XL, 
+Omron, Kyoto, Japan), retaining and averaging the last 2 measurements. Hypertension 
+was considered a systolic blood pressure =140 mmHg, diastolic blood pressure =90 
+mmHg, or antihypertensive medication use. Antihypertensive medications were grouped 
+into a single category and included angiotensin converting enzyme inhibitors, angiotensin 
+receptor blockers, anti-adrenergics, vasodilators, calcium channel blockers, beta blockers, 
+and diuretics. Blood glucose, lipoprotein profiles, and serum creatinine were processed by 
+a central laboratory. Diabetes mellitus was defined by a fasting blood glucose =126 mg/dL, 
+a non-fasting blood glucose =200 mg/dL, or prior physician diagnosis. Hyperlipidemia 
+was considered a total cholesterol =240 mg/dL or statin use within 4 weeks of the 
+clinic visit. Chronic kidney disease was defined by an estimated glomerular filtration 
+rate <45 mL/min/1.73 m2. Mild cognitive impairment and dementia were classified by a 
+standardized, algorithmic approach, and adjudicated by an expert panel of physicians and 
+neuropsychologists.18 Left ventricular stroke volume was obtained by echocardiography, 
+by subtracting the end-systolic left ventricular volume from the end-diastolic volume. 
+History of myocardial infarction, heart failure and stroke were classified by standardized 
+criteria.19–21 For the purposes of this analysis, participants with history of stroke were 
+excluded to avoid conflating WMH due to large vessel obstruction with WMH representative 
+of other etiologies, such as arteriolar dysfunction. Age, sex, race, and smoking habits were 
+self-reported.
+
+Statistical Analysis
+
+All statistical analyses were performed using SAS 9.4 (SAS Institute; Cary, NC). For 
+descriptive purposes, study participants were stratified by a cf-PWV =12 m/s or >12 
+m/s, and by an M1A1 diameter = or > the sex-specific median. Separate M1A1 median 
+diameters were calculated for women and men, to account for the known relationship 
+between arterial diameters and body size. Continuous variables were assessed for normality 
+and compared between groups using 2-sample t-tests or Wilcoxon rank sums tests, as 
+appropriate. Categorical variables were compared using .2 tests. Categorical variables with 
+expected cell counts <5 were analyzed using Fisher’s exact test. The association between 
+
+M1A1 diameter (per 0.5 mm increment) and the log of WMH volume was analyzed by 
+multivariable linear regression. WMH volume was log-transformed due to its highly skewed 
+distribution. The model was first adjusted for ICV (as a measure of anthropometry), and 
+demographics (age, race, and sex), followed by a second model with additional adjustment 
+for factors associated with arteriolar dysfunction and WMH (diabetes mellitus, systolic 
+blood pressure, and antihypertensive medication use within 4 weeks). Modification by 
+elevated central artery stiffness was analyzed by stratifying the models by cf-PWV >12 
+m/s vs. =12 m/s, and by testing the multiplicative interaction of elevated cf-PWV with 
+M1A1 diameter. A P value <0.10 was considered suggestive of statistical interaction, to 
+account for the diminished power inherent with stratification.22 Several sensitivity analyses 
+were conducted. In the first sensitivity analysis, the model was additionally adjusted for 
+factors associated with an M1A1 diameter above the sex-specific median value. In a 
+second sensitivity analysis, potential modification by cognitive status (normal cognition 
+vs. mild cognitive impairment / dementia) was analyzed, with significance tested by the 
+multiplicative interaction of cognitive status with M1A1 diameter.
+
+Results
+
+A total of 1765 participants underwent brain MRI at ARIC visit 5 (2011–2013), with 
+images and cf-PWV data deemed to be technically adequate. Out of these study participants, 
+1589 (91%) had complete measurements for the M1A1 segment diameter and ICV. Of 
+the participants with complete MRI data, 1394 (88%) were evaluated by cf-PWV testing. 
+After the exclusion of 80 participants with identified M1A1 segment plaque (6%), a total 
+of 1314 remained. Omitting 39 participants with a history of stroke (3%) yielded a final 
+analytic sample of 1275 individuals, which constituted our study population. The mean 
+participant age at the time of testing was 77 years; 59% were women and 30% were Black. 
+A third (33%) were classified with mild cognitive impairment and 3% were classified with 
+dementia. The median M1A1 diameter was 2.69 mm for women, and 2.89 mm for men. A 
+total of 32 participants (3%) had the largest M1A1 diameter measured from an A1 segment. 
+The overall mean cf-PWV value was 11.7 m/s.
+
+Study participants with an M1A1 diameter above the sex-specific median were slightly 
+older than those with =median diameter (76 vs. 75 years), but medical histories were 
+largely comparable. However, participants with an above-median M1A1 diameter had 
+slightly higher left ventricular stroke volume (54 vs. 52 mL) and prevalence of atrial 
+fibrillation (6% vs. 4%). Despite specifying separate M1A1 median diameters for women 
+and men, participants with an above-median M1A1 diameter also had larger ICV (1410 vs. 
+1357 cm3), suggesting a persistent relationship with body habitus after sex stratification. 
+Participants with an above-median M1A1 diameter also had a greater median volume of 
+WMH (13.0 vs. 9.9 cm3). The mean cf-PWV was 11.7 m/s, both for participants with a = 
+and >median M1A1 diameter, Table 1. A total of 516 (40%) participants had elevated central 
+artery stiffness, as indicated by a cf-PWV >12 m/s. Participants with elevated cf-PWV 
+were older (77 vs. 75 years) and more often Black (35% vs. 27%) but did not differ in 
+sex distributions from participants with cf-PWV =12 m/s. Cardiovascular comorbidities, 
+particularly hypertension (84% vs. 66%) and diabetes mellitus (37% vs. 26%), were more 
+prevalent with elevated cf-PWV. Although ICV was comparable, the extent of WMH 
+
+differed between the groups, with a greater volume among participants with elevated cf-
+PWV compared to those with cf-PWV =12 m/s (9.9 vs. 13.8 cm3), Table 1. Mean M1A1 
+diameters were comparable, irrespective of central artery stiffness classification.
+
+After minimal adjustment for ICV, age, race, and sex, a 0.5 mm increment in M1A1 
+diameter was associated with a 14% greater WMH volume (exponentiated ß = 1.14; 95% 
+CI: 1.07 – 1.22). The model results were not altered by additional adjustment for diabetes 
+mellitus, antihypertensive medication use, or systolic blood pressure (exponentiated ß = 
+1.14; 95% CI: 1.07 – 1.22), or by additional adjustment for left ventricular stroke volume 
+or history or atrial fibrillation (exponentiated ß = 1.14; 95% CI: 1.07 – 1.22). However, 
+the association between M1A1 diameter and WMH volume was amplified in the setting of 
+elevated central artery stiffness, yielding a 24% greater WMH volume per 0.5 mm increment 
+in M1A1 diameter (exponentiated ß = 1.24; 95% CI: 1.12– 1.36). By comparison, a 0.5 
+mm increment in M1A1 diameter was associated with a 10% greater WMH volume in 
+participants with a cf-PWV <12 m/s (exponentiated ß = 1.10; 95% CI: 1.01 – 1.19); P 
+for interaction = 0.04 (Figure 1). The association between M1A1 diameters and WMH 
+volume was not dependent upon cognitive status. After adjustment for demographics and 
+ICV, each 0.5 mm increment in M1A1 diameter was associated with a 12% greater WMH 
+volume among those with normal cognition (exponentiated ß = 1.12; 95% CI: 1.03 – 1.22) 
+and a 19% greater WMH volume among participants with mild cognitive impairment or 
+dementia (exponentiated ß = 1.19; 95% CI: 1.08 – 1.22); P for interaction = 0.6. Additional 
+adjustments for diabetes mellitus, systolic blood pressure, and antihypertensive medication 
+use within 4 weeks yielded similar model results.
+
+Discussion
+
+In this population-based examination of older adults participating in the ARIC study, we 
+observed that larger brain arterial diameters were associated with greater extent of cerebral 
+microvascular damage, as assessed by WMH volume in participants free of intracranial 
+atherosclerosis and history of stroke. The association between brain arterial diameters and 
+WMH volume was independent of anthropometry and appeared to be modified by elevated 
+central artery stiffness.
+
+Non-atherosclerotic outward remodeling of the cerebral vasculature is likely to lower 
+cerebrovascular impedance, with the potential to permit excessive and damaging aortic 
+pulsatile energy into the cerebral microcirculation. Exposure of the microvasculature to 
+high pulsatile pressure has been shown to result in blunted reactivity, possibly due to 
+endothelial dysfunction, rarefaction, and structural damage of the microcirculation.4 An 
+impedance mismatch normally occurs as pressure waves propagate distally from the elastic, 
+low impedance aorta to the relatively higher resistance branching arteries, resulting in a 
+partial reflection of the waves back towards the heart.23 This wave reflection protects 
+the microcirculation from excessive pulsatile energy,3 but the buffering effect is reduced 
+by vasodilation of the proximal arteries.24 Autopsy series suggest that vascular aging is 
+associated with concentric wall thickening and outward arterial remodeling even in the in the 
+absence of atherosclerosis,2,23 which may lower the impedance of the cerebral circulation.
+
+Our analysis shows a relationship between larger arterial diameters and WMH volume, 
+which is amplified in the setting of elevated central artery stiffness. Numerous previous 
+studies have reported positive correlations between central artery stiffness and WMH 
+volume.3,8,25 Pulsatility of the middle cerebral artery, as assessed by transcranial Doppler 
+ultrasound, also correlates strongly with central artery stiffness,26 and a greater degree 
+of middle cerebral artery pulsatility is associated with more extensive WMH volume.27 
+Outward remodeling of the large cerebrovascular arteries may facilitate transmission 
+of aortic pulsatile energy to the cerebral microcirculation, by lowering cerebrovascular 
+impedance. While there is evidence to suggest that larger diameters of the extracranial 
+carotid artery are associated with greater extent of WMH,28,29 a similar association was 
+not observed with normalized anterior and middle cerebral artery diameters in the Northern 
+Manhattan Stoke Study (NOMAS).30 Whether brain arterial diameters in the NOMAS study 
+were quantified in segments free of atherosclerotic lesions is unspecified, however.30 In the 
+present study, M1A1 segment diameters with artery-specific plaque were excluded from the 
+analysis, because diameters were measured across the lumen and presence of atherosclerotic 
+plaque would confound the assessment of outward arterial remodeling.
+
+The deep white matter lacks extensive vascular collateralization and is particularly 
+vulnerable to hypoperfusion. In experimental studies, WMH has been generated by inducing 
+cerebral ischemia, 31,32 and in human autopsy series, a 20% decreased concentration of 
+arterioles and afferent capillaries has been reported in WMH, compared to healthy white 
+matter.33 Post-mortem histopathologic examinations of brain regions with WMH reveal 
+arteriolosclerosis characterized by angiofibrosis, hyalinosis, and reduced elasticity.6 When 
+extensive, the luminal narrowing of hyaline arteriosclerosis may induce microvascular 
+hypoperfusion, endothelial cell apoptosis, and capillary rarefaction, leading to tissue 
+hypoperfusion, axonal injury and demyelination.34 Once thought to be an adaptive response 
+to chronic elevation in mean blood pressure, inward hypertrophic arteriolar remodeling 
+is also sensitive to widening pulse pressure in the absence of change in mean blood 
+pressure.10 Elevated central artery stiffness is accompanied by widening pulse pressure, 
+and may plausibly promote microvascular damage in the cerebral circulation, particularly 
+in the setting of lowered cerebrovascular impedance due to non-atherosclerotic outward 
+remodeling of the large arteries. Though often asymptomatic, WMH is predictive of 
+cognitive impairment, dementia, and stroke.35–38
+
+Our study has some weaknesses that merit discussion. This analysis is cross-sectional, and it 
+is not known whether brain artery outward remodeling and elevated central artery pressure 
+preceded development of WMH. Brain MRI from earlier cohort visits in 1993–1995 and 
+2004–2006 lacks angiography for a historical assessment of arterial diameters, and while 
+aortic compliance is available from echocardiography data acquired in 1993–1995, it is 
+limited to Black study participants and differs from cf-PWV.39 We were unable to consider 
+location of WMH (i.e., periventricular, deep or subcortical white matter), nor did we have 
+quantification of cerebrovascular blood flow. The left and right A1 and M1 segments were 
+summarized by the largest overall diameter, but only 3% of the study population had the 
+largest diameter arising from an A1 segment. Although cerebrovascular events arising from 
+the ACA are rare (0.6% - 3% of acute ischemic strokes),40 A1 segment dilatation relative to 
+the ipsilateral M1 segment (A1/M1 ratio) has been associated with increased risk of ACA 
+
+embolic stroke.41 However, our study population was limited to participants without history 
+of stroke. Our study also has several noteworthy strengths. The ARIC study provides a large 
+sample of older adults from the general population, allowing a unique assessment of brain 
+MRI, which is otherwise limited to patient populations with clinical need for imaging. All 
+clinical and laboratory data were acquired following standardized protocols with quality 
+assurance. Brain MRI was interpreted by board-certified neuroradiologists and imaging 
+features were measured by certified analysts.
+
+In conclusion, in the examination of older individuals from the general population, we 
+observed a greater magnitude of WMH volume in association with larger cerebrovascular 
+artery diameters free of atherosclerosis. The association appears to be modified by elevated 
+central artery stiffness, suggesting an actionable target for intervention. Strategies to reduce 
+central artery stiffness may forestall the association between dilatative arterial remodeling 
+and microvascular damage in the cerebral circulation.

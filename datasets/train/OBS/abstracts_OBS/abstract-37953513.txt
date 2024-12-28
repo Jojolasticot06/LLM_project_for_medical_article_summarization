@@ -1,0 +1,23 @@
+OBJECTIVES: To examine changes in functional capacity, health-related quality of 
+life and psychological distress in patients with post-COVID-19 condition 
+following a multidisciplinary rehabilitation programme. In addition, to explore 
+whether additional respiratory muscle training for more impaired patients might 
+support their recovery process.
+DESIGN: Retrospective observational cohort study.
+PATIENTS: A total of 779 patients with post-COVID-19 condition (47.9% female, 
+mean age 56.6 years).
+METHODS: Measures assessed were: 6-minute walk test (6MWT), 5-level EQ-5D 
+(EQ-5D-5L) including EQ Visual Analogue Scale (EQ-VAS) and Patient Health 
+Questionnaire-4 (PHQ-4). Data were provided pre- and post-rehabilitation from 2 
+cohorts: (i) patients participating in a regular multidisciplinary 
+rehabilitation programme; and (ii) patients receiving additional respiratory 
+muscle training due to an initially greater level of impairment. Dependent 
+t-tests and general linear mixed models were used for data analysis.
+RESULTS: A series of dependent t-tests revealed mean overall improvement for 
+both groups in 6-minute walk test distance (6MWD), EQ-5D-5L index, EQ-VAS and 
+PHQ-4 following the rehabilitation programme. General linear mixed models showed 
+significant interaction effects between groups and time for the EQ-5D-5L index 
+and 6MWD.
+CONCLUSION: A multidisciplinary rehabilitation programme appears to have a 
+beneficial impact on the recovery process of patients with post-COVID-19 
+condition.

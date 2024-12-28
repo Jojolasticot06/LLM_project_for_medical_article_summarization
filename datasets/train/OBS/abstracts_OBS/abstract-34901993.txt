@@ -1,0 +1,41 @@
+OBJECTIVE: To investigate whether the association between SBP and dementia risk 
+is U-shaped and whether age and comorbidity play a role in this association.
+DESIGN, SETTING, AND PARTICIPANTS: This cohort study used an individual 
+participant data approach to analyze 7 prospective, observational, 
+population-based cohort studies that were designed to evaluate incident dementia 
+in older adults. These studies started between 1987 and 2006 in Europe and the 
+US. Participants had no dementia diagnosis and had SBP and/or diastolic blood 
+pressure (BP) data at baseline and incident dementia status during follow-up. 
+Data analysis was conducted from November 7, 2019, to October 3, 2021.
+EXPOSURES: Baseline systolic BP.
+MAIN OUTCOMES AND MEASURES: All-cause dementia (defined using Diagnostic and 
+Statistical Manual of Mental Disorders [Third Edition Revised] or Diagnostic and 
+Statistical Manual of Mental Disorders [Fourth Edition] and established at 
+follow-up measurements or in clinical practice), mortality, and combined 
+dementia and mortality were the outcomes. Covariates included baseline 
+antihypertensive medication use, sex, educational level, body mass index, 
+smoking status, diabetes, stroke history, myocardial infarction history, and 
+polypharmacy. Cox proportional hazards regression models were used, and 
+nonlinear associations were explored using natural splines.
+RESULTS: The study analyzed 7 cohort studies with a total of 17 286 
+participants, among whom 10 393 were women (60.1%) and the mean (SD) baseline 
+age was 74.5 (7.3) years. Overall, dementia risk was lower for individuals with 
+higher SBP, with the lowest risk associated with an SBP of approximately 185 mm 
+Hg (95% CI, 161-230 mm Hg; P = .001). Stratified by overlapping 10-year baseline 
+age groups, the lowest dementia risk was observed at somewhat lower systolic BP 
+levels in those older than 75 years (158 [95% CI, 152-178] mm Hg to 170 [95% CI, 
+160-260] mm Hg). For mortality, there was a clear U-shaped association, with the 
+lowest risk at 160 mm Hg (95% CI, 154-181 mm Hg; P < .001). This U-shape 
+occurred across all age groups, with the lowest dementia risk associated with an 
+SBP of 134 mm Hg (95% CI, 102-149 mm Hg; P = .03) in those aged 60 to 70 years 
+and increasing to between 155 mm Hg (95% CI, 150-166 mm Hg; P < .001) and 166 mm 
+Hg (95% CI, 154-260 mm Hg; P = .02) for age groups between 70 and 95 years. 
+Combined dementia and mortality risk curves closely resembled those for 
+mortality. Associations of diastolic BP with dementia risk were generally 
+similar but were less distinct.
+CONCLUSIONS AND RELEVANCE: This cohort study found that dementia risk was lower 
+for older individuals with higher SBP levels and that more distinctly U-shaped 
+associations appeared for those older than 75 years, but these associations 
+cannot be explained by SBP-associated changes in mortality risk. The findings 
+may warrant future trials on tailored BP management in older age groups that 
+take life expectancy and health context into consideration.

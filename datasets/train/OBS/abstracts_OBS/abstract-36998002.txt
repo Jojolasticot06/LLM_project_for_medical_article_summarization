@@ -1,0 +1,32 @@
+BACKGROUND: Massage therapy is a popular intervention for those suffering 
+osteoarthritis, however, there is a paucity of evidence to support its 
+effectiveness in osteoarthritis. A simple measure that could potentially assess 
+the benefits of massage treatment is walking speed which is a predictor of 
+mobility and survival length, particularly in ageing populations. The primary 
+aim of the study was to assess the feasibility of using a phone app to measure 
+walking ability in people with osteoarthritis.
+METHODS: This feasibility study used a prospective, observational design to 
+collect data from massage practitioners and their clients over a 5-week period. 
+Feasibility outcomes included practitioner and client recruitment and protocol 
+compliance. The app MapMyWalk was used to record average speed for each walk. 
+Pre-study surveys and post-study focus groups were conducted. Clients received 
+massage therapy in a massage clinic and were instructed to walk in their own 
+local community for 10 min every other day. Focus group data were analysed 
+thematically. Qualitative data from clients' pain and mobility diaries were 
+reported descriptively. Average walking speeds were graphed for each participant 
+in relation to massage treatments.
+RESULTS: Fifty-three practitioners expressed interest in the study, 13 completed 
+the training, with 11 successfully recruiting 26 clients, 22 of whom completed 
+the study. 90% of practitioners collected all required data. A strong motivation 
+for participating practitioners was to contribute to evidence for massage 
+therapy. Client compliance with using the app was high, but low for completing 
+pain and mobility diaries. Average speed remained unchanged for 15 (68%) clients 
+and decreased for seven (32%). Maximum speed increased for 11 (50%) clients, 
+decreased for nine (41%) and remained unchanged for two (9%). However, data 
+retrieved from the app were unreliable for walking speed.
+CONCLUSIONS: This study demonstrated that it is feasible to recruit massage 
+practitioners and their clients for a study involving mobile/wearable technology 
+to measure changes in walking speed following massage therapy. The results 
+support the development of a larger randomised clinical trial using 
+purpose-built mobile/wearable technology to measure the medium and long-term 
+effects of massage therapy on people with osteoarthritis.

@@ -1,0 +1,32 @@
+BACKGROUND: Hundreds of thousands of biodigesters have been constructed in 
+Nepal. These household-level systems use human and animal waste to produce 
+clean-burning biogas used for cooking, which can reduce household air pollution 
+from woodburning cookstoves and prevent respiratory illnesses. The biodigesters, 
+typically operated by female caregivers, require the handling of animal waste, 
+which may increase domestic fecal contamination, exposure to diarrheal 
+pathogens, and the risk of enteric infections, especially among young children.
+OBJECTIVE: We estimated the effect of daily reported biogas cookstove use on 
+incident diarrhea among children  < 5 y old in the Kavrepalanchok District of 
+Nepal. Secondarily, we assessed effect measure modification and statistical 
+interaction of individual- and household-level covariates (child sex, child age, 
+birth order, exclusive breastfeeding, proof of vaccination, roof type, 
+sanitation, drinking water treatment, food insecurity) as well as recent 14-d 
+acute lower respiratory infection (ALRI) and season.
+METHODS: We analyzed 300,133 person-days for 539 children in an observational 
+prospective cohort study to estimate the average effect of biogas stove use on 
+incident diarrhea using cross-validated targeted maximum likelihood estimation 
+(CV-TMLE).
+RESULTS: Households reported using biogas cookstoves in the past 3 d for 23% of 
+observed person-days. The adjusted relative risk of diarrhea for children 
+exposed to biogas cookstove use was 1.31 (95% confidence interval (CI): 1.00, 
+1.71) compared to unexposed children. The estimated effect of biogas stove use 
+on diarrhea was stronger among breastfed children (2.09; 95% CI: 1.35, 3.25) 
+than for nonbreastfed children and stronger during the dry season (2.03; 95% CI: 
+1.17, 3.53) than in the wet season. Among children exposed to biogas cookstove 
+use, those with a recent ALRI had the highest mean risk of diarrhea, estimated 
+at 4.53 events (95% CI: 1.03, 8.04) per 1,000 person-days.
+DISCUSSION: This analysis provides new evidence that child diarrhea may be an 
+unintended health risk of biogas cookstove use. Additional studies are needed to 
+identify exposure pathways of fecal pathogen contamination associated with 
+biodigesters to improve the safety of these widely distributed public health 
+interventions.

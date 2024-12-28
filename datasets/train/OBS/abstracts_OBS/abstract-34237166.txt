@@ -1,0 +1,24 @@
+BACKGROUND: Plasma levels of angiopoietin-2 (ANGPT2) and angiopoietin-like 4 
+protein (ANGPTL4) reflect different pathophysiological aspects of cardiovascular 
+disease. We evaluated their association with outcome in a hospitalized Norwegian 
+patient cohort (n = 871) with suspected acute coronary syndrome (ACS) and 
+validated our results in a similar Argentinean cohort (n = 982).
+METHODS: A cox regression model, adjusting for traditional cardiovascular risk 
+factors, was fitted for ANGPT2 and ANGPTL4, respectively, with all-cause 
+mortality and cardiac death within 24 months and all-cause mortality within 60 
+months as the dependent variables.
+RESULTS: At 24 months follow-up, 138 (15.8%) of the Norwegian and 119 (12.1%) of 
+the Argentinian cohort had died, of which 86 and 66 deaths, respectively, were 
+classified as cardiac. At 60 months, a total of 259 (29.7%) and 173 (17.6%) 
+patients, respectively, had died. ANGPT2 was independently associated with 
+all-cause mortality in both cohorts at 24 months [hazard ratio (HR) 1.27 (95% 
+confidence interval (CI), 1.08-1.50) for Norway, and HR 1.57 (95% CI, 1.27-1.95) 
+for Argentina], with similar results at 60 months [HR 1.19 (95% CI, 1.05-1.35) 
+(Norway), and HR 1.56 (95% CI, 1.30-1.88) (Argentina)], and was also 
+significantly associated with cardiac death [HR 1.51 (95% CI, 1.14-2.00)], in 
+the Argentinean population. ANGPTL4 was significantly associated with all-cause 
+mortality in the Argentinean cohort at 24 months [HR 1.39 (95% CI, 1.15-1.68)] 
+and at 60 months [HR 1.43 (95% CI, 1.23-1.67)], enforcing trends in the 
+Norwegian population.
+CONCLUSIONS: ANGPT2 and ANGPTL4 were significantly associated with outcome in 
+similar ACS patient cohorts recruited on two continents.

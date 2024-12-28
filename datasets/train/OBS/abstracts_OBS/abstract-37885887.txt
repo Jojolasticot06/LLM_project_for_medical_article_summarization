@@ -1,0 +1,26 @@
+INTRODUCTION: The role of the kappa-free light chain (kFLC) in the diagnosis of 
+multiple sclerosis (MS) and, to a lesser extent, its role as a medium-term 
+prognostic marker have been extensively studied. This study aimed to explore its 
+potential as a long-term prognostic marker for MS.
+METHODS: We performed an exploratory retrospective observational study by 
+selecting patients systemically followed up in our MS unit with available 
+cerebrospinal fluid and serum samples at the time of initial evaluation. Two 
+groups were defined: benign MS (bMS), defined as patients with Expanded 
+Disability Status Scale (EDSS) ≤ 3 at 10 years of follow-up, and aggressive MS 
+(aMS), defined as patients with EDSS ≥ 6 at 15 years of follow-up. Clinical 
+variables were collected, and the immunoglobulin G (IgG) index, kFLC index, and 
+oligoclonal bands (OCB) were determined for all patients and compared between 
+the groups.
+RESULTS: Twenty bMS and 15 aMS patients were included in this study. Sixty 
+percent (21/35) were female, and the mean age at the time of the first symptom 
+was 31.5 ± 9.45 years, with no statistical differences between groups. Median 
+follow-up time was 19.8 years (Interquartile range, IQR 15.9-24.6). The median 
+EDSS scores at the last follow-up were 1.5 and 7.5 in the bMS and the aMS group, 
+respectively. No statistically significant differences were found in the kFLC 
+index between the two groups (136.6 vs. 140.27, p=0.59). The IgG index was 
+positive in 62.9% of patients (55% bMS vs. 73.3% aMS, p>0.05), and OCB was 
+positive in 88.6% (90% bMS vs. 86.7% aMS, p>0.05). A significant positive 
+correlation was found between IgG and kFLC indices (rs = 0.85, p<0.001).
+CONCLUSION: Given the absence of differences between the two groups with 
+opposite disease courses, it is unlikely that the kFLC index is a reliable and 
+powerful marker of long-term prognosis in MS.

@@ -1,0 +1,14 @@
+Strain engraftment competition andfunctional augmentation in a multi-donor fecal microbiota transplantation trial forobesity 
+
+1/Background: Donor selection is an important factor influencing the engraftment and efficacy of fecal microbiota transplantation (FMT) for complex conditions associated with microbial dysbiosis. However, the degree, variation, and stability of strain engraftment have not yet been assessed in the context of multiple donors. 
+
+2/Methods: We conducted a double-blinded randomized control trial of FMT in 87 adolescents with obesity. 
+Participants were randomized to receive multi-donor FMT (capsules containing the fecal microbiota of four sexmatched lean donors) or placebo (saline capsules). Following a bowel cleanse, participants ingested a total of 28 capsules over two consecutive days. Capsules from individual donors and participant stool samples collected at baseline, 6, 12, and 26 weeks post-treatment were analyzed by shotgun metagenomic sequencing allowing us to track bacterial strain engraftment and its functional implications on recipients’ gut microbiomes. 
+
+3/Results: Multi-donor FMT sustainably altered the structure and the function of the gut microbiome. In what was effectively a microbiome competition experiment, we discovered that two donor microbiomes (one female, one male) dominated strain engraftment and were characterized by high microbial diversity and a high Prevotella to Bacteroides (P/B) ratio. Engrafted strains led to enterotype-level shifts in community composition and provided genes that altered the metabolic potential of the community. Despite our attempts to standardize FMT dose and origin, FMT recipients varied widely in their engraftment of donor strains. 
+
+4/Conclusion: Our study provides evidence for the existence of FMT super-donors whose microbiomes are highly 
+effective at engrafting in the recipient gut. Dominant engrafting male and female donor microbiomes harbored 
+diverse microbial species and genes and were characterized by a high P/B ratio. Yet, the high variability of strain engraftment among FMT recipients suggests the host environment also plays a critical role in mediating FMT 
+receptivity. 
+

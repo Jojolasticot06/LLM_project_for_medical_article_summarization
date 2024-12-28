@@ -1,0 +1,64 @@
+A Randomized Trial of a Practice-Level Intervention for Integrated Primary and Behavioral Health Care
+The Annals of Family Medicine encourages readers to develop
+a learning community to improve health and health care
+through enhanced primary care. With the Annals Journal
+Club, we encourage diverse participants—particularly among
+students, trainees, residents, and interns—to think critically about and discuss important issues affecting primary
+care, and even consider how their discussions might inform
+their practice.
+HOW IT WORKS
+The Annals provides discussion tips and questions related
+to one original research article in each issue. We welcome
+you to post a summary of your conversation to our eLetters
+section, a forum for readers to share their responses to Annals
+articles. Further information and links to previous Annals
+Journal Club features can be found on our website.
+CURRENT SELECTION
+Littenberg B, Clifton J, Crocker AM, et al. A cluster randomized trial of primary care
+practice redesign to integrate behavioral health for those who need it most: patients
+with multiple chronic conditions. Ann Fam Med 2023;21:483-495. 10.1370/afm.3027
+Discussion Tips
+Many Americans with chronic medical conditions also have
+behavioral health conditions, including mental illness and
+substance use disorders. Even the distinction between medical and behavioral health conditions reflects historically
+siloed systems of care. Integrating behavioral health care
+into primary care practices allows health care teams to meet
+the physical and behavioral health needs of patients in 1 setting. The study authors evaluate the effectiveness of a toolkit
+designed to enhance behavioral health integration in primary
+care, in a pragmatic, cluster randomized control trial including 42 primary care practices. Their primary outcomes were
+self-reported physical, mental, and social function and wellbeing among patients with chronic conditions.
+Discussion Questions
+• What question is asked by this study and why
+does it matter?
+• How does this study advance beyond previous research
+and clinical practice on this topic?
+• What is a cluster randomized controlled trial (RCT)? Why
+do we see these often in the primary care literature?
+• What is a pragmatic trial? How strong is the study design
+for answering the question?
+• Based on the inclusion criteria and patient characteristics,
+how comparable is the study sample to similar patients in
+your practice or region? What is your judgment about the
+transportability of the findings?
+• What is the Patient-Reported Outcomes Measurement
+Information System (PROMIS-29)?
+∘ How would you determine the validity of this and other
+instruments whose scores were used as outcome measures?
+• What are the main study findings?
+• To what degree can the findings be accounted for by:
+1. Meaningful differences, if any, between intervention
+and control practices or patients (see Tables 1 and 2)
+2. The duration of the intervention
+3. The COVID-19 pandemic
+4. The inclusion criteria for patients and practices
+in the study
+5. The recruitment process for participating practices
+and patients
+• What is a Bonferroni correction? Why are these used in
+statistical analyses? Did these adjustments impact the outcomes of the study?
+• How do you interpret exploratory analyses?
+• How might this study change your practice? Policy? Education? Research?
+• Who are the constituencies for the findings, and how
+might they be engaged in interpreting or using the findings?
+• What are the next steps in interpreting or applying
+the findings?

@@ -1,0 +1,371 @@
+Introduction
+Air pollution is a significant environmental and public health concern. Despite notable improvements in ambient air quality in the United States following the establishment of air quality standards, a range of evidence-based policy interventions, and improved monitoring and research,1 air pollution levels and their associations with health and well-being risks continue to be unevenly distributed across the population. In particular, Black and Latinx Americans, as well as low-income populations, tend to be overrepresented in neighborhoods characterized by high concentrations of air pollution from industry, roadways, and other sources.2–7 This uneven environmental stress is linked in turn to considerable and disproportionate health burdens for vulnerable sociodemographic groups,8–10 with numerous studies finding that prolonged exposure to elevated levels of air pollution is associated with multiple adverse physical and psychological health outcomes in the short and longer term.11–14
+For example, respiratory disorders—including pulmonary tuberculosis, chronic obstructive pulmonary disease, bronchitis, and asthma—are associated with air pollution exposure in the literature, as are certain cancers, reproductive and neurological disorders, and conditions such as diabetes and obesity; many of these are attributed to oxidative stress and heightened inflammatory responses.15–17 There is also mounting evidence of an association between air pollution exposure and increased mental health stress, psychiatric disorders, and cognitive decline.18,19 Air pollution exposure is thus increasingly recognized as a key contributor to the global burden of morbidity, including reduced quality of life and altered health perceptions and well-being,20,21 and has a potentially significant role in premature mortality.8,22,23
+The health impacts of medium- and longer-term exposure to air pollution may be modified by multiple social, cognitive, and environmental factors21 and particularly by other interrelated stressors linked to concentrated socioeconomic disadvantage in neighborhood contexts. Owing to historical and present-day structural inequities, including systemic racism and other forms of oppression, low-income and minoritized populations in the United States tend to be overrepresented in neighborhoods characterized by economic disinvestment and social disruption.24,25 As with poor air quality, these sociostructural differences in neighborhood conditions have well-documented associations with socioeconomic and racial–ethnic inequities in myriad physical and mental health outcomes.2,3,9 However, despite parallel bodies of research documenting that air pollution and neighborhood socioeconomic disadvantage independently and adversely impact health and well-being, the joint effect of these two factors remains less clear. In particular, much remains to be learned about the extent to which air pollution and neighborhood disadvantage are jointly related to subjective perceptions of individual health status, which may be more strongly linked, in both place and time, with conceptions of proximal health risks and social constraints than are more “objective” and often more distal health indicators, such as disease diagnoses.26
+In this study, we therefore focused specifically on self-rated health (SRH). SRH is a commonly used measure of general health status and has been shown to have high predictive validity for mortality, controlling for other medical, behavioral, and psychosocial risk factors, and to reliably predict future morbidity, health care utilization, and hospitalization.26–30 It is reflective of physical health26 but also, and perhaps more importantly, of subjective perceptions of physical and psychological well-being. This is resonant with the World Health Organization’s holistic definition of health, which encompasses physical, mental, and social wellness that influence activity patterns, work, social interactions, and community engagement.31 Although other indicators of health status, such as functional decline or chronic disease diagnoses, are often more relevant at older ages, SRH can capture broad differences in health status across populations throughout the life course; that is, individuals of all ages tend to perceive their general health status not only in terms of the presence or absence of illness but also in terms of their assessed abilities to perform desired functions, general feelings of well-being, and the presence or absence of life, family, and work stressors.26,32
+Frameworks for Understanding the Social–Environmental–Health Nexus
+This study considered the nexus of air pollution exposure, neighborhood socioeconomic disadvantage, and SRH, and was informed by two overarching paradigms. The first stems from a combination of the stress–exposure–disease perspective9,33 and the cumulative disadvantage framework, which together suggest that members of certain sociodemographic groups, particularly people with low incomes and minoritized people of color, face multiple deleterious micro-level and structural circumstances, such as fewer economic resources or lack of affordable health care options, that make them more vulnerable to the adverse physiological and psychosocial effects of air pollution exposure. In particular, the cumulative disadvantage framework emphasizes an adverse interactive effect whereby the effect of air pollution on health will be particularly strong for individuals experiencing high levels of neighborhood disadvantage. This dynamic of exacerbation is especially likely to occur through biophysiological mechanisms. For example, the lack of access to economic resources, green spaces, affordable health care, and healthy food options, as well as social stressors in disinvested neighborhoods, can affect inflammation and jeopardize immune function and, in turn, exacerbate the poor health effects of air pollution.3,34
+The second paradigm suggests that the effects of air pollution on perceived health status may be weaker, or at least less salient, in highly disadvantaged neighborhoods. In such neighborhoods, there may be a multitude of social and structural factors, including elevated levels of community violence, structural decay, lack of access to medical care, and food and housing insecurity, that may be perceived as more immediate threats to health. In this context, elevated levels of air pollution may be perceived as having relatively little additional impact on subjective health status. Air pollution in a comparably advantaged neighborhood, on the other hand, may stand out as a proportionally greater threat to one’s self-reported health status given that residents are more structurally “protected” from other salient place-based health risks. This paradigm follows from some past studies on natural hazards that have found evidence of a “risk perception paradox,” whereby individuals understand and are aware of the risks of natural hazards, such as floods, droughts, and earthquakes, but do not take appropriate preparedness measures.35 This “paradox” may be due to the presence of relatively more acute concerns or life conditions, such as economic distress that are (perceived to be) more mentally noteworthy than the risk of a ubiquitous, often imperceptible natural hazard such as air pollution.35
+Through this study, we aim to expand the literature on the ways in which exposure to contextual social stressors, such as neighborhood disadvantage, intersects with air pollution exposure and self-reported health status using a large, multilevel, longitudinal sample of U.S. households. Our overarching objective is to illuminate the nexus of multiple forms of structural violence in residential contexts to help inform local practice and policy efforts aimed at promoting the intersectionality of environmental and social justice and health equity, particularly in structurally marginalized communities.
+Data and Methods
+Data Source
+This observational study used individual-level data from the 1999 to 2015 waves of the Panel Study of Income Dynamics (PSID).36 The PSID is a longitudinal, replenishing survey of U.S. households that began in 1968 as a national probability sample of 
+ individuals in 
+ families. By 2015, because the descendants of the original PSID families continued to be interviewed as they age and formed their own independent households, the sample had grown to include information on the demographic characteristics, socioeconomic position, and health of 
+ individuals in nearly 9,100 households. For the present analysis, we focused on 7,056 PSID household heads who were interviewed five to nine times (
+) between 1999 and 2015–years that correspond with our data on air pollution exposure and neighborhood disadvantage—and for whom we have complete information on focal independent predictors, our outcome measure, and all covariates. We organized our data into a series of person–period observations, with each observation referring to the 2-y period between PSID interviews. In total, respondents contributed 20,114 person–period observations.
+Dependent Variable
+SRH has been assessed in the PSID at each wave of data collection since 1984 using a five-item question that asks the respondent, “Would you say your health in general is excellent, very good, good, fair, or poor?” We maintained the variable in its continuous form for our main analyses, although responses were reverse coded so that higher scores represented better health (
+, 
+, 
+, 
+, and 
+). “Don’t know” responses were treated as missing. In a supplementary analysis, we also tested the robustness of our results using a dichotomized variable for SRH in which “excellent,” “very good,” and “good” were coded 1 and “fair” and “poor” were coded 0, consistent with past research.28,37
+Independent Variables
+To measure air pollution exposure, we used the PSID’s supplemental Geospatial Match File to attach information on annual-average concentrations of two criteria air pollutants: a) fine particulate matter, a mixture of solid particles and liquid droplets that are μ
+ in aerodynamic diameter (
+), and b) nitrogen dioxide, one of a group of highly reactive gasses produced primarily by the combustion of fossil fuels (
+). 
+ and 
+ concentrations were derived from the U.S. Environmental Protection Agency’s Air Quality System (AQS) for years 1990 to 2015. The AQS collects ambient air pollution measurements from a network of monitoring stations nationwide. Given that these monitoring stations are unevenly distributed across the United States and vary across time, a combination of land-use regression (LUR) and universal kriging methods was used to spatially interpolate reliable estimates at the census block–level—the smallest unit of geography available for respondents in the PSID Geocode Match File—to most closely approximate individual-level exposure in the absence of address-based residential data. We excluded the small number of cases for which valid block codes were not available in the PSID data.
+These methods have been described in detail by others.38,39 Briefly, the LUR was based on more than 265 geographic covariates, including local population density, total emissions of criteria air pollutants, land use, the normalized difference vegetation index, measures of impervious surfaces, distance to and length of major roadways, and distance to commercial zones, airports, railroads, and other pollution sources. These variables were measured using buffer sizes of various radii ranging from 
+ to 
+. Given the large number of multicollinear variables, partial least squares techniques were used to select only a subset of relevant covariates. Prediction models using universal kriging for spatial smoothing were run separately in each region for each year to estimate local concentrations of 
+ and 
+. Previously published validation research suggests that this type of LUR estimation provides reliable estimates of local concentrations of 
+ and 
+, especially in the types of urban locations that dominated our sample.40
+For our primary analysis, we created a measure of prolonged exposure to air pollution by taking the average predicted concentration of 
+, in micrograms per cubic meter, over the 10-y period prior to the observation year for SRH. Because observations refer to a 2-y period between interviews, this means that for a given person–period observation, we averaged the prior five observations and the observation at time t to calculate the 10-y period, inclusive. For a supplementary analysis, we also created an analogous 10-y average measure of prolonged exposure to 
+ in parts per billion.
+We also investigated the extent to which the pollution–health relationship is moderated by indicators of neighborhood disadvantage, such as poverty, joblessness, family instability, and residential turnover, that may directly influence psychological stress and access to institutional resources. These neighborhood characteristics also serve as reasonable proxies for many other contextual determinants of health given well-documented associations between neighborhood socioeconomic characteristics and neighborhood walkability, food access, crime, and other health-related conditions.41–43 We used a multi-item index to capture multiple dimensions of potentially harmful socioeconomic conditions in the neighborhoods occupied by household heads at each interview. We used census tract–level data to capture these neighborhood conditions to align with efforts in past research to capture access to resources and social relationships that may affect health.44,45 This index was constructed using the following census tract–level variables: a) proportion of residents with incomes below the poverty line, b) proportion of residents (
+ years of age) in the civilian labor force and unemployed, c) proportion of households receiving public assistance, d) proportion of female-headed households with children, e) proportion of residents (
+ years of age) with less than a high school diploma, f) proportion of residents (
+ years of age) with a bachelors/graduate/professional degree, and g) proportion of residents (
+ years of age) employed in managerial/professional/technical occupations. Information on census tracts came from the Neighborhood Change Database, developed by Geolytics, in which decennial census data have been normalized to 2010 tract boundaries and can therefore be compared across years without having to adjust for potential changes in boundary definitions over time. Data for intercensal years were imputed using linear interpolation.
+Similar to previous studies,46–48 principal component analysis (PCA) was used to transform the seven census tract–level variables into a composite index of neighborhood socioeconomic disadvantage reflected by the first principal component. Specifically, PCA is a statistical technique that extracts multiple underlying dimensions based on the variation produced by a correlated set of (socioeconomic) variables. The resultant output is a list of principal components that are independent orthogonal linear combinations of the variables that are listed in decreasing order of proportion of explained variance.49 For this analysis, we used only the first principal component to represent the socioeconomic dimension of neighborhoods. Therefore, only the variable loadings pertaining to this first principal component were used to weight each variable’s unique contribution to a composite neighborhood disadvantage score, which was calculated for every census tract at each interview. Paralleling our treatment of neighborhood air pollution detailed above, we created a measure of prolonged exposure by taking the average neighborhood disadvantage score experienced by individuals over the 10-y period prior to the year in which SRH was observed.
+Covariates
+The PSID provides information on a rich set of self-reported individual-level sociodemographic variables, measures of individual and family sources of stress, and other relevant covariates for household heads at each interview. The covariates were selected because they have been shown in past research to influence health and residential location in general, as well as SRH and exposure to air pollution and neighborhood disadvantage in particular. For this analysis, all covariates were measured concurrently with the observation year for SRH. Age was measured in years. Sex (
+, 
+), marital status (
+ or cohabiting, 
+ or cohabiting), and parental status (
+, 
+) were captured by dummy variables. Household size was measured by the total number of people in the household. Ethnic origin and race were cross-categorized into five ethnoracial groups: non-Hispanic Asian (Asian), non-Hispanic Black (Black), non-Hispanic White (White), Latinx (of any race), and all other non-Hispanic racial groups (other, which included American Indian, Alaska Native, and Native Hawaiian or other Pacific Islander). Following multiple air pollution-focused studies that indicated the confounding effects of smoking on health outcomes,50 we included the total number of cigarettes smoked by household heads per day. To capture the influence of socioeconomic status, we also included the household head’s completed years of schooling; employment status (
+, 
+); family income, which included all sources of past-year taxable income for adult members of the household and was measured in USD $1,000s based on constant-year 2000 USD, using the Consumer Price Index to adjust for inflation/deflation; and household wealth, constructed by the PSID based on the sum of values of seven asset types, including the value of one’s primary home/farm/business assets, checking or saving accounts, vehicles, second homes, stocks, and bonds, minus any debt (in USD $1,000s based on constant-year 2000 USD). Also included were whether the respondent moved since January 1 of the prior year (
+, 
+) and the SRH observation year.
+We also included measures of three individual and family sources of stress that may be linked to SRH: employment instability, family instability, and financial insecurity. We measured employment instability as the number of changes in employment status over the 10-y period preceding the SRH observation year. This was calculated by first determining whether the respondent had a change in their employment status between two PSID interviews, coded 1 if there was a change and 0 if there was no change. To create the employment instability measure, we counted the number of times there was a change over the 10-y period prior to the SRH observation year. Family instability was measured as the number of major family changes (i.e., change in marital status and additions to or exits from the household) over the 10-y period leading up to the SRH observation year. We first identified whether or not the respondent had a change in their marital status (i.e., changed from married/cohabiting to not married/cohabiting) and whether or not there was a change in household size between two PSID interviews. If there was a change in either of these events, it was coded 1, otherwise it was coded 0. To create the measure of family instability, we counted the number of times there was a change in either of the two events over the 10-y period preceding the SRH observation year. Financial insecurity was measured as the number of times over the preceding 10 y in which household income fell below the federal poverty line. For this measure, we first determined in a given PSID interview whether household income fell below this threshold, coded 1 if yes and 0 otherwise. We then counted the total number of times this occurred over the 10-y period prior to the SRH observation year.
+Statistical Analysis
+In our primary analysis, we estimated ordinary least squares (OLS) linear regression models to first examine the bivariate relationship of SRH with 
+ and neighborhood disadvantage in model 1. Then, in model 2, we added an interaction term between 
+ and neighborhood disadvantage to examine the moderating effect of neighborhood disadvantage on the pollution–health relationship. Finally, in model 3, we added the sociodemographic-, socioeconomic-, and stress-related covariates to model 2. Model 3 was thus a fully adjusted model that allowed us to effectively assess the interaction between pollution and neighborhood disadvantage, controlling for all the covariates. All models used robust standard errors to account for the nonindependence of observations for a given individual. We report the Akaike information criterion to assess the goodness of fit of the models. An analogous supplementary analysis focused on 
+ rather than 
+ was also conducted.
+To aid interpretation of the moderating effect of neighborhood disadvantage, we used model 3, the fully adjusted model controlling for all covariates, to calculate adjusted averages of SRH from the minimum to the maximum 
+ levels at μ
+ intervals and the neighborhood disadvantage index at the 10th, 25th, 50th, 75th, and 90th percentiles. All the covariates were kept at their mean values. These adjusted averages are presented as a graph of predicted SRH to more clearly illustrate how different levels of neighborhood disadvantage moderate the relationship between air pollution and SRH.
+The PSID follows requisite procedures to obtain informed consent from respondents. This study was reviewed by the institutional review board at the University of Washington and deemed minimal risk (IRB no. STUDY00011666). All analyses were conducted in Stata (version 17.0; StataCorp).
+Results
+Descriptive statistics, overall and by categories of race–ethnicity, for our dependent and independent variables, along with covariates, including key sociodemographic characteristics and measures of stressful circumstances, are summarized in Table 1. Among all respondents, the 
+ SRH rating was (
+, range: 1–5). Asian and White respondents rated their health as better, on average, than their Black, Latinx, and other race/ethnicity counterparts, which is consistent with previous research showing ethnoracial differences in SRH.46,51,52
+Table 1 Descriptive statistics of self-rated health (SRH), air pollutant exposure and demographic characteristics of the study population drawn from the Panel Study of Income Dynamics (PSID), 1999–2015, stratified by race or ethnicity.
+ 	Total	NH White	NH Black	NH Asian	NH other	Latinx
+SRH (
+; 
+; 
+; 
+; 
+) [overall mean score (SD)]	3.41 (1.05)	3.51 (1.03)	3.29 (1.06)	3.48 (1.05)	3.13 (1.21)	3.20 (1.06)
+ Percentile
+  10th	2	2	2	2	1	2
+  25th	3	3	3	3	2	2
+  50th	3	4	3	4	3	3
+  75th	4	4	4	4	4	4
+  90th	5	5	5	5	5	5
+SRH (percentage selected)
+ Excellent, very good, or good [% (
+)]	81 (16,327)	85 (9,384)	77 (5,764)	84 (174)	70 (95)	73 (910)
+ Fair or poor [% (
+)]	19 (3,787)	15 (1,702)	23 (1,678)	16 (32)	30 (41)	27 (334)
+ (10-y average; μ
+) [mean (SD)]	10.88 (2.23)	10.26 (2.17)	11.62 (1.84)	11.82 (2.23)	11.02 (2.69)	11.84 (2.98)
+ Percentile
+  10th	8.03	7.44	9.38	8.88	7.89	7.54
+  25th	9.53	8.96	10.36	10.40	9.26	9.86
+  50th	10.91	10.32	11.53	11.59	10.79	12.13
+  75th	12.31	11.66	12.77	13.07	12.79	13.78
+  90th	13.65	12.93	14.04	14.73	14.28	15.56
+Neighborhood disadvantage index (10-y average) [mean (SD)]	0.22 (1.86)	
+ (1.39)	1.40 (1.66)	
+ (2.11)	
+ (1.88)	1.57 (1.77)
+ Percentile
+  10th	
+  25th	
+0.28	
+0.33
+  50th	0.12	
+1.39	
+0.07	1.81
+  75th	1.41	0.25	2.50	
+0.94	2.87
+  90th	2.72	0.95	3.56	2.39	2.41	3.71
+Age of respondent (y) [mean (SD)]	49.04 (16.05)	51.65 (16.30)	45.40 (15.11)	54.18 (13.05)	53.42 (16.16)	46.25 (14.86)
+Female [% (
+)]	35 (6,976)	24 (2,612)	53 (3,965)	13 (26)	24 (33)	27 (340)
+Male [% (
+)]	65 (13,138)	76 (8,474)	47 (3,477)	87 (180)	76 (103)	73 (904)
+Completed education (y) [mean (SD)]	13.42 (3.02)	14.08 (2.90)	12.84 (2.39)	15.37 (3.64)	13.13 (3.56)	10.66 (4.56)
+Cigarettes smoked per day (
+) [mean (SD)]	2.42 (6.31)	2.91 (7.37)	2.01 (4.84)	0.73 (2.77)	1.91 (4.78)	0.82 (3.18)
+People in family (
+) [mean (SD)]	2.54 (1.45)	2.46 (1.34)	2.50 (1.47)	2.95 (1.67)	2.58 (1.27)	3.42 (1.84)
+Married
+ Yes [% (
+)]	51 (10,166)	63 (6,954)	29 (2,194)	70 (145)	62 (84)	63 (789)
+ No [% (
+)]	49 (9,948)	37 (4,132)	71 (5,248)	30 (61)	38 (52)	37 (455)
+Parent
+ Yes [% (
+)]	38 (7,600)	33 (3,612)	43 (3,176)	41 (84)	32 (43)	55 (685)
+ No [% (
+)]	62 (12,514)	67 (7,474)	57 (4,266)	59 (122)	68 (93)	45 (559)
+Moved since 1 January of prior year
+ Yes [% (
+)]	28 (5,709)	23 (2,549)	37 (2,721)	18 (37)	23 (31)	30 (371)
+ No [% (
+)]	72 (14,405)	77 (8,537)	63 (4,721)	82 (169)	77 (105)	70 (873)
+Family income previous year (USD 
+) [mean (SD)]	56.20 (79.40)	71.55 (98.86)	34.79 (34.41)	86.01 (64.84)	53.61 (46.53)	42.83 (40.78)
+Wealth (USD 
+) [mean (SD)]	217.94 (1,159.51)	349.64 (1,538.06)	43.44 (161.17)	377.30 (661.95)	190.97 (430.28)	64.74 (213.51)
+Employed
+ Yes [% (
+)]	66 (13,209)	67 (7,477)	62 (4,577)	70 (145)	58 (79)	75 (931)
+ No [% (
+)]	34 (6,905)	33 (3,609)	38 (2,865)	30 (61)	42 (57)	25 (313)
+Year of observation of SRH [mean (SD)]	2,012 (2.22)	2,012 (2.22)	2,012 (2.21)	2,012 (2.20)	2,011 (2.17)	2,012 (2.23)
+Employment instability (
+) [mean (SD)]	1.02 (1.27)	0.76 (1.10)	1.42 (1.41)	0.80 (1.16)	0.95 (1.18)	1.01 (1.27)
+Family instability (
+) [mean (SD)]	1.53 (1.28)	1.33 (1.25)	1.79 (1.28)	1.55 (1.35)	1.44 (1.25)	1.83 (1.27)
+Financial instability (
+) [mean (SD)]	0.65 (1.29)	0.27 (0.81)	1.20 (1.63)	0.28 (0.74)	0.74 (1.26)	0.86 (1.37)
+Person–period observations (
+)	20,114	11,086	7,442	206	136	1,244
+Unique individuals (
+)	7,056	3,807	2,670	71	44	464
+Note: All variables were collected at time of SRH and were from the Panel Study of Income Dynamics data (PSID), except for 
+ and neighborhood disadvantage index. 
+ measures were derived from the U.S. Environmental Protection Agency’s Air Quality System and were attached using the PSID’s supplemental Geospatial Match File at the census block level. The neighborhood disadvantage index was constructed using data from the Neighborhood Change Database and is based on the following census tract–level items: a) proportion of residents with incomes below the poverty line, b) proportion of residents (
+ years of age) in the civilian labor force and unemployed, c) proportion of households receiving public assistance, d) proportion of female-headed households with children, e) proportion of residents (
+ years of age) with less than a high school diploma, f) proportion of residents (
+ years of age) with a bachelors/graduate/professional degree, and g) proportion of residents (
+ years of age) employed in managerial/professional/technical occupations. Employment instability is measured as the number of changes in employment status over the 10-y period preceding the SRH observation year. Family instability is measured as the number of major family changes (change in marital status, additions to the household, and exit of a member of the household) over the 10-y period leading up to the SRH observation year. Financial instability is measured as the number of times over the preceding 10 y in which the income of the respondent’s family fell below the federal poverty line. NH, non-Hispanic; 
+, particulate matter μ
+ in aerodynamic diameter; SD, standard deviation.
+OPEN IN VIEWER
+Overall, respondents resided in neighborhoods in which the concentration of 
+ over 10 y was, on average, μ
+. Levels of 
+ exposure were lower among White respondents than all other ethnoracial groups, consistent with research showing minoritized racial/ethnic groups are disproportionately exposed to air pollution relative to Whites.6
+The mean cumulative neighborhood disadvantage score among all respondents over 10 y was 0.22, with Black and Latinx respondents at 1.40 and 1.57 respectively, reflecting disproportionate residence in more socioeconomically disadvantaged neighborhoods. In addition, Black and Latinx respondents were more likely to be exposed to other life stressors than White peers. Specifically, these groups had fewer years of completed education (12.84 y for Black and 10.66 y for Latinx respondents, respectively, compared with 13.13 y, 14.08 y, and 15.37 y for other race/ethnicity, White, and Asian respondents, respectively), as well as lower incomes (Black, USD 
+; Latinx, USD 
+) and wealth (Black, USD 
+; Latinx, USD 
+) compared with other ethnoracial groups [income (other race/ethnicity, USD 
+; White, USD 
+; Asian USD 
+) and wealth (other race/ethnicity, USD 
+; White, USD 
+; Asian, USD 
+)]. Black and Latinx respondents were also more likely to report residential mobility, employment instability, family instability, and financial insecurity than other ethnoracial groups.
+Our regression analyses documented statistically significant associations of 10-y average 
+ exposure and neighborhood disadvantage with SRH, before and after adjustment for relevant covariates (Table 2). Model 1 showed that SRH was rated more negatively among respondents who resided in neighborhoods characterized by higher concentrations of 
+ (β
+; 95% CI: 
+, 
+) and higher levels of socioeconomic disadvantage (β
+; 95% CI: 
+, 
+). Coefficient estimates are expressed throughout as change in respondents’ SRH rating per a μ
+ change in the 10-y average 
+ level and a 1-unit change in the cumulative neighborhood disadvantage index.
+Table 2 Results from ordinary least squares regressions predicting self-rated health (SRH; continuous) as a function of 
+, neighborhood disadvantage index, and other demographic covariates, in 7,056 participants of the Panel Study of Income Dynamics (PSID), 1999–2015.
+ 	Model 1	Model 2	Model 3
+β
+SE, 
+-Value (95% CI)	β
+SE, 
+-Value (95% CI)	β
+SE, 
+-Value (95% CI)
+ (10-y average; μ
+)	
+0.005, 0.001 (
+, 
+)	
+0.005, 0.000 (
+, 
+)	
+0.005, 0.000 (
+, 
+)
+Neighborhood disadvantage index (10-y average)	
+0.006, 0.000 (
+, 
+)	
+0.029, 0.000 (
+, 
+)	
+0.028, 0.000 (
+, 
+)
+ (10-y average; μ
+) 
+ Neighborhood disadvantage index (10-y average)	—	—	0.009	0.003, 0.001 (0.004, 0.014)	0.007	0.002, 0.006 (0.002, 0.011)
+NH Black	—	—	—	—	
+0.028, 0.452 (
+, 0.033)
+NH Asian	—	—	—	—	
+0.095, 0.349 (
+, 0.097)
+NH other	—	—	—	—	
+0.137, 0.118 (
+, 0.054)
+Latinx	—	—	—	—	
+0.046, 0.002 (
+, 
+)
+Age of respondent (y)	—	—	—	—	
+0.001, 0.000 (
+, 
+)
+Female	—	—	—	—	
+0.032, 0.015 (
+, 
+)
+Completed education (y)	—	—	—	—	0.043	0.004, 0.000 (0.035, 0.050)
+Cigarettes smoked per day (
+)	—	—	—	—	
+0.002, 0.000 (
+, 
+)
+People in family (
+)	—	—	—	—	
+0.01, 0.318 (
+, 0.010)
+Whether married	—	—	—	—	0.049	0.034, 0.147 (
+, 0.116)
+Whether parent	—	—	—	—	0.074	0.028, 0.009 (0.019, 0.130)
+Whether moved since 1 January of prior year	—	—	—	—	
+0.02, 0.145 (
+, 0.010)
+Family income previous year (USD 
+)	—	—	—	—	0.001	0, 0.003 (0.000, 0.001)
+Wealth (USD 
+)	—	—	—	—	0	0, 0.039 (0.000, 0.000)
+Whether employed	—	—	—	—	0.308	0.024, 0.000 (0.261, 0.354)
+Year of observation of SRH	—	—	—	—	
+0.003, 0.000 (
+, 
+)
+Employment instability (
+)	—	—	—	—	
+0.009, 0.030 (
+, 
+)
+Family instability (
+)	—	—	—	—	
+0.008, 0.071 (
+, 0.001)
+Financial instability (
+)	—	—	—	—	
+0.01, 0.001 (
+, 
+)
+Constant	3.602	0.054, 0.000 (3.495, 3.708)	3.612	0.054, 0.000 (3.507, 3.718)	31.673	6.482, 0.000 (18.966, 44.381)
+AIC	58,415.3	—	58,395	—	55,348.3	—
+Person–period observations (
+)	20,114	—	20,114	—	20,114	—
+Note: Model 1 is a bivariate relationship of SRH with 
+ and neighborhood disadvantage. Model 2 adds an interaction term between 
+ and neighborhood disadvantage to model 1. Model 3 is a fully adjusted model for 
+, neighborhood disadvantage, and the interaction between the two, controlling for all the individual-, family-, and household-level covariates. All models use robust standard errors to account for the nonindependence of yearly observations for a given individual. The neighborhood disadvantage index was constructed using data from the Neighborhood Change Database and is based on the following census tract–level items: a) proportion of residents with incomes below the poverty line, b) proportion of residents (
+ years of age) in the civilian labor force and unemployed, c) proportion of households receiving public assistance, d) proportion of female-headed households with children, e) proportion of residents (
+ years of age) with less than a high school diploma, f) proportion of residents (
+ years of age) with a bachelors/graduate/professional degree, and g) proportion of residents (
+ years of age) employed in managerial/professional/technical occupations. Employment instability is measured as the number of changes in employment status over the 10-y period preceding the SRH observation year. Family instability is measured as the number of major family changes (change in marital status, additions to the household, and exit of a member of the household) over the 10-y period leading up to the SRH observation year. Financial instability is measured as the number of times over the preceding 10 y in which the income of the respondent’s family fell below the federal poverty line. —, Not applicable; AIC, Akaike information criterion; CI, confidence interval; NH, non-Hispanic; 
+, particulate matter μ
+ in aerodynamic diameter; SE, standard error.
+OPEN IN VIEWER
+Model 2 added a term representing the interaction between 
+ and neighborhood disadvantage to examine the joint effects of pollution and neighborhood disadvantage on SRH. The coefficient for the interaction term itself was positive and statistically significant (β
+; 95% CI: 0.004, 0.014), indicating that the deleterious impact of 
+ on SRH was weaker in the context of greater neighborhood disadvantage. The statistically significant individual and interdependent relationships between neighborhood air pollution and neighborhood disadvantage remained after adjusting for sociodemographic and socioeconomic covariates and stressful life circumstances (model 3), although the magnitude of the 
+ coefficient increased, whereas those for neighborhood disadvantage and the pollution–disadvantage interaction term decreased slightly.
+To aid interpretation of the moderating effect of neighborhood disadvantage on the relationship between air pollution and SRH from model 3, Figure 1 displays the mean predicted value of SRH, at values between the minimum and maximum values of 
+ at μ
+ intervals, with neighborhood disadvantage set to the 10th, 25th, 50th, 75th, and 90th percentiles of the distribution. All other covariates were kept at their means. As shown in Figure 1, the relationship between 
+ and SRH was negative for all percentiles of neighborhood disadvantage. However, this negative relationship was stronger (i.e., more negative) in relatively more advantaged neighborhoods, whereas the relationship between 
+ and SRH was markedly more modest in the most disadvantaged neighborhoods. For example, at the 10th percentile of the neighborhood disadvantage measure, which indicates a relatively more advantaged neighborhood, SRH declined from 3.79 to 3.19 as 
+ increased from μ
+ to μ
+. In comparison, when neighborhood disadvantage was at the 90th percentile (indicating relatively more disadvantaged places), SRH remained steady around 3.32 regardless of the 
+ level. The data used to create Figure 1 is presented in Table S1.
+
+Figure 1. Predicted self-rated health (SRH) by the 10-y average exposure to 
+ (in μ
+) and the 10-y average exposure of neighborhood disadvantage with 95% CIs, Panel Study of Income Dynamics (person–period 
+), 1999–2015. Calculated using the fully adjusted ordinary least squares regression model controlling for all covariates. Predicted values of SRH calculated from the minimum to the maximum 
+ levels at μ
+ intervals and the neighborhood disadvantage index at the 10th (
+), 25th (
+), 50th (0.124), 75th (1.41), and 90th (2.72) percentiles, with all other covariates kept at their means. Colored circles indicate the predicted values; error bars represent the 95% CI. Data for this figure can be found in Table S1. Note: CI, confidence interval; 
+, particulate matter μ
+ in aerodynamic diameter.
+OPEN IN VIEWER
+Supplementary Analysis
+The first supplementary analysis used binomial logistic regression with a binary measure of SRH (
+, very good, or good health; 
+ or poor health) to assess the robustness of our results. Similar to the primary results with SRH as a continuous measure, the results with SRH as a binary outcome variable showed that SRH had a significant negative association with 
+ [
+; 95% CI: 0.932, 0.985] and a significant negative association with neighborhood disadvantage (
+; 95% CI: 0.634, 0.877), after controlling for covariates. As in the primary results, the interaction term between 
+ and neighborhood disadvantage was positive and statistically significant after the inclusion of covariates (
+; 95% CI: 1.006, 1.033). Overall, this supplementary analysis with SRH as a binary outcome variable was substantively and significantly similar to our primary results and thus supports the findings of this paper. The binomial logistic regression results are presented in Table S2.
+The second supplementary analysis used OLS regression with 10-y average 
+ exposure as the focal air pollutant measure. The results for 
+ indicated that, after controlling for covariates, prolonged 
+ exposure was not significantly associated with SRH. However, similar to the primary results, SRH was rated more negatively among household heads with longer-term residence in, on average, more socioeconomically disadvantaged neighborhoods after the inclusion of covariates (β
+; 95% CI: 
+, 
+). The interaction term between 
+ and neighborhood disadvantage also revealed a positive and statistically significant relationship with SRH after the inclusion of covariates (β
+; 95% CI: 0.001, 0.006), indicating a weaker effect of pollution at higher levels of neighborhood disadvantage. The OLS results for 
+ are presented in Table S3.
+Discussion and Conclusion
+An extensive body of research has documented the deleterious health impacts of air pollution and neighborhood socioeconomic disadvantage, yet we know less about their joint effects. The relatively few studies to investigate this nexus have reported mixed findings related to the modifying role of different forms of neighborhood disadvantage, with some finding that the influence of environmental hazards on health was exacerbated among residents in structurally disadvantaged areas, and others finding that it was lessened.53–56 This study, therefore, sought to further elucidate the independent and interactive effects of prolonged exposure to air pollution and neighborhood socioeconomic disadvantage on SRH, a subjective measure of perceived general health status that is theorized in broader social context as encompassing more than the mere presence or absence of disease.
+Our results underscore the negative main effects of air pollution and neighborhood socioeconomic disadvantage on health. Although our main analysis focused on 
+, further assessing the association between 
+ and SRH in a supplementary analysis, as well as the moderating effect of neighborhood disadvantage on the association between 
+ and SRH, provided the opportunity to test the extent to which our findings were specific to 
+. 
+ and 
+ capture different aspects and sources of air pollution and thus may be differentially distributed across urban neighborhoods. Although both pollutants are produced by the burning of fossil fuels from vehicles and power plants, 
+ is more locally concentrated than 
+ and dissipates more quickly.57,58 The similar interaction effects in models using 
+ support our primary results for 
+ and suggest that the intersecting impact of air pollution and neighborhood socioeconomic disadvantage on SRH is unlikely to be pollutant specific.
+Overall, our analysis found a positive interaction effect between our pollution and neighborhood disinvestment exposures, suggesting that the negative effect of air pollution on SRH is weaker in more socioeconomically disadvantaged neighborhoods than in more advantaged areas. Although not a direct test, this finding aligns with what has been termed a risk perception paradox in the natural hazard literature,35,59 suggesting that residents of more disadvantaged neighborhoods may interpret or consider the risks of air pollution as less salient for their perceived health status relative to other more pressing concerns. These concerns could be related to personal hardships and structural constraints in neighborhood context, thereby weakening the association between increased air pollution concentrations and SRH at greater levels of neighborhood disadvantage.35 Although this paradigm is one potential explanation for our results, we did not find direct evidence for the risk perception paradox given that we did not have measures of residents’ perceptions of air pollution or residents’ concerns about other proximate health risks and vulnerabilities.
+The potential implications of this positive interaction effect deserve additional comment. One possible concerning implication, in particular, is that air pollution in structurally disadvantaged neighborhoods, relative to more advantaged areas, may be deprioritized as a perceived health threat relative to other, seemingly more immediate social risks and stressors and, therefore, may be less of a locus for mobilization and action among residents, community leaders, and local decision-makers. This is consistent with a lived reality, yet it also may serve to diminish the veracity of community and policy resistance to new and existing sources of environmental air toxins. Overall, it is unlikely that the health of residents of disadvantaged (vs. more advantaged) neighborhoods is less affected by air pollution and other environmental hazards but, rather, that air pollution is one of many structurally rooted perceived health burdens to be strategically assessed and combated in turn.26,32
+Intersecting stressors stemming from the lack of safe and adequate housing, reduced economic opportunities, health disparities, disinvestment, and environmental exposures necessitate streamlining public health policies. Past evidence also points to the role of social factors, such as social cohesion and sociocultural stressors including immigration status and ethnic identity, in determining SRH, particularly among minoritized groups.60,61 Our findings thus have implications for patterns of political power and activism that help to determine which neighborhoods are sited for environmental hazards and industrial plants. Efforts to increase community awareness of the deleterious effects of air pollution on health, even in the presence of other attendant threats, might help to build power at multiple ecological levels among structurally marginalized communities to achieve policy changes that improve health equity and environmental justice.
+Although we did not find evidence in support of the cumulative disadvantage framework, that may be due in part to the measure of SRH rather than biophysiological indicators of health. That is, the adverse effects of air pollution on health may be stronger in disadvantaged communities when using objective measures of health outcomes rather than a subjective, self-rated measure of health. Future research should thus consider the additive and interacting effects of air pollution and neighborhood disadvantage on biophysiological indicators of health to further examine and understand the relationship between pollution, neighborhood disadvantage, and health. This would provide the opportunity to further assess the salience of the cumulative disadvantage framework. Moreover, although SRH is a commonly used measure and sound predictor of morbidity and mortality, previous research suggests there are significant racial and ethnic differences in perceptions of health, even at objectively comparable health statuses.52 Thus, future work using biophysiological indicators of health will also help to assess racial and ethnic differences in responses to perceived threats to overall health.
+There are also other avenues that future research could explore. First, although we examined objective measures of air pollution, it is difficult to disentangle the physiological effects of pollution and the effects of perceived pollution.62 Future studies should examine both observed and perceived air pollution measures to clarify this concept further. This would also shed light on the role of environmental literacy and awareness in developing policies to improve health and well-being in communities.
+Second, potential bias from residential self-selection may affect the results. That is, individuals with lower income or minoritized populations, who may have lower SRH, may be more likely to live in disadvantaged neighborhoods that are also disproportionately exposed to higher levels of air pollution. This structurally rooted self-selection process thus may lead to a higher concentration of individuals with relatively poor SRH living in disadvantaged neighborhoods that have high concentrations of air pollution. Future work would thus benefit from examining changes in SRH and the relationship between neighborhood disadvantage and pollution over time within individuals to address residential self-selection bias and better understand the nexus of these exposures.
+We included several covariates to control for possible confounding. However, there remains the potential for unmeasured extraneous determinants that could confound our estimates.39 Some of these confounders may co-occur or explain some of the mechanisms on the pathway between air pollution exposure and SRH. An examination of direct and indirect ways in which air pollution might impact SRH was beyond the scope of the present study. Future scholarship should examine more immediate factors connecting air pollution and SRH, such as physiological, cognitive, and behavioral responses to environmental risks, particularly among vulnerable groups who disproportionately bear the burden of air pollution exposure.6,63 Moreover, although the use of the neighborhood disadvantage index in our study helped to assess the overall effect of deleterious contexts on SRH, future research should consider examining and understanding how the different components of the disadvantage index influence SRH and interact with pollution to affect overall health. Finally, potential measurement errors associated with using spatial estimates to approximate individual exposure to air pollution should be taken into account when contextualizing the findings from this study.
+Nonetheless, the findings from this study shed new light on the independent and joint SRH effects of prolonged exposure to air pollution and neighborhood socioeconomic disadvantage and, by extension, further underscore the importance of meaningful involvement and political power building among community stakeholders on issues concerning the nexus of environmental and socioeconomic justice with health equity, particularly in structurally marginalized communities.

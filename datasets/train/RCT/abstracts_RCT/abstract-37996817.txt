@@ -1,0 +1,9 @@
+Safety, tolerability, pharmacokinetics and effects of diet on AD16, a novel neuroinflammatory inhibitor for Alzheimer's disease: a randomized phase 1 study
+
+1/Background: AD16 is a Class 1.1 new drug candidate for Alzheimer's disease (AD), which has demonstrated potential benefits in AD by reducing neuroinflammation in preclinical studies. Herein, the pharmacokinetics (PK), safety, and tolerability of single and multiple-dose AD16 and the effect of food were assessed in healthy Chinese adults.
+
+2/Methods: Single-center, randomized, placebo-controlled, double-blind studies were conducted for single and multiple ascending doses. A total of 62 subjects were enrolled in single-dose groups; 10 each in 5, 10, 20, 30, and 40 mg groups, and 6 each in 60 and 80 mg dose groups. Twenty subjects were divided equally into 30 and 40 mg groups for the multiple-dose study. To determine the effect of a high-fat diet on AD16, 16 subjects were administered a single 20 mg dose of AD16 under the fasted and fed condition in a single-center, randomized, open-label, two-cycle, two-crossover study. Moreover, safety and PK parameters were also assessed.
+
+3/Results: Plasma exposure to a single oral dose of AD16 increased at an approximate dose-increasing rate. The pharmacodynamic dose of the AD16 can be maintained through the accumulation effect of the drug within the safety window. Compared to fasting, ingesting a high-fat meal decelerated the rate of AD16 absorption, albeit without effect on its overall absorption. No dose-related toxicities were seen in any of the studies, all treatment-emergent adverse events were grade I/II, and no serious adverse event occurred.
+
+4/Conclusions: The present study exhibited favorable safety, tolerability, and PK profile of AD16, supporting its further research as a potential drug treatment for AD.

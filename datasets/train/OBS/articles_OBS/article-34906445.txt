@@ -1,0 +1,175 @@
+Introduction
+Unsafe ventilator settings affect outcomes in critically ill patients with or without preexisting lung damage.1 Two worldwide observational studies of ventilation management in intensive care units (ICUs), one in patients with acute respiratory distress syndrome (ARDS)2 and one in patients at risk for ARDS,3 showed that a substantial proportion of patients does not receive lung–protective ventilation. One worldwide observational study of ventilation management in the operating room (OR), showed a comparable underuse of lung–protective ventilation.4
+
+Postoperative pulmonary complications (PPC), like ARDS, pneumothorax, pneumonia and escalation of ventilatory support are associated with postoperative outcomes.5 Use of intraoperative protective ventilation has the potential to prevent these complications.6, 7, 8 Protective ventilation at least includes the use of a low VT,9 and a low driving pressure.10 The role of PEEP is much less certain, but changes in PEEP that result in a lower driving pressure may reduce postoperative pulmonary complications.11 There is much less information on the effects of postoperative protective ventilation on outcomes. In cardiac surgery patients, postoperative ventilation with a low VT has an association with less organ dysfunctions and a shorter intensive care unit (ICU) length of stay.12 In hypoxemic cardiac surgery patients, postoperative ventilation with higher positive end–expiratory pressure (PEEP) reduces the severity of postoperative complications and shortens ICU and hospital stay.13
+
+It is uncertain whether postoperative ventilation management as provided in the ICU, has associations with outcome alike intraoperative ventilation in the operating room has with the occurrence of postoperative pulmonary complications. We performed a substudy of the LAS VEGAS trial4 in which we tested the hypotheses that postoperative ventilation in the ICU differs from that in the operating room, and that postoperative ventilation settings have associations with postoperative outcomes.
+
+Methods
+Study design and ethical concerns
+This was a substudy of the LAS VEGAS study,4 the protocol of the study was first approved by the appropriate Institutional Review Board (IRB) of the Amsterdam University Medical Centers, location ‘Academic Medical Center’ in Amsterdam, The Netherlands (W12_190#12.17.0227). The protocol of this substudy was not prepublished, but previously announced.14 This substudy ran in centers that expressed interest in this part of the protocol, and only if it was possible to collect granular ICU data. The results of the substudy have not been reported before.
+
+Each site was requested to seek approval to implement the study protocol from their respective institutional review boards. If required, written informed consent was obtained from patients. The parent study was registered at clinicaltrials.gov (study identifier NCT01601223).
+
+Participants
+The LAS VEGAS study included adult patients receiving invasive ventilation via either an endotracheal tube or supraglottic device during general anesthesia for elective or non–elective surgery. Patients were excluded if aged less than 18 years of age, or scheduled for pregnancy–related surgery. Additional exclusion criteria of the current analysis were mechanical ventilation in the week before index surgery, surgery involving intrathoracic procedures (i.e., cardiac or lung surgery), and procedures requiring intraoperative one–lung ventilation. Procedures outside the operating room and patients who required cardiopulmonary bypass were also excluded.
+
+Patients were eligible for participation in this substudy if they were admitted at the ICU directly after surgery––whether planned or unplanned. Patients admitted to an ICU at a later time point, i.e., if first transferred to the ward and then admitted at the ICU, were also not included.
+
+Data collection
+The data collected in the LAS VEGAS study included patient baseline characteristics, and the preoperative risk factors for PPC included in the ‘Assess Respiratory Risk in Surgical Patients in Catalonia risk score’ (ARISCAT risk score) for PPC.15,16 During the intraoperative period, ventilation settings were collected hourly, including VT, PEEP, plateau pressure (Pplat), respiratory rate (RR) and fraction of oxygen in inspired air (FiO2). During the postoperative period, the highest and lowest daily value of these ventilation variables. In addition, occurrence of PPC was scored up to postoperative day 5, or up to ICU–discharge, whichever occurred first. Life status was collected up to day 28, or up to hospital–discharge, whichever occurred first.
+
+Outcomes
+The coprimary endpoints were VT and PEEP during intraoperative and postoperative ventilation. Secondary endpoints were the proportion of patients receiving low VT ventilation (LTVV) in the OR and in the ICU, and other ventilation variables like Pplat, RR and FiO2, occurrence of PPC, and ICU and hospital length of stay (LOS) and day–28 in–hospital mortality.
+
+Definitions
+Low VT ventilation (LTVV) was defined as ventilation with a median VT ≤ 8 ml/kg PBW; ARDS was defined according to the Berlin definition for ARDS;17 pneumothorax was scored if it was seen on clinically indicated chest X–ray; pneumonia was diagnosed if a new or progressive infiltrate was seen on a postoperative chest X–ray, and if at least two of the following three following features were present—fever (> 38.0°C), leukocytosis or leukopenia (white blood cell count > 12 × 109/ml or < 4 × 109/ml) and purulent secretions. Escalation of ventilatory support was defined as any increase in ventilatory support on a subsequent day—from ‘simple oxygen administration’ (i.e., through a nasal prong, or non–rebreather mask) to ‘continuous positive airway pressure’ (CPAP), to ‘noninvasive ventilation’ (NIV) or to ‘invasive ventilation’. For example, escalation of ventilation was scored when a patient was on CPAP on day 1, but needed NIV on day 2, and also if a patient received NIV on day 1, but needed ‘invasive ventilation’ on day 2, etc.
+
+Analysis plan
+Descriptive statistics are used to study patient characteristics, ventilation parameters and outcomes. Continuous variables are compared using the Wilcoxon Rank–Sum Test or the Wilcoxon signed–rank test, where appropriate; proportions are compared using the chi–squared test or Fisher exact test. Effects are shown as the average odds ratio with its 95% confidence interval (95% CI).
+
+VT is reported in absolute volume as well as normalized for PBW. PBW was calculated as 50 + 0.91 x (centimeters of height – 152.4) for males and 45.5 + 0.91 x (centimeters of height – 152.4) for females.18
+
+To compare intraoperative with postoperative ventilation, distribution plots are constructed for VT, PEEP, Pplat and RR. These plots used cutoffs that represent widely accepted values of each parameter and are used in most daily practices; VT size of 8 ml/kg PBW, RR of 15 breaths per minute, PEEP of 5 cm H2O and 25 cm H2O for Pplat to form the matrices. For FiO2 a cutoff of 40% was used.
+
+Nearly all PPC needed a chest X–ray for confirmation; if a X–ray was not obtained, ARDS, pneumothorax and pneumonia was deemed not present. In one posthoc analysis, patients with a planned postoperative ICU admission are compared to patients with an unplanned admission. Kaplan–Meier graphs are used to compare occurrence of PPC, LOS and mortality in ICU and hospital.
+
+All analyses were performed with R version 3.1 (http://www. R-project.org/). A P value < 0.05 was considered significant.
+
+Results
+Participating centers and patients
+Among the 146 sites that participated in the LAS VEGAS study, 117 (80%) took part in this substudy in the ICU. The hospital characteristics of sites that did and did not participate are presented in eTable 1. Participating hospitals were more often teaching hospitals, with a higher number of ICU beds and hospital beds. Patient flow is presented in Fig. 1. Of 9,185 patients undergoing surgery in hospitals participating in this substudy, 1,042 were admitted to an ICU––0.3 patients per ICU bed over a 1–week period. After exclusion of patients with invasive ventilation before surgery, ICU admission not immediately following the surgical procedure, and patients who underwent thoracic surgery, we were left with 653 fully analyzable patients––494 patients (76%) with a planned ICU admission, and 274 patients (42%) who continued with invasive ventilation in the ICU. Baseline characteristics of patients are presented in Table 1.
+
+Fig 1
+Download : Download high-res image (285KB)
+Download : Download full-size image
+Fig. 1. Flowchart of patients.
+
+Table 1. Baseline characteristics.
+
+Empty Cell	All patients N= 653
+Age, Median [IQR]	61	[48.8-72]
+ARISCAT score, Median [IQR]	47	[40-51]
+Gender, male, N (%)	347	(53.1)
+Ethnicity, N (%)		
+ Asian	17	(2.6)
+ Black ethnicity	4	(0.6)
+ Caucasian	561	(85.9)
+ Hispanic	9	(1.4)
+ Other	55	(8.4)
+Reason for critical care admission, N (%)		
+ Respiratory failure	73	(11.2)
+ Intensive monitoring	401	(61.4)
+ Circulatory failure	86	(13.2)
+ Routine care (planned)	494	(75.7)
+ Airway protection	146	(22.4)
+Reason for invasive ventilation, N (%)		
+ Respiratory failure	67	(10.3)
+ Pneumonia	15	(2.3)
+ Aspiration	5	(0.8)
+ Cardiac overload	16	(2.5)
+ Airway protection	137	(21)
+ Fatigue	40	(6.1)
+ Coma	22	(3.4)
+ Postoperative ventilation	319	(48.9)
+Surgical procedure, N (%)		
+ Lower GI	116	(17.8)
+ Upper GI, hepatobiliary and pancreas	139	(21.3)
+ Vascular	30	(4.6)
+ Aortic	30	(4.6)
+ Neurosurgery, head and neck	174	(26.6)
+ Urological and kidney	59	(9)
+ Gynaecological	46	(7)
+ Endocrine surgery	6	(0.9)
+ Transplant	10	(1.5)
+ Plastic, cutaneous and breast	16	(2.5)
+ Bone, joint, trauma and spine	47	(7.2)
+ Other	28	(4.3)
+Comorbidity, N (%)		
+ Liver cirrhosis	15	(2.3)
+ Metastatic cancer	84	(12.9)
+ Chronic kidney failure	40	(6.1)
+ COPD	100	(15.3)
+ Heart failure	93	(14.2)
+ Obstructive sleep apnea	26	(4)
+ Neuromuscular disease	5	(0.8)
+Abbreviations: ARISCAT Assess Respiratory Risk in Surgical Patients in Catalonia; IQR interquartile range; GI gastro-intestinal; COPD chronic obstructive pulmonary disease.
+
+
+Primary outcome
+Ventilation management is presented in Fig. 2 and Table 2. Median duration of postoperative invasive ventilation was 3 [2–7] hours; median duration of controlled ventilation was 1 [0–4] hours, after which patients continued with assisted ventilation until tracheal extubation.
+
+Fig 2
+Download : Download high-res image (397KB)
+Download : Download full-size image
+Fig. 2. Ventilation parameters in the operating room vs. in the intensive care unit. Cumulative frequency distribution of tidal volume (top left); positive end–expiratory pressure (top right); plateau pressure (bottom left); and respiratory rate (bottom right).
+
+Table 2. Ventilatory parameters in OR compared to ICU.
+
+Ventilatory parameters	In OR N= 653	In ICU N= 274*	P-value
+VT, ml	510	[465-575]	525	[475-600]	0.053
+VT, ml/kg PBW	8.1	[7.3-8.9]	8.4	[7.3-9.8]	0.002
+≤ 8	244/516	(47)	92/224	(41)	0.133
+> 8	272/516	(53)	132/224	(59)	0.133
+≤ 10	466/516	(90)	178/224	(79)	<0.001
+> 10	50/516	(10)	46/224	(21)	<0.001
+PEEP, cm H2O	4	[2-5]	5	[5-5]	<0.001
+≤ 5	551/645	(84)	200/265	(73)	<0.001
+> 5	94/645	(14)	65/265	(23)	<0.001
+Ppeak, cm H2O	18.4	[15.7-21.5]	21	[20-23]	<0.001
+Pplat, cm H2O	16.8	[14.3-19.2]	16.5	[14-19]	0.344
+RR, bpm	12	[11.7-13.2]	14	[12-16]	<0.001
+FiO2	56	[47.6-65]	42	[40-50]	<0.001
+Data are presented as median [interquartile range] or number (percentage).
+
+OR operation room; ICU intensive care unit; VT tidal volume; PBW predicted bodyweight; PEEP positive end-expiratory pressure; RR respiratory rate; bpm breaths per minute.
+
+Percentages are calculated on the amount of available values.
+
+*of 653 patients transferred to ICU, 274 patients were on invasive ventilation on day 1.
+
+
+Median VT in the ICU was 8.4 [7.3–9.8] ml/kg PBW and PEEP was 5 [5–5] cm H2O, statistically significant but not meaningfully different from VT (8.1 [7.3–8.9] ml/kg PBW; P < 0.001) and PEEP in the OR (4 [2–5] cm H2O; P < 0.001). The proportion of patients receiving LTVV in the ICU was 47%, similar to that in the OR (41%; P = 0.13). The proportion of patients receiving a median VT > 10 ml/kg PBW was 21%, higher than that in the OR (10%, P < 0.001). The proportion of patients with median PEEP > 5 cm H2O in the ICU was 23%, higher than that in the OR (14% < 0.001)
+
+Secondary outcomes
+Occurrence of PPC was 10%. Six patients (1%) developed ARDS, 13 patients (2%) were diagnosed with a pneumothorax, and 20 patients (3%) developed pneumonia. The most frequent PPC was escalation of ventilatory support––of 39 patients (6% of total) who developed this PPC, 33 (85%) needed a step up to invasive ventilation (Table 3).
+
+Table 3. Patient centered outcomes separated for development of PPC.
+
+Outcome parameters	No PPC N = 586	ARDS N = 6	Pneumonia N=20	Pneumothorax N = 9	Escalation of ventilatory support N = 33	P-value
+ICU LOS	1	[1-2]	3	[1-5]	2.5	[1-5]	1	[0-4]	3	[2-5]	< 0.001
+Hospital LOS	8	[5-13]	16	[11-26]	7	[5.5-17.5]	12	[6-21]	8.5	[6-14]	 0.181
+ICU death	7	(1.2)	0	0	0	0	1	(11)	3	(9)	 0.028
+Hospital death	20	(3.4)	3	(50)	2	(10)	1	(11)	10	(30)	< 0.001
+Data are presented as median [interquartile range] or number (percentage).
+
+ICU intensive care unit; LOS length of stay; IQR interquartile range; MV mechanical ventilation.
+
+Patients are only counted once, i.e., when a patient scored for ARDS, he is no longer counted for another PPC - from left to right.
+
+
+In patients who developed one or more PPCs median length of stay in the ICU and hospital was 3 [1–5] days and 9 [6–18] days, compared to 1 [1–2] days and 8 [5–13] days in patients who did not develop any PPC (P = >0.01 and P = 0.09). Hospital mortality was 24 and 4% (P = <0.001) in patients who did develop one or more PPCs versus patients who did not develop any PPC. Kaplan–Meier curves are presented in Fig. 3. Length of ICU and hospital stay was shorter for patients who did not develop any PPC. When comparing the composite outcome of PPC patients who developed ARDS, pneumothorax or pneumonia to patients who needed escalation of ventilation, patients with a PPC were discharged earlier from the ICU. Of note, as shown in Table 3, patients who developed ARDS or pneumothorax spent the longest time in the hospital. Mortality at day 28 was highest for patients who developed ARDS, and higher for patients who needed escalation of ventilation, compared to patients who developed pneumothorax or pneumonia and lowest for patients with no PPC.
+
+Fig 3
+Download : Download high-res image (392KB)
+Download : Download full-size image
+Fig. 3. Kaplan–Meier curves showing outcome in patients who did or did not develop a PPC, split up for no PPC vs pneumothorax, pneumonia and ARDS vs escalation of ventilatory support for (A) probability of ICU discharge; (B) probability of hospital discharge; (C) probability of in–hospital mortality.
+
+Posthoc analysis
+Median length of stay in the ICU and hospital was 1 [1–2] days and 7 [5–9] days, not different between planned and unplanned ICU admissions. Mortality was 6 and 3% (P = 0.25), for planned and unplanned ICU admissions.
+
+Discussion
+The findings of this substudy of a worldwide international 1–week observational study in non–thoracic surgery patients can be summarized as follows: (1) approximately 10% of patients is admitted to ICU after surgery, (2) but less than a third of these patients receive postoperative ventilation; and (3) duration of postoperative ventilation in the ICU is short. In addition, (4) postoperative ventilation management mirrors management of intraoperative ventilation with regard to VT and PEEP settings; (5) one in every ten patients develops a PPC, not different in planned and unplanned admissions, and (6) development of a PPC is associated with mortality.
+
+Strengths of this study are its prospective data collection and sample size; this was the largest prospective cohort to date describing postoperative ventilation in non–thoracic surgery patients. This is also the first study comparing intraoperative to postoperative ventilation, and reporting the occurrence of PPCs after surgery in patients who need postoperative care in an ICU. We included a yet non–standard pulmonary complication, named ‘escalation of ventilation’. This complication has been proposed before, as it represents respiratory failure other than that caused by ARDS, pneumonia of pneumothorax.5 We believe this is a strength as it shows a group of patients with worse outcome that would otherwise not have been captured. The short inclusion window of one week for the LAS VEGAS study decreases the influence of changes in care over time. The international, multicenter character of this study likely makes the findings generalizable.
+
+Three large prospective observational studies have showed that there is room for improvement in invasive ventilation practice, in ICU patients with ARDS,2 in ICU patients at risk for ARDS,3 and in patients receiving intraoperative ventilation during general anesthesia for surgery.4 The same is true for acutely ill patients receiving invasive ventilation before admission to a hospital, and in the emergency room.19,20 The findings of the current study are in line with the findings of those studies. Indeed, a large proportion of patients did not receive postoperative LTVV. Our findings are important, as a substantial number of patients need postoperative ventilation in the ICU. At a global scale, this means that improvements in this practice can have enormous effects.
+
+PEEP during ventilation in the ICU was largely the same as during intraoperative ventilation, and PEEP was low in both settings. This may seem in line with recent findings that suggest that most benefit comes from VT limitation, and absence of benefit of high PEEP when a low VT is used.21,22 Ventilation with high PEEP also increases the risk for hypotension, thus may increase the need for vasopressors.21,22 The finding that practice of postoperative ventilation mirrors intraoperative ventilation may suggest that caregivers probably do not change ventilator settings when a patient arrives at the ICU after surgery. A rise in PEEP may only be beneficial in patients who present with postoperative hypoxemia.13
+
+PPCs are common and strongly associated with poor outcomes.4,15 The proportion of patients developing PPCs in the parent LAS VEGAS study4 and the current substudy are notably different (2.8 vs 10.4%). Compared to the general postoperative population, patients who are transferred directly from the OR to the ICU usually have more comorbidities, and this is indeed reflected by higher ARISCAT risk scores (47 [40–57] in the current cohort versus 15 [3–26] in the full LAS VEGAS study cohort). Higher ARISCAT scores are associated with more frequent development of PPC and worse outcomes,4,16 which is affirmed by the current findings.
+
+This study has limitations. Compared to the large number of patients in the parent study, the number of patients in this substudy was small as we had only access to ventilation data in the ICU of 274 patients, representing 2,6% of the number of patients in the parent study (10,520 patients). Assuming that the incidence of postoperative ventilation in the ICU in the current cohort is representative for the overall cohort, there could still be reporting bias due to the fact that participation in this substudy was voluntary, and participation could have been rejected because of other reasons than a lack of time or access to the data. This limits the generalizability. Selection bias may have been introduced by two factors. First, a number of hospitals that participated in the parent study did not take part in this substudy. Second, patients with a delayed admission to the ICU, i.e., patients that went to the normal ward after surgery and then were admitted to the ICU for escalation of care, were excluded from this study. Thus, the findings of this analysis may not be generalizable. However, the latter may also explain why the proportion of patients developing PPC was lower than what would have been expected based on the ARISCAT score, as these patients may need escalation of care after having stayed in the normal ward. Nevertheless, the incidence of PPC was relatively high in comparison to the parent trial. Another important limitation is that duration of ventilation seems relatively short, i.e., median 3 [2–7] hours, but this is not surprising for this category of patients––in the majority of patients it was simple postoperative ventilation. Also, most patients were under controlled ventilation at the moment of collection of ventilation data. Due to the study design, we were not able to define whether or not a patient was having spontaneous breathing activity, and it could also be that some patients were at a spontaneous ventilation mode at the latest time point ventilation data were captured. In addition, due to the short duration of ventilation in the ICU, biologically plausible relationships could be harder to determine. Nevertheless, the current findings are in line with what has been described over recent years. For instance, duration of ventilation in the ICU was longer than ventilation in the operating room in these patients, and clear associations have been found between intraoperative ventilation settings and postoperative complications. Lastly, using a relatively new and yet unstudied variable, ‘escalation of ventilatory support’, introduces uncertainty.
+
+Conclusions
+Non–thoracic surgery patients seldom need postoperative ICU admission and among those who do, less than half require postoperative ventilation. Intraoperative and postoperative mechanical ventilation settings are comparable, but there is room for improved use of LTVV. PPCs develop as frequent in planned as in unplanned admission, and their occurrence impacts outcome.

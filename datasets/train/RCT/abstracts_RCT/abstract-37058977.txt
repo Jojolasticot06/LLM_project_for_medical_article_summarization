@@ -1,0 +1,8 @@
+Imaging the lower limb network in Parkinson's disease.
+
+1/BACKGROUND: Despite the significant impact of lower limb symptoms on everyday life activities in Parkinson's disease (PD), knowledge of the neural correlates of lower limb deficits is limited.
+2/OBJECTIVE: We ran an fMRI study to investigate the neural correlates of lower limb movements in individuals with and without PD.
+METHODS: Participants included 24 PD and 21 older adults who were scanned while performing a precisely controlled isometric force generation task by dorsiflexing their ankle. A novel MRI-compatible ankle dorsiflexion device that limits head motion during motor tasks was used. The PD were tested on their more 
+affected side, whereas the side in controls was randomized. Importantly, PD were tested in the off-state, following overnight withdrawal from antiparkinsonian medication.
+3/RESULTS: The foot task revealed extensive functional brain changes in PD compared to controls, with reduced fMRI signal during ankle dorsiflexion within the contralateral putamen and M1 foot area, and ipsilateral cerebellum. The activity of M1 foot area was negatively correlated with the severity of foot symptoms based on the Movement Disorder Society-Sponsored Revision of the Unified Parkinson's Disease Rating Scale (MDS-UPDRS-III).
+4/CONCLUSION: Overall, current findings provide new evidence of brain changes underlying motor symptoms in PD. Our results suggest that pathophysiology of lower limb symptoms in PD appears to involve both the cortico-basal ganglia and cortico-cerebellar motor circuits.

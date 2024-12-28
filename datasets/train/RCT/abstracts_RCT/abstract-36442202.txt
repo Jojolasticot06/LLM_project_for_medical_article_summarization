@@ -1,0 +1,24 @@
+BACKGROUND: Mild cognitive impairment (MCI) represents a high risk group for 
+Alzheimer's disease (AD). Computerized Cognitive Games Training (CCT) is an 
+investigational strategy to improve targeted functions in MCI through the 
+modulation of cognitive networks.
+OBJECTIVE: The goal of this study was to examine the effect of CCT versus a 
+non-targeted active brain exercise on functional cognitive networks.
+METHODS: 107 patients with MCI were randomized to CCT or web-based crossword 
+puzzles. Resting-state functional MRI (fMRI) was obtained at baseline and 18 
+months to evaluate differences in fMRI measured within- and between-network 
+functional connectivity (FC) of the default mode network (DMN) and other 
+large-scale brain networks: the executive control, salience, and sensorimotor 
+networks.
+RESULTS: There were no differences between crosswords and games in the primary 
+outcome, within-network DMN FC across all subjects. However, secondary analyses 
+suggest differential effects on between-network connectivity involving the DMN 
+and SLN, and within-network connectivity of the DMN in subjects with late MCI. 
+Paradoxically, in both cases, there was a decrease in FC for games and an 
+increase for the crosswords control (p < 0.05), accompanied by lesser cognitive 
+decline in the crosswords group.
+CONCLUSION: Results do not support a differential impact on within-network DMN 
+FC between games and crossword puzzle interventions. However, crossword puzzles 
+might result in cognitively beneficial remodeling between the DMN and other 
+networks in more severely impaired MCI subjects, parallel to the observed 
+clinical benefits.

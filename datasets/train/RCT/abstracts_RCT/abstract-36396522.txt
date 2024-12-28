@@ -1,0 +1,9 @@
+Treatment with COLchicine in hospitalized patients affected by COVID-19: The COLVID-19 trial
+
+1/Objective: To evaluate whether the addition of colchicine to standard of care (SOC) results in better outcomes in hospitalized patients with COVID-19.
+
+2/Design: This interventional, multicenter, randomized, phase 2 study, evaluated colchicine 1.5 mg/day added to SOC in hospitalized COVID-19 patients (COLVID-19 trial) and 227 patients were recruited. The primary outcome was the rate of critical disease in 30 days defined as need of mechanical ventilation, intensive care unit (ICU), or death.
+
+3/Results: 152 non-anti-SARS-CoV-2-vaccinated patients (colchicine vs controls: 77vs75, mean age 69.1±13.1 vs 67.9±15 years, 39% vs 33.3% females, respectively) were analyzed. There was no difference in co-primary end-points between patients treated with colchicine compared to controls (mechanical ventilation 5.2% vs 4%, ICU 1.3% vs 5.3%, death 9.1% vs 6.7%, overall 11 (14.3%) vs 10 (13.3%) patients, P=ns, respectively). Mean time to discharge was similar (colchicine vs controls 14.1±10.4 vs 14.7±8.1 days). Older age (>60 years, P=0.025), P/F<275 mmHg (P=0.005), AST>40 U/L (P<0.001), pre-existent heart (P=0.02), lung (P=0.003), upper-gastrointestinal (P=0.014), lower-gastrointestinal diseases (P=0.009) and cancer (P=0.008) were predictive of achieving the primary outcome. Diarrhoea (9.1% vs 0%, p=0.0031) and increased levels of AST at 6 days (76.9±91.8 vs 33.5±20.7 U/l, P=0.016) were more frequent in the colchicine group.
+
+4/Conclusion: Colchicine did not reduce the rate and the time to the critical stage. Colchicine was relatively safe although adverse hepatic effects require caution. We confirm that older (>60 years) patients with comorbidities are characterized by worse outcome.

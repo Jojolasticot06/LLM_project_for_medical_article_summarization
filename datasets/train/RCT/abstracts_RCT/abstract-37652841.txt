@@ -1,0 +1,40 @@
+Development and validation of an interpretable machine learning-based calculator 
+for predicting 5-year weight trajectories after bariatric surgery: a 
+multinational retrospective cohort SOPHIA study.
+
+1/BACKGROUND: Weight loss trajectories after bariatric surgery vary widely between 
+individuals, and predicting weight loss before the operation remains 
+challenging. We aimed to develop a model using machine learning to provide 
+individual preoperative prediction of 5-year weight loss trajectories after 
+surgery.
+
+2/METHODS: In this multinational retrospective observational study we enrolled 
+adult participants (aged ≥18 years) from ten prospective cohorts (including ABOS 
+[NCT01129297], BAREVAL [NCT02310178], the Swedish Obese Subjects study, and a 
+large cohort from the Dutch Obesity Clinic [Nederlandse Obesitas Kliniek]) and 
+two randomised trials (SleevePass [NCT00793143] and SM-BOSS [NCT00356213]) in 
+Europe, the Americas, and Asia, with a 5 year follow-up after Roux-en-Y gastric 
+bypass, sleeve gastrectomy, or gastric band. Patients with a previous history of 
+bariatric surgery or large delays between scheduled and actual visits were 
+excluded. The training cohort comprised patients from two centres in France 
+(ABOS and BAREVAL). The primary outcome was BMI at 5 years. A model was 
+developed using least absolute shrinkage and selection operator to select 
+variables and the classification and regression trees algorithm to build 
+interpretable regression trees. The performances of the model were assessed 
+through the median absolute deviation (MAD) and root mean squared error (RMSE) 
+of BMI.
+
+3/FINDINGS: 10 231 patients from 12 centres in ten countries were included in the 
+analysis, corresponding to 30 602 patient-years. Among participants in all 12 
+cohorts, 7701 (75·3%) were female, 2530 (24·7%) were male. Among 434 baseline 
+attributes available in the training cohort, seven variables were selected: 
+height, weight, intervention type, age, diabetes status, diabetes duration, and 
+smoking status. At 5 years, across external testing cohorts the overall mean MAD 
+BMI was 2·8 kg/m2 (95% CI 2·6-3·0) and mean RMSE BMI was 4·7 kg/m2 (4·4-5·0), 
+and the mean difference between predicted and observed BMI was -0·3 kg/m2 (SD 
+4·7). This model is incorporated in an easy to use and interpretable web-based 
+prediction tool to help inform clinical decision before surgery.
+
+4/INTERPRETATION: We developed a machine learning-based model, which is 
+internationally validated, for predicting individual 5-year weight loss 
+trajectories after three common bariatric interventions.

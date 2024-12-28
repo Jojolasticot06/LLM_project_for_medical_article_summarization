@@ -1,0 +1,185 @@
+Introduction
+Many older adults have concerns about their memory and thinking. An evaluation by a memory specialist can help diagnose the etiology of cognitive impairment, guide treatment, and lead to referrals for resources.1 A comprehensive evaluation is usually necessary to sort among the many causes of cognitive impairment, including sleep disorders, mood disorders, medication side effects, and neurodegenerative diseases such as Alzheimer disease (AD).2 However, there are relatively few specialty memory clinics; a referral from a primary care provider and insurance are typically required; there are often long wait times for an initial visit; and clinics may require that a support person accompany the patient.3 The limited availability and obstacles to accessing and using memory clinics may result in disparities in care.
+
+The literature suggests that patients with lower socioeconomic status and who identify with minoritized racial and ethnic groups may be less likely to be seen in memory clinics. Access to and use of health care services is associated with neighborhood-level measures of socioeconomic factors such as Area Deprivation Index (ADI).4,5 Studies suggest that minoritized racial and ethnic groups have reduced access to and use of specialty medical care6-8 and may present for care at more severe stages of the disease.8-11 It is important to note that minoritized groups and patients living in more disadvantaged neighborhoods have a higher risk of dementia12,13 and may have more rapid progression of dementia.14 If groups at higher risk of dementia are less likely to be seen in memory clinics, this could exacerbate existing health care disparities. Furthermore, because research studies and clinical trials often recruit participants from memory clinics, reduced use of these clinics by underserved groups could impede efforts to make research studies and clinical trials more inclusive, less biased, and more generalizable. A lower number of individuals in minoritized groups seen in memory clinics could be a contributing factor to the disproportionately low representation of these groups in AD clinical trials.15 It seems increasingly likely that new, more effective AD treatments may become available for clinical use16 and that memory clinics will be a major provider of these treatments. Therefore, if patients with lower socioeconomic status or from minoritized groups are less likely to be seen in memory clinics, distribution of new AD treatments will be less equitable.
+
+This study aimed to identify potential socioeconomic and racial disparities in the patients seen at a large specialty memory clinic in St. Louis, MO. Information on clinic patients was extracted from the electronic health record (EHR) and compared with information on the clinic's catchment area. In addition, the characteristics of patients self-identifying as Black and White were compared.
+
+Go to:
+Methods
+Standard Protocol Approvals, Registrations, and Patient Consents This study was approved by the Washington University in St. Louis Institutional Review Board (201905161). Participant consent was not required because data were anonymized.
+Data Sources EHR data, neighborhood indicator data, and cartographic boundary shapefiles for Missouri and Illinois17 were merged for this analysis. Catchment area was defined as the geographical area within a 100-mile radius of the clinic where most of the clinic patients lived. Structured EHR data, including patient addresses, self-reported race, biological sex, insurance information, completed laboratory tests and procedures, and diagnoses, and unstructured clinical notes were extracted from outpatient records stored in the Allscripts (Chicago, IL) TouchWorks database. Patient self-reported race and ethnicity was collected either verbally or on paper forms provided to the patient. Responses were then recorded in the EHR system by providers or clinic staff. The options provided on the forms and in the EHR interface changed several times over the time frame of our data set; however, a free-response field was consistently available. Unique responses observed for our cohort are provided in the eMethods (links.lww.com/WNL/C989). Patients who were evaluated by memory specialists at the Washington University Memory Diagnostic Center between 2008 and 2018 were eligible for inclusion (eFigure 1). Patients who were missing data on variables critical to this analysis (sex, race, ethnicity, or address) or who lived outside the catchment area were excluded. In addition, only patients who self-identified as non-Hispanic White or Black were included because of the small sample sizes of other groups. Full inclusion and exclusion criteria are summarized in eTable 1.
+Dementia Evaluation The Washington University Memory Diagnostic Center required patients to have insurance (either private or public) and bring a support person to their visit who knew them well and could provide a history. Patients presenting to the clinic underwent a comprehensive history and neurologic examination. At each visit, memory specialists assessed the presence and severity of dementia with the Clinical Dementia Rating (CDR)18: 0 denotes normal cognition, 0.5 very mild dementia, 1 mild dementia, 2 moderate dementia, and 3 severe dementia. The CDR evaluates for intraindividual changes in memory, thinking, and function relative to previous abilities and habits. Memory specialists derived and discretely recorded the CDR in their notes, which were extracted from structured EHR data and unstructured clinical notes using commercially available text-mining software, Linguamatics (Cambridge, United Kingdom) I2E (version 5.6).19,20 The global CDR from new patient visits was used to indicate dementia severity at the initial presentation.
+Diagnoses Primary memory-related diagnoses and comorbid conditions were based on International Classification of Diseases, Ninth Revision (ICD-9)/International Classification of Diseases, Tenth Revision (ICD-10) codes in the structured diagnosis data. ICD-10 codes for all diagnoses were linked to the Phecode Map 1.2, with ICD-10 codes from PheWAS Resources to establish disease phenotypes (eFigure 2, links.lww.com/WNL/C989).21 Disease phenotypes were aggregated across the patient population to determine the most common memory-related diagnoses and comorbid conditions.
+Neighborhood Indicators Neighborhood indicators included the 2015 ADI (census block level),22,23 2010 Social Vulnerability Index (SVI) and percentage of the population aged 65 years and older (census tract [CT] level),24 and a collection of 2010 and 2012 American Community Survey 5-year estimates extracted from publicly available census data (percentage of the population below the federal poverty level [FPL; county level],25 household median income [HHMI; CT level],26 percentage of the population with at least a high school degree [CT level],27 percentage of the population with at least a bachelor's degree [CT level],27 percentage of the population that is White or Black [CT level],28 and percentage of the aging population with health insurance [CT level]29-31). These indicators were linked to patients by county, ZIP code, or CT.
+Statistical Analysis Summary statistics were calculated for the entire cohort and the cohort stratified by race and sex. Two-sided 2-sample t tests for the difference in means were used to compare continuous variables across groups, and χ2 tests were used to compare categorical features across groups. A Mantel-Haenszel test was used to compare the distribution of initial CDR across groups. In addition, diagnoses were stratified by race and sex, and odds ratios (ORs) and 95% CIs were calculated. A workflow diagram is demonstrated in eFigure 3 (links.lww.com/WNL/C989).
+A multinomial logistic regression model was used to model the CDR at the initial visit as a function of race, sex, age, and ADI. Logistic regression was used to compare patients initially presenting with early dementia (CDR of 0.5 or 1) to patients initially presenting with moderate-to-severe dementia (CDR of 2 or 3). Poisson regression was used to model factors associated with the count of memory clinic patients in each CT. More details regarding the statistical analyses are given in the eMethods (links.lww.com/WNL/C989).
+
+GIS Analysis A geographic information system (GIS) approach was used to visualize the spatial distribution of memory clinic patients living in the catchment area. Catchment area was defined as a 100-mile radius of the memory clinic. Patients living outside of the catchment area or patients with addresses unsuitable for geocoding (e.g., rural route or PO boxes) were excluded from these analyses. Geocoded addresses were used to determine patients' CTs, ZIP codes, and counties.
+ZIP code summaries of patient counts were used to show the spatial distribution of memory clinic patients. Two-sided one-sample t tests were used to compare the proportion of memory clinic patients identifying as Black with the average proportion of the population that is Black by CT and to compare the distribution of memory clinic patient neighborhood features with the catchment area using the catchment area mean neighborhood indicator as the null hypothesis. More details regarding the GIS analyses are provided in the eMethods (links.lww.com/WNL/C989).
+
+Data Availability Anonymized data not published within this article will be made available by request from any qualified investigator.
+Go to:
+Results
+Participants Data were obtained for 6,171 patients who were seen for outpatient care at the Washington University Memory Diagnostic Center between 2008 and 2018 (eTable 2, links.lww.com/WNL/C989). Patients living more than 100 miles from the memory clinic were excluded to facilitate comparisons within the catchment area, leaving 5,289 patients (85.7%) (eTable 3). Of the patients living in the catchment area, 4,824 met all additional inclusion criteria (eFigure 1), representing 78% of the total cohort. In the final study cohort, 56% of patients were female, 11% were Black, and age at the first visit was 72.7 years (11.0 years) (mean [SD]) (Table 1). The most common groups of memory diagnoses as documented by ICD-10 codes were AD (37%), memory loss (35%), and dementia (20%); common comorbid conditions included major depressive disorder (17%), hypertension (15%), and diabetes (6%) (Table 1, eFigure 2).
+Table 1
+Characteristics of Patients Included in the Study (N = 4,824)
+
+An external file that holds a picture, illustration, etc.
+Object name is WNL-2023-000468t1.jpg
+Variable	Value
+Patient characteristics	
+ Age, y, mean (SD)	72.7 (11.0)
+ Race and ethnicity, n (%)	
+  Black or African American	543 (11)
+  Non-Hispanic White	4,281 (89)
+ Sex, n (%)	
+  Female	2,712 (56)
+  Male	2,110 (44)
+ Global CDR at initial visit (N = 2,736, 57%)	
+  0, no significant dementia	556 (20)
+  0.5, very mild dementia	1,315 (48)
+  1, mild dementia	575 (21)
+  2, moderate dementia	244 (9)
+  3, severe dementia	46 (2)
+ Insurance provider, n (%)	
+  Public	3,603 (75)
+  Private	1,206 (25)
+  Other	15 (0.31)
+Characteristics of patient's neighborhood	
+ Area Deprivation Index, median (IQR)	41.50 (24.00–64.00)
+ Social Vulnerability Index, median (IQR)	0.30 (0.12–0.51)
+ Percentage below the federal poverty level (N = 4,393, 87%), mean (SD)	13.3 (5.7)
+ Household median income, $, mean (SD)	66,700 (29,000)
+ Educational level, mean (SD)	
+  High school or higher	91 (7)
+  Bachelor’s or higher	38 (21)
+ Racial composition, mean (SD)	
+  Black	14 (25)
+  White	82 (24)
+Common memory diagnoses,a n (%)	
+ Alzheimer disease	1,795 (37)
+ Memory loss	1,689 (35)
+ Dementias	956 (20)
+Common comorbid conditions,a n (%)	
+ Major depressive disorder	809 (17)
+ Hypertension	715 (15)
+ Diabetes	288 (6)
+Open in a separate window
+Abbreviations: CDR = Clinical Dementia Rating; IQR = interquartile range.
+
+aSee eFigure 2 (links.lww.com/WNL/C989) for ICD codes.
+Association With Neighborhood Advantage By mapping ADI and SVI onto patient addresses, we found that memory clinic patients were more likely to reside in more advantaged neighborhoods with lower ADI and SVI compared with the 100-mile catchment area at large (p < 0.001 for both) (Table 2, Figure 1). Furthermore, memory clinic patients were more likely to reside in neighborhoods with higher HHMI and education levels compared with the catchment area population (p < 0.001 for both). Memory clinic patients also resided in areas with a slightly lower percentage of Black individuals (14% vs 16% for the catchment area, p < 0.001) and a higher percentage of individuals older than 65 years (16% vs 14%, p < 0.001). The number of memory clinic patients by CT remained associated with the percentage of Black patients even after adjusting for the percentage of individuals older than 65 years, the total tract population, and the distance from the tract to the Memory Diagnostic Center (p < 0.001, eTable 4, links.lww.com/WNL/C989). Notably, there was relatively little variation in the percentage of the population older than 65 years across the catchment area (eFigure 4). The percentage of memory clinic patients self-identifying as Black (11%) was lower than the average percentage of Black individuals in the catchment area by CT (16%) (p < 0.001).
+Table 2
+Neighborhood Indicator Summary Measures of Locations in Which Washington University Memory Diagnostic Center Patients Reside Compared With the Surrounding 100-Mile Catchment Area (N = 4,824)
+
+An external file that holds a picture, illustration, etc.
+Object name is WNL-2023-000468t2.jpg
+Measure	Locations in which memory clinic patients live, mean (SD)	Catchment area, mean (SD)	t Value	p Value
+Area Deprivation Index	44.75 (26.0)	64.6 (24.1)	−63.05	<0.001
+Social Vulnerability Index	0.35 (0.26)	0.47 (0.28)	−30.98	<0.001
+Household median income, $	66,700 (29,000)	50,900 (22,000)	37.89	<0.001
+Education level, %				
+ High school or higher	91 (7)	86 (8)	43.49	<0.001
+ Bachelor’s or higher	38 (21)	24 (17)	45.18	<0.001
+Racial composition, %				
+ Black	14 (25)	16 (28)	−6.82	<0.001
+ White	82 (24)	81 (28)	2.96	0.003
+Percentage of population 65 y or older	16 (5)	14 (5)	16.44	<0.001
+Health insurance, %				
+ All insurance types	99 (1)	99 (2)	−0.09	0.93
+ Private insurance	71 (11)	68 (14)	138	<0.001
+ Public insurance	97 (3)	98 (3)	−6.60	<0.001
+Open in a separate window
+An external file that holds a picture, illustration, etc.
+Object name is WNL-2023-000468f1.jpg
+Figure 1
+Map of the Washington University Memory Clinic Catchment Area
+The memory clinic patient population is concentrated in areas of relative neighborhood advantage. (A) Memory clinic patient count by ZIP code. (B) Area Deprivation Index (ADI) by ZIP code. (C) Percentage of the population with at least a high school (HS) degree by census tract (CT). (D) Household median income by CT.
+
+There were significant differences in the characteristics of Black and White patients evaluated in the memory clinic (Table 3). Black memory clinic patients were more likely to be diagnosed with diabetes (OR 3.08, 95% CI 2.56–4.44) and hypertension (OR 2.93, 95% CI 2.38–3.58) compared with White patients. Black patients lived in more disadvantaged neighborhoods than White patients with regard to all measures studied: ADI, SVI, percentage below the FPL, HHMI, and education level (p < 0.001 for all). There was no difference in the type of insurance provider (e.g., public or private insurance) for Black and White patients (Table 3).
+
+Table 3
+Racial Differences in Patient Characteristics (N = 4,824)
+
+An external file that holds a picture, illustration, etc.
+Object name is WNL-2023-000468t3.jpg
+Black patients
+N = 543 (11%)	Non-Hispanic White patients
+N = 4,281 (89%)	Unadjusted odds ratio (95% CI) or p value
+Patient characteristics			
+ Age, y, mean ± SD	73.0 ± 12.0	72.7 ± 10.9	0.67
+ Female, n (%)	363 (67)	2,349 (55)	1.66 (1.38–2.00)
+ Global CDR at initial visit (N = 2,736), n (%)	Observations = 310	Observations = 2,426	
+  0, no significant dementia	54 (17)	502 (21)	Mantel-Haenszel test
+M2 = 13.61
+r = −0.071
+p < 0.001
+  0.5, very mild dementia	131 (42)	1,184 (49)
+  1, mild dementia	75 (24)	500 (21)
+  2, moderate dementia	41 (13)	203 (8)
+  3, severe dementia	9 (3)	37 (2)
+ Insurance provider, n (%)			
+  Public	424 (78)	3,179 (74)	χ2(df = 2) = 5.33
+p = 0.07
+  Private	116 (21)	1,090 (25)
+  Other	3 (0.4)	12 (0.2)
+Neighborhood characteristics of patients			
+ Area Deprivation Index, median (IQR)	71.0 (40.0–91.0)	40.0 (23.0–60.0)	<0.001
+ Social Vulnerability Index, median (IQR)	0.60 (0.37–0.86)	0.28 (0.12–0.47)	<0.001
+ Percentage below the federal poverty level, mean (SD)	16 (8)	13 (5)	<0.001
+ Household median income, $, mean (SD)	49,600 (25,500)	68,900 (28,800)	<0.001
+ Education level, mean (SD)			
+  High School or higher	86 (10)	91 (7)	<0.001
+  Bachelor’s or higher	29 (20)	39 (21)	<0.001
+Common memory diagnoses,a n (%)			
+ Alzheimer disease	211 (39)	1,584 (37)	1.08 (0.90–1.30)
+ Memory loss	201 (37)	1,488 (35)	1.10 (0.92–1.33)
+ Dementias	123 (22)	833 (19)	1.21 (0.97–1.50)
+Common comorbid conditions,a n (%)			
+ Major depressive disorder	68 (13)	741 (17)	0.68 (0.52–0.89)
+ Hypertension	164 (30)	551 (13)	2.93 (2.38–3.58)
+ Diabetes	80 (15)	208 (5)	3.08 (2.56–4.44)
+Open in a separate window
+Abbreviations: CDR = Clinical Dementia Rating; IQR = interquartile range.
+
+aSee eFigure 2 (links.lww.com/WNL/C989) for ICD codes.
+We next evaluated for differences between male and female patients (eTable 5, links.lww.com/WNL/C989). Male patients were slightly younger (72.1 years [10.9 years] vs 73.3 years [11.0 years] for women), more likely to be White (OR 1.66, 95% CI 1.38–2.00), more likely to have private insurance (p = 0.04), more likely to have diabetes (OR 1.31, 95% CI 1.03–1.66), more likely to have hypertension (OR 1.30, 95% CI 1.10–1.52), and less likely to have AD (OR 0.76, 95% CI 0.68–0.86). Based on ADI and HHMI, female patients lived in slightly more disadvantaged neighborhoods, although there was no significant difference in other neighborhood indicators.
+
+Dementia Severity at Initial Visit The first available CDR was recorded in structured EHR data or unstructured clinical notes for 3,674 of the included participants (76%). This extraction method performed well evaluated against a gold standard annotation by 2 memory specialists (F1 score: 0.99). The first available CDR from a note or structured EHR data was labeled as the new patient visit (initial visit) for 74% of patients, as an established patient visit for 9% of patients, and was unlabeled for 17% of patients (eTable 6, links.lww.com/WNL/C989). At their new patient visit, 20% of patients did not have significant cognitive impairment (CDR 0), 48% had very mild dementia (CDR 0.5), 21% had mild dementia (CDR 1), and 11% had moderate or severe dementia (CDR 2 or 3, respectively) (Table 1).
+Factors associated with dementia severity at the initial evaluation were examined using individuals with a CDR available from their new patient visit (eTable 7, links.lww.com/WNL/C989). There was no difference between male and female patients in dementia severity at the initial evaluation. However, Black patients were more likely to have more advanced dementia at their initial presentation compared with White patients (Figure 2, Mantel-Haenszel test: p < 0.001). At their initial visit, 40% of Black patients and 31% of White patients had mild dementia or worse (CDR 1 or greater) and 16% of Black patients and 10% of White patients had moderate or severe dementia (CDR 2 or 3, respectively) (Table 3). Black patients had higher odds of presenting with moderate-to-severe dementia (CDR 2 or 3) than mild dementia (CDR 0.5 or 1) at their initial evaluation as compared with White patients (OR 1.59, 95% CI 1.11–2.25), even after adjusting for age, sex, and ADI (Table 4). Similar trends were present when each CDR level was evaluated (eTable 8).
+
+An external file that holds a picture, illustration, etc.
+Object name is WNL-2023-000468f2.jpg
+Figure 2
+Bar Chart of Initial Global CDR (N = 2,736)
+(A) CDR stratified by race. (B) CDR stratified by sex. CDR = Clinical Dementia Rating.
+
+Table 4
+Factors Associated With More Advanced Dementia at the Initial Presentation (N = 2,180)
+
+An external file that holds a picture, illustration, etc.
+Object name is WNL-2023-000468t4.jpg
+Factor	Odds ratio	p Value
+Race: Black	1.59 (1.11–2.25)	0.01
+Sex: Male	1.01 (0.78–1.30)	0.97
+Age	1.03 (1.02–1.05)	<0.001
+Area Deprivation Index	1.00 (1.00–1.01)	0.22
+Open in a separate window
+A logistic regression model of either early dementia (Clinical Dementia Rating [CDR] 0.5 or 1.0) or more advanced dementia (CDR 2 or 3) was evaluated as a function of race (Black or White, White was reference), sex (male or female, female was reference), age, and Area Deprivation Index. Individuals rated CDR 0 were excluded from this analysis.
+
+Go to:
+Discussion
+The main objective of this study was to evaluate for potential socioeconomic and racial disparities in patients seen at a large specialty memory clinic in metropolitan St. Louis compared with the clinic catchment area. By comparing neighborhood-level measures of the memory clinic patients with the characteristics of the catchment area, this study found that patients were more likely to reside in relatively advantaged areas of the St. Louis region. In addition, this study found under-representation of Black patients in the clinic and that Black patients were more likely than White patients to have advanced dementia at their initial evaluation. These differences suggest inequities that could affect dementia diagnosis, care, caregiving resources, access to clinical trial participation, and emerging therapies.
+
+If more effective AD treatments become available, it seems likely that underserved groups, such as patients living in less affluent areas and minoritized groups, would have reduced access because they may be less likely to be seen in memory clinics that will serve as a major access point for these treatments. Underserved groups have often had reduced access to appropriate treatments, such as those for diabetes and cardiovascular disease.32,33 It is also important to note that new AD treatments are likely to only be indicated in patients with early dementia.16 Because Black patients are more likely to present with more advanced dementia, they may be less likely to be eligible for new AD treatments at the time of their initial clinic visit. Delays in diagnosis may further worsen if demand for memory care substantially increases, as may occur if an effective treatment becomes widely available.34 Disparities may be further exacerbated if there is increased demand for memory care by more advantaged groups, which may strain already limited resources and further delay care to disadvantaged groups.
+
+A major limitation of the study is that only a single large memory clinic was studied. It is, therefore, unknown whether similar disparities exist at other memory clinics. In addition, although the Washington University Memory Diagnostic Center is the largest memory clinic in the region, patients could also receive high-quality care from other centers. For this reason, we may be overestimating the effect of neighborhood affluence on memory care. Because we do not have data on the care these patients may receive, we cannot make assumptions regarding the quality of care. However, it is likely that patients who are not treated at the memory clinic in this study would have less access to specialty memory care services, such as AD biomarker testing, which would be required for initiation of new AD treatments.35
+
+Certain limitations of the EHR data used in this study should be noted. Some patient addresses were unsuitable for geocoding, which led to missing data, and it is possible that data were not missing at random. Patient addresses were extracted at a single point in time, and some patients may move between neighborhoods. Neighborhood indicators, especially at larger areas like the tract or county, may not accurately represent the conditions for individuals. Multiple measures were included to demonstrate consistency of results. ICD codes were used for the diagnosis, but these codes are used primarily for billing purposes and may not provide a precise diagnosis. Therefore, ICD codes were grouped based on Phecode phenotypes to draw conclusions regarding common diagnoses. The dementia severity at the initial visit was not available for a significant number of patients, and it is possible that data were not missing at random.
+
+The results of this study are unsurprising given the history of structural and institutionalized racism in the United States and the resultant self-propagating cycles that enforce and maintain disparities in accessing health care.36 The St. Louis region, like many other metropolitan areas, also has a history of redlining, which can worsen health disparities.37 Like many major cities, the areas most populated by the Black community have fewer health care facilities and lack adequate public transportation. The intersection of these structural and systematic barriers perpetuates distrust in the health care system, which could potentially result in Black patients delaying presentation for care until their condition is more advanced. However, there are many factors that may affect the severity of a patient's dementia when referred to the specialty memory clinic that are not recorded in the EHR. These may include patient and provider beliefs about normal aging and dementia, potential effectiveness of available treatments, and the value and safety of clinical research. Future work could collect these measures through a survey or qualitative approach and assess their impact on the severity of dementia at the initial visit.
+
+Although this study demonstrates that socioeconomic and racial disparities exist in the patients who are seen at the Washington University Memory Diagnostic Center compared with the catchment area, it is important to note that these disparities are not due to the choices of individual clinicians, who see all patients who are scheduled. Instead, these disparities reflect access to primary care and the choices of primary care physicians (to refer to the memory clinic or not), health care systems (to accept appointments only for patients with insurance), provider groups (to require a support person), and the choices of patients that may be affected by well-justified mistrust of the medical system. Therefore, reducing these disparities may require outreach to patients and primary care providers as well as structural changes in health care systems and provider groups. Currently, there are no clinicians practicing in the Washington University Memory Diagnostic Center who are Black, and some patients prefer a clinician who shares lived experiences, including identifying with the same racial or ethnic group.38-40 Outreach, structural changes, and recruiting a diverse workforce require meaningful effort, and empiric data suggesting the need for these initiatives may increase the likelihood of support.
+
+Many clinicians at the Washington University Memory Diagnostic Center are engaged in research at the Knight Alzheimer Disease Research Center (ADRC). For 2 decades, the African American Advisory Board of the Knight ADRC has worked to increase the participation of Black patients in Alzheimer disease research, promote inclusive research practices, and increase the diversity of physicians in the department.41 More recently, the Knight ADRC created the Health Disparities and Equity Core to center diversity, equity, and inclusion in all aspects of the Knight ADRC's functions.42 The efforts of the Knight ADRC to promote diversity, equity, and inclusion have now been extended to clinical care through this and other work.43 The first step is the ability to measure disparities in care, and the EHR can enable continuous monitoring of health care disparities and evaluation of the effectiveness of any initiatives to reduce disparities. Such initiatives may include increased outreach to less affluent neighborhoods with a higher frequency of individuals from minoritized groups, reducing requirements for scheduling an initial appointment, and hiring clinicians who represent minoritized groups. At a time when memory care may be undergoing a major transformation, this study provides additional motivation for addressing disparities that are likely to affect patient care and demonstrates that the EHR may provide a powerful tool to monitor and potentially reduce disparities in memory care.

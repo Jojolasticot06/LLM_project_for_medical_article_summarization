@@ -1,0 +1,22 @@
+PURPOSE: To evaluate a prototype home optical coherence tomography device and 
+automated analysis software for detection and quantification of retinal fluid 
+relative to manual human grading in a cohort of patients with neovascular 
+age-related macular degeneration.
+METHODS: Patients undergoing anti-vascular endothelial growth factor therapy 
+were enrolled in this prospective observational study. In 136 optical coherence 
+tomography scans from 70 patients using the prototype home optical coherence 
+tomography device, fluid segmentation was performed using automated analysis 
+software and compared with manual gradings across all retinal fluid types using 
+receiver-operating characteristic curves. The Dice similarity coefficient was 
+used to assess the accuracy of segmentations, and correlation of fluid areas 
+quantified end point agreement.
+RESULTS: Fluid detection per B-scan had area under the receiver-operating 
+characteristic curves of 0.95, 0.97, and 0.98 for intraretinal fluid, subretinal 
+fluid, and subretinal pigment epithelium fluid, respectively. On a per volume 
+basis, the values for intraretinal fluid, subretinal fluid, and subretinal 
+pigment epithelium fluid were 0.997, 0.998, and 0.998, respectively. The average 
+Dice similarity coefficient values across all B-scans were 0.64, 0.73, and 0.74, 
+and the coefficients of determination were 0.81, 0.93, and 0.97 for intraretinal 
+fluid, subretinal fluid, and subretinal pigment epithelium fluid, respectively.
+CONCLUSION: Home optical coherence tomography device images assessed using the 
+automated analysis software showed excellent agreement to manual human grading.

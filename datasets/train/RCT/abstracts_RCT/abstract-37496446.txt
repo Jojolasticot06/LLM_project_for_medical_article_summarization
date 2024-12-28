@@ -1,0 +1,23 @@
+BACKGROUND: Recovery in mental health care comprises more than symptomatic 
+improvement, but preliminary evidence suggests that only collaborative care may 
+improve functioning of depressed older adults. This study therefore evaluates 
+the effectiveness of behavioural activation (BA) on functional limitations in 
+depressed older adults in primary care.
+METHODS: This study uses data from a multicentre cluster randomised controlled 
+trial in which 59 primary care centres (PCCs) were randomised to BA and 
+treatment as usual (TAU), and 161 consenting older (≥65 years) adults with 
+clinically relevant symptoms of depression participated. Interventions were an 
+eight-week individual BA programme by a mental health nurse (MHN) and 
+unrestricted TAU. The outcome was self-reported functional limitations (WHODAS 
+2.0) at post-treatment (9 weeks) and at 12-month follow-up.
+RESULTS: At the end of treatment, the BA participants reported significantly 
+fewer functional limitations than TAU participants (WHODAS 2.0 difference -3.62, 
+p = 0.01, between-group effect size = 0.39; 95% CI = 0.09-0.69). This medium 
+effect size decreases during follow-up resulting in a small and non-significant 
+effect at the 12-month follow-up (WHODAS 2.0 difference = -2.22, p = 0.14, 
+between-group effect size = 0.24; 95% CI = -0.08-0.56). MoCA score moderated 
+these results, indicating that the between-group differences were merely driven 
+by those with no cognitive impairment.
+CONCLUSIONS: Compared to TAU, BA leads to a faster improvement of functional 
+limitations in depressed older adults with no signs of cognitive decline. 
+Replication of these findings in confirmatory research is needed.

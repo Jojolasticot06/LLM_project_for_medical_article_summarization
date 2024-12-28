@@ -1,0 +1,191 @@
+Deep vein thrombosis (DVT) is a major health care and socio-economical problem, with an incidence of 1 per 1,000 per year in Caucasian population [1], [2], [3]. Chronic venous conditions are mostly related to intrinsic venous obstructions and/or valvular reflux (secondary to DVT) but also to extrinsic ones [3]. Extrinsic obstructions are secondary to malignancy or rare anatomic variants such as May-Thurner syndrome [4]. Despite universal usage of anticoagulants, post-thrombotic syndrome (PTS) is the most frequent long-term complication of lower limb DVT, affecting about 23% to 60% of patients within 2 years even with an adequate treatment, major symptoms being chronic pain and edema of the lower limb. PTS is severe in 5–10% of patients, thus degrading the quality of life and inducing an economic burden [1], [2], [3], [4], [5]. Patients with proximal thrombosis, involving iliac veins, are more at risk of PTS. The frequency of this complication led to its definition as clinical entity by the European Venous Forum [6]. So far, there is no specific medical treatment for PTS. The outcomes of surgical procedures remain poor, leading to the first venous angioplasties in the late 90s in patients with chronic obstruction or PTS [7]. Since then, percutaneous endovascular venous recanalization techniques have shown encouraging results in terms of safety and effectiveness [2], [3], [5]. Still, few reports analyzed the impact of angioplasty on quality-of-life scores in patients with PTS.
+
+The purpose of this study was to retrospectively evaluate the clinical efficacy and mid-term outcomes of endovascular treatment for PTS patients with chronic symptomatic femoro-iliac venous obstructive lesions and its impact on quality-of-life scores.
+
+Material and methods
+This study was exempted of ethic committee approval because of the observational, retrospective, non-interventional nature of the study. All endovascular procedures were routinely performed as part of clinical practice. Written informed consent was obtained from all patients.
+
+Patients
+We retrospectively analysed the files of all consecutive patients with PTS treated endovascularly between March 2012 and October 2017 for chronic symptomatic femoro-iliac venous obstructive lesions in our institution. All patients were referred to our Interventional Radiology Department for venous recanalization and angioplasty. Patients with acute thrombosis (15 patients), non-thrombotic obstructive lesions (0 patient), mental deficiency (0 patient), age < 18 years (0 patient), and both a baseline CIVIQ-20 = 20 and a Villalta score ≤ 4 (0 patient) were excluded.
+
+Our study population included 42 patients. There were 27 women and 15 men with a mean age of 47.3 ± 17 (SD) years (range: 22–86 years; median, 47.5 years; IQR, 32–60.8 years).
+
+Preprocedure imaging evaluation
+Occluded venous segments were evaluated according to the lower extremity thrombosis (LET) classification as follows: LET class I for isolated calf vein thrombosis; LET class II for femoral-popliteal vein thrombosis; LET class III for common femoral and/or iliac vein thrombosis; and LET class IV for deep vein thrombosis in the inferior vena cava [8], [9]. PTS was diagnosed by their angiologist on the basis of clinical and duplex Doppler ultrasound (DUS) features. All patients had computed tomography (CT) angiography before the procedure to make an accurate assessment of location and extent of thrombosis and to evaluate presence of synechiae and morphology of collateral veins. CT acquisition was performed from the dome of diaphragm to the knees at 100 s after the start of intravenous administration of 80 cc3 of iomeprol (400 mg of iodine per mL; Iomeron 400®, Bracco) through the forearm at a rate of 3–4 mL/s, followed by a saline chaser (20 mL). A 128-slice dual source CT (Definition Flash®, Siemens Healthineers) unit was used for the acquisition, with a routine abdominopelvic CT protocol (slice thickness, 1–3 mm; 80–120 kV; 100–250 mAs). CT acquisitions were obtained in breath-hold inspiration. Multiplanar reconstructions were used for image analysis.
+
+Villalta score and CIVIQ 20 scale evaluation
+The Villalta score was used to evaluate the severity of PTS at baseline and 3 months after the procedure. The Villalta score is obtained after a clinical examination of both legs to score five symptoms (pain, heaviness, cramps, pruritus and paresthesia) and six signs (edema, induration, hyperpigmentation, new venous ectasies, redness and pain during calf compression) from 0 to 3. A total score of 0–4 indicates no PTS, a total score of 5–9 indicates mild PTS, a total score 10–14 indicates moderate PTS, and a total score ≥ 15 indicates severe PTS [10]. Pain and edema were also analyzed separately.
+
+The Chronic Venous Insufficiency Questionnaire in 20 questions (CIVIQ 20) was used to assess the quality of life at baseline and 3 months after the procedure. Patients were asked to complete the CIVIQ-20 consisting in 20 questions designed to assess four quality-of-life dimensions: pain (four items), physical (four items), psychological (nine items) and social (three items). Items on the CIVIQ-20 scale were scored from 1 to 5. A lower score corresponded to greater patient comfort [11]. A score of 20 corresponded to a normal quality of life and a score of 100 corresponded to a maximal quality-of-life alteration. Absolute scores could be converted into an index ranging from 0 to 100, the global index score (GIS), so as to obtain a score directly proportional to the quality of life. Therefore, an improvement of quality of life from baseline to 3 months after the procedure was represented by a decrease in CIVIQ-20 score or an increase in GIS.
+
+Villalta score and CIVIQ-20 scale were considered the most adapted scores for our study due to their specificity in venous disease and their wide validation [10], [11], [12], [13].
+
+Endovascular intervention
+All procedures were performed by 2 interventional radiologists with 15- (R.L.) and 12- (M.M.) years of experience in endovascular interventions, in an Allura Xper® FD 20 angio room (Philips Medical Systems). The procedure was usually performed under local anesthesia and sedation (midazolam, 1–2 g IV). Additional analgesics were systematically given during the procedure (paracetamol, 1 g IV). Only 4 procedures required general anesthesia because of anxiety. All patients received 5,000 IU of heparin intravenously at the beginning of the procedure. Ipsilateral popliteal vein puncture and cannulation was the first approach, if patent Indeed, the antegrade and direct way to the lesion made easier recanalization and perprocedural angiographic control. If not possible, contralateral transjugular vein cannulation was the rule. Selective venography of the cavo-ilio-femoral veins through a long 45–70 cm length 6–10-Fr Flexor® sheath (Cook Europe,) was performed (Fig. 1). Double approach could be required if the recanalization was difficult. Venous puncture and catheterization were always carried out under ultrasonography control. Femoro-iliac occlusion was crossed using a 0.035-inch stiff hydrophilic guidewire (Terumo Interventional Systems). Then, a 4-Fr catheter (Vertebral catheter, Cook Europe,) was used and interchanged on Amplatz® Super stiff guidewire (Boston Scientific). After recanalization, pre-dilation with balloons of 6, 9 and 12 mm in diameter was performed.
+
+
+Download : Download high-res image (323KB)
+Download : Download full-size image
+Figure 1. Endovascular recanalization in a 31-year-old woman with post-thrombotic syndrome (PTS), baseline Villalta and CIVIQ-20 scores were 10 and 59, respectively. A. Initial computed tomography (CT) image in the axial plane shows left femoro-iliac vein narrowing (white arrow) compared to the normal right side (black arrow). B. Baseline venography in supine position via popliteal approach confirms left common femoro-iliac vein obstruction with collaterality (white arrows). C. Recanalization and deployment of 3 nitinol stents of 14, 12 and 10 mm in diameter, recalibrated by angioplasty (white arrows). D. Final venogram shows stent patency and disappearance of pelvic varicosities (white arrows). E. CT angiography with three-dimensional volume-rendering technique reconstructions at 3 months shows well-positioned and patent stents (white arrows) (E). Post-procedural Villalta and CIVIQ-20 scores at 3 months were 3 and 32, respectively, demonstrating significant quality-of-life improvement.
+
+Second, extensive stenting was performed as previously described: stents were placed from the inferior vena cava (IVC) or common iliac vein to a stenosis-free landing zone which was often the common femoral vein (Fig. 1) [14], [15]. If needed, the proximal femoral vein more than the deep femoral vein was covered too, below the inguinal ligament level, according to the lesion extension. This choice was made based on the best antegrade flow into the vessel. Procedure needed from 2 to 4 stents, whom diameter ranged from 10 to 14 mm at the common femoral and external iliac veins level, and from 14 to 18 mm at the common iliac vein and IVC level, with a 60, 80, 100 or 120 mm in length. Stent diameter and length were selected on both pre-procedural imaging and procedural phlebography. In case of obstructive lesions of the contralateral common iliac vein, kissing stenting of the iliocaval bifurcation was performed. Nitinol stents were used, including Protege®GPS Self-Expanding Peripheral System (Covidien), and mainly Sinus-XL Flex® Stent (Optimed) or Sinus® Superflex-635 (Optimed). A final in-stent angioplasty with a 9 to 16 mm balloon was achieved to restore an optimal stent caliber. When several stents were used, a 1 cm overlap was recommended. A final venogram ensured the final positioning and stent patency (Fig. 1).
+
+All patients were hospitalized overnight and returned to their normal daily activities after 24 h. Heavy physical activities were contraindicated during 15 days. Class II compression socks were recommended for all patients. In absence of consensus, each patient received 3 months of dual-therapy: subcutaneous injections of low molecular weight heparin for 1 month followed by 2 months of antivitamin K (with a target INR of 2.0–3.0) or new oral anticoagulant medication, and antiplatelet drug (acetylsalicylic acid per os; Aspegic®, 100 mg per day).
+
+Clinical and imaging follow-up
+Successful procedure was defined as any clinical improvement assessed according to Villalta and CIVIQ-20 scores at 3 months as described above. Patency data were evaluated with imaging studies (venography, DUS, CT). Al patients had DUS examination at 1 day, 1, 3, 6, 12 months after the procedure, and every 6 months until 2 years, and then annually to evaluate the stent patency defined as anterograde and normal flow with < 50% residual stenosis. CT angiography at 2 months with the same above-mentioned protocol was also systematically performed to evaluate the stents’ integrity, patency and morphology.
+
+Immediate technical success was defined as recanalization restoring patency of the target vessels with anterograde flow and < 50% residual stenosis after stent placement on phlebography and confirmed by DUS at day 1. Primary patency, primary assisted patency and secondary patency rates were evaluated as previously described. Early in-stent thrombosis was defined as occlusion or > 50% stenosis on DUS examination within 1 month. Late thrombosis was over 1 month.
+
+Based on the Society of Interventional Radiology (SIR) standards [16], complications were classified as major if they required surgery and/or prolonged hospitalization (≥ 2 weeks) and as minor otherwise. Infectious complication, allergic reaction, renal failure, pain > 5 on the visual analogue scale (VAS) for pain, bleeding, thrombosis extension and pulmonary embolism, or even death were screened.
+
+Statistical analyses
+Continuous variables were described as medians (with interquartile range). Qualitative variables were described as percentages. Time trend analysis of Villalta and CIVIQ-20 scores was performed using a linear mixed model with potential confounding variables (baseline Villalta and CIVIQ-20, age, sex, body mass index [BMI], thrombophilia, stenting expanse, cause, delay from DVT, total stenting length). A robust estimate of variance was used to test the model stability. A P value of ≤ 0.05 was considered significant. Multivariate analysis was performed using a manual backward procedure. Statistical analyses were performed using STATA software (version 14.0, STATA corp.).
+
+Results
+Patient characteristics
+Left/right symptomatic limb ratio was 11.3/1, and 3/42 (7.1%) patients had a bilateral iliac stenting for associated contralateral obstructive lesions of the common iliac vein with kissing stenting of the iliocaval bifurcation. PTS was related to an idiopathic thrombosis in 30/42 (71.4%) patients. An extrinsic added condition was noted in 7/42 (16.7%) patients and 5/42 (11.9%) patients were diagnosed with May-Turner syndrome. Overall, 34/42 (80.9%) patients were LET III and 30/42 (71.4%) had moderate to severe PTS. Median baseline Villalta score was 14 (IQR, 10–19) and median baseline CIVIQ 20 score was 57 (IQR, 39–72) in the whole population. Median time from thrombosis diagnosis to endovascular procedure was 31.5 months (IQR, 15.8–69.8 months) and median imaging follow-up was 18.1 months (IQR, 9.7–34.4 months). Demographics are summarized in Table 1.
+
+Table 1. Demographics of 42 patients with post-thrombotic syndrome presenting with femoro-iliac venous obstructive lesions treated by endovascular approach.
+
+Variable	Empty Cell
+Median age (years) (IQR)	47.5 (32, 60.8)
+Gender	
+ Female	27/42 (64.2%)
+ Male	15/42 (35.7%)
+DVT location	
+ LET I-II	1/42 (2.4%)
+ LET II-III	14/42 (33.3%)
+ LET I-II-III	5/42 (11.9%)
+ LET III	15/42 (35.7%)
+ LET II-III-IV	1/42 (2.4%)
+ LET III-IV	3/42 (7.1%)
+Cause	
+ Thrombosis only	30/42 (71.4%)
+ Extrinsic condition added	7/42 (16.7%)
+ May Thurner	5/42 (11.9%)
+Side of intervention	
+ Left	31/42 (73.8%)
+ Right	8/42 (19.0%)
+ Both sides	3/42 (7.1%)
+BMI	
+ < 30	29/42 (69.0%)
+ > 30	13/42 (30.9%)
+Median delay from DVT (months) (IQR)	31.5 (13.8, 69.8)
+Median baseline Villalta (score) (IQR)	14 (10, 19)
+ Mild PTS	7/42 (16.6%)
+ Moderate PTS	14/42 (33.3%)
+ Severe PTS	16/42 (38.1%)
+Median baseline CIVIQ-20 (IQR)	57 (39, 72)
+IQR: interquartile range; DVT: deep vein thrombosis; LET: lower extremity thrombosis classification; BMI: body mass index; PTS: post-thrombotic syndrome; CIVIQ-20: chronic venous disease quality of life questionnaire. Data are expressed as proportions followed by percentages in parentheses or medians followed by first and third quartiles in parentheses
+
+
+Immediate technical success and stent patency
+Median number of stents per patient was 3 (IQR, 2–4). One of the stents ran over the inferior vena cava in 15/42 (35.7%) patients. Most of stenting procedures, in 27/42 (64.3%) patients, involved very proximal segments only (iliac-common femoral veins). Prime stenting procedure was successful with immediate technical success in 41/42 (97.6%) patients. Only 1/42 (2.4%) immediate failure of an attempt of early in-stent thrombosis recanalization was noted. No major complications occurred. Only 2/42 (4.8%) patients had minor complications as hematoma at the puncture site, which resolved spontaneously.
+
+All DUS examinations but one after prime procedure at day 1 showed permeable stents. This patient was successfully treated with thrombectomy and additional stenting. At 1 month, 34/42 (80.9%) patients had patent stents on DUS, and 8/42 (19.1%) patients had not, which required endovascular thrombectomy and extensive stenting. Overall, early in-stent thrombosis within 1 month occurred in 9/42 (21.4%) patients and was successfully managed endovascularly in 8/9 (88.9%) patients. Late thrombosis after 1 month occurred in 5/42 (11.9%) patients. In 3/5 (60%) patients, secondary recanalization attempt failed, 1/5 (20%) patients benefitted from a successful thrombectomy and extensive stenting. The last patient could so far not benefit from a secondary procedure due to complications of anticoagulants. At 3, 6, and 12 months, no other in-stent thrombosis was detected for the rest of the cohort on DUS examination. In total, primary patency, primary assisted patency and secondary patency at the end of the median follow-up of 18.1 months were achieved in 29/42 (66.7%) patients, 33/42 (78.6%) patients and 37/42 (88.1%) patients, respectively. Outcomes data are summarized in Table 2.
+
+Table 2. Outcomes data of 42 patients with post-thrombotic syndrome presenting with femoro-iliac venous obstructive lesions treated by endovascular approach.
+
+Outcomes data	Empty Cell
+Stenting zone	
+ Iliac-common femoral veins	28/42 (66.7%)
+ Femoral vein	12/42 (28.6%)
+ Sus-popliteal vein	2/42 (4.8%)
+Median imaging follow-up (months) (IQR)	18.1 (9.7, 34.4)
+Immediate technical success	41/42 (97.6%)
+Long-term secondary patency at follow-up	37/42 (88.1%)
+Median post-procedural Villaltaa (score) (IQR)	5 (2, 9)
+ Mild PTS	13/42 (30.9%)
+ Moderate PTS	5/42 (11.9%)
+ Severe PTS	2/42 (4.8%)
+Median post-procedural CIVIQ-20a (score) (IQR)	30 (24, 50)
+IQR: interquartile range; PTS: post-thrombotic syndrome; CIVIQ-20: chronic venous disease quality of life questionnaire. Data are expressed as proportions followed by percentages in parentheses or medians followed by first and third quartiles in parentheses.
+
+
+a
+At 3 months.
+
+Villalta and CIVIQ-20 scores improvement
+Villalta scale score showed a significant decrease in the severity of PTS symptoms and signs after the procedure. Mild PTS was noted in 13/42 (30.9%) patients and moderate PTS was noted in 5/42 (11.9%) patients after the procedure. Only 2/42 (4.8%) patients had severe PTS after the procedure. Villalta score was significantly decreased from baseline (median, 14; IQR, 10–19) compared with 3 months after endovascular stenting (median, 5 [IQR, 2–9]) (P < 0.0001) (Fig. 2). Pain and edema scores showed significant decrease between baseline scores (median, 2 [IQR, 2–3] and median, 3 [IQR, 3–3], respectively) and scores at 3 months (median, 1 [IQR, 0–1] and median, 1 [IQR, 0–1], respectively) (P < 0.0001). Completed pain relief was observed in 16/42 (38.1%) patients and complete edema relief was observed in 18/42 (42.8%) patients.
+
+
+Download : Download high-res image (135KB)
+Download : Download full-size image
+Figure 2. Villalta score graph change at 3 months. Villalta score graph shows significant Villalta score decrease from baseline (median, 14 [IQR, 10–19]) to 3 months after the endovascular procedure (median, 5 [IQR, 2–9]) (P < 0.0001). Bars from top to bottom in the plot boxes correspond to maximum, Q3, median, Q1 and minimum.
+
+CIVIQ-20 scale score showed a significant improvement in the quality of life after the procedure. Indeed, CIVIQ-20 score was significantly decreased from baseline compared with 3 months after endovascular stenting (median, 57 [IQR, 39–72] and median, 30 [IQR, 24–50], respectively) (P < 0.0001) (Fig. 3). In other terms, from baseline to 3 months after the procedure, the median GIS increased significantly from 54 (IQR, 35–76) to 88 (IQR, 63–94) (P < 0.0001).
+
+
+Download : Download high-res image (138KB)
+Download : Download full-size image
+Figure 3. CIVIQ-20 score graph change at 3 months. CIVIQ-20 score graph shows significant CIVIQ-20 score decrease from baseline (median, 57 [IQR, 39–72]) to 3 months after the endovascular procedure (median, 30 [IQR, 24–50]) (P < 0.0001). Bars from top to bottom in the box plots correspond to maximum, Q3, median, Q1 and minimum.
+
+Only 3/42 (7.1%) patients had complete in-stent rethrombosis at 3 months, which was impossible to recanalize. Subsequently, their Villalta and CIVIQ-20 scores at 3 months were similar to those at baseline, with mild PTS for one of them and severe PTS for 2 of them.
+
+The multiple linear regression model with robust variance estimator showed that both baseline Villalta and CIVIQ-20 scores ([95% CI: −7.80–3.79; P < 0.0001] and [95% CI: 0.07–0.20; P < 0.0001], respectively), age (95% CI: 0.04–0.19; P = 0.002) and stenting expanse (95% CI: 0.97–5.65; P = 0.006) were independent factors associated with post-procedural Villalta score and related to Villalta gain. In the robust multiple linear regression model, baseline Villalta (95% CI: 0.89–2.23; P < 0.0001) was the only independent factor associated with post-procedural CIVIQ-20 score and related to CIVIQ-20 gain. Statistical data are summarized in Table 3, Table 4.
+
+Table 3. Factors independently associated with post-procedural Villalta in the multivariate analysis and the robust multiple linear regression model.
+
+Variables	P	95% CI
+Multivariate analysis		
+ Baseline Villalta	0.000	−10.16–6.24
+ Delay from DVT	0.029	0.00–0.02
+ Age	0.010	0.02–0.19
+ Gender	0.592	−2.12–3.73
+ BMI	0.002	0.12–0.50
+ Cause	0.307	−5.60–1.57
+ Stenting expansea	0.005	1.36–7.66
+ Total stenting length	0.850	−1.59–1.93
+ Thrombophilia	0.972	−3.73–3.60
+ Baseline CIVIQ-20	0.000	0.06-0.19
+Robust multiple linear regression model		
+ Baseline Villalta	0.000	−7.80–3.79
+ BMI	0.326	−0.11–0.34
+ Baseline CIVIQ-20	0.000	0.07–0.20
+ Delay from DVT	0.315	−0.01–0.01
+ Stenting expanse	0.006	0.97–5.65
+ Age	0.002	0.04–0.19
+DVT: deep vein thrombosis; BMI: body mass index; CIVIQ-20: chronic venous disease quality of life questionnaire; CI: confidence interval.
+
+
+a
+Corresponds to additional covering of the femoral vein as landing zone.
+
+Table 4. Factors independently associated with post-procedural CIVIQ-20 in the multivariate analysis and the robust multiple linear regression model.
+
+Variables	P	95% CI
+Multivariate analysis		
+ Baseline CIVIQ-20	0.000	−10.16–6.24
+ Delay from DVT	0.678	−0.04–0.07
+ Age	0.755	−0.31–0.43
+ Gender	0.058	−0.36–21.36
+ BMI	0.241	−0.32–1.28
+ Cause	0.806	−38.24–19.14
+ Stenting expansea	0.025	1.49–22.76
+ Total stenting length	0.632	−4.29–7.06
+ Thrombophilia	0.102	−22.08–1.99
+ Baseline CIVIQ-20	0.000	−24.12–11.55
+Robust multiple linear regression model		
+ Baseline CIVIQ-20	0.137	−13.39–1.83
+ Sexe	0.062	−0.45–19.17
+ Baseline Villalta	0.000	0.89–2.23
+ Stenting expanse	0.266	−3.99–14.50
+CIVIQ-20: chronic venous disease quality of life questionnaire; DVT: deep vein thrombosis; BMI: body mass index; CI: confidence interval.
+
+
+a
+Corresponds to additional covering of the femoral vein as landing zone.
+
+Discussion
+The present study confirms the high clinical efficacy and favorable mid-term outcomes of endovascular stenting in patients with chronic symptomatic femoro-iliac venous obstructive lesions. Immediate technical success was achieved in 41/42 (97.6%) patients, without any major complications. Early (< 1 month) and late (> 1 month) in-stent thrombosis occurred in 9/42 (21.4%) patients and 5/42 (11.9%) patients, respectively, and was successfully managed endovascularly in 8 and 1 of them, respectively. Primary patency, primary assisted patency and secondary patency at the end of the median imaging follow-up of 18.1 months were achieved in 29/42 (66.7%) patients, 33/42 (78.6%) patients and 37/42 (88.1%) patients, respectively. Villalta and CIVIQ-20 scores decreased from 14 and 57 at baseline, respectively, to 5 and 30 three months after the procedure, respectively (P < 0.0001), showing significant decrease in the severity of PTS and improvement in the quality of life.
+
+Despite optimal anticoagulant medication which is the gold standard DVT therapy, PTS remains a frequent complication of DVT and leads to significant morbidity, suffering and high health costs [17]. Endovascular treatment has become a widely accepted treatment option in chronic femoro-iliac venous obstructive lesions with high technical success rates, minimal complications and short hospital stay as compared with conventional surgical approach [18], [19], [20], [21], [22], [23], [24], [25]. Our results are in accordance with a meta-analysis including 1118 patients and reporting an immediate technical success rate of 96%, comparable with that of our series [3]. Moreover, in the present study we reported an 88.1% patency rate with a median follow-up of 18.1 months comparable with that of meta-analysis (94%) with a median follow-up of 15 months. Comparison of data between studies remains difficult because of imprecise definitions of short-, mid- and long-term patency.
+
+Despite easy endovascular management, early in-stent thrombosis within 1 month occurred in 9/42 (21.4%) patients, which is far away from the 2–10% rate reported in the literature [3], [18], [19], [20], [21], [22], [23], [24], [25], [26]. Several factors may explain this discrepancy. First, intravascular ultrasound was not used in our study to check final results, especially stents apposition. Its use is now more documented and recommended, providing better depiction of stent malposition and predicting clinical improvement [27]. Second, the type of stents used here may be questioned. Most studies used Wallstent™ (Boston Scientific), whereas others used various types of stents. We preferentially implanted two types of nitinol stent (Protege®GPS Self-Expanding Peripheral System or mainly Sinus-XL Flex® Stent or Sinus® Superflex-635; Optimed) because of their axial and longitudinal flexibility and high radial force [14], [28]. Although the results of venous stenting with nitinol stents are supposed to be comparable to those of series using Wallstent™, no comparative study exists in the literature. There is a growing need for dedicated endovascular devices to treat pathologies affecting the venous system. However, because of a lack of research into venous diseases and treatments, the optimal design, material, and mechanical properties of venous stents remain unknown. Third, the type of anticoagulation used in our series may have influenced short-term patency. Antithrombotic treatment is an integral part of endovascular procedure [29], [30], [31], [32], [33], [34], [35], [36]. There is no strong recommendation regarding the best treatment and its duration after venous procedure in standard patients. In this developing domain, it seems essential to estimate the effect of different post-operative drugs on the optimization of endovascular treatment. It is also important to balance the long-term risks of such a treatment with the potential benefits on stent patency.
+
+Very few studies combined Villalta score grading PTS severity and CIVIQ-20 score being relevant for quality of life grading in chronic venous disease [37], [38]. So far, no study has analyzed factors associated with quality of life in such a setting. Ye et al. reported a significant decrease of Villalta score from 22 at baseline to 9.3 after the endovascular procedure in accordance with our results (14 [range, 11–22] and 5 [range, 1–10], respectively]) [38]. Still, this study of life quality may be considered as irrelevant due to a partial analysis of CIVIQ-20. In the study from Sarici et al., Villalta score decreased from 18 (range, 7–30) at baseline to 8 (range, 4–19) at 3 months and CIVIQ-20 (expressed in GIS) increased from 64 (range, 50–75) to 81 (range, 63–90), corroborating our data [37]. To our knowledge, our study is the first one showing first that both baseline Villalta and CIVIQ-20 scores, age and stenting expanse were independent factors associated with post-procedural Villalta score, and second that baseline Villalta was the only independent factor associated with post-procedural CIVIQ-20 score. It highlights our belief that these two scores should be seen as complementary for the evaluation of PTS patients.
+
+Our study has some limitations because of its retrospective nature. First, the variety and heterogeneity of stents used could have impacted on the mid-term outcomes. Second, some LET class I–II patients were treated in this study. It is now well known that such patients should not be treated because outcomes are poorer. Third, calf and thigh circumferences were not considered, it could have strengthened the objectivity of edema decrease.
+
+In conclusion, this study confirms the high technical and clinical success rates and the favorable mid-term outcomes of femoro-iliac venous angioplasty/stenting in PTS patients with symptomatic chronic venous obstructive lesions. It highlights the significant impact of recanalization on the severity of PTS and the quality of life of patients at 3 months. Indeed, the study demonstrates that endovascular treatment can lead to a decrease of the severity of PTS with quality-of-life improvement. Further studies are needed to determine the best timing for intervention and the best stent to be used in order to provide the best results. Long-term follow-up studies are also warranted.

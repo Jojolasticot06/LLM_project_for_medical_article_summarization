@@ -1,0 +1,1140 @@
+Introduction 
+
+Treatments provided to severely ill or injured patients 
+in intensive care units (ICUs) have increased patient 
+survival [1–3]. Yet, current use of less sedation makes 
+patients more awake [4], alert, and prone to bothersome 
+symptoms. A more focused attention to patients’ 
+symptoms may be the first step to improving recovery 
+after ICU treatment or, when treatments fail, to providing 
+a more peaceful death. As symptoms, by definition, 
+are perceived experiences, providing patients the 
+
+opportunity to report their symptoms is the gold standard 
+for symptom assessment [5]. 
+
+Recent studies have described various symptoms and 
+discomforts in a variety of ICU populations [6, 7]. However 
+some studies have only evaluated a single symptom 
+or symptom intensity which does not capture the complexity 
+of symptoms; some use retrospective designs, particularly 
+problematic when attempting to elicit patients’ 
+real-time experiences [6–9]. Other studies had extensive 
+exclusion criteria, reducing the potential to generalize 
+results to the general ICU patient population [10]. Overall, 
+studies reporting symptoms from the first days in 
+the ICU are scarce [8, 11]. ICU admissions are stressful 
+in nature and associated with unclear clinical situations, 
+several procedures, and therefore potentially represent a 
+high risk of unrelieved symptoms [12–14]. 
+
+Over 10 years ago, Puntillo and colleagues assessed the 
+prevalence, intensity and distress of ten symptoms in a 
+heterogeneous group of ICU patients, laying the groundwork 
+for future, more extensive symptom studies [11]. 
+What is unknown is the current status of ICU patient 
+symptom experiences and factors that can potentially 
+predict the intensity of certain symptoms [11, 15]. Therefore, 
+the main aim of this study was to describe several 
+dimensions (i.e., prevalence, intensity and distress) of five 
+symptoms recommended for daily assessment [16] (i.e., 
+thirst, pain, anxiousness, tiredness, shortness of breath) 
+in a heterogeneous ICU population, over seven days. The 
+secondary aim was to investigate associations between 
+intensity of the five symptoms and selected demographic 
+and clinical variables which we anticipated to be associated 
+with these symptoms over seven days. 
+
+Methods 
+
+Study design and setting 
+
+This prospective cohort study was conducted as a multicenter 
+observational study investigating symptoms in 
+ICU patients and long-term outcomes during the first 
+year after ICU admission (NCT 03714230). Patients were 
+consecutively recruited from six medical and surgical 
+ICU departments from two hospitals in Norway between 
+October 2018 and June 2020. 
+
+The study was performed in accordance with the 
+ethical principles for medical research as written in the 
+Declaration of Helsinki. Written informed consent for 
+study participation was obtained from patients or temporarily 
+from their family members until patients were 
+able to consent. Patients who died before self-consent 
+was obtained were retained in the study. Regional Committee 
+for Medical Research Ethics approved the study 
+(Approval number 2017/990-1), as did data protection 
+officers at the respectively hospitals. The present 
+
+Take-home message 
+Patients able to self- report experience a high and consistent symptom 
+burden during treatment in the intensive care unit. Routine 
+assessments of symptoms are warranted and clinicians should initiate 
+symptom relief measures to improve patient comfort. 
+
+study adheres to the reporting guidelines according to 
+Strengthening the Reporting of Observational Studies 
+in Epidemiology (STROBE) [17]. 
+
+Study population 
+
+ICU patients were included if they were above 18 years 
+of age and had one of these inclusion criteria; need 
+for mechanical ventilation (MV), need for continuous 
+vasoactive therapy or ICU stay greater than 24 h. 
+All patients that met the inclusion criteria were consecutively 
+enrolled in the study, and daily symptom 
+assessments were started immediately using self-report 
+when possible, or proxy-reporting by bed-side nurse. 
+If patients did not want to participate when they were 
+capable of self-report and give consent, all data on 
+these patients were deleted. Only patient self-reported 
+data were used in the present study. Patients were 
+excluded if they had a predefined cognitive deficit as 
+described in the medical chart (e.g., dementia), were 
+homeless, unable to read and write Norwegian, admitted 
+for organ preservation, or were re-admitted to the 
+ICU within 72 h. 
+
+Outcome 
+
+The study outcome was self-reported symptom information 
+measured on day one and during seven days 
+using the Patient Symptom Survey (PSS) [11]. Sample 1 
+contains patients with only symptom assessments from 
+day one; Sample 2 contains patients with assessments 
+during seven days (including day 1). First day in the 
+ICU was defined as the day of admission, or for those 
+who were admitted late in the afternoon, the following 
+day (first full day). 
+
+Data collection 
+
+Patient reported outcome measures (PROMs) on physical 
+and mental health information prior to ICU (pre-ICU 
+data) were retrieved from patients after their study inclusion 
+in the ICU. During the ICU stay patients were asked 
+to rate their symptoms once a day for seven days. Clinical 
+variables were retrieved from medical records. Either 
+patients or family members reported information about 
+patients’ demographics. 
+
+Pre-ICU data 
+
+Frailty was measured with Clinical Frailty Scale (CFS) 
+where patients gave a subjective judgement on their 
+health status prior to ICU admission [18]. Frailty is 
+described with nine classes, from very fit to terminally 
+
+ill. This tool has shown to be valid and reliable and easy 
+to use, even in young critically ill patients [19]. CFS was 
+divided into three categories: non-frail, pre-frail and frail 
+[20]. Charlson comorbidity index (CCI) was calculated 
+and used to determine patients’ pre comorbidity profile 
+[21]. 
+Patients’ levels of anxiety and depression prior to ICU 
+admission was measured using the Hospital Anxiety and 
+Depression Scale (HADS) [22]. The scale consists of 14 
+items, with two subscales including seven questions 
+each: HADS-Anxiety (HADS-A), and HADS Depression 
+(HADS-D). Both are scored with a Likert scale (0–3). 
+Total scores for each subscales range from 0 to 21. Each 
+subscale indicates states of anxiety or depression, with a 
+cut-off score = 
+8 indicate states of anxiety and depression 
+[23]. The HADS has shown good psychometric properties 
+in patients admitted in an acute medical unit in Norway 
+[24]. 
+
+Demographic and clinical data 
+
+Demographic data were age, sex, education, co-habitation 
+and work situation. Data on patient visitations from 
+family members (within four hours of assessment) and 
+medication use (i.e., opioids or sedatives, yes/no) administered 
+within six hours before assessment were collected 
+from medical charts. Level of alertness or agitation was 
+classified according to the Richmond Agitation-Sedation 
+Scale (RASS) completed during symptom assessments by 
+the study nurse [25]. For intensity of illness we collected 
+data on Simplified Acute Physiology Score II (SAPS II) 
+
+[26] from medical records. Data on type of ICU admission 
+(i.e., surgical or medical) and primary cause of ICU 
+admission (e.g., respiratory, circulatory, gastroenterological) 
+were collected from medical records in addition to 
+data on invasive mechanical ventilation (IMV) and non-
+invasive mechanical ventilation (NIV). 
+Symptom assessment 
+
+Symptoms were assessed using the PSS symptom 
+checklist, a ten-item list of symptoms developed from 
+the validated Edmonton Symptom Assessment Scale 
+and adjusted for ICU populations [11]. Puntillo and colleagues 
+tested face validity of the 10-item checklist in a 
+previous pilot study, and responders were able to differentiate 
+between symptoms and ranges of intensity and 
+distress [27]. Later, face validity was established when 
+delirious and nondelirious patients could differentiate 
+between the presence or absence of symptoms and 
+
+symptom intensity and distress [11]. For the present 
+study, we selected five symptoms (i.e., pain, thirst, anxiousness, 
+tiredness and shortness of breath) from the 
+original PSS to increase feasibility of data collection, 
+as recommended by Chanques et.al. [16]. The modified 
+checklist with five symptoms was pilot-tested for face 
+validity and feasibility in Norwegian ICU patients by 
+the research group. Patients were asked to score their 
+symptoms in the present moment. Intensity was measured 
+on a Likert scale from 0 to 10 (0 = 
+no intensity, 
+10 = 
+worst intensity possible) and distress from 0–10 
+(0 = 
+no distress, 10 = 
+the most distress possible). All 
+members of the research team were trained to ensure 
+consistency of symptom assessment and reporting. The 
+training was repeated during the data collection, to 
+ensure compliance with the procedure. 
+
+Statistical analyses 
+
+Categorical data are described as counts and percentages, 
+and continuous data are presented as mean and standard 
+deviation (SD) (normally distributed data) or median and 
+interquartile range (IQR) (data with skewed distribution). 
+
+As the same patients were able to report for up to seven 
+days and thus there were statistical dependent, we fitted 
+multivariate linear regressions models using the generalized 
+estimating equation (GEE) method. GEE allows for 
+randomly missing data at different time points, e.g. no 
+imputation is necessary [28]. 
+
+One model was fitted for each of the selected symptoms. 
+The models examined the associations between 
+each of the five symptoms (i.e., thirst, pain, anxiousness, 
+tiredness and shortness of breath) as the dependent variables 
+and the same list of possible predictive factors (i.e., 
+age, sex, SAPS II, CCI, Frailty score, primary cause of 
+ICU admission, type of ICU admission, HADS-A total 
+score, HADS-D total score, level of education, MV treatment, 
+analgesic administration, sedative administration, 
+visits during ICU stay). The selection of these possible 
+predictive factors was based on empirical and clinical 
+considerations, and determined by consensus of the 
+research team. 
+
+Our selected covariates and outcome variables were 
+assessed over seven days. GEE models estimate the 
+overall impact of a covariate assessed over a given 
+time period on the outcome averaged over the same 
+time period. Thus, we estimated an average effect of a 
+covariate on an average level of the outcome. 
+
+Each symptom was coded zero if a patient did not 
+have the symptom, and any assessment above zero 
+(1–10) was coded as the symptom intensity. Further, 
+all symptom assessments during seven days were collapsed 
+to one mean intensity score for each patient. 
+In step one, univariate analyses were performed for 
+
+Fig. 1 Flow diagram Fig. 1 Flow diagram 
+all independent variables. In step two, variables with 
+p-values = 
+0.10 from the univariate analyses were 
+included in the multivariate models, and the models 
+were further adjusted for age and gender [29]. 
+The results from the GEE models are presented with 
+regression coefficients (estimated ß with 95% confidence 
+intervals (CI)). P-values less than 0.05 were 
+considered statistically significant in the multivariate 
+models. Statistical analyses were performed using 
+SPSS 28 for Windows (IBM SPSS, Chicago, IL, USA). 
+
+Results 
+
+Patient characteristics 
+
+In total, 1234 patients were eligible for inclusion, and 
+603 met the inclusion criteria. Of these, 195 patients 
+could self-report symptoms the first ICU day (sample 1), 
+and 353 patents could self-report symptoms one or several 
+times during their ICU stay (sample 2) (Fig. 1), and 
+thereby constitutes the two samples in the present study. 
+For the seven days assessments, median age was 63 years 
+(IQR 48–73), 60.3% were males, and the majority of these 
+patients had a medical reason for admission (63.5%). 
+There were 38.8% treated with IMV and 22.4% with NIV. 
+Of the IMV patients, 18 were orally intubated during 
+symptom assessments, five of them providing full symptom 
+assessments (prevalence, intensity, distress) and 13 
+patients were able to report only presence of symptoms 
+(yes/no). The most frequent causes of ICU admission 
+
+were respiratory (21.5%), circulatory (17.6%) and gastroenterological 
+(16.7%) failure. Median ICU length of stay 
+was 2.8 (IQR 1.7–5.2) days, and median SAPS II score 
+was 38 (IQR 28–50). Sample 1 and Sample 2 were similar 
+concerning clinical and demographic variables except 
+for primary cause of ICU admission and time on IMV 
+(Table 1). 
+
+Prevalence, intensity and distress of symptoms on the first 
+day in ICU (study sample 1) 
+
+During the first day in the ICU, 195 patients were able 
+to self-report symptoms (Table 2). Thirst was the most 
+prevalent symptom (66%) and had the highest mean 
+intensity score (6.13, 95%CI [5.7–6.56]). Anxiousness 
+was the least prevalent symptom (24%), but it had the 
+highest mean distress score (5.24, 95%CI [4.32–6.15]). 
+
+Prevalence, intensity and distress of symptoms during seven 
+days (study sample 2) 
+
+During seven days, 353 patients self-reported symptoms 
+668 times (median 2 assessments per patient) 
+(Table 2). The majority of patients were discharged 
+before day three (median ICU lenght of stay (LOS): 
+2.8 days) explaining the low number of assessments 
+per patients. 
+
+Thirst was the most prevalent (64%) and most intense 
+(6.05, 95%CI [5.81–6.3]) symptom. Anxiousness was 
+
+Table 1 Demographic and clinical characteristics the first day in the ICU (study sample 1) and during seven days (study 
+sample 2) 
+
+Study sample 1, n 195 Study sample 2, n 353 
+n(%) Median (IQR) n(%) Median (IQR) 
+Clinical data 
+
+Age, years 195 (100) 64 (48–73) 353 (100) 63 (48–73) 
+Gender, male 112 (57.4) 213 (60.3) 
+CCI, total score 195 (100) 4 (2–6) 353 (100) 4 (1–6) 
+Malignancya 53 (27.2) 100 (28.3) 
+COPDb 43 (22.1) 81 (22.9) 
+Diabetesc 37 (19) 73 (20.6) 
+Congestive heart failure 36 (18.5) 66 (18.7) 
+SAPS II, total score 189 (96.9) 36 (25.5–45.5) 347 (98.3) 38 (28–50) 
+Missing 6 (3.1) 6 (1.7) 
+Frailty score 
+Non frail 95 (48.7) 180 (51) 
+Pre frail 35 (17.9) 53 (15) 
+Frail 25 (12.8) 40 (11.3) 
+Missing 40 (20.5) 80 (22.7) 
+Cause of ICU admission 
+
+Medical 145 (74.4) 224 (63.5) 
+Surgical planned/acute 50 (25.6) 129 (36.5) 
+Primary cause of ICU admission 
+Respiratory 39 (20) 76 (21.5) 
+Circulatory 47 (24.1) 62 (17.6) 
+Gastroenterological 27 (13.8) 59 (16.7) 
+Otherd 38 (19.5) 50 (14.2) 
+Trauma 18 (9.2) 38 (10.8) 
+Sepsis 17 (8.7) 34 (9.6) 
+Neurological 9 (4.6) 34 (9.6) 
+Outcome variables 
+
+Invasive mechanical ventilation, days 36 (18.5) 0.7 (0.2–1.4) 137 (38.8) 1.9 (0.6–4.5) 
+Non- invasive ventilation, days 51 (26.2) 0.3 (0.1–0.9) 79 (22.4) 0.5 (0.1–1.1) 
+ICU LOS, days 195 (100) 2 (1.3–3.5) 353 (100) 2.8 (1.7–5.2) 
+Hospital LOS, days 195 (100) 9 (5–16.6) 353 (100) 10.5 (6.2–19.2) 
+Demographic variables 
+
+Co-habitation 
+
+Living with partner 112 (57.4) 212 (60.1) 
+Living alone 50 (25.6) 77 (21.8) 
+Living in institution 4 (2.1) 6 (1.7) 
+Missing 29 (14.9) 58 (16.4) 
+
+Level of education 
+
+Primary or secondary 102 (52.3) 179 (50.7) 
+College or university 63 (32.3) 115 (32.6) 
+Missing 30 (15.4) 59 (16.7) 
+Work situation 
+
+Disabled, unemployed or sick leave 41 (21.0) 78 (22.1) 
+Working fulltime or part-time 55 (28.2) 96 (27.2) 
+Retired 70 (35.9) 121 (34.3) 
+
+Missing 29 (14.9) 58 (16.4) 
+
+CCI Charlson comorbidity index, ICU intensive care unit, LOS length of stay, SAPS simplified acute physiology score. Categorical data are presented as number (%) and 
+continuous data are presented as median (interquartile range). IQR, presented with 25–75% percentile 
+
+Table 1 (continued) 
+
+a 
+
+Any leukaemia, lymphoma or localized or metastatic tumor 
+b Chronic Obstructive Pulmonary disease 
+
+Uncomplicated or end organ damage 
+d Primary cause- other: metabolic, haematological, kidney injury and postoperative 
+
+the symptom with the lowest prevalence (25%) during 
+seven days but with the highest mean distress 
+score (5.46, 95%CI [4.95–5.98]). Pain had the lowest 
+mean intensity score (4.61, 95%CI [4.31–4.9]) and 
+tiredness the lowest mean distress score (3.5, 95%CI 
+[3.13–3.87]). 
+
+Associations between intensity and possible predictive 
+factors (study sample 2) 
+
+The results from the multivariate GEE analysis of possible 
+predictive factors for all five symptoms are listed in 
+Tables 3a–e. The GEE model for thirst intensity revealed 
+that both a sepsis diagnosis (B = 
+1.71 95%CI [0.58–2.84]) 
+and analgesic administration (B = 
+0.88, 95%CI [0.18– 
+1.59]) were associated with increased thirst intensity 
+(Table 3a). 
+
+Increased age (B =- 
+0.04, 95%CI [- 
+0.07 to - 
+0.02]) 
+was associated with decreased pain intensity. Receiving 
+MV was associated with lower pain intensity scores 
+(B =- 
+0.9, 95%CI [- 
+1.48 to - 
+0.32]), and analgesic 
+administration during the last six hours before symptom 
+assessment was associated with higher pain intensity 
+scores (B = 
+1, 95%CI [0.49–1.5]) (Table 3b). 
+
+Having visits from family membersduring ICU stay 
+was associated with more anxiousness (B = 
+0.64, 95%CI 
+[0.04–1.24]) (Table 3c). Female sex was associated with 
+increased shortness of breath (B = 
+0.56, 95%CI [0–1.11]) 
+
+Table 2 Prevalence, intensity and distress in the ICU 
+
+(Table 3e). None of the selected possible predictive factors 
+were associated with the intensity of tiredness in the 
+multivariate analyses (Table 3d). 
+
+Discussion 
+
+The main finding of the present study was that the 
+patients reported a consistently high symptom burden for 
+up to seven days of ICU stay. The most prevalent symptom 
+was thirst, followed by tiredness, pain, shortness 
+of breath and anxiousness. Thirst was the most intense 
+symptom, while being anxious was the most distressing 
+symptom. Indeed, the almost equal symptom intensity 
+score of 5 for all symptoms is believed to depict at least a 
+moderate degree of intensity [30]. 
+
+Previous thirst studies have reported thirst prevalence 
+from 70% to 76% [11, 31–33], versus 64–67% in 
+the present study. We found mean intensity thirst score 
+to be 6.13 for each of the seven days. Different scales 
+have been used to measure intensity scores for thirst 
+in different studies. Puntillo et al. found a mean intensity 
+scores at 2.16 of 3 [11], while a study by Negro et al. 
+found a mean intensity score of 5.4 of 10 for thirst [33]. 
+It is a paradox that thirst is the most prevalent and most 
+intense symptom in ICU patients and still not routinely 
+assessed or treated. One study found that oral care only 
+affected the perception of thirst for one hour, underscoring 
+the importance of offering frequent relief of thirst 
+
+Symptoms Presence 
+n(%) 
+Mean* intensity 95%CI** Mean* 
+distress 
+95%CI** 
+Prevalence, intensity and distress the first day in the ICU (n = 
+195 patients, study sample 1) 
+
+Thirst 129 (66) 6.13 5.70–6.56 4.98 4.29–5.67 
+Tiredness 125 (64) 5.83 5.41–6.25 3.38 2.67–4.10 
+Pain 71 (36) 5.06 4.50–5.61 5.11 4.37–5.86 
+Shortness of breath 62 (32) 5.59 4.97–6.21 4.90 3.96–5.84 
+Anxiousness 46 (24) 5.93 5.31–6.55 5.24 4.32–6.15 
+Prevalence, intensity and distress during 7 days (n = 
+353, study sample 2***) 
+Thirst 425 (64) 6.05 5.81–6.30 4.75 4.39–5.12 
+Tiredness 422 (64) 5.77 5.55–5.99 3.50 3.13–3.87 
+Pain 241 (36) 4.61 4.31–4.90 4.90 4.51–5.29 
+Shortness of breath 237 (36) 5.33 5.02–5.64 5.08 4.64–5.51 
+
+Anxiousness 165 (25) 5.96 5.57–6.35 5.46 4.95–5.98 
+
+*Mean intensity score 0–10, mean distress score 0–10 
+**Unadjusted estimate 
+***Study sample 2: 668 assessments from n = 
+353 patients 
+
+Table 3 Results from the multivariate GEE analysis of possible predictive factors for all five symptoms 
+
+Univariate analysis n 353 Multivariate analysis n 335 
+B 95%CI p value B 95%CI p value 
+a. GEE model thirst intensity in ICU patients able to self-report symptoms during 7 days in the ICU 
+Age 0.00 - 
+0.02 0.02 0.737 0.01 - 
+0.02 0.03 
+
+Sex 
+
+Reference = 
+male 
+
+Female 0.53 - 
+0.21 1.28 0.162 0.57 - 
+0.13 1.27 0.111 
+SAPS II 0.01 - 
+0.01 0.04 0.330 
+CCI, total score 0.00 - 
+0.10 0.11 0.935 
+Frailty 
+Reference = 
+all other 
+Pre frail - 
+0.15 - 
+1.32 1.02 0.803 
+Frail - 
+0.69 - 
+0.62 1.99 0.304 
+Primary cause of ICU admission 
+Reference = 
+all other 
+Circulatory 0.17 - 
+0.84 1.19 0.736 
+Gastroenterological - 
+0.18 - 
+1.06 0.69 0.685 
+Neurological - 
+0.34 - 
+1.47 0.78 0.552 
+
+Sepsis 1.86 0.70 3.02 0.002 1.71 0.58 2.84 
+
+Trauma - 
+0.42 - 
+1.55 0.71 0.463 
+
+Other* - 
+1.13 - 
+2.04 - 
+0.21 0.015 - 
+0.81 - 
+1.72 0.11 
+
+Type of ICU admission 
+
+Reference = 
+medical 
+
+Surgical - 
+0.07 - 
+0.80 0.66 0.854 
+HADS Anxiety, total score 0.09 - 
+0.03 0.22 0.148 
+HADS Depression, total score 0.11 - 
+0.04 0.26 0.142 
+Level of education 
+
+Reference = 
+lower - 
+0.08 - 
+0.88 0.73 0.855 
+
+IMV + 
+NIV during ICU 
+
+Reference = 
+no 0.25 - 
+0.50 1.00 0.508 
+
+Analgesic iv/po during ICU 
+
+Reference = 
+no 0.84 0.12 1.56 0.022 0.88 0.18 1.59 0.014 
+Sedative iv during ICU 
+Reference = 
+no 0.51 - 
+0.22 1.23 1.169 
+Visit during ICU 
+Reference = 
+no 0.24 - 
+0.50 0.98 0.517 
+
+b. GEE model pain intensity in ICU patients able to self-report symptoms during 7 days in the ICU 
+Age - 
+0.03 - 
+0.04 - 
+0.01 < 0.001 - 
+0.04 - 
+0.07 - 
+0.02 
+
+Sex 
+
+Reference = 
+male 
+
+Female 
+SAPS II 
+0.09 
+- 
+0.01 
+- 
+0.39 
+- 
+0.03 
+0.58 
+0.00 
+0.707 
+0.087 
+0.08 
+0.01 
+- 
+0.39 
+- 
+0.01 
+0.55 
+0.03 
+0.751 
+0.245 
+CCI, total score - 
+0.09 - 
+0.17 0.00 0.053 0.08 - 
+0.05 0.21 0.221 
+Frailty 
+Reference = 
+all other 
+Pre frail - 
+0.32 - 
+1.05 0.42 0.402 
+Frail 0.14 - 
+0.81 1.10 0.766 
+Primary cause of ICU admission 
+Reference = 
+all other 
+
+Circulatory - 
+0.10 - 
+0.70 0.51 0.759 
+
+Table 3 (continued) 
+
+Univariate analysis n 353 Multivariate analysis n 335 
+B 95%CI p value B 95%CI p value 
+Gastroenterological - 
+0.03 - 
+0.66 0.61 0.937 
+Neurological - 
+0.24 - 
+1.12 0.64 0.591 
+Sepsis 0.39 - 
+0.59 1.37 0.435 
+
+Trauma 0.73 0.00 1.47 0.051 0.43 - 
+0.43 1.29 0.325 
+Other* - 
+0.11 - 
+0.75 0.52 0.724 
+Type of ICU admission 
+Reference = 
+medical 
+Surgical 0.13 - 
+0.36 0.62 0.606 
+HADS Anxiety, total score 0.04 - 
+0.05 0.13 0.431 
+HADS Depression, total score 0.01 - 
+0.09 0.11 0.859 
+Level of education 
+
+Reference = 
+lower 0.50 - 
+0.04 1.03 0.068 0.12 - 
+0.40 0.64 
+
+IMV + 
+NIV during ICU 
+
+Reference = 
+no - 
+0.61 - 
+1.12 - 
+0.11 0.018 - 
+0.90 - 
+1.48 - 
+0.32 
+
+Analgesic iv/po during ICU 
+
+Reference = 
+no 0.97 0.51 1.43 < 0.001 1.00 0.49 1.50 < 0.001 
+
+Sedative iv during ICU 
+
+Reference = 
+no 0.42 - 
+0.05 0.89 0.081 0.10 - 
+0.41 0.60 0.703 
+Visit during ICU 
+Reference = 
+no 0.24 - 
+0.25 0.73 0.335 
+
+c. GEE model anxiousness intensity in ICU patients able to self-report symptoms during 7 days in the ICU 
+Age - 
+0.01 - 
+0.03 0.01 0.219 - 
+0.01 - 
+0.03 0.01 
+
+Sex 
+
+Reference = 
+male 
+
+Female 0.38 - 
+0.18 0.94 0.186 0.22 - 
+0.34 0.77 0.446 
+SAPS II - 
+0.01 - 
+0.03 0.00 0.107 
+CCI, total score - 
+0.04 - 
+0.11 0.04 0.383 
+Frailty 
+Reference = 
+all other 
+Pre frail 0.30 - 
+0.51 1.11 0.462 
+Frail - 
+0.46 - 
+1.10 0.18 0.161 
+Primary cause of ICU admission 
+Reference = 
+all other 
+Circulatory - 
+0.26 - 
+0.96 0.43 0.457 
+Gastroenterological 0.05 - 
+0.57 0.68 0.868 
+Neurological 0.12 - 
+0.88 1.12 0.810 
+Sepsis 0.07 - 
+1.00 1.15 0.896 
+Trauma 0.12 - 
+0.91 1.15 0.823 
+Other* 0.24 - 
+0.49 0.97 0.515 
+Type of ICU admission 
+Reference = 
+medical 
+Surgical 0.12 - 
+0.43 0.68 0.665 
+HADS Anxiety, total score 
+HADS Depression, total score 
+Level of education 
+Reference = 
+lower 
+IMV + 
+NIV during ICU 
+0.09 
+0.02 
+0.06 
+0.00 
+- 
+0.11 
+- 
+0.48 
+0.18 
+0.14 
+0.60 
+0.055 
+0.819 
+0.831 
+0.08 0.00 0.17 0.060 
+
+Reference = 
+no 0.50 - 
+0.02 1.01 0.060 0.51 - 
+0.06 1.08 0.079 
+
+Table 3 (continued) 
+
+Univariate analysis n 353 Multivariate analysis n 335 
+B 95%CI p value B 95%CI p value 
+Analgesic iv/po during ICU 
+
+Reference = 
+no 0.24 - 
+0.29 0.76 0.377 
+
+Sedative iv during ICU 
+
+Reference = 
+no 0.41 - 
+0.12 0.94 0.127 
+
+Visit during ICU 
+
+Reference = 
+no 0.49 - 
+0.07 1.04 0.084 0.64 0.04 1.24 
+
+d. GEE model tiredness intensity in ICU patients able to self-report symptoms during 7 days in the ICU 
+Age 0.00 - 
+0.02 0.02 0.901 0.00 - 
+0.02 0.02 0.763 
+
+Sex 
+
+Reference = 
+male 
+
+Female 
+SAPS II 
+CCI, total score 
+Frailty 
+Reference = 
+all other 
+Pre frail 
+Frail 
+Primary cause of ICU admission 
+Reference = 
+all other 
+- 
+0.04 
+0.00 
+0.05 
+0.09 
+0.40 
+- 
+0.66 
+- 
+0.02 
+- 
+0.05 
+- 
+0.87 
+- 
+0.59 
+0.58 
+0.02 
+0.15 
+1.06 
+1.39 
+0.896 
+0.873 
+0.360 
+0.850 
+0.430 
+0.10 - 
+0.53 0.73 0.758 
+Circulatory 
+Gastroenterological 
+Neurological 
+Sepsis 
+Trauma 
+Other* 
+Type of ICU admission 
+Reference = 
+medical 
+- 
+0.72 
+0.41 
+- 
+0.20 
+0.47 
+- 
+0.12 
+0.23 
+- 
+1.47 
+- 
+0.38 
+- 
+1.42 
+- 
+0.57 
+- 
+1.06 
+- 
+0.66 
+0.03 
+1.19 
+1.01 
+1.50 
+0.82 
+1.12 
+0.060 
+0.309 
+0.744 
+0.744 
+0.803 
+0.610 
+- 
+0.67 - 
+1.44 0.10 0.087 
+
+Surgical 0.52 - 
+0.10 1.13 0.100 0.27 - 
+0.41 0.96 0.435 
+HADS Anxiety, total score 0.04 - 
+0.07 0.14 0.501 
+HADS Depression, total score 0.08 - 
+0.04 0.19 0.178 
+Level of education 
+Reference = 
+lower 0.26 - 
+0.40 0.92 0.447 
+IMV + 
+NIV during ICU 
+Reference = 
+no 0.09 - 
+0.53 0.71 0.777 
+Analgesic iv/po during ICU 
+
+Reference = 
+no 0.58 - 
+0.02 1.18 0.056 0.48 - 
+0.17 1.13 0.150 
+Sedative iv during ICU 
+Reference = 
+no 0.46 - 
+0.14 1.07 0.135 
+Visit during ICU 
+Reference = 
+no 0.29 - 
+0.33 0.91 0.359 
+
+e. GEE model shortness of breath intensity in ICU patients able to self-report symptoms during 7 days in the IC 
+Age 0.01 - 
+0.01 0.02 0.533 0.01 - 
+0.01 0.02 0.448 
+
+Sex 
+
+Reference = 
+male 
+
+Female 0.52 - 
+0.04 1.09 0.069 0.56 0.00 1.11 0.048 
+SAPS II 0.00 - 
+0.01 0.02 0.687 
+CCI, total score 0.05 - 
+0.05 0.15 0.351 
+
+Frailty 
+Table 3 (continued) 
+
+Univariate analysis n 353 Multivariate analysis n 335 
+B 95%CI p value B 95%CI p value 
+Reference = 
+all other 
+
+Pre frail 0.35 - 
+0.48 1.17 0.414 
+
+Frail 0.52 - 
+0.44 1.48 0.291 
+
+Primary cause of ICU admission 
+
+Reference = 
+all other 
+
+Circulatory - 
+0.37 - 
+1.07 0.32 0.293 
+Gastroenterological 0.32 - 
+0.61 1.25 0.499 
+Neurological - 
+0.24 - 
+1.07 0.58 0.563 
+Sepsis 0.23 - 
+0.81 1.27 0.663 
+Trauma - 
+0.44 - 
+1.26 0.38 0.295 
+
+Other* - 
+0.46 - 
+1.17 0.25 0.209 
+
+Type of ICU admission 
+
+Reference = 
+medical 
+
+Surgical - 
+0.03 - 
+0.61 0.55 0.923 
+HADS Anxiety, total score 0.02 - 
+0.07 0.11 0.656 
+HADS Depression, total score 0.01 - 
+0.09 0.11 0.808 
+Level of education 
+
+Reference = 
+lower - 
+0.39 - 
+0.94 0.16 0.167 
+
+IMV + 
+NIV during ICU 
+
+Reference = 
+no 0.48 - 
+0.06 1.03 0.082 0.49 - 
+0.05 1.02 0.076 
+Analgesic iv/po during ICU 
+Reference = 
+no - 
+0.05 - 
+0.60 0.50 0.854 
+Sedative iv during ICU 
+Reference = 
+no 0.41 - 
+0.13 0.96 0.139 
+Visit during ICU 
+Reference = 
+no 0.46 - 
+0.11 1.03 0.113 
+
+CCI Charlson comorbidity index, HADS hospital anxiety and depression scale, ICU intensive care unit, LOS length of stay, IMV invasive mechanical ventilation, NIV non-
+invasive mechanical ventilation, SAPS simplified acute physiology score 
+
+*Univariate analysis results with p < 0.1 and multivariate analysis results p < 0.05 (except for age and gender) 
+
+[34]. Simple thirst bundles have shown to be efficient in 
+increasing patient comfort [8, 35, 36]. Therefore, routine 
+thirst assessment and treatment should be implemented 
+in daily care [8, 37, 38]. 
+
+Analgesic administration was associated with higher 
+thirst intensity in this study. This finding is similar to 
+a study by Stotts et al. that found thirst presence to be 
+predicted by high opioid doses [15]. However, Lin et al. 
+found that use of opioids was not a risk factor for thirst 
+[31]. This discrepancy may be that different doses of opioids 
+were used for pain management or that thirst was 
+managed differently in those two studies. 
+
+A surprising, and unexplained, result was that the diagnosis 
+of sepsis was associated with increased thirst intensity. 
+We could not investigate the effect of patient’s fluid 
+balance on thirst due to incomplete data. However, Stotts 
+
+et al. found no statistically significant differences in fluid 
+balance between patients who reported thirst and those 
+who did not [15]. 
+
+Anxiousness was the least prevalent symptom in 
+the present study, but it had the highest mean distress 
+scores. According to the theory of unpleasant symptoms 
+(TOUS), distress is the degree to which the person 
+is bothered by a symptom [39]. This finding reinforces 
+the importance of investigating multiple dimensions 
+of symptoms and appreciate psychological aspects of a 
+patient’s symptom experience. 
+
+Surprisingly, we found that receiving visits from family 
+members was associated with higher intensity score 
+for anxiousness. In contrast, a recent systematic review 
+and meta-analysis found that flexible visiting hours might 
+reduce anxious symptoms [40]. Others found that being 
+
+separated from family members were patients’ second 
+most stressful experience [10]. We noted visits from family 
+members in the four hours prior to data collection. 
+Possibly patients felt more anxious after family had left, 
+and this experience was associated with increased scores 
+of anxiousness, or that anxious patients were those who 
+had most visits. Another reason may be that patients 
+have witnessed family members being worried by seeing 
+the patients as sick. Because of this, the patient’s feeling 
+of anxiousness increased. However, our unexplained 
+finding about family visits should not encourage limitation 
+of family visits, but should be further explored in 
+future studies. 
+
+Pain was reported by 36% of the patients in the present 
+study, and patients who received analgesics reported 
+higher pain intensity score than patients without such 
+medications. One study found that being given opioids 
+prior to a procedure was a risk factor for higher procedural 
+pain intensity [12]. Yet, a recent study of procedural 
+pain found contrary results [41]. We had only information 
+about analgesic administered within six hours prior 
+to pain assessment. Therefore, it is possible that pain had 
+increased in the time between administration of analgesics 
+and symptom assessments, the administration could 
+have been too close to the symptom assessment, or the 
+pain treatments could be inadequate. We also found that 
+patients on MV reported less pain intensity. This finding 
+is consistent with a recent study of ICU patients in Norway 
+[41]. In the present study, 66% of the patients on MV 
+received analgesics (data not shown), suggesting an association 
+between MV and pain beyond the administration 
+of analgesics. However, this relationship needs further 
+exploration. 
+
+Finally, we found that higher age was associated with 
+less pain intensity. This finding is compatible with recent 
+studies of ICU patients [14, 41]. However, two other studies 
+showed conflicting results, where higher age was not 
+associated with less pain intensity, for procedural pain 
+and for critically ill patients [42, 43]. In summary, study 
+populations and pain management practices differ, perhaps 
+accounting for different results. 
+
+Breathlessness is frequently reported as a distressing 
+symptom by ICU patients and was reported by one third 
+of the patients. Further, it is associated with anxiety in 
+MV patients [44, 45]. Female sex was the only possible 
+predictive factor associated with shortness of breath. 
+
+Strength and limitations 
+
+The study has some limitations. The symptoms were 
+only assessed once a day; therefore, we do not know 
+if there were variations of symptoms throughout 24 h. 
+Further, using the same list of possible predictive factors 
+in the GEE models limited our investigation of 
+
+possible predictive factors specific to each symptom. 
+Other factors may be investigated that explore treatment 
+and nursing actions such as fluid balance, fluid 
+restrictions and mobilization and the impact of symptoms 
+on each other. Since this was a selected cohort of 
+patients able to self-report symptoms one or several 
+times during seven days, the result from the present 
+study may not be generalized to all ICU patients. Nevertheless, 
+we collected data prospectively from a large, 
+heterogeneous sample of adult ICU patients in several 
+ICUs and had a longer follow up of up to seven days. 
+
+Conclusions 
+
+Our study found that self-reporting ICU patients experienced 
+a high and consistent symptom burden across 
+seven days. Thirst was the most prevalent and intense 
+symptom, but the other symptoms examined were also 
+high in intensity. Certain factors are associated with 
+the degree of symptom intensity and distress. Further 
+research is warranted to better understand these associations 
+and investigate symptom relief measures.

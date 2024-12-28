@@ -1,0 +1,21 @@
+BACKGROUND: Omega-3 and acetylsalicylic acid (ASA) are two widely used 
+"over-the-counter" drugs. Previous research has shown multiple electrode 
+aggregometry (MEA) can detect ASA and varying Omega-3 platelet inhibiting 
+effects. Synergistic platelet inhibiting effects of ASA and Omega-3 have been 
+found using other methods than MEA. The aim of this study was to investigate the 
+antiplatelet effects of Omega-3, and ASA synergism with MEA.
+METHODS: Ten healthy male volunteers ingested Omega-3 (1260 mg/day) for 5 days. 
+MEA was used to analyse platelet function before and after Omega-3 intake. 
+Aggregation was initiated using three different agonists and measured as area 
+under the curve (AUC): adenosine diphosphate (ADP), thrombin receptor activating 
+peptide (TRAP) and arachidonic acid (ASPI). Two concentrations of ASA were dose 
+titrated ex vivo to 2 out of 3 ASPI test cells in order to measure synergism 
+between Omega-3 and ASA.
+RESULTS: Following 5 days Omega-3 intake, ADP, TRAP and ASPI AUC did not change 
+significantly. In vitro ASA before Omega-3 intake, reduced ASPI AUC < 30 U, 
+indicating a strong platelet inhibiting effect. Below this AUC level, the 5 days 
+Omega-3 intake increased ASPI-AUC with the ex vivo added low dose ASA (P = 0.02) 
+and high dose ASA (P = 0.04).
+CONCLUSIONS: No synergism between ASA and Omega-3 was found using the MEA ASPI 
+test. The surprising increase in ASPI-AUC following Omega-3 intake and ex vivo 
+ASA suggest that there are methodological issuses with the MEA ASPI test.

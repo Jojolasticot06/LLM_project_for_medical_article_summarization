@@ -1,0 +1,32 @@
+Antibody persistence and safety after heterologous boosting with orally 
+aerosolised Ad5-nCoV in individuals primed with two-dose CoronaVac previously: 
+12-month analyses of a randomized controlled trial.
+
+1/Antibody persistence and safety up to 12 months of heterologous orally 
+administered adenovirus type-5 vector-based COVID-19 vaccine (Ad5-nCoV) in 
+individuals who were primed with two-dose inactivated SARS-CoV-2 vaccine 
+(CoronaVac) previously, has not been reported yet. 
+
+2/This randomized, open-label, 
+single-centre trial included Chinese adults who have received two-dose CoronaVac 
+randomized to low-dose or high-dose aerosolised Ad5-nCoV group, or CoronaVac 
+group. In this report, we mainly evaluated the geometric mean titres (GMTs) of 
+neutralizing antibodies (NAbs) against live wild-type SARS-CoV-2 virus and 
+omicron BA.4/5 pseudovirus at 12 months after the booster dose and the incidence 
+of serious adverse events (SAEs) till month 12. Of 419 participants, all were 
+included in the safety analysis and 120 (28.64%) were included in the 
+immunogenicity analysis. 
+
+3/Serum NAb GMT against live wild-type SARS-CoV-2 was 
+204.36 (95% CI 152.91, 273.14) in the low-dose group and 171.38 (95% CI 121.27, 
+242.19) in the high-dose group at month 12, significantly higher than the GMT in 
+the CoronaVac group (8.00 [95% CI 4.22, 15.17], p < 0.0001). Serum NAb GMT 
+against omicron BA.4/5 pseudovirus was 40.97 (95% CI 30.15, 55.67) in the 
+low-dose group and 35.08 (95% CI 26.31, 46.77) in the high-dose group at month 
+12, whereas the GMT in the CoronaVac group was below the lower limit of 
+detection. No vaccine-related SAEs were observed. 
+
+4/Orally administered 
+aerosolised Ad5-nCoV following two-dose CoronaVac priming has a good safety 
+profile and is persistently more immunogenic than three-dose CoronaVac within 12 
+months after the booster dose.

@@ -1,0 +1,9 @@
+Impact of body composition in advanced hepatocellular carcinoma: A subanalysis of the SORAMIC trial
+
+1/Background: Body composition parameters have been reported to be prognostic factors in patients with oncologic diseases. However, the available data on patients with HCC are conflicting. The aim of this study was to assess the impact of body composition on survival in patients with HCC treated with sorafenib or selective internal radioembolization (SIRT) and sorafenib.
+
+2/Methods: This is an exploratory subanalysis of the prospective, randomized controlled SORAMIC trial. Within the palliative arm of the study, patients were selected if a baseline abdominal CT was available. A broad set of skeletal muscle and adipose tissue parameters were measured at the L3 level. Low skeletal muscle mass (LSMM) and density parameters were defined using published cutoffs. The parameters were correlated with overall survival.
+
+3/Results: Of 424 patients in the palliative study arm, 369 patients were included in the analysis. There were 192 patients in the combined sorafenib/SIRT and 177 patients in the sorafenib group. Median overall survival was 9.9 months for the entire cohort and 10.8 and 9.2 months for the SIRT/sorafenib and sorafenib groups, respectively. There was no relevant association of either body composition parameter with overall survival in either the overall cohort or in the SIRT/sorafenib or sorafenib subgroups.
+
+4/Conclusions: This subanalysis of the prospective SORAMIC trial does not suggest a relevant influence of body composition parameters of survival in patients with advanced HCC. Body composition parameters therefore do not serve in patient allocation in this palliative treatment cohort.

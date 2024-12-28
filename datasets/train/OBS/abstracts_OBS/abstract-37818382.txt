@@ -1,0 +1,27 @@
+OBJECTIVES: Recent clinical studies have demonstrated that immunotherapy-based 
+neoadjuvant therapy have promising effectiveness for patients with resectable 
+non-small cell lung cancer (NSCLC) in terms of pathologic response. Therefore, 
+we performed this study to investigate whether immunotherapy-based neoadjuvant 
+therapy is effective and safe for patients with resectable NSCLC.
+MATERIALS AND METHODS: This open-label observational two-arm clinical study was 
+performed at Shanghai Chest Hospital in China with patients who had resectable 
+NSCLC and received two to three cycles of immunotherapy-based neoadjuvant 
+therapy or neoadjuvant chemotherapy alone, followed by surgical resection. The 
+primary endpoint was a major pathologic response (MPR). The secondary endpoints 
+include a complete pathological response (pCR), a radiologic response to 
+neoadjuvant therapy (TRR), event-free survival (EFS), and overall survival (OS).
+RESULTS: A total of 51 patients was included in this clinical study, of which 31 
+patients received immunotherapy-based neoadjuvant therapy and 20 patients 
+received neoadjuvant chemotherapy alone. The percentage of patients achieving a 
+major pathologic response was 41.9% with immunotherapy-based neoadjuvant therapy 
+and 15.0% (95% CI, 0.008 to 0.468; P = 0.043) with neoadjuvant chemotherapy 
+alone. The percentage of patients with pathologic complete response was 19.4% in 
+the immunotherapy-based group and 5% (95% CI, -0.069 to 0.318; P = 0.223) in the 
+chemotherapy group. The radiographic response rate was 71% after 
+immunotherapy-based neoadjuvant therapy and 60% (95% CI, -0.143 to 0.359; P = 
+0.417) after neoadjuvant chemotherapy. At a median follow-up of 28 months, the 
+median EFS and OS endpoints were not reached.
+CONCLUSIONS: Neoadjuvant immunotherapy offers a considerable advantage over 
+chemotherapy alone for resectable NSCLC in terms of the major pathologic 
+response. Moreover, it did not enhance the risk of adverse events or hinder 
+surgical resection.

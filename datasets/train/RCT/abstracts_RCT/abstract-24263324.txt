@@ -1,0 +1,13 @@
+A multisite randomized controlled trial of brief intervention to reduce drinking in the trauma care setting: how brief is brief?
+
+1/OBJECTIVE: Determine the efficacy of 3 brief intervention strategies that address heavy drinking among injured patients.
+BACKGROUND: The content or structure of brief interventions most effective at reducing alcohol misuse after traumatic injury is not known.
+
+2/METHODS: Injured patients from 3 trauma centers were screened for heavy drinking and randomly assigned to brief advice (n = 200), brief motivational intervention (BMI) (n = 203), or BMI plus a telephone booster using personalized feedback or BMI + B (n = 193). Among those randomly assigned, 57% met criteria for moderate to severe alcohol problems. The primary drinking outcomes were assessed at 3, 6, and 12 months.
+
+3/RESULTS: Compared with brief advice and BMI, BMI + B showed significant reductions in the number of standard drinks consumed per week at 3 (Δ adjusted means: -1.22, 95% confidence interval [CI]: -0.99, approximately -1.49, P = 0.01) and 6 months (Δ adjusted means: -1.42, 95% CI: -1.14, approximately -1.76, 
+P = 0.02), percent days of heavy drinking at 6 months (Δ adjusted means: -5.90, 95% CI: -11.40, approximately -0.40, P = 0.04), maximum number of standard drinks consumed in 1 day at 3 (Δ adjusted means: -1.38, 95% CI: -1.18, approximately -1.62, P = 0.003) and 12 months (Δ adjusted means: -1.71, 95% CI: 
+-1.47, approximately -1.99, P = 0.02), and number of standard drinks consumed per drinking day at 3 (Δ adjusted means: -1.49, 95% CI: -1.35, approximately -1.65, P = 0.002) and 6 months (Δ adjusted means: -1.28, 95% CI: -1.17, approximately -1.40, P = 0.01).
+
+4/CONCLUSIONS: Brief interventions based on motivational interviewing with a telephone booster using personalized feedback were most effective at achieving reductions in alcohol intake across the 3 trauma centers.
+

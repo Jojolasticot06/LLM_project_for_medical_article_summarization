@@ -1,0 +1,101 @@
+Videogame assisted exercise training in patients with chronic obstructive pulmonary disease: A preliminary study
+Introduction
+Chronic obstructive pulmonary disease (COPD) is associated with breathlessness, reduced exercise capacity and poor health related quality of life (HRQL).1 In 2012, more than 3 million people died of COPD, accounting for 6% of deaths globally. The prevalence and mortality rate of COPD are forecast to increase due to the increasing number of smokers in developing countries and aging populations in high income countries.2, 3, 4 The latest reported COPD prevalence is 4.5% on an Indonesian population of about 260 millions.5, 6
+
+Exercise training is the core component of pulmonary rehabilitation programs with stronger evidence of effectiveness in improving exercise capacity, dyspnea, and HRQL than almost all other therapies for patients with COPD including those with very severe disease.7, 8 In many countries such as Indonesia, there are barriers to hospital based pulmonary rehabilitation such as high numbers of patients, costs and time of transportation, as well as geographical obstacles.9 Recently, there has been an increasing interest in the use of new tools to improve the effect and availability of exercise training for these patients,10 such as the use of pedometers11 and activities like Tai Chi,12 or Yoga13, 14 allowing “personalized” sequential levels of intervention.15
+
+Regionally, Southeast Asia is the fastest growing internet market in the world, which had 260 million users in 2016. As the fourth most populous country on earth, Indonesia possesses a large and fast-growing market for mobile technologies. In 2014, it was estimated that around 87% of households in Indonesia had a mobile phone and the number of smartphone users in Indonesia might reach as high as 96.2 million by the year 2021.16 In 2016, the Indonesian video game market was estimated to have almost reached US $ 700 million (around Indonesian Rupias 9.3 trillion). This number is likely to have been bigger at the end of 2017.17
+
+The use of interactive video games is widespread and also rapidly increasing in physical therapy and sports medicine facilities, including pulmonary rehabilitation.18, 19, 20, 21 We wondered whether a videogame system might add additional benefits to a standard exercise training program in patients with COPD.7 Therefore, the primary aim of this preliminary randomized controlled trial (RCT) was to evaluate the clinical effects of the addition of interactive video games with a Wii Fit balance board as a part of an exercise training program. As a secondary objective we compared the costs.
+
+Methods
+The protocol was approved by the Moewardi Hospital Research Ethics Committee 97/II/HREC/2014 and was registered at Clin Trial Gov NCT03567772. Signed informed consent was obtained from all patients.
+
+Study design
+In this RCT, subjects 22 were assigned to two groups by block randomization: the experimental group (EG) received a hospital-based outpatient exercise training program and a Wii Fit videogame program; the control group (CG) received only the same hospital-based outpatient exercise training program. Researchers evaluating results and patients were not blind to treatment. Patients maintained their usual drug medication according to accepted guidelines.1
+
+Patients
+Stable patients suffering from COPD as defined by the Global Initiative for chronic obstructive pulmonary disease (GOLD) guidelines,1 40–75 years old, were recruited from the outpatient clinic of Dr. Moewardi Hospital, Surakarta, Central Jawa, Indonesia, between February and March 2014. Patients were enrolled if in a stable clinical condition (no exacerbation during the four weeks prior to the study), signed the informed consent, and were able to follow the exercise training program. The exclusion criteria were: refusal to participate, current smoker, participation in an exercise training program during the previous 6 months, and severe concomitant comorbidities such as ischemic cardiac disease, chronic heart failure, uncontrolled hypertension, malignancy, orthopedic and/or neuromusculary diseases interfering with ability to walk. The dropout criteria were: acute exacerbation, and inability or unwillingness to continue the program.
+
+Setting
+Both programs were carried out in an exercise room which only allowed individual activities (Fig. 1).
+Exercise training
+At outpatient clinics patients of both groups received for six weeks, three weekly 30-minute individual sessions of supervised standard cycle exercise training according to the protocol suggested by Maltais et al.23 until achieving 30 min of continuous exercise at an intensity that elicited dyspnea at level 5 on the modified 10-point Borg scale.24 Oxygen pulse oximetry (SpO2), digital arterial blood pressure, pulse rate (HR) were also monitored.
+
+Video-game assisted program
+In addition to each session of exercise training, patients of EG were also given, on an individual basis, 30-minute sessions of the supervised video-game assisted program in a dedicated room equipped with a Wii, balance board, and flatscreen TV as shown in Fig. 1. The Wii fit program has more than 40 games activities designed for physical exercise, consisting of yoga, strength training, aerobics, and balance games to combine balance, fitness and strength tests. Wii provides the player with an on-screen virtual personal trainer, offering direction and evaluation. While standing or otherwise leaning on the Wii balance board, the player is instructed to perform the activity by imitating the virtual trainer's actions. The Wii fit has a feedback system to confirm compliance, including a score to be shown to the individuals to motivate them.
+
+The Wii balance board is a balance board accessory for Wii video games that simply measures weight and balance by means of four small sensors located in each corner. All participants played the same 3 different games per session according to Albores et al.25:
+1.
+Yoga with “deep breathing” and “half moon”: patients performed the breathing technique and held a particular pose or series of poses for 10 min.
+
+2.
+“Torso twist”: a strength training exercise, in which patients performed a set number of repetitions of the selected exercise.
+
+3.
+Aerobic exercise “free run”: the patients ran on the spot while keeping the connected Wii Remote in their pocket, which acts as a pseudo-pedometer.
+
+
+Initially, patients received one-to-one instruction on how to play each game. Patients were standing on the Wii balance board (except in “free run”). Duration of games, levels of difficulty and the score attained were all recorded.
+
+All adverse events were recorded. The training had to be stopped when one of the following signs was observed: pulse rate higher than the maximal as calculated by Karnoven formula,26 respiratory rate above 30/min, SpO2 below 90%.
+
+Measurements
+The following data were recorded on admission:
+Demographics and anthropometrics, time of first diagnosis, drug therapy.
+
+Dynamic lung volumes, assessed after bronchodilation and expressed as percent of predicted values according to the Pneumomobile Project Indonesia.27
+
+
+The following outcome measures before (T0) and after (T1) PRP were assessed:
+•
+Dyspnea was assessed by means of the baseline (BDI) and transitional (TDI) dyspnea index28: one point change in this scale is considered as the Minimum Clinically Important Difference (MCID) for this outcome.
+
+•
+The subjective sensation of dyspnea was evaluated also by means of the Medical Research Council (MRC) scale.29 A one-point change in the scale is considered the MCID by the MRC.30
+
+•
+Health related quality of life was assessed by means of the Saint George's Respiratory Questionnaire (SGRQ)31 translated by and under the guidance of a nurse not involved in the study. A 4-unit score reduction is considered to be the MCID for this outcome measure.32
+
+•
+Exercise tolerance was assessed by means of the six-minute walking test recording the distance reached (6MWD).33 The best of two consecutive performances (2 h apart) conducted in a 30-meter long and 3-meter wide corridor under quiet conditions and without distractive stimuli was recorded for analysis. The MCID of the test following exercise training in moderate to severe COPD was recently reported to be at least a 30-meter increase.33
+
+•
+The composite and multi-dimensional BODE (body-mass index, airflow obstruction, dyspnea, and exercise capacity) index was calculated for each patient.34 It has been shown that for every point increase in the BODE index there is a corresponding increase in mortality and that pulmonary rehabilitation participation improves BODE and is associated with better outcomes.35 For the purpose of the study we considered one point increase in BODE as MCID.
+
+
+Costs
+Costs per patient were estimated according to a modified calculation proposed by Goldstein et al.11, 36 The doctor consultations and doctor/nurse supervision during exercise training, medications, services, assistive devices, were collected from the hospital financial department staff. Patient transportation costs to and from the hospital were calculated based on bus ticket cost and multiplied by the number of patient's hospital visits. Hospital admissions due to exacerbations and unscheduled medical visits were not included.
+
+Statistical analysis
+The primary outcome measure was the 6MWD. Results are shown as mean (standard deviation) for continuous and as numbers (percentage frequency) for qualitative variables. To determine the standard sample size an earlier study37 was used showing a 70.4 (18.3) meter post-treatment mean increase in 6MWD. To obtain a 90% study power and an alpha error less than 5%, a minimum sample size of 12 patients completing the study was required in each group. To obtain this result we estimated an allocation sample size of 40 patients, considering a 20% drop out rate.
+
+Independent t test, Kruskall–Wallis H test, and X2 analyses for dichotomous variables were used when appropriate for comparison between groups to test any baseline difference. The two-way repeated measures ANOVA was carried out to compare the improvements of both groups. Chi-square test was used to compare categorical variables. A p-value less than 0.05 was considered as statistically significant. Analyses were performed using a specific package (SPSS for Windows latest version, Chicago, Illinois, USA).
+
+Results
+The CONSORT diagram of the study is shown in Fig. 2. This study involved 23 stable COPD outpatients. One patient in EG was excluded because of an exacerbation after the second week. Two patients in CG were excluded because of incomplete session times. Twenty patients completed the study (10 EG and 10 CG).
+As shown in Table 1, there were no significant differences in baseline characteristics of subjects between groups. Changes in outcome measures after exercise training in both groups are shown in Table 2. Six minute walking distance, TDI and SGRQ improved significantly in both groups without any significant difference between groups. BODE index and MRC did not change significantly in either group.
+As shown in Table 3, there were no significant differences in the proportion of patients reaching the MCID for any assessed outcome measure. The proportion of patients reaching MCID in 6MWD was greater than 60% in both groups.
+Table 4 shows the detailed costs of the programs for each individual patient. The costs of doctor consultations, doctor/nurse supervision of outpatient exercise training, and the costs of daily transportation were the same for the two groups. The median for grand total cost was 7.340.000 Indonesian Rupias (IDR) or 442 euros versus 2.340.000 IDR or 140.9 euros for EG and CG respectively (p = 0.0001). The grand total cost for EG was 5000 000 IDR or 301.1 euro more due to the price of the Wii system.
+Discussion
+This preliminary RCT investigated the routine feasibility and the clinical effects of the addition of a video-game assisted program to a standard exercise training program in patients with stable COPD in a very simple organizational context with limited available facilities. We found that the addition of this program using a Wii Fit balance board was feasible but in the given conditions did not add any benefits to and was more expensive than a standard exercise program.
+
+Mazzoleni et al.18 showed, in a routine setting, significantly greater improvement in 6MWD and TDI in patients also undergoing a shorter (seven days) video-game assisted program compared with patients undergoing just a standard pulmonary rehabilitation program, without any other substantial additional benefit. Albores et al.25 assessed the effects of virtual game technology on 20 patients with COPD undergoing a home-based exercise program. That uncontrolled study25 concluded that 12 weeks of Wii exercise led to significant improvement in exercise capacity, health status, and dyspnea. Our preliminary randomized controlled study confirms those results and adds the information about the greater costs of the program using the Wii Fit.
+
+Like the study by Mazzoleni et al.,18 in our study both groups improved 6MWD, TDI and HRQL but not MRC or BODE index. Under the conditions of this study TDI might be more sensitive in detecting changes in the level of dyspnea than MRC confirming that different tools measure somewhat different aspects of the same parameter such as dyspnea.
+
+Limitations of the study
+What might explain the reasons for the lack of additional benefit in our RCT?
+
+Our study has several limitations. First, an important limitation of the study we are aware of, our study was underpowered in regard to the sample size calculation which might have influenced the lack of statistical differences between the two groups.
+
+Second, we do not know the intensity of the strength maneouvers performed with Wii and whether the Wii exercises provided the minimal intensity to obtain a training effect. It has been shown that the combination of strength and endurance training seems a suitable training strategy for chronic obstructive pulmonary disease patients.38
+
+Third, the effect of the standard exercise training may have masked the effect of the additional video-game assisted exercise. There may also have been a ceiling effect.
+
+Fourth, our patients performed only exercise training. We are aware that this modality is not the only component of standard pulmonary rehabilitation 7and this limitation might have influenced the results. However, from the lack of additional benefits to exercise training alone observed in our study we can argue that a more structured and multidiciplinary program including other components in addition to exercise training would have not received additional benefit from the use of Wii. Might these results be due to the period of additional treatment? Fifth, patients and investigators were unblinded during the study. Nevertheless this bias, if any, would have favored the EG.
+
+Finally, the translation of SGRQ to Indonesian was not validated, but was common to all patients.
+
+In conclusion, this preliminary randomized controlled trial showed that the addition of a Wii Fit balance board based exercises were feasible, but in the given conditions did not add any benefits to, and were more expensive than a standard exercise program. More randomized controlled studies on greater sample sizes comparing this new tool with more structured multidisciplinary rehabilitation programs are needed to reach conclusions on the cost/effectiveness of this tool in emerging countries like Indonesia with limited facilities of care.
+

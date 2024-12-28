@@ -1,0 +1,705 @@
+Coronary artery disease (CAD) remains a leading cause 
+of death that increases with age independent from 
+traditional risk factors, thus influencing exploration of 
+nontraditional risks. Recent investigations suggest clonal 
+hematopoiesis (CH) of indeterminate potential (CHIP) may 
+play an important role as an age-dependent accelerator 
+of atherosclerosis.1,2 The accumulation of mutant somatic 
+clones arising from hematopoietic stem and progenitor cells 
+
+that constitute CHIP has been identified in genes central to 
+inflammatory regulation.3,4 Although the presence of CHIP 
+is less likely to result in hematologic malignancy, the risk for 
+CAD and all-cause mortality in patients with CHIP nearly 
+doubles with a likely pathogenic role in vascular disease.5 
+
+
+The vascular wall is a prime site exposed to the atherogenic 
+effects of inflammation and other risk mediators 
+that underly the development of CAD. Resulting 
+coronary microvascular dysfunction (CMD) is one of 
+the earliest detectable features of injury in atherogenesis 
+and a known feature of increased cardiovascular 
+risk.6 Invasive functional testing is used to characterize 
+small vessel injury that occurs by endotheliumindependent 
+or endothelium-dependent mechanisms 
+that impair vasodilation.7,8 In the absence of obstructive 
+CAD, CMD represents early vascular insult influenced 
+by the summation of circulating and hemodynamic risk 
+mediators.9 Impaired coronary microvascular tone in the 
+absence of obstructive CAD remains a hallmark finding 
+in early vascular aging. Specifically, a low coronary 
+flow reserve (CFR; generally considered CFR =2) in 
+CMD reflects predominant endothelium-independent 
+dysfunction and may indicate structural and functional 
+alterations in vascular smooth muscle cells with associated 
+impaired vasodilation, resulting in downstream 
+consequence to microvascular function. Patients with 
+low CFR are at risk for obstructive CAD, acute myocardial 
+infarction, and major adverse cardiovascular events 
+(MACEs).10,11 
+
+Our understanding of the role of CHIP in vascular 
+injury in humans remains unclear and continues to 
+evolve with emerging clinical evidence.12 Although clinical 
+observations have traditionally associated CHIP with 
+macrovascular complications such as obstructive CAD, 
+recent evidence in heart failure and cerebral vascular 
+disease suggests significant microvascular associations 
+likely influenced by alternate mechanistic pathways.13–15 
+Thus, we aimed to investigate the association between 
+CH and CHIP in CMD. The investigation selected a 
+unique cohort of patients with no CAD and CMD present 
+at the earliest stages of atherosclerotic vascular 
+injury. We hypothesized somatic mutations in leukemiaassociated 
+driver genes in hematopoietic stem and progenitor 
+cells (1) were associated with CMD and (2) may 
+
+METHODS 
+Ethical Statement and Data Availability 
+
+The Mayo Clinic Institutional Review Board approved the current 
+study. Written consent was obtained from all participants. 
+The study was conducted in accordance with the guidelines of 
+the Declaration of Helsinki. Reasonable requests for supportive 
+data are available by the corresponding author. 
+
+Study Population 
+
+Patients with chest pain and no known obstructive CAD, 
+history of angiogram, myocardial infarction, heart failure, or 
+known structural heart disease between the years 1993 and 
+2015 were referred for coronary angiogram at Mayo Clinic 
+in Rochester, Minnesota. If no CAD was confirmed during 
+angiogram (<40% stenosis of major coronary arteries), 
+participants were considered eligible for enrollment and a 
+functional coronary angiogram was then performed. For the 
+current retrospective investigation, 177 of these participants 
+with CMD and controls with no CMD were selected consecutively. 
+The total number of consecutive participants was 
+determined by funding available for primary and secondary 
+CHIP mutational analysis. 
+
+Invasive Coronary Function Testing 
+
+The study protocol has been described in detail elsewhere.
+8,16–18 Patients presenting to the catheterization laboratory 
+with nonobstructive coronary artery (<40% angiographic 
+stenosis in major vessels) underwent invasive coronary functional 
+testing using an intracoronary Doppler guidewire. A 
+
+Doppler guidewire (0.014-inch FloWire; Philips/Volcano, Inc) 
+was advanced 2 to 3 mm distal to the tip of 2.2F coronary 
+infusion catheter (Ultrafuse; SciMed Life System) positioned 
+into the mid-portion of the left anterior descending artery. 
+In all patients, acetylcholine was selectively infused into the 
+left anterior descending artery at concentrations of 10-6, 
+10-5, and 10-4 mol/L over 3 minutes at each concentration. 
+Doppler measurements were obtained after each infusion. 
+Coronary artery diameter was measured in segment 5 mm 
+distal to the tip of the Doppler wire. The percentage change 
+in epicardial coronary artery diameter in response to acetylcholine 
+was measured and recorded at the proximal, mid, and 
+distal left anterior descending artery. Endothelium-dependent 
+microvascular function was derived from calculations of coronary 
+blood flow (CBF): p×average peak velocity×coronary 
+artery radius. Percentage change in CBF was calculated as 
+a percentage increase in CBF following infusion of intracoronary 
+acetylcholine. Incremental doses of intracoronary adenosine 
+as consecutive boluses of 24 to 72 µg until maximal 
+hyperemia were achieved. CFR was determined by the ratio 
+of maximal hyperemia with intracoronary adenosine and basal 
+flow at rest. CFR =2 was consistent with a clinical diagnosis 
+of CMD associated with cardiovascular disease and MACE as 
+described previously.8,13,18–20 
+
+Clinical and Biochemical Data 
+
+Demographic and clinical characteristics were obtained 
+through medical record, history, and physical examination as 
+described previously.17,21 Patients were given the option to voluntarily 
+disclose race and ethnic data for documentation in 
+their medical record. Categories of race were suggested by 
+the medical institution, and it requested participants of Middle-
+Eastern or North-African descent to identify as White people. 
+Stored venous blood collected within 2 weeks before coronary 
+angiogram was used for routine biochemical, cytokine, and 
+CHIP analysis. Buffy coat and plasma samples extracted from 
+whole blood were used for the collection of DNA. A standardized 
+follow-up questionnaire sent at one time point assessed 
+the incidence of hematologic malignancy MACE (myocardial 
+infarction, revascularization for stable angina, percutaneous 
+coronary intervention or coronary artery bypass grafting, and 
+stroke). Self-reported data were independently adjudicated 
+and confirmed by patient electronic medical record by an 
+independent investigator. 
+
+Detection of CH by Targeted Capture Assays 
+
+DNA was extracted from buffy coat samples following the 
+procedures in the Qiagen Puregene kit. We sequenced the 
+entire coding regions of 35 genes using a customized 150-kb 
+Agilent SureSelect panel. Samples were paired-end sequenced 
+(150-bp reads), using Illumina HiSeq 4000 sequencer with 
+96 samples per lane of flow cell. The median coverage depth 
+per sample across the 35 genes was >1000× per nucleotide, 
+allowing the detection of mutations with variant allele fraction 
+(VAF) as low as 1%. 
+
+Primary Bioinformatics Analysis 
+
+The paired reads of targeted sequencing are mapped to human 
+genome reference (Hg38) using BWA (Burrows-Wheeler 
+
+Aligner; http://bio-bwa.sourceforge.net/bwa.shtml), duplicate 
+reads are marked using picard (https://broadinstitute.github. 
+io/picard/), mutations are called using genomic analysis toolkit 
+(GATK; https://gatk.broadinstitute.org/hc/en-us) by 3 steps: 
+base recalibration, haplotype caller, and variant quality score 
+recalibration. Finally, mutations are annotated with databases 
+ClinVar (http://www.clinvar.com/), dbSNP (https://www.ncbi. 
+nlm.nih.gov/pmc/articles/PMC29783/), and 1000 Genomes 
+(https://www.internationalgenome.org/). 
+
+Secondary Bioinformatics Analysis 
+
+A quality assessment and alignment to the hg38 reference 
+genome using Novoalign (Novocraft Technologies, Malaysia) 
+was conducted, followed by GATK-based variant calling 
+(https://gatk.broadinstitute.org/hc/en-us). To enrich for 
+somatic variant discovery, we utilized GATK somatic caller 
+Mutect2 in the tumor-only mode to locally assemble and 
+align variants against the GnomAD database (https://gnomad.
+broadinstitute.org), followed by the Mpileup and VarScan 
+(http://www.htslib.org/) analysis to compare to Mutect2. 
+Each variant was then functionally annotated using open-
+source tools—SnpEff (http://pcingola.github.io/SnpEff), 
+GATK-associated SAVANT, ClinVar (https://www.ncbi.nlm. 
+nih.gov/clinvar), dbSNP (https://www.ncbi.nlm.nih.gov/snp), 
+OMIM (https://www.omim.org), and Ensembl (http://useast. 
+ensembl.org)—to predict biological effects. 
+
+Defining CH Mutations 
+
+CHIP is defined by the presence of somatic mutations in 
+leukemia-associated driver genes in hematopoietic stem and 
+progenitor cells with the potential to expand over time, with 
+VAFs of =2%.22–26 The 2% cutoff in VAF was used as it represented 
+the lower limit of detection for somatic variants by 
+clinically available next-generation sequencing assays.24–26 
+Recently, significant advances in sequencing assays (using 
+unique molecular identifiers and error-corrected sequencing) 
+with higher depth coverage are now capable of detecting 
+somatic mutations at VAF <0.01%. Most commonly, clinically 
+relevant findings using advanced assays with high-depth 
+reads have been reported at VAF =1%.27,28 
+
+With respect to both the traditional definition of CHIP 
+and increasing scientific confidence in clinically significant 
+somatic mutations detected at VAF =1% with the assay used 
+in the current study, we examined the presence of CHIP in 
+our cohort at (1) VAF =2% and (2) performed a subanalysis 
+of CH at VAF =1%.27,28 
+
+Variants exhibited a minor allele frequency of =0.1% in 
+the Exome Aggregation Consortium Project8—a database of 
+known nonsomatic variants (ExAC; http://exac.broadinstitute.
+org/)—and were present in the Catalogue of Somatic 
+Mutations in Cancer (https://cancer.sanger.ac.uk/cosmic) 
+database. Variants below the minor allele threshold and not 
+present in the Catalogue of Somatic Mutations in Cancer were 
+considered variants of uncertain significance. We excluded 
+all variants of uncertain significance from this analysis. The 
+absence of hematologic malignancy was confirmed before 
+study enrollment by hematologic data and thereafter by 
+patient survey. No documented hematologic malignancy was 
+present among participants with CHIP at study enrollment or 
+last follow-up. Details regarding hematologic characteristics 
+
+and variant allele calling of observed CHIP and CH are 
+described in Tables S1 and S2. 
+
+Statistical Analysis 
+
+Continuous variables that follow a normal distribution are 
+expressed as mean±SD, and variables with a skewed distribution 
+are expressed as mean (interquartile range). For comparison 
+of quantitative variables between 2 groups, the Student 
+t test was performed for normally distributed variables and 
+Mann-Whitney U test (or the Kruskal-Wallis test) for non-normally 
+distributed data. Variable distribution was tested using 
+a Shapiro-Wilk test. Categorical variables were expressed as 
+frequencies (%) and analyzed between different groups by a 
+.2 test. We consistently regarded a P value <0.05 as statistically 
+significant. 
+
+A hypothesis model illustrating CH as a mediator for MACE 
+in CMD is presented in Figure 1. To elucidate this relationship, 
+we first examined the association between CMD and CHIP 
+using a .2 test. Logistic regression was performed to assess 
+the likelihood of CHIP in CMD. A multivariate Cox regression 
+model adjusted for age and sex was performed to observe the 
+association between both CMD and MACE. If >1 MACE was 
+observed in one participant, only the first event was included 
+in the regression analyses. A mediation analysis using the 
+Monte Carlo method examined the association between CMD 
+as an exposure, MACE as an outcome, and CHIP as a mediator 
+between CMD and MACE. The relationship between CH 
+and CMD was studied in the same manner. All analyses were 
+performed using the STATA software (Stata Press, 2019; 
+StataCorp, College Station, TX) and GraphPad Prism 9.0 
+(GraphPad Software, La Jolla, CA). 
+
+RESULTS 
+Baseline Characteristics in CMD 
+
+A total of 177 eligible participants were examined. 
+Case participants with CMD defined by CFR =2 (n=19) 
+were compared with controls with no CMD and CFR 
+>2 (n=61). Mean follow-up was 12±7 years. Table 1 
+
+summarizes baseline clinical, demographic, and biochemical 
+characteristics between case participants with and 
+without CMD. Cases with CMD were age 56±9 years 
+and 68% of women, which was similar to controls (53±0 
+years, P=0.230; 74% women, P=0.600). The body mass 
+index in the studied cohort was significantly lower among 
+those with CMD (median, 24 [22–30]) compared with 
+those without CMD (median, 29 [25–32]; P=0.022). 
+There was no significant difference in other traditional 
+cardiovascular risk factors or lipid profiles between the 2 
+groups. Measures from invasive coronary reactive testing 
+in the CMD group, such as a median percentage change 
+in coronary artery diameter of -13 and percentage 
+change in CBF of 30, were similar when compared with 
+the control group with no CMD (percentage change in 
+coronary artery diameter: median, -10 [P=0.436]; percentage 
+change in CBF: median, 29 [P=0.609]). 
+
+Baseline Characteristics in CH 
+
+CHIP was characterized by somatic mutations in 
+myeloid-associated driver oncogenes in the absence 
+of hematologic malignancy and was observed along a 
+mutational spectrum using a sequencing assay with a 
+median sample depth read 1000 per nucleotide capable 
+of detecting small clones. Along this spectrum, a total of 
+17 participants had CHIP at VAF =2% and 28 had CH 
+at VAF =1% (Table S1). 
+
+CHIP in CMD 
+
+First, we examined patients with somatic mutations 
+aligning with the conventional definition of CHIP at 
+VAF =2% (Table 2). Mutations were most common in 
+DNMT3A (n=9), TET2 (n=3), and STAG2 (n=2). Carriers 
+of CHIP were older than those with no CHIP (age, 
+61±2 versus 52±9; P<0.001) and mostly female (73% 
+versus 76%; P=0.769). One participant had 2 mutations 
+
+Figure 1. A proposed model illustrating how clonal hematopoiesis may mediate preexisting risk for adverse cardiovascular 
+outcomes in patients with early coronary artery disease.
+
+ MACE indicates major adverse cardiovascular event. 
+
+Table 1. Baseline Characteristics Among Participants Stratified 
+by the Presence of CMD 
+
+Characteristics 
+No CMD 
+(n=158) CMD (n=19) P value 
+Age, y 53±10 56±9 0.230 
+Female sex, n (%) 117 (74) 13 (68) 0.600 
+Race, n (%) 0.877 
+American Indian/ 
+Alaskan native 
+1 0 
+White 145 18 
+Declined to disclose 12 1 
+Ethnicity 0.844 
+Hispanic or Latin(x) 2 0 
+Not Hispanic or 
+Latin(x) 
+112 13 
+Declined to disclose 44 6 
+BMI, kg/m2 29 (25 to 32) 24 (22 to 30) 0.022 
+Systolic blood pressure, 
+mmHg 
+121 (112 to 132) 126 (108 to 
+140) 
+0.420 
+Diastolic blood pressure, 
+mmHg 
+75 (70 to 80) 73 (70 to 80) 0.618 
+Diabetes, n (%) 19 (12) 1 (5) 0.379 
+Hypertension, n (%) 67 (42) 7 (37) 0.642 
+Hyperlipidemia, n (%) 91 (58) 13 (68) 0.365 
+Smoking, n (%) 
+Never 95 (60) 8 (42) 0.132 
+Previous 50 (32) 10 (53) 0.068 
+Current 13 (8) 1 (5) 0.651 
+Total cholesterol, mg/dL 180 (162 to 210) 184 (149 to 214) 0.854 
+HDL-C, mg/dL 54 (44 to 64) 59 (45 to 78) 0.287 
+LDL-C, mg/dL 101 (83 to 121) 93 (63 to 129) 0.614 
+Triglycerides, mg/dL 108 (75 to 143) 114 (87 to 173) 0.537 
+eGFR, mL/min per 
+1.73 m2 
+74 (65 to 86) 65 (59 to 77) 0.061 
+Aspirin, n (%) 93 (59) 12 (63) 0.719 
+ß-Blocker, n (%) 56 (35) 8 (42) 0.568 
+Lipid-lowering therapy, 
+n (%) 
+71 (45) 11 (58) 0.285 
+.CAD, % -13 (-29 to -4) -10 (-23 to 8) 0.436 
+.CBF, % 30 (-19 to 99) 29 (8 to 102) 0.609 
+CFR 2.85 (2.5 to 3.2) 1.9 (1.6 to 2) <0.001 
+CHIP, n (%) 13 (9) 4 (27) 0.028 
+CH, n (%) 20 (13) 8 (42) 0.001 
+
+Data are expressed as mean±SD for continuous variables with a normal distribution 
+and median (interquartile range) for continuous variables with skewed 
+distributions. .CAD indicates change in coronary artery diameter; .CBF, change 
+in coronary blood flow; BMI, body mass index; CFR, coronary flow reserve; CH, 
+clonal hematopoiesis; CHIP, clonal hematopoiesis of indeterminate potential; 
+CMD, coronary microvascular dysfunction; eGFR, estimated glomerular filtration 
+rate; HDL-C, high-density lipoprotein cholesterol; and LDL-C, low-density lipoprotein 
+cholesterol. 
+
+in DNMT3A (Table S3). Both carriers of CHIP and those 
+without CHIP had similar frequencies of cardiovascular 
+comorbidities. 
+
+A total of 27% participants with CMD had CHIP 
+(versus 9% CHIP in those without CMD; P=0.028; 
+Table 1). Participants with CMD were 3.86× more 
+likely to have CHIP than those without CMD (odds 
+ratio [OR], 4.09 [95% CI, 1.01–16.41]; P=0.048) in a 
+multivariate analysis controlled for age and sex. CHIP 
+in TET2 or DNMTA3 specifically did not appear more 
+likely among participants with CMD compared with 
+those without CMD (Table 3) and were not significantly 
+more likely to experience MACE (Table S4). Using the 
+Monte Carlo method to test mediation, CHIP did not 
+meet statistical criteria to suggest a role in mediating 
+MACE in CMD (Table S5). 
+
+CH in CMD 
+
+Next, smaller somatic clones at VAF =1% were considered 
+cases with CH and compared with controls with no 
+CH (Table 2). CH was present in a total of 28 participants. 
+Mutations were commonly observed in DNMT3A 
+(n=16), TET2 (n=5), PPM1D (n=3), and ASXL1 (n=2; 
+Figure 2; Table S1). Three total participants had >1 
+CH, including coexisting mutations in ASXL1+TET2, 
+DNMT3A+DNMT3A, and DNMT3A+STAG2. Each of 
+the 3 patients with >1 CH had CMD and 2 experienced 
+MACE (Table S3). Participants with >1 CH were included 
+only once for all analyses. 
+
+Carriers of CH were significantly older (60±8 
+versus 52±9; P<0.001) and did not have significant 
+variation in sex distribution (75% versus 73%; 
+P=0.839) compared with those with no CH. There 
+was no significant difference in cardiovascular 
+comorbidities between these 2 groups. CFR was 
+significantly lower among CH carriers (2.3 [2.1–2.8] 
+versus 2.8 [2.4–3.2]; P=0.001). 
+
+CH at VAF =1% occurred in 42% of patients with 
+CMD (versus 10% with CHIP; P=0.001). Those with 
+CMD had CH in mostly TET2 (n=3) and DNMT3A (n=3). 
+Other genes with CH in participants with CMD included 
+PPM1D (n=1) and PTPN11 (n=1; Table S2). 
+
+Regression analyses further investigated the significant 
+association between CMD and CHIP. The odds of 
+CH were 5× greater in those with CMD versus those 
+with no CMD in a univariate logistic regression analysis 
+(OR, 5.02 [95% CI, 1.58–13.89]; P=0.002). When 
+age and sex were included as covariates, the odds of CH 
+in CMD remained consistent (OR, 4.94 [95% CI, 1.58– 
+15.44]; P=0.006; Table 4; Table S6). 
+
+The odds of CH in the 2 most frequent genes with 
+CH in CMD, TET2 and DNMT3A, were examined. Participants 
+with CH in TET2 were at ˜19× greater risk 
+to have CMD compared with those with no CMD (OR, 
+
+18.82 [95% CI, 2.84–125]; P=0.002). We did not 
+observe significant odds of CMD among participants 
+with CH in DNMT3A (OR, 3.42 [95% CI, 0.04–0.15]; 
+P=0.089; Table 4). 
+
+Table 2. Baseline Characteristics Among Participants With CHIP or CH 
+
+Characteristics 
+Presence of CHIP Presence of CH 
+No CHIP 
+(n=149) CHIP (n=17) P value No CHIP (n=49) CHIP (n=28) P value 
+Age, y 52±9 61±2 <0.001 52±9 60±8 <0.001 
+Female sex, n (%) 109 (73) 13 (76) 0.769 109 (73) 21 (75) 0.839 
+Race 0.418 0.240 
+American Indian/Alaskan 
+native 
+1 0 13 0 
+White 135 17 135 28 
+Declined to disclose 13 0 13 0 
+Ethnicity 0.505 0.543 
+Hispanic or Latin(x) 2 0 2 0 
+Not Hispanic or Latin(x) 103 14 103 22 
+Declined to disclose 44 3 44 6 
+BMI, kg/m2 29 (24 to 32) 26 (23 to 29) 0.086 29±6 28±5 0.278 
+Systolic blood pressure, 
+mmHg 
+120 (110 to 132) 125 (120 to 130) 0.559 
+Diastolic blood pressure, 
+mmHg 
+75 (70 to 81) 70 (64 to 78) 0.071 
+Diabetes, n (%) 17 (11) 2 (12) 0.965 17 (11) 3 (11) 0.916 
+Hypertension, n (%) 60 (40) 7 (41) 0.942 60 (40) 14 (50) 0.341 
+Hyperlipidemia, n (%) 84 (56) 11 (64) 0.511 84 (56) 20 (71) 0.139 
+Smoking, n (%) 
+Never 88 (59) 9 (52) 0.628 88 (57) 15 (50) 0.474 
+Previous 48 (32) 7 (41) 0.457 48 (31) 12 (40) 0.348 
+Current 13 (9) 1 (6) 0.689 13 (8) 1 (3) 0.337 
+Total cholesterol, mg/dL 182 (161 to 210) 171 (162 to 184) 0.369 186±40 181±38 0.519 
+HDL-C, mg/dL 53 (43 to 65) 62 (50 to 75) 0.120 56±17 60±21 0.199 
+LDL-C, mg/dL 103 (82 to 123) 95 (85 to 100) 0.276 105±34 100±35 0.509 
+Triglycerides, mg/dL 109 (80 to 159) 93 (73 to 146) 0.560 135±116 109±47 0.253 
+eGFR, mL/min per 1.73 m2 74 (65 to 86) 78 (61 to 82) 0.850 77±17 75±16 0.595 
+Aspirin, n (%) 86 (11) 11 (65) 0.580 86 (58) 19 (68) 0.319 
+ß-Blocker, n (%) 56 (38) 6 (35) 0.853 56 (38) 8 (29) 0.365 
+Lipid-lowering therapy, n (%) 64 (42) 11 (65) 0.088 64 (43) 18 (64) 0.038 
+.CAD, % -12 (-27 to -4) -8 (-15 to 0) 0.241 -16±18 -19±19 0.446 
+.CBF, % 33 (-10 to 100) 8 (-10 to 99) 0.626 52±89 28±65 0.176 
+CFR 2.8 (2.4 to 3.2) 2.3 (2.1 to 2.8) 0.001 2.89±0.66 2.44±0.61 0.001 
+
+Continuous data with a normal distribution are expressed as mean±SD; skewed distributions are presented as median (interquartile range). .CAD 
+indicates change in coronary artery diameter; .CBF, change in coronary blood flow; BMI, body mass index; CFR, coronary flow reserve; CH, clonal 
+hematopoiesis; CHIP, clonal hematopoiesis of indeterminate potential; eGFR, estimated glomerular filtration rate; HDL-C, high-density lipoprotein cho
+lesterol; and LDL-C, low-density lipoprotein cholesterol. 
+
+With a larger case group of participants with CH at VAF 
+=1%, we then tested the hypothesis that CH mediates 
+risk for MACE in patients with CMD. First, the association 
+between MACE and both CMD and CH was tested 
+with a multivariate Cox regression model (Table 5). A univariate 
+analysis confirmed a 3-fold greater risk for MACE 
+among participants with either CMD (hazard ratio, 3.28 
+[95% CI, 1.09–9.86]; P=0.034) or CH (hazard ratio, 3.00 
+[95% CI, 1.19–7.55]; P=0.020). Similarly, a multivariate 
+Cox regression controlled for age and sex suggested an 
+
+increased risk for MACE among those with CMD (hazard 
+ratio, 3.89 [95% CI, 1.21–12.56]; P=0.023) and CH 
+(hazard ratio, 3.03 [95% CI, 1.15–8.05]; P=0.025; Table 
+S7). The risk for MACE among participants with CH was 
+independent from age and sex. Kaplan-Meier curves 
+illustrate the relationship between CMD versus no CMD 
+and CH versus no CH with MACE (Figure 3). 
+
+To then elucidate the role of CH in CMD and MACE, 
+we utilized a conceptual model to test the hypothesis that 
+CH mediates MACE in CMD. Mediation analysis by the 
+
+Table 3. Odds That Patients With CMD May Have CHIP 
+
+CMD 
+OR 95% CI P value 
+Univariate 
+CHIP 3.86 1.08–13.85 0.038 
+CHIP in TET2 6.27 0.53–74.74 0.146 
+CHIP in DNMT3A 4.18 0.75–23.22 0.102 
+Multivariate 
+CHIP* 4.08 1.01–16.41 0.048 
+
+CHIP indicates clonal hematopoiesis of indeterminate potential; CMD, coronary 
+microvascular dysfunction; and OR, odds ratio. 
+
+*Independent association when age and sex are covariates. 
+
+Monte Carlo method assessed significant full mediation 
+effect of CHIP on MACE in CMD (38 units). Approximately 
+32% of risk for MACE in CMD was mediated by 
+CH. In other words, the mediated risk of CH was ˜0.5× 
+as large as the direct effect of endothelium-independent 
+CMD on MACE (Table 6). 
+
+DISCUSSION 
+
+The present study observes a significant relation-
+ship between low CFR and the presence of CHIP in 
+a unique cohort of patients with nonobstructive CAD 
+and early coronary atherosclerotic injury. Additionally, 
+CH appears to mediate >30% of the risk for MACE in 
+patients with CMD. 
+
+First, we confirmed a strong association between 
+CHIP and coronary microvascular disease at the earliest 
+stages of coronary atherosclerosis observed by 
+invasive functional coronary angiography as the gold 
+standard evaluation. Importantly, our findings distinguish 
+a strong relationship between CHIP and low 
+CFR present at the earliest atherogenesis, which has 
+not yet been observed in humans. These findings add 
+value to previous observations associating CHIP with 
+more advanced CAD and suggest that the presence 
+of CHIP precedes advanced atherosclerosis and can 
+
+be identified in patients with the earliest detectable 
+signs of coronary atherosclerotic injury. While this 
+observation in coronary microvasculature is the first in 
+humans, other studies continue to support an association 
+between CHIP and extracoronary microvascular 
+disease.15,24,29,30 Interestingly, observations in cerebrovascular 
+disease support an association with CHIP and 
+cerebral small vessel stroke rather than large vessel 
+stroke.15,31,32 CMD is well known to precede epicardial 
+CAD and is thus considered an early feature of coronary 
+atherosclerosis. Our findings suggest CH mediates 
+32% of the risk for MACE in patients with CMD 
+in the absence of epicardial CAD. Additional studies 
+would be required to determine whether the cardiovascular 
+risk associated with CHIP stems from its association 
+with CMD that contributes to epicardial CAD 
+rather than epicardial CAD itself. 
+
+Second, our findings suggest CH may account for 
+nearly one-third of the risk for MACE in CMD. It is now 
+well supported that both CMD defined by CFR =2 and 
+the presence of CHIP each independently increase 
+the risk for adverse cardiovascular outcomes; however, 
+a relationship between the two has previously been 
+unknown.2,3,32–34 The present study confirms the association 
+between CMD and CHIP with eventual MACE and 
+identifies CH at VAF =1% as a mediator that underlies 
+nearly one-third of the adverse cardiovascular outcomes 
+in CMD. 
+
+Finally, our observations associating CHIP in TET2 and 
+CMD remain consistent with previous observations implicating 
+CHIP in other cardiovascular disease. Regarding 
+CMD, it is known hat TET2 coordinates vascular smooth 
+muscle cell integrity that becomes impaired in patients 
+with low CFR.35–38 Clonal expansion of somatic mutations 
+in TET2 in either asymptomatic patients or among 
+those with CAD have been strongly linked to risk for 
+future cardiovascular events.5,39,40 Associations drawn 
+from CANTOS (Canakinumab Antiinflammatory Thrombosis 
+Outcome Study) suggest mediating blockade 
+of cytokines related to the NLRP3 (nod-like receptor 
+
+Figure 2. Clonal hematopoiesis gene mutations and their frequency of occurrence in patients with coronary microvascular 
+dysfunction. 
+
+
+Table 4. Odds That Patients With CMD May Have CH Table 5. Adjusted Cox Regression for MACE for CH in CMD 
+
+CMD 
+OR 95% CI P value 
+Univariate 
+CH 5.02 1.58–13.89 0.002 
+CH in TET2 18.82 2.84–125 0.002 
+CH in DNMT3A 3.42 0.04–0.15 0.089 
+Multivariate 
+CH* 4.94 1.58–15.44 0.006 
+
+MACE 
+HR 95% CI P value 
+Univariate 
+CMD 3.28 1.09–9.86 0.034 
+CH 3.00 1.19–7.55 0.020 
+Multivariate 
+CMD* 3.89 1.21–12.56 0.023 
+CH* 3.03 1.15–8.05 0.025 
+
+family pyrin domain containing 3) inflammasome associated 
+with TET2 mutations may improve cardiovascular 
+outcomes.4,41 In the present study, the odds of CHIP in 
+patients with CMD are ˜4-fold greater than the presence 
+of CHIP in patients with no CMD and increasing 
+to over 4-fold greater when CHIP is present in TET2. 
+Future investigations examining the mechanistic link 
+between CHIP, specifically in TET2, and vascular smooth 
+muscle injury present at the earliest detectable stages of 
+coronary atherosclerosis may draw conclusions to support 
+screening and therapeutic recommendations in this 
+unique group of patients. 
+
+Limitations 
+
+The current findings are presented with limitations. 
+Our functional angiogram data were obtained at one 
+point in time in a unique group of patients with clinically 
+observed early coronary atherosclerosis that 
+
+had not progressed to epicardial CAD. Longitudinal 
+data through the progression of atherogenesis are 
+needed to better understand how CHIP may contribute 
+to obstructive CAD and MACE over time. Our confidence 
+in identifying unique patients with CMD was, 
+in part, related to using the accepted threshold of CFR 
+=2 to define CMD, which limited our study group to a 
+smaller number of patients. Additional findings in larger 
+populations with CMD are needed to better understand 
+characteristics of patients with CMD and CHIP. 
+Regarding CHIP, we accepted the traditional threshold 
+of VAF =2% that was originally used to define CHIP in 
+early studies.23 However, it is important to note recently 
+published studies that begin to provide significant clinical 
+evidence associated with CHIP defined by a VAF 
+threshold of =1% with the use of modern sequencing 
+assays.27 We acknowledge this evolution in technology 
+and scientific evidence and performed analyses using 
+2 groups of patients with CHIP with respective VAF at 
+
+Figure 3. Kaplan-Meier curves illustrate the risk for major adverse cardiovascular events in patients with coronary 
+microvascular dysfunction (CMD) or clonal hematopoiesis (CH). 
+
+CMD was defined by coronary flow reserve (CFR) =2. Associated hazard ratios (HRs) and number of patients at risk for each group are illustrated. 
+
+Table 6. Mediation Analysis Testing CHIP at Variant Allele 
+Fraction =1% as a Mediator for MACE in Coronary Microvascular 
+Dysfunction 
+
+Structural Coefficient SE z value P value 95% CI 
+Mediation 
+analysis 
+MACE 
+CHIP 0.175 0.10 2.44 0.009 0.04 to 0.31 
+CFR =2 0.110 0.09 1.19 0.160 -0.04 to 0.26 
+CHIP 
+CFR =2 0.294 0.09 3.47 0.001 0.13 to 0.46 
+Monte Carlo 
+sequencing 
+Indirect 
+effect 
+0.052 0.025 2.07 0.038 0.009 to 0.104 
+
+CFR indicates coronary flow reserve; CHIP, clonal hematopoiesis of indeterminate 
+potential; and MACE, major adverse cardiovascular event. 
+
+either =2% and considered CH a distinct group at VAF 
+=1%. Findings in both groups were similar and further 
+suggest a strong association between CMD and both 
+CHIP and CH. More patients in the group of patients 
+with CH at VAF =1% provided more meaningful and 
+significant data to support evidence to suggest that 
+CH mediates the risk for MACE in CMD. Reported CIs 
+became wider in smaller groups of studied patients. 
+Ultimately, larger studies in diverse patient groups are 
+needed to determine additional associations between 
+CHIP across a larger spectrum of VAF and CMD in 
+patients with CMD at the early stages of coronary 
+atherogenesis. 
+
+Conclusions 
+
+In summary, in humans, we utilized invasive functional 
+coronary angiogram to confirm an association between 
+CHIP and CMD in the absence of obstructive CAD. The 
+presence of CH mediates nearly one-third of the risk for 
+adverse cardiovascular outcomes in CMD. Future studies 
+are needed to elucidate the risk-enhancing role of CHIP 
+in CMD and early CAD.

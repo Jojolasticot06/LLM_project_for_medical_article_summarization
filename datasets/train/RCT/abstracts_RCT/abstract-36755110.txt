@@ -1,0 +1,9 @@
+Rule-out of non-ST-segment elevation acute coronary syndrome by a single, pre-hospital troponin measurement: a randomized trial
+
+1/Aims: Patients with suspected non-ST-segment elevation acute coronary syndrome (NSTE-ACS) are routinely transferred to the emergency department (ED). A clinical risk score with point-of-care (POC) troponin measurement might enable ambulance paramedics to identify low-risk patients in whom ED evaluation is unnecessary. The aim was to assess safety and healthcare costs of a pre-hospital rule-out strategy using a POC troponin measurement in low-risk suspected NSTE-ACS patients.
+
+2/Methods and results: This investigator-initiated, randomized clinical trial was conducted in five ambulance regions in the Netherlands. Suspected NSTE-ACS patients with HEAR (History, ECG, Age, Risk factors) score =3 were randomized to pre-hospital rule-out with POC troponin measurement or direct transfer to the ED. The sample size calculation was based on the primary outcome of 30-day healthcare costs. Secondary outcome was safety, defined as 30-day major adverse cardiac events (MACE), consisting of ACS, unplanned revascularization or all-cause death. : A total of 863 participants were randomized. 
+
+3/Healthcare costs were significantly lower in the pre-hospital strategy (€1349 ± €2051 vs. €1960 ± €1808) with a mean difference of €611 [95% confidence interval (CI): 353-869; P < 0.001]. In the total population, MACE were comparable between groups [3.9% (17/434) in pre-hospital strategy vs. 3.7% (16/429) in ED strategy; P = 0.89]. In the ruled-out ACS population, MACE were very low [0.5% (2/419) vs. 1.0% (4/417)], with a risk difference of -0.5% (95% CI -1.6%-0.7%; P = 0.41) in favour of the pre-hospital strategy.
+
+4/Conclusion: Pre-hospital rule-out of ACS with a POC troponin measurement in low-risk patients significantly reduces healthcare costs while incidence of MACE was low in both strategies.

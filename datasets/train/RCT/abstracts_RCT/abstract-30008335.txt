@@ -1,0 +1,10 @@
+Benefits and costs of home pedometer assisted physical activity in patients with COPD. A preliminary randomized controlled trial.
+
+1/BACKGROUND AND OBJECTIVE: There are barriers to providing pulmonary rehabilitation for chronic obstructive pulmonary disease (COPD) such as the high number of patients, difficult access to health facilities and high costs of programs. Pedometers can monitor and improve physical activity (PA). The aim of this study was to evaluate benefits and costs of home pedometer assisted PA, as compared to a standard outpatient supervised exercise training program in patients with COPD.
+
+2/METHODS: Patients were randomly assigned either to home pedometer assisted PA (Group 1), or to a six-week outpatient standard supervised exercise training program (Group 2). Patients of Group 1 had to walk at home for 6 weeks, at least 30min daily at the fastest step pace as possible, to achieve a weekly 10% increase in their average daily steps up to more than 6500. Pre and post programs we assessed: the six minute walking distance (6MWT: primary outcome), daily steps count, the Medical Research Council scale (MRC), the COPD assessment test score, and the BODE index (body-mass index, airflow obstruction, dyspnea, exercise capacity). Costs of programs were also evaluated.
+
+3/RESULTS: Out of 40 patients, 18 in both groups (mean (standard deviation)) age: 68.3 (6.7) and 61.2 (6.7) years; FEV1: 1.1 (0.5) and 0.9 (0.4) liters in Group 1 and 2 respectively completed the study. At the end of the program 44.5% patients of Group 1 had reached the target daily steps, in 26.6 (9.5) days. Following the programs, both groups showed significant improvements in all outcome measures, except BODE. The home program was cheaper (p=0.0001), with a mean 76.3 euros 
+saving per patient.
+
+4/CONCLUSION: Home pedometer assisted PA may be a useful and cheaper alternative to outpatient supervised exercise training programs in patients with COPD.

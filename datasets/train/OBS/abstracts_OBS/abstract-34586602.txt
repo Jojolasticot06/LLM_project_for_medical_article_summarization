@@ -1,0 +1,28 @@
+BACKGROUND: The efficacy of mepolizumab is well documented in severe 
+eosinophilic asthma (SEA), although the stringent selection criteria adopted by 
+SEA clinical trials limits the generalizability of results.
+OBJECTIVE: Our study evaluated the effectiveness and safety of mepolizumab in 
+patients with SEA in Spain. The primary efficacy endpoint was the change in the 
+rate of clinically significant asthma exacerbations 12 months after starting 
+mepolizumab compared to the baseline rate in the 12 months prior to treatment. 
+Patients were stratified by baseline blood eosinophil counts.
+METHODS: We conducted a multicentric observational cohort study of SEA patients 
+treated with mepolizumab across 24 specialized hospital asthma units in Spain. 
+Severe exacerbation rate, lung function, oral corticosteroid use (OCS) and 
+asthma control test (ACT) were retrospectively collected and compared during the 
+12-month pre- and post-mepolizumab treatment. Adverse events were also 
+investigated.
+RESULTS: A total of 318 patients with SEA were included (mean age: 56.6 years, 
+69.2% female). Exacerbation rates decreased by 77.5%, and 50.6% of patients did 
+not suffer any exacerbations during the 12 months of treatment. The difference 
+in forced expiratory volume in 1 s (FEV1) pre- and post-bronchodilator after 
+starting mepolizumab was 0.21 (0.46) L (95% CI 0.14-0.27) (p < 0.001). 
+Exacerbations and lung function significantly improved across all eosinophil 
+subgroups. Among the 98 patients on OCS, 47.8% were able to discontinue this 
+treatment and the mean daily dose was decreased by 59.9%. The baseline ACT score 
+was 14.1, increasing by a mean (SD) of 6.7 points (1.9) at 12 months. Adverse 
+events related to mepolizumab were uncommon.
+CONCLUSIONS: This real-world study of SEA patients confirms that mepolizumab is 
+effective in reducing clinically meaningful exacerbations, improving lung 
+function, and decreasing OCS dependence and mean OCS dose at 12 months, 
+irrespective of baseline eosinophil counts.

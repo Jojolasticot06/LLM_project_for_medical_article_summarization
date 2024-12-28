@@ -1,0 +1,26 @@
+OBJECTIVES: We studied apolipoprotein C-III (apoC-III) in relation to diabetic 
+kidney disease (DKD), cardiovascular outcomes, and mortality in type 1 diabetes.
+METHODS: The cohort comprised 3966 participants from the prospective 
+observational Finnish Diabetic Nephropathy Study. Progression of DKD was 
+determined from medical records. A major adverse cardiac event (MACE) was 
+defined as acute myocardial infarction, coronary revascularization, stroke, or 
+cardiovascular mortality through 2017. Cardiovascular and mortality data were 
+retrieved from national registries.
+RESULTS: ApoC-III predicted DKD progression independent of sex, diabetes 
+duration, blood pressure, HbA1c , smoking, LDL-cholesterol, lipid-lowering 
+medication, DKD category, and remnant cholesterol (hazard ratio [HR] 1.43 [95% 
+confidence interval 1.05-1.94], p = 0.02). ApoC-III also predicted the MACE in a 
+multivariable regression analysis; however, it was not independent of remnant 
+cholesterol (HR 1.05 [0.81-1.36, p = 0.71] with remnant cholesterol; 1.30 
+[1.03-1.64, p = 0.03] without). DKD-specific analyses revealed that the 
+association was driven by individuals with albuminuria, as no link between 
+apoC-III and the outcome was observed in the normal albumin excretion or kidney 
+failure categories. The same was observed for mortality: Individuals with 
+albuminuria had an adjusted HR of 1.49 (1.03-2.16, p = 0.03) for premature 
+death, while no association was found in the other groups. The highest apoC-III 
+quartile displayed a markedly higher risk of MACE and death than the lower 
+quartiles; however, this nonlinear relationship flattened after adjustment.
+CONCLUSIONS: The impact of apoC-III on MACE risk and mortality is restricted to 
+those with albuminuria among individuals with type 1 diabetes. This study also 
+revealed that apoC-III predicts DKD progression, independent of the initial DKD 
+category.

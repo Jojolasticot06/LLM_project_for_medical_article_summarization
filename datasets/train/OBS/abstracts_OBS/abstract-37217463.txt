@@ -1,0 +1,19 @@
+Patients with MYC rearranged (MYC-R) diffuse large B-cell lymphoma (DLBCL) have 
+a poor prognosis. Previously, we demonstrated in a single-arm phase II trial 
+(HOVON-130) that addition of lenalidomide to R-CHOP (R2CHOP) is well-tolerated 
+and yields similar complete metabolic remission rates as more intensive 
+chemotherapy regimens in literature. In parallel with this single-arm 
+interventional trial, a prospective observational screening cohort (HOVON-900) 
+was open in which we identified all newly diagnosed MYC-R DLBCL patients in the 
+Netherlands. Eligible patients from the observational cohort that were not 
+included in the interventional trial served as control group in the present 
+risk-adjusted comparison. R2CHOP treated patients from the interventional trial 
+(n = 77) were younger than patients in the R-CHOP control cohort (n = 56) 
+(median age 63 versus 70 years, p = 0.018) and they were more likely to have a 
+lower WHO performance score (p = 0.013). We adjusted for differences at baseline 
+using 1:1 matching, multivariable analysis, and weighting using the propensity 
+score to reduce treatment-selection bias. These analyses consistently showed 
+improved outcome after R2CHOP with HRs of 0.53, 0.51, and 0.59, respectively, 
+for OS, and 0.53, 0.59, and 0.60 for PFS. Thus, this non-randomized 
+risk-adjusted comparison supports R2CHOP as an additional treatment option for 
+MYC-R DLBCL patients.

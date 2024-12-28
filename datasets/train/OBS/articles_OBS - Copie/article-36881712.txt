@@ -1,0 +1,604 @@
+Introduction
+
+The dose–response relationship between long-term intensive endurance 
+exercise and coronary heart disease has intrigued investigators 
+for decades. Early studies indicated that regular endurance sport participation 
+provides relative immunity from ischaemic heart disease.https://creativecommons.org/licenses/by-nc/4.0/
+Yet, more recent studies reported an increased prevalence of coronary 
+atherosclerotic plaques amongst highly trained athletes in comparison 
+to healthy non-athletes.https://creativecommons.org/licenses/by-nc/4.0/
+These findings spurred debate about a 
+potential selection bias in these series, age-related differences and 
+prior presence of cardiovascular risk factors such as smoking.https://creativecommons.org/licenses/by-nc/4.0/
+Furthermore, these studies emphasized a relative difference in plaque 
+composition with a higher likelihood of more stable calcified plaques 
+in athletes as compared to non-athletes in whom plaque type was 
+
+
+most frequently mixed. However, data on the absolute prevalence of 
+calcified and non-calcified coronary plaques in athletes as compared 
+to non-athletes are lacking. Hence, it is possible that endurance athletes 
+may have a similar or even greater amount of non-calcified and mixed 
+plaques just because the overall number of plaques is higher.
+
+A better understanding of the upper range of the dose–response relationship 
+between exercise and coronary artery disease is desirable given 
+the popularity of intensive endurance sports in modern society. 
+Regular exercise improves blood pressure control and lipid profiles, reduces 
+the incidence of diabetes and myocardial infarction, and increases 
+life expectancy.https://creativecommons.org/licenses/by-nc/4.0/
+Increased cardiorespiratory fitness is associated with 
+a progressive reduction of cardiovascular events, which would seem to 
+be at odds with the aforementioned link between lifelong exercise load 
+and increased coronary atherosclerosis.
+
+The Master@Heart study aimed to investigate the apparent paradox 
+of increased coronary atherosclerosis amongst highly trained endurance 
+athletes despite having fewer cardiovascular events. We hypothesized 
+that lifelong endurance exercise, and to a lesser degree late-onset 
+training, would be associated with a lower prevalence of non-calcified 
+and mixed plaques as compared to an active, healthy lifestyle without 
+regular endurance training.
+
+Methods
+
+The rationale, design, and methodology of the Master@Heart study have 
+been described previously and can be summarized as follows.https://creativecommons.org/licenses/by-nc/4.0/
+
+
+Study design
+
+The Master@Heart (Master Athlete’s Heart) study was a multicentre 
+(University Hospitals Leuven, University Hospital Antwerp, and Jessa 
+Hospital Hasselt) prospective cohort study, funded by the Fund for 
+Scientific Research, Flanders (T003717N). ClinicalTrials.gov Identifier 
+NCT03711539. The primary endpoint of the current manuscript was investigated 
+in a cross-sectional design.
+
+Study population
+
+A dedicated web portal (http://www.masteratheart.be
+) informed potential study 
+participants about the study and provided an online screening questionnaire 
+to assess the eligibility of study candidates. The web portal was advertised 
+to the wide community through media advertisements (e.g. traditional 
+broadcasting, social media, and popular athletic magazines). The inclusion 
+criteria for all participants were male sex and age between 45 and 70 years. 
+Athletes were defined as follows: questionnaire reported engagement in 
+cycling =8 h or running = 6 h per week, or triathlon (combination of swimming, 
+cycling, and running) = 8 h per week for at least 6 months prior to 
+baseline. Lifelong and late-onset athletes started regular endurance exercise 
+training at <30 years and >30 years of age, respectively. Non-athletes engaged 
+= 3 h per week in physical activity without prior exposure to regular 
+endurance exercise. The metabolic equivalent of task (MET) minutes per 
+week was calculated as a measure of exercise volumes obtained by multiplying 
+the MET score for the specific sport by the reported exercise volume 
+(minutes/week).http://www.masteratheart.be
+
+
+Exclusion criteria were a medical history of cardiovascular disease, history 
+of established risk factors for coronary artery disease (diabetes mellitus, 
+hypercholesterolaemia, or arterial hypertension), current or past 
+history of smoking, a body mass index >27.2 kg/m², and a known allergy 
+to iodine contrast agents.
+
+From all eligible subjects, 605 were sampled at random for inclusion to 
+minimize the risk of selection bias. Sampling was however stratified by current 
+age (45–53, 54–62, and 63–70 years). As the prevalence of high-level 
+endurance athletes decreases with age, a participant distribution of 3/7 
+aged 45–53 years, 3/7 aged 54–62 years, and 1/7 aged 63–70 years was 
+applied.
+
+In addition, sampling was stratified by the age at which endurance training 
+was started. Lifelong athletes were subdivided into <20 and 20–30 years of 
+age at which endurance training was started. Late-onset athletes were subdivided 
+into 31–40 and >40 years.
+
+Dual-energy X-ray absorptiometry
+
+A dual-energy X-ray absorptiometry scan (Discovery W, Hologic, Bedford, 
+Massachusetts, USA – GE Lunar Prodigy Advance GE Healthcare, Horton 
+Norway) was performed to measure body fat percentage.
+
+Cardiopulmonary exercise testing
+
+As a measure of aerobic capacity, peak oxygen uptake (VO2peak) was determined 
+using a continuous bicycle stress test. The respiratory gas exchange 
+was analysed using a breath-by-breath open-circuit spirometry 
+system. Peak oxygen uptake was be determined as the highest 30 s of oxygen 
+uptake.
+
+Computed tomography coronary angiography
+
+Computed tomography coronary angiography (CTCA) was acquired using 
+a 128-slice dual-source CT scanner (Siemens Somatom Force - Siemens 
+Healthineers, Forchheim, Germany), a 256-slice CT scanner (GE 
+Revolution - GE Healthcare, Milwaukee, Wisconsin), or a 320-slice CT scanner 
+(Aquilion ONE ViSION - Canon Medical Systems, Otawara, Japan). We 
+administered esmolol intravenously when necessary to achieve target heart 
+rates of <65 bpm. All subjects received 0.4 mg sublingual nitroglycerine 
+2 min before scanning. First, a non-enhanced ECG-synchronized scan was 
+taken to quantify coronary calcium rendering the Agatston coronary artery 
+calcium (CAC) score. Secondly, an ECG-triggered CTCA was acquired 
+after the intravenous injection of iodinated contrast medium in an antecubital 
+vein followed by a saline chaser.
+
+All coronary atherosclerotic lesions were analysed using Syngo.Via (Siemens 
+Healthineers, Forchheim, Germany) or GE Advanced Workstation (GE 
+Healthcare, Milwaukee, Wisconsin) software. Computed tomography coronary 
+angiography interpreters were blinded to the athletic background of the 
+study participants and to the other study examinations. All coronary lesions 
+were interpreted following the 2016 SCCT guidelines for their location, stenosis 
+grade, composition (calcified, mixed, and non-calcified) as well as their vulnerability 
+(positive remodeling, low-attenuation plaque, spotty calcification, 
+and the napkin-ring sign).http://www.masteratheart.be
+,http://www.masteratheart.be
+A density of >130 HU defined calcified areas. 
+Calcified plaques were entirely composed of calcified areas. Mixed plaques 
+were composed of both calcified and non-calcified areas. Non-calcified plaques 
+were entirely composed of non-calcified areas. A proximal plaque was 
+defined as a plaque in coronary segments 1 (right coronary artery), 5 (left 
+main), 6 (left anterior descending), and 11 (circumflex). In addition, we calculated 
+the segment stenosis score (SSS) and segment-involvement score (SIS) 
+to assess the overall plaque burden. The SSS was calculated as the sum of 
+the luminal stenosis score (0–3; 0%, < 50%, 50%–70%, > 70%) of each of 
+the 15 coronary segments (minimum 0; maximum 45). The SIS was calculated 
+as the sum of coronary segments with plaques irrespective of the degree of 
+luminal stenosis (minimum = 0; maximum = 15).http://www.masteratheart.be
+The SSS and SIS have demonstrated 
+clinical validity in detecting major adverse cardiac events in multiple 
+populations.http://www.masteratheart.be
+Vulnerable plaques were defined by at least two 
+high-risk plaque features: low attenuation, spotty calcification, positive remodelling, 
+or the napkin sign.
+
+Endpoints and hypothesis
+
+The primary endpoint was the prevalence of coronary plaques (calcified, 
+mixed, and non-calcified plaques) on CTCA assessed cross-sectionally at 
+baseline. We hypothesized that more than late-onset training, lifelong endurance 
+exercise would be associated with a lower prevalence of non- 
+calcified plaques than non-athletes.
+
+
+Statistical analysis
+
+Assuming and incidence of mixed plaques of 35% in subjects with an exercise 
+age of 0% and 22% in subjects with an exercise age of 25 years, a sample 
+size of 486 subject offers a statistical power of 80% with a 5% probability of 
+Type 1 error.http://www.masteratheart.be
+,http://www.masteratheart.be
+,http://www.masteratheart.be
+The sample size calculation was based on the likelihood 
+ratio .2 test. Exercise age was assumed to be uniformly distributed between 
+0 and 40 years. A univariate logistic regression assessed the association between 
+exercise age and the probability of mixed plaques. It was assumed 
+that exercise can be assessed in the logistic regression as a linear, untransformed 
+variable, i.e. log (p/(1-p)) = a+ß×exercise age. Statistical testing is 
+two-sided and assessed at a significance level of 5%. PROC POWER in SAS 
+V.9.4 (SAS/STAT V.14.1) was used to calculate the sample size for a univariate 
+logistic regression with exercise age as the only covariate. A total sample 
+size of at least 600 subjects (200 per group) gave a margin of up to 20% for 
+exclusions due to errors in the online questions or uninterpretable data.
+
+Data were analysed using SPSS Statistics version 28 (IBM Corporation, 
+Amonk, NY, USA). Normality was tested using the Shapiro–Wilk test. 
+Continuous variables are presented as means (± standard deviation) or 
+as medians (interquartile range) and categorical variables as percentages. 
+For baseline characteristics, the between-group differences for continuous 
+variables were assessed using a one-way analysis of variance or a Kruskal– 
+Wallis test as appropriate with a Bonferroni post hoc correction for multiple 
+comparisons. The .2 test was used to assess categorical variables. For 
+CTCA findings, multiple linear and logistic regression analysis that adjusted 
+for age, body mass index (BMI), systolic and diastolic blood pressure, total 
+cholesterol, low-density lipoprotein (LDL) cholesterol, glycated haemoglobin 
+(HbA1c), and family history of coronary artery disease (defined as a first 
+degree relative with myocardial infarction at the age of <50 years in males 
+and/or <60 years in female relatives) was performed. We calculated the 
+between-group difference and odds ratios (OR) with 95% confidence interval 
+(CI) for continuous and categorical variables respectively. The widths of CIs 
+have not been adjusted for multiplicity, and therefore the intervals should not 
+be used to infer definitive exercise effects on primary outcomes. There were 
+no missing data from population characteristics, exercise testing, and CTCA 
+in any group. A P-value of <0.05 was considered statistically significant.
+
+Results
+
+Study population and baseline 
+characteristics
+
+Out of 1152 eligible candidates, 605 individuals were sampled for further 
+testing. On the day of testing, 47 participants were excluded. 
+Twenty-eight individuals had a BMI >27.2 kg/m², and 10 were on treatment 
+with antihypertensive drugs, four were on treatment with a statin, 
+and five had a medical history of cardiovascular disease. Subsequent 
+analysis was performed on 558 participants comprising 191 lifelong athletes, 
+191 late-onset athletes, and 176 non-athletic controls. http://www.masteratheart.be
+shows the study inclusion and exclusion flow chart.
+
+http://www.masteratheart.be
+represents the baseline population characteristics. The mean 
+age of all participants was 56 ± 6 years and was similar amongst all 
+groups. All three groups did not differ in height, but controls had a higher 
+body weight leading to a higher BMI than lifelong and late-onset athletes 
+(24.0 vs. 23.2 vs. 23.5 kg/m²). Controls had a higher body fat 
+percentage than lifelong and late-onset athletes (19.4% vs. 13.9% vs. 
+15%). Systolic blood pressure, diastolic blood pressure, total cholesterol, 
+LDL cholesterol, and HbA1c were similar in all groups. The family 
+incidence of coronary artery disease was 6.3% in lifelong athletes, 6.8% 
+in late-onset athletes, and 6.3% in controls. Lifelong and late-onset athletes 
+were mostly cyclists with smaller groups engaged in running or a 
+combination of running, cycling, and swimming. Seventy-seven percent 
+of controls performed exercise =3 h/week, mostly running and 
+non-endurance sports. The remaining 23% of controls did not perform 
+any type of regular exercise. There was no difference in the hours per 
+week of endurance exercise between lifelong and late-onset athletes, 
+but both athlete groups performed more hours than controls [11 h/ 
+week (10–14) vs. 10 h/week (8–12) vs. 1 h/week (0–3)]. Lifelong and 
+late-onset had a similar VO2peak which was significantly higher than 
+in controls [VO2peak 48 mL/min/kg (43–53) vs. 46 mL/min/kg 
+(41–51) vs. 37 mL/min/kg (32–42); % predicted VO2peak 159% 
+(143–177) vs. 155% (138–169) vs. 122% (108–138)].
+
+Coronary artery computed tomography
+
+The results from CTCA are shown in http://www.masteratheart.be
+. All individuals were in sinus 
+rhythm at the time of the examination. The median number of plaques 
+per individual [lifelong 2 (0–5) vs. late-onset 1 (0–3) vs. control 0 
+(0–4)] and the average CAC scores [8.5 (0–90.9) vs. 1.3 (0–54) vs. 
+0 (0–41.6)] (http://www.masteratheart.be
+) was similar between groups but lifelong athletes 
+had a higher CAC percentile than controls (between-group difference 
+9.6 and 95% CI 2.4–16.8). The overall coronary plaque burden assessed 
+by SSS and SSI was higher in lifelong athletes than controls 
+(between-group difference 0.86 and 95% CI 0.22–1.51 and 
+between-group difference 0.65 and 95% CI 0.20–1.10, respectively) 
+(http://www.masteratheart.be
+). When considering plaque types, the distribution of calcified 
+(62.3% vs. 68.4% vs. 67%), non-calcified (11.8% vs. 9.8% vs. 13.7%), 
+and mixed (25.9% vs. 21.8% vs. 19.3%) plaques was similar. In comparison 
+to controls, lifelong endurance sport participation was associated 
+with having =1 coronary plaque (OR 1.86, 95% CI 1.17–2.94), = 1 
+proximal plaque (OR 1.96, 95% CI 1.24–3.11) = 1 calcified plaques 
+(OR 1.58, 95% CI 1.01–2.49), = 1 calcified proximal plaque (OR 
+2.07, 95% CI 1.28–3.35), = 1 non-calcified plaque (OR 1.95, 95% CI 
+1.12–3.40), = 1 non-calcified proximal plaque (OR 2.80, 95% CI 
+1.39–5.65), and =1 mixed plaque (OR 1.78, 95% CI 1.06–2.99). In comparison 
+to late-onset athletes, a = 50% stenosis in any coronary segment 
+(OR 2.79, 95% CI 1.20–6.50) and =50% stenosis in a proximal 
+segment (OR 5.92, 95% CI 1.22–28.80) were more prevalent in lifelong 
+athletes (http://www.masteratheart.be
+, http://www.masteratheart.be
+, and http://www.masteratheart.be
+). Vulnerable plaques as defined 
+by the presence of =2 high risk features were uncommon in all groups 
+but a lifelong athletic lifestyle was associated with a lower prevalence 
+(OR 0.11, 95% CI 0.01–0.98) (http://www.masteratheart.be
+).
+
+Discussion
+
+The Master@Heart study is the largest and most comprehensive study 
+to assess the dose–response relationship between intensive endurance 
+exercise and coronary atherosclerosis. The training load and cardiorespiratory 
+fitness of athletic and non-athletic participants was higher 
+than that of other similar studies. The three groups were free of any 
+classical risk factors for atherosclerosis and carefully stratified for age 
+and exercise exposure. Nevertheless, lifelong endurance sports did 
+not show to offer additional protection against coronary atherosclerosis 
+compared to an active, healthy lifestyle. On the contrary, lifelong 
+middle-aged athletes had more coronary plaques, including more unstable 
+non-calcified plaques in proximal segments (http://www.masteratheart.be
+). The findings do not support the hypothesis that 
+highly trained endurance athletes have a more benign plaque composition 
+to explain their lower risk of cardiovascular events compared to 
+non-athletes. As studies on the impact of physical activity in the upper 
+range are lacking, our data open the question on whether coronary 
+events are indeed less prevalent in this high-end exercise cohort, and 
+if that is the case, on what explains the paradox. More and longitudinal 
+
+
+Figure 1 Inclusion and exclusion flow chart of the Master@Heart study: the inclusion criteria for all participants were male sex and age between 45 
+and 70 years. Athletes were defined as follows: questionnaire reported engagement in cycling =8 h or running = 6 h per week, or triathlon (combination 
+of swimming, cycling, and running) = 8 h per week for at least 6 months prior to baseline. Non-athletes were defined by engagement in = 3 h per 
+week of physical activity without prior exposure to regular endurance exercise. Exclusion criteria were a medical history of cardiovascular disease, 
+current or past history of smoking, use of any antidiabetic drugs, statins or antihypertensive drugs, a BMI >27.2 kg/m², and a known allergy for iodine 
+contrast agents.
+research at the higher end of the endurance exercise spectrum is definitely 
+needed.
+
+Previous studies have investigated the dose–response relationship 
+between exercise and coronary artery disease and reported a higher 
+CAC burden in healthy marathon runners compared to risk-factor 
+matched non-athletes.http://www.masteratheart.be
+In 2017, two other studies added a relevant nuance 
+that athletes presenting with coronary plaques were more likely 
+to have calcified plaques, whereas non-athletes with plaques more frequently 
+had mixed plaques.http://www.masteratheart.be
+,http://www.masteratheart.be
+Since calcified plaques are more stable 
+and less prone to rupture than mixed and non-calcified plaques, these 
+findings were interpreted as benign and non-alarming.http://www.masteratheart.be
+Importantly, 
+these prior studies only looked at the relative distribution of plaque 
+type in individuals with evidence of plaque, but differences in the absolute 
+prevalence of calcified, mixed, and non-calcified plaques were not 
+reported.
+
+Contrary to these previous studies, the Master@Heart study did investigate 
+the absolute prevalence of different coronary plaque types. As 
+a primary finding, our data did not reveal a more benign plaque 
+
+Table 1 Baseline characteristics: the baseline demographic and exercise characteristics of lifelong athletes, late-onset 
+athletes, and non-athletic controls of the Master@Heart study
+Lifelong (n = 191)Late-onset (n = 191)Controls (n = 176)P-valueDemographicAge (years)56 (51–61)55 (51–60)55 (50–61)0.636Weight (kg)75 ± 875 ± 877 ± 80.018Height (cm)179 (174–184)179 (174–183)179 (175–184)0.708BMI (kg/m²)23.2 (22.0–24.5)23.5 (22.0–24.9)24.0 (22.6–25.6)0.001BSA (m²)1.93 ± 0.131.93 ± 0.121.96 ± 0.130.092Bodyfat%13.9 (10.2–17.2)15 (10.6–18.9)19.4 (14.9–23.4)<0.001Heart rate (bpm)54 (49–59)56 (50–62)60 (54–70)<0.001Systolic BP (mmHg)122 (114–131)122 (115–130)123 (115–131)0.651Diastolic BP (mmHg)75 (70–80)76 (70–80)76 (70–80)0.469Total cholesterol (mg/dL)193 (172–212)196 (177–215)195 (171–217)0.733LDL cholesterol (mg/dL)121 (105–139)124 (105–143)131 (108–150)0.056HDL cholesterol (mg/dL)64 (55–74)64 (56–76)58 (49–66)<0.001HbA1c (%)5.4 (5.3–5.6)5.4 (5.3–5.6)5.4 (5.2–5.6)0.215Family history of CAD – n(%)12 (6.3)13 (6.8)11 (6.3)0.970Exercise characteristicsSport – n (%)
+Cycling99 (51.8)113 (59.2)15 (8.5)<0.001Running17 (8.9)35 (18.3)84 (47.7)
+Cycling and running48 (25.1)26 (13.6)5 (2.8)
+Duathlon5 (2.7)0 (0)0 (0)
+Triathlon22 (11.5)17 (8.9)0 (0)
+Non-endurance0 (0)0 (0)32 (18.2)
+None0 (0)0 (0)40 (22.8)
+Hours exercise per week11 (10–14)10 (8–12)1 (0–3)<0.001Years of endurance exercise36 (29–44)14 (9–20)5 (0–26)<0.001MET-min/week5070 (4500–6240)4884 (3720–5790)888 (420–1274)<0.001VO2peak (mL/min/kg)48 (43–53)*46 (41–51)37 (32–42)<0.001Percentage predicted VO2peak (%)159 (143–177)155 (138–169)122 (108–138)<0.001VE/VCO2 slope30 (28–33)30 (27–33)31 (27–35)0.164BMI, body mass index; BSA, body surface area; BP, blood pressure; LDL, low-density lipoprotein; HDL, high-density lipoprotein; CAD, coronary artery disease; VO2peak, oxygen uptake at 
+peak exercise.
+
+
+Table 2 Computed tomography coronary angiography: the findings on computed tomography coronary angiography in lifelong athletes, late-onset athletes, 
+and non-athletic controls of the Master@Heart study
+Lifelong 
+(n = 191)
+Late-onset 
+(n = 191)
+Control 
+(n = 176)
+Adjusted difference lifelong 
+vs. control (95% CI)aAdjusted difference 
+late-onset vs. control (95% 
+CI)aAdjusted difference lifelong 
+vs. late-onset (95% CI)aCAC score8.5 (0–90.9)1.3 (0–54)0 (0–41.6)32.1 (-14.22–78.4)b1.5 (-44.8–47.9) b30.5 (-14.2–75.3) bCAC score percentile44 (0–71)23 (0–63)0 (0–62)9.6 (2.4–16.8)b2.8 (-4.4–10.0)b6.8 (-0.15–13.7)bCAC > 0 – n(%)109 (57.1)100 (52.4)80 (45.5)1.67 (1.06–2.63)1.31 (0.84–2.63)1.27 (0.82–1.97)
+CAC > 10 – n(%)94 (49.2)72 (37.7)59 (33.5)2.11 (1.32–3.37)1.20 (0.75–1.93)1.75 (1.12–2.73)
+CAC > 100 – n(%)44 (23)31 (16.2)26 (14.8)1.83 (1.02–3.27)1.11 (0.61–2.04)1.64 (0.95–2.83)
+CAC > 400 – n(%)10 (5.2)9 (4.7)7 (4)1.16 (0.40–3.34)1.09 (0.37–3.19)1.07 (0.40–2.83)
+Number of plaques2 (0–5)1 (0–3)0 (0–4)1.1 (0.2–2.0) b0.4 (-0.4–1.3)b0.7 (-0.2 1.5)b= 1 plaque – n(%)121 (63.4)109 (57.1)88 (50)1.86 (1.17–2.94)1.34 (0.85–2.10)1.39 (0.89–2.17)
+= 1 proximal plaque – n(%)106 (55.5)87 (45.5)71 (40.3)1.96 (1.24–3.11)1.18 (0.75–1.87)1.66 (1.07–2.58)
+=50% luminal stenosis – n(%)23 (12)9 (4.7)13 (7.4)1.69 (0.78–3.68)0.61 (0.24–1.54)2.79 (1.20–6.50)
+=50% luminal stenosis in proximal coronary 
+artery – n(%)
+11 (5.8)2 (1.0)9 (5.1)0.88 (0.32–2.41)0.15 (0.03–0.77)5.92 (1.22–28.80)
+= 1 calcified plaque – n(%)95 (49.7)88 (46.1)68 (38.6)1.58 (1.01–2.49)1.31 (0.83–2.06)1.21 (0.79–1.86)
+= 1 calcified proximal plaque – n(%)77 (40.3)74 (38.7)45 (25.6)2.07 (1.28–3.35)1.83 (1.13–2.97)1.13 (0.73–1.76)
+= 1 non-calcified plaque – n(%)45 (23.6)33 (16.8)27 (15.3)1.95 (1.12–3.40)1.31 (0.73–2.33)1.49 (0.88–2.51)
+= 1 non-calcified proximal plaque – n(%)32 (16.8)18 (9.4)13 (7.4)2.80 (1.39–5.65)1.41 (0.66–3.00)1.99 (1.06–3.74)
+= 1 mixed plaque – n(%)57 (29.8)50 (26.2)39 (22.2)1.78 (1.06–2.99)1.44 (0.86–2.44)1.23 (0.76–1.99)
+= 1 mixed proximal plaque – n(%)37 (20.4)28 (14.7)23 (13.1)1.81 (0.98–3.35)1.31 (0.69–2.47)1.39 (0.78–2.46)
+=50% luminal stenosis by a calcified plaque – 
+n(%)
+11 (5.8)3 (1.6)7 (4.0)1.11 (0.37–3.29)0.29 (0.07–1.27)3.80 (0.95–15.25)
+=50% luminal stenosis by a non-calcified 
+plaque– n(%)
+9 (4.7)1 (0.5)5 (2.8)1.62 (0.50–5.21)0.20 (0.02–1.78)8.11 (1.00–65.7)
+=50% luminal stenosis by a mixed 
+plaque – n(%)
+9 (4.7)7 (3.7)5 (2.8)1.70 (0.53–5.51)1.45 (0.42–4.98)1.18 (0.41–3.39)
+=50% luminal stenosis in proximal coronary 
+artery by a calcified 
+plaque – n(%)
+7 (3.7)2 (1.0)6 (3.4)0.82 (0.23–2.85)0.26 (0.05–1.45)3.17 (0.58–17.24)
+=50% luminal stenosis in proximal coronary 
+artery by a non-calcified plaque – n(%)
+5 (2.6)0 (0)0 (0)2.7 (0.7–4.6) †0.4 (-1.6–2.3) †2.3 (0.4–4.2) †
+
+
+composition in endurance athletes, neither in lifelong nor in late-onset 
+athletes, than in non-athletic controls. There even seems to be a dose– 
+response relationship, with late-onset athletes fitting in between lifelong 
+athletes and non-athletes. The most prevalent plaque type in 
+both athletes and non-athletes was calcified plaques, followed by mixed 
+and non-calcified plaques. Moreover, a greater proportion of lifelong 
+athletes had proximal plaques and lesions with significant stenosis, as 
+well as plaques of non-calcified and mixed morphology. The non- 
+calcified/mixed characteristics, a stenosis grade of =50%, and the proximal 
+location of coronary plaques are all established risk factors for ischaemic 
+heart disease.http://www.masteratheart.be
+,http://www.masteratheart.be
+Finally, the overall coronary plaque burden, 
+which is associated with higher mortality risk, was greater in lifelong 
+athletes.http://www.masteratheart.be
+As such, our results do not support the hypothesis that 
+the observed lower risk of cardiovascular events amongst individuals 
+with high cardiorespiratory fitness can be explained by a more benign 
+(i.e. stable) plaque composition.http://www.masteratheart.be
+
+
+=50% luminal stenosis in proximal coronary 
+artery by mixed plaque – n(%)
+4 (2.1)1 (0.5)3 (1.7)0.87 (0.17–4.44)0.19 (0.02–2.05)4.70 (0.48–45.89)
+=1 high-risk plaque features – n (%)23 (12.0)13 (6.8)21 (11.9)1.31 (0.67–2.58)0.69 (0.32–1.48)1.90 (0.90–3.99)
+Vulnerable plaques– n (%)1 (0.5)2 (1.0)6 (3.4)0.11 (0.01–0.98)0.20 (0.04–1.11)0.55 (0.05–6.38)
+Vulnerable plaques are defined as =2 high-risk plaque features. 
+Bold denotes a statistically significant difference, P < 0.05. 
+Odds ratios and between-group differences are adjusted for age, BMI, systolic and diastolic blood pressure, total cholesterol, LDL cholesterol, HbA1c, and family history of coronary artery disease. 
+CAC, Agatston coronary artery calcium score; CI, confidence interval. 
+aDenotes odds ratio and 95% confidence interval unless otherwise specified. 
+bBetween-group difference and 95% confidence interval.
+
+Importantly, current evidence cannot relate an increased risk of ischaemic 
+heart disease events in endurance athletes.http://www.masteratheart.be
+Some studies 
+have shown that endurance exercise reduces the risk for ischaemic 
+events regardless of CAC score, and this reduction is greatest at the 
+higher CAC scores.http://www.masteratheart.be
+,http://www.masteratheart.be
+A first potential explanation for this apparent 
+paradox can be found in our study as vulnerable plaques, which carry 
+the highest risk for events, were rare and not associated with an athletic 
+lifestyle. Secondly, whilst we did observe an increased plaque burden in 
+lifelong athletes (i.e. SSS >0–5 and SIS >0–3), this did not extend beyond 
+an SSS >10 or SIS >6 meaning that the overall plaque burden remains 
+low in athletes. Thirdly, it is known that endurance athletes have 
+larger coronary arteries and a greater vasodilatory potential, meaning 
+that the plaque-to-vessel ratio in athletes could be lower and thus 
+lead to less significant stenosis.http://www.masteratheart.be
+,http://www.masteratheart.be
+Finally, despite levels of cholesterol 
+and HbA1c generally falling within normal ranges, dietary habits such as 
+high caloric intake and high protein diets may have contributed to coronary 
+atherosclerosis in endurance athletes. Our study protocol 
+planned to follow up the study subjects for 2 years to observe clinical 
+events; with the given findings, we will extend that follow-up longer.
+
+In contrast to previous studies, non-athletes in the Master@Heart 
+study did not have a predominance of mixed plaques but rather a propensity 
+towards calcified plaques and smaller proportions of mixed and 
+non-calcified plaques. Several explanations may contribute to this. 
+Firstly, studies differed in cardiovascular risk profiles in both athletes 
+and controls. Smoking history was a non-negligible confounder in the 
+papers by Molhenkamp et al. and Aengevaeren et al.http://www.masteratheart.be
+,http://www.masteratheart.be
+Similarly, 
+some athletes and controls were on medical treatment in previous 
+studies, whereas the Master@Heart study excluded all individuals 
+with a history of arterial hypertension, smoking, dyslipidaemia, or diabetes 
+mellitus. As a result, none of the study participants was taking 
+antihypertensive drugs or statins.http://www.masteratheart.be
+,http://www.masteratheart.be
+
+
+Another key area of discrepancy with previous studies is the participants’ 
+training load and physical fitness. Lifelong and late-onset athletes 
+from the Master@Heart study performed more training hours per 
+week and had a higher METmin/week with a higher VO2peak than in 
+other studies.http://www.masteratheart.be
+,http://www.masteratheart.be
+Interestingly, also the non-athletes of Master@Heart 
+had a higher aerobic capacity than controls in previous studies. 
+Seventy-seven percent of non-athletes performed leisure-time physical 
+activity. Forty-eight percent were recreational runners (<3 h/week), 9% 
+were cyclists, and 18% were participating in non-endurance sports (e.g. 
+football, tennis). Hence, our non-athletes exhibited a higher level of fitness 
+with a higher METmin/week than the controls by Aengevaeren et al. 
+(888 vs. 669 METmin/week) and a greater average percentage predicted 
+VO2peak of 122% compared to 96% reported by Merghani et al.http://www.masteratheart.be
+,http://www.masteratheart.be
+
+
+
+Also, a difference in the type of sports between trials can be noted. In the 
+paper by Merghani et al. and Molhenkamp et al., athletes were mostly engaged 
+in running whilst the athletic population in the trial by Aengevaeren 
+et al. was more diverse with 29% cyclists and 25% runners.http://www.masteratheart.be
+There is 
+evidence to suggest that runners have a higher prevalence of coronary 
+plaques than cyclists.http://www.masteratheart.be
+In the Master@Heart study, cyclists represented 
+the largest group within the athlete population, whereas active controls 
+were mostly engaged in running. The observation that lifelong athletes 
+exhibited more coronary plaques, despite the potentially more favourable 
+effects of cycling, strengthens the association between high endurance 
+exercise exposure and coronary atherosclerosis.
+
+Considering that a higher VO2peak is associated with a lower lipid 
+volume, higher fibrous volume, and thicker fibrous cap in coronary plaques, 
+we speculate that the dose–response relationship between endurance 
+exercise and coronary atherosclerosis might be reverse 
+J-shaped rather than a descending logarithmic function.http://www.masteratheart.be
+A sedentary 
+and unhealthy lifestyle carries the highest risk of ischaemic heart disease 
+with a significant burden of high-risk plaques. Conversely, a lower 
+prevalence of cardiac risk factors with low physical activity levels is associated 
+with reduced coronary atherosclerosis but unfavourable plaque 
+characteristics.http://www.masteratheart.be
+,http://www.masteratheart.be
+Our data demonstrate that a healthy lifestyle 
+and above-average cardiorespiratory training and fitness prevents coronary 
+atherosclerosis with a more favourable pattern of more calcified 
+and less mixed or non-calcified plaques. Additional increments of endurance 
+sports training load and associated increases in fitness do 
+not affect the distribution of plaque types. However, lifetime intensive 
+endurance training increases the overall coronary atherosclerotic burden 
+with more plaques, including non-calcified and mixed plaques, plaques 
+in proximal segments, and those with a significant degree of 
+stenosis. In support of this premise, a recent study by Rubies et al. in 
+a rodent model demonstrated that long-term intensive but not moderate 
+training promoted adverse changes in the structural and functional 
+properties of elastic and muscular arteries through a process mediated 
+by the renin-angiotensin-aldosterone system, miR-212/132 and 
+miR-146b, and matrix metalloproteinase 9.http://www.masteratheart.be
+These findings may in 
+part explain why moderate and vigorous physical activity beyond a specific 
+amount of time does not offer additional reduction in mortality 
+risk, thereby exhibiting a nadir in the dose–response relationship.http://www.masteratheart.be
+,http://www.masteratheart.be
+
+
+One of the key strengths of our study was the comprehensive nature 
+of the participant recruitment, which was carefully designed to minimize 
+the risk of selection bias. As detailed in http://www.masteratheart.be
+, more than 5000 individuals 
+registered through the web portal after responding to study 
+
+
+Figure 2 Overall coronary atherosclerotic burden: the overall coronary atherosclerotic burden between lifelong athletes, late-onset athletes, and 
+non-athletic controls presented by (A) the Agatston coronary artery calcium score, (B) the number of plaques per individual, the prevalence of participants 
+with (C) = 1 coronary plaque, (D) = 50% stenosis, (E) = 1 proximal coronary plaque, and (F) the distribution of plaque types. Odds ratios and 
+between-group differences are adjusted for age, body mass index, systolic and diastolic blood pressure, total cholesterol, LDL cholesterol, HbA1c, and 
+family history of coronary artery disease.
+advertisements in the broad community. As a result, 1152 individuals 
+were eligible for inclusion in the study, which was twice the size of 
+the target study population. This stringent process enabled us to include 
+study participants at random, thereby diminishing the possibility 
+of including individuals who registered because of personal health concerns. 
+Importantly, the final sample size of the Master@Heart study remains 
+twice as large as that of previous studies.http://www.masteratheart.be
+
+
+Limitations
+
+The Master@Heart study was limited to male individuals and did not 
+provide insights on the exercise dose–response relationship in women. 
+For statistical power, we only included men as the risk of coronary artery 
+disease is significantly lower in women. All participants of the 
+Master@Heart study were of White ethnicity, so our results may not 
+be extrapolated to other ethnicities. All athletes denied using illicit 
+performance-enhancing drugs that might induce or accelerate coronary 
+atherosclerosis. However, no laboratory tests were performed to exclude 
+this possibility. The primary endpoint from the Master@Heart 
+study was investigated in a cross-sectional design. Therefore, a 
+definitive causal relationship between endurance exercise and coronary 
+artery disease cannot be made. We applied stringent inclusion criteria 
+in order to minimize the influence of traditional cardiovascular risk factors. 
+However, we did not perform blood sampling or blood pressure 
+monitoring prior to study inclusion. Nevertheless, we do not believe 
+that the higher prevalence of coronary plaques in athlete was influenced 
+by occult arterial hypertension or dyslipidaemia as blood pressure was 
+similar between groups and athletes had even more favourable lipid 
+profiles than controls. Multiple comparisons were performed between 
+lifelong athletes, late-onset athletes, and controls which may increase 
+the risk of Type 1 errors. Finally, lifetime training load was assessed 
+using questionnaires rather than continuous tracking of training logs 
+over time. We do assess training load as part of the prospective follow- 
+up of all study participants, such that we will be able to disentangle 
+exercise intensity and duration and their relationship with coronary 
+atherosclerosis in the future. We cannot exclude that some athletes 
+may have temporarily interrupted exercise training during their lifetime. 
+Nevertheless, superior aerobic capacity and lowest body fat percentage 
+provide indirect evidence of superior training levels in the athletic 
+population.
+
+
+Figure 3 Coronary atherosclerotic burden by plaque type. The coronary atherosclerotic burden by =1 proximal (A) calcified, (C) non-calcified, and 
+(E) mixed plaques as well as by =50% stenosis by (B) calcified, (D) non-calcified, and (F) mixed plaques. Odds ratios are adjusted for age, body mass 
+index, systolic and diastolic blood pressure, total cholesterol, LDL cholesterol, HbA1c, and family history of coronary artery disease.
+
+Conclusion
+
+Lifelong endurance sport participation on top of a healthy lifestyle is not 
+associated with a more favourable coronary plaque composition. 
+Lifelong middle-aged athletes had more coronary plaques, including 
+more non-calcified and mixed plaques and plaques in proximal segments 
+with significant luminal stenosis, than fit and healthy individuals 
+with a similarly low cardiovascular risk profile. The dose–response relationship 
+between endurance training and coronary atherosclerosis 
+may be reverse J-shaped. Longitudinal research is needed to reconcile 
+these findings with the risk of cardiovascular events at the higher end 
+of the endurance exercise spectrum.

@@ -1,0 +1,27 @@
+INTRODUCTION: Short-chain fatty acids (SCFAs) correlate with colonic transit 
+time (CTT) and may influence irritable bowel syndrome (IBS) pathophysiology. 
+However, the clinical significance of fecal SCFAs, relationships between SCFAs 
+and other metabolites (bile acids [BAs]), and real-time diet effects on SCFAs in 
+IBS are uncertain. The aim was to evaluate fecal SCFA associations with IBS 
+phenotype and mechanisms and explore effects of real-time diet.
+METHODS: We conducted a prospective observational study of fecal SCFA, BAs, and 
+CTT in healthy controls (HCs) and participants with IBS. We compared study end 
+points across groups, analyzed relationships between end points, and evaluated 
+the discriminative ability of SCFAs. Diet effects were explored in participants 
+with dietary data.
+RESULTS: Among 21 HCs and 43 participants with IBS, fecal SCFAs (total, 
+individual) were inversely correlated with overall (all P < 0.01) and segmental 
+(all P < 0.05) CTT; similar associations were observed within HC and IBS groups. 
+The acetate-to-butyrate ratio correlated with slower overall and left CTT in all 
+and in HCs (both P < 0.01). SCFAs (total, acetate) correlated with BAs (total, % 
+primary) in all participants and in those with IBS with diarrhea. Logistic 
+regression analyses demonstrated associations of acetate with slower transit 
+(odds ratio = 0.988, P = 0.002) and BA diarrhea (BAD; odds ratio = 1.014, P = 
+0.001). Acetate accurately predicted delayed CTT (area under the receiving 
+operating characteristic curve = 0.84) and BAD (area under the receiver 
+operating characteristic curve = 0.79). Adjusting for diet strengthened 
+correlations of total SCFAs with overall CTT ( R = [-0.46], P = 0.04) and SCFAs 
+with transverse CTT (all P < 0.05).
+DISCUSSION: Fecal SCFAs correlate with CTT and fecal BAs and reliably exclude 
+delayed CTT and BAD. Accounting for diet strengthens SCFA associations with 
+transit.

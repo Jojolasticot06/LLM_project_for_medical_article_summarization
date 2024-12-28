@@ -1,0 +1,32 @@
+OBJECTIVE: To evaluate reasons for WW and to document the natural course of BCC 
+in patients who chose WW and reasons to initiate later treatment.
+DESIGN, SETTING, AND PARTICIPANTS: An observational cohort study was performed 
+at a single institution between January 2018 and November 2020 studying patients 
+with 1 or more untreated BCC for 3 months or longer.
+EXPOSURES: Watchful waiting was chosen by patients and proxies regardless of 
+this study.
+MAIN OUTCOME AND MEASURES: The reasons for WW and treatment were extracted from 
+patient files and were categorized for analyses. Linear mixed models were used 
+to estimate tumor growth and identify covariates associated with tumor growth.
+RESULTS: Watchful waiting was chosen for 280 BCCs in 89 patients (47 men [53%] 
+and 42 women [47%]), with a median (interquartile range [IQR]) follow-up of 9 
+(4-15) months. The median (IQR) age of the included patients was 83 (73-88) 
+years. Patient-related factors or preferences (ie, prioritizations of 
+comorbidities, severe frailty, or limited life expectancy) were reasons to 
+initiate WW in 74 (83%) patients, followed by tumor-related factors (n = 49; 
+55%). Treatment-related and circumstantial reasons were important for 35% and 
+46% of the patients, respectively. The minority of tumors increased in size 
+(47%). Tumor growth was associated with BCC subtype (odds ratio, 3.35; 95% CI, 
+1.47-7.96; P = .005), but not with initial tumor size and location. The 
+estimated tumor diameter increase was 4.46 mm (80% prediction interval, 1.42 to 
+7.46 mm) in 1 year for BCCs containing at least an infiltrative/micronodular 
+component and 1.06 mm (80% prediction interval, -1.79 to 4.28 mm) for the 
+remaining BCCs (only nodular/superficial component/clinical diagnosis). Most 
+common reasons to initiate treatment were tumor burden or potential tumor 
+burden, resolved reason(s) for WW, and reevaluation of patient-related factors.
+CONCLUSIONS AND RELEVANCE: In this cohort study of patients with BCC, WW was an 
+appropriate approach in several patients, especially those with asymptomatic 
+nodular or superficial BCCs and a limited life expectancy. Patients should be 
+followed up regularly to determine whether a WW approach is still suitable and 
+whether patients still prefer WW and to reconsider consequences of treatment and 
+refraining from treatment.

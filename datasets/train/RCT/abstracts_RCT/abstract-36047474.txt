@@ -1,0 +1,23 @@
+1/ The efficacy of ponesimod and teriflunomide for the treatment of relapsing 
+multiple sclerosis (MS) was compared in a randomized phase III trial. 
+2/ This study explores the exposure-response (E-R) relationships of efficacy end points 
+(annualized relapse rate [ARR] and combined unique active lesions [CUALs]) of 
+ponesimod observed in this trial. The E-R relationships were described using 
+nonlinear mixed effects models for count data. The effect of baseline covariates 
+(demography and prognostic factors) was also explored. 
+3/ Ponesimod 20 mg reduced 
+ARR (primary end point) by 30.5% (95% confidence interval [CI]: 9.8% to 46.4%) 
+and the number of CUALs by 56% (95% CI: 46% to 64%) between baseline and week 
+108 compared to teriflunomide 14 mg. The E-R analyses indicated a significant 
+relationship between ARR and CUAL. In turn, CUAL was significantly related to 
+ponesimod systemic exposure. Based on these relationships, the predicted 
+reduction of ARR was relatively flat in the range of ponesimod systemic exposure 
+achieved with the 20 mg clinical dose: the expected ARR decrease ranged from 28% 
+(95% CI: 11% to 42%) at the 5th percentile of ponesimod exposure to 34% (95% CI: 
+19% to 47%) at the 95th percentile. No significant baseline covariates affected 
+the ponesimod effects and, consequently, dosage adjustments are not warranted by 
+these analyses. 
+4/ Although significant relationships were found between ARR and 
+CUAL and between ponesimod exposure and CUAL, these analyses were supportive of 
+the use of a flat 20 mg maintenance dose for ponesimod in adult patients with 
+MS.

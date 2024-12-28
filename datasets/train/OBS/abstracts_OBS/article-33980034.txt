@@ -1,0 +1,630 @@
+Coronary atherosclerotic lesions composed of lipidrich 
+plaque (LRP) underlie the majority of myocardial 
+infarctions, as demonstrated postmortem1 and 
+by intracoronary imaging in vivo.2–5 The immunologically 
+active and inflammatory nature of some LRP likely contributes 
+to their vulnerability, propensity for local destabilization, 
+and triggering of site-specific coronary events.6,7 
+After treating a culprit LRP with percutaneous coronary 
+intervention (PCI), some degree of lipid content is frequently 
+retained within the stented plaque.8,9 Whether 
+retained LRP within the stented plaque remains active 
+
+and continues to influence the local environment is 
+unknown. If some degree of immunologic activity and 
+inflammation persists poststenting, it is conceivable that 
+retained LRP might be associated with a higher risk of 
+subsequent target lesion failure (TLF). 
+
+LRP can be reliably detected by intracoronary nearinfrared 
+spectroscopy (NIRS).10,11 Whereas LRP has 
+been studied at target lesion sites with combined NIRS 
+and intravascular ultrasound (IVUS) before stent placement,
+4,5 the association between the retained target 
+lesion lipid content detected by NIRS after PCI and 
+
+subsequent coronary events has not been previously 
+studied. Using combined NIRS-IVUS, the present study 
+was performed to determine if target lesion lipid content 
+detected by NIRS in the stented segment after PCI is 
+associated with an increased risk of subsequent TLF 
+during follow-up. 
+
+MATERIALS AND METHODS 
+Study Population 
+
+The data that support the findings of this study are available 
+from the corresponding author upon reasonable request. The 
+Spectrum NIRS-IVUS Registry is a single-center observational 
+registry of prospectively enrolled patients undergoing 
+combined NIRS-IVUS imaging at Spectrum Health in Grand 
+Rapids, MI. Inclusion criteria for participation in the registry are 
+age =18 years, referral to the catheterization laboratory for 
+clinically indicated invasive coronary angiography or PCI, and 
+performance of NIRS-IVUS imaging within the index target 
+vessel.12,13 In all registry participants, clinical outcome data are 
+collected prospectively after NIRS-IVUS imaging by study personnel 
+blinded to the NIRS-IVUS imaging findings with phone 
+calls at 6 months after the index procedure, 1 year after the 
+index procedure, and then annually for a total of 5 years. This 
+study was approved by the local institutional review board, and 
+all participants provided written informed consent. 
+
+To be included in this analysis, registry patients needed to 
+meet all of the following criteria: at least one target lesion in a 
+native coronary artery was treated with stent placement at the 
+time of the index procedure; NIRS-IVUS imaging of the stented 
+segment was performed after PCI was complete; and no additional 
+balloon dilations or stent implantations were performed 
+at the treated target lesion site during the index procedure after 
+final NIRS-IVUS imaging was performed. Registry patients 
+were excluded from this analysis if PCI was not performed, 
+post-PCI NIRS-IVUS imaging was not performed, poststent 
+NIRS-IVUS imaging was performed but additional postdilations 
+or stent implantations were undertaken after final NIRS-IVUS 
+imaging, PCI was performed for treatment of in-stent restenosis 
+or stent thrombosis in a preexisting stent, PCI was performed 
+in a bypass graft, bifurcation stenting was performed, or 
+
+NIRS-IVUS Imaging and Analysis 
+
+The decision to perform NIRS-IVUS imaging at the time of 
+invasive angiography was at the discretion of the operating 
+physician. The NIRS-IVUS catheter (TVC Imaging System, 
+Infraredx, Burlington, MA) was advanced into the target vessel 
+and motorized pullback was performed at 0.5 mm/s. 
+
+NIRS-IVUS images were interpreted off-line by the atherosclerosis 
+imaging core laboratory at Wakayama University 
+(Wakayama, Japan). Investigators at the core laboratory were 
+blinded to patient’s clinical data and outcomes. The proximal 
+and distal margins of all coronary stents were identified and 
+marked on the IVUS images. This simultaneously resulted in 
+marking the location of the stent edges on the NIRS chemogram, 
+as NIRS images are automatically coregistered to IVUS 
+images at the time of image acquisition. The 5-mm margins 
+proximal and distal to the stent edges were similarly marked. 
+Quantitative IVUS analysis was performed along the entire 
+length of the stent and in the 5-mm stent margins on cross-sectional 
+images spaced 1-mm apart using commercially available 
+software (CAAS IntraVascular, Pie Medical Imaging, Maastricht, 
+Netherlands). The external elastic membrane, luminal contours, 
+and stent contours were traced on each image. Plaque burden 
+was calculated as (external elastic membrane area–lumen 
+area)/external elastic membrane area×100. Plaque volume in 
+the stented segment and in the stent margins was measured 
+using the trapezoid rule for volumetric analysis. IVUS images 
+were analyzed qualitatively for the presence of dissection in 
+the proximal and distal stent margins. Target lesions treated by 
+implanting two overlapping stents during the index procedure 
+were analyzed as a single stent. 
+
+NIRS images were considered uninterpretable and excluded 
+from further analysis if the corresponding block chemogram 
+was black in color, indicating the absence of reliable data. To 
+assess the amount of residual lipid present within and adjacent 
+to the stent after PCI, NIRS chemograms were interrogated for 
+
+the lipid core burden index (LCBI) and the maximum LCBI in 4 
+mm (maxLCBI4mm) in each stented segment and separately in 
+each stent margin. LCBI is defined as the fraction of pixels indicating 
+lipid within a region multiplied by 1000.4,5 MaxLCBI4mm 
+is defined as the 4-mm region with the highest LCBI in the 
+segment of interest.4,5 The detection of a residual large lipid 
+core by NIRS having a maxLCBI4mm =400 in the stented segment 
+or within the stent margins was also reported, as lipid-rich 
+plaques of this size at nonstented sites have previously been 
+associated with future cardiovascular events.13,14 NIRS images 
+of target lesions before stent placement were evaluated for the 
+prestent maxLCBI4mm. To understand how the NIRS-detected 
+lipid content in the target lesions changed with stenting, the 
+difference in prestent maxLCBI and poststent maxLCBI 
+
+4mm 4mm 
+
+was determined and reported as .maxLCBI4mm. 
+
+Clinical Outcomes 
+
+Two cardiologists blinded to the NIRS-IVUS findings independently 
+adjudicated all clinical events using original source 
+documents. Differing interpretations between the two adjudicators 
+were resolved by a third independent cardiologist. 
+The primary outcome evaluated in this study was TLF, defined 
+as a composite of cardiovascular death, target vessel myocardial 
+infarction, and clinically driven target lesion revascularization. 
+The secondary outcomes reported were the 
+individual components of the primary end point and definite 
+stent thrombosis. Myocardial infarction was defined using the 
+third universal definition of myocardial infarction.15 All other 
+end points were defined according to the standardized definitions 
+proposed by the Academic Research Consortium-2 
+Consensus Document.16 
+
+Statistical Analysis 
+
+Descriptive statistics were used to summarize baseline characteristics 
+and outcome measures. All continuous data were 
+explored using histograms graphically and measures of normality 
+to determine conformance to a normal distribution. Normally 
+distributed continuous variables are shown as mean±SD. Nonnormally 
+distributed continuous variables are shown as median 
+[25th percentile, 75th percentile]. Categorical variables are 
+shown as count (% frequency). 
+
+The NIRS measures of exposure in the stented segment 
+and in the stent margins were the LCBI and maxLCBI4mm. The 
+binary variable of a maxLCBI4mm threshold of 400 was also 
+evaluated. IVUS measures of exposure in the stented segment 
+were stent length, plaque volume, maximum plaque burden, 
+and several measures of stent expansion. Measures of stent 
+expansion included minimum stent area (MSA), relative stent 
+expansion compared to the average minimum lumen area 
+(MLA) of the proximal and distal reference segments (calculated 
+as MSA/MLA , where MLA is the average MLA of 
+
+avg avg 
+
+the proximal and distal reference segments), and relative stent 
+expansion compared to the MLA of the distal reference segment 
+(calculated as MSA/MLA , where MLA is the MLA of 
+
+dist dist 
+
+the distal reference segment). IVUS measures of exposure in 
+the proximal and distal stent margins were MLA, plaque volume, 
+maximum plaque burden, and the presence of dissection. 
+
+Univariate comparisons of baseline clinical variables, as 
+well as the primary and secondary measures of exposure by 
+NIRS-IVUS imaging, were performed among patients with and 
+
+without TLF during follow-up. P values for comparison of continuous 
+variables were derived from 2 sample independent t 
+tests if data were normally distributed or from Wilcoxon Rank-
+Sum tests if data were not normally distributed. P values for 
+comparison of categorical variables were generated with a .2 
+analysis or a Fisher exact test if the expected cell counts were 
+below 5 in >20% of the cells. 
+
+Variables in the univariate comparison having a P value of 
+
+<0.10 were assessed for inclusion in a multivariate logistic regression 
+model to identify variables independently associated with TLF. 
+Variables having a P<0.10 but with >5% missing values were 
+excluded from the model. Although both maxLCBI4mm and LCBI in 
+the stented segment met the criteria for inclusion in the model, only 
+maxLCBI4mm was chosen for inclusion given the greater emphasis 
+in prior studies between maxLCBI4mm and future coronary 
+events.13,14 Backwards selection was completed to ensure any variables 
+left in the model were significant at the P=0.05 level. To test 
+the ability of residual maxLCBI4mm in the stented segment to differentiate 
+treated target lesions with and without subsequent TLF, a 
+receiver-operating characteristic analysis was performed to generate 
+a C statistic and to determine the optimal residual maxLCBI4mm 
+threshold for identifying subsequent TLF. Calculations of the sensitivity 
+and specificity of this threshold were performed. Cumulative 
+TLF event rates among stented segments with a residual maxLCBI4mm 
+above and below the optimal threshold determined by the 
+receiver-operating characteristic analysis were performed using a 
+Kaplan-Meier curve and compared using a log-rank test. All statistical 
+analyses were generated using SAS (SAS Enterprise Guide 
+software, Version 7.1; SAS Institute, Inc, Cary, NC). 
+RESULTS 
+Baseline Characteristics of the Study 
+Population 
+
+Between January 2012 and September 2016, a total of 
+500 patients were prospectively enrolled into the NIRSIVUS 
+registry. Of these, 202 (40.4%) patients with 209 
+target lesions treated by PCI met inclusion criteria for this 
+analysis and represent the study population (Figure 1). 
+Among the study population, 191 (94.6%) patients 
+had a baseline clinical presentation consistent with an 
+acute coronary syndrome, including 102 (50.5%) who 
+presented with a myocardial infarction (Table 1). Target 
+lesions were treated with second-generation drug-eluting 
+stents in 73.7% and bare-metal stents in 26.3%. After 
+the index procedure, dual antiplatelet therapy and statins 
+were utilized in 100% and 97.0% of patients, respectively. 
+
+Target Lesion Failure 
+
+Follow-up duration among the study population was 
+3.5±1.4 years. During that time, TLF occurred in 16 
+(7.7%) stented target lesions. TLF events were based 
+on the occurrence of cardiovascular mortality in 4 
+(2.0%), target vessel myocardial infarction in 3 (1.5%), 
+and target lesion revascularization in 9 (4.3%). Among 
+the 209 stented target lesions, definite stent thrombosis 
+occurred in 1 (0.5%) lesion. At the patient level, 
+
+Figure 1. Flowchart of registry patients included and excluded in this analysis. 
+
+Shown is a flowchart with indications for patient exclusion in this analysis. IVUS indicates intravascular ultrasound; NIRS, near-infrared 
+spectroscopy; and PCI, percutaneous coronary intervention. 
+
+there were no significant differences in baseline clinical 
+variables among patients with and without TLF during 
+follow-up (Table 1). The use of drug-eluting stents at 
+baseline was significantly lower among stented target 
+lesions with (50.0%) versus without (75.7%) TLF during 
+follow-up (P=0.04). 
+
+Baseline NIRS-IVUS Findings and Subsequent 
+TLF 
+
+Baseline NIRS-IVUS findings among stented lesions 
+with and without TLF during follow-up are presented 
+in Table 2. Stented lesions with TLF had a greater 
+retained lipid content after PCI compared with those 
+without TLF, as demonstrated by a significantly greater 
+residual maxLCBI4mm (297 [211, 401] versus 119 [9, 
+258], P=0.006) and LCBI (99 [54, 148] versus 28 [2, 
+86], P=0.008) in the stented segment. The post-PCI 
+maxLCBI4mm and LCBI in the proximal and distal stent 
+margins were not significantly associated with subsequent 
+TLF (Table 2). Whereas NIRS findings in the 
+stented segment after PCI were associated with subsequent 
+TLF, NIRS findings in target lesions before 
+stenting were not significantly associated with TLF (no 
+TLF: prestent maxLCBI4mm 435 [253, 609]; TLF: prestent 
+maxLCBI4mm 547 [412, 750]; P=0.12). Similarly, 
+the change in lipid content before and after stenting 
+
+was not associated with TLF during follow-up (no TLF: 
+.maxLCBI 264 [127, 438]; TLF: .maxLCBI 225
+
+4mm 4mm 
+
+[211, 316]; P=0.8658). 
+
+By IVUS, the MSA in the stented segment was numerically 
+lower for lesions with (5.5±2.0 mm2) compared to 
+without (6.5±2.3 mm2) TLF during follow-up, but the 
+study failed to find statistical significance (P=0.099). 
+Relative stent expansion was not significantly different 
+among cases with and without TLF during followup, 
+regardless of whether relative stent expansion was 
+measured against the average MLA of the proximal and 
+distal reference segments or against the MLA of the distal 
+reference segment (Table 2). A proximal stent edge 
+dissection was evident at baseline in 1.6% of treated 
+target lesions without TLF during follow-up and in none 
+of the treated target lesions with TLF (P=1.0). A distal 
+stent edge dissection was present at baseline in 3.3% 
+of treated target lesions without TLF and in none of the 
+treated target lesions with TLF (P=1.0). No significant 
+differences in plaque burden or plaque volume in the 
+stent margins were observed among lesions with and 
+without subsequent TLF (Table 3). The only baseline 
+IVUS finding associated with TLF during follow-up was 
+MLA in the distal stent margin, which was significantly 
+smaller among lesions with (4.6 [4.0, 6.4] mm2) compared 
+with lesions without (6.3 [4.9, 8.2] mm2) subsequent 
+TLF (P=0.04). 
+
+Table 1. Baseline Characteristics of the Study Population 
+
+All; N=202 No TLF; N=187 TLF; N=15 P value 
+Age, y 62.1±11.8 62.4±11.7 58.1±12.4 0.17 
+Male 150 (74.3) 138 (73.8) 12 (80.0) 0.76 
+Body mass index 30.3±5.4 30.2±5.3 30.8±6.0 0.71 
+Hypertension 115 (56.9) 108 (57.8) 7 (46.7) 0.40 
+Hyperlipidemia 99 (49.0) 93 (49.7) 6 (40.0) 0.47 
+Diabetes 38 (18.8) 33 (17.7) 5 (33.3) 0.17 
+Current/former smoking 117 (57.9) 107 (57.2) 10 (66.7) 0.48 
+Prior myocardial infarction 16 (7.9) 15 (8.0) 1 (6.7) 1.00 
+Prior PCI 24 (11.9) 21 (11.2) 3 (20.0) 0.40 
+Index clinical presentation 
+STEMI 61 (30.2) 53 (28.3) 8 (53.3) 0.18 
+Non-STEMI 41 (20.3) 39 (20.9) 2 (13.3) 0.18 
+Unstable angina 86 (42.6) 82 (43.9) 4 (26.7) 0.18 
+Stable angina 7 (3.5) 7 (3.7) 0 (0.0) 0.18 
+Cardiogenic shock/cardiac arrest 3 (1.5) 2 (1.1) 1 (6.7) 0.18 
+Other 4 (2.0) 4 (2.1) 0 (0.0) 0.18 
+Medications after index procedure 
+Aspirin 202 (100.0) 187 (100.0) 15 (100.0) NA 
+P2Y12 inhibitor 202 (100.0) 187 (100.0) 15 (100.0) NA 
+Clopidogrel 51 (25.2) 48 (25.7) 3 (20.0) 
+Prasugrel 51 (25.2) 48 (25.7) 3 (20.0) 0.83 
+Ticagrelor 100 (49.5) 91 (48.7) 9 (60.0) 
+Statin 196 (97.0) 182 (97.3) 14 (93.3) 0.37 
+
+Based on the results of the univariate analysis, the following 
+variables met criteria and were included in the multivariate 
+logistic regression model: use of drug-eluting stent 
+or bare-metal stent; maxLCBI4mm in the stented segment; 
+and MSA in the stented segment. By multivariate logistic 
+regression analysis, residual maxLCBI4mm in the stented 
+segment was the only variable independently associated 
+with subsequent TLF (odds ratio, 1.6 [95% CI, 1.2–2.1] 
+for every 100-unit increase, P=0.004; Figure 2; Table 3). 
+
+Residual MaxLCBI4mm Threshold for TLF 
+
+By receiver-operating characteristic analysis, the baseline 
+residual maxLCBI4mm in the stented segment differentiated 
+lesions with and without subsequent TLF with a 
+C statistic of 0.71 (Figure 3). The optimal residual maxLCBI4mm 
+threshold in the stented segment for identifying 
+TLF was 200 and was characterized by a sensitivity of 
+81.2% and specificity of 64.6%. The rate of TLF during 
+follow-up was 15.0% among stented lesions with 
+a baseline residual maxLCBI4mm >200 and was 3.1% 
+among stented lesions with a residual maxLCBI4mm 
+=200 (P=0.002). Kaplan-Meier curves for stented target 
+lesions with and without a residual maxLCBI4mm >200 in 
+the stented segment at baseline are shown in Figure 4. 
+
+DISCUSSION 
+
+The principal finding of the present study is that lipid 
+content detected by NIRS in the stented segment after 
+PCI was associated with TLF during follow-up. This was 
+evident both in the univariate analysis, in which stented 
+target lesions that developed TLF had a nearly 3-fold 
+greater retained lipid content compared to lesions without 
+TLF, and in the multivariate analysis, in which the baseline 
+maxLCBI4mm in the stented segment was the only variable 
+independently associated with TLF. In the multivariate 
+analysis, higher quantities of retained lipid were associated 
+with a higher risk of TLF, as each 100-unit increase 
+in the maxLCBI4mm in the stented segment at baseline was 
+associated with a 1.6-fold increase in the odds of developing 
+TLF. By receiver-operating characteristic analysis, 
+a post-PCI maxLCBI4mm of >200 in the stented segment 
+was the optimal threshold for differentiating stented target 
+lesions that did and did not develop subsequent TLF. 
+Stented target lesions with a retained lipid content above 
+this threshold had a nearly 5-fold higher TLF event rate 
+than was observed among lesions with a retained lipid content 
+below this threshold. These observations should only 
+be considered hypothesis-generating due to the observational 
+nature of the study. However, whereas multiple 
+
+Table 2. Baseline Post-PCI NIRS-IVUS Findings Among Target 
+Lesions With and Without TLF During Follow-Up 
+
+No TLF TLF P value 
+Stented segment N=193 N=16 
+Stent length, mm 20 [17, 29] 25 [16, 36] 0.38 
+Plaque volume, mm3 182 [127, 249] 202 [143, 251] 0.74 
+Plaque burden, % 52.8±7.7 55.3±5.0 0.20 
+LCBI 28 [2, 86] 99 [54, 148] 0.008 
+MaxLCBI4mm 119 [9, 258] 297 [211, 401] 0.006 
+MaxLCBI=400 4mm 19 (9.9) 4 (25.0) 0.08 
+MSA, mm2 6.5±2.3 5.5±2.0 0.09 
+Relative stent expansion N=182 N=15 
+MSA/MLA, %avg83±18 80±20 0.51 
+MSA/MLA=80% avg 99/175 (56.6) 7/14 (50.0) 0.63 
+MSA/MLA, %dist96 [80, 109] 107 [93, 118] 0.07 
+MSA/MLA=90% dist 107 (58.8) 13 (86.7) 0.051 
+Proximal stent margin N=186 N=15 
+Minimum lumen area, mm2 8.5 [6.3, 11.0] 7.5 [6.4, 8.2] 0.36 
+Plaque volume, mm3 37±18 32±19 0.27 
+Plaque burden, % 42.1±12.1 40.9±12.0 0.70 
+Edge dissection 3 (1.6) 0 (0.0) 1.00 
+LCBI 16 [0, 100] 11 [0, 89] 0.95 
+MaxLCBI4mm 22 [0, 125] 23 [0, 113] 0.91 
+MaxLCBI=400 4mm 1 (0.6) 1 (8.3) 0.13 
+Distal stent margin N=182 N=15 
+Minimum lumen area, mm2 6.3 [4.9, 8.2] 4.6 [4.0, 6.4] 0.04 
+Plaque volume, mm3 24±16 20±10 0.26 
+Plaque burden, % 36.0±13.6 38.5±15.5 0.51 
+Edge dissection 6 (3.3) 0 (0.0) 1.00 
+LCBI 0 [0, 82] 0 [0, 173] 0.72 
+MaxLCBI4mm 0 [0, 88] 0 [0, 215] 0.76 
+MaxLCBI=400 4mm 7 (3.9) 1 (7.1) 0.46 
+
+IVUS indicates intravascular ultrasound; LCBI, lipid core burden index; maxL-
+CBI , maximum lipid core burden index in 4 mm; MLA , average minimum lumen 
+
+4mm avg 
+
+area of the proximal and distal reference segments; MLAdist, minimum lumen area of 
+the distal reference segment; MSA, minimum stent area; NIRS, near-infrared spectroscopy; 
+PCI, percutaneous coronary intervention; and TLF, target lesion failure. 
+
+prior studies have demonstrated that intracoronary LRP 
+at nonstented sites are associated with future cardiovascular 
+events,13,14,17 the present observations suggest that 
+retained LRP may continue to be associated with adverse 
+cardiovascular events even after treatment with stenting. 
+
+LRP Underlying a Stent: Insights From Prior 
+Studies 
+
+Whereas autopsy studies have convincingly linked the 
+rupture and thrombosis of LRP with the occurrence of 
+myocardial infarction,1 some postmortem observations 
+have also suggested that LRP might continue to influence 
+cardiovascular outcomes even after being treated 
+with PCI. Joner et al18 suggested penetration of a stent 
+
+Table 3. Results of Multivariable Logistic Regression Model 
+to Identify Variables Independently Associated With Target 
+Lesion Failure During Follow-Up 
+
+Logistic regression OR (95% CI) ß (95% CI) P value 
+Stent type–BMS 2.8 (0.9 to 8.5) 0.5 (0.0 to 1.1) 0.1288 
+MaxLCBI (per 1004mmunit 
+increase) 
+1.6 (1.2 to 2.1) 0.0 (0.0 to 0.0) 0.0040 
+Minimum stent area 0.8 (0.6 to 1.1) -0.2 (-0.5 to 0.1) 0.0740 
+
+BMS indicates bare-metal stent; maxLCBI4mm, maximum lipid core burden 
+index in 4 mm; and OR, odds ratio. 
+
+strut into a necrotic core as a mechanism for late stent 
+thrombosis and proposed that LRP underlying a stent 
+could conceivably alter drug distribution and retention. 
+Nakano et al19 demonstrated that both prolapse of a 
+necrotic lipid core and the size of a lipid core underlying 
+a stent were independently associated with early stent 
+thrombosis. Consistent with these postmortem observations, 
+irregular tissue protrusion visualized by optical 
+coherence tomography (OCT), a finding proposed to represent 
+the OCT correlate of stent strut penetration into 
+LRP, has been shown to be independently associated 
+with device-oriented clinical events during follow-up.20 
+
+Consistent with these prior observations, the present 
+study observed lipid content detected by NIRS in the 
+treated lesion immediately after stenting was associated 
+with an increased risk of subsequent TLF. Importantly, 
+NIRS imaging in this study was performed on all patients 
+after the PCI was completed and thereby identified the 
+presence or absence of retained lipid in the target lesion 
+post-PCI. A recent study of pre-PCI NIRS imaging demonstrated 
+the lipid content of culprit lesions identified 
+before PCI was not associated with subsequent culpritlesion 
+events during 2 years of follow-up.21 Consistent 
+with this finding, we did not observe pre-PCI NIRS findings 
+to be associated with subsequent TLF. Hence, the 
+risk of TLF after stenting may not relate to the lipid content 
+of the target lesion before PCI, but rather only to the 
+lipid that remains after PCI is performed. 
+
+IVUS Findings and TLF 
+
+Prior IVUS studies have demonstrated the degree of 
+stent expansion and suboptimal findings at the stent 
+edges, including a large plaque burden or edge dissections, 
+are major determinants of stent thrombosis and 
+restenosis risk.22,23 That IVUS findings of MSA, relative 
+stent expansion, plaque burden in the stent margins, and 
+stent edge dissections were not significantly associated 
+TLF in the present study is likely a manifestation of the 
+small sample size and small absolute number of TLF 
+events. In this regard, MSA was numerically lower among 
+lesions that had TLF compared with those that did not, 
+but study failed to find statistical significance which may 
+be due to insufficient sample size. The lack of an association 
+between stent edge dissections and TLF in the 
+
+Figure 2. Retained lipid in the stented segment and subsequent target lesion failure (TLF). 
+
+In this study, the maximum lipid core burden index in 4 mm (maxLCBI4mm) detected by near-infrared spectroscopy (NIRS) in the stented segment 
+after percutaneous coronary intervention (PCI) was the only variable independently associated with TLF during follow-up. Each 100-unit increase 
+in the maxLCBI4mm in the stented segment at baseline was associated with a 1.6-fold increase in the odds of developing TLF during follow-up. 
+Shown is a representative case of a patient with a large lipid core detected by NIRS on pre-PCI images (top) and a large amount of retained 
+lipid with a high maxLCBI4mm in the stented segment post-PCI (bottom). This patient developed TLF 131 d after the index PCI. 
+
+present study may also be attributable to the low overall 
+rate of observed edge dissections. In contrast to the 
+small sample size and low rates of edge dissections of 
+the present study, the Assessment of Dual Antiplatelet 
+Therapy With Drug-Eluting Stents sub-study, which demonstrated 
+an association between IVUS-detected edge 
+dissections and subsequent target lesion revascularization, 
+included >2400 lesions and observed untreated 
+stent edge dissections in nearly 8% of patients.22 
+
+LRP in the Stent Margins: Does it Matter? 
+
+Two prior observational studies indicated that NIRSdetected 
+LRP commonly extends beyond the angiographic 
+margins of the target lesion.24,25 Based on these 
+observations, it was previously suggested that NIRS 
+might have implications on stent length selection to 
+ensure adequate coverage of all lipid in and adjacent to 
+the target lesion. However, no association was observed 
+between lipid content detected by NIRS in the stent 
+margins and the risk of subsequent TLF. The lack of 
+association between NIRS-detected LRP in the stent 
+margins and subsequent TLF is seemingly inconsistent 
+with the findings of Ino et al26 linking OCT-detected 
+LRP in the stent margins with the risk of angiographic 
+binary restenosis at the stent edge. Several factors may 
+explain this discrepancy, including the concept that NIRS 
+and OCT findings indicating the presence of lipid are 
+often not congruent and may not be interchangeable.27 
+
+Furthermore, the study by Ino et al26 demonstrated the 
+risk of binary edge restenosis was dependent on lipid 
+core size, such that lesions with greater lipid arcs by 
+
+
+Figure 3. Receiver-operating characteristic (ROC) curve 
+for baseline maximum lipid core burden index in 4 mm 
+(maxLCBI4mm) in the stented segment and subsequent target 
+lesion failure (TLF). 
+
+Shown is the ROC curve for the postpercutaneous coronary 
+intervention maxLCBI4mm in the stented segment to differentiate treated 
+target lesions with and without subsequent TLF during follow-up. 
+OCT were associated with significantly higher rates of 
+restenosis. In the present study, large LRP were rarely 
+observed by NIRS in the stent margins. Rather, the NIRS 
+findings in the stent margins among patients in the present 
+study indicated the presence of relatively small lipid 
+cores. Whether larger LRP detected by NIRS in the stent 
+margins will associate with a higher risk of subsequent 
+TLF remains unknown. Taken collectively, the present 
+observations with NIRS and those of the prior OCT study 
+seem to suggest that small amounts of lipid in the stent 
+margins do not carry a substantial risk of TLF and angiographic 
+restenosis, respectively. 
+
+Limitations 
+
+This study is limited by its small sample size, single-center 
+observational study design, and the occurrence of 
+relatively few events during follow-up. The use of baremetal 
+stents in 26% of target lesions represents another 
+limitation. In this study, bare-metal stents were associated 
+with TLF in the univariate analysis. This observation 
+may be attributable to the higher rate of restenosis 
+characteristic of bare-metal stents and the hypothesis 
+that newer-generation drug-eluting stents may be less 
+thrombogenic than bare-metal stents. The higher rate of 
+TLF among bare-metal stents in the univariate analysis 
+is seemingly consistent with prior evidence demonstrating 
+bare-metal stents to be associated with higher rates 
+of target vessel revascularization, as well as myocardial 
+infarction and definite stent thrombosis, compared 
+to newer-generation drug-eluting stents.28 Despite the 
+high rate of bare-metal stent usage in the present study, 
+stent type was not associated with TLF by multivariate 
+analysis. Whether the present findings will extend to a 
+population treated only with drug-eluting stents remains 
+
+Figure 4. Time to target lesion failure 
+according to baseline maximum 
+lipid core burden index in 4 mm 
+(maxLCBI4mm) in the stented segment. 
+
+Shown are the Kaplan-Meier curves for 
+stented target lesions with and without a 
+residual maxLCBI4mm >200 in the stented 
+segment at baseline. 
+
+uncertain. Whereas NIRS findings in untreated coronary 
+arteries have been extensively validated against the gold 
+standard of histology,10,11 NIRS findings in stented segments 
+have not been similarly validated. Furthermore, we 
+cannot exclude the possibility that operators may have 
+selected longer stent lengths based on the NIRS findings 
+to adequately cover all substantial lipid cores, thereby 
+impacting the ability to detect an association between 
+large lipid content in the stent margins and subsequent 
+TLF. Finally, quantitative evaluations of edge dissections, 
+including measurement of dissection angle and dissection 
+length, were not performed. Although this may be 
+viewed as a limitation, a large prior study demonstrated 
+that length and angle of edge dissections detected by 
+IVUS were not significantly different between lesions 
+with and without target lesion revascularization.22 
+
+Conclusions 
+
+Lipid content detected by NIRS in the stented segment 
+after PCI was associated with an increased risk of 
+TLF during follow-up. Whereas prior studies have demonstrated 
+intracoronary LRP at nonstented sites to be 
+associated with future cardiovascular events, the present 
+observations suggest that retained lipid in the stented 
+segment may similarly be associated with adverse 
+events. These findings require confirmation in a larger 
+series of patients.

@@ -1,0 +1,9 @@
+Comparison of surgical technique (open vs. laparoscopic) on pathological and long term functional outcomes following radical prostatectomy.
+
+1/BACKGROUND: Few studies to date have directly compared outcomes of retropubic (RRP) and laparoscopic (LRP) radical prostatectomy. We investigated a single institution experience with RRP and LRP with respect to functional and pathological outcomes.
+
+2/METHODS: 168 patients who underwent RRP were compared to 171 patients who underwent LRP at our institution. Pathological and functional outcomes including postoperative urinary incontinence and erectile dysfunction (ED) of the two cohorts were examined.
+
+3/RESULTS: Patients had bilateral, unilateral and no nerve sparing technique performed in 83.3%, 1.8% and 14.9% of cases for RRP and 23.4%, 22.8% and 53.8% of cases for LRP, respectively (p < 0.001). Overall positive surgical margin rates were 22.2% among patients who underwent RRP compared to 26.5% of patients who underwent LRP (p = 0.435). Based upon pads/day, urinary continence postoperatively was achieved in 83.2% and 82.8% for RRP and LRP, respectively (p = 0.872). Analysis on postoperative ED was limited due to lack of information on the preoperative erectile status. However, postoperatively there were no differences with respect to ED between the two cohorts (p = 0.151). Based on ICIQ-scores, surgeons with more experience had lower rates of postoperative incontinence irrespective of surgical technique (p = 0.001 and p < 0.001 for continuous and stratified data, respectively).
+
+4/CONCLUSIONS: RRP and LRP represent effective surgical approaches for the treatment of clinically localized prostate cancer. Pathological outcomes are excellent for both surgical techniques. Functional outcomes including postoperative urinary incontinence and ED are comparable between the cohorts. Surgeon experience is more relevant than surgical technique applied.

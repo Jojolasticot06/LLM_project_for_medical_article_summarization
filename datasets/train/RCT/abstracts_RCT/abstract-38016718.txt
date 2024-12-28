@@ -1,0 +1,12 @@
+Randomized, open-label, phase II, biomarker study of immune-mediated mechanism of action of neoadjuvant subcutaneous trastuzumab in patients with locally advanced, inflammatory, or early HER2-positive breast cancer-Immun-HER trial (GOIRC-01-2016).
+
+1/BACKGROUND: It is possible to induce immunomodulation in HER2-positive breast cancer (BC) by modifying the route of administration of trastuzumab.
+
+2/METHODS: In this multicenter randomized phase II trial, all enrolled patients (pts) with T2-T4d HER2-positive BC received 3 cycles of neoadjuvant treatment (NAT) with fluorouracil, epirubicin and cyclophosphamide every 3 weeks (q21), followed by docetaxel/pertuzumab plus intravenous trastuzumab (arm A) or, docetaxel/pertuzumab plus subcutaneous (SC) trastuzumab (arm B) q21x4 cycles. After surgical operation, each pt was treated with trastuzumab q21x14 cycles using the same SC or intravenous formulation of NAT. Primary endpoint was the proportion of subjects with high stromal tumor-infiltrating lymphocytes (sTILs) 
+in postneoadjuvant residual disease (RD).
+
+3/RESULTS: Sixty-three pts (31 (arm A) and 32 (arm B)) were enrolled. Pathological complete response was obtained by 20/31 pts (64.5%; 95% CI 45.4% to 80.1%) in arm A and 19/32 pts (59.4%; 95% CI 40.1% to 76.3%) in arm B. High sTILs were observed in 27% and 46% of postneoadjuvant residual tumors in arms A and B, 
+respectively. CD8+ T cells increased significantly in RDs of both arms (p=0.014 and 0.002 for arm A and B, respectively), whereas a significant decline in the level of CD4+ FoxP3+ regulatory T cells was observed only in arm B (p=0.016). A significant upregulation of PD-1 on sTILs was found in RD of pts enrolled in arm B (p=0.012), while programmed death-ligand 1 (PD-L1) was significantly overexpressed in residual tumors of arm A (p=0.02). A strong negative correlation was reported in arm B between expression of PD-L1 on 
+pretreatment sTILs and CD3 expression on sTILs in RD (τ: -0.73). Grade≥3 AE incidence rates were similar between the two arms.
+
+4/CONCLUSIONS: SC trastuzumab induced relevant sTILs enrichment, with favorable variations of immune parameters in HER2-positive BC pts with RD after NAT. Novel immunotherapy strategies should be tested to achieve SC-specific, antitumor immune response.

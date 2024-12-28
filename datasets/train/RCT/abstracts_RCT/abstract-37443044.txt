@@ -1,0 +1,37 @@
+BACKGROUND: COVID-19 inequities are abundant in low-income communities of color. 
+Addressing COVID-19 vaccine hesitancy to promote equitable and sustained 
+vaccination for underserved communities requires a multi-level, scalable, and 
+sustainable approach. It is also essential that efforts acknowledge the broader 
+healthcare needs of these communities including engagement in preventive 
+services.
+METHODS: This is a hybrid type 3 effectiveness-implementation study that will 
+include a multi-level, longitudinal, mixed-methods data collection approach 
+designed to assess the sustained impact of a co-created multicomponent strategy 
+relying on bidirectional learning, shared decision-making, and expertise by all 
+team members. The study capitalizes on a combination of implementation 
+strategies including mHealth outreach with culturally appropriate messaging, 
+care coordination to increase engagement in high priority preventive services, 
+and the co-design of these strategies using community advisory boards led by 
+Community Weavers. Community Weavers are individuals with lived experience as 
+members of an underserved community serving as cultural brokers between 
+communities, public health systems, and researchers to co-create 
+community-driven, culturally sensitive public health solutions. The study will 
+use an adaptive implementation approach operationalized in a sequential multiple 
+assignment randomized trial design of 300 participants from three sites in a 
+Federally Qualified Health Center in Southern California. This design will allow 
+examining the impact of various implementation strategy components and deliver 
+more intensive support to those who benefit from it most. The primary 
+effectiveness outcomes are COVID-19 vaccine completion, engagement in preventive 
+services, and vaccine confidence. The primary implementation outcomes are reach, 
+adoption, implementation, and maintenance of the multicomponent strategy over a 
+12-month follow-up period. Mixed-effects logistic regression models will be used 
+to examine program impacts and will be triangulated with qualitative data from 
+participants and implementers.
+DISCUSSION: This study capitalizes on community engagement, implementation 
+science, health equity and communication, infectious disease, and public health 
+perspectives to co-create a multicomponent strategy to promote the uptake of 
+COVID-19 vaccination and preventive services for underserved communities in San 
+Diego. The study design emphasizes broad engagement of our community and clinic 
+partners leading to culturally sensitive and acceptable strategies to produce 
+lasting and sustainable increases in vaccine equity and preventive services 
+engagement.

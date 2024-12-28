@@ -1,0 +1,26 @@
+BACKGROUND: During the COVID-19 pandemic, migrants arriving in host countries 
+irregularly have not infrequently been perceived as increasing the COVID-19 
+burden. Italy is a transit and destination country for migrants who cross the 
+Central Mediterranean route and, during the pandemic, all migrants who landed on 
+Italian shores were COVID-19 tested and quarantined. Our study aimed to 
+investigate the impact of the SARS-CoV-2 infection among migrants who landed on 
+the Italian coasts by analyzing both incidence and health outcomes.
+METHODS: A retrospective observational study has been designed. The population 
+of interest was represented by 70,512 migrants (91% male, 99% <60 years old) who 
+landed in Italy between January 2021 and 2022. SARS-CoV-2 incidence rate per 
+1,000 (with 95%CI) in migrants and the resident population in Italy of the 
+corresponding age group was computed. The incidence rate ratio (IRR) was used to 
+compare the incidence rates in migrants and the resident population.
+RESULTS: 2,861 migrants out of those landed in Italy during the observation 
+period tested positive, with an incidence rate of 40.6 (39.1-42.1) cases per 
+1,000. During the same period, 177.6 (177.5-177.8) cases per 1,000 were reported 
+in the resident population, with an IRR of 0.23 (0.22-0.24). 89.7% of cases were 
+male and 54.6% belonged to the 20-29 age group. 99% of cases reported no 
+symptoms, no relevant comorbidities were reported and no cases were 
+hospitalized.
+CONCLUSIONS: Our study found a low rate of SARS-CoV-2 infection in migrants 
+reaching Italy by sea with an incidence rate that is roughly a quarter of that 
+of the resident population. Thus, irregular migrants who arrived in Italy during 
+the observation period did not increase the COVID-19 burden. Further studies are 
+needed to investigate possible reasons for the low incidence observed in this 
+population.

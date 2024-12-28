@@ -1,0 +1,333 @@
+INTRODUCTION
+Portal hypertension is a leading cause of mortality and morbidity in patients with cirrhosis.1 It reduces the mean arterial pressure due to hyperdynamic circulation and promotes the activation of neurohormonal mechanisms causing water and salt retention in an attempt to restore normal peripheral perfusion by increasing the effective circulating blood volume.2–4 Among these, Sympathetic nervous system (SNS) activation is proportional to the degree of splanchnic vasodilation, hence linked to the functional stage of cirrhosis.5–8
+
+It has been suggested that the autonomic nervous system (ANS) in hyperdynamic circulation and portal hypertension is actually dysfunctional9–12 even if no anatomical and histological damage has been demonstrated in the nervous tissues. Moreover, SNS activity represents an important therapeutic target through the use of beta-blockers in cases of clinically significant advanced portal hypertension and large esophageal varices (EVs),13,14 often limited by intrinsic tolerability. Heart rate variability (HRV) represents a low-cost and noninvasive method that has been validated in patients with ischemic heart disease15–17 and diabetes16 to assess the sympathovagal balance and to explore the activity and functioning of the ANS in patients with cirrhosis. In the setting of cirrhosis, short-term recording and long-term recording HRV parameters have been considered to be indicative of poor prognosis in patients with cirrhosis independently to model for end-stage liver disease (MELD) score.18–20 The exact mechanism basis by which HRV is associated to a poor prognosis is unknown. Scarce data on HRV has been used in relation to the degree of portal hypertension in particular when measured directly by the HVPG. Furthermore, some recent reviews have underlined the potential role of HRV in clinical and research evaluation of ANS in cirrhosis and encourage to generate robust data essential for standardization and methodology.21,22
+
+The objective of this cross-sectional, observational cohort study was to investigate the correlation between the time-domain HRV parameters and the severity of portal hypertension, determined by direct and indirect ultrasound and endoscopic signs, taking into account the possible role of the etiology of liver disease and of drug treatments. We also aimed to evaluate, in a subgroup of patients undergoing HPVG measurement, the behavior of the ANS under treatment with noncardioselective beta-blockers by correlating HRV parameters with the HVPG values.
+
+PATIENTS AND METHODS
+Population
+Consecutive outpatients (n=157) with a recent diagnosis of cirrhosis undergoing upper gastrointestinal endoscopy to search for EVs between March 2017 and December 2019 at the Liver Unit of the University Hospital “Policlinico Paolo Giaccone” were included in the study cohort. The diagnosis of cirrhosis was obtained by clinical, ultrasound, and fibroelastometric criteria or by liver biopsy in <20% of cases. Upon enrollment, all patients received blood tests and instrumental examinations [abdominal ultrasound, upper gastrointestinal endoscopy, and 24-h electrocardiogram (ECG) Holter monitoring]. The Holter examination, with HRV measurement according to a time-domain analysis, abdominal ultrasound, and upper gastrointestinal endoscopy were performed sequentially on different days and in random order within the same month, and 57% of the patients underwent an endoscopy first.
+
+Patients (n=64) were excluded from the study cohort in case of one or more of the following causes: alcohol-associated cirrhosis (n=42) due to the effects of chronic alcohol intake on the ANS,23–25 previously known ischemic heart disease (n=13), supraventricular arrhythmias (especially atrial flutter, persistent, or permanent paroxysmal atrial fibrillation) (n=12), the presence of an endocavity definitive pacemaker (n=5).
+
+Hepatic decompensation was defined as the occurrence of portal hypertensive bleeding, hepatic encephalopathy, ascites, or jaundice. Any gastrointestinal bleeding episode reported within the last 3 months and documented as portal hypertensive bleeding was classified as “recent EV bleeding.” Portal hypertensive gastritis was defined as the gastric mucosa having a characteristic mosaic-like pattern with or without red spots on endoscopy. Portosystemic encephalopathy was defined according to the European Association for Study of the Liver guidelines.26 Spontaneous bacterial peritonitis was defined in accordance with the European Association for Study of the Liver guidelines.27 Hypertension was defined according to the latest European Society of Cardiology/European Society of Hypertension guidelines.28 Type 2 diabetes mellitus was determined using a clinically based algorithm that considered the patient’s age at onset, presenting weight and symptoms, family history, onset of insulin treatment, and history of ketoacidosis.29 Coronary artery disease was identified on the basis of a history of physician-diagnosed angina, myocardial infarction, or any previous revascularization procedure (determined by a questionnaire).
+
+All research was conducted in accordance with both the Declaration of Helsinki and Istanbul. The study protocol was approved by the University Hospital “Policlinico Paolo Giaccone” Ethics Committee and all patients consented to the study protocol by signing a written informed consent.
+
+ECG-Holter
+Twenty-four-hour Holter ECG monitoring was performed using a Sorin Spiderview Digital Holter Recorder, and data analysis by ELA Medical SyneScope version 3.10. The recorder was placed on the patients between 8.30 am and 9.30 am, and measurements were taken for 24 hours. During the monitoring, the patients were asked to carry out their normal daily activity and to avoid intense physical exercise and the consumption of caffeine-based beverages. The ECG tracing was recorded on a special card contained in the device and was subsequently analyzed on a computer through 3 recording channels. The analysis, which was carried out by a single trained operator, initially provided for the distinction between artifacts, normal beats and ventricular beats, and the operator subsequently assessed the events that were determined by the software. The operator reserved the right to reevaluate the remaining part of the track, even if one or more events were not automatically detected, for the correct classification of the event itself. The monitoring was considered invalid in the following circumstances: the recording time was <22 hours and the artifacts and ectopic beats were >20% of the total beats. For every recording, the software extrapolated the HRV measurements of the 24-hour time-domain analysis that better estimate the sympathovagal balance in long recordings.30 We analyzed the following HRV measures of the time-domain: average heart rate; SD of the NN (normal to normal) intervals (SDNN ms); root mean square successive difference of the NN intervals (RMSSD ms); and SD of the averages of the NN intervals in all 5-minute segments of the entire recording (SDANN ms). The meaning of HRV parameters are described in Table 1. If any ECG-Holter monitoring had an ectopic beat or artifact value >20% of the normal beats or a recording duration of <22 hours, the monitoring was repeated within 1 month of when the patient had the EGDS. After the analysis was carried out, 157 monitoring results were considered valid.
+
+Table 1 - Definition, meaning, and interpretation of HRV time-domain parameters
+Time-domain analysis parameters	Definition	Meaning	Pathologic cariation	Interpretation
+SDNN (ms)	SD of the NN (normal-normal) intervals	Global index of HRV. It reflects all the long-term components and circadian rhythms responsible for variability in the recording period	—	Global autonomic dysfunction
+SDANN (ms)	SD of the averages of the NN intervals in all 5-min segments of the entire recording	Index of the variability of the average of 5-min intervals over 24 h. It provides long-term information	—	Global autonomic dysfunction
+RMSSD (ms)	Root mean square successive difference of the NN intervals	Reflect alterations in autonomic tone that are predominantly vagally mediated	—	Decreased parasympathetic activity
+Abbreviation: HRV, heart rate variability.
+
+Statistical analysis
+Statistical analysis of the quantitative and qualitative data, including the descriptive statistics, was performed for all items. Continuous data are expressed as the mean±SD, unless otherwise specified. One-way ANOVA was used to evaluate the association between the patient groups according to the different clinical characteristics and HRV parameters, and a post hoc intragroup comparison analysis was performed with the Bonferroni correction. In the presence of significant variables at the univariate analysis, a multivariate ANOVA (MANOVA) was carried out reporting Wilk lambda. Spearman correlation test was conducted to examine the correlations between the HRV parameters and other clinical patient characteristics. In addition, a multivariable regression analysis adjusted for age, sex, comorbidities, and medications was performed to evaluate the relationship between HRV parameters and the severity of liver disease. To assess the performance of the HRV variables in identifying recent EV bleeding and absence of EVs, a receiver operating characteristic curve, with calculations of the AUC and 95% CI, was constructed, and the sensitivity and specificity values were calculated. The data were analyzed by IBM SPSS Software 22 version (IBM Corp., Armonk, NY). All p-values were 2 sided, and p≤0.05 was considered statistically significant.
+
+RESULTS
+One hundred fifty-seven patients met the inclusion and exclusion criteria. Demographic and clinical features and treatments received are summarized in Tables 2 and 3. HCV had been eradicated in all HCV patients by DAAs and HBV was under effective suppression with NAs in all HBV patients at the time of testing. Clinically significant portal hypertension was present in the majority of cases, and 17.8% of patients had hepatocarcinoma superimposed to cirrhosis, never in BCLC D class.31 Most patients in the cohort had a well-preserved liver function [Child Pugh (CP) class A, n=108; 68.8%].
+
+Table 2 - Demographic and clinical variables
+Variables	N=157 N (%)
+Sex (M/F)	91/66 57.9/42.1
+Age (mean±SD)	66.2±7.35
+Etiology
+ HCV	111 (70.7)
+ HBV	13 (8.3)
+ NASH	21 (13.4)
+ Cryptogenic	5 (3.2)
+ Other	7 (44)
+Diabetes	31 (19.7)
+Hypertension	62 (39.4)
+Child-Pugh class:
+ A	108 (68.8)
+ B	38 (24.2)
+ C	11 (7)
+MELD score
+ 6–10	115 (73.3)
+ 11–16	36 (22.9)
+ 17–20	3 (1.9)
+ >20	3 (1.9)
+Presence of ascites	57 (36.3)
+ SBP	6 (3.8)
+ Portal thrombosis	13 (8.3)
+ PSE	14 (8.9)
+ Hepatocarcinoma	28 (17.8)
+EV size
+ No EV	26 (16.5)
+ F1	63 (40.1)
+ F2/F3	68 (43.3)
+Red weal mark	27 (17.2)
+Recent EV bleeding	22 (14)
+Abbreviations: EV, esophageal varices; PSE, portosystemic encephalopathy; SBP, spontaneous bacterial peritonitis.
+
+Table 3 - Treatment variables according to child-Pugh class
+Variables	Child-Pugh A n (%)	Child-Pugh B N=108 n (%)	Child-Pugh C N=11 n (%)	Total N=38 N=157 n (%)
+Furosemide	16 (14.8)	28 (73.7)	6 (54.5)	50 (31.8)
+Spironolactone	15 (13.9)	22 (57.9)	5 (45.5)	42 (26.8)
+Beta-blockers	17 (15.7)	14 (36.8)	2 (18.2)	33 (21)
+
+HRV parameters and clinical variables
+The mean SDANN progressively decreased as the CP class increased from A to C (p<0.0001). This trend was confirmed after performing a post hoc analysis with the Bonferroni test (p<0.0001) and on multivariate analysis (Wilk lambda=0.790; p<0.0005, MANOVA test) (Supplemental Table 1, https://links.lww.com/HC9/A111). Table 4 shows the univariate analysis of nonparametric correlations between the time-domain HRV parameters and the patients clinical features. The CP class had a significant direct correlation with RMSSD (p<0.0001) and it was significantly and inversely associated with SDANN (p<0.0001) and SDNN (p<0.001). The correlation between above mentioned HRV parameters and severity of Child-Pugh class was confirmed in the multivariable regression analysis adjusting for age, sex, principal comorbidities, and medications (Supplemental Table 2, https://links.lww.com/HC9/A112).
+
+Table 4 - Spearman correlations between the HRV parameters and clinical variables
+Variables	RMSSD 24 h	SDANN 24 h	SDNN 24 h
+Child-Pugh class
+ R	0.289	−0.447	−0.256
+  p	<0.0001	<0.0001	<0.001
+MELD score
+  R	0.258	−0.407	−0.291
+  p	<0.001	<0.0001	<0.0001
+Presence of ascites
+  R	0.223	−0.412	−0.222
+  p	<0.005	<0.0001	<0.005
+PSE
+  R	0.168	−0.303	−0.185
+  p	0.035	<0.0001	0.020
+Presence of EV
+  R	0.081	−0.160	−0.181
+  p	0.316	0.046	0.024
+EV size
+  R	0.089	−0.306	−0.255
+  p	0.266	<0.0001	<0.001
+EV-EDE
+  R	0.110	−0.306	−0.251
+  p	0.169	<0.0001	0.002
+POL
+  R	0.138	−0.326	−0.255
+  p	0.084	<0.0001	0.001
+Recent EV bleeding
+  R	0.035	−0.213	−0.142
+  p	0.665	0.007	0.077
+PHG
+  R	0.120	−0.215	−0.123
+  p	0.136	0.007	0.126
+Previous EV ligation
+  R	0.003	−0.237	−0.172
+  p	0.967	0.003	0.032
+Abbreviations: EDE, endoscopic dimension estimation; EV, esophageal varices; PHG, portal hypertensive gastropathy; POL, percentage of occupied lumen; PSE, portosystemic encephalopathy.
+All p-values statistically significant (p ≤ 0.050) are shown in bold.
+
+In parallel, the MELD score was significantly correlated with RMSSD (p<0.001) and had an inverse correlation with SDANN (p<0.0001) and SDNN (p<0.0001).
+
+Presence of EVs, the EV size, the endoscopic dimension estimation of varices (EDE), and the percentage of occupied lumen (POL) all had inverse correlations with SDANN and SDNN, as reported in Tables 2 and 3. Portal hypertensive gastritis was inversely correlated with SDANN (p=0.007). Previous EV ligation had a significant inverse correlation with SDANN (p=0.003) and the SDNN (p=0.032).
+
+HRV parameters according to varices dimension
+By ANOVA analysis (Supplemental Table 3, https://links.lww.com/HC9/A113), dividing the patients into 3 groups according to the size of EVs, the mean SDANN, and the mean SDNN progressively and significantly decreased as the size of the varices increased. SDANN was also confirmed after performing a post hoc analysis with the Bonferroni test and on multivariate analysis (Wilk lambda=0.892; p=0.008, MANOVA test).
+
+HRV variables according to ascites, portosystemic encephalopathy and recent EV bleeding
+The presence of ascites confirmed by US was inversely correlated to SDANN (p<0.0001) and to SDNN (p=0.005) and directly correlated to RMSSD (R=0.223; p=0.005) (Tables 2 and 3). SDANN was inversely related to the history of portosystemic encephalopathy (p<0.0001) or of recent EV bleeding (p=0.007). Portosystemic encephalopathy alone had a direct correlation with RMSSD (p=0.035) and an inverse correlation with SDNN (p=0.020) (Tables 2 and 3). Among patients with ascites (Supplemental Table 4, https://links.lww.com/HC9/A114), we found the lowest mean SDANN and SDNN. The results were confirmed on multivariate analysis (Wilk lambda=0.835; p<0.0005, MANOVA test). In the 31 patients with ascites (Supplemental Table 5, https://links.lww.com/HC9/A115), the presence of diabetes did not affect the mean RMSSD, SDNN, and SDANN. In the 44 patients with diabetes (Supplemental Table 6, https://links.lww.com/HC9/A116), no differences in mean RMSSD and SDANN were encountered between the ascitic and nonascitic patients, but a significant reduction in the mean SDNN was found in patients with ascites and diabetes in comparison to the nondiabetic patients with ascites (p=0.044). This was confirmed on multivariate analysis (Wilk lambda=0.824; p=0.049, MANOVA).
+
+HRV parameters and treatment
+Correlations between the HRV parameters and the treatment variables are reported in Table 5. Treatment with spironolactone or furosemide was directly correlated with RMSSD and inversely correlated with SDANN and SDNN Treatment with beta-blockers had an inverse correlation with the SDANN (p=0.004) and the SDNN (p=0.015).
+
+Table 5 - Correlations between HRV parameters and treatment variables
+Variables	RMSSD 24 h	SDANN 24 h	SDNN 24 h
+Furosemide
+  R	0.170	−0.374	−0.255
+  p	0.034	<0.0001	<0.001
+Spironolactone
+  R	0.183	−0.294	−0.190
+  p	0.022	<0.0001	0.017
+Beta-blockers
+  R	0.063	−0.228	−0.193
+  p	0.432	0.004	<0.015
+Note: Values are reported as the mean±SD.
+All p-values statistically significant (p ≤ 0.050) are shown in bold.
+
+Performance of HRV in identify EV presence and recent bleeding
+To identify the diagnostic power of time-domain HRV parameters for estimating the presence of EVs and recent bleeding, receiver operating characteristic curves with AUC and 95% CI were constructed and sensitivity and specificity were calculated (Supplemental Table 7, https://links.lww.com/HC9/A117). Using a receiver operating characteristic curve and by calculating the AUC, the SDANN showed an acceptable sensitivity and specificity (AUC=0.62, p<0.05; sensitivity=69.5, specificity=60.3 (Supplemental Figure 1A, https://links.lww.com/HC9/A118) and the SDNN showed an acceptable sensitivity and good specificity (AUC=0.64, p<0.05; sensitivity=64.1, specificity=71.9 (Supplemental Figure 1B, https://links.lww.com/HC9/A118)) in identifying the presence of EVs. Nevertheless, the SDANN showed an acceptable sensitivity and specificity in estimating recent EV bleeding (AUC=0.67, p=0.003; sensitivity=68.1, specificity=67.4 (Supplemental Figure 1C, https://links.lww.com/HC9/A118).
+
+DISCUSSION
+In our study, we evaluated HRV using a time-domain analysis in 157 nonalcoholic patients with cirrhosis. Through a continuous ECG recording, each QRS complex was evaluated, and the so-called “normal-normal” (NN) intervals were determined. In agreement with the guidelines of the European Society of Cardiology,30 for the physiological and clinical interpretation of HRV parameters, a reduction of SDNN and SDANN was considered to reflect a possible sympathetic hypertone or a global autonomic dysfunction. A reduction of RMSSD, instead, was interpreted as an index of decreased vagal activity (Table 1). The present study showed how the 24-hour HRV parameters, which best represent the role of the SNS in the total sympathovagal balance (SDANN and SDNN), were progressively reduced as the severity of liver disease (expressed by the CP or MELD) and the severity of portal hypertension, (identified by the EV presence and dimension) increased (Supplemental Figure 2, https://links.lww.com/HC9/A118). Indeed, we demonstrated a significant inverse correlation of the CP and MELD with the SDANN and SDNN scores, and at same time a direct correlation of these 2 scores with the RMSSD, which indirectly expresses the parasympathetic activity. These data support the hypothesis of an altered sympathovagal balance with preserved parasympathetic activity and, more likely, a progressive increase in the adrenergic tone as the severity of cirrhosis and portal hypertension increase.
+
+HRV and ascites
+The alteration of the autonomic balance also seemed to be linked to ascitic decompensation. Indeed, we noticed a significant reduction in the SDANN and SDNN in ascitic patients respect than patients without ascites. Some studies have already demonstrated a reduction of the time-domain HRV indexes in patients with cirrhosis,32 but no study has deeply investigated the differences in the autonomic balance between patients with or without ascites. Furthermore, in our study, some of the most frequent complications of cirrhosis, such as portosystemic encephalopathy, portal hypertensive gastritis, the presence of EVs, and recent EV bleeding, were inversely correlated with the SDANN. Interestingly, INR, natremia, platelets and bilirubin seemed to be all directly correlated with an altered sympathovagal equilibrium. Furthermore, the inverse correlation of the SDANN and SDNN with drugs such as furosemide, spironolactone, and beta-blockers, which are prevalently used in more advanced stages of the disease, strengthens the hypothesis of a progressive altered autonomic balance as the severity of cirrhosis and portal hypertension evolves.
+
+Autonomic imbalance and portal hypertension
+The upregulation of the SNS, which is associated with an increase in adrenergic tone that acts at the cardiac output level, represents an adaptive compensation system that aims to reduce the effective circulating volume. As already highlighted in several works, the progression of liver disease and the increase in portal pressure are accompanied by a greater activation of the SNS and an increase in the hyperdynamic circulation.33,34 Our data regarding the increase in the SDANN and SDNN values are in accordance with other HRV studies that have shown an altered sympathovagal balance in favor of an adrenergic tone.35–38
+
+In the past, modification of the sympathovagal balance has frequently been interpreted as an index of the autonomic dysfunction and has been shown to be correlated with a worse prognosis.14 The cause of this autonomic dysfunction, however, has always been the object of speculation such as central or peripheral nervous system damage and altered hormonal modulation of neurotransmission. However, no study has confirmed these hypotheses. By identifying a correlation between autonomic imbalance and both the severity of liver cirrhosis and the size of the esophageal varices, we have suggested that the adrenergic tone alteration in patients with cirrhosis is not a mere expression of the neuronal damage but rather represents an adaptation process that accompanies the onset of portal hypertension. Unsurprisingly, the SNS tone contributes to the activation of collateral circles that result in the formation of EVs and allow them to increase in size and take part of this complex pathophysiological mechanism of compensation.
+
+SNS and therapeutic window of beta-blockers
+In this study, we correlated the degree of activation of the SNS to the severity of portal hypertension in a group of patients with cirrhosis who were divided according to their EV dimensions. It is likely that this activation of the ANS is directly proportional to the progression of the liver disease severity and therefore to the degree of portal hypertension, and this could settle from time to time on a different “balance” as evidenced by the values of the HRV parameters in our study. This argument could agree with the “window” theory about beta-blockers.34 According to this recent hypothesis, proposed by Krag et al.,34 there should be a narrow range of therapeutic doses when using beta-blockers for treatment, which becomes increasingly narrow with the advancement of the disease and the worsening of the hemodynamic picture. In this setting, the introduction of beta-blockers could provide just a minimal alteration of this balance and not have a negative impact on the prognosis thanks to activation of other the other compensation systems (such as the renin angiotensin system and vasopressin).39,40 This hypothesis is relevant in consideration of the most recent indications to treat with nonselective beta-blockers all patients with compensated liver cirrhosis and clinically significant portal hypertension.14 On this basis, the HRV, in patients with cirrhosis, could represent a tool to early estimate the tolerability to nonselective beta-blockers in preventing portal hypertensive bleeding and/or the therapeutic response to diuretics preannouncing the onset of refractory ascites. The association between the HRV parameters and portal hypertensive therapy needs further assessment.
+
+Limitations of the study
+Our study presents some important limitations. First, since we conducted a cross-sectional analysis by demonstrating the direct relationship between portal hypertension and HRV perhaps, we cannot clarify the cause-and-effect relationship but we can just underline the potential role of HRV as a future noninvasive method to select patients who are at a high risk of bleeding and the patients that should take beta-blockers. We cannot assume that autonomic dysfunction leads to portal hypertension, or vice versa but we suggest a strong correlation between HRV and portal hypertension signs that deserves confirmation with future prospective studies.
+
+CONCLUSIONS
+Our results show how the HRV time-domain parameters SDNN and SDANN statistically correlated to the CP and MELD, the presence of ascites and the EVs presence and size. These data confirm the important role of HRV as a noninvasive marker of advanced liver disease and testifies to the potential role as a marker of portal hypertension, deserving future confirmation through prospective studies. Moreover, our data suggest that a more altered sympathovagal balance accompanies the clinical and blood chemistry findings across a worsening of cirrhosis.
+
+In this context, in patients suffering from liver cirrhosis, HRV (which was used as an indirect and noninvasive measure of the degree of the ANS activity and which was proportional to the severity of portal hypertension) could represent a reliable and noninvasive low-cost method to select patients who are at a high risk of bleeding and to select the patients that should take beta-blockers.
+
+As the novelty and originality of our findings and interpretation, these preliminary data, to be confirmed in prospective studies, do represent one of the first pieces of evidence of HRV association with severe complications in patients with cirrhosis and portal hypertension. Finally, our study represents an indication to the unanswered question about the real meaning of HRV prognostic power, suggesting that the link between ANS and portal hypertension may be the key for the interpretation of HRV role in cirrhosis prognosis.INTRODUCTION
+Portal hypertension is a leading cause of mortality and morbidity in patients with cirrhosis.1 It reduces the mean arterial pressure due to hyperdynamic circulation and promotes the activation of neurohormonal mechanisms causing water and salt retention in an attempt to restore normal peripheral perfusion by increasing the effective circulating blood volume.2–4 Among these, Sympathetic nervous system (SNS) activation is proportional to the degree of splanchnic vasodilation, hence linked to the functional stage of cirrhosis.5–8
+
+It has been suggested that the autonomic nervous system (ANS) in hyperdynamic circulation and portal hypertension is actually dysfunctional9–12 even if no anatomical and histological damage has been demonstrated in the nervous tissues. Moreover, SNS activity represents an important therapeutic target through the use of beta-blockers in cases of clinically significant advanced portal hypertension and large esophageal varices (EVs),13,14 often limited by intrinsic tolerability. Heart rate variability (HRV) represents a low-cost and noninvasive method that has been validated in patients with ischemic heart disease15–17 and diabetes16 to assess the sympathovagal balance and to explore the activity and functioning of the ANS in patients with cirrhosis. In the setting of cirrhosis, short-term recording and long-term recording HRV parameters have been considered to be indicative of poor prognosis in patients with cirrhosis independently to model for end-stage liver disease (MELD) score.18–20 The exact mechanism basis by which HRV is associated to a poor prognosis is unknown. Scarce data on HRV has been used in relation to the degree of portal hypertension in particular when measured directly by the HVPG. Furthermore, some recent reviews have underlined the potential role of HRV in clinical and research evaluation of ANS in cirrhosis and encourage to generate robust data essential for standardization and methodology.21,22
+
+The objective of this cross-sectional, observational cohort study was to investigate the correlation between the time-domain HRV parameters and the severity of portal hypertension, determined by direct and indirect ultrasound and endoscopic signs, taking into account the possible role of the etiology of liver disease and of drug treatments. We also aimed to evaluate, in a subgroup of patients undergoing HPVG measurement, the behavior of the ANS under treatment with noncardioselective beta-blockers by correlating HRV parameters with the HVPG values.
+
+PATIENTS AND METHODS
+Population
+Consecutive outpatients (n=157) with a recent diagnosis of cirrhosis undergoing upper gastrointestinal endoscopy to search for EVs between March 2017 and December 2019 at the Liver Unit of the University Hospital “Policlinico Paolo Giaccone” were included in the study cohort. The diagnosis of cirrhosis was obtained by clinical, ultrasound, and fibroelastometric criteria or by liver biopsy in <20% of cases. Upon enrollment, all patients received blood tests and instrumental examinations [abdominal ultrasound, upper gastrointestinal endoscopy, and 24-h electrocardiogram (ECG) Holter monitoring]. The Holter examination, with HRV measurement according to a time-domain analysis, abdominal ultrasound, and upper gastrointestinal endoscopy were performed sequentially on different days and in random order within the same month, and 57% of the patients underwent an endoscopy first.
+
+Patients (n=64) were excluded from the study cohort in case of one or more of the following causes: alcohol-associated cirrhosis (n=42) due to the effects of chronic alcohol intake on the ANS,23–25 previously known ischemic heart disease (n=13), supraventricular arrhythmias (especially atrial flutter, persistent, or permanent paroxysmal atrial fibrillation) (n=12), the presence of an endocavity definitive pacemaker (n=5).
+
+Hepatic decompensation was defined as the occurrence of portal hypertensive bleeding, hepatic encephalopathy, ascites, or jaundice. Any gastrointestinal bleeding episode reported within the last 3 months and documented as portal hypertensive bleeding was classified as “recent EV bleeding.” Portal hypertensive gastritis was defined as the gastric mucosa having a characteristic mosaic-like pattern with or without red spots on endoscopy. Portosystemic encephalopathy was defined according to the European Association for Study of the Liver guidelines.26 Spontaneous bacterial peritonitis was defined in accordance with the European Association for Study of the Liver guidelines.27 Hypertension was defined according to the latest European Society of Cardiology/European Society of Hypertension guidelines.28 Type 2 diabetes mellitus was determined using a clinically based algorithm that considered the patient’s age at onset, presenting weight and symptoms, family history, onset of insulin treatment, and history of ketoacidosis.29 Coronary artery disease was identified on the basis of a history of physician-diagnosed angina, myocardial infarction, or any previous revascularization procedure (determined by a questionnaire).
+
+All research was conducted in accordance with both the Declaration of Helsinki and Istanbul. The study protocol was approved by the University Hospital “Policlinico Paolo Giaccone” Ethics Committee and all patients consented to the study protocol by signing a written informed consent.
+
+ECG-Holter
+Twenty-four-hour Holter ECG monitoring was performed using a Sorin Spiderview Digital Holter Recorder, and data analysis by ELA Medical SyneScope version 3.10. The recorder was placed on the patients between 8.30 am and 9.30 am, and measurements were taken for 24 hours. During the monitoring, the patients were asked to carry out their normal daily activity and to avoid intense physical exercise and the consumption of caffeine-based beverages. The ECG tracing was recorded on a special card contained in the device and was subsequently analyzed on a computer through 3 recording channels. The analysis, which was carried out by a single trained operator, initially provided for the distinction between artifacts, normal beats and ventricular beats, and the operator subsequently assessed the events that were determined by the software. The operator reserved the right to reevaluate the remaining part of the track, even if one or more events were not automatically detected, for the correct classification of the event itself. The monitoring was considered invalid in the following circumstances: the recording time was <22 hours and the artifacts and ectopic beats were >20% of the total beats. For every recording, the software extrapolated the HRV measurements of the 24-hour time-domain analysis that better estimate the sympathovagal balance in long recordings.30 We analyzed the following HRV measures of the time-domain: average heart rate; SD of the NN (normal to normal) intervals (SDNN ms); root mean square successive difference of the NN intervals (RMSSD ms); and SD of the averages of the NN intervals in all 5-minute segments of the entire recording (SDANN ms). The meaning of HRV parameters are described in Table 1. If any ECG-Holter monitoring had an ectopic beat or artifact value >20% of the normal beats or a recording duration of <22 hours, the monitoring was repeated within 1 month of when the patient had the EGDS. After the analysis was carried out, 157 monitoring results were considered valid.
+
+Table 1 - Definition, meaning, and interpretation of HRV time-domain parameters
+Time-domain analysis parameters	Definition	Meaning	Pathologic cariation	Interpretation
+SDNN (ms)	SD of the NN (normal-normal) intervals	Global index of HRV. It reflects all the long-term components and circadian rhythms responsible for variability in the recording period	—	Global autonomic dysfunction
+SDANN (ms)	SD of the averages of the NN intervals in all 5-min segments of the entire recording	Index of the variability of the average of 5-min intervals over 24 h. It provides long-term information	—	Global autonomic dysfunction
+RMSSD (ms)	Root mean square successive difference of the NN intervals	Reflect alterations in autonomic tone that are predominantly vagally mediated	—	Decreased parasympathetic activity
+Abbreviation: HRV, heart rate variability.
+
+Statistical analysis
+Statistical analysis of the quantitative and qualitative data, including the descriptive statistics, was performed for all items. Continuous data are expressed as the mean±SD, unless otherwise specified. One-way ANOVA was used to evaluate the association between the patient groups according to the different clinical characteristics and HRV parameters, and a post hoc intragroup comparison analysis was performed with the Bonferroni correction. In the presence of significant variables at the univariate analysis, a multivariate ANOVA (MANOVA) was carried out reporting Wilk lambda. Spearman correlation test was conducted to examine the correlations between the HRV parameters and other clinical patient characteristics. In addition, a multivariable regression analysis adjusted for age, sex, comorbidities, and medications was performed to evaluate the relationship between HRV parameters and the severity of liver disease. To assess the performance of the HRV variables in identifying recent EV bleeding and absence of EVs, a receiver operating characteristic curve, with calculations of the AUC and 95% CI, was constructed, and the sensitivity and specificity values were calculated. The data were analyzed by IBM SPSS Software 22 version (IBM Corp., Armonk, NY). All p-values were 2 sided, and p≤0.05 was considered statistically significant.
+
+RESULTS
+One hundred fifty-seven patients met the inclusion and exclusion criteria. Demographic and clinical features and treatments received are summarized in Tables 2 and 3. HCV had been eradicated in all HCV patients by DAAs and HBV was under effective suppression with NAs in all HBV patients at the time of testing. Clinically significant portal hypertension was present in the majority of cases, and 17.8% of patients had hepatocarcinoma superimposed to cirrhosis, never in BCLC D class.31 Most patients in the cohort had a well-preserved liver function [Child Pugh (CP) class A, n=108; 68.8%].
+
+Table 2 - Demographic and clinical variables
+Variables	N=157 N (%)
+Sex (M/F)	91/66 57.9/42.1
+Age (mean±SD)	66.2±7.35
+Etiology
+ HCV	111 (70.7)
+ HBV	13 (8.3)
+ NASH	21 (13.4)
+ Cryptogenic	5 (3.2)
+ Other	7 (44)
+Diabetes	31 (19.7)
+Hypertension	62 (39.4)
+Child-Pugh class:
+ A	108 (68.8)
+ B	38 (24.2)
+ C	11 (7)
+MELD score
+ 6–10	115 (73.3)
+ 11–16	36 (22.9)
+ 17–20	3 (1.9)
+ >20	3 (1.9)
+Presence of ascites	57 (36.3)
+ SBP	6 (3.8)
+ Portal thrombosis	13 (8.3)
+ PSE	14 (8.9)
+ Hepatocarcinoma	28 (17.8)
+EV size
+ No EV	26 (16.5)
+ F1	63 (40.1)
+ F2/F3	68 (43.3)
+Red weal mark	27 (17.2)
+Recent EV bleeding	22 (14)
+Abbreviations: EV, esophageal varices; PSE, portosystemic encephalopathy; SBP, spontaneous bacterial peritonitis.
+
+Table 3 - Treatment variables according to child-Pugh class
+Variables	Child-Pugh A n (%)	Child-Pugh B N=108 n (%)	Child-Pugh C N=11 n (%)	Total N=38 N=157 n (%)
+Furosemide	16 (14.8)	28 (73.7)	6 (54.5)	50 (31.8)
+Spironolactone	15 (13.9)	22 (57.9)	5 (45.5)	42 (26.8)
+Beta-blockers	17 (15.7)	14 (36.8)	2 (18.2)	33 (21)
+
+HRV parameters and clinical variables
+The mean SDANN progressively decreased as the CP class increased from A to C (p<0.0001). This trend was confirmed after performing a post hoc analysis with the Bonferroni test (p<0.0001) and on multivariate analysis (Wilk lambda=0.790; p<0.0005, MANOVA test) (Supplemental Table 1, https://links.lww.com/HC9/A111). Table 4 shows the univariate analysis of nonparametric correlations between the time-domain HRV parameters and the patients clinical features. The CP class had a significant direct correlation with RMSSD (p<0.0001) and it was significantly and inversely associated with SDANN (p<0.0001) and SDNN (p<0.001). The correlation between above mentioned HRV parameters and severity of Child-Pugh class was confirmed in the multivariable regression analysis adjusting for age, sex, principal comorbidities, and medications (Supplemental Table 2, https://links.lww.com/HC9/A112).
+
+Table 4 - Spearman correlations between the HRV parameters and clinical variables
+Variables	RMSSD 24 h	SDANN 24 h	SDNN 24 h
+Child-Pugh class
+ R	0.289	−0.447	−0.256
+  p	<0.0001	<0.0001	<0.001
+MELD score
+  R	0.258	−0.407	−0.291
+  p	<0.001	<0.0001	<0.0001
+Presence of ascites
+  R	0.223	−0.412	−0.222
+  p	<0.005	<0.0001	<0.005
+PSE
+  R	0.168	−0.303	−0.185
+  p	0.035	<0.0001	0.020
+Presence of EV
+  R	0.081	−0.160	−0.181
+  p	0.316	0.046	0.024
+EV size
+  R	0.089	−0.306	−0.255
+  p	0.266	<0.0001	<0.001
+EV-EDE
+  R	0.110	−0.306	−0.251
+  p	0.169	<0.0001	0.002
+POL
+  R	0.138	−0.326	−0.255
+  p	0.084	<0.0001	0.001
+Recent EV bleeding
+  R	0.035	−0.213	−0.142
+  p	0.665	0.007	0.077
+PHG
+  R	0.120	−0.215	−0.123
+  p	0.136	0.007	0.126
+Previous EV ligation
+  R	0.003	−0.237	−0.172
+  p	0.967	0.003	0.032
+Abbreviations: EDE, endoscopic dimension estimation; EV, esophageal varices; PHG, portal hypertensive gastropathy; POL, percentage of occupied lumen; PSE, portosystemic encephalopathy.
+All p-values statistically significant (p ≤ 0.050) are shown in bold.
+
+In parallel, the MELD score was significantly correlated with RMSSD (p<0.001) and had an inverse correlation with SDANN (p<0.0001) and SDNN (p<0.0001).
+
+Presence of EVs, the EV size, the endoscopic dimension estimation of varices (EDE), and the percentage of occupied lumen (POL) all had inverse correlations with SDANN and SDNN, as reported in Tables 2 and 3. Portal hypertensive gastritis was inversely correlated with SDANN (p=0.007). Previous EV ligation had a significant inverse correlation with SDANN (p=0.003) and the SDNN (p=0.032).
+
+HRV parameters according to varices dimension
+By ANOVA analysis (Supplemental Table 3, https://links.lww.com/HC9/A113), dividing the patients into 3 groups according to the size of EVs, the mean SDANN, and the mean SDNN progressively and significantly decreased as the size of the varices increased. SDANN was also confirmed after performing a post hoc analysis with the Bonferroni test and on multivariate analysis (Wilk lambda=0.892; p=0.008, MANOVA test).
+
+HRV variables according to ascites, portosystemic encephalopathy and recent EV bleeding
+The presence of ascites confirmed by US was inversely correlated to SDANN (p<0.0001) and to SDNN (p=0.005) and directly correlated to RMSSD (R=0.223; p=0.005) (Tables 2 and 3). SDANN was inversely related to the history of portosystemic encephalopathy (p<0.0001) or of recent EV bleeding (p=0.007). Portosystemic encephalopathy alone had a direct correlation with RMSSD (p=0.035) and an inverse correlation with SDNN (p=0.020) (Tables 2 and 3). Among patients with ascites (Supplemental Table 4, https://links.lww.com/HC9/A114), we found the lowest mean SDANN and SDNN. The results were confirmed on multivariate analysis (Wilk lambda=0.835; p<0.0005, MANOVA test). In the 31 patients with ascites (Supplemental Table 5, https://links.lww.com/HC9/A115), the presence of diabetes did not affect the mean RMSSD, SDNN, and SDANN. In the 44 patients with diabetes (Supplemental Table 6, https://links.lww.com/HC9/A116), no differences in mean RMSSD and SDANN were encountered between the ascitic and nonascitic patients, but a significant reduction in the mean SDNN was found in patients with ascites and diabetes in comparison to the nondiabetic patients with ascites (p=0.044). This was confirmed on multivariate analysis (Wilk lambda=0.824; p=0.049, MANOVA).
+
+HRV parameters and treatment
+Correlations between the HRV parameters and the treatment variables are reported in Table 5. Treatment with spironolactone or furosemide was directly correlated with RMSSD and inversely correlated with SDANN and SDNN Treatment with beta-blockers had an inverse correlation with the SDANN (p=0.004) and the SDNN (p=0.015).
+
+Table 5 - Correlations between HRV parameters and treatment variables
+Variables	RMSSD 24 h	SDANN 24 h	SDNN 24 h
+Furosemide
+  R	0.170	−0.374	−0.255
+  p	0.034	<0.0001	<0.001
+Spironolactone
+  R	0.183	−0.294	−0.190
+  p	0.022	<0.0001	0.017
+Beta-blockers
+  R	0.063	−0.228	−0.193
+  p	0.432	0.004	<0.015
+Note: Values are reported as the mean±SD.
+All p-values statistically significant (p ≤ 0.050) are shown in bold.
+
+Performance of HRV in identify EV presence and recent bleeding
+To identify the diagnostic power of time-domain HRV parameters for estimating the presence of EVs and recent bleeding, receiver operating characteristic curves with AUC and 95% CI were constructed and sensitivity and specificity were calculated (Supplemental Table 7, https://links.lww.com/HC9/A117). Using a receiver operating characteristic curve and by calculating the AUC, the SDANN showed an acceptable sensitivity and specificity (AUC=0.62, p<0.05; sensitivity=69.5, specificity=60.3 (Supplemental Figure 1A, https://links.lww.com/HC9/A118) and the SDNN showed an acceptable sensitivity and good specificity (AUC=0.64, p<0.05; sensitivity=64.1, specificity=71.9 (Supplemental Figure 1B, https://links.lww.com/HC9/A118)) in identifying the presence of EVs. Nevertheless, the SDANN showed an acceptable sensitivity and specificity in estimating recent EV bleeding (AUC=0.67, p=0.003; sensitivity=68.1, specificity=67.4 (Supplemental Figure 1C, https://links.lww.com/HC9/A118).
+
+DISCUSSION
+In our study, we evaluated HRV using a time-domain analysis in 157 nonalcoholic patients with cirrhosis. Through a continuous ECG recording, each QRS complex was evaluated, and the so-called “normal-normal” (NN) intervals were determined. In agreement with the guidelines of the European Society of Cardiology,30 for the physiological and clinical interpretation of HRV parameters, a reduction of SDNN and SDANN was considered to reflect a possible sympathetic hypertone or a global autonomic dysfunction. A reduction of RMSSD, instead, was interpreted as an index of decreased vagal activity (Table 1). The present study showed how the 24-hour HRV parameters, which best represent the role of the SNS in the total sympathovagal balance (SDANN and SDNN), were progressively reduced as the severity of liver disease (expressed by the CP or MELD) and the severity of portal hypertension, (identified by the EV presence and dimension) increased (Supplemental Figure 2, https://links.lww.com/HC9/A118). Indeed, we demonstrated a significant inverse correlation of the CP and MELD with the SDANN and SDNN scores, and at same time a direct correlation of these 2 scores with the RMSSD, which indirectly expresses the parasympathetic activity. These data support the hypothesis of an altered sympathovagal balance with preserved parasympathetic activity and, more likely, a progressive increase in the adrenergic tone as the severity of cirrhosis and portal hypertension increase.
+
+HRV and ascites
+The alteration of the autonomic balance also seemed to be linked to ascitic decompensation. Indeed, we noticed a significant reduction in the SDANN and SDNN in ascitic patients respect than patients without ascites. Some studies have already demonstrated a reduction of the time-domain HRV indexes in patients with cirrhosis,32 but no study has deeply investigated the differences in the autonomic balance between patients with or without ascites. Furthermore, in our study, some of the most frequent complications of cirrhosis, such as portosystemic encephalopathy, portal hypertensive gastritis, the presence of EVs, and recent EV bleeding, were inversely correlated with the SDANN. Interestingly, INR, natremia, platelets and bilirubin seemed to be all directly correlated with an altered sympathovagal equilibrium. Furthermore, the inverse correlation of the SDANN and SDNN with drugs such as furosemide, spironolactone, and beta-blockers, which are prevalently used in more advanced stages of the disease, strengthens the hypothesis of a progressive altered autonomic balance as the severity of cirrhosis and portal hypertension evolves.
+
+Autonomic imbalance and portal hypertension
+The upregulation of the SNS, which is associated with an increase in adrenergic tone that acts at the cardiac output level, represents an adaptive compensation system that aims to reduce the effective circulating volume. As already highlighted in several works, the progression of liver disease and the increase in portal pressure are accompanied by a greater activation of the SNS and an increase in the hyperdynamic circulation.33,34 Our data regarding the increase in the SDANN and SDNN values are in accordance with other HRV studies that have shown an altered sympathovagal balance in favor of an adrenergic tone.35–38
+
+In the past, modification of the sympathovagal balance has frequently been interpreted as an index of the autonomic dysfunction and has been shown to be correlated with a worse prognosis.14 The cause of this autonomic dysfunction, however, has always been the object of speculation such as central or peripheral nervous system damage and altered hormonal modulation of neurotransmission. However, no study has confirmed these hypotheses. By identifying a correlation between autonomic imbalance and both the severity of liver cirrhosis and the size of the esophageal varices, we have suggested that the adrenergic tone alteration in patients with cirrhosis is not a mere expression of the neuronal damage but rather represents an adaptation process that accompanies the onset of portal hypertension. Unsurprisingly, the SNS tone contributes to the activation of collateral circles that result in the formation of EVs and allow them to increase in size and take part of this complex pathophysiological mechanism of compensation.
+
+SNS and therapeutic window of beta-blockers
+In this study, we correlated the degree of activation of the SNS to the severity of portal hypertension in a group of patients with cirrhosis who were divided according to their EV dimensions. It is likely that this activation of the ANS is directly proportional to the progression of the liver disease severity and therefore to the degree of portal hypertension, and this could settle from time to time on a different “balance” as evidenced by the values of the HRV parameters in our study. This argument could agree with the “window” theory about beta-blockers.34 According to this recent hypothesis, proposed by Krag et al.,34 there should be a narrow range of therapeutic doses when using beta-blockers for treatment, which becomes increasingly narrow with the advancement of the disease and the worsening of the hemodynamic picture. In this setting, the introduction of beta-blockers could provide just a minimal alteration of this balance and not have a negative impact on the prognosis thanks to activation of other the other compensation systems (such as the renin angiotensin system and vasopressin).39,40 This hypothesis is relevant in consideration of the most recent indications to treat with nonselective beta-blockers all patients with compensated liver cirrhosis and clinically significant portal hypertension.14 On this basis, the HRV, in patients with cirrhosis, could represent a tool to early estimate the tolerability to nonselective beta-blockers in preventing portal hypertensive bleeding and/or the therapeutic response to diuretics preannouncing the onset of refractory ascites. The association between the HRV parameters and portal hypertensive therapy needs further assessment.
+
+Limitations of the study
+Our study presents some important limitations. First, since we conducted a cross-sectional analysis by demonstrating the direct relationship between portal hypertension and HRV perhaps, we cannot clarify the cause-and-effect relationship but we can just underline the potential role of HRV as a future noninvasive method to select patients who are at a high risk of bleeding and the patients that should take beta-blockers. We cannot assume that autonomic dysfunction leads to portal hypertension, or vice versa but we suggest a strong correlation between HRV and portal hypertension signs that deserves confirmation with future prospective studies.
+
+CONCLUSIONS
+Our results show how the HRV time-domain parameters SDNN and SDANN statistically correlated to the CP and MELD, the presence of ascites and the EVs presence and size. These data confirm the important role of HRV as a noninvasive marker of advanced liver disease and testifies to the potential role as a marker of portal hypertension, deserving future confirmation through prospective studies. Moreover, our data suggest that a more altered sympathovagal balance accompanies the clinical and blood chemistry findings across a worsening of cirrhosis.
+
+In this context, in patients suffering from liver cirrhosis, HRV (which was used as an indirect and noninvasive measure of the degree of the ANS activity and which was proportional to the severity of portal hypertension) could represent a reliable and noninvasive low-cost method to select patients who are at a high risk of bleeding and to select the patients that should take beta-blockers.
+
+As the novelty and originality of our findings and interpretation, these preliminary data, to be confirmed in prospective studies, do represent one of the first pieces of evidence of HRV association with severe complications in patients with cirrhosis and portal hypertension. Finally, our study represents an indication to the unanswered question about the real meaning of HRV prognostic power, suggesting that the link between ANS and portal hypertension may be the key for the interpretation of HRV role in cirrhosis prognosis.

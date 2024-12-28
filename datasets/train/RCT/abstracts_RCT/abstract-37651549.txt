@@ -1,0 +1,30 @@
+BACKGROUND: Three-dimensional (3D) printing of highly porous orthopaedic 
+implants aims to promote better osseointegration, thus preventing aseptic 
+loosening. However, short-term radiostereometric analysis (RSA) after total knee 
+arthroplasty (TKA) has shown higher initial migration of cementless 3D-printed 
+tibial components compared with their cemented counterparts. Therefore, critical 
+evaluation of longer-term tibial component migration is needed. We investigated 
+migration of a cementless 3D-printed and a cemented tibial component with 
+otherwise similar TKA design during 5 years of follow-up, particularly the 
+progression in migration beyond 2 years postoperatively.
+METHODS: Seventy-two patients were randomized to a cementless 3D-printed 
+Triathlon Tritanium (Stryker) cruciate-retaining (CR) TKA or a cemented 
+Triathlon CR (Stryker) TKA implant. Implant migration was evaluated with RSA at 
+baseline and postoperatively at 3 months and at 1, 2, and 5 years. The maximum 
+total point motion (MTPM) of the tibial component was compared between the 
+groups at 5 years, and progression in migration was assessed between 2 and 5 
+years. Individual implants were classified as continuously migrating if the MTPM 
+was ≥0.1 mm/year beyond 2 years postoperatively. Clinical scores were evaluated, 
+and a linear mixed-effects model was used to analyze repeated measurements.
+RESULTS: At 5 years, the mean MTPM was 0.66 mm (95% confidence interval [CI], 
+0.56 to 0.78 mm) for the cementless group and 0.53 mm (95% CI, 0.43 to 0.64 mm) 
+for the cemented group (p = 0.09). Between 2 and 5 years, there was no 
+progression in mean MTPM for the cementless group (0.02 mm; 95% CI, -0.06 to 
+0.10 mm) versus 0.07 mm (95% CI, 0.00 to 0.14) for the cemented group. One 
+implant was continuously migrating in the cementless group, and 4 were 
+continuously migrating in the cemented group. The clinical scores were 
+comparable between the groups across the entire time of follow-up.
+CONCLUSIONS: No significant difference in mean migration was found at 5 years 
+between the cementless and cemented TKA implants. Progression of tibial 
+component migration was present beyond 2 years for the cemented implant, whereas 
+the cementless implant remained stable after initial early migration.

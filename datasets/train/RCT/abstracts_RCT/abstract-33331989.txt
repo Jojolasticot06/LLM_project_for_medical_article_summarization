@@ -1,0 +1,11 @@
+Updated Overall Survival in a Randomized Study Comparing Dacomitinib with Gefitinib as First-Line Treatment in Patients with Advanced Non-Small-Cell Lung Cancer and EGFR-Activating Mutations.
+
+1/BACKGROUND: ARCHER 1050, an ongoing, randomized, open-label, phase III trial of dacomitinib versus gefitinib in newly diagnosed patients with advanced non-small-cell lung cancer (NSCLC) and an EGFR-activating mutation, reported significant improvement in overall survival (OS) with dacomitinib.OBJECTIVE: This paper reports an updated OS analysis of ARCHER 1050 after an extended follow-up.
+
+2/PATIENTS AND METHODS: In this multinational, multicenter trial, adults (aged ≥ 18 years or ≥ 20 years in Japan and Korea) with newly diagnosed NSCLC and EGFR mutation (exon 19 deletion or exon 21 L858R substitution), and no history of central nervous system metastases, were randomized 1:1 to receive dacomitinib 45 mg/day (n = 227) or gefitinib 250 mg/day (n = 225). Randomization was stratified by race and EGFR mutation type. An ad hoc updated analysis of OS was conducted at the protocol-defined cut-off of 48 months from first dosing of the last enrolled patient (13 May 2019).
+
+3/RESULTS: After a median follow-up of 47.9 months, 133 (58.6%) patients had died in the dacomitinib arm and 152 (67.6%) in the gefitinib arm. The hazard ratio (HR) for OS was 0.748 (95% CI 0.591-0.947; two-sided P = 0.0155); median OS was 34.1 months with dacomitinib versus 27.0 months with gefitinib. The HR for OS in 
+patients with dose reduction(s) in the dacomitinib arm (n = 154) compared with all patients in the gefitinib arm was 0.554 (95% CI 0.420-0.730); median OS was 42.5 months for patients with dose reduction(s) in the dacomitinib arm. The most common adverse events were diarrhea (87.7%), paronychia (61.7%), dermatitis 
+acneiform (49.3%), and stomatitis (43.6%) with dacomitinib, and diarrhea (55.8%) and alanine aminotransferase increased (40.2%) with gefitinib.
+
+4/CONCLUSIONS: The OS benefit from first-line treatment with dacomitinib versus gefitinib was maintained after extended follow-up in patients with advanced NSCLC with EGFR-activating mutations. 

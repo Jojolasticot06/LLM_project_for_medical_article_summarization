@@ -1,0 +1,11 @@
+Efficacy and safety of Reyanning mixture in patients infected with SARS-CoV-2 Omicron variant: A prospective, open-label, randomized controlled trial
+
+1/Background: A wave of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) Omicron variant rapidly resulted in a steep increase in the infected population and an overloaded healthcare system. Effective medications for Omicron are currently limited. The previous observational study supports the efficacy and safety of Reyanning (RYN) mixture in the treatment of coronavirus disease 2019 (COVID-19).
+
+Purpose: To evaluate the efficacy of RYN in asymptomatic and mildly infected patients with SARS-CoV-2 infection.
+
+2/Study design and methods: This study was a prospective, open-label, randomized controlled trial. We consecutively recruited 2830 patients from Shanghai New International Expo Center mobile cabin hospital and randomized them in a 1:1 ratio to receive RYN plus standard care or receive standard care alone. The primary outcomes were the negative conversion of nucleic acid. Secondary outcomes included the hospital duration, new-onset symptoms, proportion of disease progression, and the viral load measured by the cycle threshold (Ct) value.
+
+3/Results: A total of 1393 patients in the intervention group and 1407 patients in the control group completed the study. The negative conversion time of nucleic acid was significantly shortened in the intervention group (median: 6 d vs. 7 d, Hazard ratio: 0.768, 95CI %: 0.713-0.828, p < 0.0001). The negative conversion rate of nucleic acid was significantly higher in the intervention group (Day 3: 32.4% vs. 18.3%; Day7: 65.3% vs. 55.2%, p < 0.001). The hospitalization duration was significantly shortened in the intervention group (median: 8 d vs. 9 d, Hazard ratio: 0.759, 95% CI: 0.704-0.818, p < 0.0001). The proportion of new-onset fever (2.4% vs. 4.1%, p = 0.012), coughing (12.2% vs. 14.8%, p = 0.046), and expectoration (6.0% vs. 8.0%, p = 0.032) in the intervention group was significantly lower. RYN treatment increased Ct values and reduced the viral load. No disease progression and serious adverse events were reported during the study.
+
+4/Conclusion: RYN is a safe and effective treatment that can accelerate virus clearance and promote disease recovery in asymptomatic and mild Omicron infections.

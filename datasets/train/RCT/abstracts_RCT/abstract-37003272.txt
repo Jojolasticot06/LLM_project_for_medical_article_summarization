@@ -1,0 +1,30 @@
+BACKGROUND: Ageing populations and health-care staff shortages encourage efforts 
+in primary care to recognise and prevent health deterioration and acute 
+hospitalisation in community-dwelling older adults. The PATINA algorithm and 
+decision-support tool alerts home-based-care nurses to older adults at risk of 
+hospitalisation. The study aim was to test whether use of the PATINA tool was 
+associated with changes in health-care use.
+METHODS: An open-label, stepped-wedge, cluster-randomised controlled trial was 
+done in three Danish municipalities, covering 20 area teams providing home-based 
+care to around 7000 recipients. During a period of 12 months, area teams were 
+randomly assigned to an intervention crossover for older adults (aged 65 years 
+or older) who received care at home. The primary outcome was hospitalisation 
+within 30 days of identification by the algorithm as being at risk of 
+hospitalisation. Secondary outcomes were hospital readmission and other hospital 
+contacts, outpatient contacts, contact with primary care physicians (PCPs), 
+temporary care, and death, within 30 days of identification. This study was 
+registered at ClinicalTrials.gov (NTC04398797).
+FINDINGS: In total, 2464 older adults participated in the study: 1216 (49·4%) in 
+the control phase and 1248 (50·6%) in the intervention phase. In the control 
+phase, 102 individuals were hospitalised within 30 days during 33 943 days of 
+risk (incidence 0·09 per 30 days), compared with 118 individuals within 34 843 
+days of risk (0·10 per 30 days) during the intervention phase. The intervention 
+was not associated with a reduction in the number of first hospitalisations 
+within 30 days (incidence rate ratio [IRR] 1·10 [90% CI 0·90-1·40]; p=0·28). 
+Furthermore it was not associated with reduced rates of other hospital contacts 
+(IRR 1·10 [95% CI 0·90-1·40]; p=0·28), outpatient contacts (1·10 [0·88-1·40]; 
+p=0·42), or mortality (0·82 [0·58-1·20]; p=0·25). The intervention was 
+associated with a 59% reduction in readmissions within 30 days of hospital 
+discharge (IRR 0·41 [95% CI 0·24-0·68]; p=0·0007), a 140% increase in contacts 
+with PCPs (2·40 [1·18-3·20]; p<0·0001), and a 150% increase in use of temporary 
+care (2·50 [1·40-4·70]; p=0·0027).

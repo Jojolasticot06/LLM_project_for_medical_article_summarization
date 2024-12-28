@@ -1,0 +1,33 @@
+Measurement of wrist range of motion (ROM) is often considered to be an 
+essential component of wrist physical examination. The measurement can be 
+carried out through various instruments such as goniometers and inclinometers. 
+Recent smartphones have been equipped with accelerometers and magnetometers, 
+which, through specific software applications (apps) can be used for goniometric 
+functions. This study, for the first time, aimed to evaluate the reliability and 
+concurrent validity of a new smartphone goniometric app (Goniometer Pro©) for 
+measuring active wrist ROM. In all, 120 wrists of 70 asymptomatic adults (38 men 
+and 32 women; aged 18-40 years) were assessed in a physiotherapy clinic located 
+at the School of Rehabilitation Sciences, Iran University of Medical Science and 
+Health Services, Tehran, Iran. Following the recruitment process, active wrist 
+ROM was measured using a universal goniometer and iPhone® 5 app. Two blinded 
+examiners each utilized the universal goniometer and iPhone® to measure active 
+wrist ROM using a volar/dorsal alignment technique in the following sequences: 
+flexion, extension, radial deviation, and ulnar deviation. The second (2 h 
+later) and third (48 h later) sessions were carried out in the same manner as 
+the first session. All the measurements were conducted three times and the mean 
+value of three repetitions for each measurement was used for analysis. 
+Intraclass correlation coefficient (ICC) models (3, k) and (2, k) were used to 
+determine the intra-rater and inter-rater reliability, respectively. The Pearson 
+correlation coefficients were used to establish concurrent validity of the 
+iPhone® app. Good to excellent intra-rater and inter-rater reliability was 
+demonstrated for the goniometer with ICC values of ≥ 0.82 and ≥ 0.73 and the 
+iPhone® app with ICC values of ≥ 0.83 and ≥ 0.79, respectively. Minimum 
+detectable change at the 95% confidence level (MDC95 ) was computed as 
+1.96 × standard error of measurement × √2. The MDC95 ranged from 1.66° to 5.35° 
+for the intra-rater analysis and from 1.97° to 6.15° for the inter-rater 
+analysis. The concurrent validity between the two instruments was high, with r 
+values of ≥ 0.80. From the results of this cross-sectional study, it can be 
+concluded that the iPhone® app possesses good to excellent intra-rater and 
+inter-rater reliability and concurrent validity. It seems that this app can be 
+used for the measurement of wrist ROM. However, further research is needed to 
+evaluate symptomatic subjects using this app.

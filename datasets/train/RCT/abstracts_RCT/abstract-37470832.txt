@@ -1,0 +1,9 @@
+Safety and efficacy of artesunate treatment in severely injured patients with traumatic hemorrhage. The TOP-ART randomized clinical trial
+
+1/Purpose: This study aimed at determining whether intravenous artesunate is safe and effective in reducing multiple organ dysfunction syndrome in trauma patients with major hemorrhage.
+
+2/Methods: TOP-ART, a randomized, blinded, placebo-controlled, phase IIa trial, was conducted at a London major trauma center in adult trauma patients who activated the major hemorrhage protocol. Participants received artesunate or placebo (2:1 randomization ratio) as an intravenous bolus dose (2.4 mg/kg or 4.8 mg/kg) within 4 h of injury. The safety outcome was the 28-day serious adverse event (SAE) rate. The primary efficacy outcome was the 48 h sequential organ failure assessment (SOFA) score. The per-protocol recruitment target was 105 patients.
+
+3/Results: The trial was terminated after enrolment of 90 patients because of safety concerns. Eighty-three participants received artesunate (n = 54) or placebo (n = 29) and formed the safety population and 75 met per-protocol criteria (48 artesunate, 27 placebo). Admission characteristics were similar between groups (overall 88% male, median age 29 years, median injury severity score 22), except participants who received artesunate were more shocked (median base deficit 9 vs. 4.7, p = 0.042). SAEs occurred in 17 artesunate participants (31%) vs. 5 who received placebo (17%). Venous thromboembolic events (VTE) occurred in 9 artesunate participants (17%) vs. 1 who received placebo (3%). Superiority of artesunate was not supported by the 48 h SOFA score (median 5.5 artesunate vs. 4 placebo, p = 0.303) or any of the trial's secondary endpoints.
+
+4/Conclusion: Among critically ill trauma patients, artesunate is unlikely to improve organ dysfunction and might be associated with a higher VTE rate.

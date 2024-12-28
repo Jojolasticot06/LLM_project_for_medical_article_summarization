@@ -1,0 +1,9 @@
+Impact of analgesic techniques on early quality of recovery after prostatectomy: A 3-arm, randomized trial
+
+1/Background: Prostatectomy is associated with relevant acute postoperative pain. Optimal analgesic techniques to minimize pain and enhance recovery are still under investigation. We aimed to compare the effect of three different analgesic techniques on quality of recovery.
+
+2/Methods: This investigator-initiated, prospective, randomized, three-arm, parallel-group, active-controlled, interventional superiority trial was performed in a Swiss teaching hospital from 2018 to 2021. Consecutive patients undergoing open or robotic-assisted radical prostatectomy were randomized to spinal anaesthesia (SSS, bupivacaine 0.5% + fentanyl), bilateral transversus abdominis plane block (TAP, ropivacaine 0.375% + clonidine) or systemic administration of lidocaine (SA, lidocaine 1%) in addition to general anaesthesia. Primary outcome was quality of recovery 15 (QoR-15) score on postoperative day one compared to baseline. Secondary outcomes were QoR-15 at discharge, postoperative nausea and vomiting, pain scores, return of gastrointestinal function and use of rescue analgesia.
+
+3/Results: From 133 patients, 40 received spinal anaesthesia, 45 TAP block and 48 systemic analgesia. QoR-15 scores did not differ on day 1 (p = 0.301) or at discharge (p = 0.309) when compared to baseline. QoR-15 changes were similar in all groups. At discharge, median QoR-15 scores were considered as good (>122) in all groups: SSS 134 [IQR 128-138]; TAP 129 [IQR 122-136] and SA 128 [IQR 123-136]. There were no significant differences in the other secondary outcomes.
+
+4/Conclusions: Quality of recovery on postoperative day one compared to baseline did not differ if spinal anaesthesia, TAP block or systemic administration of lidocaine was added to general anaesthesia.

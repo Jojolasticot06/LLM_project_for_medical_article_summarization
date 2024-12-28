@@ -1,0 +1,23 @@
+OBJECTIVE: The aim with the present study was to evaluate the association 
+between pubertal body mass index (BMI) change and adult coronary artery 
+calcification (CAC) score and risk of acute coronary events. APPROACH AND 
+RESULTS: We included 37 672 men from the BMI Epidemiology Study and calculated 
+their pubertal BMI change (BMI at 20 years−BMI at 8 years). Coronary artery 
+computed tomography analysis of CAC score, midlife BMI, and major risk factors 
+for coronary heart disease were available for a sub-cohort through linkage with 
+the SCAPIS (Swedish Cardio Pulmonary Bioimage Study) cohort (n=922). Information 
+on first acute coronary events was retrieved from Swedish national registers 
+(n=37 672, events n=1873). Pubertal BMI change (odds ratio per SD increase, 1.32 
+[1.14–1.52]), but not childhood BMI, was associated with middle age CAC score 
+≥1. This association for pubertal BMI change was maintained after adjustment for 
+midlife BMI at CAC analysis and in a model including major cardiovascular risk 
+factors. Individuals who became overweight during puberty (hazard ratio, 2.11 
+[1.79–2.49]), but not those overweight at 8 years who normalized their weight 
+during puberty, had substantially increased risk of acute coronary events 
+compared with men who were never overweight. Among subjects with an acute 
+coronary event, individuals with pubertal onset overweight were at increased 
+risk of death due to the event. CONCLUSIONS: Pubertal BMI change is an 
+independent predictor of CAC score and risk of acute coronary events in adult 
+men. Excessive BMI increase during puberty may initiate the coronary 
+atherosclerotic process, thereby increasing the risk and severity of adult acute 
+coronary events.

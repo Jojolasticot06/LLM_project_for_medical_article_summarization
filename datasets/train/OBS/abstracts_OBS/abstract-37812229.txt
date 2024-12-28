@@ -1,0 +1,26 @@
+PURPOSE: The purpose of this study is to describe the prevalence, intensity and 
+distress of five symptoms in intensive care unit (ICU) patients and to 
+investigate possible predictive factors associated with symptom intensity.
+METHODS: This is a prospective cohort study of ICU patients. A symptom 
+questionnaire (i.e., Patient Symptom Survey) was used to describe the 
+prevalence, intensity and distress of pain, thirst, anxiousness, tiredness, and 
+shortness of breath over seven ICU days. Associations between symptom intensity 
+and possible predictive factors were assessed using the general estimating 
+equation (GEE) model.
+RESULTS: Out of 603 eligible patients, 353 (Sample 2) were included in the 
+present study. On the first ICU day, 195 patients (Sample 1) reported thirst as 
+the most prevalent symptom (66%), with the highest mean intensity score (6.13, 
+95% confidence interval (CI) [5.7-6.56]). Thirst was the most prevalent (64%) 
+and most intense (mean score 6.05, 95%CI [5.81-6.3]) symptom during seven days 
+in the ICU. Anxiousness was the most distressful (mean score 5.24, 95%CI 
+[4.32-6.15]) symptom on the first day and during seven days (mean score 5.46, 
+95%CI [4.95-5.98]). During seven days, analgesic administration and sepsis 
+diagnosis were associated with increased thirst intensity. Older age and being 
+mechanically ventilated were associated with decreased pain intensity, and 
+analgesic administration was associated with increased pain intensity. Family 
+visits and female gender were associated with increased intensity of anxiousness 
+and shortness of breath, respectively.
+CONCLUSIONS: Self-reporting ICU patients experienced a high and consistent 
+symptom burden across seven days. Certain variables were associated with the 
+degree of symptom intensity, but further research is required to better 
+understand these associations.

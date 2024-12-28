@@ -1,0 +1,256 @@
+
+Endoscopic Harvesting Device Type and Outcomes in Patients 
+Undergoing Coronary Artery Bypass Surgery
+Introduction
+
+Saphenous vein grafts are the most commonly used conduit in coronary artery bypass graft 
+(CABG) surgery. [1] Endoscopic vein harvesting (EVH) was introduced as a minimally 
+invasive alternative to traditional open harvesting. Meta-analyses and small randomized 
+studies have shown that endoscopic techniques reduce wound infections, bleeding, post-
+operative pain, and hospital stay durations. [2–7] Based on these findings, a consensus 
+statement endorsed the use of EVH over traditional harvesting, and by 2008 it was used in 
+approximately 70% of patients undergoing CABG in the United States. [1, 8] In an analysis 
+of the Project of Ex-vivo Vein Graft Engineering via Transfection IV (PREVENT-IV) trial, 
+we previously reported that EVH was associated with a higher rate of vein graft failure at 12 
+to 18 months and long-term mortality. [9] A secondary analysis of the ROOBY trial 
+similarly reported lower vein graft patency and higher revascularization rates among patients 
+who underwent EVH. [8] However, an analysis of Medicare patients in the Society of 
+Thoracic Surgeons National Database reported no relationship between EVH and mortality, 
+and among patients in the Northern New England Cardiovascular Disease Study, EVH was 
+associated with lower mortality. [10, 11] One possible explanation for these discordant 
+results could be the differential use and outcomes of specific EVH device types, though 
+none of these studies were specifically designed to assess the comparative efficacy and 
+safety of vein harvesting techniques.
+
+There were two commercially available EVH devices used in the PREVENT-IV trial. [12] 
+The closed tunnel system occludes the access site with a balloon and insufflates the 
+dissection tunnel with up to 15 mmHg of carbon dioxide, whereas an open EVH system 
+does not occlude the access site or pressurize the dissection tunnel. It has been hypothesized 
+that a pressurized closed dissection tunnel could lead to intraluminal clot formation by 
+slowing venous graft blood flow. [13] In addition, in the closed tunnel system the dissector 
+tip is bullet-shaped, allowing for more blunt dissection, vs. the open tunnel system that has a 
+spoon-shaped dissector tip. The lack of EVH device-specific information at the time of the 
+original PREVENT-IV EVH analysis was a recognized limitation insofar as it precluded 
+examining whether the observed vein graft failures were associated with specific EVH 
+devices. [14] Accordingly, after collecting additional device-specific data, we sought to 
+compare rates of vein graft failure and clinical outcomes in patients undergoing closed 
+tunnel vs. open tunnel EVH for CABG.
+
+Methods
+
+Patient Population
+
+The design and results of the PREVENT-IV (ClinicalTrials.gov number, NCT00042081) 
+trial have been previously described. [12, 15] Briefly, this was a phase III, double blind, 
+multicenter, placebo-controlled, randomized trial designed to assess the effects of 
+
+
+edifoligide, an E2F transcription factor inhibitor, on ex-vivo vein grafts in patients 
+undergoing CABG. A total of 3014 patients were enrolled at 107 sites in the United States 
+between 2002 and 2003, and the first 2400 were scheduled to undergo follow-up 
+angiography 12 to 18 months after surgery. Patients aged 18 to 80 years were eligible if they 
+were scheduled to undergo an isolated, first CABG surgery with two or more vein grafts for 
+atherosclerotic coronary artery disease. Major exclusion criteria included planned valvular 
+surgery, prior cardiac surgery, non-atherosclerotic coronary artery disease, and comorbid 
+illness expected to make 5-year survival unlikely. Each participating site received 
+institutional review board approval, and all patients provided informed written consent.
+
+Endoscopic Vein Harvesting Devices and Identification
+
+The primary analysis compared patients who underwent EVH with a closed tunnel system 
+(Vasoview, MAQUET, Wayne, NJ [formerly Guidant Corporation, Natlick, MA]) with 
+patients who underwent EVH with an open tunnel system (Clearglide, Sorin Group, 
+Montvale, NJ [formerly Ethicon Cardiovations, Somerville, NJ, and Datascope INC]). EVH 
+device information was obtained by contacting each PREVENT-IV study site. If a study 
+hospital used both EVH systems, patient-specific harvesting device information was 
+requested. Patients were excluded from this analysis if EVH device information was 
+unavailable.
+
+Outcome Measures
+
+Angiographic endpoints were the per-graft and per-patient incidences of vein graft failure, 
+defined as stenosis =75% of the vein graft diameter, and vein graft occlusion. All 
+angiograms were interpreted in a central core laboratory blinded to harvesting technique 
+(PERFUSE Angiographic Core Laboratory, Boston, MA). The angiographic outcomes 
+analysis included EVH patients in the aforementioned angiographic cohort who completed 
+the 12- to 18-month angiographic follow-up. Individuals who underwent angiography prior 
+to 12 months for clinical reasons and met an angiographic endpoint were included in this 
+analysis. Patients who died prior to angiographic follow-up were excluded. The primary 
+clinical endpoint was the 5-year composite outcome of death, myocardial infarction (MI), or 
+revascularization. Other clinical endpoints were the individual components of composite 
+outcomes.
+
+Statistical Analysis
+
+The distributions of baseline, peri-operative surgical, and post-operative treatment 
+characteristics were summarized with medians and 25th and 75th percentiles for continuous 
+variables and with percentages for categorical variables. Group differences were assessed 
+with the Wilcoxon rank-sum test (for continuous variables) and the .2 text (for categorical 
+variables).
+
+The incidence of vein graft failure was adjusted for predictors previously identified in the 
+PREVENT-IV dataset. [16] Vein graft failure was evaluated both at the patient and graft 
+levels using mixed-effects logistic regression models. The patient-level graft failure model 
+included study site as a random effect and the weight, duration of surgery, graft quality, 
+target artery quality, and use of composite grafts as fixed effects. In the graft-level graft 
+
+
+failure model, both patient and study site were modeled as random effects, while weight, 
+duration of surgery, graft quality, target artery quality, and whether the graft was a 
+composite or non-composite graft were modeled as fixed effects.
+
+Cumulative event rates and survival curves for the clinical outcomes were calculated by the 
+Kaplan-Meier method, and outcome differences were assessed using a Cox proportional 
+hazards model. Covariates associated with the primary clinical endpoint have been 
+previously published. [9, 17] The variables included in the Cox proportional hazards model 
+were age, sex, race, body mass index, hypertension, diabetes, heart failure, New York Heart 
+Association class, recent MI, peripheral vascular disease, smoking, chronic lung disease, 
+creatinine clearance, and poor target artery quality. A frailty model was used to determine 
+whether survival times within study site were correlated and thus required adjustment for 
+study site. [18] In a sensitivity analysis, we assessed whether the subset of patients who 
+underwent EVH in this substudy (i.e., device type was known) was similar to the group of 
+all EVH patients enrolled in PREVENT-IV. We compared the clinical outcome of death, 
+MI, or revascularization between 1) the subset of EVH patients used in this substudy and 2) 
+patients who had open harvesting that were included in our original manuscript that 
+compared EVH with open harvesting.
+
+Results
+
+A total of 1753 patients in the PREVENT-IV trial underwent EVH, and 1549 patients 
+(88.4%) from 75 of 107 study sites were included in this analysis. A total of 63 sites 
+(n=1153) used only a closed tunnel EVH system, 11 sites (n=210) used only an open tunnel 
+system, and one site (n=215) used both systems. At 8 sites (n=175) device-specific 
+information could not be obtained, and therefore, those patients were excluded from this 
+analysis (Figure 1). From the open EVH group, 180 patients (46%) were from a single 
+surgical site. The mean follow-up time was 5.1 years. The proportion of study patients at 
+each study site undergoing EVH stratified by harvesting system is presented in Figure 2. 
+Baseline differences between the 1159 patients who underwent EVH with a closed system 
+(Guidant) and the 390 patients who underwent EVH with an open system (Datascope) were 
+generally well balanced (Table 1). Closed system harvesting patients had fewer current 
+smokers, a lower prevalence of chronic lung disease, a lower median baseline heart rate, and 
+a higher burden of underlying coronary artery disease. Peri-operative surgical and post-
+operative treatment variables are presented in Table 2. Open EVH system patients were 
+more likely to undergo urgent surgery, undergo on-pump surgery, have a composite vein 
+graft, have longer surgical times, and have longer lengths of stay. At 30 days, open EVH 
+system patients were more likely to continue aspirin and thienopyridines but were less likely 
+to continue statins.
+
+Angiographic Outcomes
+
+A total of 881 (56.9%) patients in this study had a follow-up angiogram within 18 months. 
+The incidences of vein graft failure and graft occlusion are presented in Table 3. No 
+significant differences were observed in either the per-patient or the per-graft unadjusted 
+
+
+incidence of vein graft failure or occlusion, a finding that persisted after multivariable 
+adjustment.
+
+Clinical Outcomes
+
+The 5-year Kaplan-Meier event rates for the composite outcome of death, MI, or 
+revascularization were 23.9% for closed tunnel and 21.5% for open tunnel EVH patients 
+(Table 4, Figure 3). After multivariable adjustment, the 5-year risk of the primary composite 
+outcome was similar among patients with open harvesting compared with closed harvesting 
+(hazard ratio [HR], 0.85; 95% confidence interval [CI], 0.66 to 1.10; p=0.221). Among 
+secondary clinical outcomes, the 5-year Kaplan-Meier event rate for revascularization was 
+numerically lower among patients who underwent open tunnel EVH (12.2% vs. 16.4%); 
+however, the relationship was not statistically significant after multivariable adjustment 
+(HR, 0.73; 95% CI, 0.53 to 1.03; p=0.072).
+
+In a sensitivity analysis, we compared the outcomes of patients who underwent EVH that 
+were included in this analysis with the outcomes of patients who underwent open harvesting 
+that were included in our original manuscript. [9] The higher 3-year risk of death, MI, or 
+revascularization for patients who underwent EVH compared with those who underwent 
+open harvesting was similar to our previously published results (adjusted HR, 1.22; 95% CI, 
+1.01 to 1.47; p=0.04).
+
+Discussion
+
+This study, representing the largest device-specific analysis of long-term post-CABG 
+outcomes in patients undergoing EVH, has two important findings. First, no difference was 
+observed in the rates of 12- to 18-month post-operative vein graft failure or occlusion in 
+patients undergoing open or closed tunnel EVH. Second, the 5-year incidences of death, MI, 
+or revascularization were similar between the groups of patients who underwent EVH using 
+open and closed tunnel endoscopic harvesting devices. Thus, no difference in EVH device-
+specific outcomes could be detected to account for the higher incidence of vein graft failure 
+and adverse clinical events observed in our previous PREVENT-IV analysis. [9]
+
+As previously mentioned, the greater saphenous vein is the most frequently used CABG 
+conduit, and it has traditionally been harvested using a continuous linear skin incision that 
+can extend from below the knee to its junction with the femoral vein just below the inguinal 
+crease. [1] This technique potentially permits clear vein visualization, mobilization, and 
+branch ligation but carries an increased risk of skin wound complications, hematomas, and 
+longer hospital stays. [2–5,19,20] In 1996, an endoscopic vein harvesting procedure was 
+described as an alternative to standard vein procurement. [21] Multiple meta-analyses and 
+small randomized trials subsequently reported advantages of EVH in terms of important 
+short-term outcomes such as surgical site pain, cost, patient satisfaction, and harvest-site-
+wound complications. [2, 22–24] These analyses were neither powered nor designed to 
+detect long-term differences in vein graft failure rates or major adverse cardiac outcomes. 
+Observational analyses of the long-term safety of EVH are conflicting. Two studies have 
+reported increased harm associated with EVH, including reduced vein graft patency and 
+increased revascularization and death. [8, 9] However, studies by Dacey, et al. and Williams, 
+
+
+et al. reported lower and no difference in long-term mortality, respectively. [10, 11] A 
+limitation of all of the aforementioned analyses is a lack of information about EVH 
+harvesting devices.
+
+EVH does not describe one homogeneous procedure. As previously mentioned, at the time 
+of the PREVENT-IV trial, there were only two commercially available EVH devices in the 
+United States—a closed tunnel system (Vasoview) and an open tunnel system (Clearglide). 
+A closed system uses a balloon to occlude the device entry site and the dissection tunnel is 
+insufflated with carbon dioxide gas at 5–15 mmHg pressure, whereas an open system does 
+not use an occlusive balloon and the dissection tunnel is not pressurized. A small study by 
+Brown and colleagues reporting a lower unadjusted incidence of intraluminal venous clots in 
+patients undergoing EVH with an open tunnel system led to the hypothesis that a pressured 
+dissection tunnel can slow blood flow within a venous graft and lead to increased 
+intraluminal clot; however, the present analysis did not detect a difference in EVH device-
+specific angiographic or clinical outcomes to support this putative hypothesis. [13] The lack 
+of an observed difference between open vs. closed tunnel harvesting systems suggests the 
+increased risk of vein graft failures and clinical events observed among EVH patients in a 
+previous PREVENT-IV analysis were not device-specific. [9] The hypothesis that EVH may 
+have detrimental effects on vein grafts is supported by a prospective, small study using 
+multiphoton imaging, immunofluorescence, and biochemical techniques that demonstrated 
+increased endothelial damage and reduced viability in EVH vein grafts. [25] This finding, 
+however, has not been supported by all histologic studies. [26] Importantly, EVH techniques 
+continue to evolve, and modern EVH harvesting techniques may be different than those used 
+during PREVENT-IV.
+
+Implications for Current Practice and Future Research
+
+Endoscopic harvesting of saphenous vein grafts clearly has important advantages for short-
+term outcomes such as wound infections, bleeding, pain, and length of hospitalization. In the 
+context of conflicting outcomes associated with EVH in observational studies, which all 
+have important methodological limitations, the long-term safety of EVH remains unclear. 
+Importantly, we support calls to rigorously evaluate the safety of EVH in angiographic and 
+clinical outcomes in an adequately powered randomized trial. [3, 8, 9]
+
+Limitations
+
+This study has several limitations that merit consideration. First, this study did not record 
+measures of operator volume, which may be an important determinant of intimal and deep-
+vessel-harvesting-related injuries. [27] Second, there was no protocol requirement for pre-
+harvest use of heparin, which may reduce vein graft clot burden. [13] Third, although the 
+multivariable analysis adjusted for variables known to be associated with vein graft failure, 
+the patients included in this analysis were not randomized. Fourth, more than 40% of 
+patients undergoing EVH with a Datascope device were from one study site, and no study 
+center information was available in our dataset. We attempted to reduce the potential study 
+center bias by modeling study center as a random effect when assessing vein graft failure. 
+Study center was found to be nonsignificant as a random effect in the frailty model (p=0.96). 
+Therefore the Cox proportional hazards models used to assess clinical outcomes did not 
+
+
+include the random effect for study center. Fifth, the site of vein graph harvesting (thigh 
+versus calf) was not available in our dataset. Finally, the 5-year vein graph patency rate in 
+this study was lower than in some reports, but is consistent with other published patency 
+rates. [8, 28]
+
+Conclusion
+
+In a large cohort of patients undergoing CABG with EVH, no difference was detected in the 
+incidence of vein graft failure or occlusion between patients undergoing open or closed 
+system EVH. Additionally, no difference was detected in the 5-year incidence of death, MI, 
+or revascularization. This analysis suggests that the higher incidences of vein graft failures 
+and clinical events observed among EVH patients in the PREVENT-IV population were not 
+related to a specific EVH device or system.
+

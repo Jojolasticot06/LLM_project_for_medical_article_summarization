@@ -1,0 +1,33 @@
+Modified-release nicotinamide for the treatment of hyperphosphataemia in 
+haemodialysis patients: 52-week efficacy and safety results of the phase 3 
+randomized controlled NOPHOS trial.
+
+1/BACKGROUND: We previously reported that modified-release nicotinamide (NAMR) was 
+superior to placebo in reducing serum phosphate concentrations over 12 weeks in 
+a large cohort of haemodialysis patients with hyperphosphataemia. Here we report 
+outcomes after 52 weeks of treatment.
+
+2/METHODS: NOPHOS was a phase 3, international, randomized, controlled, 
+double-blind trial with a parallel group design. NAMR (250-1500 mg/day) was 
+investigated in comparison to placebo as an add-on therapy to an individual 
+therapy with approved phosphate binders.
+
+3/RESULTS: In the intention-to-treat population (NAMR: n = 539; placebo: n = 183), 
+serum phosphate was significantly lower in the NAMR group compared with the 
+placebo group at week 24 (5.40 ± 1.55 versus 5.79 ± 1.37 mg/dl, P < .001) with a 
+mean difference of -0.39 mg/dl [95% confidence interval (CI) -0.66 to -0.13], 
+but was comparable between the groups at week 52 [mean difference -0.08 (95% CI 
+-0.36-0.20)]. In the completer population (n = 358), statistical significance in 
+favour of NAMR was reached at weeks 24 and 52. The treatment effect was reduced 
+in patients with high baseline serum intact parathyroid hormone (iPTH) compared 
+with patients with low baseline serum iPTH. Compliant patients in the NAMR group 
+had a more pronounced and sustained reduction in serum phosphate than 
+non-compliant patients. NAMR treatment was associated with a significantly 
+increased risk of thrombocytopenia, pruritus, anaemia, and diarrhoea. Herpes 
+zoster occurred exclusively in patients randomized to NAMR.
+
+4/CONCLUSIONS: NAMR combined with phosphate binders significantly reduced serum 
+phosphate over the first 24 weeks of treatment, but the treatment effect was not 
+maintained up to week 52. Non-compliance may have contributed to reduced 
+long-term efficacy. Several newly identified safety signals warrant further 
+evaluation.

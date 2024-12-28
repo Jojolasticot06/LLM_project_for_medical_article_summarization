@@ -1,0 +1,28 @@
+An accessible, relational, inclusive, and actionable (ARIA) model of genetic 
+counseling compared with usual care: Results of a randomized controlled trial.
+
+1/PURPOSE: Effective approaches to communicate genomic information are needed to 
+ensure equitable care. In a randomized controlled superiority trial, we tested a 
+novel practice model that aims to make genetic counseling inclusive, by making 
+the communication accessible, relational, and actionable (ARIA).
+
+2/METHODS: In total, 696 English- and Spanish-speaking patients aged 18 to 49 
+years, enriched for individuals from historically underserved backgrounds, were 
+randomized in 1:1 ratio to ARIA or usual care. Primary outcomes were accuracy of 
+recall, communication satisfaction, and perceived understanding. In total, 33 
+participants completed qualitative interviews.
+
+3/RESULTS: Recall and understanding were high for all participants. ARIA 
+participants scored higher on the relationship scale of communication 
+satisfaction (mean difference = 0.09, 95% CI = <0.01 to 0.17). Moderator 
+analyses of communication satisfaction showed that those with lower health 
+literacy reported less communication difficulty in ARIA and those using medical 
+interpreters reported greater communication ease in ARIA. No significant 
+difference was found on other primary and secondary outcomes. Qualitative data 
+enhanced understanding of how and why ARIA can be effective.
+
+4/CONCLUSION: This study provides evidence that a genetic counseling intervention 
+that focuses on specific communication skills to enhance relationship-building, 
+patient engagement, and comprehension can be effective with all patients and may 
+be especially valuable for patients of lower health literacy and 
+Spanish-speakers who use a medical interpreter.

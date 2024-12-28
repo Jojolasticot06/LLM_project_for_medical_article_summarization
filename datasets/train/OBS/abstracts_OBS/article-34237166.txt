@@ -1,0 +1,252 @@
+INTRODUCTION
+Coronary heart disease (CHD) is one of the leading causes of mortality and morbidity worldwide [1]. The search for new biomarkers to improve risk stratification in acute coronary syndrome (ACS) patients is still ongoing. In a large-scale proteomic study [2], nine plasma proteins combined were found to be associated with adverse cardiovascular events in patients with stable CHD. Two of the proteins selected were angiopoietin-2 (ANGPT2) and angiopoietin-like 4 protein (ANGPTL4).
+
+The angiopoietin (Ang)-Tie (tyrosin kinase with Ig and epidermal growth factor homology domains receptor) ligand receptor system is an important regulator of vascular homeostasis [3, 4]. ANGPT2 is expressed by endothelial cells at sites of vascular remodelling and attenuates vascular stability by counteracting ANGPT1-induced TIE2 signalling [3, 4]. It is released locally from endothelial cell Weibel–Palade bodies in response to angiogenic and inflammatory mediators and is upregulated during various pathological conditions, such as inflammatory and malignant disorders [4, 5], leading to endothelial cell activation, and increased vascular permeability [3-5]. Furthermore, ANGPT2 has been shown to have inflammatory effects, acting as a chemoattractant and promoting adhesion and transmigration of immune cells [6].
+
+The angiopoietin-like family consists of secreted proteins with structural similarity to angiopoietins [7] involved in diverse physiological and pathophysiological processes, including regulation of angiogenesis and inflammatory responses and modulation of lipid, glucose and energy metabolism [7-10]. Full-length ANGPTL4 is proteolytically cleaved into an N-terminal (nANGPTL4) and a C-terminal (cANGPTL4) fragment, which have different biological functions. Whereas full-length ANGPTL4 and nANGPTL4 are found to be important modulators of lipid metabolism [8, 9], cANGPTL4 is involved in the regulation of vascular integrity and angiogenesis in a context-dependent manner [10].
+
+While structurally related, circulating levels of ANGPT2 and ANGPTL4 seem to reflect different aspects of cardiovascular disease. Thus, while circulating ANGPT2 has been shown to correlate with the atherosclerotic burden [11, 12], potentially reflecting maladaptive vascular remodelling [5], circulating ANGPTL4 levels correlate with dyslipidaemia [7] and traits of the metabolic syndrome [13, 14]. Elevated levels of both biomarkers have been observed in various cardiovascular diseases, including ACS [15, 16] and heart failure (HF) [17, 18], and may yield prognostic information in these populations [14, 17–21].
+
+We hypothesized that ANGPT2 and ANGPTL4 may serve as prognostic biomarkers in patients hospitalized with chest pain of suspected ischemic origin. The aims of our study were to investigate the associations between ANGPT2 and ANGPTL4 and outcome in the Norwegian population, assess the reproducibility of these associations by performing a similar study in an Argentinean cohort and evaluate the associations according to troponin-T (TnT) release or not.
+
+METHODS
+Study design and patient population
+This study was performed as part of a prospective observational two-centre cohort study, which includes the Risk Markers in the Acute Coronary Syndrome (RACS) (ClinicalTrials.gov Identifier: NCT00521976), and the ARgentinean Risk Assessment Registry in the Acute Coronary Syndrome (ARRA-RACS) (ClinicalTrials.gov Identifier: NCT01377402). The two studies had a similar design, with the objective to identify early-on prognostic markers in hospital-admitted patients with clinically suspected ACS. A total of 871 patients admitted to the Emergency Department of Stavanger University Hospital, Norway, were consecutively recruited from November 2002 to September 2003 in RACS, and 982 patients admitted to nine different hospitals in Salta, Northern Argentina, from December 2005 to January 2009 were included in ARRA-RACS. The same protocol and case report form were applied for both cohorts. Exclusion criteria were age <18 years, unwillingness or incapacity to provide informed consent and prior inclusion in the same study. TnT-levels at hospital admission and at 6 h after admission were used for disease classification. B-type natriuretic peptide (BNP) and high-sensitivity C-reactive protein (hs-CRP) were used as quality indicators of the registry.
+
+In the present study, admission samples from 846 patients in RACS and 969 patients in ARRA-RACS were available for analysis of ANGPT2, and 848 patients in RACS and 981 patients from ARRA-RACS had admission samples available for measurement of ANGPTL4. Median follow-up time was 60 months in RACS and 42.9 months in ARRA-RACS. We assessed all-cause mortality and cardiac death at 24 months and added up to 60 months all-cause mortality. The definition of cardiac death included death preceded by a definitive myocardial infarction or by chest pain >20 min without a given TnT or a history of ischemic heart disease and no other obvious cause of death [22]. Survival status, time and cause of death and other clinical follow-up data were obtained from hospital- and public registries and by telephonic interviews at 30 days and 6, 12 and 24 months. If needed, additional information was obtained from close family members, general practitioners and nursing homes. Later follow-up information was provided from death registries.
+
+Baseline laboratory and clinical data, including a history of previous myocardial infarction, angina pectoris, HF, diabetes mellitus, smoking status (stratified in categories of current smoker, previous smoker or never-smoker), hypercholesterolemia and arterial hypertension, were based on hospital records and personal interviews, as previously described [23, 24].
+
+The term ACS included unstable angina pectoris, non-ST segment elevation myocardial infarction and ST-segment elevation myocardial infarction. For the diagnosis of an acute myocardial infarction (AMI), we applied a cut-off value for TnT of 0.05 ng/ml in the Norwegian population and 0.03 ng/ml in the Argentinean population, as specified for the assays in use. Electrocardiographic ST-segment depression or elevation and T-wave inversion or left bundle-branch block were recorded at admission [23, 24]. Furthermore, TnT release >/≤ 0.01 ng/ml was used for risk stratification, as this value represents the lowest detection limit of the applied assays.
+
+Written informed consent was obtained from all patients. The RACS study was approved by the Regional Board of Research Ethics and by the Norwegian Health authorities, and ARRA-RACS was approved by the Ethics Committee at the Board of Medical School of Salta, Argentina, and conducted in accordance with the Helsinki declaration of 1971, as revised in 1983.
+
+Blood sampling procedures and laboratory measurements
+Blood was drawn immediately following admission by direct venepuncture of an antecubital vein, applying a minimum of stasis. A second blood sample for measurement of TnT was drawn 6–7 h later. All samples were centrifuged for 15 min at 2000 g at 20°C. Measurement in serum of TnT, creatinine, glucose and lipids were performed immediately after centrifugation. Aliquots of ethylene diamine tetraacetic acid (EDTA) plasma, citrated plasma and serum were frozen and stored at −80°C for later measurements.
+
+ANGPT2 and ANGPTL4
+We measured plasma concentrations of ANGPT2 by enzyme immunoassay, employing EDTA plasma samples from 1751 patients and citrated plasma from 64 patients. ANGPTL4 concentrations were measured in EDTA plasma from 1764 patients and in citrated plasma from 65 patients. Citrated plasma was used when EDTA plasma was lacking. ANGPT2 (Cat# DY623) and ANGPTL4 (Cat# DY3485) levels were analysed using antibodies from R&D Systems (Stillwater, MN) in duplicate in a 384-well format using a combination of a SELMA (Jena, Germany) pipetting robot and a BioTek (Winooski, VT, USA) dispenser/washer. Absorption was read at 450 nm with wavelength correction set to 540 nm using an ELISA plate reader (BioTek). Intra- and inter-assay coefficients were <10% for both. Based on data from our own laboratory, measurements in EDTA and citrated plasma did not differ significantly.
+
+TnT, BNP and hs-CRP
+TnT was quantified in serum by a cardiac-specific second generation (RACS) and fourth generation (ARRA-RACS) TnT ELISA assay from Roche Diagnostics, using a high-affinity cardiac-specific TnT isoform antibody [23, 24]. The lower limit of detection for the assays was 0.01 ng/ml.
+
+BNP [Microparticle Enzyme Immunoassay Abbott AxSYM (Abbott Laboratories, Abbott Park, IL, USA)] and hs-CRP [Tina-quant C-reactive protein (latex) high sensitive assay, Roche Diagnostics, Germany] were analyzed in EDTA plasma and serum, respectively, as recommended by the manufacturer and as previously described [23, 24].
+
+Statistical analysis
+Descriptive statistics are presented as medians with interquartile range (25th–75th percentile) for continuous data and as numbers and percentages for categorical data. Differences in baseline characteristics were assessed by the Kruskal–Wallis test for continuous data and the chi-squared test for categorical data. The Mann–Whitney U test was used to test for the equality of the median of two samples, comparing biomarker levels in non-survivors with survivors, and between the TnT positive and TnT negative group of patients. Due to a skewed distribution, ANGPT2 and ANGPTL4 levels were logarithmically transformed to the base-e (loge) prior to analysis of continuous values and normalized by dividing by the standard SD. Pearson's correlation coefficient was calculated to identify a possible relation between the admission level of the two biomarkers, ANGPT2 and ANGPTL4, and Spearman's rank correlation coefficient was applied to assess a possible relation between admission levels of the two studied biomarkers and TnT, BNP and hs-CRP, respectively. A stepwise multivariable linear regression analysis was performed to determine which baseline variables were associated with the admission levels of ANGPT2 and ANGPTL4.
+
+Patients were divided into quartiles (Q1–4) according to their ANGPT2 and ANGPTL4 concentrations. The Kaplan–Meier product limits were used for plotting the times to event, and the log-rank test was used to test for the equality of the survival curves. Stepwise Cox regression models, applying continuous loge-transformed values, were fitted for each of the biomarkers with all-cause mortality and cardiac death within 24 months and all-cause mortality within 60 months as the dependent variables. In the multivariable analysis, we adjusted for traditional cardiovascular risk factors, which included age, gender, a medical history of previous CHD (i.e. angina pectoris, myocardial infarction, coronary artery bypass grafting or percutaneous coronary intervention), a history of HF, diabetes mellitus, hypercholesterolemia (total cholesterol >6.5 mmol/L), smoking status, use of angiotensin-converting enzyme inhibitors (ACEI) or angiotensin receptor blockers (ARB), statins and beta blockers, index diagnosis AMI and laboratory parameters (TnT, estimated glomerular filtration rate (eGFR), hs-CRP and BNP). Hazard ratios (HRs) with 95% confidence intervals (CI) were calculated for each of the higher quartiles as compared to quartile 1. For continuous loge-transformed values, we employed HR and 95% CI per SD increase of the biomarkers. The HRs presented in the Results section are 1- SD on the log scale. The two patient cohorts were treated separately, and the country-wise analyses include subgroups with or without TnT release above 0.01 ng/ml at index hospitalization. Receiver operated characteristics (ROC) curves for all-cause mortality at 24 and 60 months were created for ANGPT2, ANGPTL4, BNP and TnT at index hospitalization, and for a prediction model including the conventional risk markers with and without the addition of biomarkers. Differences in area under the curve (AUC) were assessed by applying De Long's test.
+
+Statistics were performed using the statistical package SPSS version 25 (IBM Corp. Armonk, NY). All tests were two-sided with a significance level of 5% without multiplicity adjustment.
+
+RESULTS
+Study population
+Baseline characteristics for the Norwegian and the Argentinean cohorts are summarized in Table 1. In the Norwegian cohort, 846 and 848 patients had available values of ANGPT2 and ANGPTL4, respectively, and were included in the present analysis. Median age at enrolment was 72.6 years and 61% were men. At index hospitalization, 43.6% of patients were classified as having an AMI, and 471 patients (54.1%) had a TnT release > 0.01 ng/ml. In the Argentinean cohort, 969 and 981 patients had available values of ANGPT2 and ANGPTL4, respectively, and were included in the analysis. The Argentinean population was significantly younger than the Norwegian cohort, median age at enrolment was 62.0 years and 59.9% were men. The proportion of patients with an AMI was lower in the Argentinean population (35.1%), and 388 patients (39.6%) had a TnT release > 0.01 ng/ml.
+
+TABLE 1. Baseline characteristics according to country
+Characteristics	ARRA-RACS (Argentina) n = 982	RACS (Norway) n = 871	p-value
+Age, years	62.0 (53.0–72.0)	72.6 (59.1–81.1)	<0.001
+Male gender	588 (59.9)	531 (61.0)	0.63
+Symptom duration, hours	5.0 (2.0–15.2)	5.0 (2.0–14.0)	0.60
+Risk markers at baseline			
+ANGPT2, ng/ml†	2.3 (1.6–3.5)	2.1 (1.4–3.9)	0.062
+ANGPTL4, ng/ml‡	3.7 (2.4–5.7)	3.2 (2.2–4.7)	<0.001
+hs-CRP, mg/L	3.1 (1.3–8.4)	4.0 (1.7–13.3)	<0.001
+BNP, pg/ml	78 (36–180)	97 (34–311)	0.002
+eGFR, ml/min/1.73 m2	81.6 (64.3–98.1)	63.3 (48.8–75.7)	<0.001
+Total cholesterol (mmol/L)	4.7 (4.1–5.5)	5.2 (4.3–6.0)	<0.001
+Acute myocardial infarction*	344 (35.1)	380 (43.6)	<0.001
+TnT release (>0.01 ng/ml)	388 (39.6)	471 (54.1)	<0.001
+Risk factors			
+Current smoking	239 (24.7)	229 (26.3)	0.44
+Past smoking	537 (55.8)	315 (36.2)	<0.001
+Hypertension	634 (64.6)	367 (42.1)	<0.001
+Diabetes mellitus type I	15 (1.6)	9 (1.0)	0.33
+Diabetes mellitus type II	187 (19.3)	112 (12.9)	<0.001
+Total cholesterol > 6.5 mmol/L	72 (7.4)	138 (15.8)	<0.001
+BMI (kg/m2)	27.7 (25.3–30.3)	25.2 (22.9–28.0)	<0.001
+History of heart disease			
+Angina pectoris	223 (22.7)	381 (43.7)	<0.001
+Myocardial infarction	94 (9.6)	290 (33.3)	<0.001
+Previous CABG	47 (4.8)	88 (10.1)	<0.001
+Previous PCI	98 (10.0)	87 (10.0)	0.995
+Heart failure	165 (16.8)	235 (27.0)	<0.001
+Treatment prior to admission			
+ACEI/ARBs	408 (41.7)	295 (33.9)	0.020
+Beta-blockers	253 (26.1)	313 (35.9)	<0.001
+Statins	93 (9.6)	298 (34.2)	<0.001
+Data are presented as median (interquartile range) or numbers (%). Symptom duration: Time from symptom onset until hospital admission.
+Abbreviations: ARB, Angiotensin receptor blocker; ACEI, Angiotensin-converting-enzyme inhibitor; ANGPT2, angiopoietin-2; ANGPTL4, angiopoietin-like 4 protein; BMI, body mass index; BNP, B-type natriuretic peptide; CABG, coronary artery bypass grafting; hs-CRP, high-sensitivity C-reactive protein; eGFR, estimated glomerular filtration rate; PCI, percutaneous coronary intervention; TnT, troponin-T.
+* For the diagnosis of an acute myocardial infarction, we applied a cut-off value for TnT of 0.05 ng/ml in the Norwegian population and 0.03 ng/ml in the Argentinean population.
+† Admission samples from 846 patients in RACS and 969 patients in ARRA-RACS were available for analysis of ANGPT2, respectively.
+‡ Admission samples from 848 patients in RACS and 981 patients from ARRA-RACS were available for measurement of ANGPTL4, respectively.
+There were significantly fewer all-cause deaths in the Argentinean population at both 24 months and up to 60 months follow-up, primarily due to younger age at enrolment and shorter median follow-up time.
+
+Associations between ANGPT2 and ANGPTL4 and baseline characteristics
+Admission levels of ANGPT2 and ANGPTL4 were associated with multiple baseline demographics in both the Norwegian and the Argentinean population (Table 2). We found a significant positive correlation between admission levels of ANGPT2 and ANGPTL4 in both the Norwegian (r = 0.52, p < 0.001) and the Argentinean population (r = 0.32, p < 0.001). In the Norwegian population, admission levels of ANGPT2 were positively correlated with levels of BNP and hs-CRP, but not with TnT (Table S1). For ANGPTL4, we found a positive correlation with levels of BNP, hs-CRP and TnT. In the Argentinean cohort, ANGPT2 and ANGPTL4 were found to correlate positively with BNP, hs-CRP and TnT, respectively (Table S1).
+
+TABLE 2. Stepwise multivariable linear regression with ANGPT2 and ANGPTL4 as dependent variables to determine which baseline variables were associated with admission levels of ANGPT2 and ANGPTL4
+Norway (RACS)	Argentina (ARRA-RACS)
+ANGPT2	ANGPTL4	ANGPT2	ANGPTL4
+Coefficient (95% CI)	p-value	Coefficient (95% CI)	p-value	Coefficient (95% CI)	p-value	Coefficient (95% CI)	p-value
+Constant	0.05 (−0.29, 0.40)	0.76	1.90 (1.41, 2.39)	< 0.001	0.41 (0.10, 0.72)	0.010	1.51 (1.08, 1.94)	<0.001
+eGFR	−0.13 (−0.19, −0.067)	<0.001	−0.38 (−0.44, −0.31)	< 0.001	−0.10 (−0.15, −0.04)	0.001	−0.23 (−0.29, −0.17)	<0.001
+BNP	0.35 (0.28, 0.41)	<0.001	0.17 (0.10, 0.24)	< 0.001	0.30 (0.25, 0.36)	< 0.001	0.16 (0.10, 0.22)	<0.001
+CRP	0.25 (0.19, 0.31)	<0.001	0.22 (0.16, 0.27)	< 0.001	0.28 (0.23, 0.34)	< 0.001	–	–
+TnT	−0.07 (−0.13, −0.01)	0.019	0.07 (0.013, 0.12)	0.016	–	–	0.14 (0.08, 0.19)	<0.001
+Age/10 years	–	–	0.07 (0.014, 0.12)	0.013	–	–	0.07 (0.029, 0.12)	0.001
+Male sex	–	–	–	–	−0.23 (−0.34, −0.12)	< 0.001	–	–
+Angina pectoris	−0.14 (−0.25, −0.020)	0.021	–	–	–	–	−0.22 (−0.35, −0.09)	0.001
+Heart failure	0.40 (0.26, 0.54)	<0.001	0.20 (0.06, 0.33)	0.005	–	–	–	–
+DM Type II	–	–	–	–	0.19 (0.05, 0.33)	0.007	0.28 (0.14, 0.42)	<0.001
+Total cholesterol > 6.5	–	–	–	–	−0.28 (−0.49, −0.07)	0.009	–	–
+Use of beta blockers	–	–	–	–	0.16 (0.04, 0.29)	0.011	–	–
+Abbreviations: ANGPT2, angiopoietin-2; ANGPTL4, angiopoietinlike-4 protein; BNP, B-type natriuretic peptide; CI, confidence interval; CRP, C-reactive protein; DM, diabetes mellitus; eGFR, estimated glomerular filtration rate; TnT, troponin-T.
+The median time from symptom onset until hospital admission was 5.0 h, 25th–75th percentile: (2.0–14.0 h) in the Norwegian population and 5.0 h (2.0–15.2 h) in the Argentinean population (Table 1). In the Norwegian population, symptom duration was positively correlated with admission levels of ANGPT2 (rs = 0.17, p < 0.001) and ANGPTL4 (rs = 0.14, p < 0.001), respectively, whereas there was no such correlation in the Argentinean population (Table S2).
+
+ANGPT2 and outcome
+Norwegian cohort (RACS)
+At 24 months follow-up, 138 (15.8%) of the Norwegian patients in RACS had died. Eighty-six (9.9%) deaths were classified as cardiac. At 60 months follow-up, total mortality had increased to 259 (29.7%). ANGPT2 levels were significantly higher in patients who died at 24 months follow-up compared to survivors [median 4.10, 25th–75th percentile: (2.31–7.49) ng/ml vs. 1.98 (1.38–3.12) ng/ml, p < 0.001]. In the Kaplan–Meier analysis, increasing quartiles of ANGPT2 were associated with all-cause mortality at 24 months and 60 months follow-up (Figure 1a and b). Assessed as a continuous variable in the univariate Cox regression analysis, HR for all-cause mortality was 1.78, p < 0.001, at 24 months and 1.71, p < 0.001, at 60 months (Table 3). In the multivariable analysis, ANGPT2 was independently associated with all-cause mortality at 24 months and 60 months, respectively (Table 3). A similar association was seen for cardiac death in the univariate analysis, but not in the multivariable analysis (Table 3).
+
+Details are in the caption following the image
+FIGURE 1
+Open in figure viewer
+PowerPoint
+Survival curves for the Norwegian population stratified by ANGPT2 quartiles: (a) all-cause mortality within 24 months and (b) all-cause mortality within 60 months.
+TABLE 3. Univariate- and Multivariable Cox regression model applying continuous loge-transformed values of ANGPT2 and ANGPTL4
+All-Cause mortality 24 months	Cardiac death 24 months	All-Cause mortality 60 months
+Number of events	HR (95% CI)	p-value	Number of events	HR (95% CI)	p-value	Number of events	HR (95% CI)	p-value
+ANGPT2										
+Norway
+
+n = 846
+
+138			86			259		
+Univariate		1.78 (1.56–2.03)	<0.001		1.83 (1.55–2.16)	<0.001		1.71 (1.55–1.88)	<0.001
+Multivariable		1.27 (1.08–1.50)	0.005		1.22 (0.99–1.52)	0.068		1.19 (1.05–1.35)	0.005
+Argentina
+
+n = 969
+
+119			66			173		
+Univariate		2.22 (1.89–2.61)	<0.001		2.03 (1.62–2.54)	<0.001		2.11 (1.83–2.42)	<0.001
+Multivariable		1.57 (1.27–1.95)	<0.001		1.51 (1.14–2.00)	0.004		1.56 (1.30–1.88)	<0.001
+ANGPTL4										
+Norway
+
+n = 848
+
+138			86			259		
+Univariate		1.94 (1.66–2.27)	<0.001		1.99 (1.64–2.43)	<0.001		1.89 (1.69–2.12)	<0.001
+Multivariable		1.17 (0.95–1.45)	0.14		1.11 (0.85–1.45)	0.46		1.15 (0.98–1.35)	0.089
+Argentina
+
+n = 981
+
+119			66			173		
+Univariate		1.97 (1.70–2.30)	<0.001		1.70 (1.38–2.10)	<0.001		1.89 (1.66–2.15)	<0.001
+Multivariable		1.39 (1.15–1.68)	0.001		1.19 (0.92–1.53)	0.19		1.43 (1.23–1.67)	<0.001
+In multivariable analysis, we adjusted for age, gender, a medical history of previous coronary heart disease (i.e. angina pectoris, myocardial infarction, coronary artery bypass grafting or percutaneous coronary intervention), a history of heart failure, diabetes mellitus, hypercholesterolemia (total cholesterol >6.5 mmol/L), smoking status, use of angiotensin-converting-enzyme inhibitors or angiotensin receptor blockers, statins and beta blockers, index diagnosis acute myocardial infarction and laboratory parameters (Troponin T, estimated glomerular filtration rate (eGFR), high-sensitivity C reactive protein (hs-CRP) and B-type natriuretic peptide (BNP)).
+Abbreviations: ANGPT2, angiopoietin-2; ANGPTL4, angiopoietin-like 4 protein; HR, hazard ratio; CI, confidence interval, Univariate; univariate analysis, Multivariable; multivariable analysis.
+The area under the ROC curve for all-cause mortality at 24 months and 60 months follow-up was significantly increased for ANGPT2 as compared to TnT, but there was no significant difference in AUC between ANGPT2 and BNP (Figure S1a and b). Adding ANGPT2 to TnT and BNP, respectively, significantly increased the AUC for both 24 and 60 months all-cause mortality (Figure S1a and b). The addition of ANGPT2 to a prediction model with conventional clinical risk factors and levels of BNP, TnT and hs-CRP did not significantly increase the AUC for all-cause mortality (Figure 5).
+
+Median admission levels of ANGPT2 were significantly higher in TnT-positive patients as compared to the TnT-negative group of patients [2.40 (1.52–4.62) ng/ml vs. 1.92 (1.40–3.04) ng/ml, p < 0.001]. In the adjusted subgroup analysis of the Norwegian population stratified according to TnT release, ANGPT2 values were independently associated with all-cause mortality at 24 months in both TnT-positive and TnT-negative patients (Table 4). At 60 months follow-up, it was independently associated with all-cause mortality in TnT-negative patients, and an association of borderline significance was found in the TnT-positive group (Table 4).
+
+TABLE 4. Subgroup analysis of patients stratified according to troponin-T (TnT) release ≤/> 0.01 ng/ml. Multivariable cox regression model applying continuous loge-transformed values of angiopoietin-2 (ANGPT2) and angiopoietin-like 4 protein (ANGPTL4)
+All-cause mortality 24 months	All-cause mortality 60 months
+Number of events	HR (95% CI)	p-value	Number of events	HR (95% CI)	p-value
+ANGPT2						
+Norway						
+TnT ≤0.01 ng/ml	33	1.45 (1.08–1.96)	0.013	79	1.28 (1.05–1.57)	0.017
+n = 390						
+TnT >0.01 ng/ml	105	1.29 (1.06–1.56)	0.010	180	1.17 (0.99–1.36)	0.051
+n = 456						
+Argentina						
+TnT ≤0.01 ng/ml	37	1.85 (1.27–2.71)	0.002	61	1.66 (1.22–2.25)	0.001
+n = 586						
+TnT >0.01 ng/ml	82	1.50 (1.18–1.90)	0.001	112	1.38 (1.10–1.73)	0.005
+n = 382						
+ANGPTL4						
+Norway						
+TnT ≤0.01 ng/ml	33	1.75 (1.08–2.81)	0.022	79	1.66 (1.19–2.31)	0.003
+n = 391						
+TnT >0.01 ng/ml	105	1.15 (0.90–1.46)	0.27	180	1.07 (0.89–1.30)	0.46
+n = 457						
+Argentina						
+TnT ≤0.01 ng/ml	37	1.63 (1.14–2.34)	0.008	61	1.44 (1.11–1.87)	0.006
+n = 592						
+TnT >0.01 ng/ml	82	1.31 (1.06–1.62)	0.012	112	1.38 (1.15–1.66)	0.001
+n = 388						
+Abbreviations: ANGPT2, angiopoietin-2; ANGPTL4, angiopoietin-like 4 protein; CI, confidence interval; HR, hazard ratio; TnT, troponin T.
+Argentinean cohort (ARRA-RACS)
+In the Argentinean cohort, 119 (12.1%) patients had died at 24 months follow-up, of whom 66 patients (6.7%) suffered cardiac death. At 60 months follow-up, 173 patients (17.6%) had died. ANGPT2 levels were significantly higher in patients who died at 24 months follow-up compared to survivors [3.71 (2.42–7.68) ng/ml vs. 2.25 (1.58–3.26) ng/ml, p < 0.001]. According to the Kaplan–Meier analysis, increasing quartiles of ANGPT2 were associated with all-cause mortality at 24 months and 60 months follow-up (Figure 2). Assessed as a continuous variable, this yielded a univariate HR for all-cause mortality of 2.22, p < 0.001, at 24 months and a HR of 2.11, p < 0.001, at 60 months (Table 3). In the multivariable adjusted analysis, ANGPT2 was independently associated with all-cause mortality at 24 months and at 60 months follow-up (Table 3). A similar association was found for cardiac death at 24 months (Table 3).
+
+Details are in the caption following the image
+FIGURE 2
+Open in figure viewer
+PowerPoint
+Survival curves for the Argentinean population stratified by ANGPT2 quartiles: (a) all-cause mortality within 24 months and (b) all-cause mortality within 60 months.
+The area under the ROC curve for all-cause mortality at 24 months and 60 months did not differ between the studied biomarkers, neither between ANGPT2 and TnT, nor between ANGPT2 and BNP. Adding ANGPT2 to TnT and BNP, respectively, significantly increased the AUC for both 24 and 60 months all-cause mortality (Figure S2a and b). When ANGPT2 was added to a prediction model with conventional risk factors and established cardiovascular biomarkers, BNP, TnT and hs-CRP, the AUC significantly increased for both 24 months and 60 months all-cause mortality (Figure 6).
+
+Admission levels of ANGPT2 were significantly higher in TnT-positive patients as compared to the TnT-negative group of patients [2.74 (1.85–4.68) ng/ml vs. 2.13 (1.51–3.05) ng/ml, p < 0.001]. In the adjusted subgroup analysis of the Argentinean population stratified according to TnT release, continuous ANGPT2 values were independently associated with all-cause mortality at 24 months and 60 months follow-up, irrespective of TnT release (Table 4).
+
+ANGPTL4 and outcome
+Norwegian cohort (RACS)
+Similar to ANGPT2, patients who died had significantly higher admission levels of ANGPTL4 compared to survivors at 24 months follow-up [4.54 (3.47–6.45) vs. 2.93 (2.07–4.35) ng/ml, p < 0.001]. In the Kaplan–Meier analysis, increasing quartiles of ANGPTL4 were associated with all-cause mortality at 24 months and 60 months follow-up (Figure 3). Assessed as a continuous variable, this yielded a univariate HR for all-cause mortality of 1.94, p < 0.001, at 24 months and a HR of 1.89, p < 0.001, at 60 months (Table 3). These associations were attenuated and no longer statistically significant in the multivariable adjusted analysis at both 24 months and 60 months follow-up (Table 3). A significant association between ANGPTL4 and cardiac death was seen in the univariate analysis but did not remain statistically significant in the adjusted analysis (Table 3).
+
+Details are in the caption following the image
+FIGURE 3
+Open in figure viewer
+PowerPoint
+Survival curves for the Norwegian population stratified by ANGPTL4 quartiles: (a) all-cause mortality within 24 months and (b) all-cause mortality within 60 months.
+The area under the ROC curve for all-cause mortality at 24 months and 60 months follow-up was significantly increased for ANGPTL4 as compared to TnT, but there was no significant difference in AUC between ANGPTL4 and BNP. Adding ANGPTL4 to the model with TnT significantly increased the AUC for 24 and 60 months all-cause mortality, while adding ANGPTL4 to the BNP model significantly increased the AUC for 60 months all-cause mortality (Figure S1a and b). Adding ANGPTL4 to the prediction model with conventional risk factors and established cardiovascular biomarkers did not increase the AUC for 24 and 60 months all-cause mortality (Figure 5).
+
+Median admission levels of ANGPTL4 were significantly higher in TnT-positive patients as compared to the TnT-negative group of patients [3.67 (2.55–5.43) ng/ml vs. 2.77 (1.99–4.04) ng/ml, p < 0.001]. In the adjusted subgroup analysis of patients stratified according to TnT release, continuous ANGPTL4 values were independently associated with all-cause mortality in the TnT-negative patients at both 24 months and 60 months follow-up (Table 4). There was no statistically significant association between levels of ANGPTL4 and all-cause mortality in the TnT-positive patients.
+
+Argentinean cohort (ARRA-RACS)
+Similar to the Norwegian cohort, patients who died had significantly higher admission levels of ANGPTL4 compared to survivors at 24 months follow-up [6.08 (3.83–9.55) vs. 3.38 (2.22–5.20) ng/ml, p < 0.001]. According to Kaplan–Meier analysis, increasing quartiles of ANGPTL4 were associated with all-cause mortality at both 24 months and 60 months follow-up (Figure 4). Assessed as a continuous variable, this yielded a univariate HR for all-cause mortality of 1.97, p < 0.001 at 24 months and an HR of 1.89, p < 0.001 at 60 months (Table 3). In the multivariable analysis, ANGPTL4 levels were independently associated with all-cause mortality at both 24 months and 60 months follow-up (Table 3). A significant association between ANGPTL4 and cardiac death was observed in the univariate analysis, but not in the multivariable analysis (Table 3).
+
+Details are in the caption following the image
+FIGURE 4
+Open in figure viewer
+PowerPoint
+Survival curves for the Argentinean population stratified by ANGPTL4 quartiles: (a) all-cause mortality within 24 months and (b) all-cause mortality within 60 months.
+Details are in the caption following the image
+FIGURE 5
+Open in figure viewer
+PowerPoint
+Receiver operated characteristic curve for a prediction model including conventional clinical risk factors and established cardiovascular biomarkers (TnT, BNP and CPR), with the addition of angiopoietin-2 (ANGPT2) and angiopoietin-like 4 protein (ANGPTL4), respectively, for evaluation of (a) 24 months all-cause mortality and (b) 60 months all-cause mortality in the Norwegian cohort (RACS).
+Details are in the caption following the image
+FIGURE 6
+Open in figure viewer
+PowerPoint
+Receiver operated characteristic curve for a prediction model including conventional clinical risk factors and established cardiovascular biomarkers (TnT, BNP and hs-CPR), with the addition of angiopoietin-2 (ANGPT2) and angiopoietin-like 4 protein (ANGPTL4), respectively, for evaluation of (a) 24 months all-cause mortality and (b) up to 60 months all-cause mortality in the Argentinean cohort (ARRA-RACS).
+The area under the ROC curve for all-cause mortality at 24 months and 60 months follow-up was significantly increased for ANGPTL4 as compared to TnT, but there was no significant difference in AUC between ANGPTL4 and BNP. Adding ANGPTL4 to TnT and BNP, respectively, significantly increased the AUC for all-cause mortality at both 24 and 60 months (Figure S2a and b). When ANGPTL4 was added to the prediction model with conventional clinical risk factors and BNP, TnT and hs-CRP, the AUC significantly increased for 24 months all-cause mortality, but not for 60 months all-cause mortality (Figure 6).
+
+In the subgroup analysis, median admission levels of ANGPTL4 were found to be significantly higher in TnT-positive patients as compared to the TnT-negative group of patients [4.67 (3.09–7.26) ng/ml vs. 3.11 (2.05–4.67) ng/ml, p < 0.001]. A significant association was found between continuous ANGPTL4 and all-cause mortality at 24 months and 60 months follow-up, respectively, in both TnT-positive and TnT-negative patients (Table 4).
+
+DISCUSSION
+In these prospective observational transatlantic studies of hospital-admitted patients with suspected acute coronary chest pain, ANGPT2 was found to be independently associated with all-cause mortality at both 24 and 60 months follow-up in both the Norwegian and the Argentinean population. The other studied biomarker, ANGPTL4, was significantly associated with all-cause mortality in the Argentinean population for both follow-up periods, enforcing trends obtained in the Norwegian population. Importantly, the association between ANGPT2 and ANGPTL4 and outcome, was also seen after adjusting for conventional risk factors and established prognostic markers, such as BNP, hs-CRP and TnT. Our findings suggest that these structurally partly overlapping novel biomarkers, representing distinct pathways in the pathogenesis of atherosclerosis and its complications, may yield additional information regarding outcome in ACS patients.
+
+In a large community-based study [25], higher ANGPT2 concentrations were associated with a greater risk of all-cause and cardiovascular mortality in a general population during a median follow-up time of 6.2 years. ANGPT2 also predicted all-cause mortality in two clinical studies including high-risk patient populations, one of which consisted of subjects with peripheral arterial disease [26] and one with chronic kidney disease [27]. In other smaller clinical studies of very high-risk populations, including patients with AMI complicated with cardiogenic shock [19, 20] and acute decompensated HF [17], ANGPT2 was also found to be an independent predictor of all-cause mortality. In contrast to these studies, our cohorts are larger, and our findings are consistent across two continents. Moreover, the association between ANGPT2 and total mortality was independent of BNP, hs-CRP and TnT, biomarkers which have been found to be strong predictors of outcome in ACS patients. Finally, the present study is, to the best of our knowledge, the first report to underscore an independent association between ANGPT2 and mortality in intermediate high-risk patients admitted with suspected ACS, a patient population commonly dealt with in the emergency department.
+
+In the Argentinean population, ANGPT2 was also independently associated with cardiac death, with a similar non-significant trend in the Norwegian population. Elevated ANGPT2 has previously been found to predict future cardiovascular events both in the general population [28], in patients with hypertension [29], patients with chronic kidney disease [27] and in stable post-percutaneous coronary intervention CHD patients [21]. It is also found to be a predictor of cardiovascular mortality in elderly men [30] and in the general population [25]. In our study, the significant association of ANGPT2 with cardiac death was confined to the Argentinean population, which may reflect a confounding difference in interventional treatment policies between the two countries [23, 24].
+
+As a novel finding, our study demonstrated that ANGPTL4 may also yield important information regarding all-cause mortality. To our knowledge, this is the first study to report a significant association between ANGPTL4 and all-cause mortality in chest pain patients admitted with suspected ACS. There was an independent association in the Argentinean population, with similar univariate findings and a non-significant trend in the multivariable analysis of the Norwegian population. The reason for this somewhat different pattern between the two countries after adjustment are at present not clear but may at least partly be related to different treatment approaches [23, 24] and may partly reflect a difference in the proportions of non-cardiac and cardiac death in the two populations. Nonetheless, our findings underscore the need for testing the utility of different cardiovascular biomarkers in more than one country and across continents.
+
+ANGPTL4 has previously been found to be associated with cardiometabolic disease, including dyslipidaemia [8]. Our findings of a significant association between ANGPTL4 and outcome following an ACS are in accordance with previous observations [14], reporting a positive association between circulating ANGPTL4 levels and future cardiovascular events, including cardiac death and SCD, in a high-risk population referred to elective coronary angiography. However, no association between ANGPTL4 levels and risk of CHD was found in a general population-based study of healthy middle-aged men [31]. Previous studies have mainly focused on the association between ANGPTL4 and risk of CHD [31-33], and genetic studies have demonstrated a reduced risk of CHD associated with loss-of-function mutation in ANGPTL4 [14, 32, 33]. The present study is the first to relate ANGPTL4 to mortality, including cardiovascular mortality, in patients admitted to hospital with ACS or suspected ACS.
+
+Currently, troponins are commonly used for risk stratification in ACS patients [34]. In our study, we found an independent association between ANGPT2 and all-cause mortality, irrespective of TnT release. Comparing ROC values for TnT at index hospitalization, revealed that ANGPT2 as compared to TnT had more accurate predictive ability with respect to 24 and 60 months all-cause mortality. In the Argentinean cohort, ANGPTL4 was independently associated with all-cause mortality in both TnT-positive and TnT-negative group of patients, with similar findings in the TnT-negative patients of the Norwegian population. ANGPTL4 served as a better prognostic marker than TnT when comparing the area under the ROC curve in both the Norwegian and the Argentinean population, respectively. Furthermore, combining ANGPT2 and ANGPTL4, respectively, with the TnT model, significantly improved the predictive ability with regard to all-cause mortality at both 24 months and 60 months follow-up.
+
+Both ANGPT2 and ANGPTL4 showed predictive value in line with BNP. Adding ANGPT2 to the model with BNP significantly increased the AUC for 24 and 60 months all-cause mortality in both populations. Furthermore, adding ANGPT2 to a prediction model of established cardiovascular risk factors increased the prognostic accuracy for all-cause mortality in the Argentinean population. The addition of ANGPTL4 to the model with BNP alone significantly increased the AUC for 24 and 60 months all-cause mortality in the Argentinean cohort, with similar findings for 60 months all-cause mortality in the Norwegian population.
+
+Both studied biomarkers, ANGPT2 and ANGPTL4, showed incremental predictive value when added to the TnT and BNP model, respectively, and may serve as useful prognostic markers in hospital admitted chest pain patients with clinically suspected ACS. The prognostic value of ANGPT2 and ANGPTL4 needs to be further investigated in future studies.
+
+STRENGTHS
+We performed a prospectively designed study of acute chest pain patients with suspected ACS in a Norwegian population and validated our findings in a similar Argentinean cohort. Similar protocols and case report forms were applied for the Norwegian and the Argentinean population, respectively, and this design allowed us to study the generality of findings on two continents. Our populations were unaffected by patient selection and interventional regimens prior to blood collection. In our multivariable analyses, we also included conventional prognostic biomarkers to assess the clinical significance of ANGPT2 and ANGPTL4.
+
+LIMITATIONS
+As risk of future events is related to the general risk profile of a patient, the differences seen in risk variables at baseline may influence the associations obtained for the two biomarkers, explaining the results of the adjusted analysis performed separately in the two populations. Sampling of the biomarkers was limited to one draw at hospital admission. We used a second- and fourth-generation TnT assay, and not a high-sensitivity assay, to categorize our patients. Due to some missing EDTA samples, citrated plasma was used for the measurement of ANGPT2 and ANGPTL4 in a minor proportion of patients in both cohorts. In the Norwegian population, we found a statistically significant positive correlation between symptom duration and admission levels of ANGPT2 and ANGPTL4, respectively. We found no correlation between symptom duration and levels of ANGPT2 and ANGPTL4, respectively, in the Argentinean population, which is probably due to a tighter distribution of time from symptom onset to admission in this cohort. A wider distribution of symptom duration may influence the levels of biomarkers and their associations with outcome. As the correlations of biomarker levels with time are weak, these time-dependent differences can be regarded as less important.
+
+CONCLUSIONS
+High admission levels of ANGPT2 were found to be independently associated with all-cause mortality in chest pain patients with suspected ACS admitted to the emergency department in both a Norwegian and an Argentinean population. Similar findings were obtained for ANGPTL4 in the Argentinean population, enforcing a trend in the Norwegian cohort. Our findings indicate that these biomarkers may have incremental predictive value in addition to clinical risk markers and established cardiovascular biomarkers in risk stratification of patients with suspected ACS.

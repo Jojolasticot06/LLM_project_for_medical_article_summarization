@@ -1,0 +1,34 @@
+BACKGROUND: Fatigue is one of the most commonly reported symptoms after 
+subarachnoid hemorrhage (SAH) and is indirectly associated with physical 
+activity (PA). Associations between fatigue and PA are primarily examined based 
+on conventional measures (i.e. a single fatigue score or average PA levels), 
+thereby assuming that fatigue and PA do not fluctuate over time. However, levels 
+of fatigue and PA may not be stable and may interrelate dynamically in daily 
+life. Insight in direct relationships between fatigue and PA in daily life, 
+could add to the development of personalized rehabilitation strategies. 
+Therefore we aimed to examine bidirectional relationships between momentary 
+fatigue and PA in people with SAH.
+METHODS: People (n = 38) with SAH who suffer from chronic fatigue were included 
+in an observational study using Ecological Momentary Assessment (EMA) and 
+accelerometry. Momentary fatigue was assessed on a scale from 1 to 7 (no to 
+extreme fatigue), assessed with 10-11 prompts per day for 7 consecutive days 
+using EMA with a mobile phone. PA was continuously measured during this 7-day 
+period with a thigh-worn Activ8 accelerometer and expressed as total minutes of 
+standing, walking, running and cycling in a period of 45 min before and after a 
+momentary fatigue prompt. Multilevel mixed model analyses including random 
+effects were conducted.
+RESULTS: Mean age was 53.2 years (SD = 13.4), 58% female, and mean time post SAH 
+onset was 9.5 months (SD = 2.1). Multilevel analyses with only time effects to 
+predict fatigue and PA revealed that fatigue significantly (p < 0.001) increased 
+over the day and PA significantly (p < 0.001) decreased. In addition, more PA 
+was significantly associated with higher subsequent fatigue (β = 0.004, 
+p < 0.05) and higher fatigue was significantly associated with less subsequent 
+PA (β=-0.736, p < 0.05). Moreover, these associations significantly differed 
+between participants (p < 0.001).
+CONCLUSIONS: By combining EMA measures of fatigue with accelerometer-based PA we 
+found that fatigue and PA are bidirectionally associated. In addition, these 
+associations differ among participants. Given these different bidirectional 
+associations, rehabilitation aimed at reducing fatigue should comprise 
+personalized strategies to improve both fatigue and PA simultaneously, for 
+example by combining exercise therapy with cognitive behavioral and/or energy 
+management therapy.

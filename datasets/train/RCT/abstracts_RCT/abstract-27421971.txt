@@ -1,0 +1,11 @@
+A PET/CT approach to spinal cord metabolism in amyotrophic lateral sclerosis.
+
+1/PURPOSE: In amyotrophic lateral sclerosis, functional alterations within the brain have been intensively assessed, while progression of lower motor neuron damage has scarcely been defined. The aim of the present study was to develop a computational method to systematically evaluate spinal cord metabolism as a tool to monitor disease mechanisms.
+
+2/METHODS: A new computational three-dimensional method to extract the spinal cord from (18)F-FDG PET/CT images was evaluated in 30 patients with spinal onset amyotrophic lateral sclerosis and 30 controls. The algorithm identified the skeleton on the CT images by using an extension of the Hough transform and then extracted the spinal canal and the spinal cord. In these regions, (18)F-FDG 
+standardized uptake values were measured to estimate the metabolic activity of the spinal canal and cord. Measurements were performed in the cervical and dorsal spine and normalized to the corresponding value in the liver.
+
+3/RESULTS: Uptake of (18)F-FDG in the spinal cord was significantly higher in patients than in controls (p < 0.05). By contrast, no significant differences were observed in spinal cord and spinal canal volumes between the two groups. (18)F-FDG uptake was completely independent of age, gender, degree of functional impairment, disease duration and riluzole treatment. Kaplan-Meier analysis 
+showed a higher mortality rate in patients with standardized uptake values above the fifth decile at the 3-year follow-up evaluation (log-rank test, p < 0.01). The independence of this value was confirmed by multivariate Cox analysis.
+
+4/CONCLUSION: Our computational three-dimensional method enabled the evaluation of spinal cord metabolism and volume and might represent a potential new window onto the pathophysiology of amyotrophic lateral sclerosis.

@@ -1,0 +1,57 @@
+Introduction
+High flow nasal cannula therapy (HFNC) is increasingly used in the management of acute hypoxemic respiratory failure (AHRF), as well as during the outbreak of Coronavirus disease (COVID-19) (1,2,3). In this latter scenario HFNC has been extensively used also outside the Intensive Care Unit (ICU) (2, 4), due to the paucity of ICU beds (5), at least in certain geographical areas (6). Failure of HFNC may cause delayed intubation and increased mortality in patients with ARF (7). ROX index is defined as the ratio of pulse oximetry/fraction of inspired oxygen (SpO2/FiO2) to respiratory rate (RR). Roca et al. (8), identified patients at high risk of HFNC failure when this index is <4.88 at 12 hours. This threshold was confirmed also in COVID-19 patients who show, however, an unusually high rate of intubation (9), compared to most of the studies performed in this population (∼30%) (1 Vianello,2 Franco,3 Patel). To the best of our knowledge only one small single centre study was performed (10) outside the ICU and therefore generalizing about a threshold value to predict HFNC success or failure needs confirmation and verification by multicenter trials performed in less “protected environments.”
+
+The purpose of this investigation was therefore to verify, in a larger multicenter study, whether the ROX index is an accurate predictor of HFNC failure for COVID-19 patients treated outside the (ICU) and to eventually compare with the previously suggested threshold.
+
+Methods
+We performed a retrospective observational analysis of prospectively collected data in 120 patients with ARF due to COVID-19 pneumonia, referring to 3 centres specialized in non-invasive respiratory support (Buenos Aires, Argentina; Bolzano and Treviso, Italy). Patients treated outside the ICU were analysed. The respiratory COVID-19 areas consisted of a former respiratory ward, transformed into an ad-hoc dedicated specialized Respiratory Monitoring Unit. These units provided an active full-day shift run by a fixed group of pulmonologists and with a “reinforced” nurse–patient ratio varying from 1:4 to 1:6 depending on the hospital. Patients with a “do not intubate order” were excluded.
+
+HFNC was initiated with high flows of 50-60 L/min, and adjusting FiO2 to maintain SpO2 between 92-96%. The temperature was targeted according to patient comfort. The patients were monitored by non-invasive measurement of heart rate and blood pressure, oxygen saturation and respiratory rate. FiO2 was gradually reduced keeping the target SaO2. Flow was also gradually decreased according to the patient's tolerance and reduction of respiratory rate (RR). On the other hand, when patients could not sustain SpO2 or reduce RR, they were upgraded to NIV. If the patient's status deteriorated, she/he was transferred to the ICU for endotracheal intubation, at the discretion of the responsible physician. HFNC failure was defined as escalation to invasive mechanical ventilation (IMV) or death. The standard indications for endotracheal intubation (ETI) included the following: respiratory rate (RR) greater than 35 breaths/min, obvious accessory respiratory muscle activity or abdominal paradoxical breathing, progressive increase in PaCO2, hemodynamic instability and inability to protect the airways or inability to obtain saturation greater than 93% with FiO2 greater than 80%.
+
+The switch to NIV or CPAP was not considered as HFNC step-up, since all these 3 methods are considered as non-invasive ventilator support strategies (2 Franco) and the literature has not so far demonstrated superiority of one of these techniques over the others. For this reason, this subset of patients, as well as those passing from NIV to HFNC, was not considered in the data analysis.
+
+Demographic variables and severity scores were recorded at the time of patient admission. The variables to calculate the ROX index were collected during the first day of therapy at 2, 6, 12 and 24 hours and then recorded every 24 hours.
+
+Statistical analysis
+The quantitative variables were expressed as mean and standard deviation or median and interquartile range, if the normality criterion, as a result of the Shapiro-Wilk test, was not met. Categorical variables were expressed as frequencies and percentages. Continuous variables were compared using the t-Student or U-Mann Whitney test, as appropriate. For categorical variables, the comparison was made using the chi-square test or the Fisher exact test, as appropriate. To evaluate the accuracy of certain variables for classifying patients who will succeed or fail with HFNC, an analysis of ROC (Receiver Operating Characteristics) curves was made and the area under the curve (AUC) was calculated. The optimal threshold of the continuous variables was chosen to maximize the sum of sensitivity and specificity. According to the cut-off point in the ROC curve analysis for ROX index, Kaplan-Meier curves were used to determine the probability of IMV for patients with a ROX index above the threshold and below the threshold. These curves were compared using the log-rank test. A 2-tailed p-value of less than 0.05 or less was considered statistically significant. The statistical analysis was performed using R Studio (Version 1.3.1093).
+
+Results
+From March to August 2020, 120 of confirmed COVID-19 patients undergoing HFNC fulfilled the eligibility criteria and were included in the statistical analysis. Overall patient characteristics are illustrated in Table 1 S. A total of 35 (29%) patients failed HFNC and required intubation. These patients had higher X-ray consolidations (11) and SOFA. The median time-to-intubation was 2 days (IQR[1-3]). The overall mortality was 9 (7.5%), all in the intubation group. At admission, the median SpO2/FiO2 was 155 (IQR[106-190]) and RR was 30.00 (IQR[28-33]). Table 1 shows the accuracy of the ROX index in discriminating HFNC success at 2, 6, 12 and 24 hours.
+
+Table 1. Accuracy of SpO2/FiO2, RR and ROX index in discriminating HFNC success at 2, 6, 12 and 24 hours.
+
+Empty Cell	AUC ROC	95% CI	Threshold	Sensitivity	Specificity
+At 2 hours
+SpO2/FiO2	0.61	0.48-0.74	158	43	85
+RR	0.64	0.51-0.78	26	50	83
+ROX	0.64	0.52-0.77	5.1	32	98
+At 6 hours					
+SpO2/FiO2	0.66	0.54-0.78	167	60	70
+RR	0.58	0.45-0.70	28	24	90
+ROX	0.64	0.51-0.78	5,8	41	90
+At 12 hours
+SpO2/FiO2	0.8	0.71-0.89	159	65	83
+RR	0.72	0.61-0.83	25	60	77
+ROX	0.78	0.67-0.89	5,99	64	96
+At 24 hours
+SpO2/FiO2	0.7974	0.70-0.89	236	100	48
+RR	0.7971	0.68-0.90	25.5	59	86
+ROX	0.8258	0.73-0.91	8.36	86	66
+As shown in the upper part of Fig. 1, the ROC analysis identified the 12-hour ROX index as the best predictor of intubation with an AUC of 0.7916[CI 95% 0.6905-0.8927] and the best threshold to be 5.99[Specificity 96% Sensitivity 62%]. This difference was significantly different when compared to ROX index at 2 hours(AUC 0.6378 p-value = 0.01432) and at 6 hours (0.6648 p-value = 0.001236). In the survival analysis (lower part), a ROX value <5.99 was associated with an increased risk of failure (p = 0008 log – rank test). Interestingly, the threshold of 4,9 identified by Roca as the best predictor in non-COVID patients, was not able to discriminate between success and failure (p = 0.4 log-rank test) in our patients. Among components of the index, SpO2/FiO2 had a greater predictive power than respiratory rate.
+
+Fig 1
+Download : Download high-res image (233KB)
+Download : Download full-size image
+Fig. 1. Upper part: the ROC analysis identified the 12-hour ROX index as the best predictor of intubation with an AUC of 0.7916[CI 95% 0.6905-0.8927] compared to 2 and 6-hour ROX index. Best threshold to be 5.99[Specificity 96% Sensitivity 62%]. Lower part: In the survival analysis, a ROX value <5.99 was associated with an increased risk of failure (p = 0008 log – rank test).
+
+Discussion
+The ROX index has been proposed as a tool to predict HFNC outcome in patients with ARF, mainly admitted to the ICU. In this multicenter study, we have demonstrated that the ROX-12 is also able to discriminate HFNC success from failure in COVID-19 patients, but not with the threshold value proposed by Roca et al., since we have shown better prediction accuracy with a higher threshold (i.e. 5.99). The novelty of this study relies also on the fact that it was performed in patients with less severe hypoxemia treated outside a “protected environment”, compared to those treated in the ICU (i.e. baseline SpO2/FiO2 = 155 in our study vs. 104 in Ref. 8)
+
+Previous small single centre studies performed in COVID-19 patients reported a lower value (9, 10) (i.e. 4.95 and 5.40), but this was assessed within the first 6 hours of treatment, suggesting a worse severity of the patients. Nevertheless, it is important to note that during this pandemic HFNC has been largely used outside the ICU and therefore this study may provide useful information in patients with AHRF not needing ICU admission. One may argue that using ROX-12 may delay intubation, however, it has been shown that in these patients most intubations occur between 12 and 24 hrs, and this holds particularly true for patients affected by moderate ARF. Indeed, the reported difference with the validation study by Roca (8), may also be related to the mechanisms of hypoxemia in pneumonia for COVID-19 being different from those of “de novo” ARF (12), where the index was first validated. In particular, we have identified different phenotypes in patients with COVID-19 acute respiratory failure, such as “classical” ARDS, lung injury plus high dead-space related to emboli/diffuse microthrombi or normal lung with embolism (12).
+
+We have shown that the ROX-12 index had a greater predictive value than respiratory rate alone, in contrast with Blez et al. (13) that reported the best accuracy for this latter parameter. That study was however performed in a very small group of patients with a surprisingly low flow (10 L/min). The setting of flow may also drive the changes in respiratory rate, via a modification in end-expiratory lung volumes (14).
+
+This study has some limitations. Firstly, it is a retrospective analysis, but it was based on prospectively collected data. Because of the retrospective nature, standardization of intubation was not decided a priori, but since the 3 hospitals have cooperated in previous common studies, the local guidelines for intubation were very similar.
+
+Conclusion
+In summary, this multicenter study provides evidence that the ROX index may be useful in guiding clinicians in their decision to intubate patients, especially patients with moderate ARF, treated therefore outside the ICU. Indeed, it also demonstrates a different threshold value than that reported for non-COVID patients, possibly related to the different mechanisms of hypoxia.

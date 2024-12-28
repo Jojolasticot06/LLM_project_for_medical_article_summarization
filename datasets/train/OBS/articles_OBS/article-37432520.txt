@@ -1,0 +1,751 @@
+Introduction 
+
+Sepsis is a common cause of critical illness and is associated 
+with high morbidity and mortality [1–3] and, often, 
+with acute kidney injury (AKI). When AKI occurs in this 
+setting, it is referred to as sepsis-associated acute kidney 
+injury (SA-AKI) [4, 5]. The association between sepsis 
+and AKI has been studied previously [6, 7]. However, 
+the lack of a reproducible and standardized consensus 
+definition has limited the interpretability of available 
+knowledge. 
+
+A definition of SA-AKI was recently produced by the 
+Acute Disease Quality Initiative (ADQI) 28 Workgroup 
+[8]. It combines the presence of sepsis, defined by the 
+Sepsis-3 criteria [9], with the presence of AKI, defined 
+by the Kidney Disease Improving Global Outcomes 
+(KDIGO) criteria [10], occurring within 7 days of the 
+diagnosis of sepsis. 
+
+The epidemiology of SA-AKI in the critically ill, based 
+on this standardised consensus definition, remains 
+unknown. Furthermore, its incidence, patient characteristics, 
+timing, trajectory, treatment, and associated outcomes 
+have not been studied. Guided by the ADQI 28 
+Workgroup’s consensus definition and research priorities, 
+we analyzed a large, granular, multicentre database 
+of routinely collected electronic medical record (EMR) 
+data to assess SA-AKI. 
+
+We aimed to test the primary hypothesis that SA-AKI 
+is common in patients admitted to the intensive care unit 
+(ICU). We also intended to test the secondary hypothesis 
+that most SA-AKI is not a disease of intensive care, 
+but rather a disease that develops outside intensive care 
+and triggers intensive care admission. We also tested the 
+secondary hypothesis that patients with SA-AKI had 
+worse renal and non-renal outcomes than non-SA-AKI 
+patients. 
+
+Methods 
+
+Study design 
+
+Large, multicentre, retrospective cohort study of 
+granular, routinely collected, EMR-based clinical data. 
+
+Study sites 
+
+The study sites were 12 closed-model ICUs located in 
+Queensland, Australia. The ICUs included 5 tertiary 
+ICUs, 3 outer metropolitan ICUs, and 4 regional ICUs. 
+The centres comprise most of the entire state-wide ICU 
+capacity and include all the state-wide referral centres 
+for cardiothoracic, neurosurgical, obstetric, and trauma 
+
+Take-home message 
+Sepsis-associated acute kidney injury (SA-AKI) is a common, increasingly 
+prevalent problem in the intensive care unit (ICU). It occurs 
+predominantly in patients admitted from the emergency department 
+and is usually diagnosed within a day of ICU admission. Most 
+patients with SA-AKI had stage 1 AKI and were diagnosed by low 
+urine output alone, a group in which deterioration in renal function 
+was uncommon. 
+
+patients, as well as outer metropolitan and regional 
+ICUs. We evaluated all adult patients admitted between 
+January 1st, 2015, and December 31st, 2021. Of note, 
+Queensland, Australia did not have a community spread 
+of coronavirus disease 2019 (COVID-19) during the 
+study dates, therefore, the global pandemic did not have a 
+significant impact on the study. All patients were eligible 
+if their electronic medical records were retrievable. 
+We excluded patients with advanced chronic kidney 
+disease requiring chronic dialysis, patients admitted with 
+palliative intent, and patients transferred from another 
+participating ICU. We did not exclude readmission 
+episodes within the same hospital admission. 
+
+Data sources 
+
+Routinely collected data were obtained from all centres 
+using the eCritical MetaVision™ (iMDsoft, Boston, MA, 
+USA) clinical information systems. This included daily 
+laboratory data, daily medications, daily microbiology, 
+as well as hourly haemodynamic and hourly fluid balance 
+data. Information on baseline demographics, admission 
+diagnosis, the severity of illness and outcomes were 
+extracted from the Australia and Zealand Intensive Care 
+Society (ANZICS) Centre for Outcome and Resource 
+Evaluation (CORE) Adult Patient Database (APD) 
+[11–14]. The amount of missing data for key variables is 
+shown in Supplementary Table S1. 
+
+Identification of sepsis 
+
+Sepsis was defined according to the third international 
+consensus definitions for sepsis and septic shock [9]. 
+According to the SEPSIS-3 definition, we identified 
+patients with an increase in Sequential Organ Failure 
+Assessment (SOFA) score by two points with proven 
+or suspected infection [9]. We assumed a SOFA score 
+of zero before ICU admission. Where individual 
+components of SOFA were missing, no contribution 
+was made to the total score [12]. The daily total SOFA 
+score was calculated and an increase of two points 
+over 24 hours was identified. Given the challenges 
+
+of interpreting neurological SOFA with concurrent 
+sedation, it was not included in the total SOFA [15]. 
+Proven or suspected infection was defined as the 
+commencement or escalation of antimicrobial therapy 
+and microbiological sampling within 1 day of the SOFA 
+score increase [16]. An escalation of antimicrobials was 
+defined as an increase in antimicrobial ‘rank’ within 
+1 day of diagnosis of sepsis [17, 18]. As demonstrated 
+in Supplementary Table S2, ranking corresponds to the 
+spectrum of activity with rank one indicating the lowest 
+spectrum, such as first-generation cephalosporin, and 
+rank four the highest spectrum, such as carbapenems or 
+tigecycline [18]. 
+
+Patients admitted post-elective surgery, trauma, or 
+cardiac arrest were assumed to be receiving antibiotic 
+prophylaxis in the first 2 days of admission. Thus, they were 
+not classified as having sepsis regardless of their SOFA 
+score. Septic shock was defined as the administration of 
+a vasopressor medication and at least one blood lactate 
+greater than 2 mmol/L on the day of sepsis diagnosis [19]. 
+Furthermore, the dosage of vasopressor was converted to 
+norepinephrine equivalent, with conversion method shown 
+in Supplementary Table S3 [20]. 
+
+Identification of acute kidney injury 
+
+AKI was defined according to the KDIGO definition, 
+with daily serum creatinine and hourly urine output (UO) 
+data [10]. To manage absent hourly UO measurements 
+secondary to the absence of an indwelling catheter or 
+transfer outside of ICU, we performed imputation as 
+described in the Supplementary Table S4. Hourly UO 
+per kilogram of body weight was assessed on a rolling 
+basis to identify patients who met AKI UO criteria. Every 
+sliding 6, 12, and 24-h window of UO was assessed against 
+AKI thresholds. We performed multiple sensitivity 
+analyses assessing for systematic differences based on 
+UO imputation (Supplementary Tables S5, S6). Our 
+dataset did not have pre-ICU creatinine data, therefore 
+the baseline creatinine was estimated using the Chronic 
+Kidney Disease–Epidemiology Collaboration (CKD-EPI) 
+equation assuming an estimated glomerular filtration 
+rate (eGFR) of 75 mL/min/1.73m2 [21, 22]. Daily serum 
+creatinine was compared to estimated baseline creatinine 
+and values meeting definition of AKI were recorded. 
+Multiple sensitivity analyses comparing different methods 
+to estimated baseline serum creatinine were performed 
+(Supplementary Table S7). Urine output-based or 
+creatinine-based criteria or both were used to identify 
+whether a patient met the KDIGO criteria for AKI. 
+
+Identification of sepsis-associated acute kidney injury 
+
+After individually identifying episodes of sepsis and AKI, 
+we applied the ADQI 28 Workgroup SA-AKI definition. 
+
+We compared the day of the sepsis diagnosis to the day of 
+the AKI diagnosis. If AKI occurred between days 1 and 7 
+after sepsis diagnosis, patients were classified as SA-AKI 
+according to the ADQI criteria. Patients did not meet the 
+definition of SA-AKI, if AKI preceeded episode of sepsis. 
+A sensitivity analysis comparing patients diagnosed with 
+sepsis or AKI, but not meeting SA-AKI criteria was performed 
+(Supplementary Fig. S8). 
+
+Outcomes 
+
+The primary outcome was the incidence of SA-AKI. The 
+secondary outcome was the timing of SA-AKI in relation 
+to ICU admission. The additional secondary outcomes 
+are renal, AKI severity, renal recovery status, and 
+major adverse kidney events at 30 days (MAKE-30), and 
+non-renal, ICU and hospital length of stay, and ICU and 
+hospital mortality. Outcome definitions are provided in 
+Supplementary Fig. S11. 
+
+Statistical analysis 
+
+Descriptive statistics were expressed as frequencies and 
+proportions for categorical variables and medians with 
+interquartile ranges (IQR) or means with standard deviations 
+depending on their parametric or non-parametric 
+distribution. Fisher’s exact test was used to compare categorical 
+data. A mixed-effect logistic regression model, 
+including hospitals as a random effect, was developed to 
+examine factors associated with hospital mortality and 
+major adverse kidney events at day 30 (MAKE-30). The 
+variables used for analysis were determined a priori and 
+reflected the clinical utility of available data. The results 
+of the multivariable analysis were reported as odds ratios 
+(OR) with 95% confidence intervals (95% CI). Given the 
+large data set a two-sided p value of < 0.01 was considered 
+statistically significant. Statistical analyses were performed 
+using R v.4.0.3. 
+
+Ethical considerations 
+
+This study was approved by the Metro South Hospital 
+and Health Service Human Research Ethics Committee 
+(HREC/2022/QMS/82024) with an individual waiver of 
+consent granted. 
+
+Results 
+
+Incidence of SA-AKI 
+
+From January 1st, 2015, to December 31st, 2021, 89,466 
+patients were admitted to the participating ICUs. We 
+excluded 1950 patients with end-stage kidney disease, 
+544 patients admitted with palliative intent, and 2,503 
+patients transferred between facilities. Of the remaining 
+84,528 patients, 13,451 met the criteria for SA-AKI 
+during their ICU admission. As demonstrated in 
+Supplementary Fig. S1, the percentage of admissions that 
+
+met SA-AKI criteria increased over time from 14% in 
+2015 to nearly 18% in 2021. 
+
+Patient characteristics 
+
+The overall patient characteristics, inclusive of both non-
+SA-AKI and SA-AKI patients, are shown in Table 1. In 
+the entire cohort, the median age was 61 years, 39% were 
+female, and the median body mass index (BMI) was 27.8. 
+The severity of illness as measured by the median Acute 
+Physiology and Chronic Health Evaluation (APACHE) 
+III score was 50 and the most common source of admission 
+was the operating room followed by the emergency 
+department. 
+
+When compared to the entire ICU cohort, SA-AKI 
+patients had a higher APACHE III score, were more likely 
+to be admitted from the emergency department or a hospital 
+ward and had a higher risk of death. Though statistically 
+different, the SA-AKI group had a numerically 
+similar age, sex distribution, and body mass index to the 
+entire cohort. 
+
+On the day of ICU admission, most SA-AKI patients 
+required ventilation, which was similar to non-SA-AKI 
+patients. Almost half received at least 1 hour of vasopressor 
+therapy and almost one in ten required renal replacement 
+theraphy (RRT), all of which were more common 
+than in non-SA-AKI patients. Of note, diuretic therapy 
+was rarely used. 
+
+Timing and characteristics of SA-AKI diagnosis 
+
+As shown in Table 2, the median day of sepsis diagnosis 
+was the day of ICU admission, or day 1 (IQR 1–1). At 
+the time of SA-AKI diagnosis, over a third (40%) of 
+patients had septic shock and the median SOFA score 
+at sepsis diagnosis of 7 (IQR 5–9). Most patients met 
+AKI criteria on the same day as sepsis criteria, with a 
+median time from sepsis to AKI of 0 days (IQR 0–1). 
+Most patients (44%), were diagnosed with AKI based on 
+UO alone, whereas 35% and 21% met creatinine criteria 
+alone or both UO and creatinine criteria, respectively. 
+At AKI diagnosis, the majority (54%) had stage 1 AKI, 
+whereas only 25% and 21% had stage 2 and stage 3 
+AKI, respectively. Moreover, 11% of patients received 
+RRT on the day of SA-AKI diagnosis. As demonstrated 
+in Supplementary Table S4, 65% (5,700) of SA-AKI 
+patients with stage 1 AKI were diagnosed by UO alone, 
+representing 35% of the entire SA-AKI cohort. 
+
+Trajectory of SA-AKI 
+
+We examined the trajectory of SA-AKI patients by 
+daily serum creatinine and hourly UO over 14 days. The 
+mean serum creatinine of all SA-AKI patients stabilised 
+at day six of admission at a mean of 130 µmol/L from 
+a peak of > 170 µmol/L in survivors and at a mean of 
+
+155 µmol/L from a peak of 180 µmol/L in patients who 
+died in hospital (Supplementary Fig. S2). Patients with 
+stage 1 and stage 2 AKI did not have major fluctuations 
+in mean serum creatinine over time. The mean serum 
+creatinine of patients with Stage 3 AKI declined from a 
+peak of almost 400 µmol/L on day one then remained 
+level from day 6 onwards at 200 µmol/L (Supplementary 
+Fig. S3). As most patients were diagnosed with AKI by 
+UO alone, we examined serum creatinine over time by 
+AKI diagnostic criteria. In patients diagnosed by UO 
+alone, the mean serum creatinine remained unchanged 
+and within normal range throughout the ICU admission 
+(Fig. 1). These findings were consistent across each 
+stage of AKI (Figs. S4, S6). Furthermore, among patients 
+diagnosed by UO alone, the hourly UO data for all AKI 
+stages demonstrated that normalisation of UO was typical 
+and occurred within 24–48 hours of ICU admission 
+(Supplementary Figs. S7, S9). 
+
+In contrast, patients diagnosed with AKI by both UO 
+and creatinine had a persistently lower UO, an elevated 
+serum creatinine, the mean hourly UO never increased 
+above 1 mL/kg/h (Supplementary Fig. S10), and the 
+serum creatinine remained elevated at = 
+200 µmol/L (Fig. 
+1). 
+
+A summary of the trajectory of AKI stages over time 
+for the entire SA-AKI cohort is shown in Supplementary 
+Fig. S11, demonstrating that stage 1 or stage 2 AKI 
+patients decreased in number with resolution of AKI, 
+whereas, many stage 3 AKI patients maintained their 
+stage throughout their ICU admission. The trajectory 
+of SA-AKI patients diagnosed with AKI by UO alone is 
+shown in Supplementary Fig. S12, demonstrating rapid 
+resolution of AKI in the majority of patients. 
+
+Treatment during first 7 days of ICU admission 
+
+ICU therapies were examined during the first 7 days 
+of ICU admission, a duration which represents the top 
+quartile of ICU length of stay. Compared to patients 
+diagnosed by creatinine alone or both UO and creatinine, 
+patients who were diagnosed with SA-AKI by UO 
+alone were more likely to receive ventilation, but were 
+significantly less likely to require vasopressors and RRT 
+(Table 3). Except for ventilation in stage 3 AKI, these 
+findings were consistent across all stages of AKI severity 
+(Supplementary Tables S11–S13). 
+
+In SA-AKI patients, when compared to stage 1 and 
+stage 2, patients with stage 3 were less likely to receive 
+ventilation, received fewer days of vasopressor, and 
+were more likely to require RRT (Supplementary 
+Table S14), which may represent a possible interaction 
+with chronic kidney disease (CKD), which was 
+not available in the data. For the entire cohort, patients 
+
+Table 1 Baseline characteristics 
+
+Variable SA AKI p valueb 
+Yes, N 13,451a No, N 71,077a 
+Age (years) 64 (52, 74) 60 (46, 71) < 0.001 
+Female 45,592 (42%) 27,306 (38%) < 0.001 
+Body Mass Index 27.99 (25.39, 34.53) 27.74 (24.49, 31.25) < 0.001 
+Co-morbidities 
+Respiratory 974 (7.2%) 2099 (3%) < 0.001 
+Cardiovascular 597 (4.4%) 1939 (2.7%) < 0.001 
+Cirrhosis 666 (5%) 1085 (1.5%) < 0.001 
+Hematological malignancy 322 (2.4%) 534 (0.8%) < 0.001 
+Metastatic cancer 383 (2.8%) 2306 (3.2%) 0.016 
+Immunosuppressed 1713 (13%) 5032 (7.1%) < 0.001 
+Diabetes mellitus 658 (4.9%) 2307 (3.2%) < 0.001 
+No co-morbidities 9310 (69%) 58,877 (83%) < 0.001 
+APACHE diagnosis group < 0.001 
+Cardiovascular 1500 (11%) 23,959 (34%) 
+Gastrointestinal 2205 (16%) 9033 (13%) 
+Genitourinary 687 (5.1%) 2541 (3.6%) 
+Haematological 86 (0.6%) 122 (0.2%) 
+Metabolic 826 (6.1%) 5898 (8.3%) 
+Neurological 1008 (7.5%) 10,561 (15%) 
+Other 460 (3.4%) 1882 (2.6%) 
+Respiratory 2624 (20%) 7479 (11%) 
+Sepsis 4030 (30%) 3002 (4.2%) 
+Trauma 25 (0.2%) 6600 (9.3%) 
+Admission circumstances 
+Post-elective surgery 20 (0.1%) 33,353 (47%) < 0.001 
+Post-rapid response 2,912 (22%) 5083 (7.3%) < 0.001 
+Post-cardiac arrest 11 (< 0.1%) 3669 (5.2%) < 0.001 
+Readmission 1080 (8%) 2928 (4.1%) < 0.001 
+LOS in hospital before ICU (hours) 8.93 (3.52, 45.35) 12.32 (5.02, 42.25) < 0.001 
+Severity of illness 
+APACHE 2 score 21 (16, 27) 14 (10, 19) < 0.001 
+APACHE 3 score 71 (56, 88) 48 (35, 62) < 0.001 
+APACHE 3 risk of death 0.22 (0.1, 0.44) 0.04 (0.02, 0.11) < 0.001 
+Day of admission 
+Any ventilation 7333 (55%) 38,919 (55%) 0.6 
+Invasive ventilation 6876 (51%) 38,015 (53%) < 0.001 
+Non-invasive ventilation 457 (3.4%) 904 (1.3%) < 0.001 
+Urine output (mL/kg/h) 0.61 (0.31, 1.13) 0.97 (0.6, 1.58) < 0.001 
+Diuretics 1633 (12%) 2665 (3.7%) < 0.001 
+Maximum creatinine (µmol/L) 135 (81, 214) 77 (61, 99) < 0.001 
+AKI stage < 0.001 
+0 6097 (45%) 61,884 (87%) 
+1 3303 (25%) 6269 (8.8%) 
+2 1995 (15%) 1526 (2.1%) 
+3 2056 (15%) 1398 (2%) 
+RRT 1136 (8.4%) 806 (1.1%) < 0.001 
+Vasopressors 7951 (59%) 28,558 (40%) < 0.001 
+
+NEE Score (µg/kg/min) 0.06 (0.02, 0.17) 0.04 (0.01, 0.15) < 0.001 
+Table 1 (continued) 
+
+Variable SA AKI p valueb 
+Yes, N 13,451a No, N 71,077a 
+Mean MAP (mmHg) 75.7 (70.33, 84) 79 (72.29, 89) < 0.001 
+Maximum SOFA Score 7 (4, 9) 4 (2, 6) < 0.001 
+Maximum lactate (mmol/L) 2.3 (1.5, 4.2) 1.8 (1.2, 2.9) < 0.001 
+ICU level < 0.001 
+
+Tertiary 7308 (55%) 56,088 (79%) 
+Outer Metropolitan 2478 (19%) 5100 (7.2%) 
+Regional 3536 (27%) 9658 (14%) 
+Source of hospital admission < 0.001 
+High care facility 103 (0.8%) 229 (0.3%) 
+Home 9771 (73%) 55,251 (78%) 
+Low acuity facility 35 (0.3%) 109 (0.2%) 
+Other hospital 3542 (26%) 15,488 (22%) 
+Source of ICU admission 
+Emergency department 5632 (42%) 17,808 (25%) 
+Operating theatre 3137 (23%) 43,283 (61%) 
+Other hospital 943 (7%) 2793 (3.9%) 
+Unknown 2 (< 0.1%) 13 (< 0.1%) 
+Ward 3737 (28%) 7180 (10%) 
+Treatment goals on admission < 0.001 
+Full active treatment 11,731 (87%) 68,144 (96%) 
+Missing 1 (< 0.1%) 4 (< 0.1%) 
+
+Treatment limitation order 1719 (13%) 2929 (4.1%) 
+
+APACHE Acute Physiology and Chronic Health Evaluation; AKI acute kidney injury; ICU intensive care unit; LOS length of stay; MAP median arterial pressure; NEE 
+norepinephrine equivalent; RRT renal replacement therapy; SA-AKI sepsis-associated acute kidney injury; SOFA Sequential Organ Failure Assessment 
+
+a 
+
+Median (IQR) or Frequency (%) 
+b Wilcoxon rank sum test; Pearson’s Chi-squared test; Fisher’s exact test 
+
+with SA-AKI were more likely to require ventilation, 
+vasopressors, and RRT (Supplementary Table S15). 
+
+Associated outcomes 
+
+As shown in Table 4, we examined outcomes based on 
+the AKI diagnostic criteria met (UO alone, creatinine 
+alone, or both). Patients diagnosed with AKI only due 
+to low UO, had lower severity of maximum AKI, less 
+need for RRT, higher rate of renal recovery, and lower 
+mortality, when compared to diagnosis with both, 
+or serum creatinine alone. To further determine the 
+impact of severity of AKI at diagnosis, we compared 
+outcomes for AKI diagnostic criteria met in each AKI 
+severity group. In stage 1 AKI, when compared to creatinine 
+alone or both, low UO consistently had lower 
+severity of AKI, a much lower RRT requirement, lower 
+mortality, and a MAKE-30 demonstrating few adverse 
+renal outcomes (Supplementary Table S16). The relatively 
+low requirement for RRT, low mortality and 
+almost absence of adverse renal outcomes in patients 
+diagnosed by UO alone was consistent in stage 2 and 
+
+stage 3 AKI (Supplementary Tables S17, S18). In all 
+stages of AKI, patients diagnosed by UO only had a 
+three times higher chance of complete renal recovery, 
+compared to those diagnosed by creatinine alone 
+or both UO and creatinine. Compared to the entire 
+cohort, patients with SA-AKI had a longer ICU and 
+hospital length of stay, as well as a higher ICU and hospital 
+mortality (Supplementary Table S19). 
+
+For patients with SA-AKI, we created a multivariable 
+logistic regression model for MAKE-30 (Supplementary 
+Table S20). When controlling for patient characteristics, 
+age, sex, BMI, and severity of illness, APACHE 3 score, 
+ventilation requirement, and vasopressor requirement, 
+an AKI diagnosis by UO criteria alone (OR 0.34; 95% CI 
+0.32–0.36; p< 0.001) was associated with a significant 
+decrease in MAKE-30 when compared to creatinine 
+alone and both criteria. 
+
+Table 2 Characteristics at SA-AKI diagnosis 
+
+SA AKI 
+N 13,451a 
+
+Day of sepsis diagnosisb 1 (1, 1) 
+Day of AKI diagnosis 1 (1, 2) 
+Septic shock at sepsis diagnosis 5,427 (40%) 
+Days from sepsis to AKI diagnosis 0 (0, 1) 
+SOFA score 7 (5, 9) 
+Lactate (mmol/L) 2.3 (1.5, 4.2) 
+Antibiotic rankc 
+
+1182 (8.8%) 
+
+3219 (24%) 
+
+6632 (49%) 
+
+2418 (18%) 
+
+Any ventilation 7415 (55%) 
+
+Vasopressors 8117 (60%) 
+
+NEE score (µg/kg/min) 0.06 (0.02, 0.17) 
+
+AKI stage 
+
+1 7239 (54%) 
+
+3387 (25%) 
+
+2825 (21%) 
+
+AKI diagnostic criteria 
+
+Urine output only 5952 (44%) 
+
+Creatinine only 4642 (35%) 
+
+Both 2857 (21%) 
+
+Daily urine output (mL) 812 (350, 1,410) 
+
+Creatinine (µmol/L) 140 (80, 212.25) 
+
+RRT 1432 (11%) 
+
+Diuretic therapy 2506 (19%) 
+
+Cumulative FB (mL) 272.2 (- 198.7, 1,185.35) 
+
+AKI acute kidney injury; FB fluid balance;NEE norepinephrine equivalent; RRT 
+renal replacement therapy; SA-AKI sepsis-associated acute kidney injury; SOFA 
+Sequential Organ Failure Assessment 
+
+a 
+
+Median (IQR) or Frequency (%) 
+b Corresponds to the admission day 
+Ref. [18] 
+
+Discussion 
+
+Key findings 
+
+In this multicentre study, we investigated close to 
+90,000 critically ill patients and found that SA-AKI 
+occurred in one-sixth of all ICU admissions, that four 
+out of ten such patients were emergency admissions 
+from the community and one in four from the hospital 
+wards. Furthermore, the proportion of ICU admissions 
+diagnosed with SA-AKI has increased year on year. 
+When compared to other ICU admissions, patients with 
+SA-AKI had a higher severity of illness and received 
+more organ support therapies. 
+
+SA-AKI predominantly occurred within 24 hours of 
+ICU admission and the diagnosis of sepsis and AKI were 
+
+essentially simultaneous. At diagnosis, however, most 
+patients had stage 1 AKI due to low UO and relatively 
+low serum creatinine. This cohort typically had early 
+normalisation of UO with the resolution of AKI. Overall, 
+patients with SA-AKI who met AKI diagnostic criteria 
+by low UO alone had a shorter length of stay in the ICU 
+and hospital, as well as lower mortality compared to the 
+remainder of the SA-AKI patients, Finally, when adjusting 
+for baseline characteristics and severity of illness, SAAKI 
+by UO alone had significantly less MAKE-30 events. 
+
+Relationship to literature 
+
+To our knowledge, no other study has examined the 
+epidemiology of SA-AKI in a large multicenter cohort 
+of patients admitted to ICU utilising the recent consensus 
+ADQI definition. Before such a definition, previous 
+research demonstrated significant heterogeneity in 
+patient populations, with varying incidence and mortality 
+[8]. Two previously published studies, however, used 
+the SEPSIS-3 and KDIGO criteria to define SA-AKI [23, 
+24]. One was a single-centre retrospective study, only 
+included 351 SA-AKI patients, and reported a very low 
+incidence of SA-AKI at 2.8%, limiting its external validity 
+[23]. Another was a single-centre retrospective study 
+of the association between obesity and AKI in a cohort 
+of 456 patients and did not focus on the epidemiology 
+of SA-AKI [24]. Neither study examined the incidence, 
+characteristics, timing, trajectory, treatment, and outcomes 
+of SA-AKI in detail and a multicentric setting 
+involving a large population. No previous research has 
+assessed the relationship between AKI diagnostic criteria 
+and outcomes in SA-AKI patients. 
+
+Implications of the study findings 
+
+Our findings imply that SA-AKI is a common and 
+increasingly prevalent condition in the ICU. Furthermore, 
+they suggest that SA-AKI mostly occurs in patients 
+admitted from the community who already present to the 
+ICU with a combination of sepsis and AKI. In another 
+significant proportion, however, it develops in the hospital 
+wards and, as such, it may be a target for earlier 
+intervention. 
+
+Furthermore, the rapid resolution, and rare deterioration, 
+of renal function in SA-AKI patients diagnosed by 
+UO alone suggests that, in over half of such patients, the 
+presence of SA-AKI is of limited clinical importance. A 
+finding highlighted by the high prevalence of renal recovery 
+in SA-AKI patients diagnosed with UO alone. Thus, 
+low UO may represent a physiological response to sep-
+sis more than a pathophysiological marker of incipient 
+organ failure. These findings may also have significant 
+future therapeutic and research implications as the current 
+standard of care may be sufficient to manage most 
+
+Fig. 1 Mean Daily serum creatinine by AKI diagnostic criteria 
+
+Table 3 Treatment during First 7 days by AKI diagnostic criteria in SA-AKI patients 
+
+Variable AKI diagnostic criteria p valueb 
+Urine output only, N 5952a Creatinine only, N 4642a Both, N 2857a 
+Any 
+
+Ventilation 4147 (70%) 2470 (53%) 1908 (67%) < 0.001 
+Invasive ventilation 3975 (67%) 2302 (50%) 1815 (64%) < 0.001 
+Non-invasive ventilation 357 (6%) 297 (6.4%) 159 (5.6%) 0.3 
+Vasopressors 3762 (63%) 3476 (75%) 2419 (85%) < 0.001 
+Diuretics 2946 (49%) 2106 (45%) 1404 (49%) < 0.001 
+RRT 164 (2.8%) 827 (18%) 1432 (50%) < 0.001 
+Nephrotoxic antibiotics 1722 (29%) 1694 (36%) 1292 (45%) < 0.001 
+Days of intervention 
+Ventilation 2 (0, 5) 1 (0, 4) 2 (0, 6) < 0.001 
+Invasive ventilation 2 (0, 5) 0 (0, 3) 2 (0, 6) < 0.001 
+Non-invasive ventilation 0 (0, 0) 0 (0, 0) 0 (0, 0) 0.3 
+Vasopressors 2 (0, 5) 1 (0, 4) 2 (0, 6) < 0.001 
+RRT 2 (0, 3) 2 (0, 3) 3 (1, 4) < 0.001 
+Diuretic 0 (0, 2) 0 (0, 2) 0 (0, 2) < 0.001 
+Mean daily 
+Fluid balance (mL) 74.2 (- 487.9, 637.26) - 171.56 (- 910.7, 508.88) 369.76 (- 343.8, 1,124.77) < 0.001 
+NEE Score (ug/kg/min) 0.03 (0.01, 0.08) 0.05 (0.02, 0.12) 0.08 (0.03, 0.21) < 0.001 
+Furosemide Dose (mg) 40 (20, 60) 40 (26.67, 75) 53.33 (33.33, 93.12) < 0.001 
+
+SA-AKI sepsis-associated acute kidney injury; RRT renal replacement therapy; NEE norepinephrine equivalent 
+
+a 
+
+Median (IQR) or frequency (%) 
+b Pearson’s Chi-squared test; Kruskal–Wallis rank sum test 
+
+Table 4 Outcomes in all SA-AKI patients by AKI diagnostic criteria 
+
+Variable AKI diagnostic criteria p valueb 
+Urine output only, 
+N 5952a 
+Creatinine only, 
+N 4642a 
+Both, 
+N 2857a 
+Maximum AKI stage in ICU < 0.001 
+
+1 3311 (56%) 1466 (32%) 231 (8.1%) 
+2 1600 (27%) 1355 (29%) 615 (22%) 
+3 1041 (17%) 1821 (39%) 2011 (70%) 
+Any RRT 211 (3.5%) 857 (18%) 1460 (51%) < 0.001 
+ICU LOS (hours) 86 (47, 151) 71 (41, 138) 95 (47, 198) < 0.001 
+Hospital LOS (hours) 288 (159, 540) 284 (160, 560) 361 (171, 666) < 0.001 
+ICU mortality 473 (7.9%) 452 (9.7%) 678 (24%) < 0.001 
+Hospital mortality 738 (12%) 702 (15%) 914 (32%) < 0.001 
+Renal recovery < 0.001 
+Full 5130 (86%) 1785 (38%) 626 (22%) 
+Partial 66 (1.1%) 574 (12%) 252 (8.8%) 
+None 756 (13%) 2283 (49%) 1979 (69%) 
+
+MAKE-30 820 (14%) 1265 (27%) 1780 (62%) < 0.001 
+
+AKI acute kidney injury; RRT renal replacement therapy; ICU intensive care unit; LOS length of stay; MAKE-30 major adverse kidney events at day 30; SA-AKI sepsisassociated 
+acute kidney injury 
+
+a 
+
+Median (IQR) or frequency (%) 
+b Pearson’s Chi-squared test; Kruskal–Wallis rank sum test 
+
+cases of stage 1 SA-AKI and prevent adverse outcomes. 
+Moreover, future trials of SA-AKI therapies are unlikely 
+to have sufficient power to detect effects on RRT, MAKE30, 
+or mortality, if low UO alone SA-AKI patients are 
+included. 
+
+Strengths and limitations 
+
+Our study had several strengths. First, it was conducted 
+on a large cohort with a wide array of ICU admissions 
+from a state-wide ICU system encompassing a 
+complete range of adult critical care. This population 
+is representative of the general Australian population 
+and likely representative of similar populations in 
+resource-rich countries. Second, our study data were 
+comprehensive with highly granular data, which was 
+electronically extracted from a ubiquitous clinical 
+information system. All data collected were clinically 
+validated and had minimal missing data points. 
+Moreover, given their collection by non-research staff, 
+they represent an unbiased sample. Third, although we 
+utilised a novel standardised definition for SA-AKI, the 
+definition is composed of the SEPSIS-3 and KDIGO AKI 
+definitions, which are well established in the literature. 
+As such, we were able to leverage well-recognised 
+techniques to analyse a large database to identify sepsis 
+and AKI. 
+
+We acknowledge some limitations. First, the detection 
+of sepsis and AKI, and therefore, SA-AKI, was done 
+
+electronically and patients may have been misclassified. 
+Organ dysfunction detected by the analysis may not have 
+been caused by infection. However, our very large cohort 
+of patients likely limits the impact of these unusual circumstances. 
+Second, we did not classify SA-AKI into 
+phenotypes as suggested by the ADQI 28 Workgroup [8]. 
+Thus, our cohort of SA-AKI patients may represent different 
+groups with diverging risk factors and outcomes. 
+We plan to focus future work on such phenotypes. Third, 
+as we could not identify which patients had CKD before 
+presentation, such patients would have led to an overestimation 
+of AKI when using estimated baseline creatinine 
+calculation [25]. This matters, because CKD patients 
+have specific features and different outcomes from those 
+without CKD [26]. However, a previous study in investigated 
+over 3500 of the same patients from four hospitals 
+involved in this study, and using different data reported a 
+low CKD prevalence of 13.5% [27]. Investigation of CKD 
+patients will require additional data acquisition in future 
+studies. Fourth, the censoring of an RRT and serum creatinine 
+components of MAKE-30 at discharge from the 
+ICU potentially introduced ascertainment bias. Lastly, 
+the imputation of hourly UO data could potentially misclassify 
+patients with AKI. However, the sensitivity analysis 
+demonstrates no systemic differences between groups 
+and reduction, not increase, in AKI diagnoses with 
+imputation. 
+
+Conclusion 
+
+In a large cohort of critically ill patients, we found that 
+SA-AKI is common in patients admitted to the ICU from 
+the ED, mainly occurs within the day of ICU admission, 
+and with sepsis and AKI simultaneously present. Furthermore, 
+most patients with SA-AKI were diagnosed 
+with stage 1 AKI and by low UO alone, which was associated 
+with infrequent deterioration in renal function, as 
+defined by MAKE-30. These observations provide the 
+necessary epidemiological basis for interventional trials, 
+whilst highlighting the need to focus on specific subsets 
+of all SA-AKI patients.

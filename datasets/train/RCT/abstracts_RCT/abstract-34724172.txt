@@ -1,0 +1,14 @@
+Phase 3, Randomized, 20-Month Study of the Efficacy and Safety of Bimatoprost Implant in Patients with Open-Angle Glaucoma and Ocular Hypertension (ARTEMIS 2).
+
+1/OBJECTIVE: To evaluate the intraocular pressure (IOP)-lowering efficacy and safety of 10 and 15 µg bimatoprost implant in patients with open-angle glaucoma (OAG) or ocular hypertension (OHT).
+
+2/METHODS: This randomized, 20-month, multicenter, masked, parallel-group, phase 3 trial enrolled 528 patients with OAG or OHT and an open iridocorneal angle inferiorly in the study eye. Study eyes were administered 10 or 15 µg bimatoprost implant on day 1, week 16, and week 32, or twice-daily topical 
+timolol maleate 0.5%. Primary endpoints were IOP and IOP change from baseline through week 12. Safety measures included treatment-emergent adverse events (TEAEs) and corneal endothelial cell density (CECD).
+
+3/RESULTS: Both 10 and 15 µg bimatoprost implant met the primary endpoint of noninferiority to timolol in IOP lowering through 12 weeks. Mean IOP reductions from baseline ranged from 6.2-7.4, 6.5-7.8, and 6.1-6.7 mmHg through week 12 in the 10 µg implant, 15 µg implant, and timolol groups, respectively. IOP lowering 
+was similar after the second and third implant administrations. Probabilities of requiring no IOP-lowering treatment for 1 year after the third administration were 77.5% (10 µg implant) and 79.0% (15 µg implant). The most common TEAE was conjunctival hyperemia, typically temporally associated with the administration 
+procedure. Corneal TEAEs of interest (primarily corneal endothelial cell loss, corneal edema, and corneal touch) were more frequent with the 15 than the 10 µg implant and generally were reported after repeated administrations. Loss in mean CECD from baseline to month 20 was ~ 5% in 10 µg implant-treated eyes and ~ 1% 
+in topical timolol-treated eyes. Visual field progression (change in the mean deviation from baseline) was reduced in the 10 µg implant group compared with the timolol group.
+
+4/CONCLUSIONS: The results corroborated the previous phase 3 study of the bimatoprost implant. The bimatoprost implant met the primary endpoint and effectively lowered IOP. The majority of patients required no additional treatment for 12 months after the third administration. The benefit-risk assessment favored the 10 over the 15 µg implant. Studies evaluating other administration regimens with reduced risk of corneal events are ongoing. The bimatoprost implant has the potential to improve adherence and reduce treatment 
+burden in glaucoma. 

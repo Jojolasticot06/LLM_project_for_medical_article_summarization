@@ -1,0 +1,24 @@
+PURPOSE: To examine the relationship between changes in retinal blood flow and 
+the recurrence of macular edema in eyes with branch retinal vein occlusion.
+METHODS: This observational study included 32 eyes in 32 patients (18 men and 14 
+women) with branch retinal vein occlusion who visited the Department of 
+Ophthalmology at Kyoto University Hospital (February 2021-November 2021). At the 
+time of inclusion in the study, each patient underwent optical coherence 
+tomography angiography on a macular area measuring 4 × 4 mm 2 . For variable 
+interscan time analysis, different interscan times were set at 7.6 (IST 7.6 ) 
+and 20.6 ms (IST 20.6 ) for the optical coherence tomography angiography. The 
+parafoveal vessel densities were measured sectorally at IST 7.6 and IST 20.6 , 
+and their relationship with the longitudinal changes evident in the retinal 
+thicknesses during the variable interscan time analysis examination and 2 months 
+later was evaluated.
+RESULTS: The parafoveal vessel densities in the affected sector was 
+significantly greater at IST 20.6 than at IST 7.6 ( P = 0.011). At 2 months 
+after the variable interscan time analysis examination, 6 patients (19%) showed 
+recurrence of macular edema involving the fovea. The difference in the 
+parafoveal vessel densities (IST 20.6 - IST 7.6 ) in the affected sector was 
+significantly associated with longitudinal retinal thickening in the 
+corresponding parafovea ( P = 0.020) and fovea ( P = 0.014).
+CONCLUSION: In eyes with branch retinal vein occlusion, optical coherence 
+tomography angiography variable interscan time analysis facilitated the 
+detection of retinal blood flow changes that might be predictive for the 
+recurrence of macular edema.

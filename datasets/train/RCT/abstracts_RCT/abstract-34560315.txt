@@ -1,0 +1,9 @@
+Comparison of plasma concentrations of levobupivacaine with and without epinephrine for thoracic paravertebral block: A randomised trial
+
+1/Background: Thoracic paravertebral block (TPVB) is effective for analgesia for unilateral thoracic surgery. However, since the paravertebral space is highly vascular, injection of local anaesthetics into the paravertebral space may induce systemic local anaesthetic toxicity. We examined the effect of addition of epinephrine to paravertebral levobupivacaine on its plasma concentration.
+
+2/Methods: In a randomised single blind trial, twenty-four male patients who were scheduled to undergo elective unilateral pulmonary lobectomy or segmentectomy under general anaesthesia combined with TPVB were enrolled in this study. They were randomly divided into two groups: one group received a single bolus thoracic paravertebral injection of 1 mg/kg of 0.25% levobupivacaine with 5 µg/mL epinephrine and the other group received a single bolus thoracic paravertebral injection of 1 mg/kg of 0.25% levobupivacaine alone. Arterial blood samples were obtained for plasma levobupivacaine assay after injection. The peak plasma concentration (Cmax) and the time to peak plasma concentration (Tmax), for levobupivacaine were calculated.
+
+3/Results: There were no significant differences in patients' characteristics between the two groups. The mean arterial Cmax values of levobupivacaine were 0.48 ± 0.11 µg/mL with epinephrine and 0.71 ± 0.31 µg/mL without epinephrine (P = 0.041). The mean arterial Tmax values of levobupivacaine were 46.0 ± 35.6 min with epinephrine and 12.0 ± 7.2 min without epinephrine (P = 0.005).
+
+4/Conclusion: The addition of 5-µg/mL epinephrine to a single bolus thoracic paravertebral injection of 1-mg/kg levobupivacaine significantly decreased Cmax and delayed Tmax of levobupivacaine. The addition of epinephrine to levobupivacaine may be a useful strategy to reduce systemic levobupivacaine toxicity.

@@ -1,0 +1,277 @@
+1. Introduction
+Coronavirus disease 2019 (COVID-19) is a new infectious disease that has rapidly become a pandemic. There is now growing evidence that its severity is very often associated with the presence of cardiovascular risk factors such as hypertension, diabetes or obesity, but also to the development of myocardial injury [1]. However, the relationship between COVID-19-associated myocardial injury, coronary artery atherosclerosis and risk of mortality remains unclear [2], [3], [4].
+
+Low-dose computed tomography (CT) on admission has been widely used for screening suspected COVID-19 patients at the early stage of the infection [5,6], both to help diagnose the disease and to assess the extent of lung involvement that could predict the occurrence of acute respiratory distress syndrome and mortality [1,5,7].
+
+However, chest CT, also offers the opportunity to detect unsuspected cardiovascular disease. Indeed, in the general population, quantitative coronary artery calcification (CAC) correlates with the total atherosclerotic burden is an independent predictor of coronary artery heart disease (CHD) and enhances traditional risk factors-based prediction models [8], [9], [10], [11]. It has also been shown that a simple overall visual assessment method of CAC scoring on the basis of non-ECG-gated and non-contrast low-dose CT separated patients into risk categories of either CHD death or all cause of mortality [10], [11], [12]. Thus, visual CAC estimation is now well recognized as an effective method, strongly suggested by several societies for routine reporting on all non-gated chest CT examinations because this method is simple, fast and does not require a standardized acquisition with a fixed energy at 120 Kilovolt peak (kVp) or dedicated software as it is necessary to do to obtain a reliable quantitative Agatston score [10,12,13].
+
+The purpose of this study was to evaluate the potential association between atherosclerotic plaque burden detected by non-ECG-gated CT at admission and clinical outcomes including 6-month mortality in a consecutive series of hospitalized confirmed COVID-19 patients.
+
+2. Methods
+2.1. Patient population
+This was a prospectively designed pilot cohort study in a single center and no predefined number of subjects was therefore planned. This study received ethic committee approval (IDF #00011928) and signed informed consent was obtained from patients. Thus, all consecutive adult patients (≥ 18 years) hospitalized in our institution for COVID-19 between March 13 and April 1, 2020 for at least one day, who underwent chest CT at admission and reverse transcriptase-polymerase chain reaction testing positive for COVID-19 were eligible with. Outcomes (mortality and recovery) were monitored up to September 30th, 2020 allowing at least a 6-month follow-up for all patients. Fig. 1 shows the study flow-chart.
+
+Fig. 1
+Download : Download high-res image (448KB)
+Download : Download full-size image
+Fig. 1. Study flow-chart. CT indicates computed tomography ICU indicates intensive care unit; TR-PCR indicates reverse transcriptase-polymerase chain reaction testing.
+
+2.2. Data collection
+The demographic characteristics (age and sex), clinical data (symptoms, comorbidities, laboratory findings including high sensitivity troponin I [HS-troponin I], treatments, complications and outcomes) were collected in standardized electronic medical records.
+
+All unenhanced low-dose CT examinations were performed on the same multi-row system (Somatom® Definition Edge, Siemens Healthineers) with a collimation of 128 × 0.6 mm (reconstruction in 1.5-mm in mediastinal setting and in 1-mm in lung setting) and a gantry rotation time of 280 ms. Tube voltage was selected (80–120 kVp) by an automated tube voltage selection (CARE kVp) associated with 40–80 mAs, based on body size. CT acquisitions were obtained from the lung apices to the bases in a single breath hold at maximum inspiration without ECG gating. Lung injuries were assessed in each lung lobe for the presence of either ground glass opacification (hazy areas of increased attenuation without obscuration of the underlying vasculature) or consolidation (homogeneous opacification with obscuration of the underlying vasculature) or both [5,6]. Presence of ≥ 10-mm lymphadenopathy, nodules, pleural effusion, airway abnormalities were also recorded. Finally, the extent of deleterious lung damages and the number of lung lobes affected by the presence of consolidation was assessed in all patients by pairs of radiologists completed by a third independent reader in case of discrepancy, blinded to visual scale CAC scoring [1,5].
+
+2.3. Visual scale for CAC scoring
+Calcium scoring was performed independently of care by two expert radiologists in cardiothoracic imaging (E.M., G.S., with 32- and 7 years of experience, respectively) and blinded from all clinical data, biology and initial chest CT analysis. The two readers separately viewed the images on a high-spatial-resolution monitor with mediastinal setting and analyses were performed by using standard mediastinal settings (width, 350 Hounsfield unit [HU]; level, 50 HU). As previously described for non-ECG-gated CT done with various kVp [10,12,13], after a visual assessment of CAC, simple and representative of the whole coronary tree, readers provided a score using four categories as follows: none, mild, moderate and heavy CAC. Examples of such visual CAC scoring obtained in four Covid-19 patients are shown in Fig. 2. The final visual score of CAC presented in the study was established and based on the results of the two radiologists, using a consensus reading for discordant opinions.
+
+Fig. 2
+Download : Download high-res image (782KB)
+Download : Download full-size image
+Fig. 2. Examples of the visual score of coronary artery calcification (CAC) with no CAC (A), mild CAC (B), moderate CAC(C) and heavy CAC (D) with images obtained with non-ECG-gated low dose CT with mediastinal setting (first row) and lung setting (second row) in four COVID-19 patients.
+
+2.4. Statistical analysis
+Continuous variables were expressed as means ± standard deviations (SD) and ranges or medians (interquartile ranges [IQR]) and ranges, when appropriate. Discrete variables were expressed as raw numbers, proportions and percentages. The inter-rater agreement for visual CAC scoring between readers was calculated by using Cohen kappa coefficient (κ) and considered substantial when between 0.6 and 0.80 and very good when between 0.81 and 1.0 [14].
+
+Groups were compared by analysis of variance for continuous variables and χ2 test for discrete variables. Hazard ratios (HR) were presented with their 95% confidence intervals (CI). Survival curves were estimated using the Kaplan Meier estimators and compared according to coronary calcifications using log rank tests. The rates of all-cause mortality at 6 months were analyzed according to classification of CAC scoring, and the impact of CAC was evaluated using a multivariable backward stepwise Cox analysis with a threshold of 0.20 for variable elimination. After exclusion of non-significant variables identified at univariable analysis, variables included in the final models were selected ad hoc, based on their physiological relevance and potential to be associated with outcomes; they comprised age, sex, major comorbidities, CAC categories, and CT variables. In the second model, the HS-sensitivity troponin I level available at admission was also added. A sensitivity analysis was further performed, focused on patients without known CHD before the current admission; because the population was smaller, CAC was scored into no or mild coronary calcifications, versus moderate or heavy coronary calcifications. All analyses were repeated using forward stepwise analysis to check the consistency of the results. Collinearity was tested by calculation of variance inflation factors. Statistical analyses were performed using IBM SPSS 26.0 (IBM SPSS Inc). For all analyses, two-sided P values <0.05 were considered to indicate significant differences.
+
+3. Results
+3.1. Patient characteristics
+All 169 COVID-19 patients who have signed informed consent with complete medical information and thoracic CT at admission were included for analysis. There were 118 men and 51 women with a mean age of 65.6 years ± 15.8 (SD) (range: 30–95 years); baseline characteristics are presented in Table 1. Dyspnea in 119 patients (70.4%) was the most common symptom, followed by chest pain (15/119; 8.9%). Hypertension (119/169; 70.4%), hypercholesterolemia (44/169; 26%), and diabetes (33/169; 19.5%) were the most common risk-factors. Previous myocardial infarction, cerebrovascular disease, and peripheral artery disease were found in 14 (8.3%), 2 (1.2%) and 7 (4.1%) patients, respectively; 149 patients (88.2%) had no previously known atherosclerotic cardiovascular disease (ASCVD). Other comorbidities and prior cardiovascular medications are listed in Table 1.
+
+Table 1. Baseline characteristics and laboratory and radiographic findings of 169 patients with COVID-19.
+
+Number of Patients	Overall population (n = 169)	No coronary calcification (n = 64)	Mild coronary calcifications (n = 42)	Moderate coronary calcifications (n = 26)	Heavy coronary calcifications (n = 37)	P value
+Age (year)	65.6 ± 15.8 [30–95]	52.7 ± 12.3 [30–81]	69.3 ± 12.5 [39–89]	72.9 ± 12.5 [51–94]	78.4 ± 10.0 [54–95]	< 0.001
+Male	118 (69.8%)	44 (68.8%)	24 (57.1%)	19 (73.1%)	31 (83.8%)	0.078
+BMI (kg/m²)	26.8 ± 5.4 [18.7–52.0]	27.9 ± 6.2 [19.8–44]	26.0 ± 4.0 [19.1–36.0]	26.6 ± 6.7 [18.7–52.0]	25.8 ± 3.8 [18.7–38.1]	0.155
+Risk factors						
+Hypertension	78 (46.2%)	16 (25.0%)	17 (40.5%)	18 (69.2%)	27 (73.0%)	< 0.001
+Diabetes	33 (19.5%)	8 (12.5%)	10 (23.8%)	5 (19.2%)	10 (27.0%)	0.280
+Hyper-cholesterolemia	44 (26.0%)	7 (10.9%)	9 (21.4%)	10 (38.5%)	18 (48.6%)	< 0.001
+Current smoking	8 (4.7%)	4 (6.3%)	1 (2.4%)	2 (7.4%)	1 (7.7%)	0.626
+Medical history						
+Prior MI	14 (8.3%)	0 (0.0%)	0 (0.0%)	2 (7.7%)	12 (32.4%)	< 0.001
+Prior PCI	12 (7.1%)	0 (0.0%)	0 (0.0%)	2 (7.7%)	10 (27.0%)	< 0.001
+Prior CABG	3 (1.8%)	0 (0.0%)	0 (0.0%)	0 (0.0%)	3 (8.1%)	0.025
+History of heart failure	5 (3.0%)	1 (1.6%)	0 (0.0%)	1 (3.8%)	3 (8.1%)	0.141
+History of stroke	2 (1.2%)	1 (1.6%)	1 (2.4%)	0 (0.0%)	0 (0.0%)	0.578
+Peripheral artery disease	7 (4.1%)	0 (0.0%)	1 (2.4%)	0 (0.0%)	6 (16.2%)	< 0.001
+Chronic renal failure	21 (12.4%)	4 (6.3%)	2 (4.8%)	5 (19.2%)	10 (27.0%)	0.006
+COPD	12 (7.1%)	1 (1.6%)	3 (7.1%)	2 (7.7%)	6 (16.2%)	0.051
+Cancer	37 (21.9%)	9 (14.1%)	9 (21.4%)	5 (19.2%)	14 (37.8%)	0.048
+Prior medications						
+Aspirin	32 (18.9%)	3 (4.7%)	6 (14.3%)	7 (26.9%)	16 (43.2%)	< 0.001
+Oral anticoagulant	23 (13.6%)	3 (4.7%)	6 (14.3%)	4 (15.4%)	10 (27.0%)	0.016
+Statins	34 (20.1%)	6 (9.4%)	7 (16.7%)	7 (26.9%)	14 (37.8%)	0.005
+Betablockers	34 (20.1%)	7 (10.9%)	3 (7.1%)	5 (19.2%)	19 (51.4%)	< 0.001
+Calcium channel blockers	30 (17.8%)	9 (14.1%)	7 (16.7%)	3 (11.5%)	11 (29.7%)	0.204
+ACE inhibitor or ARB	49 (29.0%)	9 (14.0%)	11 (26.2%)	12 (46.2%)	17 (45.9%)	0.001
+Diuretics	32 (18.9%)	7 (10.9%)	5 (11.9%)	9 (34.6%)	11 (29.7%)	0.012
+Clinical presentation						
+Temperature ( °C)	37.9 ± 1.0 [35.7–40.3]	37.9 ± 1.0 [35.9–40.3]	38.0 ± 1.0 [36.4–39.9]	38.0 ± 0.8 [36.3–39.3]	37.7 ± 0.9 [35.7–39.4]	0.585
+Fever	77 (45.6%)	29 (45.3%)	19 (45.2%)	14 (53.8%)	15 (40.5%)	0.777
+Heart rate (bpm)	91.8 ± 18.9 [50–150]	98.5 ± 18.6 [62–150]	92.7 ± 18.6 [62–150]	88.7 ± 19.3 [50–117]	81.6 ± 14.7 [54–114]	< 0.001
+SBP (mmHg)	133.0 ± 22.3 [73–208]	130.0 ± 18.0 [85–165]	135.9 ± 23.1 [83–193]	135.6 ± 19.8 [100–184]	133.0 ± 28.9 [73–208]	0.524
+DBP (mmHg)	77.5 ± 15.4 [36–142]	80.4 ± 11.0 [50–103]	79.2 ± 19.6 [36–142]	74.7 ± 12.6 [55–100]	72.5 ± 17.2 [36–101]	0.051
+Respiratory rate	22.0 ± 6.8 [14–50]	23.3 ± 8.0 [14–50]	21.0 ± 6.3 [14–41]	22.2 ± 5.7 [16–38]	20.9 ± 5.4 [14–35]	0.230
+Dyspnea	119 (70.4%)	50 (78.1%)	28 (66.7%)	19 (73.1%)	22 (59.5%)	0.228
+Cough	89 (52.7%)	36 (56.3%)	21 (50.0%)	14 (53.8%)	18 (48.6%)	0.872
+Chest pain	15 (8.9%)	9 (14.1%)	4 (9.5%)	1 (3.8%)	1 (2.7%)	0.157
+Diarrhea	37 (21.9%)	16 (25.0%)	13 (31.0%)	3 (11.5%)	5 (13.5%)	0.137
+Laboratory findings at admission, median (IQR)
+Neutrophils (× 106)	4635 (3125; 6498) n = 168	4720 (2855; 6760) n = 64	4030 (3015; 6270) n = 42	5235 (3843; 6978) n = 26	4450 (3658; 6255) n = 36	0.616
+Lymphocytes (× 106/L)	975 (643; 1308)	1050 (780; 1360)	1045 (748; 1310)	770 (503; 1150)	760 (498; 1620)	0.511
+Platelets (× 109/L)	182 (141; 241) n = 168	204 (149; 255) n = 63	173 (137; 232) n = 42	168 (139; 238) n = 26	170 (139; 255) n = 37	0.327
+Creatinine (µg/L)	81 (66; 110)	74.5 (63; 89)	79 (66; 96)	92 (65; 124)	107 (75; 170)	< 0.001
+Hemoglobin (g/dL	13.7 (12.4; 14.8)	13.9 (12.8; 14.9)	13.7 (12.5; 14.9)	14.0 (13.0; 14.9)	12.7 (10.7; 14.2)	0.008
+High-sensitivity troponin (ng/L)	12.5 (6.4; 27.4)	7.9 (4.4; 13.5)	12.2 (5.7; 24.9)	15.9 (9.5; 47.8)	31.0 (13.9; 50.5)	0.087
+Brain natriuretic peptide (ng/L)	47 (18–159) (n = 155)	21 (13–49) n = 57	50 (19–160) n = 39	45 (20–185) n = 24	165 (58–442) n = 35	< 0.001
+D-Dimers, (ng/mL)	1040 (674; 1647) n = 154	1009 (629; 1512) n = 61	871 (663; 1635) n = 37	858 (598; 1338) n = 24	1459 (804; 2807) n = 32	0.003
+C-reactive protein (mg/L)	97.5 (52.0; 139.3)	97.0 (28.2; 155.0)	76.1 (48.8; 115.5)	107.3 (58.5; 142.5)	99.3 (57.4; 139.0)	0.657
+Computed tomography findings Number of lung lobes with consolidation
+<3 ≥ 3 Bilateral consolidation	88 (52.1%) 81 (47.9%) 162 (95.9%)	33 (51.6%) 31 (48.4%) 61 (95.3%)	25 (59.5%) 17 (40.5%) 40 (95.2%)	11 (42.3%) 15 (57.7%) 26 (100%)	19 (51.4%) 18 (48.6%) 35 (94.6%)	0.584 0.813
+Quantitative variables are expressed as mean ± standard deviations with range in brackets or as medians with interquartile ranges in parentheses. Qualitative variables are expressed as raw numbers with percentages in parentheses. ACE, angiotensin-converting enzyme; ARB, angiotensin receptor blockers; BMI, body mass index; CABG, coronary artery bypass grafting; COPD, chronic obstructive pulmonary disease; DBP, diastolic blood pressure; IQR, interquartile range; MI, myocardial infarction; PCI, percutaneous coronary intervention; SBP, systolic blood pressure.
+
+Bold indicates significant P value.
+
+
+The proportion of no, mild, moderate, and heavy CAC were 37.9% (64/169), 24.9% (42/169), 15.4% (26/169), and 21.9% (37/169), respectively. Age increased with the degree of CAC. Initial disease presentation (i.e., cough, dyspnea, fever, diarrhea, chest pain) was not different among CAC categories. Comorbidities, including hypertension, hypercholesterolemia, prior myocardial infarction, peripheral artery disease, chronic renal failure, and cancer were more present in patients with heavy CAC compared to other categories. Finally, aspirin, oral anticoagulant, statins, and beta-blockers were more prescribed before hospitalization in heavy CAC patients.
+
+3.2. Laboratory and CT findings
+Laboratory findings are presented in Table 1. There was a gradual increase in creatinine, cardiac biomarkers, i.e., Brain natriuretic peptide (BNP) and HS troponin I levels, with increasing CAC burden; D-dimer serum level was greater and hemoglobin serum level lower in patients with heavy CAC compared to those without CAC.
+
+Chest CTs were performed during the first 24 hours after admission in 160/169 (94.7%) patients. The proportion of patients with bilateral pneumonia was 95.9% (162 patients), and with ≥ 3 lung lobes affected by consolidation in 47.9% (81 patients). No differences in proportion of patients with bilateral pneumonia or with number of lung lobes with consolidation ≥ 3 were observed between CAC categories.
+
+3.3. Treatment and clinical outcomes
+In-hospital management and outcomes are detailed in Table 2. The median time from onset to admission was 7.0 days (IQR: 5.0–9.0; range: 3–11 days) and similar between the four CAC groups (P = 0.492). Fifty-three patients (31.4%) were admitted to intensive care unit, with no differences among groups (P = 0.226). No differences were observed between the four groups related to organ support (i.e., invasive and non-invasive ventilation, continuous renal replacement therapy, and circulatory support), anticoagulant and antiviral therapies.
+
+Table 2. Management and outcomes.
+
+Empty Cell	Overall population (n = 169)	No coronary calcification (n = 64)	Mild coronary calcifications (n = 42)	Moderate coronary calcifications (n = 26)	Heavy coronary calcifications (n = 37)	P value
+Time from symptom onset to admission
+days, median [IQR]	7.0 (5.0; 9.0)	7.0 (5.0; 9.0)	7.0 (5.0–10.0)	6.5 (3.8; 9.3)	7.0 (4.0; 9.5)	0.492
+Admission in ICU	53 (31.4%)	21 (32.8%)	17 (40.5%)	8 (30.8%)	7 (18.9%)	0.226
+Treatment
+Non-invasive ventilation	6 (3.6%)	1 (1.6%)	2 (4.8%)	2 (7.7%)	1 (2.7%)	0.539
+Invasive mechanical ventilation	36 (21.3%)	17 (26.6%)	8 (19.0%)	4 (15.4%)	7 (18.9%)	0.604
+Prone position	21 (12.4%)	10 (15.6%)	5 (11.9%)	2 (7.7%)	4 (10.8%)	0.735
+Continuous renal replacement therapy	15 (8.9%)	6 (9.4%)	4 (9.5%)	3 (11.5%)	2 (5.4%)	0.829
+Circulatory support	2 (1.2%)	2 (3.1%)	0 (0.0%)	0 (0.0%)	0 (0.0%)	0.269
+Preventive ACT	108 (64.3%)	41 (65.1%)	28 (66.7%)	17 (65.4%)	22 (59.5%)	0.916
+Curative ACT	54 (32%)	17 (26.6%)	13 (31.0%)	9 (34.6%)	15 (40.5%)	0.529
+Antiviral treatment	21 (12.4%)	11 (17.2%)	3 (7.1%)	2 (7.7%)	5 (13.5%)	0.375
+Clinical outcomes
+Acute heart failure	10 (6.0%)	0 (0.0%)	4 (9.5%)	1 (3.8%)	5 (13.5%)	0.007
+Arrhythmia	12 (7.1%)	4 (6.3%)	4 (9.5%)	1 (3.8%)	3 (8.1%)	0.810
+Discharged	125 (74.0%)	57 (89.0%)	31 (73.8%)	17 (65.4%)	20 (54.1%)	0.001
+Death at 30-days	41 (24.3%)	6 (9.4%)	10 (23.8%)	9 (34.6%)	16 (43.2%)	0.001
+Death at 6-months	45 (26.6%)	7 (10.9%)	11 (26.2%)	10 (38.5%)	17 (45.9%)	0.001
+Quantitative variables are expressed as medians with interquartile ranges in parentheses. Qualitative variables are expressed as raw numbers with percentages in parentheses;.
+
+ACT Anticoagulant therapy; ICU, intensive care unit; IQR, interquartile range.
+
+Bold indicates significant P value.
+
+
+The median length of hospital stay was 8.0 days (IQR: 4.0–11.3; range: 2–20 days). Acute heart failure occurred in 10 patients (6.0%), mainly in patients with heavy CAC (5/37; 13.5%); (P = 0.007). Arrhythmia was reported in 12 patients (12/169; 7.1%), similarly in all groups (P = 0.810). Coronary angiogram was performed in only one patient.
+
+3.4. Coronary calcifications and mortality
+During the follow-up, a total of 45 patients (26.6%) died at 6 months. Patient characteristics, clinical presentation and biological results according to 6-month vital status are detailed in Table 3 with comparison between alive and death subgroups of patients at univariable analysis. As shown in the Kaplan-Meier survival curves (Fig. 3), mortality rate at six months increased with magnitude of CAC and was 7/64 (10.9%), 11/42 (26.2%), 10/26 (38.5%), 17/37 (45.9%) for no-CAC, mild-CAC, moderate-CAC and heavy-CAC groups, respectively (P = 0.001).
+
+Table 3. Baseline clinical and biological characteristics of the overall population (n = 169) in alive and death subgroups of patients at 6 months.
+
+Empty Cell	Overall population (n = 169)	Alive (n = 124)	Death (n = 45)	P value
+Age (year)	65.6 ± 15.8 [30–95]	62.5 ± 15.2 [30–95]	73.9 ± 14.6 [41–93]	< 0.001
+Male	118 (69.8%)	86 (69.3%)	32 (71.1%)	0.826
+BMI (kg/m²)	26.8 ± 5.4 [18.7–52.0]	26.7 ± 4.8 [19.1–43.3]	27.0 ± 6.5 [18.7–52.0]	0.682
+ICU hospitalization	53 (31.4%)	29 (23.4%)	24 (53.3%)	< 0.001
+Risk factors
+Hypertension	78 (46.2%)	53 (42.7%)	25 (55.6%)	0.139
+Diabetes	33 (19.5%)	26 (21.0%)	7 (15.6%)	0.432
+Hypercholesterolemia	44 (26.0%)	32 (25.8%)	12 (26.7%)	0.910
+Medical history
+Prior MI	14 (8.3%)	8 (6.4%)	6 (13.3%)	0.169
+Prior PCI	12 (7.1%)	8 (6.5%)	4 (8.9%)	0.593
+Prior CABG	3 (1.8%)	1 (0.8%)	2 (4.4%)	0.143
+History of heart failure	5 (3.0%)	3 (2.4%)	2 (4.4%)	0.509
+History of stroke	2 (1.2%)	2 (1.6%)	0 (0.0%)	0.264
+History of AF	17 (10.1%)	10 (8.1%)	7 (15.6%)	0.169
+Peripheral artery disease	7 (4.1%)	6 (4.8%)	1 (2.2%)	0.422
+Chronic renal failure	21 (12.4%)	12 (9.7%)	9 (20.0%)	0.072
+COPD	12 (7.1%)	6 (4.8%)	6 (13.4%)	0.057
+Cancer	37 (21.9%)	19 (15.4%)	18 (40.0%)	0.001
+Prior medications
+Aspirin	32 (18.9%)	24 (19.4%)	8 (17.8%)	0.817
+Oral anticoagulant	23 (13.6%)	12 (9.7%)	11 (24.4%)	0.013
+Statins	34 (20.1%)	26 (21.0%)	8 (17.8%)	0.647
+Betablockers	34 (20.1%)	21 (16.9%)	13 (28.9%)	0.086
+Calcium channel blockers	30 (17.8%)	20 (16.1%)	10 (22.2%)	0.359
+ARB	36 (21.3%)	23 (18.5%)	13 (28.9%)	0.146
+ACE inhibitors	13 (7.7%)	9 (7.3%)	4 (8.9%)	0.728
+Spironolactone	9 (5.3%)	6 (4.9%)	3 (6.7%)	0.647
+Diuretics	32 (18.9%)	23 (18.5%)	9 (20.0%)	0.831
+Clinical presentation
+Temperature (°C)	37.9 ± 1.0 [35.7–40.3]	37.9 ± 0.9 [35.9–40.3]	37.8 ± 1.0 [35.7–39.9]	0.763
+Fever	77 (45.6%)	55 (44.3%)	22 (48.9%)	0.600
+Heart rate (bpm)	91.8 ± 18.9 [50–150]	93.0 ± 18.1 [50–150]	88.7 ± 20.9 [55–143]	0.079
+SBP (mmHg)	133.0 ± 22.3 [73–208]	132.9 ± 19.9 [73–193]	133.3 ± 28.0 [79–208]	0.929
+DBP (mmHg)	77.5 ± 15.4 [36–142]	79.0 ± 15.7 [36–142]	73.4 ± 13.9 [49–101]	0.031
+Respiratory rate	22.0 ± 6.8 [14 –50]	21.0 ± 5.9 [14–45]	24.9 ± 8.0 [14–50]	0.001
+Sat02 (%)	92.0 ± 7.4 [28–100]	93.4 ± 4.2 [77–100]	88.2 ± 11.9 [28–100]	0.001
+Dyspnea	119 (70.4%)	82 (66.1%)	37 (82.2%)	0.042
+CT lobes with consolidation ≥3	81 (47.9%)	54 (43.5%)	27 (60.0%)	0.058
+Cough	89 (52.7%)	68 (54.8%)	21 (46.7%)	0.347
+Chest pain	15 (8.9%)	13 (10.5%)	2 (4.4%)	0.222
+Diarrhea	37 (21.9%)	28 (22.6%)	9 (20.0%)	0.719
+Biological data
+Neutrophil count (x106/L)	4635.0 (3125.0; 6497.5) n = 168	4290.0 (2980.0; 6330.0) n = 121	5360.0 (3815.0; 7980.0) n = 46	0.022
+Lymphocytes (× 106/L)	975.0 (642.5; 1307.5)	1000.0 (750.0; 1310.0)	770.0 (480.0; 1385.0)	0.010
+Platelets (× 109/L)	182.0 (141.3; 240.8) n = 168	195.0 (143.0; 250.0) n = 127	45.0 (139.5; 219.5) n = 41	0.351
+Creatinine (µg/L)	81.0 (66.0; 110.0)	79.0 (64.2; 97.7)	104.0 (72.0; 137.0)	0.032
+Hemoglobin (g/dL)	13.7 (12.4; 14.8)	13.9 (12.8; 14.9)	13.0 (11.3; 14.0)	0.001
+High-sensitivity troponin I (ng/L)	12.5 (6.4; 27.4)	9.45 (5.2; 19.6)	27.95 (13.9; 71.0)	< 0.001
+Brain natriuretic peptide (ng/L)	47.0 (18.0; 159.0) n = 155	31.0 (15.0; 87.0) n = 117	113.5 (48.2; 264.2) n = 38	< 0.001
+C-reactive protein (mg/L)	97.5 (52.0; 139.3)	86.0 (39.0; 128.3)	119.0 (72.0; 188.1)	0.002
+D-dimer (µg/mL)	1118 (680.5; 1806) n = 154	1006 (630; 1658) n = 116	1454 (834; 2538) n = 38	0.004
+Quantitative variables are expressed as mean ± standard deviations with range in brackets or as medians with interquartile ranges in parentheses. Qualitative variables are expressed as raw numbers with percentages in parentheses. ACE, angiotensin-converting enzyme; ARB, angiotensin receptor blockers; BMI, body mass index; CABG, coronary artery bypass grafting; COPD, chronic obstructive pulmonary disease; DBP, diastolic blood pressure; IQR, interquartile range; MI, myocardial infarction; PCI, percutaneous coronary intervention; SBP, systolic blood pressure.
+
+Bold indicates significant P value.
+
+
+Fig. 3
+Download : Download high-res image (252KB)
+Download : Download full-size image
+Fig. 3. Graph shows 6-month survival rate according to magnitude of coronary artery calcification (CAC) scoring.
+
+By using multivariable cox regression analysis on mortality, the gradually increasing risk of death with increasing degree of CAC was still confirmed after adjustment for age, BMI, presence of ASCVD and diabetes, extension of lung damage at CT (Table 4). Other independent predictors of mortality were age, and 5 lung lobes affected by consolidation (vs. none).
+
+Table 4. Multivariable Cox regression analysis on mortality at 90 days.
+
+Variable	Hazard ratio (95% CI)	P value
+Age (year)	1.04 (1.00–1.07)	0.03
+BMI	1.07 (0.998–1.14)	0.06
+ASCVD	0.50 (0.19–1.31)	0.16
+Diabetes	0.47 (0.20–1.08)	0.08
+Coronary calcifications		
+None	–	–
+Mild	2.23 (0.73–6.87)	0.16
+Moderate	2.78 (0.85–9.07)	0.09
+Heavy	5.38 (1.57–18.40)	0.007
+Number of lung lobes with consolidation		
+0	–	–
+1	0.80 (0.21–3.02)	0.74
+2	0.89 (0.27–2.93)	0.85
+3	1.62 (0.55–4.78)	0.38
+4	0.72 (0.22–2.36)	0.58
+5	2.40 (1.05–5.52)	0.04
+ASCVD, atherosclerotic cardiovascular disease; BMI, body mass index; CI, confidence interval; COPD, chronic obstructive pulmonary disease.
+
+Bold indicates significant P value.
+
+
+When HS-troponin I levels obtained at admission, were associated to the degree of CAC in a second multivariable cox regression model, HS-troponin I levels were also associated with higher mortality rate (HR, 4.17; 95% CI: 1.60–10.82; P = 0.003), but the gradually increasing risk of death with increasing degree of CAC was still confirmed. Furthermore, as shown in Fig. 4, no significant association was observed between either HS-troponin I levels at admission or peak HS-troponin I levels during hospitalization and CAC scoring.
+
+Fig. 4
+Download : Download high-res image (293KB)
+Download : Download full-size image
+Fig. 4. Diagram shows associations between coronary artery calcification scoring and either high-sensitivity (HS)-troponin I at admission (A) or peak HS-troponin I during hospitalization (B) in alive (in green) and death (in red) patients at 6 months.
+
+In patients without previous CHD (154/169; 91%), the 6-month mortality rate increased from 10.9% (7/64) to 45.8% (11/24) (P = 0.001) according to the magnitude of CAC categories (Table 5). After adjustment, in these patients presence of moderate or heavy CAC was associated with greater mortality rate (HR, 2.26; 95% CI: 1.09–4.69; P = 0.03). At last (Table 6), the mortality rate increased according to CAC categories in patients below the median age (< 66 years) (P = 0.01).
+
+Table 5. Survival status at 6-month follow-up according to the presence of coronary artery disease in patients without known coronary artery disease.
+
+Empty Cell	Overall population (n = 154)	No coronary calcification (n = 64)	Mild coronary calcifications (n = 42)	Moderate coronary calcifications (n = 24)	Heavy coronary calcifications (n = 24)	P value
+No coronary artery disease						0.001
+No death	116 (75.3%)	57 (89.1%)	31 (73.8%)	15 (62.5%)	13 (54.2%)	
+Death	38 (24.7%)	7 (10.9%)	11 (26.2%)	9 (37.5%)	11 (45.8%)	
+Values are expressed as raw number; numbers in parentheses are percentages.
+
+Bold indicates significant P value.
+
+
+Table 6. Survival status at 6-month follow-up according to coronary artery calcification classification and age.
+
+Empty Cell	Overall population (n = 169)	No coronary calcification (n = 64)	Mild coronary calcifications (n = 42)	Moderate coronary calcifications (n = 26)	Heavy coronary calcifications (n = 37)	P value
+Age ≥ 66 years						0.316
+ No death	58 (66.0%)	8 (80.0%)	20 (71.4%)	13 (72.2%)	17 (53.2%)	
+ Death	30 (34.0%)	2 (20.0%)	8 (28.6%)	5 (27.8%)	15 (46.8%)	
+Age < 66 years						0.015
+ No death	67 (82.7%)	49 (90.7%)	11 (78.6%)	4 (50.0%)	3 (60.0%)	
+ Death	14 (17.3%)	5 (9.3%)	3 (21.4%)	4 (50.0%)	2 (40.0%)	
+Values are expressed as raw number; numbers in parentheses are percentages.
+
+Bold indicates significant P value.
+
+
+The inter-rater agreement for visual CAC scoring was very good with κ of 0.889 (95% CI: 0.833 – 0.945).
+
+4. Discussion
+To our knowledge, the present study is the first to assess prospectively the relationship between coronary calcified plaque burden estimated by visual CAC scoring on low dose thoracic CT, which is part of the routine work-up of COVID-19 patients, and mortality at one month and 6 months during and after hospitalization of COVID-19 patients. The 37% prevalence of moderate or heavy CAC was high in this series of consecutive COVID-19 patient when only 11.8% patients had history of cardiovascular disease requiring specific preventive treatment. Patients with higher CAC burden had higher risks of death, independently of age, and cardiovascular risk factors. Importantly, the presence of moderate or heavy coronary artery calcifications was also an independent predictor of death in the subgroup of patients without known coronary artery disease. Furthermore, CAC burden was also associated with 6-month mortality independently of HS-troponin levels at admission. In a retrospective study including 332 hospitalized COVID-19 patients with a median follow-up of 12 days, patients with myocardial injury (HS-troponin I > 20 ng/L on admission) had a lower prevalence of a CAC score of zero (25%) compared to patients without myocardial injury (55%) (P < 0.001) [15]. However, in this study, presence of CAC did not emerge as a predictor of myocardial injury or in-hospital mortality at multivariable analysis [15]. Such differences observed with our prospective study may be related to the effect of the duration of follow-up and the analysis using four categories, as it was essentially the patients with heavy CAC and moderate CAC who were significantly at high risk of mortality and not those with mild CAC. This is supported by the results of another retrospective study in which only heavy CAC (> 400) was associated to the composite endpoint including in-hospital mortality and intensive care unit admission [16]. Finally, in two cross-sectional retrospective studies with small series of hospitalized patients older than 40 years the presence of CAC was also independently associated to the primary outcome defined by a composite endpoint associating the occurrence of mechanical noninvasive or invasive ventilation, or death within 30 days [17,18]. All these preliminary results confirm that a simple analysis of coronary calcium load on CT performed to detect the extent of lung damage can help anticipate the mortality risk of the disease. The present study has also shown the absence of clear relationship between coronary artery plaque burden and myocardial injury. Indeed, myocardial injury, defined as an elevation of the peak of HS-troponin I level during hospitalization in COVID-19 patients, was frequently observed (19.7% and 27.8% in two recent reports) and associated with increased mortality [1,2,19,20]. Furthermore, HS-troponin I levels during the stay were positively related to levels of C-reactive protein and BNP, suggesting an association between myocardial injury, severity of inflammation and ventricular dysfunction [1,2,4]. Thus, our results support the hypothesis that myocardial injury may be related to direct cardiomyocyte damage, systemic inflammation and interstitial myocardial fibrosis, as previously suggested [4,19].
+
+Although the degree of CAC increases with age, and cardiovascular risk factors or history, it provides prognostic value independently of these. Since the visual CAC scoring can be easily obtained after non-gated low dose CT, the key method confirming the diagnosis of pneumonia in COVID 19 on admission to hospital, preventive strategies could be proposed based on the CAC category. The results of the present study in a COVID-19 patient population are not surprising, because it has already been widely shown in several general population studies that CAC observed on CT outperforms conventional clinical risk factors (diabetes, obesity, hypertension) in predicting mortality [9,11].
+
+Including statin treatment as a preventive treatment in case of moderate or heavy CAC burden, independently of conventional risk factors, possibly in association with either anti platelet therapy, betablockers and/or angiotensin converting enzyme inhibitors/angiotensin receptor blockers could be proposed. Such a strategy is partially supported by the results of recent retrospective studies [21,22]. In one study including 13,981 patients with COVID-19, of whom 1219 received statins, the risk for 28-day mortality was 5.2% and 9.4% in the match statin and non-statin groups, respectively (adjusted HR of 0.58; 95% CI: 0.43–0.80) [21]. However, adding angiotensin converting enzyme inhibitors/angiotensin receptor blockers did not affect statin associated outcome [21]. In the present study, in the 20 patients with clinical history of ASCVD, significantly lower 6-month mortality was found but all of them were treated by both statins and angiotensin converting enzyme inhibitors/angiotensin receptor blockers. However, in the overall population such treatments were not significantly associated with 6-month mortality. These results suggest that there is a need to evaluate the potential efficacy of these treatments in COVID-19 through large randomized trials. In this regard, targeting populations using visual CAC scoring on non-gated thoracic CT might be an attractive option, probably more than a selection process based upon HS-troponin levels, which may reflect myocarditis, a condition where most cardiovascular prevention medications are unlikely to be beneficial, as well as myocardial injury related to coronary atherosclerosis. Alternatively, dedicated acquisition with ECG gating at a fixed 120 kVp could be coupled with the pulmonary study in order to obtain more robust CAC indices (Agatston score), which have been widely used and validated in the determination of cardiovascular risk in the general population [8], [9], [10], [11], [23].
+
+This study has some limitations. First, due to limited sample size, this study should be considered as a pilot study showing a significant association between atheromatous burden of coronary artery and mortality in COVID-19 patients. Second, CAC estimates were done visually and subjectively because non-gated CT chest images with acquisition parameters not recommended to perform Agatston score were used. However, CAC visual scoring was done by two independent readers blinded to patient data and agreement between readers was very good. In addition, using non-ECG gated low dose CT performed at 120 kVp for lung cancer screening in heavy smokers, such visual assessment of CAC was found equivalent to Agatston score and strongly associated with CHD death and all-cause mortality [10]. Regarding the future of CT analysis for estimating prognosis of COVID-19 patients, it may be assumed that automated analysis with [24] or without [25] the help of artificial intelligence will be useful to quantify residual pulmonary functional zones based on density of opacity and normal lung areas and CAC score in the same time since the performance of recent 3D U-Net models to detect dense segmentation maps are very accurate in predicting patients CAC score risk across the range of different types of CT examinations [26,27].
+
+In conclusion, using conventional low-dose non-ECG-gated thoracic CT during the initial pulmonary assessment of COVID-19 patients at admission, a high prevalence of moderate and heavy CAC was observed, even in patients without known CHD. A simple CAC visual score obtained on the non-gated thoracic CT was found to be an independent predictor of 6-month mortality and could easily be used systematically in the initial evaluation of hospitalized patients when chest CT is performed. The therapeutic impact of such risk detection remains to be demonstrated, but the protection by statins, which is currently being evaluated and promising, underlines the importance of defining the subjects most at risk. The decision support that this detection of CAC could provide at the time of hospital admission also remains to be demonstrated.

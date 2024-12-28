@@ -1,0 +1,25 @@
+OBJECTIVE: To examine the impact of an active surveillance (AS) approach on the 
+health-related quality of life (HRQoL) of patients with desmoid-type 
+fibromatosis (DTF).
+BACKGROUND DATA: AS is recommended as initial approach in DTF patients. AS might 
+however negatively affect HRQoL due to physical symptoms or stress and anxiety.
+METHODS: In a prospective observational study, the GRAFITI trial (NTR4714), DTF 
+patients were followed during an initial AS approach for 3 years. HRQoL was 
+assessed by the EORTC QLQ-C30 at baseline, 6, 12 and 24-month follow-up. 
+Patients who completed questionnaires at≥1-time point were included in this 
+analysis of the secondary endpoint. A multivariable linear mixed-effects model 
+with random intercept was conducted to assess trends of HRQoL scores over time 
+and to explore the effect of treatment strategy on HRQoL.
+RESULTS: All 105 patients enrolled in the GRAFITI trial were eligible for the 
+HRQoL analyses. During 24-month follow-up, 75 patients (71%) continued AS and 30 
+patients (29%) started an active treatment (AT). DTF patients who continued AS 
+demonstrated relatively stable HRQoL scores during follow-up. HRQoL scores of 
+patients who started AT worsened compared to patients who continued AS, although 
+no significant changes in HRQoL score over time were found in the mixed-model 
+analyses. Overall, DTF patients who started AT scored significantly worse on 
+pain (β=10.08, P =0.039) compared to patients who continued AS.
+CONCLUSIONS: An initial AS approach did not impair HRQoL of DTF patients who 
+continued AS over time, therefore providing further support for AS as the 
+frontline approach in DTF patients. Longitudinal assessment of HRQoL should be 
+part of clinical follow-up to identify patients who may need a change in 
+treatment strategy.

@@ -1,0 +1,24 @@
+BACKGROUND: Individuals who receive allogeneic hematopoietic cell transplant 
+(allo-HCT) are immunocompromised and at high risk of pneumococcal infections, 
+especially in the months following transplant. This study evaluated the safety 
+and immunogenicity of V114 (VAXNEUVANCE; Merck, Sharp & Dohme LLC, a subsidiary 
+of Merck & Co., Inc., Rahway, NJ, USA), a 15-valent pneumococcal conjugate 
+vaccine (PCV), when given to allo-HCT recipients.
+METHODS: Participants received 3 doses of V114 or PCV13 (Prevnar 13; Wyeth LLC) 
+in 1-month intervals starting 3-6 months after allo-HCT. Twelve months after 
+HCT, participants received either PNEUMOVAX 23 or a fourth dose of PCV (if they 
+experienced chronic graft vs host disease). Safety was evaluated as the 
+proportion of participants with adverse events (AEs). Immunogenicity was 
+evaluated by measuring serotype-specific immunoglobulin G (IgG) geometric mean 
+concentrations (GMCs) and opsonophagocytic activity (OPA) geometric mean titers 
+(GMTs) for all V114 serotypes in each vaccination group.
+RESULTS: A total of 274 participants were enrolled and vaccinated in the study. 
+The proportions of participants with AEs and serious AEs were generally 
+comparable between intervention groups, and the majority of AEs in both groups 
+were of short duration and mild-to-moderate intensity. For both IgG GMCs and OPA 
+GMTs, V114 was generally comparable to PCV13 for the 13 shared serotypes, and 
+higher for serotypes 22F and 33F at day 90.
+CONCLUSIONS: V114 was well tolerated in allo-HCT recipients, with a generally 
+comparable safety profile to PCV13. V114 induced comparable immune responses to 
+PCV13 for the 13 shared serotypes, and was higher for V114 serotypes 22F and 
+33F. Study results support the use of V114 in allo-HCT recipients.

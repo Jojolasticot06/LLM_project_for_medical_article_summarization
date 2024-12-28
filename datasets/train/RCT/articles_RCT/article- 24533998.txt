@@ -1,0 +1,243 @@
+Intensive Lifestyle Intervention Reduces Urinary Incontinence in 
+Overweight/Obese Men with Type 2 Diabetes: Results from the 
+Look AHEAD Trial
+Obesity and type 2 diabetes have long been linked to sexual dysfunction in men,1 and are 
+increasingly recognized as independent risk factors for lower urinary tract dysfunction2 such 
+as nocturia3,4 and urinary incontinence.1 Given that obesity is a modifiable risk factor, 
+weight loss interventions targeting physical activity and diet hold promise for LUTD 
+prevention and treatment. While studies have shown the benefits of lifestyle intervention in 
+reducing UI in overweight/obese females with type 2 diabetes,5,6 few studies have examined 
+the impact of weight loss in the treatment of male LUTD. In 2 population based cohorts of 
+males, weight changes (5% of baseline or greater) did not influence the onset or progression 
+of LUTD.7 With respect to type 1 diabetes, in the Diabetes Control and Complications Trial/
+Epidemiology of Diabetes Interventions and Complications study randomization to 
+conventional vs intensive treatment did not reduce the risk of moderate to severe LUTD in 
+men.8 However, only preliminary research has been conducted in obese men with type 2 
+diabetes,9 and whether lifestyle modification would have positive effects on LUTD in 
+overweight/obese men with type 2 diabetes remains unclear.
+
+In the current study we determined the effect of intensive lifestyle intervention focused on 
+weight loss on the prevalence, incidence and resolution of UI, nocturia and daytime voiding 
+in overweight/ obese men with type 2 diabetes. We hypothesized that lifestyle intervention 
+vs control intervention would decrease the prevalence and incidence and increase the 
+resolution rates of UI, bothersome nocturia and increased daytime voiding after 1 year of 
+treatment.
+
+Materials and Methods
+
+Participants
+
+Look AHEAD is a multicenter, randomized controlled study in overweight and obese 
+individuals with type 2 diabetes which was designed to assess the long-term effects of an 
+intensive lifestyle intervention weight loss program vs a diabetes support and educational 
+control program on the primary outcome of cardiovascular morbidity and mortality.10 
+Participants were eligible if they were age 45 to 76 years and had a BMI of 25 kg/m2 or 
+greater (greater than 27 kg/m2 if currently taking insulin). Exclusion criteria were high blood 
+pressure (160/100 mm Hg or greater), elevated triglycerides (600 mg/dl or greater), 
+uncontrolled hyperglycemia (hemoglobin A1c 11% or greater), a cardiovascular event 
+within the last 3 months, significant renal or pulmonary disease, or conditions likely to limit 
+adherence to the study intervention. Informed consent was obtained from all participants 
+
+
+before screening, consistent with the Declaration of Helsinki and the guidelines of each 
+center's institutional review board. Participants were randomly assigned within clinic to ILI 
+or DSE with equal probability.
+
+The Look AHEAD recruitment began in 2001 with planned followup until 2014 from 16 
+clinical centers. Recently the trial was stopped after the data and safety monitoring board 
+found no significant differences between ILI and DSE in cardiovascular events, which was 
+the primary end point of the trial.11
+
+The ILI was designed to produce an average of 7% or greater weight loss at 1 year.12 During 
+the first 6 months of the program the participants attended weekly meetings and were then 
+seen 3 times per month for the following 6 months. The ILI included individual and group 
+sessions.12 Calorie restriction was the primary action used to achieve weight loss. 
+Participants were given calorie goals of 1,200 to 1,500 if they weighed less than 250 lb and 
+1,500 to 1,800 if they weighed more than 250 lb, with a maximum of 30% of calories from 
+fat. ILI participants were instructed to consume a portion controlled low fat and low calorie 
+diet that was supplemented with liquid and frozen meal replacements. Participants were 
+encouraged to gradually increase exercise to 175 minutes per week using moderate intensity 
+activities such as brisk walking. The DSE group was invited to 3 group sessions during year 
+1 to provide basic education about diet and physical activity as well as social support 
+opportunities. Participants in both groups continued to be seen by their own personal 
+physicians during the study period for ongoing health care.
+
+Measures
+
+Measures were completed at baseline and 1 year by trained assessors blinded to participant 
+treatment group. Height and weight were measured in duplicate using a digital scale and 
+standard stadiometer. Demographic and medical history information was obtained by 
+standardized interviewer administered questionnaires. Urinary incontinence, nocturia and 
+daytime voiding were assessed by self-report questions. To classify urinary incontinence the 
+participants were asked if they had leaked even a small amount of urine or wet themselves in 
+the last 7 days (yes/no). To further designate leakage type (stress or urge), participants who 
+responded in the affirmative were asked how often they leaked with “an activity like 
+coughing, sneezing, lifting or exercise” or had “an urge to urinate and couldn't get to the 
+bathroom fast enough.” UI was classified based on the predominant type reported. Nocturia 
+and daytime voiding were determined using a single item question on a continuous scale. 
+Participants were asked, “in the past 7 days, on average, how many times each day have you 
+had to go to the bathroom to urinate a) during the day? b) during the night?” We defined 
+bothersome nocturia and increased daytime voiding to be present (yes/no) when participants 
+urinated 2 or more times at night (nocturia) and 8 or more times during the day (daytime 
+frequency), respectively.13,14
+
+Statistical Analysis
+
+As a sensitivity analysis, men who completed baseline and 1-year assessments were 
+compared with those who did not complete 1-year assessments of relevant baseline variables 
+and demographic characteristics using chi-square tests for categorical variables and 
+
+
+ANOVA for continuous variables. A similar analysis was made comparing ILI and DSE 
+participant baseline variables. Subsequent analyses included only participants who 
+completed baseline and 1-year assessments.
+
+For UI, nocturia and daytime urinary voiding we compared the proportion of men in the ILI 
+and DSE groups with prevalent cases at baseline and 1 year, incident cases at 1 year and 
+resolution at 1 year. Chi-square tests were used for unadjusted group comparisons. 
+Multivariable logistic regression models were used to examine the effects of the intervention 
+on 1-year prevalence, incidence and resolution of UI, nocturia and increased daytime 
+voiding. Three models were reported. Model 1 was adjusted for center site only, except not 
+for urgency predominant type incident cases of UI and resolved cases of increased daytime 
+voiding due to scant cases at some sites. Model 2 was adjusted for center site plus baseline 
+incontinence/nocturia/increased daytime voiding (for prevalence only), age, race/ethnicity, 
+BMI, diabetes duration, Beck Depression Inventory and smoking status. The third model 
+pertaining to nocturia included model 2 variables plus sleep apnea and alcohol use (ounces 
+per week). All analyses were performed using SAS® version 9.3 for Windows®.
+
+Results
+
+UI, nocturia and increased daytime voiding were assessed in 2,049 men at baseline (ILI 
+1,027 and DSE 1,022). At baseline no significant differences were observed between the ILI 
+and DSE groups with respect to demographic characteristics. Of these men 1,910 (93%) 
+completed the same measure at 1 year (see figure). The ILI and DSE groups had similar 
+completion rates (94% vs 92%, p = 0.06). Compared to those who did not complete the 
+questionnaires at 1 year, those who did had significantly better blood pressure and Beck 
+Depression Inventory score, and were less likely to smoke at baseline (data not shown).
+
+The demographic characteristics of the participants who completed the 1-year followup 
+instrument are shown in the supplementary table (http://jurology.com/). The overall cohort 
+had an average age of 59.9 ± 6.7 years and BMI of 35.2 ± 5.5 kg/m2. After 1 year of 
+intervention the ILI group lost significantly more weight than the DSE group (9.4% ± 7.0% 
+vs 0.7% ± 4.5%, p <0.001). At baseline the ILI and DSE groups had similar proportions of 
+UI (11.3% vs 9.7%, p = 0.25), bothersome nocturia (37.7% vs 38.2%, p = 0.82) and 
+increased daytime urinary voiding (17.3% vs 19.6%, p = 0.18).
+
+Prevalent UI at 1 Year
+
+The prevalence of UI at 12 months compared to baseline decreased from 11.3% to 9.0% in 
+the ILI group and increased from 9.7% to 11.6% in the DSE group (table 1). Thus, relative 
+to the DSE group the ILI group had 38% reduced odds of prevalent UI at 1 year (OR 0.62, 
+95% CI 0.43–0.88, p <0.01) after adjusting for relevant demographic and medical 
+comorbidities (table 2).
+
+The differences in prevalence at 1 year appeared largely due to differences in resolution and, 
+to a lesser extent, new onset incidence rates. Specifically, among those with UI at entry, men 
+in the ILI group had a greater likelihood of UI resolving (OR 1.93, 95% CI 1.04–3.59, p = 
+0.04, table 2) compared to the DSE arm (56.0% vs 40.7%, p = 0.03, table 1). Also, among 
+
+
+those without UI at study entry the ILI group had a marginally significant reduction in odds 
+of new onset UI developing (OR 0.66, 95% CI 0.42–1.02, p = 0.06, table 2) compared with 
+the DSE arm (4.5% vs 6.5%, p = 0.10, table 1).
+
+Examining UI prevalence by type, the odds of prevalent cases of urge incontinence at 1 year 
+were lower in the ILI vs the DSE group (OR 0.36, 95% CI 0.22–0.60, p <0.0001). The 
+prevalence of urge UI decreased from 6.9% to 4.0% in the ILI group and increased from 
+5.0% to 7.3% in the DSE group. Similarly ILI was associated with reduced incidence (OR 
+0.37, 95% CI 0.19–0.72, p <0.01) and increased resolution (OR 2.93, 95% CI 1.19–7.24, p = 
+0.02) of urge UI over 1 year. There were too few cases to model the odds of the prevalence, 
+incidence and resolution of stress incontinence in these male subjects. We examined the 
+relationship of weight loss and UI with multivariable logistic regression. We found that each 
+1 kg of weight loss reduced the odds of weekly incontinence by 3% (OR 0.97, 95% CI 0.95–
+0.99, p = 0.04).
+
+Prevalent Nocturia and Increased Daytime Voiding at 1 Year
+
+The frequency of increased nocturia (2 or more times per night) and increased daytime 
+voiding (8 or more times per day) was similar in each of the groups at baseline and at the 
+conclusion of the study period. In the multiple logistic regression model being in the ILI vs 
+DSE group did not significantly reduce the odds of prevalent (OR 1.21, 95% CI 0.96–1.53, p 
+= 0.12, table 2) or incident (19.6% vs 15.6%, p = 0.08, table 1) nocturia at 1 year. Similarly 
+no significant treatment effect was observed for prevalence (OR 1.02, 95% CI 0.79–1.33, p 
+= 0.88), incidence (OR 0.93, 95% CI 0.67–1.30, p = 0.66) or resolution (OR 0.79, 95% CI 
+0.51–1.21, p = 0.27) of increased daytime urinary voiding (table 2).
+
+Discussion
+
+In this study of overweight/obese men with type 2 diabetes, randomization to ILI was 
+associated with a 38% reduced odds of having UI at 1 year relative to DSE. The fact that 
+10% of our cohort of obese men with type 2 diabetes reported at least weekly incontinence 
+is noteworthy, as is the reduction in rates of incontinence at 1 year in the intervention group. 
+The reduced prevalence of incontinence in those in our cohort randomized to ILI seemed to 
+be associated primarily with increased rates of remission. However, there was also a trend 
+toward lower rates of incident UI among ILI participants.
+
+It is informative to compare these results with the UI female cohort in Look AHEAD.5 
+Among men and women the 1-year prevalent cases of UI were fewer in the ILI groups. 
+Interestingly while ILI primarily improved resolution rates in men, it improved incident 
+rates in women. Thus, weight loss interventions may be more effective for the treatment of 
+UI in men and the prevention of UI in women with type 2 diabetes.
+
+Also of note, urgency UI was more prevalent than stress UI in men. Moreover, ILI 
+significantly improved remission rates and incident rates of urgency incontinence in these 
+men. In contrast, randomization to ILI did not affect the prevalence of nocturia at 1 year or 
+the incidence of new onset or resolution of bothersome nocturia and increased daytime 
+voiding.
+
+
+Mechanisms are unknown for why weight loss may reduce urgency UI in men. Diabetes and 
+obesity are known risk factors for LUTD.2,3,15–18 The pathophysiology of LUTD in 
+overweight/obese men with type 2 diabetes is likely complex and potentially has 
+interrelated, overlapping or disparate mechanisms. Diabetes is known to affect the bladder 
+and prostate. Diabetes results in elevated insulin levels which can stimulate or accelerate 
+benign prostatic hyperplasia development.19 Higher serum concentrations of insulin-like 
+growth factor 1 and insulin-like growth factor binding protein 3 have been associated with 
+an increased risk of benign prostatic hyperplasia diagnosis and surgery.20 Obesity and 
+diabetes generated systemic inflammation may result in LUTD.21 Vascular insufficiency 
+secondary to pelvic atherosclerotic disease caused by the metabolic syndrome may lead to 
+ischemia and bladder dysfunction. Ischemia results in increased levels of transforming 
+growth factor beta, leading to fibrosis, collagen deposition, smooth muscle atrophy, and 
+subsequent reduced compliance and bladder size.22 Similar changes have been suggested in 
+the prostate.23 In addition to inflammatory and hormonal factors, increased central obesity 
+and the abdominal mass effect may contribute to LUTD. Urodynamic studies have verified 
+higher filling and voiding pressures in obese individuals.1 Finally, obesity is a risk factor for 
+sleep apnea, which can lead to increased nighttime voiding, and potentially to urinary 
+urgency and frequency.24
+
+To our knowledge this study was the first to examine the impact of intensive lifestyle 
+intervention on LUTD in overweight/obese men with type 2 diabetes. Our findings suggest 
+that in overweight/ obese men with type 2 diabetes a lifestyle modification program 
+promoting weight loss should be considered a first line intervention to promote the 
+resolution of UI. Given that the weight loss intervention did not improve nocturia and 
+increased daytime urinary voiding, it is less clear how effective weight loss would be in 
+preventing and treating LUTD other than urinary incontinence.
+
+Our study should be considered within its limitations. These results may not be 
+generalizable to the general population of overweight/obese people with type 2 diabetes or 
+to overweight/obese people without diabetes. Our study participants were clinical trial 
+volunteers and the exclusion criteria were relatively strict. We did not investigate how 
+weight loss impacts other LUTDs such as post-void dribbling, weak stream or urinary 
+urgency without UI. Our outcomes were based on self-report and were vulnerable to recall 
+bias.25
+
+In addition, our single item questions assessing daytime frequency of urination and nocturia 
+differed slightly from previous self-report instruments, which may have impacted the 
+validity of the responses.13,14 For example, our nocturia question addressed urinating at 
+night but did not specify that the urination event caused a sleep interruption. Future 
+investigations should include more extensive urinary outcome phenotyping at multiple 
+points and objective measures such as voiding diaries. In addition, while the study 
+completion rate was high (92% to 94%), completers had better blood pressure and 
+depression scores, and were less likely to smoke compared to noncompleters. These 
+differences may have biased our results. Lastly, we performed a subgroup analysis (male 
+participants of Look AHEAD) which also could have introduced bias.26 However, given our 
+large sample size and single subgroup, the subgroup analysis bias was likely minimal.
+
+
+Conclusions
+
+ILI was associated with reduced 1-year prevalent UI and improved resolution rates. 
+Bothersome nocturia and increased daytime urinary voiding were not improved in the 
+treatment group. Lifestyle interventions focused on weight loss should be considered for the 
+treatment of UI in overweight/obese men with type 2 diabetes.
+

@@ -1,0 +1,129 @@
+1. Introduction
+Cholesteatoma consists in an epidermal matrix within the middle ear. Treatment consists in surgical removal, followed by tympanoplasty reinforcement to prevent recurrence. The ossicular chain often has to be reconstructed to ensure the columellar effect, in either the same or a second surgical step and using various material: autologous cartilage, ossicle transposition, or protheses. The surgical aim is complete lesion resection and durable tympanic reinforcement, although it is the functional outcome that counts for the patient. Wide variations in treatment between teams make objective assessment of surgical results difficult.
+
+The hearing-related role of the manubrium (malleus handle) in tympanoplasty ossicular reconstruction is controversial, illustrating these differences in attitude. The malleus plays a functional role in acoustic transmission via catenary and ossicular leverage [1]. It may be resected if involved in the cholesteatoma or to improve epitympanum exposure for lesion resection assessment. A 2015 meta-analysis by Blom et al. stressed the importance of sparing the malleus handle for auditory outcome after tympanoplasty [2], while, more recently, two studies found no impairment of auditory prognosis when the malleus was removed [3], [4]. Our center's strategy consists in complete resection of the malleus, including head, handle and tensor tympani tendon, when required by lesion extension.
+
+Current evidence does not prove malleus resection to be of poor auditory prognosis in cholesteatoma surgery. Moreover, to our knowledge no studies have analyzed the auditory role of the malleus in vivo taking each audiometric frequency independently.
+
+The aim of the present study was to assess the auditory results of malleus removal in cholesteatoma surgery compared to a group with malleus sparing. The secondary objective was to analyze the hearing impact of presence or absence of the stapes.
+
+2. Patients and methods
+The aim of the study was to compare auditory results of tympanoplasty for cholesteatoma according to malleus sparing. The endpoint consisted in auditory results at 6 months.
+
+2.1. Patients
+All patients aged > 16 years undergoing surgery in our university hospital for acquired cholesteatoma with tympanoplasty and ossicular chain reconstruction in the same or a second step between January 2015 and January 2019 were included for analysis. Procedures were collected using the French Common Classification of Medical Acts: codes CBMA002, CBMA004, CBMA005, CBMA007, CBMD001, CBMD002, CBMD003, CBFA002, CBFA003, CBFA005, CBFA006, CBFA007, CBMA001, and LAGA008. Surgical reports were analyzed to include procedures according to intraoperative findings.
+
+The included patients underwent open or closed tympanoplasty performed by 4 surgeons with more than 5 years’ experience in 1- or 2-step otologic surgery for residual or recurrent cholesteatoma or systematic control of resection. Ossicular reconstruction used autologous material (cartilage interposition on the stapes, or incus transposition) or a titanium implant covered by autologous cartilage: i.e., partial ossicular replacement prosthesis (PORP) or total ossicular replacement prosthesis (TORP). Minimum follow-up was 6 months.
+
+Patients not undergoing ossiculoplasty, without cholesteatoma at first surgery, with healthy tympanum (congenital cholesteatoma) or ossicular ankylosis, with more than 2 surgical steps in the same ear, with incomplete records, with other diagnosis or lost to follow-up were excluded. The non-interventional study was designed according to the STROBE criteria of the EQUATOR network, and did not come under the French “Jard, law” governing research on human subjects [5].
+
+3. Methods
+Malleus status data were extracted from surgical reports. The malleus was considered absent if completely absent at end of surgery (tendon sectioning, handle and head resection). The stapes was considered absent if the stapes arch was absent at end of surgery. The Austin classification, the most widely used for assessing ossicular chain integrity [6], was implemented, comprising 4 groups: A, malleus and stapes present; B, malleus absent, stapes present; C, malleus present, stapes absent; and D, malleus and stapes absent. Procedures with missing data were excluded.
+
+Audiometric data were analyzed preoperatively and at 6 and 14 months. Results were reported as mean pure-tone average (PTA) (dB) at 0.5, 1, 2, and 3 kHz on bone and air conduction. The 3 kHz threshold was obtained by averaging the 2 and 4 kHz values, as recommended by the American Academy of Otolaryngology - Head and Neck Surgery [7]. Air-bone gap (ABG) was measured for each frequency and over the mean of conversational frequencies (PTA-ABG) pre- and post-operatively to assess postoperative gain.
+
+3.1. Statistics
+Statistical analysis used R Core Team (2019) software (R: A language and environment for statistical computing; R Foundation for Statistical Computing, Vienna, Austria; URL https://www.R-project.org/). The significance threshold was set at P < 0.005 [8], [9]. Continuous variables were reported as mean and standard deviation, and categoric variables as number and percentage. Distribution normality was checked on Shapiro-Wilk test. Two-tailed Wilcoxon or Student tests were used for comparing thresholds between the M+ (malleus conserved) and M( (malleus removed) groups, according to distribution. Two-factor ANOVA logistic regression was used for analyzing auditory results between the 4 Austin groups after checking homogeneity of intragroup variance and residual homoscedasticity on Bartlett test.
+
+4. Results
+4.1. Patient data
+During the study period, there were 281 tympanoplasty procedures, 145 of which were excluded: 49 not meeting cholesteatoma diagnostic criteria, 40 without ossicular reconstruction, 34 with > 2 surgeries, 12 with incomplete records, and 10 lost to follow-up. Thus 136 procedures were included (Fig. 1).
+
+
+Download : Download high-res image (319KB)
+Download : Download full-size image
+Fig. 1. Inclusion flowchart.
+
+136 primary or secondary tympanoplasties were included: 95 M+ and 41 M(. There was male predominance: 57 males (60%) in M+ and 27 (71%) in M(. In the M+ group, autologous reconstruction (cartilage or incus transposition) predominated, with 70 cases (74%), whereas the distribution of techniques was homogeneous in M(. There were no missing data.
+
+The mean postoperative interval to audiometry was 9 months in both groups.
+
+Patient data are shown in Table 1.
+
+Table 1. Patient data.
+
+Characteristics	M+ (n = 95)	M− (n = 41)
+Mean age in years (SD)	40.8 (16.1)	44.5 (15.6)
+Mean follow-up in months (SD)	8.5 (3.4)	8.8 (3.2)
+Gender, n (%)		
+ Male	57 (60)	29 (70.7)
+ Female	38 (40)	12 (29.3)
+Surgical stage, n (%)		
+ First stage	66 (69.5)	31 (75.6)
+ Second stage	29 (30.5)	10 (24.4)
+Surgical technique, n (%)		
+ Closed	86 (90.5)	36 (87.8)
+ Open	9 (9.5)	5 (12.2)
+Reconstruction material, n (%)		
+ Autologous	70 (73.7)	16 (39)
+ PORP	8 (8.4)	11 (26.8)
+ TORP	17 (17.9)	14 (34.1)
+Stapes, n (%)		
+ Present	79 (83.2)	27 (65.9)
+ Absent	16 (16.8)	14 (34.1)
+n: number; SD: standard deviation; PORP: Partial ossicular replacement prosthesis; TORP: total ossicular replacement prosthesis.
+
+
+4.2. Auditory role of the malleus
+PTA-ABG improved by 4.4 ± 12.6 dB pour in M+ and by 3.8 ± 13.4 dB in M(: i.e., a non-significant gain of 0.6 dB with malleus sparing (P = 0.8).
+
+At 2 kHz, postoperative improvement in ABG was 6.6 ± 13.9 dB in M+ and 3.2 ± 13.6 in M( (P = 0.3); at 8 kHz, there was a loss of 2.2 ± 18 dB and 9.6 ± 23.8 dB respectively (P = 0.052). and Fig. 2 show results per frequency.
+
+Table 2. Auditory results according to malleus status.
+
+Audiometric variables	M+ (n = 95)	M− (n = 41)	p
+Preoperative PTA-ABG in dB (SD)	25.6 (12)	27.5 (10.8)	
+Postoperative PTA-ABG in dB (SD)	21.3 (11)	23.8 (12.2)	
+ PTA-ABG. in dB (SD)	4.4 (12.6)	3.8 (13.4)	0.8
+ ABG per frequency. in dB (SD)			
+ 0.25 kHz	4.2 (17.2)	2.6 (16.8)	0.6
+ 0.5 kHz	5.5 (19.2)	5.7 (18.8)	0.4
+ 1 kHz	2.7 (15.1)	2.9 (14.3)	0.8
+ 2 kHz	6.6 (13.9)	3.2 (13.6)	0.3
+ 3 kHz	3.3 (11.9)	1.8 (13.8)	0.8
+ 4 kHz	0.05 (14.8)	0.5 (19)	0.5
+ 8 kHz	−2.2 (18)	−9.6 (23.8)	0.052
+dB: decibel; DS: standard deviation; ABG: air-bone gap; PTA-ABG: pure-tone average air-bone gap; : postoperative gain.
+
+
+
+Download : Download high-res image (147KB)
+Download : Download full-size image
+Fig. 2. Auditory results per frequency according to malleus status.
+
+4.3. Auditory role of the stapes
+There was no significant influence of the stapes (P = 0.4): gain, 4.4 ± 12.5 dB in Austin A, 2.2 ± 10.3 dB in Austin B, 42 ± 13 dB in Austin C, and 6.8 ± 18.1 dB in Austin D (). PTA-ABG gain was 3.8 ± 12 dB with the stapedial arch and 5.4 ± 15.4 dB without (P = 0.9).
+
+Table 3. Auditory results according to Austin category.
+
+Empty Cell	M+ (n = 95)	M− (n = 41)	P
+S+	A (n = 79)	B (n = 27)	
+ Preoperative PTA-ABG in dB (SD)	24.7 (11.9)	25.5 (9.7)	
+ Postoperative PTA-ABG in dB (SD)	20.3 (10.9)	23.3 (12.7)	
+  PTA-ABG, in dB (SD)	4.4 (12.5)	2.2 (10.3)	
+S−	C (n = 16)	D (n = 14)	
+ Preoperative PTA-ABG in dB (SD)	30.5 (11.5)	31.4 (12.2)	
+ Postoperative PTA-ABG in dB (SD)	26.3 (10.5)	24.6 (11.6)	
+  PTA-ABG, in dB (SD)	4.2 (13)	6.8 (18.1)	0.4
+dB: decibel; DS: standard deviation; PTA-ABG: pure-tone average air-bone gap; : postoperative gain; S: stapes arch; −: absent; +: present.
+
+
+5. Discussion
+There was no significant difference in PTA-ABG improvement according to M+ versus M( after tympanoplasty for acquired cholesteatoma.
+
+The small sample size of 136 patients may account for the non-significant 0.6 dB superiority of M+ (P = 0.8). Follow-up also was short, at a mean 9 months. A further weakness was that intraoperative cholesteatoma extension and resection and reconstruction quality were not known.
+
+Several authors reported similar results at various intervals. De Vos et al. found 1.5 dB superiority for malleus sparing at 11.8 months [10], and Page et al. reported 0.8 dB superiority at 1 year, but with inversion of the trend at 5 years, when results were 1.4 dB poorer than with malleus removal [3]. The interest of analyzing auditory results several years after surgery lies in assessing the auditory benefit and disease control associated with malleus resection. Long-term results show the mechanical results of the ossiculoplasty and cholesteatoma cure, but with risk of loss to follow-up of patients happy with their outcome.
+
+Martin et al. analyzed the impact of the malleus on cholesteatoma control at 4 years’ follow-up in 390 patients undergoing closed surgery [11]. Recurrence was significantly lower, by 18.4%, in case of malleus resection, with no significant difference in auditory results. This strongly suggested that malleus resection improves long-term disease control without hearing impairment, on condition that the tympanic membrane is given large reinforcement.
+
+In our center, malleus resection was implemented in extensive cholesteatoma, but the study design did not allow extension to be assessed. Shapiro et al. analyzed auditory success according to malleus status and to cholesteatoma extension [12]. Resection was more often implemented in cholesteatoma extending over a larger number of regions of the ear. Their resection strategy was similar to ours, but reported results differed, with an arbitrary auditory success criterion of PTA-ABG < 20 dB, and follow-up between 8 and 60 months. The difference in cholesteatoma extension between the M+ and M− groups may account for the better auditory results found with malleus conservation.
+
+Malleus involvement in the auditory outcome of tympanoplasty is controversial. Many authors analyzed factors for auditory outcome of ossiculoplasty, and various prognostic scores were described [6], [13], [14], [15], [16]. Blom et al. found a significant impact of malleus conservation in a grouped analysis of 9 series [2]; however, the studies were very heterogeneous, including non-cholesteatoma chronic otitis media, and no statistical analysis of the whole dataset was feasible. In contrast, several authors found no deterioration in auditory prognosis associated with malleus resection in cholesteatoma surgery [3], [4], [10], [17]. Differences in practices, measurement methods and sample sizes limit the levels of evidence of these studies.
+
+The originality of the present study lay in the analysis of ABG gain at frequencies from 0.25 to 8 kHz. In 8 cadavers, Shimizu et al. studied footplate mobility on laser vibrometry after ossiculoplasty; results were better (by not more than 7 dB) with malleus sparing for the 0.6-3.0 kHz band, and poorer beyond 4.5 kHz [18]. In the present study, in contrast, gain in M+ was better at 2 and 8 kHz, with a difference of 3.5 dB (P = 0.2) and 7.5 dB (P = 0.052) respectively. However, neither the results of Shimizu et al. nor those of the present study were significant. The greater difference at 8 kHz may also have been due to lesion extension related to malleus resection [19].
+
+In the present series, the stapedial arch had no short-term impact on auditory results: PTA-ABG gain 3.8 dB with and 5.4 dB without stapes (P = 0.6). This issue is less discussed in the literature, as stapes arch integrity is not a matter of surgical strategy but of intraoperative findings of cholesteatoma sequelae or extension. Stapes arch conservation was an independent factor for better results for Austin and Stankovic, although other authors reported no impact of the stapes arch when the malleus was absent [2], [6], [20]. In the present study, surgical revision did not impact auditory results, and patients re-operated on for myringoplasty or implant repositioning was not included. Many confounding factors can affect auditory prognosis and interact in patients undergoing cholesteatoma surgery. Neudert and Zahnert criticized the use of the term “second surgery”, which may include surgery for cholesteatoma recurrence or residue but may also concern repositioning a dislocated implant or secondary tympanic perforation. We agree that a mere number is not proof of surgical success [21].
+
+6. Conclusion
+The present results suggest that malleus handle sparing is not a critical prognostic factor for auditory outcome after tympanoplasty for acquired cholesteatoma. Resection may be performed, without harmful functional consequences, to improve exposure. Standardized measurement instruments and technological innovations should enable larger-scale studies and progress in practices.

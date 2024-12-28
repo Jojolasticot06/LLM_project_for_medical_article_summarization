@@ -1,0 +1,34 @@
+BACKGROUND: Angelman syndrome (AS) is a rare neurodevelopmental disorder 
+characterized by the absence of a functional UBE3A gene, which causes 
+developmental, behavioral, and medical challenges. While currently untreatable, 
+comprehensive data could help identify appropriate endpoints assessing 
+meaningful improvements in clinical trials. Herein are reported the results from 
+the FREESIAS study assessing the feasibility and utility of in-clinic and 
+at-home measures of key AS symptoms.
+METHODS: Fifty-five individuals with AS (aged < 5 years: n = 16, 5-12 years: 
+n = 27, ≥ 18 years: n = 12; deletion genotype: n = 40, nondeletion genotype: 
+n = 15) and 20 typically developing children (aged 1-12 years) were enrolled 
+across six USA sites. Several clinical outcome assessments and digital health 
+technologies were tested, together with overnight 19-lead electroencephalography 
+(EEG) and additional polysomnography (PSG) sensors. Participants were assessed 
+at baseline (Clinic Visit 1), 12 months later (Clinic Visit 2), and during 
+intermittent home visits.
+RESULTS: The participants achieved high completion rates for the clinical 
+outcome assessments (adherence: 89-100% [Clinic Visit 1]; 76-91% [Clinic Visit 
+2]) and varied feasibility of and adherence to digital health technologies. The 
+coronavirus disease 2019 (COVID-19) pandemic impacted participants' uptake of 
+and/or adherence to some measures. It also potentially impacted the at-home 
+PSG/EEG recordings, which were otherwise feasible. Participants achieved 
+Bayley-III results comparable to the available natural history data, showing 
+similar scores between individuals aged ≥ 18 and 5-12 years. Also, participants 
+without a deletion generally scored higher on most clinical outcome assessments 
+than participants with a deletion. Furthermore, the observed AS EEG phenotype of 
+excess delta-band power was consistent with prior reports.
+CONCLUSIONS: Although feasible clinical outcome assessments and digital health 
+technologies are reported herein, further improved assessments of meaningful AS 
+change are needed. Despite the COVID-19 pandemic, remote assessments facilitated 
+high adherence levels and the results suggested that at-home PSG/EEG might be a 
+feasible alternative to the in-clinic EEG assessments. Taken altogether, the 
+combination of in-clinic/at-home clinical outcome assessments, digital health 
+technologies, and PSG/EEG may improve protocol adherence, reduce patient burden, 
+and optimize study outcomes in AS and other rare disease populations.

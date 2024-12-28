@@ -1,0 +1,31 @@
+OBJECTIVES: To evaluate positive predictive values (PPVs) of magnetic resonance 
+imaging (MRI) and ultrasound-guided fine-needle aspiration biopsy (UFNAB) in 
+patients with isolated parotid swelling.
+MATERIAL AND METHODS: Observational study following the STARD guideline, based 
+on a cohort of 212 patients from 18 to 93years of age, with isolated parotid 
+swelling (malignant: 16.9%; benign: 83.1%), consecutively operated on between 
+2015 and 2020, after work-up including MRI and UFNAB in an otorhinolaryngology 
+department of a university hospital. The main endpoint was PPV for diagnosis of 
+benign tumor, malignant tumor and the most frequent etiology. Secondary 
+endpoints were correlations between PPVs and clinical factors for malignancy, 
+and the impact on PPV of various situations: dynamic analysis on MRI; diagnostic 
+disagreement between MRI and UFNAB; and UFNAB PPV according to MRI diagnosis.
+RESULTS: PPVs for MRI and UFNAB were respectively 45.4% and 88.8% for malignant 
+tumor, 89.6% and 46.9% for benign tumor, and 88.1% and 85.2% for pleomorphic 
+adenoma (the most frequent etiology). Tumor fixation and history of head and 
+neck radiation therapy PPVs were the only one higher than the MRI one for 
+malignant tumor. MRI PPV did not differ between groups with or without dynamic 
+analysis. PPV for malignant tumor, benign tumor and pleomorphic adenoma on MRI 
+and UFNAB was respectively 42.8% and 33.3%, 42.8% and 100%, and 36.3% and 50% in 
+case of diagnostic discordance. When MRI suggested malignant tumor, UFNAB PPV 
+was 51.8% for malignant tumor, 67.7% for benign tumor, and 37.5% for pleomorphic 
+adenoma; when MRI suggested benign tumor, it was 32.2% for malignant tumor, 
+91.5% for benign tumor, and 88.5% for pleomorphic adenoma; and, when MRI 
+suggested pleomorphic adenoma, it was 23.5% for malignant tumor, 93.9% for 
+benign tumor, and 92% for pleomorphic adenoma.
+CONCLUSION: Systematic association of UFNAB to MRI did not fundamentally improve 
+diagnostic accuracy. UFNAB appeared most valuable in case of history of 
+radiation therapy, in case of tumor fixation, and when MRI diagnosis was 
+uncertain and/or suggested malignant tumor and/or the apparent diffusion 
+coefficient (ADC) was low. The contribution of UFNAB when MRI suggested benign 
+tumor or especially pleomorphic adenoma was more limited.

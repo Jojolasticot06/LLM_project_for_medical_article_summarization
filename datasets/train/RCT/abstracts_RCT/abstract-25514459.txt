@@ -1,0 +1,10 @@
+Interaction effects of temperature and ozone on lung function and markers of systemic inflammation, coagulation, and fibrinolysis: a crossover study of healthy young volunteers.
+
+1/BACKGROUND: Trends in climate suggest that extreme weather events such as heat waves will become more common. High levels of the gaseous pollutant ozone are associated with elevated temperatures. Ozone has been associated with respiratory diseases as well as cardiovascular morbidity and mortality and can reduce lung function and alter systemic markers of fibrinolysis. The interaction 
+between ozone and temperature is unclear.
+
+2/METHODS: Sixteen healthy volunteers were exposed in a randomized crossover study to 0.3 ppm ozone and clean air for 2 hr at moderate (22°C) temperature and again at an elevated temperature (32.5°C). In each case lung function was performed and blood taken before and immediately after exposure and the next morning.
+
+3/RESULTS: Ozone exposure at 22°C resulted in a decrease in markers of fibrinolysis the next day. There was a 51.8% net decrease in PAI-1 (plasminogen activator inhibitor-1), a 12.1% net decrease in plasminogen, and a 17.8% net increase in D-dimer. These significantly differed from the response at 32.5°C, where there was a 44.9% (p = 0.002) and a 27.9% (p = 0.001) increase in PAI-1 and plasminogen, respectively, and a 12.5% (p = 0.042) decrease in D-dimer. In contrast, decrements in lung function following ozone exposure were comparable at both moderate and elevated temperatures (forced expiratory volume in 1 sec, -12.4% vs. -7.5%, p > 0.05). No changes in systemic markers of inflammation were observed for either temperature.
+
+4/CONCLUSION: Ozone-induced systemic but not respiratory effects varied according to temperature. Our study suggests that at moderate temperature ozone may activate the fibrinolytic pathway, while at elevated temperature ozone may impair it. These findings provide a biological basis for the interaction between temperature and ozone on mortality observed in some epidemiologic studies.

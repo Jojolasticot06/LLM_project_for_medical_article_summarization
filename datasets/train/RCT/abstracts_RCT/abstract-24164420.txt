@@ -1,0 +1,21 @@
+Preemptive treatment of Cytomegalovirus infection in kidney transplant 
+recipients with letermovir: results of a Phase 2a study.
+
+1/Cytomegalovirus (CMV) infection remains a significant cause of morbidity and 
+mortality in transplant recipients. Letermovir (AIC246), is a novel anti-HCMV 
+drug in development, acting via a novel mechanism of action. 
+
+2/In this proof-of-concept trial with first administration of letermovir to patients, 27 transplant recipients with active CMV replication were randomly assigned to a 14-day oral treatment regimen of either letermovir 40 mg twice a day, letermovir 80 mg once a day, or local standard of care (SOC) in a multicenter, open-label trial. Efficacy, safety, and limited pharmacokinetic parameters were assessed. 
+
+3/All groups had a statistically significant decrease in CMV-DNA copy number from 
+baseline (40 mg BID: P = 0.031; 80 mg QD: P = 0.018; SOC: P = 0.001), and 
+comparison of viral load reduction between treatment groups showed no 
+statistically significant differences. Viral clearance was achieved for 6 of 12 
+patients (50%) in the letermovir groups versus two of seven SOC patients 
+(28.6%). Letermovir treatment was generally well tolerated, no patient developed 
+CMV disease during the trial. Both letermovir treatment regimens resulted in 
+equally high trough level plasma concentrations. 
+
+4/The efficacy, safety, and 
+pharmacokinetics observed in these viremic transplant recipients indicate that 
+letermovir is a promising new anti-CMV drug.

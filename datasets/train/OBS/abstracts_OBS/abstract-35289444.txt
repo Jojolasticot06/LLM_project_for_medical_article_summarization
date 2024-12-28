@@ -1,0 +1,17 @@
+BACKGROUND: Observational findings for high-density lipoprotein (HDL)-mediated 
+cholesterol efflux capacity (HDL-CEC) and coronary heart disease (CHD) appear 
+inconsistent, and knowledge of the genetic architecture of HDL-CEC is limited.
+OBJECTIVES: A large-scale observational study on the associations of HDL-CEC and 
+other HDL-related measures with CHD and the largest genome-wide association 
+study (GWAS) of HDL-CEC.
+PARTICIPANTS/METHODS: Six independent cohorts were included with follow-up data 
+for 14,438 participants to investigate the associations of HDL-related measures 
+with incident CHD (1,570 events). The GWAS of HDL-CEC was carried out in 20,372 
+participants.
+RESULTS: HDL-CEC did not associate with CHD when adjusted for traditional risk 
+factors and HDL cholesterol (HDL-C). In contradiction, almost all HDL-related 
+concentration measures associated consistently with CHD after corresponding 
+adjustments. There were no genetic loci associated with HDL-CEC independent of 
+HDL-C and triglycerides.
+CONCLUSION: HDL-CEC is not unequivocally associated with CHD in contrast to 
+HDL-C, apolipoprotein A-I, and most of the HDL subclass particle concentrations.

@@ -1,0 +1,19 @@
+BACKGROUND: Nivolumab is an anti-PD-1 antibody approved for treating metastatic 
+melanoma (MM), for which still limited evidence is available on the correlation 
+between drug exposure and patient outcomes.
+METHODS: In this observational retrospective study, we assessed whether 
+nivolumab concentration is associated with treatment response in 88 patients 
+with MM and if the patient's genetic profile plays a role in this association.
+RESULTS: We observed a statistically significant correlation between nivolumab 
+serum concentration and clinical outcomes, measured as overall and 
+progression-free survival. Moreover, patients who achieved a clinical or partial 
+response tended to have higher levels of nivolumab than those who reached stable 
+disease or had disease progression. However, the difference was not 
+statistically significant. In particular, patients who reached a clinical 
+response had a significantly higher concentration of nivolumab and presented a 
+distinct genetic signature, with more marked activation of ICOS and other genes 
+involved in effector T-cells mediated proinflammatory pathways.
+CONCLUSIONS: In conclusion, these preliminary results show that in patients with 
+MM, nivolumab concentration correlates with clinical outcomes and is associated 
+with an increased expression of ICOS and other genes involved in the activation 
+of T effectors cells.

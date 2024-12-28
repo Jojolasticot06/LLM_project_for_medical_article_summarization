@@ -1,0 +1,29 @@
+PURPOSE: To correlate somatostatin receptor (SSTR) and proliferative activity 
+profile (SSTR2, SSTR5, Ki-67) at immunohistochemistry (IHC) with SSTR-PET/CT 
+imaging features in a retrospective series of lung neuroendocrine tumors (NET). 
+Proliferative activity by Ki-67 and 18F-FDG-PET/CT parameters (when available) 
+were also correlated.
+METHODS: Among 551 patients who underwent SSTR-PET/CT with 
+68Ga-DOTA-somatostatin analogs (SSA) between July 2011 and March 2020 for lung 
+neuroendocrine neoplasms, 32 patients with a confirmed diagnosis of NET were 
+included. For 14 of them, 18F-FDG-PET/CT was available. PET/CT images were 
+reviewed by qualitative and semi-quantitative analyses. Immunohistochemistry for 
+SSTR2, SSTR5, and Ki-67 was assessed. Inferential analysis was performed 
+including kappa statistics and Spearman's rank correlation test.
+RESULTS: Definitive diagnosis consisted of 26 typical carcinoids-G1 and six 
+atypical carcinoids-G2. Positive SSTR2-IHC was found in 62.5% of samples while 
+SSTR5-IHC positivity was 19.4%. A correlation between SSTR2-IHC and SSTR-PET/CT 
+was found in 24/32 cases (75.0%, p = 0.003): 20 were concordantly positive, 4 
+concordantly negative. For positive IHC, 100% concordance with SSTR-PET/CT (both 
+positive) was observed, while for negative IHC concordance (both negative) was 
+33.3%. In 8 cases, IHC was negative while SSTR-PET/CT was positive, even though 
+with low-grade uptake in all but one. A significant correlation between SUVmax 
+values at SSTR-PET/CT and the SSTR2-IHC scores was found, with low SUVmax values 
+corresponding to negative IHC and higher SUVmax values to positive IHC 
+(p = 0.002).
+CONCLUSION: This retrospective study showed an overall good agreement between 
+SSTR2-IHC and tumor uptake at SSTR-PET/CT in lung NETs. SSTR-PET/CT SUVmax 
+values can be used as a parameter of SSTR2 density. Within the limits imposed by 
+the relatively small cohort, our data suggest that SSTR2-IHC may surrogate 
+SSTR-PET/CT in selected lung NET patients for clinical decision making when 
+SSTR-PET/CT is not available.

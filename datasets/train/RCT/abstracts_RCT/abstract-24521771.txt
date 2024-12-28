@@ -1,0 +1,11 @@
+Long-term follow-up of a phase III clinical trial comparing tacrolimus extended-release/MMF, tacrolimus/MMF, and cyclosporine/MMF in de novo kidney transplant recipients.
+
+1/BACKGROUND: In a phase III, open-label, comparative, noninferiority study, 638 subjects receiving de novo kidney transplants were randomized to one of three treatment arms: tacrolimus extended-release (Astagraf XL) qd, tacrolimus (Prograf) bid, or cyclosporine (CsA) bid. All subjects received basiliximab induction, mycophenolate mofetil, and corticosteroids. Safety and efficacy follow-up data through 4 years are reported.
+
+2/METHODS: Evaluations included patient and graft survival, study drug discontinuations, laboratory values including renal function and development of new-onset diabetes after transplantation, oncomitant medications, and adverse 
+events.
+
+3/RESULTS: At study termination, 129 Astagraf XL, 113 Prograf, and 79 CsA patients had continued follow-up. Demographic and baseline characteristics were similar in all arms. Four-year Kaplan-Meier estimates of patient survival in the Astagraf XL, Prograf, and CsA groups were 93.2, 91.2, and 91.7%, respectively, while graft survival was 84.7, 82.7, and 83.9%, respectively. At least one serious adverse event was reported in the majority of patients in each group during the study (65.9% Astagraf XL, 69.8% Prograf, and 65.6% CsA). Renal function was not significantly different between Astagraf XL and Prograf. HgbA1c levels were collected every 6 months; the 4-year Kaplan-Meier estimate for 
+incidence of HgbA1c levels ≥ 6.5% was significantly higher for both tacrolimus formulations compared to CsA; 41.1% (Astagraf XL), 33.6% (Prograf), and 21.3% (CsA).
+
+4/CONCLUSIONS: In this 4-year follow-up report, patients receiving Astagraf XL and Prograf showed comparable efficacy and safety profiles, with a higher incidence of new-onset diabetes after transplantation but superior renal function compared to patients receiving CsA.

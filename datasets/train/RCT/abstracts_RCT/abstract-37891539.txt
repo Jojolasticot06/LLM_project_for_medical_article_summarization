@@ -1,0 +1,9 @@
+The effects of ginger supplementation on common gastrointestinal symptoms in patients with relapsing-remitting multiple sclerosis: a double-blind randomized placebo-controlled tria
+
+1/Background: Gastrointestinal (GI) symptoms affect more than 80% of individuals with relapsing-remitting multiple sclerosis (RRMS). Ginger is widely known for its GI relieving properties. Therefore, we investigated the effect of ginger supplementation on common GI symptoms in RRMS patients.
+
+2/Methods: This study was a 12-week double-blind parallel randomized controlled trial with a 3-week run-in period. The intervention (n = 26) and control (n = 26) groups received 500 mg ginger and placebo (as corn) supplements 3 times a day along with main meals, respectively. At the beginning and end of the trial, the frequency and severity of constipation, dysphagia, abdominal pain, diarrhea, bloating, belching, flatulence, heartburn, anorexia, and nausea were assessed using the visual analogue scale ranging from 0 to 100 mm. Totally, 49 participants completed the study. However, data analysis was performed on all 52 participants based on the intention-to-treat principle.
+
+3/Results: In comparison with placebo, ginger supplementation resulted in significant or near-significant reductions in the frequency (-23.63 ± 5.36 vs. 14.81 ± 2.78, P < 0.001) and severity (-24.15 ± 5.10 vs. 11.39 ± 3.23, P < 0.001) of constipation, the frequency (-12.41 ± 3.75 vs. 3.75 ± 1.82, P < 0.001) and severity (-13.43 ± 4.91 vs. 6.88 ± 2.69, P = 0.001) of nausea, the frequency (-9.31 ± 4.44 vs. 1.56 ± 4.05, P = 0.098) and severity (-11.57 ± 5.09 vs. 3.97 ± 3.99, P = 0.047) of bloating, and the severity of abdominal pain (-5.69 ± 3.66 vs. 3.43 ± 3.26, P = 0.069).
+
+4/Conclusion: Ginger consumption can improve constipation, nausea, bloating, and abdominal pain in patients with RRMS.

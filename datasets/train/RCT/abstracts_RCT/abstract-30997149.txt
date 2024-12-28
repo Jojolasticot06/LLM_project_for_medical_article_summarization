@@ -1,0 +1,11 @@
+Maintained physical activity and physiotherapy in the management of distal arm pain: a randomised controlled trial.
+
+1/OBJECTIVES: The epidemiology of distal arm pain and back pain are similar. However, management differs considerably: for back pain, rest is discouraged, whereas patients with distal arm pain are commonly advised to rest and referred to physiotherapy. We hypothesised that remaining active would reduce long-term disability and that fast-track physiotherapy would be superior to physiotherapy 
+after time on a waiting list.
+
+2/METHODS: Adults referred to community-based physiotherapy with distal arm pain were randomised to: advice to remain active while awaiting physiotherapy (typically delivered after 6-8 weeks); advice to rest while awaiting physiotherapy, or immediate treatment. Intention-to-treat analysis determined 
+whether the probability of recovery at 26 weeks was greater among the active advice group, compared with those advised to rest and/or among those receiving immediate versus usually timed physiotherapy.
+
+3/RESULTS: 538 of 1663 patients invited between February 2012 and February 2014 were randomised (active=178; rest=182; immediate physiotherapy=178). 81% provided primary outcome data, and complete recovery was reported by 60 (44%), 46 (32%) and 53 (35%). Those advised to rest experienced a lower probability of recovery (OR: 0.54; 95% CI 0.32 to 0.90) versus advice to remain active. However, there was no benefit of immediate physiotherapy (0.64; 95% CI 0.39 to 1.07).
+
+4/CONCLUSIONS: Among patients awaiting physiotherapy for distal arm pain, advice to remain active results in better 26-week functional outcome, compared with advice to rest. Also, immediate physiotherapy confers no additional benefit in terms of disability, compared with physiotherapy delivered after 6-8 weeks waiting time. These findings question current guidance for the management of distal arm pain.

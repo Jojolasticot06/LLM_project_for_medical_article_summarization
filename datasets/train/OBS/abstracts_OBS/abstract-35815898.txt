@@ -1,0 +1,27 @@
+OBJECTIVE: To compare secondary patient reported outcomes of perceptions of 
+treatment success and function for patients treated for appendicitis with 
+appendectomy vs. antibiotics at 30 days.
+SUMMARY BACKGROUND DATA: The Comparison of Outcomes of antibiotic Drugs and 
+Appendectomy trial found antibiotics noninferior to appendectomy based on 30-day 
+health status. To address questions about outcomes among participants with lower 
+socioeconomic status, we explored the relationship of sociodemographic and 
+clinical factors and outcomes.
+METHODS: We focused on 4 patient reported outcomes at 30 days: high decisional 
+regret, dissatisfaction with treatment, problems performing usual activities, 
+and missing >10 days of work. The randomized (RCT) and observational cohorts 
+were pooled for exploration of baseline factors. The RCT cohort alone was used 
+for comparison of treatments. Logistic regression was used to assess 
+associations.
+RESULTS: The pooled cohort contained 2062 participants; 1552 from the RCT. 
+Overall, regret and dissatisfaction were low whereas problems with usual 
+activities and prolonged missed work occurred more frequently. In the RCT, those 
+assigned to antibiotics had more regret (Odd ratios (OR) 2.97, 95% Confidence 
+intervals (CI) 2.05-4.31) and dissatisfaction (OR 1.98, 95%CI 1.25-3.12), and 
+reported less missed work (OR 0.39, 95%CI 0.27-0.56). Factors associated with 
+function outcomes included sociodemographic and clinical variables for both 
+treatment arms. Fewer factors were associated with dissatisfaction and regret.
+CONCLUSIONS: Overall, participants reported high satisfaction, low regret, and 
+were frequently able to resume usual activities and return to work. When 
+comparing treatments for appendicitis, no single measure defines success or 
+failure for all people. The reported data may inform discussions regarding the 
+most appropriate treatment for individuals.

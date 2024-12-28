@@ -1,0 +1,28 @@
+INTRODUCTION AND OBJECTIVES: Information about epidemiology, ventilation 
+management and outcome in postoperative intensive care unit (ICU) patients 
+remains scarce. The objective was to test whether postoperative ventilation 
+differs from that in the operation room.
+MATERIAL AND METHODS: This was a substudy of the worldwide observational LAS 
+VEGAS study, including patients undergoing non-thoracic surgeries. Of 146 study 
+sites participating in the LAS VEGAS study, 117 (80%) sites reported on the 
+postoperative ICU course, including ventilation and complications. The coprimary 
+outcomes were two key elements of ventilator management, i.e., tidal volume (VT) 
+and positive end-expiratory pressure (PEEP). Secondary outcomes included the 
+proportion of patients receiving low VT ventilation (LTVV, defined as 
+ventilation with a median VT < 8.0 ml/kg PBW), and the proportion of patients 
+developing postoperative pulmonary complications (PPC), including ARDS, 
+pneumothorax, pneumonia and need for escalation of ventilatory support, ICU and 
+hospital length of stay, and mortality at day 28.
+RESULTS: Of 653 patients who were admitted to the ICU after surgery, 274 (42%) 
+patients received invasive postoperative ventilation. Median postoperative VT 
+was 8.4 [7.3-9.8] ml/kg predicted body weight (PBW), PEEP was 5 [5-5] cm H2O, 
+statistically significant but not meaningfully different from median 
+intraoperative VT (8.1 [7.3-8.9] ml/kg PBW; P < 0.001) and PEEP (4 [2-5] cm H2O; 
+P < 0.001). The proportion of patients receiving LTVV after surgery was 41%. The 
+PPC rate was 10%. Length of stay in ICU and hospital was independent of 
+development of a PPC, but hospital mortality was higher in patients who 
+developed a PPC (24 versus 4%; P < 0.001).
+CONCLUSIONS: In this observational study of patients undergoing non-thoracic 
+surgeries, postoperative ventilation was not meaningfully different from that in 
+the operating room. Like in the operating room, there is room for improved use 
+of LTVV. Development of PPC is associated with mortality.

@@ -1,0 +1,38 @@
+BACKGROUND: Although overall air quality has improved in the United States, air 
+pollution remains unevenly distributed across neighborhoods, producing 
+disproportionate environmental burdens for minoritized and socioeconomically 
+disadvantaged residents for whom greater exposure to other structurally rooted 
+neighborhood stressors is also more frequent. These interrelated dynamics and 
+layered vulnerabilities each have well-documented associations with physical and 
+psychological health outcomes; however, much remains unknown about the joint 
+effects of environmental hazards and neighborhood socioeconomic factors on 
+self-reported health status.
+OBJECTIVES: We examined the nexus of air pollution exposure, neighborhood 
+socioeconomic disadvantage, and self-rated health (SRH) among adults in the 
+United States.
+METHODS: This observational study used individual-level data from the Panel 
+Study of Income Dynamics merged with contextual information, including 
+neighborhood socioeconomic and air pollution data at the census tract and census 
+block levels, spanning the period of 1999-2015. We estimated ordinary least 
+squares regression models predicting SRH by 10-y average exposures to fine 
+particulate matter [particles  ≤ 2.5 μm in aerodynamic diameter (PM2.5)] and 
+neighborhood socioeconomic disadvantage while controlling for individual-level 
+correlates of health. We also investigated the interaction effects of air 
+pollution and neighborhood socioeconomic disadvantage on SRH.
+RESULTS: On average, respondents in our sample rated their health as 3.41 on a 
+scale of 1 to 5. Respondents in neighborhoods with higher 10-y average PM2.5 
+concentrations or socioeconomic disadvantage rated their health more negatively 
+after controlling for covariates [β =  - 0.024 (95% CI: - 0.034, - 0.014); β =  
+- 0.107 (95% CI: - 0.163, - 0.052), respectively]. We also found that the 
+deleterious associations of PM2.5 exposure with SRH were weaker in the context 
+of greater neighborhood socioeconomic disadvantage (β = 0.007; 95% CI: 0.002, 
+0.011).
+DISCUSSION: Study results indicate that the effects of air pollution on SRH may 
+be less salient in socioeconomically disadvantaged neighborhoods compared with 
+more advantaged areas, perhaps owing to the presence of other more proximate 
+structurally rooted health risks and vulnerabilities in disinvested areas (e.g., 
+lack of economic resources, health access, healthy food options). This 
+intersection may further underscore the importance of meaningful involvement and 
+political power building among community stakeholders on issues concerning the 
+nexus of environmental and socioeconomic justice, particularly in structurally 
+marginalized communities.

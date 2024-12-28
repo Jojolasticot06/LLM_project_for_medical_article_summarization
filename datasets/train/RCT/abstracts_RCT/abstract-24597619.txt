@@ -1,0 +1,12 @@
+Movement-generated afference paired with transcranial magnetic stimulation: an associative stimulation paradigm.
+
+1/BACKGROUND: A peripheral nerve stimulus can enhance or suppress the evoked response to transcranial magnetic stimulation (TMS) depending on the latency of the preceding peripheral nerve stimulation (PNS) pulse. Similarly, somatosensory afference from the passively moving limb can transiently alter corticomotor excitability, in a phase-dependent manner. The repeated association of PNS with 
+TMS is known to modulate corticomotor excitability; however, it is unknown whether repeated passive-movement associative stimulation (MAS) has similar effects.
+
+2/METHODS: In a proof-of-principal study, using a cross-over design, seven healthy subjects received in separate sessions: (1) TMS (120% of the resting motor threshold-RMT, optimal site for Flexor Carpi Radialis) with muscle at rest; (2) TMS paired with cyclic passive movement during extension cyclic passive movement (400 pairs, 1 Hz), with the intervention order randomly assigned. Normality was 
+tested using the Kolmogorov-Smirnov test, then compared to pre-intervention baseline using repeated measures ANOVA with a Dunnet multiple comparisons test.
+
+3/RESULTS: MAS led to a progressive and significant decrease in the motor evoked potential (MEP) amplitude over the intervention (R(2) = 0.6665, P < 0.0001), which was not evident with TMS alone (R(2) = 0.0068, P = 0.641). Post-intervention excitability reduction, only present with MAS intervention, remained for 20 min (0-10 min = 68.2 ± 4.9%, P < 0.05; 10-20 min = 73.3 ± 9.7%, 
+P < 0.05).
+
+4/CONCLUSION: The association of somatosensory afference from the moving limb with TMS over primary motor cortex in healthy subjects can be used to modulate corticomotor excitability, and may have therapeutic implications.

@@ -1,0 +1,9 @@
+Analgesic efficacy of selective tibial nerve block versus partial local infiltration analgesia for posterior pain after total knee arthroplasty: a randomized, controlled, triple-blinded trial
+
+1/Background: The adductor canal block provides pain relief on the anterior aspect of the knee after arthroplasty. Pain on the posterior aspect may be treated either by partial local infiltration analgesia of the posterior capsule or by a tibial nerve block. This randomized, controlled, triple-blinded trial tests the hypothesis that a tibial nerve block would provide superior analgesia compared to posterior capsule infiltration in patients scheduled for total knee arthroplasty under spinal anesthesia with an adductor canal block.
+
+2/Methods: Sixty patients were randomized to receive either infiltration of the posterior capsule by the surgeon with ropivacaine 0.2%, 25 mL, or a tibial nerve block with 10 mL of ropivacaine 0.5%. Sham injections were performed to guarantee proper blinding. The primary outcome was intravenous morphine consumption at 24 h. Secondary outcomes included intravenous morphine consumption, pain scores at rest and on movement, and different functional outcomes, measured at up to 48 h. When necessary, longitudinal analyses were performed with a mixed-effects linear model.
+
+3/Results: The median (interquartile range) of cumulative intravenous morphine consumption at 24 h was 12 mg (4-16) and 8 mg (2-14) in patients having the infiltration or the tibial nerve block respectively (p = 0.20). Our longitudinal model showed a significant interaction between group and time in favor of the tibial nerve block (p = 0.015). No significant differences were present between groups in the other above-mentioned secondary outcomes.
+
+4/Conclusion: A tibial nerve block does not provide superior analgesia when compared to infiltration. However, a tibial nerve block might be associated with a slower increase in morphine consumption over time.

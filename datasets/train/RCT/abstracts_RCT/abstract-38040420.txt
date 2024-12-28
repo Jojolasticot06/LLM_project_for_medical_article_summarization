@@ -1,0 +1,11 @@
+Multicenter randomized controlled trial of neoadjuvant chemoradiotherapy alone or in combination with pembrolizumab in patients with resectable or borderline resectable pancreatic adenocarcinoma.
+
+1/BACKGROUND: Pancreatic ductal adenocarcinoma (PDAC) is a challenging target for immunotherapy because it has an immunosuppressive tumor microenvironment. Neoadjuvant chemoradiotherapy can increase tumor-infiltrating lymphocyte (TIL) density, which may predict overall survival (OS). We hypothesized that adding 
+programmed cell death protein 1 (PD-1) blockade to chemoradiotherapy would be well tolerated and increase TILs among patients with localized PDAC.
+2/METHODS: Patients were randomized 2:1 to Arm A (receiving pembrolizumab plus chemoradiotherapy (capecitabine and external beam radiation)) or Arm B (receiving chemoradiotherapy alone) before anticipated pancreatectomy. Primary endpoints were (1) incidence and severity of adverse events during neoadjuvant 
+therapy and (2) density of TILs in resected tumor specimens. TIL density was assessed using multiplexed immunofluorescence histologic examination.
+
+3/RESULTS: Thirty-seven patients were randomized to Arms A (n=24) and B (n=13). Grade ≥3 adverse events related to neoadjuvant treatment were experienced by 9 (38%) and 4 (31%) patients in Arms A and B, respectively, with one patient experiencing dose-limiting toxicity in Arm A. Seventeen (71%) and 7 (54%) 
+patients in Arms A and B, respectively, underwent pancreatectomy. Median CD8+ T-cell densities in Arms A and B were 67.4 (IQR: 39.2-141.8) and 37.9 (IQR: 22.9-173.4) cells/mm2, respectively. Arms showed no noticeable differences in density of CD8+Ki67+, CD4+, or CD4+FOXP3+ regulatory T cells; M1-like and M2-like macrophages; or granulocytes. Median OS durations were 27.8 (95% CI: 17.1 to NR) and 24.3 (95% CI: 12.6 to NR) months for Arms A and B, respectively.
+
+4/CONCLUSIONS: Adding pembrolizumab to neoadjuvant chemoradiotherapy was safe. However, no convincing effect on CD8+ TILs was observed.

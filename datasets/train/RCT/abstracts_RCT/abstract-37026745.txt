@@ -1,0 +1,6 @@
+A multistrain probiotic increases the serum glutamine/glutamate ratio in patients with cirrhosis: a metabolomic analysis
+
+1/To explore the potential mechanisms underlying the effects of a probiotic in cirrhotic patients, 
+2/we analyzed the blood metabolome using proton nuclear magnetic resonance (1H-NMR) spectroscopy in 32 patients with cirrhosis and cognitive dysfunction or falls. Patients were randomized to receive a multistrain probiotic or placebo for 12 weeks. 
+3/Among the 54 metabolites identified, the only significant changes in the probiotic group were an increase in glutamine, a decrease in glutamate, and an increase in the glutamine/glutamate ratio. In the placebo group, glutamate increased and the glutamine/glutamate ratio decreased. 
+4/Our results suggest the multistrain probiotic could influence glutamine/glutamate metabolism, increasing the capacity of ammonia detoxification.

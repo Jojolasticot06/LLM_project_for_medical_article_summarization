@@ -1,0 +1,35 @@
+BACKGROUND: The human gut harbors trillions of microbes that play dynamic roles 
+in health. While the microbiome contributes to many cardiometabolic traits by 
+modulating host inflammation and metabolism, there is an incomplete 
+understanding regarding the extent that and mechanisms by which individual 
+microbes impact risk and development of cardiovascular disease (CVD). The 
+Framingham Heart Study (FHS) is a multi-generational observational study 
+following participants over decades to identify risk factors for CVD by 
+correlating genetic and phenotypic factors with clinical outcomes. As a 
+large-scale population-based cohort with extensive clinical phenotyping, FHS 
+provides a rich landscape to explore the relationships between the gut 
+microbiome and cardiometabolic traits.
+METHODS: We performed 16S rRNA gene sequencing on stool from 1423 participants 
+of the FHS Generation 3, OMNI2, and New Offspring Spouse cohorts. Data 
+processing and taxonomic assignment were performed with the 16S bioBakery 
+workflow using the UPARSE pipeline. We conducted statistical analyses to 
+investigate trends in overall microbiome composition and diversity in relation 
+to disease states and systematically examined taxonomic associations with a 
+variety of clinical traits, disease phenotypes, clinical blood markers, and 
+medications.
+RESULTS: We demonstrate that overall microbial diversity decreases with 
+increasing 10-year CVD risk and body mass index measures. We link lifestyle 
+factors, especially diet and exercise, to microbial diversity. Our association 
+analyses reveal both known and unreported microbial associations with CVD and 
+diabetes, related prescription medications, as well as many anthropometric and 
+blood test measurements. In particular, we observe a set of microbial species 
+that demonstrate significant associations with CVD risk, metabolic syndrome, and 
+type 2 diabetes as well as a number of shared associations between microbial 
+species and cardiometabolic subphenotypes.
+CONCLUSIONS: The identification of significant microbial taxa associated with 
+prevalent CVD and diabetes, as well as risk for developing CVD, adds to 
+increasing evidence that the microbiome may contribute to CVD pathogenesis. Our 
+findings support new hypothesis generation around shared microbe-mediated 
+mechanisms that influence metabolic syndrome, diabetes, and CVD risk. Further 
+investigation of the gut microbiomes of CVD patients in a targeted manner may 
+elucidate microbial mechanisms with diagnostic and therapeutic implications.

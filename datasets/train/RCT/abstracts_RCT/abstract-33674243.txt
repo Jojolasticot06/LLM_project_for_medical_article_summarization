@@ -1,0 +1,9 @@
+Markers of cardiovascular risk and their reversibility with acute oxygen therapy in Kyrgyz highlanders with high altitude pulmonary hypertension.
+
+1/BACKGROUND: High altitude pulmonary hypertension (HAPH), a chronic altitude related illness, is associated with hypoxemia, dyspnea and reduced exercise performance. We evaluated ECG and pulse wave-derived markers of cardiovascular risk in highlanders with HAPH (HAPH+) in comparison to healthy highlanders (HH) and lowlanders (LL) and the effects of hyperoxia.
+
+2/METHODS: We studied 34 HAPH+ and 54 HH at Aksay (3250m), and 34 LL at Bishkek (760m), Kyrgyzstan. Mean pulmonary artery pressure by echocardiography was mean±SD 34±3, 22±5, 16±4mmHg, respectively (p<0.05 all comparisons). During quiet rest, breathing room air or oxygen in randomized order, we measured heart-rate adjusted QT interval (QTc), an ECG-derived marker of increased cardiovascular mortality, and arterial stiffness index (SI), a marker of cardiovascular disease derived from pulse oximetry plethysmograms.
+
+3/RESULTS: Pulse oximetry in HAPH+, HH and LL was, mean±SD, 88±4, 92±2 and 95±2%, respectively (p<0.05 vs HAPH+, both comparisons). QTc in HAPH+, HH and LL was 422±24, 405±27, 400±28ms (p<0.05 HAPH+ vs. others); corresponding SI was 10.5±1.9, 8.4±2.6, 8.5±2.0m/s, heart rate was 75±8, 68±8, 70±10 bpm (p<0.05, corresponding comparisons HAPH+ vs. others). In regression analysis, HAPH+ was an independent predictor of increased QTc and SI when controlled for several confounders. Oxygen breathing increased SI in HH but not in HAPH+, and reduced QTc in all groups.
+
+4/CONCLUSIONS: Our data suggest that HAPH+ but not HH may be at increased risk of cardiovascular mortality and morbidity compared to LL. The lack of a further increase of the elevated SI during hyperoxia in HAPH+ may indicate dysfunctional control of vascular tone and/or remodelling.

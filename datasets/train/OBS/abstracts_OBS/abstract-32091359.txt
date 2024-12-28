@@ -1,0 +1,14 @@
+Melioidosis is a neglected tropical disease with an estimated annual mortality 
+rate of 89,000 in 45 countries across tropical regions. The causative agent is 
+Burkholderia pseudomallei, a gram-negative soil-dwelling bacterium. In Thailand, 
+B. pseudomallei can be found across multiple regions, along with the 
+low-virulence B. thailandensis and the recently discovered B. thailandensis 
+variant (BTCV), which expresses B. pseudomallei-like capsular polysaccharide. 
+Comprehensive studies of human immune responses to B. thailandensis variants and 
+cross-reactivity to B. pseudomallei are not complete. We evaluated human immune 
+responses to B. pseudomallei, B. thailandensis, and BTCV in melioidosis patients 
+and healthy persons in B. pseudomallei-endemic areas using a range of humoral 
+and cellular immune assays. We found immune cross-reactivity to be strong for 
+both humoral and cellular immunity among B. pseudomallei, B. thailandensis, and 
+BTCV. Our findings suggest that environmental exposure to low-virulence strains 
+may build cellular immunity to B. pseudomallei.

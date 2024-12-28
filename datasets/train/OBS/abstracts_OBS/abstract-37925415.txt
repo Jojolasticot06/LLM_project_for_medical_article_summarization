@@ -1,0 +1,32 @@
+BACKGROUND: Subject-level real-world data (RWD) collected during daily 
+healthcare practices are increasingly used in medical research to assess 
+questions that cannot be addressed in the context of a randomized controlled 
+trial (RCT). A novel application of RWD arises from the need to create external 
+control arms (ECAs) for single-arm RCTs. In the analysis of ECAs against RCT 
+data, there is an evident need to manage and analyze RCT data and RWD in the 
+same technical environment. In the Nordic countries, legal requirements may 
+require that the original subject-level data be anonymized, i.e., modified so 
+that the risk to identify any individual is minimal. The aim of this study was 
+to conduct initial exploration on how well pseudonymized and anonymized RWD 
+perform in the creation of an ECA for an RCT.
+METHODS: This was a hybrid observational cohort study using clinical data from 
+the control arm of the completed randomized phase II clinical trial (PACIFIC-AF) 
+and RWD cohort from Finnish healthcare data sources. The initial pseudonymized 
+RWD were anonymized within the (k, ε)-anonymity framework (a model for 
+protecting individuals against identification). Propensity score matching and 
+weighting methods were applied to the anonymized and pseudonymized RWD, to 
+balance potential confounders against the RCT data. Descriptive statistics for 
+the potential confounders and overall survival analyses were conducted prior to 
+and after matching and weighting, using both the pseudonymized and anonymized 
+RWD sets.
+RESULTS: Anonymization affected the baseline characteristics of potential 
+confounders only marginally. The greatest difference was in the prevalence of 
+chronic obstructive pulmonary disease (4.6% vs. 5.4% in the pseudonymized 
+compared to the anonymized data, respectively). Moreover, the overall survival 
+changed in anonymization by only 8% (95% CI 4-22%). Both the pseudonymized and 
+anonymized RWD were able to produce matched ECAs for the RCT data. Anonymization 
+after matching impacted overall survival analysis by 22% (95% CI -21-87%).
+CONCLUSIONS: Anonymization may be a viable technique for cases where flexible 
+data transfer and sharing are required. As anonymization necessarily affects 
+some aspects of the original data, further research and careful consideration of 
+anonymization strategies are needed.

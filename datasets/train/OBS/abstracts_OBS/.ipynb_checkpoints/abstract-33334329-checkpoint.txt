@@ -1,0 +1,32 @@
+BACKGROUND: Pakistan has among the poorest pregnancy outcomes worldwide, 
+significantly worse than many other low-resource countries. The reasons for 
+these differences are not clear. In this study, we compared pregnancy outcomes 
+in Pakistan to other low-resource countries and explored factors that might help 
+explain these differences.
+METHODS: The Global Network (GN) Maternal Newborn Health Registry (MNHR) is a 
+prospective, population-based observational study that includes all pregnant 
+women and their pregnancy outcomes in defined geographic communities in six 
+low-middle income countries (India, Pakistan, Democratic Republic of Congo, 
+Guatemala, Kenya, Zambia). Study staff enroll women in early pregnancy and 
+follow-up soon after delivery and at 42 days to ascertain delivery, neonatal, 
+and maternal outcomes. We analyzed the maternal mortality ratios (MMR), neonatal 
+mortality rates (NMR), stillbirth rates, and potential explanatory factors from 
+2010 to 2018 across the GN sites.
+RESULTS: From 2010 to 2018, there were 91,076 births in Pakistan and 456,276 
+births in the other GN sites combined. The MMR in Pakistan was 319 per 100,000 
+live births compared to an average of 124 in the other sites, while the Pakistan 
+NMR was 49.4 per 1,000 live births compared to 20.4 in the other sites. The 
+stillbirth rate in Pakistan was 53.5 per 1000 births compared to 23.2 for the 
+other sites. Preterm birth and low birthweight rates were also substantially 
+higher than the other sites combined. Within weight ranges, the Pakistani site 
+generally had significantly higher rates of stillbirth and neonatal mortality 
+than the other sites combined, with differences increasing as birthweights 
+increased. By nearly every measure, medical care for pregnant women and their 
+newborns in the Pakistan sites was worse than at the other sites combined.
+CONCLUSION: The Pakistani pregnancy outcomes are much worse than those in the 
+other GN sites. Reasons for these poorer outcomes likely include that 
+the Pakistani sites' reproductive-aged women are largely poorly educated, 
+undernourished, anemic, and deliver a high percentage of preterm and 
+low-birthweight babies in settings of often inadequate maternal and newborn 
+care. By addressing the issues highlighted in this paper there appears to be 
+substantial room for improvements in Pakistan's pregnancy outcomes.

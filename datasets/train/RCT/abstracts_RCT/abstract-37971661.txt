@@ -1,0 +1,16 @@
+Can physicians and schools mitigate social inequalities in human papillomavirus vaccine awareness, uptake and vaccination intention among adolescents? A cross-sectional study, France, 2021 to 2022.
+
+1/Background
+ In France, human papillomavirus (HPV) vaccination coverage varies across socioeconomic levels.
+Aim We aimed at assessing HPV vaccine awareness, uptake and vaccination intention among adolescents in France.
+
+2/Methods
+In a 
+cluster-randomised study, 13-15-year-old students in 61 French middle schools completed a web-based questionnaire. We used multivariable logistic regression to evaluate determinants of HPV vaccine awareness, self-reported uptake and vaccination intention among unvaccinated students and interaction terms to explore effects of visits to family physician and remembering school lessons on vaccination. The French deprivation index of school municipalities served as proxy for socioeconomic levels.
+
+3/Results
+Among 6,992 participants, awareness was
+significantly associated with parental education (odds ratio (OR) = 0.82; 95% confidence interval (CI): 0.71-0.95), language spoken at home (OR = 0.59; 95% CI: 0.52-0.66) and deprivation level (OR = 0.57; 95% CI: 0.44-0.71), regardless of physician visit or school lessons. Vaccine uptake was associated with parental education without a recent physician visit (OR = 0.31; 95% CI: 0.16-0.59, vs OR = 0.64; 95% CI: 0.52-0.78 with a visit, interaction p = 0.045). Vaccination intention among unvaccinated was associated with deprivation level (moderate-low vs low) among students not remembering school lessons on vaccination (OR = 0.17; 95% CI: 0.05-0.62, vs OR = 0.93; 95% CI: 0.51-1.67 remembering school lessons, interaction p = 0.022). Parental education was associated with vaccination intention among students reporting a physician visit (OR = 0.41; 95% CI: 0.26-0.64 vs OR = 1.05; 95% CI: 0.50-2.20 without a visit, interaction p = 0.034).
+
+4/Conclusion
+Our results suggest that healthcare and school could promote vaccination and mitigate social inequalities in HPV vaccination coverage.

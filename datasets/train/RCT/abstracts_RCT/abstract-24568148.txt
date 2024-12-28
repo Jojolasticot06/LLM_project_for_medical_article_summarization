@@ -1,0 +1,12 @@
+Changes in performance over time while learning to use a myoelectric prosthesis.
+
+1/BACKGROUND: Training increases the functional use of an upper limb prosthesis, but little is known about how people learn to use their prosthesis. The aim of this study was to describe the changes in performance with an upper limb myoelectric prosthesis during practice. The results provide a basis to develop an evidence-based training program.
+
+2/METHODS: Thirty-one able-bodied participants took part in an experiment as well as thirty-one age- and gender-matched controls. Participants in the experimental condition, randomly assigned to one of four groups, practiced with a myoelectric simulator for five sessions in a two-weeks period. Group 1 practiced direct grasping, Group 2 practiced indirect grasping, Group 3 practiced fixating, and 
+Group 4 practiced a combination of all three tasks. The Southampton Hand Assessment Procedure (SHAP) was assessed in a pretest, posttest, and two retention tests. Participants in the control condition performed SHAP two times, two weeks apart with no practice in between. Compressible objects were used in the grasping tasks. Changes in end-point kinematics, joint angles, and grip force control, the latter measured by magnitude of object compression, were examined.
+
+3/RESULTS: The experimental groups improved more on SHAP than the control group. Interestingly, the fixation group improved comparable to the other training groups on the SHAP. Improvement in global position of the prosthesis leveled off after three practice sessions, whereas learning to control grip force required more time. The indirect grasping group had the smallest object compression in 
+the beginning and this did not change over time, whereas the direct grasping and the combination group had a decrease in compression over time. Moreover, the indirect grasping group had the smallest grasping time that did not vary over object rigidity, while for the other two groups the grasping time decreased with an increase in object rigidity.
+
+4/CONCLUSIONS: A training program should spend more time on learning fine control aspects of the prosthetic hand during rehabilitation. Moreover, training should start with the indirect grasping task that has the best performance, which is probably due to the higher amount of useful information available from the sound hand.
+

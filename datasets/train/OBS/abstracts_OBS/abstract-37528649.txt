@@ -1,0 +1,27 @@
+AIMS: Calmodulinopathy due to mutations in any of the three CALM genes (CALM1-3) 
+causes life-threatening arrhythmia syndromes, especially in young individuals. 
+The International Calmodulinopathy Registry (ICalmR) aims to define and link the 
+increasing complexity of the clinical presentation to the underlying molecular 
+mechanisms.
+METHODS AND RESULTS: The ICalmR is an international, collaborative, 
+observational study, assembling and analysing clinical and genetic data on 
+CALM-positive patients. The ICalmR has enrolled 140 subjects (median age 10.8 
+years [interquartile range 5-19]), 97 index cases and 43 family members. 
+CALM-LQTS and CALM-CPVT are the prevalent phenotypes. Primary neurological 
+manifestations, unrelated to post-anoxic sequelae, manifested in 20 patients. 
+Calmodulinopathy remains associated with a high arrhythmic event rate 
+(symptomatic patients, n = 103, 74%). However, compared with the original 2019 
+cohort, there was a reduced frequency and severity of all cardiac events (61% 
+vs. 85%; P = .001) and sudden death (9% vs. 27%; P = .008). Data on therapy do 
+not allow definitive recommendations. Cardiac structural abnormalities, either 
+cardiomyopathy or congenital heart defects, are present in 30% of patients, 
+mainly CALM-LQTS, and lethal cases of heart failure have occurred. The number of 
+familial cases and of families with strikingly different phenotypes is 
+increasing.
+CONCLUSION: Calmodulinopathy has pleiotropic presentations, from channelopathy 
+to syndromic forms. Clinical severity ranges from the early onset of 
+life-threatening arrhythmias to the absence of symptoms, and the percentage of 
+milder and familial forms is increasing. There are no hard data to guide 
+therapy, and current management includes pharmacological and surgical 
+antiadrenergic interventions with sodium channel blockers often accompanied by 
+an implantable cardioverter-defibrillator.

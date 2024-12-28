@@ -1,0 +1,18 @@
+Item response theory in early phase clinical trials: Utilization of a reference 
+model to analyze the Montgomery-Åsberg Depression Rating Scale.
+
+1/In clinical trials, Montgomery-Åsberg Depression Rating Scale (MADRS) 
+questionnaire data are added up to total scores before analysis, assuming equal 
+contribution of each separate question. Item Response Theory (IRT)-based 
+analysis avoids this by using individual question responses to determine the 
+latent variable (ψ), which represents a measure of depression severity. However, 
+utilization of IRT in early phase trials remains difficult, because large 
+datasets are needed to develop IRT models. Therefore, we aimed to evaluate the 
+application and assumptions of a reference IRT model for analysis of an early 
+phase trial. 
+
+2/A cross-over, placebo-controlled study investigating the effect of intravenous racemic ketamine on MADRS scores in patients with treatment-resistant major depressive disorder was used as a case study. One hundred forty-seven MADRS responses were measured in 17 patients at five timepoints (predose to 2 weeks after dosing). Two reference IRT models based on different patient populations were selected from literature and used to determine ψ, while testing multiple approaches regarding assumed data distribution. Use of ψ versus total score to determine treatment effect was compared through linear mixed model analysis. 
+
+3/Results showed that determined ψ values did not differ significantly between assumed distributions, but were significantly different when changing reference IRT model. Estimated treatment effect size was not significantly affected by chosen approach nor reference population. Finally, increased precision to determine treatment effect was achieved by using IRT versus total scores. 
+
+4/This demonstrates the usefulness of reference IRT model application for analysis of questionnaire data in early phase clinical trials.

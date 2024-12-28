@@ -1,0 +1,9 @@
+Statin drug use is not associated with prostate cancer risk in men who are regularly screened.
+
+1/PURPOSE: Prospective cohort studies support the hypothesis that statin drug users have a lower risk of aggressive prostate cancer. Whether statin drug use influences the risk of screen detected disease is less clear, possibly because of complex detection biases. Thus, we investigated this association in a setting in which men had low baseline serum prostate specific antigen concentration and were screened annually.
+
+2/MATERIALS AND METHODS: We performed a cohort study of 9,457 men 55 years old or older at randomization to the placebo arm of PCPT (Prostate Cancer Prevention Trial). The men reported new use of medications quarterly. We estimated the multivariable adjusted HR of prostate cancer (574 cases in 62,192 person-years) for statin drug use and duration of use during the trial using Cox proportional hazards regression.
+
+3/RESULTS: During 7 years of followup statin drug use during the trial was not associated with the risk of total prostate cancer (HR 1.03, 95% CI 0.82-1.30), or lower grade (HR 0.96, 95% CI 0.71-1.29) or higher grade (HR 1.27, 95% CI 0.85-1.90) prostate cancer. Duration of use during followup was also not associated with the risk of total, or lower or higher grade disease (p trend=0.7, 0.5 and 0.2, respectively).
+
+4/CONCLUSIONS: These prospective results do not support the hypothesis that statin drugs protect against prostate cancer in the setting of regular prostate cancer screening.

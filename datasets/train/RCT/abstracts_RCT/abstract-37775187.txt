@@ -1,0 +1,49 @@
+internet-delivered cognitive behavioural therapy programme to reduce depressive 
+symptoms in patients with multiple sclerosis: a multicentre, randomised, 
+controlled, phase 3 trial.
+
+1/BACKGROUND: Depression is three to four times more prevalent in patients with 
+neurological and inflammatory disorders than in the general population. For 
+example, in patients with multiple sclerosis, the 12-month prevalence of major 
+depressive disorder is around 25% and it is associated with a lower quality of 
+life, faster disease progression, and higher morbidity and mortality. Despite 
+its clinical relevance, there are few treatment options for depression 
+associated with multiple sclerosis and confirmatory trials are scarce. We aimed 
+to evaluate the safety and efficacy of a multiple sclerosis-specific, 
+internet-based cognitive behavioural therapy (iCBT) programme for the treatment 
+of depressive symptoms associated with the disease.
+
+2/METHODS: This parallel-group, randomised, controlled, phase 3 trial of an iCBT 
+programme to reduce depressive symptoms in patients with multiple sclerosis was 
+carried out at five academic centres with large outpatient care units in Germany 
+and the USA. Patients with a neurologist-confirmed diagnosis of multiple 
+sclerosis and depressive symptoms were randomly assigned (1:1:1; automated 
+assignment, concealed allocation, no stratification, no blocking) to receive 
+treatment as usual plus one of two versions of the iCBT programme Amiria 
+(stand-alone or therapist-guided) or to a control condition, in which 
+participants received treatment as usual and were offered access to the iCBT 
+programme after 6 months. Masking of participants to group assignment between 
+active treatment and control was not possible, although raters were masked to 
+group assignment. The predefined primary endpoint, which was analysed in the 
+intention-to-treat population, was severity of depressive symptoms as measured 
+by the Beck Depression Inventory-II (BDI-II) at week 12 after randomisation. 
+This trial is registered at ClinicalTrials.gov, NCT02740361, and is complete.
+
+3/FINDINGS: Between May 3, 2017, and Nov 4, 2020, we screened 485 patients for 
+eligibility. 279 participants were enrolled, of whom 101 were allocated to 
+receive stand-alone iCBT, 85 to receive guided iCBT, and 93 to the control 
+condition. The dropout rate at week 12 was 18% (50 participants). Both versions 
+of the iCBT programme significantly reduced depressive symptoms compared with 
+the control group (BDI-II between-group mean differences: control vs stand-alone 
+iCBT 6·32 points [95% CI 3·37-9·27], p<0·0001, effect size d=0·97 [95% CI 
+0·64-1·30]; control vs guided iCBT 5·80 points [2·71-8·88], p<0·0001, effect 
+size d=0·96 [0·62-1·30]). Clinically relevant worsening of depressive symptoms 
+was observed in three participants in the control group, one in the stand-alone 
+iCBT group, and none in the guided iCBT group. No occurrences of suicidality 
+were observed during the trial and there were no deaths.
+
+4/INTERPRETATION: This trial provides evidence for the safety and efficacy of a 
+multiple sclerosis-specific iCBT tool to reduce depressive symptoms in patients 
+with the disease. This remote-access, scalable intervention increases the 
+therapeutic options in this patient group and could help to overcome treatment 
+barriers.

@@ -1,0 +1,30 @@
+BACKGROUND: The effectiveness of comprehensive geriatric assessment (CGA) in 
+improving health outcomes in cancer settings is unclear. We evaluated whether 
+CGA can improve health-related quality of life (HRQOL) in older people with 
+cancer who are starting systemic anticancer treatment.
+METHODS: INTEGERATE is a multicentre, open-label, pragmatic, parallel-group, 
+randomised controlled trial that was done at three hospitals in Australia. 
+Participants aged 70 years and older with solid cancer or diffuse large B-cell 
+lymphoma planned for chemotherapy, targeted therapy, or immunotherapy, were 
+randomly assigned (1:1; using a central computer-generated minimisation 
+algorithm with a random element, balancing treatment intent, cancer type, age, 
+sex, and performance status) to receive CGA integrated into oncology care 
+(integrated oncogeriatric care) or usual care only. Group assignment was not 
+concealed from the participants and clinicians. The primary outcome was HRQOL 
+over 24 weeks, assessed at baseline, week 12, week 18, and week 24, using the 
+Elderly Functional Index (ELFI; score range 0-100). Analyses were by intention 
+to treat. The trial is registered with ANZCTR.org.au, ACTRN12614000399695, and 
+is completed.
+FINDINGS: Between Aug 18, 2014, and Sept 5, 2018, 154 participants were randomly 
+assigned to integrated oncogeriatric care (n=76) or usual care (n=78). 13 
+participants died by week 12 and 130 (92%) of the remaining 141 participants 
+completed two or more ELFI assessments. Participants assigned to integrated 
+oncogeriatric care reported better adjusted ELFI change scores over 24 weeks 
+compared with those in the usual care group (overall main effect of group: 
+t=2·1, df=213, p=0·039; effect size=0·38), with maximal between-group 
+differences at week 18 (mean difference in change 9·8 [95% CI 2·4-17·2]; 
+p=0·010, corrected p=0·030, effect size=0·48). The integrated oncogeriatric care 
+group also had significantly fewer unplanned hospital admissions at 24 weeks 
+(multivariable-adjusted incidence rate ratio 0·60 [95% CI 0·42-0·87]; p=0·0066). 
+No statistically significant between-group difference was observed in overall 
+survival.

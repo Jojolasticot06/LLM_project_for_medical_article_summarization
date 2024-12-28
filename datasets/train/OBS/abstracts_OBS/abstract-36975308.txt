@@ -1,0 +1,23 @@
+OBJECTIVES: Patients with COVID-19-associated acute respiratory distress 
+syndrome (ARDS) have a high risk for developing acute kidney injury (AKI) which 
+is associated with an increased risk of death and persistent renal failure. 
+Early prediction of AKI is crucial in order to implement preventive strategies. 
+The purpose of this study was to investigate the predictive performance of 
+tissue inhibitor of metalloproteinases 2 and insulin like growth factor binding 
+protein 7 (TIMP-2) × (IGFBP7) in critically ill patients with 
+COVID-19-associated ARDS.
+DESIGN: Multicenter, prospective, observational study.
+SETTING: Twelve centers across Europe and United Kingdom.
+PATIENTS: Patients with moderate or severe COVID-19-associated ARDS were 
+included and serial measurements of (TIMP-2) × (IGFBP7) were performed.
+INTERVENTIONS: None.
+MEASUREMENTS AND MAIN RESULTS: The primary endpoint was the development of 
+moderate or severe AKI according to the Kidney Disease: Improving Global 
+Outcomes definition. Three hundred patients were available for the primary 
+analysis, and 39 met the primary endpoint. At enrollment, urinary (TIMP-2) × 
+(IGFBP7) had high predictive value for the primary endpoint with an area under 
+the receiver operating characteristic curve of 0.89 (95% CI, 0.84-0.93). 
+(TIMP-2) × (IGFBP7) was significantly higher in endpoint-positive patients at 
+enrollment and at 12 hours.
+CONCLUSIONS: Urinary (TIMP-2) × (IGFBP7) predicts the occurrence of AKI in 
+critically ill patients with COVID-19-associated ARDS.

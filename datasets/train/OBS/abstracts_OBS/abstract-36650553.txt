@@ -1,0 +1,35 @@
+BACKGROUND: Patients with craniocervical pain have shown reduced performance in 
+the craniocervical flexion test (CCFT). However, there is limited evidence of 
+other possible kinematic alterations not assessed in the context of the CCFT. 
+Previous studies on other functional or planar movements have reported 
+alterations in sensorimotor control (e.g., range of motion [ROM], velocity, or 
+smoothness) in subjects with neck pain. The objective of this study was to 
+explore the association between sensorimotor control variables associated with 
+craniocervical flexion movement and different characteristics related to pain, 
+age, disability, and fear of movement in individuals with non-traumatic chronic 
+neck pain and asymptomatic controls.
+METHODS: This was an observational, cross-sectional study in patients with 
+non-traumatic neck pain and asymptomatic participants. Regression models were 
+used to assess whether descriptive characteristics of the sample, including: (a) 
+age, (b) intensity of pain, (c) neck disability, (d) chronicity of pain, and (e) 
+fear of movement could explain sensorimotor control variables such as ROM, 
+velocity, jerk, head repositioning accuracy, and conjunct motion. All these 
+variables were recorded by means of light inertial measurement unit sensors 
+during the performance of three maximal repetitions of full range craniocervical 
+flexion in the supine position.
+RESULTS: A total of 211 individuals were screened and 192 participants finished 
+the protocol and were included in the analyses. Participants had an average age 
+of 34.55 ± 13.93 years and included 124 patients with non-traumatic neck pain 
+and 68 asymptomatic subjects. Kinesiophobia partially explained lower 
+craniocervical flexion ROM (p = .01) and lower peak velocity in flexion 
+(P < .001). Age partially explained increased craniocervical extension ROM 
+(P < .001) and lower peak velocity in flexion (P = .03). Chronicity partially 
+explained increased lateral flexion conjunct motion (P = .008). All models 
+showed low values of explained variance (< 32%) and low absolute values of 
+regression coefficients.
+CONCLUSIONS: This study did not find a clear relationship between population 
+characteristics and sensorimotor control variables associated with the 
+craniocervical flexion movement. Kinesiophobia might have some association with 
+reduced ROM in craniocervical flexion, but further research in this field is 
+needed in large samples of patients with higher levels of kinesiophobia pain or 
+disability.

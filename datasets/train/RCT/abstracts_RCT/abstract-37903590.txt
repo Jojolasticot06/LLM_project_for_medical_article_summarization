@@ -1,0 +1,11 @@
+Comparison of SP263 and 22C3 immunohistochemistry PD-L1 assays for clinical efficacy of adjuvant atezolizumab in non-small cell lung cancer: results from the randomized phase III IMpower010 trial.
+
+1/BACKGROUND: Tumor samples from the phase III IMpower010 study were used to compare two programmed death-ligand 1 (PD-L1) immunohistochemistry assays (VENTANA SP263 and Dako 22C3) for identification of PD-L1 patient subgroups (negative, positive, low, and high expression) and their predictive value for 
+adjuvant atezolizumab compared with best supportive care (BSC) in resectable early-stage non-small cell lung cancer (NSCLC).
+
+2/METHODS: PD-L1 expression was assessed by the SP263 assay, which measured the percentage of tumor cells with any membranous PD-L1 staining, and the 22C3 assay, which scored the percentage of viable tumor cells showing partial or complete membranous PD-L1 staining.
+
+3/RESULTS: When examining the concordance at the PD-L1-positive threshold (SP263: tumor cell (TC)≥1%; 22C3: tumor proportion score (TPS)≥1%), the results were concordant between assays for 83% of the samples. Similarly, at the PD-L1-high cut-off (SP263: TC≥50%; 22C3: TPS≥50%), the results were concordant between 
+assays for 92% of samples. The disease-free survival benefit of atezolizumab over BSC was comparable between assays for PD-L1-positive (TC≥1% by SP263: HR, 0.58 (95% CI: 0.40 to 0.85) vs TPS≥1% by 22C3: HR, 0.65 (95% CI: 0.45 to 0.95)) and PD-L1-high (TC≥50% by SP263: HR, 0.27 (95% CI: 0.14 to 0.53) vs TPS≥50% by 22C3: HR, 0.31 (95% CI: 0.16 to 0.60)) subgroups.
+
+4/CONCLUSIONS: The SP263 and 22C3 assays showed high concordance and a comparable clinical predictive value of atezolizumab at validated PD-L1 thresholds, suggesting that both assays can identify patients with early-stage NSCLC most likely to experience benefit from adjuvant atezolizumab.

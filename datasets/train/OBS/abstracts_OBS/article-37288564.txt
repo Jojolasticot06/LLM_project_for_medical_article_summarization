@@ -1,0 +1,554 @@
+Introduction
+
+Patients with untreated significant left main coronary artery (LMCA) 
+disease have a poor prognosis and revascularization with coronary artery 
+bypass grafting (CABG) or percutaneous coronary intervention 
+(PCI) is indicated.https://creativecommons.org/licenses/by-nc/4.0/
+The 2018 ESC/EACTS Guidelines on myocardial 
+revascularization, which relies on evidence from randomized clinical 
+trials (RCTs) and meta-analyses, suggest equivalent results for the composite 
+of death, myocardial infarction (MI), and stroke up to 5 years of 
+follow-up when comparing CABG with PCI.https://creativecommons.org/licenses/by-nc/4.0/
+There is a significant and 
+beneficial interaction between time and PCI with regard to MI and peri- 
+interventional stroke, however this is offset by risk of spontaneous MI 
+and new revascularization during follow-up.https://creativecommons.org/licenses/by-nc/4.0/
+
+
+The recommendations for choosing mode of revascularization of unprotected 
+LMCA disease is based on coronary anatomical complexity 
+assessed by the Synergy between PCI with Taxus and Cardiac 
+Surgery (SYNTAX) score,https://creativecommons.org/licenses/by-nc/4.0/
+individual cardiac and extracardiac characteristics, 
+and patient preference. For patients with a low SYNTAX 
+
+
+score (=22), PCI and CABG have the same class and level of recommendation 
+(I A), but for patients with intermediate SYNTAX score 
+(23–32) the recommendation for CABG is I A and for PCI 
+IIa A. Only CABG is recommended (I A) for patients with very complex 
+coronary anatomy (SYNTAX score =33) and PCI is not recommended 
+(III B) for such patients.https://creativecommons.org/licenses/by-nc/4.0/
+
+
+The recommendations are, to a large extent, based on RCTs that 
+have been conducted in highly selected cohorts. Consequently, the 
+guidelines and the RCTs may not be fully applicable to the diversity 
+of real-life patients and circumstances associated with revascularization 
+of LMCA disease in clinical practice. Thus, we analysed the outcome of 
+all subjects with LMCA disease undergoing revascularization with PCI 
+or CABG in Sweden between 1 January 2005 and 31 December 2015.
+
+Methods
+
+Study population
+
+All patients undergoing coronary angiography, PCI and CABG in Sweden 
+are registered in the Swedish Web-system for Enhancement and 
+Development of Evidence-based care in Heart disease Evaluated 
+According to Recommended Therapies (SWEDEHEART) registry which includes 
+the Swedish Coronary Angiography and Angioplasty Registry and the 
+Swedish Cardiac Surgery Registry. All subjects that underwent coronary 
+angiography in 28 PCI centres in Sweden during the 11 years from 1 
+January 2005, to 31 December 2015 were screened. We included 11 137 
+patients who had undergone revascularization with either PCI or CABG 
+due to LMCA disease within 3 months after the index angiography. 
+Exclusion criteria were previous CABG (excluding protected LMCA disease), 
+ST-elevation MI and/or cardiogenic shock, subjects deemed and registered 
+not being eligible for CABG, patients with data error or age <18 
+years, no revascularization within 90 days after coronary angiography, 
+and PCI in left main with another device than first-, second-, or third- 
+generation drug-eluting stent (DES) (https://creativecommons.org/licenses/by-nc/4.0/
+). The study was reviewed 
+and approved by the local ethics committee in Stockholm, Sweden 
+(2015/1258–31).
+
+Outcomes
+
+All subjects were followed through the Swedish Population Register for 
+death, the Swedish National Patient Registry (NPR) for MI and stroke, 
+and the SWEDEHEART registry for MI and repeat revascularization after 
+the index angiography until the onset of outcome or until 31 December 
+2015. New revascularization was defined as new PCI or new CABG during 
+follow-up. Major adverse cardiovascular and cerebrovascular events 
+(MACCE) were defined as death, MI, stroke, or new revascularization 
+(whichever occurred first) within the follow-up period.
+
+Co-variates
+
+Variables associated with mortality available in the SWEDEHEART and the 
+NPR registers, as well as administrative region and year of treatment were 
+used for adjustments. Multivariable analysis included the year of treatment, 
+administrative region, body mass index, diabetes mellitus (diabetes mellitus 
+diagnosis known to the patient, independently of treatment), insulin treatment 
+(yes/no), estimated creatinine clearance, indication for revascularization 
+[non-ST-elevation MI (NSTEMI)/unstable angina, stable angina], 
+number of diseased coronary arteries (left main, left main + one-vessel, 
+left main + two-vessel, left main + three vessel disease), smoking status 
+(no, former smoker, current smoker), age at diagnosis, gender, previous 
+MI, previous PCI, chronic obstructive pulmonary disease (COPD), peripheral 
+artery disease, history of cancer, and dialysis. Hypertension was defined 
+as treatment with anti-hypertensive drug and hyperlipidaemia as treatment 
+with statins. COPD was defined as medication with bronchodilators or 
+steroids for lung disease. Administrative region was categorized 
+(Stockholm, Uppsala-Örebro, South-east, South, West, North). The risk 
+of surgery was assessed using the European System for Cardiac 
+Operative Risk Evaluation Score (EuroSCORE) IIhttps://creativecommons.org/licenses/by-nc/4.0/
+in CABG patients only. 
+
+
+Figure 1 Flowchart of patient selection. *Bare metal stent, bioresorbable vascular scaffold or self-expandable stent.
+Creatinine clearance was calculated using the Cockcroft and Gault 
+equation.https://creativecommons.org/licenses/by-nc/4.0/
+
+
+Statistics
+
+Baseline characteristics of patients in the PCI and CABG groups were described 
+as frequencies for categorical variables and the mean value with 
+standard deviations for continuous variables. The chi-square test and 
+t-test were applied separately to compare the distribution of characteristics 
+in the two groups at baseline. Due to an imbalance between the groups, we 
+applied the inverse probability weighting (IPW) method to create a 
+weighted population after which the distribution of characteristics was similar 
+in the two groups.https://creativecommons.org/licenses/by-nc/4.0/
+Propensity scores and standard mean differences 
+prior and following IPW adjustments are presented in http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+.
+
+A standard Cox regression model reporting hazard ratios (HRs) together 
+with Laplace regression to compare the median survival timehttp://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+was used as 
+the primary analysis to compare the PCI and CABG groups. The models 
+were built on weighted population to calculate HR with 95% confidence 
+interval (CI) and median of event free time between PCI and CABG patients 
+as two comparable groups.
+
+We performed instrumental variable (IV) analyseshttp://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+,http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+to adjust for unknown 
+confounders. For an IV analysis, one must identify a naturally varying 
+variable in the observed data which predicts the treatment that will be assigned 
+to the individual patient. The IV variable must fulfil the following criteria: 
+(i) it must be associated with the received treatment and (ii) it must 
+not be associated directly or indirectly with the outcome, except through 
+the effect of the treatment itself. We identified the variable administrative 
+region (Stockholm, Uppsala-Örebro, South-east, South, West, North) 
+to be associated with the received treatment, PCI or CABG 
+(see http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+). The variable administrative region 
+is not expected to be associated with the outcome, except through 
+the effect of the treatment itself. To test for the strength of the instrument 
+variable, we examined the partial F-test, which predicts treatment as a function 
+of the instrument and covariates. The partial F-test has the null hypothesis 
+that the coefficient for the effect of the instrument in the first-stage 
+regression model is zero.http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+An F-statistic >10 indicates that the instrument 
+is not weak. The F-value for the association of the IV, administrative region, 
+with treatment (PCI or CABG) was 153 and the IV was considered valid. 
+The IV might be imperfect, thus the following variables were entered in 
+the IV regression to also adjust for known confounders; age, gender, number 
+of diseased coronary arteries, hypertension, hyperlipidaemia, year of 
+treatment, body mass index, diabetes mellitus, insulin treatment, estimated 
+creatinine clearance, indication for revascularization, smoking status, previous 
+MI, previous PCI, COPD, peripheral artery disease, history of cancer, 
+and dialysis. All the analyses were performed using Stata MP 17.1. The significance 
+level of the statistic tests was set to 0.05.
+
+Results
+
+A total of 11 137 patients were included of which 9364 (84%) patients 
+had undergone CABG and 1773 (16%) PCI. The proportion of patients 
+treated with PCI increased from 7% in 2005 to 34% in 2015 (see http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+). There was a large regional variation 
+in the choice of revascularization method ranging from 8% PCI 
+in the South and West regions to 34% in the Uppsala-Örebro regions 
+(see http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+). Subjects undergoing PCI 
+were three years older than CABG patients. Hyperlipidaemia, previous 
+MI, previous PCI, reduced renal function and isolated left main stenosis 
+were more common in the PCI than in the CABG group (http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+). A 
+history of smoking, diabetes mellitus, peripheral artery disease and 
+LMCA disease combined with three vessel disease were more common 
+in the CABG group. Most of the patients were revascularized due to 
+NSTEMI and/or unstable angina, but chronic coronary syndrome 
+(CCS) was significantly more common in the CABG group (http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+).
+
+The CABG patients had a median EuroSCORE II risk of 4% (interquartile 
+range 3%–7%), and 73% of the patients had normal left ventricular 
+function. The left internal thoracic artery (ITA) was used in 
+more than 90% of the cases, whereas both ITA in 2% of the cases. 
+Three or more distal anastomoses were performed in 77% of the patients 
+(http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+).
+
+Two-hundred and eighty-five patients (16%) had first generation, 
+1324 (75%) had second generation and 164 (9%) patients had third- 
+generation DES in the LMCA (see http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+). One thousand five-hundred fifty-seven patients (88%) had 
+one stent in the left main, 207 patients (11.5%) had two stents, and 
+nine patients (0.5%) had three stents positioned in the left main.
+
+Outcome
+
+The median follow-up for the whole cohort was 4.7 years (interquartile 
+range 2.1–7.6). The crude incidence rates for death, MI, revascularization, 
+and MACCE were higher in the PCI group compared to the 
+CABG group (http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+). IPW-adjusted HR (aHR) comparing PCI with 
+CABG were significant for mortality (aHR 2.0, 95% CI 1.5–2.7), MI 
+(aHR 4.0, 95% CI 2.9–5.5), new revascularization (aHR 5.1, 95% CI 
+3.8–7.0), and MACCE (aHR 2.5, 95% CI 1.9–3.2). After adjustment 
+for unknown confounders in the IV analysis, the differences between 
+groups were still evident for mortality (IV-HR 1.5, 95% CI 1.1–2.0), 
+MI (IV-HR 6.1, 95% CI 1.4–26.3), new revascularization (IV-HR 14.0, 
+95% CI 5.8–33.6), and MACCE (IV-HR 2.8, 95% CI 1.8–4.5). There 
+were no significant differences in HRs for stroke before (crude HR 
+1.2, 95% CI 0.95–1.2) or after adjustments (aHR 1.2, 95% CI 0.77– 
+1.9 and IV-HR 5.1, 95% CI 0.72–35.8) (http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+).
+
+Crude and IPW-adjusted one-minus survival curves for mortality, MI 
+and stroke are presented in http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+. 
+Thirty-day event rates are presented in http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+.
+
+Of the 580 new revascularizations in the CABG group, 26 (4.5%) 
+were done by CABG and 128 (22.0%) included revascularizations of 
+one or more grafts. There were 235 new revascularizations in the 
+PCI group of which 41(17%) included left main revascularization and 
+18 (7.7%) were done by CABG.
+
+The incidence of hospitalizations for serious non-cardiac events 
+(Alzheimer/Parkinson, bleeding, infection, chronic pulmonary obstructive 
+disease, malignant tumor, peripheral artery disease, renal insufficiency, 
+any trauma) was higher in the PCI group than in the CABG 
+group (http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+).
+
+Outcome in subgroups
+
+IPW- aHRs for mortality (http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+) and MACCE (http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+) for PCI vs. 
+CABG are presented for (i) left main and left main plus one vessel 
+and left main plus two or three vessels, (ii) diabetes and no diabetes, 
+(iii) age >70 years and age =70 years, (iv) women and men, and (v) 
+for patients undergoing angiography at hospital with and without thoracic 
+surgery. There was a significant quantitative interaction for diabetes 
+status with a larger benefit for CABG vs. PCI in patients with diabetes 
+with regard to mortality compared to non-diabetic patients (http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+). 
+There was also an interaction for MACCE with regard to number of 
+diseased vessels showing a larger benefit for CABG vs. PCI in patients 
+with left main plus two or three vessels disease compared to left main 
+only or left main plus one vessel disease (http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+). Patients =70 years 
+
+
+Table 1 Baseline characteristics in 11 137 patients with left main coronary artery disease who had percutaneous 
+coronary intervention (PCI) or coronary artery bypass grafting (CABG) from January 1st 2005 to December 31st 2015
+PCI (n = 1773, 16%)CABG (n = 9364, 84%)P-valueAge (years), mean (SD)72.8 (10.7)69.6 (8.8)<0.001BMI (kg/m2), median (IQR)26.2 (24.0–28.9)26.6 (24.4–29.3)0.001Creatinine clearance (mL/min/1.73 m2), median (IQR)69.9 (52.1–92.3)79.2 (62.0–99.2)<0.001Female sex, n (%)500 (28.2)1963 (21.0)<0.001Smoking, n (%)<0.003Former639 (37.6)3649 (42.4)
+Present226 (13.3)1340 (15.6)
+Hypertension, n (%)1124 (64.3)5648 (63.8)0.70Hyperlipidaemia, n (%)922 (52.9)5403 (61.2)<0.001Diabetes, n (%)0.027Medical treated187 (10.6)1124 (12.6)
+Insulin treated151 (8.6)833 (9.4)
+Previous myocardial infarction, n (%)332 (19.1)1428 (16.3)0.004Previous PCI, n (%)133 (7.5)491 (5.2)<0.001COPD, n (%)91 (5.1)301 (3.2)<0.001Peripheral vascular disease, n (%)7 (0.4)62 (0.7)0.19History of cancer, n (%)147 (8.3)413 (4.4)<0.001Indication, n (%)<0.001CCS533 (30.1)3574 (38.2)
+NSTEMI/Unstable angina1240 (69.9)5790 (61.8)
+Dialysis, n (%)17 (1.0)65 (0.7)0.22Number of diseased vessels, n (%)<0.001Isolated left main stenosis183 (10.3)414 (4.4)
+Left main + one vessel500 (28.2)1043 (11.1)
+Left main + two vessel589 (33.2)2498 (26.7)
+Left main + three vessel501 (28.3)5409 (57.8)
+Number of stents, n (%)NA1565 (31.9)NA2538 (30.3)NA3300 (16.9)NA4205 (11.6)NA583 (4.7)NA=682 (4.6)NADistal anastomoses, n (%)NA1NA83 (1.0)
+2NA1439 (18.0)
+3NA3216 (40.3)
+4NA2219 (27.8)
+=5NA702 (8.8)
+UnknownNA315 (4.0)
+
+
+had a larger benefit, with regard to MACCE for CABG vs. PCI, than patients 
+>70 years (http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+).
+
+Left internal mammary artery, n (%)NA7201 (90.3)NARight internal mammary artery, n (%)NA207 (2.6)NABilateral internal mammary artery, n (%)NA194 (2.1)NABMI: body mass index; COPD: chronic obstructive pulmonary disease; CCS: chronic coronary syndrome; NSTEMI: non-ST-elevation myocardial infarction.
+
+To illustrate the difference in expected survival between CABG 
+and PCI, IPW-adjusted differences in median survival time for mortality 
+in the whole cohort and subgroups are presented in http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+. 
+There was a benefit in median survival time for CABG vs. PCI in 
+the whole cohort as well as in the subgroups. Furthermore, there 
+was a notable difference in IPW-adjusted median survival time of 
+3.6 years (95% CI 3.3–4.0) in favour of CABG compared to PCI in patients 
+with diabetes.
+
+Discussion
+
+The main finding in this observational non-randomized study of all- 
+comers with LMCA disease was that CABG was associated with lower 
+mortality and fewer cardiovascular or cerebrovascular events compared 
+to PCI before and after multivariable adjustment for known 
+and unknown confounders (http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+).
+
+There are several factors that make the comparison between 
+CABG and PCI challenging: (i) the unequal number of patients in 
+the groups; (ii) substantial differences in baseline characteristics; (iii) 
+unknown selection mechanisms for choice of the revascularization 
+method; and (iv) the PCI group, consisting of more frail patients, 
+had more hospitalisations due to non-cardiac events. Despite these 
+challenges, it is important to analyse revascularization mode in relation 
+to outcomes in observational registry studies to complement 
+RCTs. In RCTs, the external validity is restrained by the selection of 
+patients, omitting older, more frail patients with a large number of comorbidities 
+that are treated in the cardiology department in everyday 
+clinical practice.http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+
+
+Adjustments for baseline characteristics
+
+The treatment decision, CABG or PCI, for patients with left main coronary 
+stenosis is based on a patient’s pre-treatment characteristics and 
+personal preference.http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+,http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+,http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+If these are imbalanced and associated with 
+the study outcome, the assessment of the treatment effect from an 
+
+
+Figure 2 Outcome for PCI and CABG in left main coronary artery disease. The number of deaths, MI, stroke, revascularization, MACCE, and corresponding 
+incidence rates for CABG and PCI, and crude and adjusted hazard ratios for PCI compared to CABG. IPW = inverse probability weighting, 
+IV = instrumental variable.
+observational study suffers from bias caused by confounding by indication. 
+We have thus adjusted for known confounders with the IPW 
+method.http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+
+
+Adjustments for unknown confounders
+
+In our study, important confounders such as SYNTAX score, 
+EuroSCORE (in the PCI group), left ventricular ejection fraction (in 
+the PCI group), site of LMCA lesion (shaft vs. bifurcation), proportion 
+of calcified lesions or chronic total occlusions and heart team assessment 
+(yes vs. no) are missing. The selection of revascularization 
+mode is to a large extent associated with administrative region (see http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+). We used statistical modelling 
+based on the IV to reduce bias due to unmeasured confounders. To 
+use IV analysis, one must identify a naturally varying phenomenon in 
+the observed data, which, like randomization in an RCT, predicts the 
+
+
+Figure 3 Inverse probability weighting adjusted hazard ratios for mortality for PCI vs. CABG in subgroups.
+Figure 4 Inverse probability weighting adjusted hazard ratios for MACCE for PCI vs. CABG in subgroups.
+treatment assigned to the individual patient. A valid instrument must 
+fulfil some necessary criteria. First, the variable has to be strongly associated 
+(F-test >10) with the treatment received. Second, it must not be 
+directly or indirectly associated with the outcome except through the 
+effect of the treatment itself. The variable with these statistical qualities 
+is called an IV. We used the administrative region as the treatment- 
+preference instrument. The administrative region is frequently 
+employed as an instrument because this variable type usually fulfils 
+the theoretical criteria for a valid instrument.http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+,http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+Because administrative 
+region may be an imperfect instrument, the following variables 
+were entered into IV regression: age, gender, number of diseased coronary 
+arteries, hypertension, hyperlipidemia, year of treatment, body 
+mass index, diabetes mellitus, insulin treatment, estimated creatinine 
+clearance, indication for revascularization, smoking status, previous 
+MI, previous PCI, COPD, peripheral artery disease, history of cancer, 
+and dialysis.http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+,http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+
+
+Comparison to other studies on 
+revascularisation strategies for 
+LMCA disease
+
+The two large landmark trials, the Nordic-Baltic-British Left Main 
+Revascularization Study (NOBLE) and Evaluation of XIENCE 
+Everolimus Eluting Stent Versus Coronary Artery Bypass Surgery 
+for Effectiveness of Left Main Revascularization (EXCEL) trial, evaluating 
+PCI vs. CABG for LMCA disease have reported conflicting results.
+http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+The NOBLE trial reported that CABG was superior to 
+PCI in 1201 subjects up to 5 years of follow-up. The primary endpoint, 
+a combination of all-cause mortality, non-procedural MI, any repeat 
+coronary revascularization, and stroke, was more frequent in subjects 
+assigned to PCI.
+
+In the EXCEL trial, PCI and CABG showed comparable results with 
+regard to the primary endpoint, a composite of death, stroke, or MI at 3 
+and 5 years of follow-up. Of note, total mortality was significantly higher 
+in the PCI group than in the CABG group and CABG proved to be 
+beneficial over PCI when adding revascularization to outcome at 5 
+years.http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+The European Association for Cardio-Thoracic Surgery has 
+withdrawn its support from the current recommendation on treatment 
+of left main disease in the 2018 ESC/EACTS myocardial revascularization 
+guidelines. They state that there is a significant survival 
+advantage of CABG over PCI in the EXCEL trial and that the EXCEL 
+investigators adopted a new definition for MI leading to results appearing 
+to favour the PCI option.http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+
+
+Patients in our observational study differ from the patients included 
+in RCTs. The patients in our cohort were approximately 4 years older 
+compared to subjects in the NOBLE and EXCEL trials. CCS was the 
+predominant indication for index revascularization in the NOBLE and 
+EXCEL trials (82% and 53%, respectively) whereas the rate of CCS 
+was 30.9% in our cohort. In the NOBLE trial, complex lesions (chronic 
+total occlusions, non-left main bifurcation lesions requiring two stent 
+techniques or lesions with calcified or tortuous vessel morphology) 
+were excluded and there was a high proportion of isolated left main disease.
+http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+In the EXCEL trial, patients with high anatomical complexity of 
+coronary artery disease as defined by a SYNTAX score of =33, were 
+excluded. In our analysis, we have not excluded subjects based on 
+the complexity of the coronary artery disease. In fact, almost half of 
+the PCI patients had four or more stents. Furthermore, we have included 
+patients that were stented with first-, second- and third- 
+generation DES.
+
+In a meta-analysis of individual patient data from four clinical randomised 
+trials comparing 5-year outcomes for PCI with DES (n = 2197) 
+with CABG (n = 2197) for LMCA disease, there was no significant difference 
+in 5-year mortality between groups.http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+,http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+,http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+However, 
+
+
+Figure 5 Inverse probability weighting adjusted median survival for mortality for PCI vs. CABG in the whole cohort and subgroups. Thin bar at point 
+estimate = 95% confidence interval.
+complementary Bayesian analysis suggested a probable mortality difference 
+(more likely than not <0.2% per year) in favour of CABG.http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+This 
+low, yet probable, excess risk for death within five years with PCI compared 
+to CABG in patients eligible for RCTs could result in larger differences 
+between groups in our study of consecutive all-comers 
+including older, frailer patients with more comorbidities than patients 
+in RCTs.
+
+In a recent study from Canada, revascularization strategy in LMCA 
+disease has been compared using clinical and administrative databases 
+in Ontario.http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+Like our study, Tam et al. reported that CABG was the 
+preferred method for revascularization and propensity score matched 
+analysis showed that PCI was associated with higher mortality (HR 1.63 
+[95% CI 1.42–1.87]) and higher MACCE rates (HR 1.77 [95% CI 1.57– 
+2.00]). Additionally, differences in patient characteristics between the 
+PCI and CABG groups were similar to our study. Patients who underwent 
+PCI were older, more often women, more likely presented with 
+an acute coronary syndrome event, but had fewer diseased coronary 
+vessels.http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+
+
+Possible mechanisms for differences 
+in mortality
+
+Invasive treatment with PCI or CABG restores flow in obstructive lesions 
+in fundamentally different ways. With PCI, a DES is positioned 
+in flow-limiting lesions after balloon dilatation, leaving non-flow-limiting 
+lesions untreated. With CABG, a blood conduit (arterial or venous 
+graft) is sewn distal to the flow-limiting lesion, creating a collateral 
+flow. Through distal surgical collateralization, the graft prevents 
+non-flow-limiting lesions from causing MIs. Establishing distal collateral 
+blood flow is an important feature of CABG since new MIs frequently 
+develop in non-flow-limiting coronary segments.http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+,http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+Most deaths in 
+high-risk patients with proximal and extensive coronary artery disease 
+are caused by MIs.http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+RCTs in patients with left main and three-vessel 
+disease have shown that CABG decreased the occurrence of new 
+MIs more than PCI.http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+,http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+,http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+Our study showed that CABG was associated 
+with fewer MIs and supports evidence from RCTs, thus adding 
+weight to the hypothesis that surgical collateralization and a larger proportion 
+of complete revascularizationhttp://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+are possible mechanisms responsible 
+for the mortality benefit for CABG vs. PCI.
+
+Subgroup analyses
+
+There was a significant quantitative interaction for diabetes with a large 
+difference in aHR for mortality favouring CABG over PCI. The interaction 
+translates into a median survival benefit of 3.6 years for CABG 
+compared to PCI. In the EXCELhttp://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+and NOBLEhttp://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+trials, there were 
+no interactions for diabetes for the primary outcomes. However, we 
+know from the randomized Future Revascularization Evaluation in 
+Patients with Diabetes Mellitus: Optimal Management of Multivessel 
+Disease trialhttp://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+that patients with diabetes and multivessel disease (excluding 
+left main coronary stenosis) have a better outcome with 
+CABG in comparison with PCI, including death from any cause. Our 
+data reinforce diabetes as an important clinical factor when deciding 
+on revascularization mode in LMCA disease. Effect modification for 
+MACCE between concomitant coronary artery disease and type of revascularization 
+has shown higher benefit for CABG in patients with 
+more severe disease. This finding is line with the results from RCTs 
+showing less repeat revascularization for CABG.http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+,http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+This interaction 
+could be mediated by more complete revascularization achieved with 
+CABG.http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+There was also a quantitative interaction for age group with 
+a larger benefit in MACCE for CABG compared to PCI in patients 
+=70 years. The relatively larger procedural risks with CABG compared 
+to PCI might lessen the beneficial effects compared to PCI in older 
+patients.
+
+IPW-adjusted median survival time
+
+Since HRs are measurements of relative effects and not absolute treatment 
+effects, they may be difficult to communicate to patients and physicians 
+when discussing revascularization options for LMCA disease. In a 
+study of patients’ preferences, only 38% of the subjects with LMCA disease 
+or three-vessel disease consented to go through CABG, although 
+CABG was the recommended option over PCI (n = 763).http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad369#supplementary-data
+Thus, we 
+analysed the IPW-adjusted median survival time for PCI and CABG 
+for the whole cohort and subgroups. The median survival time might 
+be helpful when discussing revascularization modes with the patients. 
+The benefits of CABG with a longer median survival time must be scrutinized 
+against the disadvantages with open-heart surgery. Longer hospital 
+stays and recovery time, and higher risk of perioperative 
+complications can all be discussed between the patient and the heart 
+team. The differences in median survival time favour CABG in all subgroups 
+and there is a large difference in survival for CABG vs. PCI in diabetic 
+patients.
+
+Limitations
+
+The data in the SWEDEHEART registry are prospectively collected and 
+the analysis is a post hoc non-randomized comparison of patients undergoing 
+PCI or CABG for LMCA disease. The data are observational, and 
+we have tried to adjust for known imbalances in patient characteristics 
+with IPW adjustment. We do not have data in all patients about the 
+SYNTAX score, EuroSCORE, LVEF, site of LMCA lesion, heart team 
+assessment, or completeness of revascularization. However, IV adjustment 
+allows estimation of treatment effects in the presence of unmeasured 
+confounding. A disadvantage with the IV analyses is a somewhat 
+higher statistical uncertainty than with IPW adjustments, which manifests 
+itself in larger CIs with less precise estimates and enhanced probability 
+of type 2 error. Although IV adjustment models are designed to 
+adjust for unknown confounders, residual confounding cannot be ruled 
+out. The cohort of studied patients were entered into the registry between 
+January 1st 2005 and December 31st 2015 and the selection of 
+revascularization mode for patients with LMCA disease might differ in 
+our study from today’s clinical practice.
+
+Conclusion
+
+In this non-randomized study, CABG in patients with LMCA disease 
+was associated with lower mortality and fewer MACCE compared to 
+PCI after multivariable adjustment for known and unknown 
+confounders.

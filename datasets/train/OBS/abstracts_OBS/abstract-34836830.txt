@@ -1,0 +1,27 @@
+OBJECTIVE: Invasively ventilated patients with acute respiratory failure related 
+to coronavirus disease 2019 (COVID-19) potentially benefit from tracheostomy. 
+The aim of this study was to determine the practice of tracheostomy during the 
+first wave of the pandemic in 2020 in the Netherlands, to ascertain whether 
+timing of tracheostomy had an association with outcome, and to identify factors 
+that had an association with timing.
+METHODS: Secondary analysis of the 'PRactice of VENTilation in COVID-19' 
+(PRoVENT-COVID) study, a multicenter observational study, conducted from March 
+1, 2020 through June 1, 2020 in 22 Dutch intensive care units (ICU) in the 
+Netherlands. The primary endpoint was the proportion of patients receiving 
+tracheostomy; secondary endpoints were timing of tracheostomy, duration of 
+ventilation, length of stay in ICU and hospital, mortality, and factors 
+associated with timing.
+RESULTS: Of 1023 patients, 189 patients (18.5%) received a tracheostomy at 
+median 21 [17 to 28] days from start of ventilation. Timing was similar before 
+and after online publication of an amendment to the Dutch national guidelines on 
+tracheostomy focusing on COVID-19 patients (21 [17-28] vs. 21 [17-26] days). 
+Tracheostomy performed ≤ 21 days was independently associated with shorter 
+duration of ventilation (median 26 [21 to 32] vs. 40 [34 to 47] days) and higher 
+mortality in ICU (22.1% vs. 10.2%), hospital (26.1% vs. 11.9%) and at day 90 
+(27.6% vs. 14.6%). There were no patient demographics or ventilation 
+characteristics that had an association with timing of tracheostomy.
+CONCLUSIONS: Tracheostomy was performed late in COVID-19 patients during the 
+first wave of the pandemic in the Netherlands and timing of tracheostomy 
+possibly had an association with outcome. However, prospective studies are 
+needed to further explore these associations. It remains unknown which factors 
+influenced timing of tracheostomy in COVID-19 patients.

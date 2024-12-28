@@ -1,0 +1,13 @@
+Comparison of Noninvasive Mechanical Ventilation With High-Flow Nasal Cannula, Face-Mask, and Helmet in Hypoxemic Respiratory Failure in Patients With COVID-19: A Randomized Controlled Trial
+
+1/Objectives: For COVID-19-related respiratory failure, noninvasive respiratory assistance via a high-flow nasal cannula (HFNC), helmet, and face-mask noninvasive ventilation is used. However, which of these options is most effective is yet to be determined. This study aimed to compare the three techniques of noninvasive respiratory support and to determine the superior technique.
+
+2/Design: A randomized control trial with permuted block randomization of nine cases per block for each parallel, open-labeled arm.
+
+Setting and patients: Adult patients with COVID-19 with a Pa o2 /F io2 ratio of less than 300, admitted between February 4, 2021, and August 9, 2021, to three tertiary centers in Oman, were studied.
+
+Interventions: This study included three interventions: HFNC ( n = 47), helmet continuous positive airway pressure (CPAP; n = 52), and face-mask CPAP ( n = 52).
+
+3/Measurements and main results: The endotracheal intubation rate and mortality at 28 and 90 days were measured as the primary and secondary outcomes, respectively. Of the 159 randomized patients, 151 were analyzed. The median age was 52 years, and 74% were men. The endotracheal intubation rates were 44%, 45%, and 46% ( p = 0.99), and the median intubation times were 7.0, 5.5, and 4.5 days ( p = 0.11) in the HFNC, face-mask CPAP, and helmet CPAP, respectively. In comparison to face-mask CPAP, the relative risk of intubation was 0.97 (95% CI, 0.63-1.49) for HFNC and 1.0 (95% CI 0.66-1.51) for helmet CPAP. The mortality rates were 23%, 32%, and 38% at 28 days ( p = 0.24) and 43%, 38%, and 40% ( p = 0.89) at 90 days for HFNC, face-mask CPAP, and helmet CPAP, respectively. The trial was stopped prematurely because of a decline in cases.
+
+4/Conclusions: This exploratory trial found no difference in intubation rate and mortality among the three intervention groups for the COVID-19 patients with hypoxemic respiratory failure; however, more evidence is needed to confirm these findings as the trial was aborted prematurely.

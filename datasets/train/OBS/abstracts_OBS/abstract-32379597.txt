@@ -1,0 +1,23 @@
+INTRODUCTION: Expert opinion suggests that efforts to address childhood obesity 
+should seek to transform the environments in which children operate. The 
+objective of this study was to describe the extent to which multisetting 
+programs and policies interact with community and child predictors and are 
+associated with child body mass index (BMI) in the 130 US communities 
+participating in the Healthy Communities Study.
+METHODS: For 2 years beginning in fall 2013, we collected data through key 
+informant interviews on community programs and policies related to healthy 
+weight among children that occurred in the 10 years before the interview. We 
+characterized community programs and policies by intensity of efforts and the 
+number of settings in which a program or policy was implemented. Child height 
+and weight were measured during household data collection. We used multilevel 
+modeling to examine associations of community programs and policies in multiple 
+settings and child and community predictors with BMI z scores of children.
+RESULTS: The mean number of settings in which community policies and programs 
+were implemented was 7.3 per community. Of 130 communities, 31 (23.8%) 
+implemented community programs and policies in multiple settings. 
+Higher-intensity community programs and policies were associated with lower BMI 
+in communities that used multiple settings but not in communities that 
+implemented programs and policies in few settings.
+CONCLUSION: Efforts to prevent childhood obesity may be more effective when 
+community programs and policies are both intensive and are implemented in 
+multiple settings in which children live, learn, and play.

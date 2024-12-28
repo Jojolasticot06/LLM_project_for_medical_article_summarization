@@ -1,0 +1,639 @@
+Sepsis is defined as life-threatening organ dysfunction caused by dysregulated host response to infection (1). Despite the progress made in medical management over the past few decades, sepsis remains an important global health problem causing millions of deaths around the world (2,3). One essential facet of sepsis management is the administration of appropriate antimicrobials. Multiple lines of evidence have shown that failure or delay in the administration of appropriate antimicrobials is associated with substantial increases in the mortality of sepsis (4–9). On the basis of the evidence, the Surviving Sepsis Campaign guidelines recommended empiric broad-spectrum therapy to cover all likely pathogens as soon as possible after sepsis is recognized (10,11).
+Broad-spectrum beta-lactam antibiotics are commonly 
+used as empiric therapy for sepsis (12). Among 
+them, carbapenems offer an exceptionally broad spectrum 
+of antimicrobial activity. The existing evidence 
+suggests that carbapenems are associated with relatively 
+low mortality in several infectious diseases, especially 
+those caused by extended-spectrum beta-lactamase 
+(ESBL)-producing pathogens (13, 14). For these reasons, 
+carbapenems are the preferably used antibiotics 
+for the initial treatment of sepsis, and consumption 
+of carbapenem has been reported to be increasing in 
+different parts of the world (15–17). However, indiscriminate 
+use of carbapenems against sepsis should be 
+avoided because it has contributed to the emergence 
+of multidrug-resistant pathogens (18, 19). Therefore, 
+updating knowledge on the efficacy of alternative empiric 
+regimens for sepsis is required. 
+
+The fourth-generation cephalosporins, such as 
+cefepime and cefpirome, and piperacillin/tazobactam 
+
+are nearly equal to carbapenems in antimicrobial activity 
+and thus are considered alternative therapies 
+against sepsis. Previous studies have evaluated the 
+efficacy of carbapenems compared with these antibiotics 
+against several specific pathogens, such as 
+Acinetobacter species and ESBL-producing Escherichia 
+coli (20–23). However, there is little evidence of the 
+efficacy of carbapenems against unidentified mixed 
+pathogens. Causative pathogens are not usually identified 
+at the time of initiating antibiotics in sepsis 
+because of the strong recommendation to initiate immediate 
+treatment, ideally within 1 hour after sepsis 
+is first suspected (11). Thus, there is a significant need 
+to comprehensively evaluate differences in mortality 
+and morbidities between carbapenems versus noncarbapenem 
+broad-spectrum antibiotics as initial treatment 
+of sepsis, including various underlying infectious 
+diseases and causative pathogens. This study aimed to 
+evaluate mortality and morbidities in patients with 
+community-acquired sepsis treated with carbapenems 
+as initial antibiotic therapy compared with those 
+treated with noncarbapenem antibiotics. 
+
+MATERIALS AND METHODS 
+
+Design and Setting 
+
+This retrospective observational study used a part of 
+large-scale database covering approximately 23% of 
+acute-care hospitals in Japan that contained about 
+30 million patients as of October 2019 (provided 
+by Medical Data Vision (MDV) Co., Tokyo, Japan; 
+https://en.mdv.co.jp/about-mdv-database/) (24). The 
+database consists of Japanese administrative claims 
+data and includes data on age, sex, primary diagnoses, 
+concomitant diagnoses, complication diagnoses, 
+procedures, drug administrations, discharge status, 
+and laboratory tests. The diagnoses are recorded in 
+this database using the International Classification of 
+Diseases, Tenth Revision (ICD-10) codes. From the 
+original MDV database, we extracted the clinical data 
+of 534,739 patients who required unplanned admissions 
+to 42 hospitals that recorded the laboratory data 
+from February 2006 to December 2019. 
+
+This study followed the principles of the Declaration 
+of Helsinki and the Strengthening the Reporting of 
+Observational Studies in Epidemiology guideline. 
+The study protocol was approved by the Institutional 
+Review Board for Clinical Research of Osaka General 
+
+Medical Center (IRB No. S201916015, Study title: 
+Evaluation of clinical issues in emergency and intensive 
+care medicine using medical big data, approved on 
+July 7, 2020). The board waived the requirement for 
+informed consent because of the anonymous nature of 
+the data. 
+
+Participants 
+
+Patients were eligible for this study if they met all of 
+the following criteria: 1) required unplanned hospital 
+admission, 2) were not transferred from other hospitals, 
+3) were older than 18 years at the time of admission, 
+4) were diagnosed as having sepsis, and 5) 
+received IV broad-spectrum beta-lactam antibiotics as 
+initial antibiotic therapy within 24 hours from hospital 
+admission. 
+
+Sepsis was defined as having a proven/suspected 
+infection and the development of organ dysfunction. 
+In this study, the original ICD-9 codes for infection 
+and organ dysfunction by Angus et al (25, 26) were 
+adapted to corresponding ICD-10 codes by previously 
+published methods. The sensitivity and specificity of 
+ICD-10 codes to detect sepsis were reported to be 35% 
+and 98%, respectively (27). An infection was defined 
+as having any of the infection-related ICD-10 codes in 
+the primary diagnosis, and organ dysfunction was defined 
+as having any of the organ-dysfunction-related 
+ICD-10 codes in the primary, concomitant, or complication 
+diagnoses (Supplementary Table S1, http:// 
+links.lww.com/CCM/H346). Broad-spectrum betalactam 
+antibiotics in this study included carbapenems, 
+fourth-generation cephalosporins, and tazobactam/ 
+piperacillin. 
+
+Exclusion criteria included patients who died within 
+24 hours after admission and concomitantly received 
+carbapenems and other broad-spectrum beta-lactams. 
+We also excluded data from the second and subsequent 
+hospitalizations of patients who were hospitalized 
+multiple times during the study period and used 
+only the data from the first hospitalization. 
+
+We divided the study patients into two following 
+groups: patients who received carbapenems as initial 
+treatment (carbapenem group) and patients who received 
+the noncarbapenem broad-spectrum agents (i.e., 
+fourth-generation cephalosporins or tazobactam/piperacillin) 
+as initial treatment (noncarbapenem group). To 
+evaluate the effect of antibiotics as “initial treatment of 
+sepsis,” patients whose antibiotics were switched from 
+
+noncarbapenem beta-lactams to carbapenems were categorized 
+into the noncarbapenem group, and patients 
+whose antibiotics were switched from carbapenems to 
+noncarbapenem beta-lactams were categorized into the 
+carbapenem group. As in previous studies, we defined 
+the “escalation” and “de-escalation” of antibiotics based 
+on ranking according to the activity spectrum against 
+Gram-negative bacteria (28, 29). Namely, switching 
+from noncarbapenems to carbapenems was regarded as 
+escalation, and switching from carbapenems to noncarbapenems 
+was regarded as de-escalation. 
+
+Data Collection 
+
+We collected the following data: age, sex, height, 
+weight, Charlson Comorbidity Index (CCI) (30), site 
+of infection, use of catecholamines, use of mechanical 
+ventilation, and laboratory tests. We used predefined 
+ICD-10 coding algorithms for evaluating CCI (31). 
+The renal, hepatic, and coagulation subscores of the 
+Sequential Organ Failure Assessment (SOFA) were 
+calculated based on creatinine levels, total bilirubin 
+levels, and platelet counts. 
+
+Outcomes 
+
+The primary outcome was all-cause in-hospital mortality. 
+The following secondary outcomes were: 1) occurrence 
+rate of acute kidney injury (AKI), 2) occurrence rate of 
+enterocolitis due to Clostridium difficile, 3) prevalence 
+of methicillin-resistant Staphylococcus aureus (MRSA) 
+infection or methicillin-resistant coagulase-negative 
+Staphylococci (MRCNS) infection, 4) prevalence of multidrug-
+resistant pathogens infection, 5) rate of patients 
+who received antibiotics for more than of multidrugresistant 
+pathogens infection, 5) rate of patients who received 
+antibiotics for more than 7 days, 6) rate of patients 
+who received antibiotics for more than 14 days, 7) rate 
+of patients who received broad-spectrum antibiotics for 
+more than 7 days, and 8) rate of patients who received 
+broad-spectrum antibiotics for more than 14 days. 
+
+AKI was diagnosed based on serum creatinine levels 
+from the Kidney Disease Improving Global Outcomes 
+(KDIGO) criteria, when serum creatinine increases by 
+
+0.3 mg/dL or more in 48 hours or rises to at least 1.5 times 
+from baseline within 7 days, in patients without chronic 
+kidney diseases requiring chronic maintenance dialysis 
+(32). Enterocolitis caused by C. difficile was diagnosed 
+when patients received ICD-10 code A04.7 and were 
+
+administered oral vancomycin or metronidazole from 
+7 days after admission. The sensitivity and specificity of 
+ICD-10 codes for C. difficile infection were reported to 
+be 35.6% and 99.9%, respectively (33). Similarly, MRSA 
+and MRCNS infections were diagnosed when patients 
+received the ICD-10 codes A04.8, A41.0, A41.1, A49.0, 
+A49.0, G00.3, I33.0, J15.2, J15.2, J85.2, J86.9, K65.0, 
+M00.01, M00.02, M00.05, M00.06, M00.09, M86.99, 
+N30.8, T81.4, or Z22.8, and they were administered IV 
+anti-MRSA agents, including arbekacin, daptomycin, 
+linezolid, teicoplanin, and vancomycin from 7 days after 
+admission. In this study, multidrug-resistant pathogens 
+included multidrug-resistant Pseudomonas species and 
+multidrug-resistant Acinetobacter species, which were 
+diagnosed in accordance with ICD-10 codes A49.8, 
+A49.1, and A49.9 and the diagnosis name determined 
+from 7 days after admission. Broad-spectrum antibiotics 
+included carbapenems, fourth-generation cephalosporins, 
+tazobactam/piperacillin, and third- and 
+fourth-generation quinolones. 
+
+Statistical Analysis 
+
+Due to the retrospective nature of this study, imbalances 
+in the covariates at baseline between the groups 
+were assumed to be present. To account for this imbalance, 
+we used a propensity score method for inverse 
+probability treatment weighting (IPTW). The 
+propensity score was determined using logistic regression 
+with the 23 variables assumed to be associated 
+with carbapenem use as covariates (Supplementary 
+Table S2, http://links.lww.com/CCM/H346). The 
+C-statistic was calculated to evaluate the goodness of 
+fit. Additionally, the distribution of propensity scores 
+in each group was graphically compared to assess the 
+overlap assumption. 
+
+Descriptive statistics were calculated as group 
+means with sds for continuous variables and as frequencies 
+with percentages for categorical variables. 
+Standardized mean difference (SMD) was used to examine 
+the balance of patient characteristics between 
+the two groups before and after IPTW adjustment, 
+where greater than 0.1 was considered imbalance. 
+
+An IPTW-adjusted logistic regression model was 
+leveraged to assess the association between treatment 
+and mortality. In the sensitivity analysis, we applied 
+two more logistic regression models: a doubly robust 
+augmented IPTW-adjusted logistic model (34–37), 
+
+and a multivariate logistic model adjusted by the 
+23 covariates used to calculate the propensity score. 
+Furthermore, we evaluated the differences in survival 
+benefit between 1) carbapenems and tazobactam/ 
+piperacillin, 2) carbapenems and fourth-generation 
+cephalosporins, 3) meropenem and tazobactam/piperacillin, 
+and 4) meropenem and fourth-generation 
+cephalosporins separately. We also fitted logistic regression 
+models adjusted by IPTW method to evaluate 
+the survival benefit of carbapenem therapy in several 
+subsets, including; 1) older (= 70 yr) versus younger 
+(< 70 yr) patients, 2) serum C-reactive protein (CRP) 
+level of greater than or equal to 15.0 mg/dL versus less 
+than 15.0 mg/dL, 3) CCI of greater than or equal to 5 
+versus less than or equal to 4, 4) septic shock versus 
+nonshock, 5) general wards versus ICUs, 6) with mechanical 
+ventilation versus without mechanical ventilation, 
+7) anatomical sites of infection, 8) admission 
+during the first half versus the second half of the study 
+period, 9) without switching of antibiotics (i.e., from 
+carbapenems to noncarbapenems or from noncarbapenems 
+to carbapenems) within 3 days, 10) without 
+switching of antibiotics within 7 days, and 11) without 
+switching of antibiotics within 14 days after initiation 
+of antibiotic therapies in the patients. 
+
+In this study, septic shock was diagnosed when 
+patients were administered IV catecholamine on the 
+day of hospital admission. The categories of subgroups 
+were determined before extracting the study data, but 
+the cutoff points were determined after extracting the 
+data to allow well-balanced stratifications. To evaluate 
+the effect modification of these factors on the survival 
+effect associated with carbapenems, we included crossproduct 
+terms between these factors and carbapenem 
+therapy as covariates of the regression analyses. In the 
+subsets based on the site of infection, effect modifications 
+were evaluated in relation to patients with respiratory 
+infection as a reference subset. For sensitivity 
+analysis in the subgroup analyses, we also estimated 
+the survival association of carbapenem in the subsets 
+by multivariable logistic regression models adjusted 
+by the covariates. The impact of carbapenem therapy 
+on the secondary outcomes was estimated by logistic 
+regression analyses adjusted by IPTW. Missing values 
+were not imputed in the regression models. 
+
+All statistical inferences were two-sided, and a p value 
+of less than 0.05 indicated statistical significance. Because 
+of the underpowered nature of the interaction analysis, 
+
+we used a significance level of 0.20 with statistical inferences 
+for the effect modifications. All statistical analyses 
+were conducted using Stata Data Analysis and Statistical 
+Software version 17.0 (StataCorp, College Station, TX). 
+
+RESULTS 
+
+Study Population 
+
+Among 534,739 patients in the study registry, 122,843 
+were adults, were admitted from outside the hospitals, 
+and were diagnosed as having infectious diseases. 
+Among them, 36,785 patients were diagnosed as having 
+sepsis at the time of hospital admission, and we included 
+7,907 patients who received broad-spectrum 
+beta-lactam antibiotics within 24 hours from admission. 
+After excluding 515 patients who met the exclusion criteria, 
+we included 7,392 patients in the final study cohort. 
+The carbapenem group comprised 3,547 patients, 
+and the noncarbapenem group comprised 3,845 patients 
+(Fig. 1). Supplementary Figure S1 (http://links.lww. 
+
+initiation of antibiotic therapies, 3.7% (130 of 3,547 
+patients) in the carbapenem group had been switched 
+to noncarbapenem beta-lactams, and 7.1% (272 of 
+3,845 patients) in the noncarbapenem group had 
+been switched to carbapenems. 
+
+Supplementary Table S5 (http://links.lww.com/ 
+CCM/H346) shows the baseline characteristics of the 
+two groups before and after IPTW adjustment. Patients 
+in the carbapenem group were slightly younger (mean, 
+
+73.8 vs 72.5 yr old, SMD = 1.1414). There were no 
+significant differences in sex ratio (males, 61.6% vs 
+females, 59.6%; SMD = 0.0417). The rates of septic 
+shock, mechanical ventilation use, ICU admission, and 
+renal replacement therapy were significantly higher in 
+the carbapenem group. Similarly, renal, coagulation, 
+and hepatic SOFA subscores were all significantly 
+higher in the carbapenem group. After IPTW adjustment, 
+the SMDs of all parameters between the two 
+groups were less than 0.1, indicating that patient baseline 
+characteristics, use of antifungals, and use of concomitant 
+antibiotics, including anti-MRSA agents and 
+com/CCM/H346) shows 
+the distributions of propensity 
+scores in the two 
+groups. The C-statistic 
+for the fit of the propensity 
+scores was 0.677. 
+The frequency of administration 
+of each antibiotic 
+agent is summarized 
+in Supplementary 
+Table S3 (http://links. 
+lww.com/CCM/H346). 
+Meropenem and tazobactam/
+piperacillin were the 
+most commonly used in 
+each group (76.8% and 
+82.1%, respectively). 
+
+Numbers and cumulative 
+numbers of antibiotics-
+switched patients 
+on each day from the 
+initiation of primary 
+antibiotics are shown 
+in Supplementary 
+Table S4 (http://links. 
+lww.com/CCM/H346). 
+Within 14 days after the 
+
+Figure 1. Patient flow diagram. ICD-10 = International Classification of Diseases Tenth Revision, 
+ICD-9 = International Classification of Diseases, Nineth Revision. 
+
+quinolones, were well balanced between the groups 
+after IPTW adjustment. As there were no missing data 
+in the ICD-10 code and receipt data in the study database, 
+data on the preexisting comorbidities, site of 
+infection, and concomitant therapies were not missing. 
+We show the rates of missing data for the demographic 
+and laboratory data in Supplementary Table 
+S6 (http://links.lww.com/CCM/H346). 
+
+Effect of Carbapenem Therapy on Survival 
+
+The survival odds ratios (ORs) associated with carbapenem 
+therapy adjusted by the three logistic regression 
+models are shown in Figure 2. There were no 
+
+significant differences between the groups in all three 
+models. Similarly, there were no significant differences 
+in mortality between carbapenems and tazobactam/ 
+piperacillin, between carbapenems and fourth-generation 
+cephalosporins, between meropenem and tazobactam/
+piperacillin, and between meropenem and 
+fourth-generation cephalosporins (Supplementary 
+Fig. S2, http://links.lww.com/CCM/H346). 
+
+A summary of survival benefits associated with carbapenems 
+in the subgroups is shown in Figure 3. There 
+were significant multiplicative effect modifications between 
+septic shock and nonshock patients (p < 0.001), 
+between patients admitted in general wards and ICUs 
+(p = 0.014), and between patients with and without 
+
+Figure 2. Differences in in-hospital mortality between the carbapenem and noncarbapenem groups as evaluated by three logistic 
+regression models. AIPTW = augmented inverse probability treatment weighting, IPTW = inverse probability treatment weighting, 
+OR = odds ratio. 
+
+
+Figure 3. Differences in in-hospital mortality between the carbapenem and noncarbapenem groups in several subsets according to 
+patient characteristics. CRP = C-reactive protein, CCI = Charlson Comorbidity Index, OR = odds ratio.
+
+mechanical ventilation (p = 0.105). Significant associations 
+between carbapenem therapy and lower mortality 
+were observed in the subsets of septic shock (OR 
+0.49; 95% CI, 0.34–0.71), ICU admission (OR 0.57; 
+95% CI, 0.38–0.85), and mechanical ventilation (OR 
+0.65; 95% CI, 0.43–0.99), whereas risks of death were 
+similar between the groups in the nonshock, general 
+wards, and nonmechanical ventilation subsets. In contrast, 
+there were no significant effect modifications by 
+age, CRP, CCI, and admission date. We show the results 
+of sensitivity analyses evaluating survival benefits associated 
+with carbapenem therapy in the subgroups 
+using logistic regression analyses adjusted by covariates 
+in Supplementary Figure S3 (http://links.lww. 
+com/CCM/H346). Survival benefits associated with 
+carbapenem therapy in the subgroups were similar to 
+those in the IPTW analyses. Similarly, there were no 
+significant differences in survival associated with carbapenem 
+therapy in the three subsets excluding those 
+patients in whom antibiotics were switched. 
+
+Association Between Carbapenem Therapy and 
+Secondary Outcomes 
+
+The secondary outcomes are summarized in Figure 4. 
+The adjusted risk of MRSA/MRCNS infection was significantly 
+higher in the carbapenem group (adjusted 
+OR 1.45; p = 0.011). The adjusted risks of AKI, enterocolitis 
+due to C. difficile, and MRSA/MRCNS infection 
+were not different between the groups. The rates of 
+patients who received antibiotics for more than 7 days 
+and 14 days were significantly higher in the carbapenem 
+groups (adjusted OR 1.19; p = 0.001 and adjusted 
+OR 1.25; p = 0.001, respectively). Similarly, the rates of 
+patients who received broad-spectrum antibiotics for 
+more than 7 days and 14 days were significantly higher 
+in the carbapenem groups (adjusted OR 1.17; p = 0.002 
+and adjusted OR 1.24; p = 0.007, respectively). 
+
+DISCUSSION 
+
+Rapid administration of appropriate antimicrobials is 
+essential for reducing mortality in sepsis (6). As causative 
+pathogens are not usually confirmed when initiating 
+antibiotics, updated knowledge is strongly required 
+on the efficacy associated with the initial empiric use 
+of broad-spectrum antibiotics. This nationwide multicenter 
+study compared carbapenems with other 
+broad-spectrum beta-lactams as initial therapy and 
+
+revealed the following: 1) initial use of carbapenems 
+was not associated with significantly lower mortality 
+overall in patients with sepsis, 2) a survival benefit associated 
+with carbapenem was observed in patients 
+with septic shock, in ICUs, or with mechanical ventilation, 
+and 3) carbapenem therapy was associated with 
+a significantly higher risk of MRSA/MRCNS infection 
+and longer use of antibiotics. 
+
+Differences Between Carbapenem and 
+Noncarbapenems 
+
+The fourth-generation cephalosporins and piperacillin/
+tazobactam exhibit broad spectrums of antibacterial 
+activity against most aerobic bacteria (21, 
+38). However, several concerns might limit the clinical 
+effectiveness of these agents compared with carbapenems. 
+First, carbapenems possess an even wider 
+antibacterial spectrum compared with the noncarbapenem 
+broad-spectrum agents. For example, in 
+common with other cephalosporins, fourth-generation 
+cephalosporins have limited inhibitory activity 
+against nonfermentative bacteria and minimal activity 
+against Enterococci and anaerobic bacteria (39). 
+
+Second, the efficacy of the noncarbapenem agents 
+is considered to be inferior to carbapenems against 
+several drug-resistant pathogens such as AmpC 
+beta-lactamase-producing and ESBL-producing 
+Enterobacteriaceae. Especially, ESBL-producing 
+Enterobacteriaceae is one of the main targets for antibiotic 
+treatment because of the global increase in 
+its community prevalence (40). Although noncarbapenem 
+beta-lactams are frequently active in vitro 
+against ESBL, several previous studies suggested that 
+these agents were associated with suboptimal clinical 
+outcomes to carbapenems for the treatment of ESBL 
+infections (41–43). However, approximately 12% of 
+
+E. coli and 6% of Klebsiella pneumoniae were reported 
+to produce ESBL in Japan, which might not be high 
+enough to cause the differences in survival benefit between 
+carbapenem and the other beta lactams (44). 
+Actually, carbapenems were not associated with significantly 
+lower mortality overall in the patients in 
+this study. However, mechanical ventilation and septic 
+shock were reported to be associated with a higher 
+prevalence of ESBL-producing pathogens (45), which 
+might explain the difference in survival benefits associated 
+with carbapenem therapy observed in several of 
+the subsets. 
+
+In this context, carbapenem therapy is considered to Optimal Target for Carbapenem Therapy 
+be a safer choice especially when causative pathogens are 
+not confirmed. Furthermore, our finding of an association Although carbapenems have potentially higher efficacy as 
+between carbapenems and lower mortality in the subset initial therapies in sepsis, their indiscriminate use should 
+of septic shock is consistent with that in a previous study, be avoided because the extremely higher selective preswhich 
+reported that the association between early admin-sure would increase the risk of drug resistance (18, 19, 
+istration of antibiotics and mortality was stronger among 47). Actually, carbapenem use has been globally reported 
+patients with rather than without septic shock (46). to be associated with a significant increase in the risk 
+
+of carbapenem-resistant Enterobacteriaceae (48). The 
+global spread of drug-resistant pathogens associated with 
+the liberal use of broad-spectrum antibiotics has become 
+a serious public health problem (49). Approximately 
+4%–14% of Pseudomonas aeruginosa infections in the 
+United States and 2.1%–4.1% in Italy were reported to be 
+caused by multidrug-resistant strains (50). In nationwide 
+multicenter surveillance conducted in Japan, the prevalence 
+of multidrug-resistant P. aeruginosa was reported to 
+be 2.4%, which was comparable to that in other countries 
+(51). Some investigators warn that effective antibiotics 
+may not be available in the near future because the pipeline 
+of new antibiotics is drying up despite the increasing 
+prevalence of resistant bacteria (52). 
+
+This study also showed that the use of carbapenems as 
+initial therapy was associated with a significant increase 
+in the rate of the prolonged use of antibiotics. Although 
+patient backgrounds would influence the length of antibiotic 
+therapy, a treatment duration of 7–10 days is generally 
+adequate for sepsis. For example, recent guidelines 
+for pneumonia recommend a 7-day course of antibiotic 
+therapy (53). In the present study, 2190 of 3394 patients 
+(64.5%) in the carbapenem group received antibiotic 
+therapy for more than 7 days, and 725 of 3319 patients 
+(21.8%) received antibiotic therapy for even more than 
+14 days, which were significantly higher compared with 
+the durations in the noncarbapenem group. Although 
+there is no clear explanation as to why carbapenems 
+were associated with the longer duration of antibiotic 
+therapy, such administration might cause a further increase 
+in the risk of drug-resistant pathogens. 
+
+Therefore, the decision to use carbapenems should 
+be carefully considered after selecting the optimal targets 
+that could receive the maximum benefit from such 
+therapy. The present study also showed multiplicative 
+effect modifications of carbapenem therapy on mortality 
+according to the presence of shock and the requirement 
+for mechanical ventilation, suggesting that 
+higher severity might be a key component in selecting 
+those patients expected to receive the maximum 
+survival benefit associated with initial carbapenem 
+therapy. Further prospective controlled studies are 
+needed to confirm or refute these findings. 
+
+Strengths of This Study 
+
+This study has several strengths. First, there is little 
+evidence so far of the efficacy of carbapenems as an 
+
+initial choice of antibiotic therapy against an overall 
+sepsis population that includes various sites of infection 
+and pathogens. Therefore, this study provides 
+a novel insight into empiric antibiotic therapy at the 
+time of initiating antibiotics when causative pathogens 
+are not usually identified. Second, the large sample 
+size allowed us to explore the efficacy of carbapenem 
+by taking a large number of confounding factors into 
+account, which enhanced the robustness of the methods 
+and minimized biases. 
+
+Limitations 
+
+This study has several limitations. First, the diagnoses 
+recorded in administrative claims databases are generally 
+less accurate than those in prospective studies. 
+Second, selection bias may exist due to the data extraction 
+and study inclusion criteria, which did not 
+include patients whose laboratory data were not recorded 
+in the database and patients who received concomitant 
+beta lactams. Third, baseline characteristics 
+and severity of illness were different between the two 
+groups. We adjusted the imbalances using propensity 
+scores in the regression analyses. However, it is 
+hard to completely remove residual confounding due 
+to unmeasurable confounding factors. Fourth, although 
+the study results are based on nationwide data 
+in Japan, it may be difficult to directly apply these 
+results to other regions because of the regional variations 
+in pathogens and patterns of drug resistance. 
+Nevertheless, we consider the findings of this study to 
+be applicable to many countries because community 
+prevalence of ESBL-producing Enterobacteriaceae has 
+been reported to be approximately 5%–10% in many 
+countries and regions (38), which is comparable to the 
+percentages reported from Japan (42). Fifth, although 
+the database recorded the accurate date when the 
+antibiotics were used, it did not include the detailed 
+time of administration of the antibiotics. Thus, we did 
+not interpret the study findings from the viewpoint 
+of pharmacokinetics and pharmacodynamics. Sixth, 
+we could not speculate on the reason for the switch 
+of antibiotics from the viewpoints of cultures and susceptibility 
+because the database does not contain such 
+data. Finally, although several clinically important 
+antimicrobial resistance pathogens, such as MRSA, 
+were diagnosable according to the ICD-10, detailed 
+information on other pathogens and drug resistance 
+
+was not recorded. Although the sensitivity and specificity 
+of ICD-10 codes for C. difficile infection have 
+been reported so far, there are no sufficient data on the 
+sensitivity and specificity of ICD-10 codes to detect 
+infection by MRSA and multidrug-resistant pathogens. 
+Furthermore, as our definition of multidrugresistant 
+pathogens was also based on the ICD-10 
+coding, the inability to evaluate the exact prevalence 
+of multidrug-resistant pathogens based on antimicrobial 
+susceptibility was a major limitation that potentially 
+affected the generalizability of the study 
+findings. Namely, the effect of carbapenem therapies 
+as initial therapy for sepsis would vary according to 
+the prevalence of multidrug-resistant pathogens in 
+the regions. However, because the present study was 
+conducted using a nationwide multicenter cohort, 
+the prevalence of multidrug-resistant pathogens was 
+assumed to approximate that reported in previous national 
+surveillance (51). Therefore, the study findings 
+could be generalizable to many other nations where 
+a prevalence of multidrug-resistant pathogens similar 
+to that of Japan has been reported. 
+
+Conclusions 
+
+Compared with the noncarbapenem broad-spectrum 
+antibiotics, carbapenems as initial empiric therapy 
+were not associated with significantly lower mortality 
+overall in patients with sepsis. Scientific evidence on 
+the benefits of carbapenem therapy as initial therapy 
+in sepsis is still limited, and further prospective studies 
+need to be performed.

@@ -1,0 +1,163 @@
+Goodbye Hartmann trial: a prospective, international, multicenter, observational study on the current use of a surgical procedure developed a century ago
+
+Introduction
+The Hartmann’s procedure (HP) is a rapid, simple surgical procedure, with relatively low perioperative morbidity and mortality. It was first described in 1921 as a solution for obstructed left-sided colonic carcinomas. Hartmann’s procedure consists of 3 steps: (1) resection of a diseased segment of the colon near the rectosigmoid junction, (2) closure of the distal rectal stump and (3) formation of an end colostomy [1,2,3].
+
+During early 1900s three staged approach (first stage, diverting colostomy; second stage, resection of the diseased colon; third and last stage, colostomy closure) was the most common treatment for left-sided colonic diseases. Since the second half of the last century thanks to the discovery of antibiotics, the surgical practice changed, enabling surgeons to control postoperative infections and HP started to be used [4].
+
+HP showed better outcomes than three-stage surgery due to less postoperative peritonitis, fewer reoperations, and lower mortality. In the 1980s and 1990s, different studies favored HP, becoming the first-line treatment for left-sided colonic emergencies [5, 6] However, in the last 2 decades, the role of HP has been questioned compared with colonic resection and primary anastomosis. [7, 8] There was no difference in major postoperative complications and mortality between these two procedures [8,9,10]. Furthermore, the presence of fecal peritonitis was no longer considered an absolute contraindication for immediate bowel continuity reconstruction. [6,7,8,9,10]
+
+Furthermore, only few patients get their stoma reversed after HP. Hartmann’s reversal is also associated with high morbidity rates up to 58% and mortality up to 3.6%, with non-reversal rate ranging from 23 to 74% [11].
+
+Despite the growing evidence supporting primary anastomosis for left-sided colonic emergencies, many surgeons are still reluctant to follow this evidence. The main concern is the anastomotic leakage which can be disastrous, especially in sick patient, leading to medicolegal implications. Other factors may affect the choice of HP over other treatment, most of these procedures are typically performed beyond normal working hours, and often by young surgeons. [12,13,14]
+
+The Goodbye Hartmann Trial aimed to evaluate the surgical options globally used to treat patients with acute left-sided colonic emergencies and the factors impacting treatment choice, comparing HP and RPA.
+
+Methods
+Study design
+This study was a multicenter, prospective, observational study done in 204 hospitals from 31 different countries in 5 continents.
+
+The study was developed and presented, according to the Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) guidelines. The study was conducted in accordance with the principles of the Declaration of Helsinki and Good Epidemiological Practices [15].
+
+The study was approved by an independent ethical committee (Comitato etico AVEN – area vasta Emilia nord) and by the local ethical committees of all participating centers. Written informed consent was obtained from all patients. The participating surgeons performed their duties according to their usual practices.
+
+The Goodbye Hartmann Trial was registered in ClinicalTrials.gov (ID: NCT04829032).
+
+Data were collected and managed using REDCap electronic data capture tools hosted at Parma University Hospital. [16, 17] The recruitment period lasted 3 months (March 1 2021, to May 31 2021).
+
+No patient’s identifiable data (name, date of birth, address, telephone number, etc.) were recorded.
+
+Patient selection criteria
+Inclusion criteria: patients aged between 18 and 100 years; diagnosis of left-sided (splenic flexure, descending colon and sigmoid colon) colonic emergency (perforated diverticulitis with purulent or fecal peritonitis; large bowel perforation-obstruction; colon cancer perforation-obstruction; ischemic colitis; abdominal trauma); surgical treatment with RPA, HP, ileostomy or colostomy.
+
+Exclusion criteria: patients ineligibile for surgery, hemodynamically unstable patients, defined as patients with an abnormal or unstable blood pressure that resulted in tissue hypoperfusion; patients with left-sided colonic emergency managed with non-surgical treatment; patients with previous colorectal surgery; patients with concomitant non colonic emergencies.
+
+Variables and definitions
+Demographic data and baseline characteristics: age, gender, BMI, comorbidities, ASA score, previous abdominal surgery, Glasgow Coma Scale, quick Sequential Organ Failure Assessment score (qSOFA) [18], symptoms. Vital parameters: temperature, systolic blood pressure, respiratory rate. Laboratory data: white cell blood count (WBC), blood hemoglobin concentration, C-reactive protein (CRP). Disease characteristics: etiology (acute complicated diverticulitis, colorectal cancer, colon ischemia, abdominal trauma, foreign bodies, volvulus, intussusception); preoperative diagnosis and assessment was performed according to the clinical practice of each center, CT scan of the abdomen was always performed in case of diverticulitis and the severity was assessed according to 2015 CT driven classification of left colon acute diverticulitis [19]; clinical presentation (perforation, obstruction, ischemia).
+
+Surgical details: Hartmann’s procedure (HP), colonic resection with primary anastomosis with or without diverting stoma (RPA), stoma without colonic resection.
+
+Hospital characteristics: hospital type, annual volume of emergency surgical procedures; annual volume of surgical left-sided colonic disease; availability of Intensive Care Unit (ICU)). Surgeon’s experience. Time of surgery: weekdays, weekend, bank holidays, night shift. Postoperative outcomes: length of stay (LOS), Clavien-Dindo Classification, reoperation, anastomotic leakage. Follow-up data was collected in all patients at 1 year after the index admission, including data on subsequent stoma reversal and related complications.
+
+Outcomes
+The primary objective was to analyze the factors leading to the surgical choice.
+
+Secondary aims included defining the rate of Hartmann’s procedure reversal and the rate of permanent stoma after 1 year of follow-up.
+
+Statistical analysis
+Patients were divided into three main groups: patients who underwent Hartmann’s procedure; patients who underwent colonic resection with primary anastomosis with or without ileostomy; and patients who underwent only ostomy (ileostomy or colostomy) without colonic resection, according to the most common treatment performed in left-sided colonic emergencies. Subgroup analysis was performed for patients with colorectal cancer and those with complicated acute diverticulitis. Quantitative data was expressed as mean (SD) or median and interquartile range (IQR, minimum and maximum values). The qualitative data were presented as absolute frequencies, relative frequencies, cumulated frequencies, and percentages. Student’s t test, Mann Whitney U test or ANOVA were used for comparisons of continuous or ordinal variables among groups as appropriate. Chi-squared test or Fisher’s exact test, as appropriate, was used for analysis of categorical data.
+
+A logistic regression model defining the factors affecting the decision to do primary anastomosis was performed. The patients were divided into two groups: those who had resection and primary anastomosis of the colon (n = 384) and those who had Hartman’s procedure or ostomy alone (n = 831). Variables who had a loose p value of less than 0.1 were entered into a backward Stepwise (Likelihood Ratio) logistic regression model defining factors affecting the decision to perform resection and primary anastomosis of the colon. Data analysis was performed using IBM SPSS Statistics 26.0. A p value of less than 0.05 was accepted as significant.
+
+Results
+Baseline patient characteristics
+A total 1307 patients were included in the study.
+
+Complete data were available in 1215 (92.9%) patients. HP was performed in 697 (57.3%) patients, RPA in 384 (31.6%) cases and ostomy (ileostomy or colostomy) without bowel resection in 134 (11.0%) patients.
+
+The baseline characteristics of the study cohort stratified according to the surgical procedure are reported on Table 1.
+
+
+Disease characteristics
+Acute complicated diverticulitis (ACD) and colorectal cancer (CRC) were the most common causes of left-sided colonic emergencies. CRC and ACD patients’ characteristics are reported in Appendix 1 and 2.
+
+HP was performed mostly in presence of large bowel perforations (455/694, 65.5%). RPA was performed prevalently in large bowel obstruction (189/384 (49.2%) (P < 0.001), Table 2.
+
+In patients with large bowel perforation HP was preferred especially in patients with ASA score ≥ 3 (OR = 1.49; P = 0.002), within 12 h from hospital admission (OR = 0.64; P = 0.047) and during nighttime (OR = 1.73; P = 0.013).
+
+In patients with large bowel obstruction, HP was preferred in patients with ASA score ≥ 3 (OR = 1.32; P = 0.028), within 12 h from hospital admission (OR = 0.65; P = 0.029), during nighttime (OR = 2.16; P = 0.000) and in centers with low volume of emergency surgical procedures (OR = 0.62; P = 0.023).
+
+Time of surgery
+HP was generally performed within 12 h from hospital admission in 396 (56.7%) patients Conversely, the 40.1% of RPA cases were performed after 24 h from hospital admission (P < 0.001).
+
+Hospital’s characteristics didn’t affect the time from hospital admission to surgery (P = 0.285).
+
+During weekends, HP was the most performed procedure (178/270, 65.9%). RPA was performed only in 64/270 patients (23.7%) during weekends (P = 0.025).
+
+HP distribution during daytime and nighttime was similar with the 51.5% of HP performed during the day and the 48.5% during the night (from 8 pm to 7am). Conversely, most of RPA (73.4%) were performed during the day and only the 26.6% of RPA during the night (P < 0.001).
+
+HP was the most common treatment during weekends and nighttime also in patients with low ASA score. During the weekends and the nighttime, the 59.3% and 62.2% of ASA < 3 patients respectively underwent HP against the 44.7% of weekdays and 39.6% of daytime (P = 0.013) (Table 3).
+
+Surgical approach
+Laparotomy was the most common surgical approach (n = 985, 81.1%). Among the different surgical procedures, 623 (89.5%) HP and 110 (82.0%) ostomies were performed via laparotomy. Laparoscopic colonic resection with primary anastomosis was the most common laparoscopic procedure (127/233, 54.5%) (P < 0.001). Peculiarly, 80.7% of laparoscopic procedures were performed during daytime (P < 0.001). During nighttime, laparoscopy was performed only in 43/478 (8.9%) patients, 28 (12.5%) during early night and only in 15 (6.7%) in late night. Robotic surgery was attempted 6 times (0.49%), only one patient underwent robotic HP while the other five underwent robotic RPA.
+
+Surgeon and center characteristics
+Inexperienced surgeons performed more HP and ostomies than RPA compared with experienced surgeons (P < 0.001). Inexperienced surgeons performed less laparoscopic procedures (12.6%) than experienced surgeons (20.6%) (P = 0.041). Inexperienced surgeons also performed 50.1% of operations during nighttime (11 pm to 7 pm). Notably the 29.9% of all surgical procedures took place in the late night (from 11 pm to 7 am). While experienced surgeons performed 35.4% of operations during nighttime and only 16.1% during late night (P = 0.002).
+
+The distribution and types of surgical procedures were similar across the hospitals, regardless of origin country. Most of the RPA cases were performed in hospitals with high volume of emergency surgical procedures. (P = 0.005). The surgeon and center characteristics are summarized on Table 4.
+
+Postoperative outcomes
+Length of stay (LOS) was higher in HP group (13.4 ± 12.1 days) compared with the RPA group (11.7 ± 10.2 days) (P = 0.048).
+
+LOS was higher in patients treated with laparotomy (13.4 ± 11.8 days) compared to patients treated with laparoscopic approach (9.8 ± 7.0 days). (P < 0.001).
+
+Postoperative complications were higher in patients who underwent HP (P < 0.001).
+
+Severe complications (Clavien-Dindo ≥ 3b) were higher in HP group (P < 0.001).
+
+Severe complications in ASA score < 3 were lower in RPA group than HP group, also in case of perforation and diffuse peritonitis (P = 0.017).
+
+Severe complications in patients with ASA score > 3 were similar in both HP and RPA groups. (P > 0.05).
+
+Severe complications were higher in high-risk patients (diffuse peritonitis, qSOFA score ≥ 2) with ASA score ≥ 3 (P = 0.002).
+
+Mortality was significantly higher in patients with bowel perforation and diffused peritonitis (P < 0.001).
+
+Anastomotic leakage was reported in 46 patients (11.9%). Conservative treatment of anastomotic leakage was effective in 10 patients (21.6%), in the other 36 cases, surgery was required to manage anastomotic leak (78.4%).
+
+Postoperative outcomes are summarized in Table 5.
+
+Follow-up
+Only 21.6% of HP patients underwent surgery for ostomy reversal during the 1-year follow-up, against the 64.7% of RPA patients. Complication rate after ostomy reversal was higher in the HP groups (P = 0.41). Anastomotic leakage was 7.5% in HP group compared with the 9.0% in RPA group (P > 0.05). Permanent stoma was reported in 430 (78.3%) cases in HP group, similar to the ostomy group with 77 cases (76.2%). In the RPA group only 22 (6.6%) patients had a stoma after 1-year from surgery (P < 0.001) (Table 6).
+
+Primary aim: which factors influence the choice of HP and RPA?
+The logistic regression model was made dividing patients into 2 groups: primary anastomosis of the colon (n = 384) and Hartman’s procedure or ostomy alone (n = 831).
+
+The logistic regression model was highly significant (P < 0.001) having a Nagelkerke R Square of 0.2.
+
+The analysis predicted several factors that contributed to performing RPA instead of HP. (Table 7).
+
+The choice of surgical procedure is related to patient’s factors, etiology, hospital setting and surgeon’s characteristics.
+
+RPA was preferred in younger patients, having low ASA score (≤ 3), in case of large bowel obstruction, absence of colonic ischemia, longer time between admission and surgery, operating early at the day working hours, and by a surgeon who performed more than 50 colorectal resections.
+
+In contrast, HP was the preferred procedure in patients with ASA score status ≥ 3, qSOFA score ≥ 2, in case of large bowel perforation, in low volume hospitals, within 12 h from hospital admission, performed by inexperienced surgeons and during the night.
+
+Discussion
+The results of this study showed that HP remains the most common surgical procedure for colorectal emergencies. Several factors may be related to HP choice. Regression model analysis showed that HP was preferred in low volume hospitals, by inexperienced surgeons, during the night, in older patients, large bowel perforation, colonic ischemia, and patients having ASA score ≥ 3 and qSOFA score ≥ 2.
+
+Typically, the greatest concern against RPA in the treatment of colorectal emergency was anastomotic leakage which ranged from 3.5 to 30% in emergency surgery. [9, 10, 20] In this study anastomotic leakage after RPA was 11.9% out of whom 78.4% required surgery.
+
+In the last decades several studies evidenced no difference in major postoperative complications and mortality between HP and RPA, [7, 9, 12, 14, 21] as also reported in the present study. Furthermore, recent literature showed better postoperative outcome and reduced mortality after RPA even in large bowel perforations with generalized purulent or fecal peritonitis. [9, 10, 22]
+
+The results of the study confirm literature findings, severe complications were 40% higher in HP group than RPA group (25% compared with 10%), the 30-day mortality was 5 times more in HP (13.7% compared with 2.5% of RPA).
+
+Another factor in favor of RPA, as reported in several studies, was the better stoma-free survival compared with the HP patients [9, 10, 20, 23]. In the present study ostomy reversal after 1-year follow-up was only 25% in HP patients compared to the 64.7% in RPA group.
+
+Furthermore, complications after ostomy reversal were 30% higher in the HP group compared to the RPA group (15.9% vs 10.9%) in the present study. Literature findings showed higher morbidity and anastomotic leak rate of Hartmann’s reversal surgery which ranges from 20 to 50% compared with 2 to 7% in RPA [22, 24,25,26,27].
+
+Despite these factors in favor of RPA, usually HP patients have more comorbidities and worse clinical presentation compared to RPA patients [28,29,30,31]. In this study Hartmann’s procedure was performed mainly in cases of large bowel perforation, ASA score ≥ 3, and qSOFA score ≥ 2.
+
+Hospitals with high volume of emergency surgery (more than 1000 procedures per year) performed less HP procedures (51.5%) compared to small (58.4%) and medium (62.2%) volume hospitals. The lack of some services (24-h specialist coverage and an on-site CT scanner) could contribute to these differences. [32,33,34]
+
+Surgical experience, early decision, and faster time to emergency surgery affected the intraoperative surgical errors and clinical outcome. During the night, indication for surgery was usually made by those who do not make the surgery [35,36,37]. In the present study, most surgical operations (73.6%) were performed by experienced surgeons who have done more than 50 colorectal resections. The 63.4% of surgical procedures performed by inexperienced surgeons, were mainly HP, with only 19.8% being RPA. Conversely, experienced surgeons performed HP in 55.1% of the cases and RPA in 35.8%. Inexperienced surgeons performed less laparoscopic procedures (12.6%) compared with experienced surgeons (20.6%) without a difference in morbidity and mortality. These findings were driven by several factors.
+
+65.7% of patients with ASA score status ≥ 3 and 47.8% of ASA score < 3 patients were treated with HP. ASA score status > 3 has been reported as independent risk factor for postoperative complications, especially in high-risk patients with bowel perforation and diffuse peritonitis [38,39,40].
+
+Similar severe complications after HP and RPA in ASA score status > 3 were reported in this study. RPA patients with ASA score ≤ 3 showed better postoperative outcomes than HP patients.
+
+RPA was suggested in patients with ASA score = 3 and HP in high-risk patients (diffuse peritonitis, qSOFA score ≥ 2) with ASA score = 3.
+
+HP was performed in ASA score ≤ 3 especially during weekends and nighttime. Several HP performed during weekends (59.3%) and nighttime (62.2%) could be avoided in favor of RPA due to the better postoperative outcomes.
+
+16.8% of patients treated during late night had qSOFA score ≥ 2, whilst only 9.1% of patients treated during daytime had qSOFA score > 2. High qSOFA score was associated with organ dysfunction and a mortality of more than10% which favored the HP procedure. [41, 42]
+
+Laparoscopy was performed in 25.2% of the procedures during daytime, and only in 6.7% during the night. LOS was lower in patients treated with laparoscopy which favor minimally invasive surgery even in emergency surgery [43, 44]. Robotic surgery, although performed in few patients, reflects the increased interest in this approach in emergency surgery [45, 46] which should be properly assessed in future studies despite its limitations.
+
+Performing randomized clinical trials comparing HP and RPA can be challenging. The results of this study supported the use of RPA although HP as a treatment of left-sided colonic emergencies is still a viable option. Nevertheless, we must acknowledge that results carried the risk of selection bias depending on the clinical status of the patient, the experience of the surgeon, the setting of the hospitals, including available technologies (robot, SEMS [47], 24-h specialist coverage and an on-site CT scanner) and time in which surgery was done.
+
+Conclusions
+HP remains the most common treatment for left-sided colorectal emergencies. Selection of the type of surgery depends on the time of surgery, the experience of the surgeon, and patient characteristics. The study supports the use of RPA which should be considered as the gold standard for surgery, with HP being an exception. Several factors contributed to the choice of HP over RPA but they are not often related to higher postoperative outcomes.
+
+The RPA was preferred in younger patients age, having low ASA score (≤ 3), in case of large bowel obstruction, absence of colonic ischemia, longer time between admission and surgery, operating early at the day working hours, by a surgeon who performed more than 50 colorectal resections.
+

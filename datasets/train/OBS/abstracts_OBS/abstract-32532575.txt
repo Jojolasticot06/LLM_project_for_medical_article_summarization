@@ -1,0 +1,23 @@
+PURPOSE: The purpose of this study was to report the use of three-dimensional 
+(3D) cone-beam computed tomography (CBCT) for prostatic artery embolization 
+(PAE) in patients with benign prostatic hypertrophy (BPH).
+MATERIALS AND METHODS: Twenty-three consecutive men who underwent PAE using 3D 
+CBCT from June 2016 to September 2018, were retrospectively included in this 
+observational single-center study. There were 23 men with a mean age of 73±12 
+(SD) years (range: 52-94years) with moderate to severe lower urinary tract 
+symptoms (mean international prostate symptom score, 21±5.7 [SD]; range: 9-30) 
+due to BPH (mean prostate weight, 100g±63 [SD]; range: 30-250g). PAEs were 
+analyzed with respect to procedure time, fluoroscopy time, technical success, 
+complications and dosimetric indices.
+RESULTS: The mean catheterization time of the prostatic artery from the internal 
+iliac artery was 17.3±12.5 (SD) min (range: 8-57min) on the right side and 
+23.6±14.9 (SD) min (range: 6-54min) on the left side. A technical success was 
+achieved in 21 patients (21/23; 91%). PAE was bilateral in 14 patients (14/21; 
+66%) and unilateral in 7 patients (7/21; 33%). No occurrence of non-target 
+embolization was reported. The mean dose area product was 146.7±47.9 (SD) Gy.cm2 
+(range: 54-254Gy.cm2) and mean cumulative air kerma was 771.4±333.3 (SD) mGy; 
+range: 280-1560 mGy. The mean fluoroscopy time was 42.3±23.1 (SD) min (range: 
+19.4-118.2min).
+CONCLUSION: 3D CBCT is a useful tool to identify the prostatic arteries and 
+facilitates catheterization of prostatic arteries with an acceptable level of 
+radiation exposure.

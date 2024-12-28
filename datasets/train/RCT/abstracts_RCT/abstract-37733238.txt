@@ -1,0 +1,15 @@
+A postpartum intervention for vaccination promotion by midwives using motivational interviews reduces mothers' vaccine hesitancy, south-eastern France, 2021 to 2022: a randomised controlled trial.
+
+1/Background
+Despite childhood vaccine mandates imposed in 2018 in France, parental vaccine hesitancy (VH) remains frequent. Interventions in Quebec, Canada, applying motivational interviewing (MI) techniques have successfully reduced parents' VH for childhood immunisations.
+Aim
+To determine whether MI intervention for mothers in maternity wards in the days after birth in France could significantly reduce VH, increase intentions to vaccinate (VI) their child at 2 months and reduce VH social inequalities.
+
+2/Methods
+We conducted a parallel-arm multicentre randomised controlled trial from November 2021 to April 2022 to compare impacts of MI performed by MI-trained midwives (intervention) vs a 
+vaccination leaflet (control). We included 733 mothers from two maternity hospitals in south-eastern France, randomly assigned either arm. The validated Parents Attitudes about Childhood Vaccines questionnaire was used before and after MI or leaflet to assess mothers' VH (13 items, 0-100 score) and VI (1 item, 1-10 score). Difference-in-difference (D-I-D) models were used to estimate net impact of MI vs leaflet for the entire sample and stratified by VH and education level.
+
+3/ResultsMotivational interview intervention reduced mothers' VH score by 33% (p < 0.0001) and increased VI by 8% (p < 0.0001); the effect was largest for the highest initial VH levels. D-I-D analyses estimated net VH decrease at 5.8/100 points (p = 0.007) and net VI increase at 0.6/10 points (p = 0.005). Net VH decrease was highest for high initial VH levels and low education levels.
+
+4/Conclusions
+Our results show positive effects of MI intervention, and means of its implementation should be investigated in France.

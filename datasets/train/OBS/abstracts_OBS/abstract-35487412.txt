@@ -1,0 +1,23 @@
+INTRODUCTION: Switzerland experienced two waves of COVID-19 in 2020, but with a 
+different ICU admission and treatment management strategy. The timing of ICU 
+admission and intubation remains a matter of debate in severe patients. The aim 
+of our study was to describe the characteristics of ICU patients between two 
+subsequent waves of COVID-19 who underwent a different management strategy and 
+to assess whether the timing of intubation was associated with differences in 
+mortality.
+PATIENTS AND METHODS: We conducted a prospective observational study of all 
+adult patients with acute respiratory failure due to COVID-19 who required 
+intubation between the 9th of March 2020 and the 9th of January 2021 in the 
+intensive care unit (ICU) at Geneva University Hospitals, Switzerland.
+RESULTS: Two hundred twenty-three patients were intubated during the study 
+period; 124 during the first wave, and 99 during the second wave. Patients 
+admitted to the ICU during the second wave had a higher SAPS II severity score 
+(52.5 vs. 60; p = 0.01). The time from hospital admission to intubation was 
+significantly longer during the second compared to the first wave (4 days [IQR, 
+1-7] vs. 2 days [IQR, 0-4]; p < 0.01). All-cause ICU mortality was significantly 
+higher during the second wave (42% vs. 23%; p < 0.01). In a multivariate 
+analysis, the delay between hospital admission and intubation was significantly 
+associated with ICU mortality (OR 3.25 [95% CI, 1.38-7.67]; p < 0.05).
+CONCLUSIONS: In this observational study, delayed intubation was associated with 
+increased mortality in patients with severe COVID-19. Further randomised 
+controlled trials are needed.

@@ -1,0 +1,17 @@
+Low steady-state levels of active tamoxifen metabolites have been associated 
+with inferior treatment outcomes. In this retrospective analysis of 406 estrogen 
+receptor-positive breast cancer (BC) patients receiving adjuvant tamoxifen as 
+initial treatment, we have associated our previously reported thresholds for the 
+two active metabolites, Z-endoxifen and Z-4-hydroxy-tamoxifen (Z-4OHtam), with 
+treatment outcomes in an independent cohort of BC patients. Among all patients, 
+metabolite levels did not affect survival. However, in the premenopausal 
+subgroup receiving tamoxifen alone (n = 191) we confirmed an inferior BC 
+-specific survival in patients with the previously described serum concentration 
+threshold of Z-4OHtam ≤ 3.26 nm (HR = 2.37, 95% CI = 1.02-5.48, P = 0.039). The 
+'dose-response' survival trend in patients categorized to ordinal concentration 
+cut-points of Z-4OHtamoxifen (≤ 3.26, 3.27-8.13, > 8.13 nm) was also replicated 
+(P-trend log-rank = 0.048). Z-endoxifen was not associated with outcome. This is 
+the first study to confirm the association between a published active tamoxifen 
+metabolite threshold and BC outcome in an independent patient cohort. 
+Premenopausal patients receiving 5-year of tamoxifen alone may benefit from 
+therapeutic drug monitoring to ensure tamoxifen effectiveness.

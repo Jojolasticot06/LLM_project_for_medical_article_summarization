@@ -1,0 +1,18 @@
+Most patients with multiple myeloma experience disease relapse after treatment 
+with a B-cell maturation antigen-targeted therapy (BCMA-TT), and data describing 
+outcomes for patients treated with sequential BCMA-TT are limited. We analyzed 
+clinical outcomes for patients infused with standard-of-care idecabtagene 
+vicleucel, an anti-BCMA chimeric antigen receptor (CAR) T-cell therapy, at 11 US 
+medical centers. A total of 50 patients with prior BCMA-TT exposure (38 
+antibody-drug conjugate, 7 bispecific, 5 CAR T) and 153 patients with no prior 
+BCMA-TT were infused with ide-cel, with a median follow-up duration of 4.5 and 
+6.0 months, respectively. Safety outcomes between cohorts were comparable. The 
+prior BCMA-TT cohort had a lower overall response rate (74% versus 88%; 
+p = 0.021), median duration of response (7.4 versus 9.6 months; p = 0.03), and 
+median progression-free survival (3.2 months versus 9.0 months; p = 0.0002) 
+compared to the cohort without prior BCMA-TT. All five patients who received a 
+prior anti-BCMA CAR T responded to ide-cel, and survival outcomes were best for 
+this subgroup. In conclusion, treatment with ide-cel yielded meaningful clinical 
+responses in real-world patients exposed to a prior BCMA-TT, though response 
+rates and durability were suboptimal compared to those not treated with a prior 
+BCMA-TT.

@@ -1,0 +1,26 @@
+BACKGROUND: Different patient clusters were preliminarily suggested to dissect 
+the clinical heterogeneity in Still's disease. Thus, we aimed at deriving and 
+validating disease clusters in a multicentre, observational, prospective study 
+to stratify these patients.
+METHODS: Patients included in GIRRCS AOSD-study group and AIDA Network Still 
+Disease Registry were assessed if variables for cluster analysis were available 
+(age, systemic score, erythrocyte sedimentation rate (ESR), C reactive protein 
+(CRP) and ferritin). K-means algorithm with Euclidean metric and Elbow plot were 
+used to derive an adequate number of clusters.
+RESULTS: K-means clustering assessment provided four clusters based on means 
+standardised according to z-scores on 349 patients. All clusters mainly 
+presented fever, skin rash and joint involvement. Cluster 1 was composed by 115 
+patients distinguished by lower values of age and characterised by skin rash 
+myalgia, sore throat and splenomegaly. Cluster 2 included 128 patients 
+identified by lower levels of ESR, ferritin and systemic score; multiorgan 
+manifestations were less frequently observed. Cluster 3 comprised 31 patients 
+categorised by higher levels of CRP and ferritin, they were characterised by 
+fever and joint involvement. Cluster 4 contained 75 patients derived by higher 
+values of age and systemic score. Myalgia, sore throat, liver involvement and 
+life-threatening complications, leading to a high mortality rate, were observed 
+in these patients.
+CONCLUSIONS: Four patient clusters in Still's disease may be recognised by a 
+multidimensional characterisation ('Juvenile/Transitional', 'Uncomplicated', 
+'Hyperferritinemic' and 'Catastrophic'). Of interest, cluster 4 was burdened by 
+an increased rate of life-threatening complications and mortality, suggesting a 
+more severe patient group.

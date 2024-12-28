@@ -1,0 +1,34 @@
+BACKGROUND: In malaria-endemic areas, residents of modern houses have less 
+malaria than those living in traditional houses. We aimed to assess whether 
+children in The Gambia received an incremental benefit from improved housing, 
+where current best practice of insecticide-treated nets, indoor residual 
+spraying, seasonal malaria chemoprevention in children younger than 5 years, and 
+prompt treatment against clinical malaria was in place.
+METHODS: In this randomised controlled study, 800 households with traditional 
+thatched-roofed houses were randomly selected from 91 villages in the Upper 
+River Region of The Gambia. Within each village, equal numbers of houses were 
+randomly allocated to the control and intervention groups using a sampling 
+frame. Houses in the intervention group were modified with metal roofs and 
+screened doors and windows, whereas houses in the control group received no 
+modifications. In each group, clinical malaria in children aged 6 months to 13 
+years was monitored by active case detection over 2 years (2016-17). We did 
+monthly collections from indoor light traps to estimate vector densities. 
+Primary endpoints were the incidence of clinical malaria in study children with 
+more than 50% of observations each year and household vector density. The trial 
+is registered at ISRCTN02622179.
+FINDINGS: In June, 2016, 785 houses had one child each recruited into the study 
+(398 in unmodified houses and 402 in modified houses). 26 children in unmodified 
+houses and 28 children in modified houses did not have at least 50% of visits in 
+a year and so were excluded from analysis. 38 children in unmodified houses were 
+recruited after study commencement, as were 21 children in modified houses, 
+meaning 410 children in unmodified houses and 395 in modified houses were 
+included in the parasitological analyses. At the end of the study, 659 (94%) of 
+702 children were reported to have slept under an insecticide-treated net; 662 
+(88%) of 755 children lived in houses that received indoor residual spraying; 
+and 151 (90%) of 168 children younger than 5 years had seasonal malaria 
+chemoprevention. Incidence of clinical malaria was 0·12 episodes per child-year 
+in children in the unmodified houses and 0·20 episodes per child-year in the 
+modified houses (unadjusted incidence rate ratio [RR] 1·68 [95% CI 1·11-2·55], 
+p=0·014). Household vector density was 3·30 Anopheles gambiae per house per 
+night in the unmodified houses compared with 3·60 in modified houses (unadjusted 
+RR 1·28 [0·87-1·89], p=0·21).

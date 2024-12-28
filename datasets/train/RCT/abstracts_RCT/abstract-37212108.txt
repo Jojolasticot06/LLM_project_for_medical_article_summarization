@@ -1,0 +1,26 @@
+BACKGROUND: Subjective cognitive decline (SCD) is a self-reported experience of 
+declining cognitive function showing normal performance in cognitive 
+assessments, which is a known risk factor for dementia. Recent studies highlight 
+the importance of nonpharmacological multidomain interventions that can target 
+multiple risk factors of dementia in older adults.
+OBJECTIVE: This study investigated the efficacy of the Silvia program, a 
+mobile-based multidomain intervention, to improve cognitive function and 
+health-related outcomes of older adults with SCD. We compare its effects to a 
+conventional paper-based multidomain program on various health indicators 
+related to risk factors of dementia.
+METHODS: This prospective randomized controlled trial involved 77 older adults 
+with SCD recruited from the Dementia Prevention and Management Center in 
+Gwangju, South Korea during May to October 2022. Participants were randomly 
+assigned to either the mobile- or paper-based group. Interventions were 
+administered for 12 weeks, where pre- and post-assessments were conducted.
+RESULTS: The K-RBANS total score did not show significant differences between 
+groups. The mobile group showed better improvement in K-PRMQ scores and PSS 
+scores than the paper group. Differences within groups showed that mobile-based 
+interventions significantly improved K-PRMQ, STAI-X-1, PSS, and EQ-5D-5 L 
+scores, while paper-based interventions significantly improved PSS, and 
+EQ-5D-5 L scores. Patient adherence rate was 76.6%.
+CONCLUSION: Overall, the Silvia program was effective for improving 
+self-reported memory failures, stress, anxiety, and health-related quality of 
+life in older adults with SCD. However, longer periods of administration for 
+more than 12 weeks may be needed to achieve significant improvements in 
+cognitive function by objective measures.

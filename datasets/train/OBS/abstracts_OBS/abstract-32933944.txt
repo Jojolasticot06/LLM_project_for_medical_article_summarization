@@ -1,0 +1,33 @@
+OBJECTIVE: Our objective was to describe the postgraduate education trajectories 
+of family and community physicians in Brazil, where neither primary healthcare 
+nor family and community medicine is recognised as a knowledge area for the 
+purpose of research and postgraduate education (master's and PhD degrees).
+DESIGN: An observational, exploratory study, using administrative data. A 
+nationwide list of family and community physicians as of late November 2018 was 
+compiled from multiple sources. Data on the mode of specialisation was obtained 
+from the same sources and were correlated with data on master's and PhD degrees, 
+obtained from the curricula vitae on the Lattes Platform.
+SETTING: This study was set in Brazil.
+PARTICIPANTS: 6238 family and community physicians (58.3% female), of whom 2795 
+had earned a specialist certificate (identified from the list of physicians 
+certified by Sociedade Brasileira de Medicina de Família e Comunidade) and 3957 
+had completed medical residency (identified from SisCNRM, the national 
+information system for medical residency).
+RESULTS: A master's degree was held by 747 (12.0%) family and community 
+physicians, and a PhD by 170 (2.7%); most degrees were in collective health 
+(47.0% and 42%, respectively). Men were more likely than women to hold a 
+master's degree (adjusted odds ratio (aOR) 1.24, 95% uncertainty interval (UI) 
+1.07-1.45) and even more likely to a hold PhD (aOR 1.86, 95% UI 1.35-2.59). 
+Family and community physicians were also less likely to hold a PhD degree if 
+their master's degree was professional (oriented towards jobs outside academia) 
+instead of academic (aOR 0.15, 95% UI 0.05-0.39) or in some area other than 
+collective health or medicine (aOR 0.41, 95% UI 0.21-0.78, compared with a 
+master's degree in collective health). The postgraduate degree was more likely 
+to precede specialisation for family and community physicians specialising 
+through certification (master's degree 39.9%, PhD 33%) than through medical 
+residency (master's degree 9.1%, PhD 6%).
+CONCLUSION: Family and community physicians in Brazil increasingly earn academic 
+and professional master's and PhD degrees, with an emphasis on collective 
+health, even though women seemingly face barriers to advance their education. 
+The consequences of different postgraduate trajectories should be critically 
+examined.

@@ -1,0 +1,165 @@
+1. Introduction
+Interventional radiology (IR) procedures have been widely accepted as effective hemostatic interventions for patients with torso trauma [1], [2], [3]. These procedures are generally performed for hemodynamically stable patients with torso trauma but are recently increasingly being performed for hemodynamically unstable patients.
+
+Challenging IR procedures were first performed in hemodynamically unstable patients with ongoing retroperitoneal hemorrhage, including pelvic fracture or renal trauma [4], [5], [6]. Moreover, transcatheter arterial embolization (TAE) beyond the retroperitoneal cavity has been attempted in unstable patients, and two observational studies that examined TAEs and/or resuscitative endovascular balloon occlusion of the aorta for patients sustaining severe multiple trauma in hemodynamically unstable conditions have been published [7,8]. Although these two studies expanded the applicability of IR procedures, they could not demonstrate their survival benefit in these patients compared with conventional treatments [7,8]. Meanwhile, Olthof et al. highlighted the time requirements and performed TAE in nine hemodynamically unstable patients with splenic injury within a short time course [9]. Their results suggested that TAE for hemodynamically unstable patients could be effective in addition to surgery if IR procedures were immediately available 24 hours a day and seven days a week. Recently, Otsuka et al. demonstrated a survival benefit of IR procedures for patients with hemodynamically unstable multiple trauma [10]. However, the type of workflow that defines the role of emergency physicians, radiologists and surgeons to enable safe and effective IR procedures for patients with hemodynamically unstable trauma remains unclear.
+
+One study advocated a new trauma workflow called “prompt and rapid endovascular strategies in trauma occasion,” in which the IR team participates during the primary survey of initial management and the entire treatment process [11]. The IR team comprises an operator, assistants and a conductor, and the conductor guides the operator to eliminate decision-making time as well as time-consuming maneuvers. This team approach can shorten the time process and consequently save the patient's life, particularly for patients sustaining hemodynamically unstable severe trauma.
+
+The purpose of this study was to examine the survival benefits of a workflow in which an IR team participates in a primary trauma survey on patients with hemodynamically unstable trauma.
+
+2. Materials and methods
+2.1. Study design
+The study was conducted as a retrospective cohort study at the National Hospital Organization Disaster Medical Center, Tokyo, Japan by examining the medical records of all patients sustaining trauma who were admitted in the intensive care unit between January 2012 and December 2019. The institutional review board approved this study (approval number: 2020–23), and the study was conducted in accordance with the ethical standards established by the 1964 Declaration of Helsinki and its later amendments. The study purpose and outline were explained to the patients to allow them to make informed decisions regarding their participation in the study. The institutional review board waived the requirement to obtain individual informed consent as this was a retrospective study.
+
+2.2. Patient population
+Patients with an abbreviated injury score of ≥3 for the torso injury who underwent TAE as the initial hemostatic treatment were enrolled. Patients with cardiopulmonary arrest upon hospital arrival, who were aged <15 years, who underwent resuscitative endovascular balloon occlusion of the aorta alone as the IR procedure, or who withdrew treatment were excluded. Patients were assigned to a hemodynamically stable group (HSG) and a hemodynamically unstable group (HUG). “Hemodynamically unstable” was defined as a systolic blood pressure of <90 mmHg during the primary survey of the initial trauma management [12]. Patients in both groups were resuscitated according to The Japan Advanced Trauma Evaluation and Care guidelines [13].
+
+2.3. IR interventions
+The head of emergency physicians was in charge of the initial trauma management as the team leader. Both IR and surgical teams, each consisting of at least two or more physicians, were on call 24 hours a day and seven days a week. These teams decided on the indications of IR procedures and surgeries through a discussion among the leaders of emergency physicians, the IR team, and the surgical team and then performed the procedures. The IR team included at least one board-certified interventional radiologist. The IR team comprised an operator with or without assistants and a conductor. Both the IR and surgical teams were alerted when a first call from the prehospital emergency medical service included a patient sustaining trauma with shock or a patient who fell from a height of ≥10 m. The IR team participated in the primary survey and took part in the diagnostic evaluation by reading images, including focused assessment with ultrasound for trauma, X-ray, and computed tomography (CT). When focused assessment with ultrasound for trauma was positive or unstable pelvic fracture was observed on an X-ray, the IR team placed an arterial sheath for IR procedures. CT was performed according to the institutional trauma CT protocol and taken two phases (i.e., arterial and parenchymal) from the head to the pelvis. Indications for IR procedures were decided during patient resuscitation based on the comprehensive evaluation of the patient's characteristics, hemodynamic status, and findings from images. The IR team performed procedures under the stand-by surgical team. In the angiography suite, the conductor did not perform any procedures and only guided the operator while evaluating images and communicating with the surgical team. Emergency physicians monitored the patient during IR procedures. When hemostasis could not be achieved within one hour, switching to surgery was considered. When the choice was made to switch to surgery, the patient was quickly transported to the operating theater or trauma bay immediately for surgery. The trauma bay, CT room, and the angiography suite were separate and located 30 m apart from each other, and the operating theater was located on the second floor. The initial management process is shown in Fig. 1.
+
+Fig. 1
+Download : Download high-res image (416KB)
+Download : Download full-size image
+Fig. 1. Process of initial trauma management.
+
+IR = Interventional radiology; DCS = Damage control surgery; FAST = Focused assessment with sonography for trauma; CT = Computed tomography; TAE = Transcatheter arterial embolization.
+
+2.4. Data collection and processing
+The trauma and injury severity score (TRISS) methodology was adopted. The methodology helps determine the probability of survival, expressed as a ratio from 0 to 1, based on the parameters of anatomical and physiological evaluations, age, and types of injury [14]. Several data were collected mainly by a critical care physician (I.O., with 22 years of experience) including sex, age, injury mechanism, injury severity score (ISS), revised trauma score, and probability of survival (Ps). Data on CT examinations before TAE, sites for TAEs, and the total transfused blood products within 24 hours were also collected. Moreover, the following variables were considered as outcomes: survival at hospital discharge, time to start the procedure, procedure time, time to switch to surgery, time to start the procedure according to working hours, and complications.
+
+“Time to start the procedure” was defined as the time between hospital arrival and skin puncture, or arrival and catheter insertion when the arterial sheath was placed at the trauma bay, whereas “time to switch to surgery” was defined as the time between the end of IR procedures and the start of surgical skin incision. “Complications” were defined as any adverse event that required surgical, endoscopic, or radiological intervention, which was equivalent to Grade ≥ 3 in the Clavien–Dindo classification [15].
+
+The difference between observational survival and TRISS Ps was examined using the following equation [16]:
+
+After removing all identifying information, the data and images were assessed retrospectively and independently using a picture archiving and communication display console within the facility. The images were reviewed by board-certified radiologists (K.M., with 19 years of experience; Y.I., with 17 years of experience, and F.S., with 16 years of experience).
+
+2.5. Study outcomes
+The primary outcome was survival at hospital discharge in the two groups compared with Ps. Secondary outcomes were the time to start the procedure, procedure time, time to switch to thoracoabdominal surgery, time to start the procedure according to working hours, and complications.
+
+2.6. Statistical analysis
+Continuous variables were expressed as medians and interquartile ranges (IQR). One-sample Student's t-test was used to examine TRAIS, while the independent t-test was used to compare TRAIS between HSG and HUG. Categorical variables were analyzed using Fischer exact test, and other continuous variables were analyzed using the Mann–Whitney U test. A P-value of <0.05 was considered to indicate statistically significant differencs. The EZR (Saitama Medical Center, Jichi Medical University, Saitama, Japan) graphical user interface for R (The R Foundation for Statistical Computing, Vienna, Austria) was used to perform the statistical analysis [17].
+
+3. Results
+3.1. Patient characteristics
+During the study period, a total of 5233 patients who sustained trauma were admitted to the intensive care unit of the center. Among these patients, 180 who underwent IR procedures as the initial hemostatic treatment were enrolled. Among them, 20 were excluded, and the data of the remaining 160 patients (100 men and 60 women) were analyzed (Fig. 2).
+
+Fig. 2
+Download : Download high-res image (609KB)
+Download : Download full-size image
+Fig. 2. Study flowchart.
+
+The median age of the study population was 57.5 years [IQR: 31.5–72 years]. A total of 149 patients had blunt trauma and 11 had penetrating trauma. The median ISS was 24 [IQR: 13.75–34]. Of 160 patients, 125 were assigned to HSG and 35 patients were assigned to HUG. Both number of injured sites and ISS were significantly greater in HUG (HSG vs. HUG: 3 [IQR: 1–3] vs. 3 [IQR: 3–4], P < 0.001; 20 [IQR: 10–29] vs. 36 [IQR: 28–41], P < 0.001, respectively). Similarly, both the revised trauma score and Ps were significantly lower in HUG (HSG vs. HUG: 7.84 [IQR: 7.55–7.84] vs. 6.82 [IQR: 5.92–7.70], P < 0.001; 0.96 [IQR: 0.90–0.98] vs. 0.73 [IQR: 0.49–0.86], P < 0.001, respectively). Regarding torso injuries with abbreviated injury scores of ≥3, injuries to the pelvis, rib cage, and kidney were significantly more frequent in the HUG (P = 0.007, P = 0.023, and P = 0.045, respectively). The baseline characteristics of the study population are presented in Table 1.
+
+Table 1. Characteristics of the study population.
+
+Empty Cell	Hemodynamically stable group (n = 125)	Hemodynamically unstable group (n = 35)	P-value
+Age (years)	54 [30–73]	63 [39–72]	0.438
+Male sex	82 (65.6)	18 (51.4)	0.166
+Blunt injury	115 (92.0)	34 (97.1)	0.458
+Number of injured sites	3 [1–3]	3 [3–4]	<0.001
+Injury severity score	20 [10–29]	36 [28–41]	<0.001
+Revised trauma score	7.84 [7.55–7.84]	6.82 [5.92–7.70]	<0.001
+Probability of survival	0.96 [0.90–0.98]	0.73 [0.49–0.86]	<0.001
+Torso injury (AIS of ≥3)			
+Pelvis	55 (44.0)	25 (71.4)	0.007
+Rib cage	34 (27.2)	17 (48.6)	0.023
+Lung	26 (20.8)	12 (34.2)	0.117
+Spleen	25 (20.0)	6 (17.1)	0.812
+Liver	24 (19.2)	7 (20.0)	>0.99
+Spine	12 (9.6)	6 (17.1)	0.230
+Kidney	13 (10.4)	4 (11.4)	>0.99
+Aorta	3 (2.4)	4 (11.4)	0.045
+Mesentery	2 (1.6)	2 (5.7)	0.208
+Others	23 (18.4)	5 (14.3)	0.801
+Categoric data are expressed as raw numbers followed by percentages in parentheses. Quantitative variables are expressed as medians followed by interquartile ranges [Q1–Q3] in brackets. AIS = Abbreviated injury score.
+
+
+3.2. Interventions
+CT examination before TAE was performed in 153 patients (153/160; 95.6%). The rate of CT examination before TAE was significantly lower in HUG (85.7%) than in HSG (98.4%) (P = 0.006). In HUG, three patients with an unstable pelvic fracture on X-rays underwent TAE of the pelvis before CT examination. TAEs involved the pelvis in 78 patients (78/160; 48.8%), followed by the spleen (29/160; 18.1%) and the liver (25/160; 15.6%). Embolization rates for the pelvis and lumbar arteries were significantly greater in HUG than in HSG (71.4%; P = 0.004; 28.6%; P = 0.012, respectively). A total of 52 patients underwent TAEs for ≥2 sites (52/160; 32.5%). The embolization rate for more than two sites was not significantly different between the two groups. Overall, 19 patients (19/160; 11.9%) had to switch to thoracoabdominal surgery. The rate to switch to surgery was not different between the two groups. The amounts of transfusions including red blood cells, fresh frozen plasma, and platelet concentrates, were all significantly greater in HUG than in HSG. Details of TAE and blood products transfused within 24 hours are listed in Table 2.
+
+Table 2. Interventions performed in the study population.
+
+Empty Cell	Hemodynamically stable group (n = 125)	Hemodynamically unstable group (n = 35)	P-value
+CT examination before embolization	123 (98.4)	30 (85.7)	0.006
+Sites for embolization			
+Pelvis	53 (42.4)	25 (71.4)	0.004
+ Spleen	23 (18.4)	6 (17.1)	>0.99
+ Liver	21 (16.8)	4 (11.4)	0.6
+ Lumbar artery	13 (10.4)	10 (28.6)	0.012
+ Costal artery	9 (7.2)	3 (8.6)	0.726
+ Kidney	8 (6.4)	2 (5.7)	>0.99
+ Neck	5 (4.0)	3 (8.6)	0.374
+ Others	38 (30.4)	10 (28.6)	>0.99
+ Sites for embolization ≥2	36 (28.8)	16 (45.7)	0.068
+ Switch to surgery	13 (10.4)	6 (17.1)	0.373
+Transfusion of blood products			
+ Red blood cell	2 [0–6]	12 [7–14]	<0.001
+ Fresh frozen plasma	4 [0–10]	12 [8–20]	<0.001
+ Platelet concentrate	0 [0–0]	0 [0–20]	0.008
+CT = Computed tomography.
+
+Categoric data are expressed as raw numbers followed by percentages in parentheses. Quantitative variables are expressed as medians followed by interquartile ranges [Q1–Q3] in brackets.
+
+
+3.3. Effects in survival
+The overall survival rate was 96% in HSG and 91.4% in HUG. The observational survival rate was significantly greater than the Ps rate by 4.9% (95% confidence interval [CI]: 1.6–8.4%; P = 0.005) in HSG and 24.6% in HUG (95% CI: 16.9–32.3%; P < 0.001) (Table 3). The observational survival rate of HUG compared with Ps was significantly greater than that of HSG (P < 0.001) (Fig. 3). Although four patients with a Ps of >0.5 died in HSG, no patient with a Ps of >0.5 died in HUG. In addition, six unexpected survivors in HUG and one unexpected survivor in HSG had a Ps of <0.5.
+
+Table 3. Observational survival rates compared with predictive survival rates.
+
+Empty Cell	Ps	Difference	95% CI	P-value
+Hemodynamically stable group
+(n = 125)	0.96 [0.90–0.98]
+0.049
+0.016–0.084
+0.005
+Hemodynamically unstable group
+(n = 35)	0.73 [0.49–0.86]
+0.246
+0.169–0.323
+<0.001
+Ps = Probability of survival; CI = Confidence interval.
+
+Ps are expressed as medians; numbers in brackets are interquartile ranges.
+
+
+Fig. 3
+Download : Download high-res image (156KB)
+Download : Download full-size image
+Fig. 3. Graph shows comparison of trauma and injury severity score (TRISS) adjusted increment in survivability between hemodynamically stable and unstable groups.
+
+TRAIS = Trauma and injury severity score (TRISS) adjusted increment in survivability; HSG = Hemodynamically stable group; HUG = Hemodynamically unstable group.
+
+3.4. Time course
+Time intervals are presented in Table 4. The median time to start IR procedures was shorter in HUG (54 min [IQR: 45–66]) than in HSG (86 min [IQR: 70–111]) (P < 0.001). The median IR procedure time was shorter in HUG (48 min [IQR: 30–85]) than in HSG (59 min [IQR: 46–88]) (P = 0.043). No differences in median time to switch to thoracoabdominal surgery was found between HUG (41.5 min [IQR: 28–75]) and HSG (38 min [IQR: 26–55]) (P = 0.93). The median time to start the procedure during both the day and after-hours/weekends in HUG was significantly shorter than that in HSG. In HUG, no significant differences were observed in the median time to start the procedure between day hours (56 min [IQR: 52–68]) and after-hours/weekends hours (54 min [IQR: 43–62]) (P = 0.2).
+
+Table 4. Time course.
+
+Time (min)	Hemodynamically stable group(n = 125)	Hemodynamically unstable group(n = 35)	P-value
+Time to start the procedure from arrival	86 [70–111]	54 [45–66]	<0.001
+Procedure time	59 [46–88]	48 [30–85]	0.043
+Time to switch to surgery	38 [26–55]	41.5 [28–75]	0.93
+Time to start the procedure according to hours			
+ Day hours	85 [68–133]	56 [52–68]	0.003
+ After hours/weekends	86 [71–104]	54 [43–62]	<0.001
+Data are expressed as medians; numbers in brackets are interquartile ranges.
+
+
+3.5. Complications
+The overall complication rate, including death, was 18.1%. A total of 32 complications were observed. The complication rates were 15.2% in HSG and 28.6% in HUG (P = 0.084). The most common complication was pneumonia (n = 15; 8 in HSG and 7 in HUG). Direct complications from IR procedures included pseudoaneurysm (n = 3 in HSG), biloma (n = 1 in HUG), muscle necrosis (n = 1 in HSG), and peritoneal abscess (n = 1 in HSG). All pseudoaneurysms were re-embolized, which later disappeared. Both biloma and peritoneal abscess were punctured percutaneously and healed. The muscle necrosis was debrided.
+
+4. Discussion
+The results of the present study suggest that a workflow in which the IR team participates in the primary survey conducted 24 hours a day and seven days a week could improve the survival of patients who require IR procedures, particularly those with with shock, as this workflow can reduce the time to start the procedure as well as offers a shorter procedure time.
+
+Based on the literature review, no reporst have shown a survival benefit when radiologists participate in a primary trauma survey. The concept of radiologists participating in the initial trauma management to analyze images and perform IR procedures appears new. Moreover, performing IR procedures in patients sustaining torso trauma with shock is challenging. Although some reports exist, these studies included a small number of patients [8], [9], [10]. Bize et al. reported TAE in 36 patients with hemodynamically unstable trauma with multiple bleeding sites, which was the largest study to date [7]. However, six patients underwent surgery first in their study and the remaining 30 patients underwent TAE first. The present study included 35 hemodynamically unstable patients who underwent TAEs first, which was larger than the number of patients in the Bize et al. study. The number of patients in the present study is larger than those in previous studies [7], [8], [9], [10].
+
+This study shows an increased survival benefit of approximately 25% compared with Ps. No previous studies have revealed its survival benefits over Ps. Though the TRISS methodology was noted that the accuracy of prediction tended to be reduced in blunt trauma patients [18], but it was well known to correlate with the actual prognosis even at present [19], [20], [21]. If the observational survival rate was significantly far greater than Ps, it was considered to be greater than the survival expected at present. Previously, only Otsuka et al. showed a survival benefit of TAE for hemodynamically unstable patients [10]. Their study that included 16 patients showed a 25% mortality rate, no preventable trauma death, and eight unexpected survivors. By contrast, the present study shows a 9.6% mortality rate, no preventable death, and six unexpected survivors out of 35 hemodynamically unstable patients. Although patients with a mean Ps of 0.34 in the study of Otsuka et al. were more severe compared with that in the present study, the outcomes of this study were good [10].
+
+The time between arrival and IR procedure was 94 min in Bize et al. study, 46 min in Olthof et al. study, and 53 min in Otsuka et al. study [7,9,10]. In the current study, the time to IR procedure (54 min) was roughly equivalent to those in previous studies, even though 85.7% of the patients underwent CT examination before TAE. In addition, the present median procedure time of 48 min was also equivalent to 50 min in Otsuka et al. study [10]. In the management of patients with trauma, time course is a critical issue [22,23]. In general, the number of patients with trauma increased during after-hours and weekends [24]. However, the availability of TAEs reportedly gets worse during after-hours and weekends [25]. In contrast, no differences were observed between weekdays and after-hours/weekends procedure initiation in the present study. Tanizaki et al. reported a worse prognosis in hemodynamically unstable patients with pelvic fracture when the time to TAE was greater than 60 min [26]. Mortality rates increase by 1% every 3 min in the emergency department [22]. Hence, the start of procedures within 60 min, the so-called “golden hour,” might be a threshold.
+
+In our study, 6/35 (17.1%) patients in HUG required thoracoabdominal surgeries, and the complication rate was 28.6%. Ogura et al. reported no additional surgery in their study [8]. Meanwhile, Bize et al. reported that six of their 36 patients required additional surgery (16.6%), and the complication rate was 55.5% [7]. Moreover, Otsuka et al. reported that five of their 16 patients required thoracoabdominal surgeries (31.3%), and two complications that occurred required additional interventions (complication rate, 37.5%) [10]. The low complication and additional surgery rates in the present study could be attributed to the collaboration between the IR and surgical teams who had in-depth knowledge and skills. Both TAE and surgery have their advantages and disadvantages as hemostatic techniques. The combination therapy of IR and surgery is consequently required. In particular, combination therapy for severe liver trauma is widely recognized [27,28]. In the present workflow, the IR and surgical teams discuss and decide on a treatment plan while simultaneously resuscitating the patient from the hospital arrival. The workflow could provide optimized hemostasis for each patient promptly.
+
+The workflow was able to strengthen the collaboration among members who participated in the primary survey. Some studies reported misdiagnosis by emergency physicians using images in the emergency department setting [29,30]. Hardy et al. showed that misdiagnosis and treatment plan changes can be prevented by allowing radiologists to analyze the images [30]. The participation of the IR team in the primary survey helps precise decision-making as well as prompt intervention. Conversely, performing endovascular treatments under stand-by surgeons is critical for the safety of patients to prepare for switching to surgery. Indeed, shorter procedure times in shock patients and a rapid transition to surgery were observed in the present study. The good outcomes in this study can be attributable to the human factors based on the workflow. Recently, all-in-one resuscitation rooms have been developed [31]. If the present workflow is applied in this new type of resuscitation room, better outcomes can be expected. Meanwhile, this new workflow that only adjusts human factors without new facilities presented a survival benefit. The workflow can be installed anywhere in the world.
+
+There are some limitations in the present study. First, this study included a small sample size; therefore, population bias may exist. Second, this was a retrospective study, and concrete indications for TAE were not determined in advance. Each indication was decided by members of their field. Hence, bias in treatment selection might have occurred. Third, we defined “hemodynamically unstable” as a systolic blood pressure of <90 mmHg during the primary survey of the initial management in this study. However, a widely accepted definition of “hemodynamically unstable” patients has not yet been established; therefore, the findings cannot be precisely compared with other studies. Forth, the TRISS methodology is old, and this study included no control group. Moreover, Ps may not reflect the survival rates at the current treatment levels. Fifth, this strategy requires a sufficient manpower especially in radiologists; thus, it is difficult to adapt the strategy to all facilities.
+
+In conclusion, a trauma workflow in which the IR team participated in the primary survey of patients sustaining severe torso trauma is associated with improved survival of patients sustaining hemodynamically unstable multiple trauma when compared with Ps because of a shorter time to start the procedure and a shorter procedure time.

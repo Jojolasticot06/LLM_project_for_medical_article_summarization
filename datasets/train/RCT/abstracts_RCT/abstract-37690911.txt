@@ -1,0 +1,40 @@
+Artificial intelligence for breast cancer detection in screening mammography in 
+Sweden: a prospective, population-based, paired-reader, non-inferiority study.
+
+1/BACKGROUND: Artificial intelligence (AI) as an independent reader of screening 
+mammograms has shown promise, but there are few prospective studies. Our aim was 
+to conduct a prospective clinical trial to examine how AI affects cancer 
+detection and false positive findings in a real-world setting.
+
+2/METHODS: ScreenTrustCAD was a prospective, population-based, paired-reader, 
+non-inferiority study done at the Capio Sankt Göran Hospital in Stockholm, 
+Sweden. Consecutive women without breast implants aged 40-74 years participating 
+in population-based screening in the geographical uptake area of the study 
+hospital were included. The primary outcome was screen-detected breast cancer 
+within 3 months of mammography, and the primary analysis was to assess 
+non-inferiority (non-inferiority margin of 0·15 relative reduction in breast 
+cancer diagnoses) of double reading by one radiologist plus AI compared with 
+standard-of-care double reading by two radiologists. We also assessed single 
+reading by AI alone and triple reading by two radiologists plus AI compared with 
+standard-of-care double reading by two radiologists. This study is registered 
+with ClinicalTrials.gov, NCT04778670.
+
+3/FINDINGS: From April 1, 2021, to June 9, 2022, 58 344 women aged 40-74 years 
+underwent regular mammography screening, of whom 55 581 were included in the 
+study. 269 (0·5%) women were diagnosed with screen-detected breast cancer based 
+on an initial positive read: double reading by one radiologist plus AI was 
+non-inferior for cancer detection compared with double reading by two 
+radiologists (261 [0·5%] vs 250 [0·4%] detected cases; relative proportion 1·04 
+[95% CI 1·00-1·09]). Single reading by AI (246 [0·4%] vs 250 [0·4%] detected 
+cases; relative proportion 0·98 [0·93-1·04]) and triple reading by two 
+radiologists plus AI (269 [0·5%] vs 250 [0·4%] detected cases; relative 
+proportion 1·08 [1·04-1·11]) were also non-inferior to double reading by two 
+radiologists.
+
+4/INTERPRETATION: Replacing one radiologist with AI for independent reading of 
+screening mammograms resulted in a 4% higher non-inferior cancer detection rate 
+compared with radiologist double reading. Our study suggests that AI in the 
+study setting has potential for controlled implementation, which would include 
+risk management and real-world follow-up of performance.
+FUNDING: Swedish Research Council, Swedish Cancer Society, Region Stockholm, and 
+Lunit.

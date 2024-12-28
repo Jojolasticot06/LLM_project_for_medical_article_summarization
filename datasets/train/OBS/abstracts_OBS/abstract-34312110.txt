@@ -1,0 +1,26 @@
+PURPOSE: The purpose of this study was to evaluate the association between 
+coronary artery calcium (CAC) visual score and 6-month mortality in patients 
+with coronavirus disease 2019 (COVID-19).
+MATERIAL AND METHODS: A single-center prospective observational cohort was 
+conducted in 169 COVID-19 consecutive hospitalized patients between March 13 and 
+April 1, 2020, and follow-up for 6-months. A four-level visual CAC scoring was 
+assessed by analyzing images obtained after the first routine non-ECG-gated CT 
+performed to detect COVID-19 pneumonia.
+RESULTS: Among 169 confirmed COVID-19 patients (118 men, 51 women; mean age, 
+65.6 ± 18.8 [SD] years; age range: 30-95 years) 63 (37%) presented with either 
+moderate (n = 26, 15.3%) or heavy (n = 37, 21.8%) CAC detected by CT and 20 
+(11.8%) had history of cardiovascular disease requiring specific preventive 
+treatment. At six months, mortality rate (45/169; 26.6%) increased with 
+magnitude of CAC and was 7/64 (10.9%), 11/42 (26.2%), 10/26 (38.5%), 17/37 
+(45.9%) for no-CAC, mild-CAC, moderate-CAC and heavy-CAC groups, respectively (P 
+= 0.001). Compared to the no CAC group, risk of death increased after adjustment 
+with magnitude of CAC (HR: 2.23, 95% CI: 0.73-6.87, P = 0.16; HR: 2.78, 95% CI: 
+0.85-9.07, P0.09; HR: 5.38, 95% CI: 1.57-18.40, P = 0.007; in mild CAC, moderate 
+and heavy CAC groups, respectively). In patients without previous coronary 
+artery disease (154/169; 91%), mortality increased from 10.9% to 45.8% 
+(P = 0.001) according to the magnitude of CAC categories. After adjustment, 
+presence of moderate or heavy CAC was associated with higher mortality (HR: 
+2.26, 95% CI: 1.09-4.69, P = 0.03).
+CONCLUSION: By using non-ECG-gated CT during the initial pulmonary assessment of 
+COVID-19, heavy CAC is independently associated with 6-month mortality in 
+patients hospitalized for severe COVID-19 pneumonia.

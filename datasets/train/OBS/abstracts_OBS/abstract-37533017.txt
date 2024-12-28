@@ -1,0 +1,23 @@
+BACKGROUND: The Targeted Learning roadmap provides a systematic guide for 
+generating and evaluating real-world evidence (RWE). From a regulatory 
+perspective, RWE arises from diverse sources such as randomized controlled 
+trials that make use of real-world data, observational studies, and other study 
+designs. This paper illustrates a principled approach to assessing the validity 
+and interpretability of RWE.
+METHODS: We applied the roadmap to a published observational study of the 
+dose-response association between ritodrine hydrochloride and pulmonary edema 
+among women pregnant with twins in Japan. The goal was to identify barriers to 
+causal effect estimation beyond unmeasured confounding reported by the study's 
+authors, and to explore potential options for overcoming the barriers that 
+robustify results.
+RESULTS: Following the roadmap raised issues that led us to formulate 
+alternative causal questions that produced more reliable, interpretable RWE. The 
+process revealed a lack of information in the available data to identify a 
+causal dose-response curve. However, under explicit assumptions the effect of 
+treatment with any amount of ritodrine versus none, albeit a less ambitious 
+parameter, can be estimated from data.
+CONCLUSIONS: Before RWE can be used in support of clinical and regulatory 
+decision-making, its quality and reliability must be systematically evaluated. 
+The TL roadmap prescribes how to carry out a thorough, transparent, and 
+realistic assessment of RWE. We recommend this approach be a routine part of any 
+decision-making process.

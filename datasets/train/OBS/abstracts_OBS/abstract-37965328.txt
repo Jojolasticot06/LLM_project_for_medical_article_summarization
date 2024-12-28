@@ -1,0 +1,34 @@
+BACKGROUND: Inflammatory bowel disease (IBD) including Crohn's disease (CD) and 
+ulcerative colitis (UC), are associated with higher thrombotic risk and enhanced 
+thrombin generation (TG) in adults. Despite encouraging data reporting vaccine 
+safety and low IBD flare rates in adults with IBD, vaccine hesitancy was 
+demonstrated to be high in families of children with IBD. We aimed to find out 
+whether TG is increased in children with IBD as compared to healthy controls and 
+whether TG parameters show significant changes following SARS-CoV-2 mRNA 
+vaccination.
+PATIENTS AND METHODS: In this observational case-control study, 38 children with 
+IBD (CD:18, UC: 20) aged 12-18 years and 62 healthy age-and sex-matched children 
+were enrolled. Blood was collected before the first dose and 2-6 weeks after the 
+second dose of BNT162b2 (Pfizer-BioNTech) mRNA vaccine dose. Blood cell counts, 
+fibrinogen, inflammatory markers (hsCRP, ferritin), anti-SARS-CoV-2 antibody 
+levels were investigated, TG assay was carried-out using platelet-poor plasma. 
+Detailed clinical parameters including disease activity scores (PUCAI, PCDAI) 
+were registered pre-and post- vaccination. A guided questionnaire was used to 
+collect data on adverse reactions (AEs) post- vaccination.
+RESULTS: Baseline TG parameters did not differ between patients and controls. 
+Endogenous thrombin potential showed a significant positive correlation with 
+markers of inflammation and with PCDAI. Inflammatory parameters and TG did not 
+increase in patients and controls post-vaccination. Vaccination significantly 
+increased antibody levels in all three investigated groups, but post-vaccination 
+anti-SARS-CoV-2 S IgG/IgM levels were below the 5th percentile value of healthy 
+children in more than one third of patients. Those receiving TNFα inhibitor 
+therapy presented significantly lower SARS-CoV-2 S IgG/IgM levels as compared to 
+patients on other immunosuppressive regimens. Systemic AEs did not differ 
+between patients and controls while lower rate of local symptoms was found 
+post-vaccination in children with IBD. Only 2 IBD flares were detected 2-6 weeks 
+after the second dose of vaccination.
+CONCLUSION: Our study is the first to support the safety and efficacy of 
+anti-SARS-CoV-2 BNT162b2 vaccination in children with IBD with detailed pre-and 
+post-vaccination laboratory data including TG. Results of this study may further 
+increase confidence and reduce vaccine hesitancy in caretakers of pediatric IBD 
+patients.

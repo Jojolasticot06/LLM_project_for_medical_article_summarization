@@ -1,0 +1,12 @@
+Anti-osteoporotic drugs affect the pathogenesis of gut microbiota and its metabolites: a clinical study.
+
+1/BACKGROUND: Disordered gut microbiota (GM) structure and function may contribute to osteoporosis (OP). This study explores how traditional Chinese medicine (TCM) intervention affects the structure and function of the GM in patients with OP.
+
+2/METHOD: In a 3-month clinical study, 43 patients were randomly divided into two groups receiving conventional treatment and combined TCM (Yigu decoction, YGD) treatment. The correlation between the intestinal flora and its metabolites was analyzed using 16S rDNA and untargeted metabolomics and the combination of the two.
+
+3/RESULTS: After three months of treatment, patients in the treatment group had better bone mineral density (BMD) than those in the control group (P < 0.05). Patients in the treatment group had obvious abundance changes in GM microbes, such as Bacteroides, Escherichia-Shigella, Faecalibacterium, Megamonas, Blautia, 
+Klebsiella, Romboutsia, Akkermansia, and Prevotella_9. The functional changes observed in the GM mainly involved changes in metabolic function, genetic information processing and cellular processes. The metabolites for which major changes were observed were capsazepine, Phe-Tyr, dichlorprop, D-pyroglutamic 
+acid and tamsulosin. These metabolites may act through metabolic pathways, the citrate cycle (TCA cycle) and beta alanine metabolism. Combined analysis showed that the main acting metabolites were dichlorprop, capsazepine, D-pyroglutamic 
+acid and tamsulosin.
+
+4/CONCLUSION: This study showed that TCM influenced the structure and function of the GM in patients with OP, which may be one mechanism by which TCM promotes the rehabilitation of patients with OP through the GM.

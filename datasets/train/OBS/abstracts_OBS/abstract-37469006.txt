@@ -1,0 +1,22 @@
+BACKGROUND: Past decades have witnessed a decrease in environmental 
+biodiversity. We hypothesized a similar decrease in indigenous gut microbiota 
+diversity, which may have contributed to the obesity epidemic.
+OBJECTIVE: To investigate the changes in the composition and function of the gut 
+microbiota in pregnant women over a period of 20 years.
+STUDY DESIGN: Altogether 124 pregnant women (41 overweight and matched 83 normal 
+weight) pregnant in 1997, 2007 or 2017 were included in the study. The gut 
+microbiota composition was assessed from fecal samples obtained at 32 weeks of 
+gestation by 16S rRNA gene sequencing. Fecal short chain fatty acid (SCFA) 
+profiles were measured by gas chromatography mass spectrometry (GC-MS).
+RESULTS: Distinct gut microbiota profiles were detected in pregnant women from 
+1997, 2007 and 2017 (PERMANOVA Bray-Curtis R2 = 0.029, p = 0.001). The women 
+pregnant in 1997 exhibited significantly higher microbiota richness and 
+diversity as compared to those pregnant in 2007 and 2017. The total 
+concentration of fecal SCFAs was significantly higher in the pregnant women in 
+1997 compared to those in 2007 and 2017. Significant differences in gut 
+microbiota composition between normal weight and overweight women were manifest 
+in 1997 but not in 2007 or 2017.
+CONCLUSIONS: The decrease in intestinal microbiota richness and diversity over 
+two decades occurred in parallel with the decline in biodiversity in our natural 
+surroundings. It appears that the gut microbiota of pregnant women has changed 
+over time to a composition typical for overweight individuals.

@@ -1,0 +1,9 @@
+"Three Good Things" Digital Intervention Among Health Care Workers: A Randomized Controlled Trial
+
+1/Purpose: Positive psychology shows promise in improving positive affect and happiness. We tested a digital version of a positive psychology intervention called Three Good Things (3GT) among health care workers to assess whether gratitude practice improved well-being.
+
+2/Methods: All members of a large academic medicine department were invited. Participants were randomized to an immediate intervention group or control group (delayed intervention). Participants completed outcome measures surveys (demographics, depression, positive affect, gratitude, and life satisfaction) at baseline, and at 1 month and 3 months post-intervention. Controls completed additional surveys at 4 and 6 months (completion of the delayed intervention). During the intervention, we sent 3 text messages per week asking for 3GT that occurred that day. We used linear mixed models to compare the groups and to look at the effects of department role, sex, age, and time on outcomes.
+
+3/Results: Of 468 eligible individuals, 223 (48%) enrolled and were randomized with high retention through the end of the study. Most (87%) identified as female. For the intervention group, positive affect improved slightly at 1 month, then declined slightly but remained significantly improved at 3 months. Depression, gratitude, and life satisfaction scores showed a similar trend but were not statistically different between groups.
+
+4/Conclusions: Our research showed adherence to a positive psychology intervention for health care workers created small positive improvements immediately post-intervention but were not sustained. Further work should evaluate whether utilizing different duration or intensity of the intervention improves benefits.

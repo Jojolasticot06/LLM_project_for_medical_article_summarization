@@ -1,0 +1,38 @@
+OBJECTIVE: To assess the association of single and accumulated geriatric 
+deficits with HRQOL decline in patients after treatment for HNC.
+DESIGN, SETTING, AND PARTICIPANTS: Between October 2014 and May 2016, patients 
+at a tertiary referral center were included in the Oncological Life Study 
+(OncoLifeS), a prospective data biobank, and followed up for 2 years. A 
+consecutive series of 369 patients with HNC underwent geriatric assessment at 
+baseline; a cohort of 283 patients remained eligible for analysis, and after 2 
+years, 189 patients remained in the study. Analysis was performed between March 
+and November 2020.
+INTERVENTIONS OR EXPOSURES: Geriatric assessment included scoring of the Adult 
+Comorbidity Evaluation 27, polypharmacy, Malnutrition Universal Screening Tool, 
+Activities of Daily Living, Instrumental Activities of Daily Living (IADL), 
+Timed Up & Go, Mini-Mental State Examination, 15-item Geriatric Depression 
+Scale, marital status, and living situation.
+MAIN OUTCOMES AND MEASURES: The primary outcome measure was the Global Health 
+Status/Quality of Life (GHS/QOL) scale of the European Organisation for Research 
+and Treatment of Cancer Quality of Life Questionnaire Core 30. Differences 
+between patients were evaluated using linear mixed models at 3 months after 
+treatment (main effects, β [95% CI]) and declining course per year during 
+follow-up (interaction × time, β [95% CI]), adjusted for baseline GHS/QOL 
+scores, and age, sex, stage, and treatment modality.
+RESULTS: Among the 283 patients eligible for analysis, the mean (SD) age was 
+68.3 (10.9) years, and 193 (68.2%) were male. Severe comorbidity (β = -7.00 
+[-12.43 to 1.56]), risk of malnutrition (β = -6.18 [-11.55 to -0.81]), and IADL 
+restrictions (β = -10.48 [-16.39 to -4.57]) were associated with increased 
+GHS/QOL decline at 3 months after treatment. Severe comorbidity (β = -4.90 
+[-9.70 to -0.10]), IADL restrictions (β = -5.36 [-10.50 to -0.22]), restricted 
+mobility (β = -6.78 [-12.81 to -0.75]), signs of depression (β = -7.08 [-13.10 
+to -1.06]), and living with assistance or in a nursing home (β = -8.74 [-15.75 
+to -1.73]) were associated with further GHS/QOL decline during follow-up. 
+Accumulation of domains with geriatric deficits was a major significant factor 
+for GHS/QOL decline at 3 months after treatment (per deficient domain β = -3.17 
+[-5.04 to -1.30]) and deterioration during follow-up (per domain per year 
+β = -2.74 [-4.28 to -1.20]).
+CONCLUSIONS AND RELEVANCE: In this prospective cohort study, geriatric deficits 
+were significantly associated with HRQOL decline after treatment for HNC. 
+Therefore, geriatric assessment may aid decision-making, indicate interventions, 
+and reduce loss of HRQOL.

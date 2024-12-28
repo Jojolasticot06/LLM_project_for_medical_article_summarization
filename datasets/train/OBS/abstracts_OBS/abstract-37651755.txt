@@ -1,0 +1,31 @@
+BACKGROUND: Kumquat decoction is a traditional Chinese medicine formula and has 
+been widely used to alleviate the coronavirus disease 2019 (COVID-19)-related 
+cough in China. However, the effectiveness and safety of kumquat decoction 
+remain unclear.
+PURPOSE: To assess the effectiveness and safety of kumquat decoction for 
+COVID-19-related cough.
+STUDY DESIGN: A multicentre, prospective observational study.
+METHODS: We enrolled consecutive patients with mild-to-moderate COVID-19 from 
+December 31, 2022, to January 3, 2023, during the Omicron phase in Yangshuo 
+County, China. The primary outcome was the time from study baseline to sustained 
+cough resolution by the last follow-up day on January 31, 2023. The 
+effectiveness was evaluated by Cox proportional hazards models based on 
+propensity score analyses. The secondary outcomes were the resolution of cough 
+and other COVID-19-related symptoms by Days 3, 5, and 7.
+RESULTS: Of 1434 patients, 671 patients were excluded from the analysis of cough 
+resolution. Among the remaining 763 patients, 481 (63.04%) received kumquat 
+decoction, and 282 (36.96%) received usual care. The median age was 38.0 
+(interquartile range [IQR] 29.0, 50.0) years, and 55.7% were women. During a 
+median follow-up of 7.000 days, 68.2% of patients in the kumquat group achieved 
+sustained cough resolution (93.77 per 1000 person-days) compared to 39.7% in the 
+usual care group (72.94 per 1000 person-days). The differences in restricted 
+mean survival time (RMST) (kumquat decoction minus usual care group) for cough 
+resolution were -0.742 days (95% CI, -1.235 to -0.250, P = 0.003) on Day 7. In 
+the main analysis using propensity-score matching, the adjusted hazard ratio 
+(HR) for cough resolution (kumquat decoction vs. usual care group) was 1.94 (95% 
+CI, 1.48 to 2.53, P < 0.001). Similar findings were found in multiple 
+sensitivity analyses. In addition, the use of kumquat decoction was associated 
+with the resolution of cough, and a stuffy nose on Days 5 and 7, as well as the 
+resolution of sore throat on Day 7 following medication.
+CONCLUSION: In this study among patients with COVID-19-related cough, receiving 
+kumquat decoction was associated with an earlier resolution of cough symptoms.

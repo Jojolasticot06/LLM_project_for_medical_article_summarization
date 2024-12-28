@@ -1,0 +1,294 @@
+INTRODUCTION
+Patients with liver cirrhosis face a high risk of developing infections.1 Several mechanisms underlying increased susceptibility for infection have been postulated, including immune dysfunction, increased intestinal vascular permeability, modified microbiota pattern, and genetic predisposition.1,2 Infection is the most common trigger of acute-on-chronic liver failure (ACLF), which is characterized by acutely decompensated cirrhosis with single-organ or multiple-organ failure.3 ACLF is associated with increased morbidity and mortality.4,5
+
+The prevalence of infection with multidrug-resistant (MDR) microorganisms among cirrhosis patients has been increasing, with worldwide patterns varying with geography.6,7 Risk factors for developing MDR infection in cirrhosis patients include recent procedures or hospitalization, use of antimicrobials, and intensive care unit (ICU) admission.6–8 MDR infection has been associated with a higher risk for short-term mortality in hospitalized cirrhosis patients.6,7,9
+
+Being colonized with MDR organisms (“MDR colonization”) has been shown to increase the risk of infection and mortality among critically ill patients.10,11 However, little is known about the prevalence and prognostic significance of MDR colonization in critically ill patients with cirrhosis.
+
+Therefore, the objectives of this study were: (1) to characterize the pattern of MDR colonization in cirrhosis patients admitted to ICU; (2) to examine the frequency, onset, and type of infections during the ICU admission as well as causative microorganisms (including MDR); and (3) to evaluate effects of MDR colonization or infection on clinical outcomes. We hypothesized that MDR colonization or infection is associated with higher short-term mortality among cirrhosis patients admitted to the ICU.
+
+METHODS
+Design, setting, participants, and ethics
+This was a single-center, retrospective, observational cohort study. Cirrhosis patients admitted for at least 48 hours to any of the 5 ICUs at Northwestern Memorial Hospital (Chicago, Illinois, USA) between January 1, 2010, and December 31, 2017, were included. Patients were excluded if they had a previous liver transplant (LT) or were admitted to the ICU for an elective LT. For patients who were admitted to the ICU more than once during the study period, only the initial ICU admission meeting the above inclusion and exclusion criteria was included in this analysis.
+
+As this was a noninterventional and anonymized study, the institutional review board waived the need for individual informed consent IRB number STU00204868, Northwestern University. All study procedures followed the principles of the Declaration of Helsinki and Istanbul.12 The reporting of this study followed the Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) guideline.13
+
+Definitions, data collection, exposures, and endpoints
+Cirrhosis was defined as bridging fibrosis on liver biopsy or a composite of clinical signs and findings provided by laboratory tests, endoscopy, and radiologic imaging.3 Organ failures and ACLF criteria were defined based on the European Foundation for the Study of Chronic Liver Failure (CLIF) Consortium.3,4
+
+Colonization was defined based on positive swabs, which were routinely obtained in patients at the time of ICU admission as per hospital standard surveillance protocol. MDR microorganisms studied (culture or PCR identification methods) were: methicillin-resistant Staphylococcus aureus with nasal swab; and vancomycin-resistant Enterococcus species and extended-spectrum beta-lactamase bacteria with rectal swab.14
+
+Infections were defined by standard clinical criteria and isolation of a specific microorganism in a collected specimen of a body fluid (except for culture-negative peritonitis) (File S1, https://links.lww.com/HC9/A92).15–17 MDR infection was defined by an infection caused by microorganisms deemed nonsusceptible to at least 1 agent in at least 3 antimicrobial categories. Some of the most epidemiologically relevant were the following: Staphylococcus spp., Enterococcus spp., Enterobacteriaceae (other than Salmonella or Shigella), Pseudomonas aeruginosa, Klebsiella spp., or Acinetobacter spp.6,7,18 The mechanisms of resistance of these bacteria are out of the scope of this study. The antimicrobial management of infection was based on local and international guidelines.15–19
+
+The following baseline characteristics of patients were extracted and calculated from the electronic health records: age, sex, and body mass index; Charlson Comorbidity Index; etiology and preadmission complications of cirrhosis; prescribed medications at the time of admission; vital signs, level of organ support, and blood biochemistry on ICU admission; severity of disease scores on ICU day 1, namely biochemical Model for End-stage Liver Disease—Sodium, Sequential Organ Failure Assessment (SOFA), and Chronic Liver Failure Acute-on-chronic Liver Failure; colonization with MDR microorganisms, specifically methicillin-resistant Staphylococcus aureus, vancomycin-resistant Enterococcus, or extended-spectrum beta-lactamase bacteria; infection by organ type diagnosed during the index ICU stay, including with MDR microorganisms; antibiotics used; ICU and hospital length of stay; survival and LT rates during the index hospital stay.3–5,11,20
+
+Primary exposures were MDR colonization on ICU admission and infection, overall and with MDR microorganisms, during the index ICU stay. The primary endpoint was transplant-free survival (TFS). This was selected to better understand the impact of MDR colonization and infection on the outcomes of critically ill cirrhosis patients, therefore accounting for the definitive effect of LT on the disease pathophysiology.
+
+Statistical analysis
+Continuous and categorical variables were described as median [interquartile range (IQR)] and frequency (%), respectively. Overall missing data across all values was 2.3%, therefore no imputation was performed. Univariate comparisons were performed using the Mann-Whitney and chi-square tests where appropriate. Multivariable analysis was performed with logistic regression.
+
+The development of the final models initially included variables deemed clinically significant and/or with a p < 0.10 on the univariable analysis. Collinearity was avoided where appropriate. The models’ further development used a backward stepwise elimination process with the final models being the ones yielding the best fit. Model’s performance was evaluated by c-statistic (95% CI).
+
+To further compensate for the effect of LT on patients’ outcomes, a sensitivity analysis following the exclusion of patients who underwent LT during the index hospital stay was performed. In addition, we conducted a time-to-death analysis with LT as a competing risk using the Fine-Gray subdistribution hazard model.21
+
+Statistical significance was defined as p < 0.05 (2-tailed). Statistical analysis was performed using IBM SPSS Statistics, version 28 (IBM Corp.).
+
+RESULTS
+Baseline characteristics
+Among 600 patients included, median (IQR) age was 58 (49, 64) years and 362 (60%) were male. Alcohol-associated liver disease and viral hepatitis were the most frequent etiologies of cirrhosis, in 306 (51%) and 198 (33%) patients, respectively. The most frequent complications of portal hypertension before ICU admission were the following: ascites in 482 (80%), HE in 382 (64%), esophageal or gastric varices in 343 (57%), and hepatorenal syndrome in 217 (36%) patients.
+
+On admission to the ICU (“ICU Day 1”), ACLF was graded based on CLIF consortium definitions as follows: grade 0 in 159 (27%), grade 1 in 95 (16%), grade 2 in 134 (22%), and grade 3 in 212 (35%) patients. Median (IQR) Model for End-stage Liver Disease, SOFA, and Chronic Liver Failure Acute-on-chronic Liver Failure scores were 28.0 (20.0, 36.0), 9.0 (6.0, 13.0), and 55.0 (48.0, 64.0), respectively. Baseline characteristics are described in Table 1.
+
+TABLE 1 - Baseline characteristics
+Variables	N	n (%) or median (IQR)
+Age (y)	599	58.0 (49.0, 64.0)
+Male	600	362 (60)
+Body mass index (kg/m2)	590	27.9 (23.9, 33.2)
+Charlson Comorbidity Index	600	3 (1, 5)
+Cirrhosis etiology
+ Alcohol	599	306 (51)
+ Viral hepatitis	599	198 (33)
+ NASH	599	28 (5)
+ Primary sclerosing cholangitis	599	12 (2)
+ Autoimmune hepatitis	599	30 (5)
+ Primary biliary cholangitis	599	37 (6)
+ Genetic cirrhosis	599	33 (6)
+ Other	599	410 (68)
+History of cirrhosis complications before index admission
+ HCC	599	110 (18)
+ Ascites	599	482 (80)
+ Spontaneous bacterial peritonitis	599	141 (24)
+ Esophageal or gastric varices	599	343 (57)
+ HE	599	382 (64)
+ Hepatorenal syndrome	599	217 (36)
+ Hepatopulmonary syndrome	599	40 (7)
+Vital signs on ICU admission
+ Temperature (F)	598	98.8 (98.2, 99.9)
+ Heart rate (/min)	598	107.0 (93.0, 121.0)
+ Mean arterial pressure (mm Hg)	597	58.0 (50.0, 66.0)
+ PO2/FiO2 ratio (mm Hg)	296	207.5 (145.0, 302.7)
+Blood biochemistry on ICU admission
+ International normalized ratio	600	2.0 (1.6, 2.5)
+ Bilirubin (mg/dL)	597	4.5 (1.9, 11.5)
+ Creatinine (mg/dL)	600	1.7 (1.1, 3.1)
+ Albumin (g/dL)	533	2.7 (2.3, 3.2)
+ Sodium (mEq/L)	600	135.0 (131.0, 139.0)
+ Alanine transferase (IU/L)	531	34.0 (20.0, 68.5)
+ Lactate (mg/dL)	413	2.6 (1.7, 5.0)
+ Leukocyte count (×1000/μL)	595	11.0 (7.2, 17.0)
+ Platelet count (×1000/μL)	594	69.0 (44.2, 117.0)
+Severity scores on ICU day 1
+ MELD	597	28.0 (20.0, 36.0)
+ SOFA	600	9.0 (6.0, 13.0)
+ CLIF-ACLF	594	55.0 (48.0, 64.0)
+ ACLF gradinga	600	
+  Grade 0	600	159 (27)
+  Grade 1	600	95 (16)
+  Grade 2	600	134 (22)
+  Grade 3	600	212 (35)
+Organ dysfunction and support
+ Glasgow Coma Scale: ICU day 1	593	15 (12, 15)
+ MV: ICU day 1	600	298 (50)
+ MV: during ICU stay	600	415 (69)
+ Vasopressors: ICU day 1	600	190 (32)
+ Vasopressors: during ICU stay	600	244 (41)
+ Renal replacement therapy: ICU day 1	600	78 (13)
+ Renal replacement therapy: during ICU stay	600	191 (32)
+Outcomes for hospital stay
+ Listed for LT	600	90 (15)
+ Liver transplanted	600	76 (13)
+ Alive at ICU discharge	600	463 (77)
+ Alive at hospital discharge	600	443 (74)
+Colonization with MDR on ICU admission
+ Any MDR colonization	600	200 (33)
+ MRSA	600	34 (6)
+ VRE	600	169 (28)
+ ESBL bacteria	600	16 (3)
+Infection in the ICU
+ Any infection	600	347 (58)
+ Pneumonia	600	197 (33)
+  Bacterial pneumonia	600	183 (30)
+  Fungal pneumonia	600	76 (13)
+ Urinary tract infection	600	119 (20)
+ Peritonitis	600	93 (16)
+  Bacterial ascites	600	38 (6)
+  Fungal ascites	600	12 (2)
+  Culture-negative neutrocytic ascites	600	52 (9)
+ Bloodstream infection	600	99 (16)
+ Catheter tip infection	600	7 (1)
+  Clostridium difficile colitis	600	9 (2)
+Infection with MDR
+ Any MDR infection	600	69 (12)
+ MDR pneumonia	600	23 (4)
+ MDR urinary tract infection	600	23 (4)
+ MDR peritonitis	600	17 (3)
+ MDR bacteremia	600	20 (3)
+aBased on CLIF consortium definitions.
+Abbreviations: CLIF-ACLF, Chronic Liver Failure Acute-on-Chronic Liver Failure; ESBL, extended-spectrum beta-lactamase; ICU, intensive care unit; IQR, interquartile range; MDR, multidrug resistant; MELD, Model for End-stage Liver Disease; MRSA, methicillin-resistant Staphylococcus aureus; MV, mechanical ventilation; SOFA, Sequential Organ Failure Assessment; VRE, vancomycin-resistant Enterococcus.
+
+Outcomes
+During the index hospital stay, 76 patients (13%) received LT and 443 (74%) were alive at hospital discharge (371 (62%) without LT) (Table 1). Overall, median (IQR) lengths of stay for the index hospitalization and index ICU admission were 15 (8, 24) and 6 (3, 13) days, respectively.
+
+Colonization and infection in the ICU
+At the time of ICU admission, 200 (33%) patients were colonized with at least 1 MDR microorganism, distributed as follows: 169 patients (28%) with vancomycin-resistant Enterococcus, 34 (6%) with methicillin-resistant Staphylococcus aureus, and 16 (3%) with extended-spectrum beta-lactamase bacteria. Patients with MDR colonization were more likely to have been diagnosed with HE before admission (71% vs. 60%; p = 0.011) and to have been prescribed lactulose (32% vs. 21%; p = 0.006), proton-pump inhibitors (35% vs. 21%; p < 0.001), or trimethoprim-sulfamethoxazole (22% vs. 10%; p < 0.001) (Table S1, https://links.lww.com/HC9/A92). There was no significant difference in the rates of preadmission prescription with rifaximin, quinolones, and nonselective beta-blockers between patients colonized with MDR and those not colonized.
+
+During the index ICU stay, infection occurred in 347 (58%) patients, of which 147 (42%) cases were ICU-acquired, defined by the time of diagnostic microbial study 48 hours or later from the ICU admission. Among all infection in the ICU, 197 (33%) patients had pneumonia, 119 (20%) had urinary tract infection, 99 (16%) had peritonitis, 93 (16%) had a bloodstream infection, and 9 (2%) had Clostridium difficile colitis. Seven out of 93 bloodstream infection (7.5%) were associated with a positive catheter tip culture (Table 1). The microorganisms isolated in the body fluids of patients are summarized by type of infection in Table S2 (https://links.lww.com/HC9/A92).
+
+Among patients with shock during the ICU stay, any infection was more likely to have occurred than no infection (74% vs. 47%; p < 0.001). Patients with grade 3 ACLF were more likely to have any infection in the ICU than those with a lower grade or no ACLF (Figure 1: 72% vs. ≤60%; p < 0.001).
+
+F1
+FIGURE 1: Cases of infection during the index intensive care unit stay stratified by ACLF grading on day 1. Abbreviations: ACLF, acute-on-chronic liver failure; MDR, multidrug-resistant.
+During the index ICU stay, MDR infection occurred in 69 (12%) patients, including 42 (61%) ICU-acquired cases. Among the 69 patients with MDR infection, 23 (4%) patients had MDR pneumonia, 23 (4%) had MDR urinary tract infection, 20 (3%) had MDR bacteremia, and 17 (3%) had MDR peritonitis.
+
+Among patients with shock during the ICU stay, any MDR infection was more likely to have occurred than other infection or no infection (58% vs. 42%; p = 0.002). Patients with grade 3 ACLF were more likely to have any MDR infection than those with a lower ACLF grade or no ACLF (Figure 1: 18% vs. ≤12%; p = 0.005). Patients with any MDR infection in the ICU were more likely to have been colonized with MDR on ICU admission (Table S3, https://links.lww.com/HC9/A92: 61% vs. 30%; p < 0.001). The details of MDR infections among patients with MDR colonization are summarized in Table S4 (https://links.lww.com/HC9/A92).
+
+The prevalence of any infection (p = 0.55) or MDR infection (p = 0.85) in the ICU did not vary significantly with the year of enrollment (Figure S1, https://links.lww.com/HC9/A92). However, the prevalence of MDR colonization significantly declined over time (p < 0.001).
+
+Antibiotic treatments in the ICU
+During the index ICU stay, 566 (94%) patients received at least 1 intravenous antibiotic treatment and 408 (68%) patients received 3 or more antibiotics (Tables S5 and S6, https://links.lww.com/HC9/A92). Median (IQR) duration of the longest single-antibiotic treatment was 7 (3–15) days.
+
+Patients with MDR colonization on ICU admission received a greater number of antibiotics (4 vs. 3; p < 0.001) and longer maximum duration of antibiotic treatment (12 vs. 6 d; p < 0.001) than those without MDR colonization. Patients with any MDR infection received a greater number of antibiotics (5 vs. 4; p < 0.001) and longer maximum duration of antibiotic treatment (19 vs. 8 d; p < 0.001), compared with those with any non-MDR infection.
+
+Regarding HE treatment in the ICU, 292 (49%) patients received rifaximin and 281 (47%) received lactulose within the first 3 days of the ICU admission. The rates of treatment with rifaximin and lactulose were not different between patients with any infection in the ICU and those without infection (rifaximin: 66% vs. 34%, p = 0.73; lactulose: 62% vs. 38%, p = 0.81). Similarly, the rates of treatment with rifaximin and lactulose were not different between patients with any MDR infection in the ICU and those without infection (rifaximin: 75% vs. 25%, p = 0.07; lactulose: 57% vs. 43%, p = 0.35).
+
+The association of MDR colonization or infection with TFS
+The severity of disease on ICU admission was lower in the patients who were discharged from the hospital without LT (“survivors without LT”), compared with those who died or received LT during the index hospital stay, as demonstrated by Model for End-stage Liver Disease (25 vs. 34; p < 0.001), SOFA (8 vs. 11; p < 0.001), or Chronic Liver Failure Acute-on-chronic Liver Failure (52 vs. 62; p < 0.001) scores (Table 2 and Table S7, https://links.lww.com/HC9/A92).
+
+TABLE 2 - Baseline characteristics stratified by transplant-free vital status
+n (%) or median (IQR)	
+Variables	LT or nonsurvivors	Survivors	p value
+N	229 (38)	371 (62)	
+Age (y)	58 (50, 65)	58 (47, 64)	0.305
+Male	137 (61)	225 (60)	0.842
+Body mass index (kg/m2)	24.8 (21.1, 28.3)	27.7 (23.6, 33.8)	0.350
+Charlson Comorbidity Index	3 (1, 5)	3 (1, 5)	0.408
+Cirrhosis etiology
+ Alcohol	105 (46)	201 (54)	0.044
+ Viral hepatitis	69 (30)	129 (35)	0.231
+ NASH	9 (4)	19 (5)	0.497
+ Primary sclerosing cholangitis	3 (1)	9 (2)	0.389
+ Autoimmune hepatitis	17 (7)	13 (4)	0.033
+ Primary biliary cirrhosis	15 (7)	22 (6)	0.765
+ Genetic cirrhosis	17 (7)	16 (4)	0.106
+ Other	148 (65)	262 (71)	0.114
+History of cirrhosis complications before index admission
+ HCC	41 (18)	69 (19)	0.819
+ Ascites	192 (84)	290 (78)	0.101
+ Spontaneous bacterial peritonitis	62 (27)	79 (21)	0.109
+ Esophageal or gastric varices	104 (45)	239 (65)	<0.001
+ HE	165 (72)	217 (59)	<0.001
+ Hepatorenal syndrome	111 (49)	106 (29)	<0.001
+ Hepatopulmonary syndrome	10 (4)	30 (8)	0.075
+Vital signs on ICU admission
+ Temperature (F)	98.6 (98.1, 99.4)	99.0 (98.4, 100.1)	0.147
+ Heart rate (/min)	108 (95, 122)	106 (92, 121)	0.034
+ Mean arterial pressure (mm Hg)	55.0 (48.5, 64.0)	60.0 (51.0, 68.0)	<0.001
+ PO2/FiO2 ratio (mm Hg)	196.0 (122.5, 271.3)	225.0 (156.0, 342.0)	0.013
+Blood biochemistry on ICU admission
+ International normalized ratio	2.3 (1.9, 3.2)	1.8 (1.4, 2.2)	<0.001
+ Bilirubin (mg/dL)	8.6 (3.8, 19.1)	3.3 (1.3, 7.6)	<0.001
+ Creatinine (mg/dL)	2.3 (1.3, 3.6)	1.4 (1.0, 2.7)	<0.001
+ Albumin (g/dL)	2.8 (2.3, 3.3)	2.7 (2.2, 3.1)	0.311
+ Sodium (mEq/L)	134 (130, 139)	135 (132, 139)	0.061
+ Alanine transferase (IU/L)	42.5 (25.0, 102.5)	28.0 (19.0, 51.0)	<0.001
+ Lactate (mg/dL)	3.7 (2.2, 7.2)	2.1 (1.5, 3.9)	<0.001
+ Leukocyte count (×1000/μL)	11.6 (8.2, 18.3)	10.6 (6.7, 16.0)	0.005
+ Platelet count (×1000/μL)	58.0 (39.0, 98.0)	77.0 (49.0, 122.0)	<0.001
+Severity scores on ICU day 1
+ MELD	34.0 (27.0, 39.0)	25.0 (17.0, 32.0)	<0.001
+ SOFA	11.0 (9.0, 15.0)	8.0 (5.0, 11.0)	<0.001
+ CLIF-ACLF	62.0 (54.0, 67.0)	51.5 (45.0, 58.0)	<0.001
+Organ dysfunction and support
+ Glasgow Coma Scale: ICU day 1	13 (9, 15)	14 (9, 15)	0.003
+ MV: ICU day 1	129 (56)	169 (46)	0.010
+ MV: during ICU stay	213 (93)	202 (55)	<0.001
+ Vasopressors: ICU day 1	101 (44)	89 (24)	<0.001
+ Vasopressors: during ICU stay	137 (60)	107 (29)	<0.001
+ Renal replacement therapy: ICU day 1	42 (18)	36 (10)	0.002
+ Renal replacement therapy: during ICU stay	115 (50)	76 (21)	<0.001
+Colonization with MDR on ICU admission
+ Any MDR colonization	94 (41)	106 (29)	0.002
+ MRSA	8 (4)	26 (7)	0.070
+ VRE	85 (37)	84 (23)	<0.001
+ ESBL bacteria	8 (4)	8 (2)	0.323
+Infection in the ICU
+ Any infection	158 (69)	189 (51)	<0.001
+ Pneumonia	105 (46)	92 (25)	<0.001
+ Bacterial pneumonia	97 (42)	86 (23)	<0.001
+ Fungal pneumonia	46 (20)	30 (8)	<0.001
+ Urinary tract infection	49 (21)	70 (19)	0.450
+ Peritonitis	55 (24)	38 (10)	<0.001
+  Bacterial ascites	27 (12)	11 (3)	<0.001
+  Fungal ascites	8 (4)	4 (1)	0.067
+  Culture-negative neutrocytic ascites	25 (11)	27 (7)	0.124
+ Bloodstream infection	49 (21)	50 (14)	0.011
+ Catheter tip infection	7 (3)	0 (0)	0.001
+  Clostridium difficile colitis	4 (2)	5 (1)	0.696
+Infection with MDR
+ Any MDR infection	49 (21)	20 (5)	<0.001
+ MDR pneumonia	15 (7)	8 (2)	0.006
+ MDR urinary tract infection	16 (7)	7 (2)	0.002
+ MDR peritonitis	13 (6)	4 (1)	<0.001
+ MDR bacteremia	17 (7)	3 (1)	<0.001
+Abbreviations: CLIF-ACLF, Chronic Liver Failure Acute-on-Chronic Liver Failure; ESBL, extended-spectrum beta-lactamase; ICU, intensive care unit; IQR, interquartile range; MDR, multidrug resistant; MELD, Model for End-stage Liver Disease; MRSA, methicillin-resistant Staphylococcus aureus; MV, mechanical ventilation; SOFA, Sequential Organ Failure Assessment; VRE, vancomycin-resistant Enterococcus.
+
+Survivors without LT were less likely to have MDR colonization on ICU admission (29% vs. 41%; p = 0.002), any infection in the ICU (51% vs. 69%; p < 0.001), and any MDR infection in the ICU (5% vs. 21%; p < 0.001) than others (Table 2).
+
+In multivariable models, MDR colonization [OR (95% CI), 0.64 (0.43, 0.95)] or MDR infection [OR (95% CI), 0.22 (0.12, 0.40)], was associated with a lower likelihood of TFS. In addition, SOFA score [OR (95% CI), 0.85 (0.81, 0.89)], alcohol etiology [OR (95% CI), 1.78 (1.19, 2.66)], preexisting varices [OR (95% CI), 3.16 (2.11, 4.74)] and hepatorenal syndrome [OR (95% CI), 0.45 (0.31, 0.69)] were significant predictors of TFS (Table 3 and Figure 2). Multivariable models including admission Chronic Liver Failure Acute-on-chronic Liver Failure score or the use of vasopressors (a surrogate for shock) instead of SOFA score yielded similar results (Tables S8 and S9, https://links.lww.com/HC9/A92).
+
+TABLE 3 - Multivariable analysis: the association of MDR colonization or infection with transplant-free survival during the index hospital stay
+Variables	Adjusted OR	p
+Model 1
+ Age (y)	0.99 (0.98, 1.01)	0.282
+ Male	0.92 (0.62, 1.36)	0.916
+ Alcohol etiology	1.78 (1.19, 2.66)	0.005
+ Esophageal or gastric varices	3.16 (2.11, 4.74)	<0.001
+ HE	0.67 (0.44, 1.02)	0.062
+ Hepatorenal syndrome	0.45 (0.31, 0.69)	<0.001
+ SOFA (ICU day 1)	0.85 (0.81, 0.89)	<0.001
+ Infection (ICU stay)	0.68 (0.46, 1.00)	0.052
+ MDR colonization (ICU admission)	0.64 (0.43, 0.95)	0.028
+Model 2
+ Age (y)	0.99 (0.98, 1.01)	0.239
+ Male	0.92 (0.62, 1.38)	0.700
+ Alcohol etiology	1.94 (1.28, 2.94)	0.002
+ Esophageal or gastric varices	3.22 (2.13, 4.85)	<0.001
+ HE	0.65 (0.42, 0.99)	0.044
+ Hepatorenal syndrome	0.44 (0.30, 0.67)	<0.001
+ SOFA (ICU day 1)	0.85 (0.81, 0.89)	<0.001
+ MDR infection (ICU stay)	0.22 (0.12, 0.40)	<0.001
+Model 1: n patients = 598, n events = 369, c-statistic (95% CI) = 0.78 (0.74–0.82).
+Model 2: n patients = 598, n events = 369, c-statistic (95% CI) = 0.79 (0.76–0.83).
+Abbreviations: ICU, intensive care unit; MDR, multidrug resistant; SOFA, Sequential Organ Failure Assessment.
+
+F2
+FIGURE 2: Multivariable analysis. Adjusted association of MDR colonization with transplant-free survival during the index hospital stay. Abbreviations: ICU, intensive care unit; MDR, multidrug resistant; SOFA, Sequential Organ Failure Assessment.
+In a sensitivity analysis excluding patients who received LT during the index hospital stay, any infection [OR (95% CI), 0.63 (0.40, 0.98)] and any MDR infection [OR (95% CI), 0.27 (0.14, 0.54)] were independently associated with decreased odds of hospital survival. MDR colonization was no longer significantly associated with hospital survival [OR (95% CI), 0.89 (0.56, 1.41)] (Table S10, https://links.lww.com/HC9/A92). In a time-to-death analysis with LT as a competing risk, MDR colonization was significantly associated with a higher likelihood of LT [HR (95% CI), 1.88 (1.17, 3.02)], a lower likelihood of death [HR (95% CI), 0.58 (0.41, 0.82)], and a lower likelihood of TFS [HR (95% CI), 0.47 (0.37, 0.59)] in multivariable models including age, sex, alcohol etiology, preexisting varices, HE, hepatorenal syndrome, SOFA on ICU day 1, and any infection in the ICU (Table S11, https://links.lww.com/HC9/A92). MDR infection was significantly associated with a higher likelihood of LT [HR (95% CI), 1.99 (1.15, 3.44)] and a lower likelihood of TFS [HR (95% CI), 0.37 (0.23, 0.59)] in multivariable models including age, sex, alcohol etiology, preexisting varices, HE, hepatorenal syndrome, and SOFA on ICU day 1. MDR infection was not significantly associated with death without LT [HR 0.99 (0.66, 1.47)] (Table S12, https://links.lww.com/HC9/A92). Cumulative incidence of death and LT by MDR colonization and MDR infection are summarized in Figures S2 and S3 (https://links.lww.com/HC9/A92), respectively.
+
+DISCUSSION
+In this large sample of cirrhosis patients admitted to the ICU in a single, tertiary medical center in the US, the prevalence rates of MDR colonization on ICU admission, any infection in the ICU, and any MDR infection in the ICU were 33%, 58%, and 12%, respectively. Patients with MDR colonization on ICU admission were more likely to have MDR infection in the ICU. Both MDR colonization and MDR infection were independently associated with decreased odds of TFS after adjusting for covariates including age, sex, cirrhosis etiology, preexisting complication of portal hypertension, and SOFA score.
+
+Comparison with previous literature
+Prado and the colleagues examined a European cohort of critically ill cirrhosis patients (N = 129) where the prevalence of rectal colonization with MDR microorganism on ICU admission was 29%, with extended-spectrum beta-lactamase bacteria being the most frequent cause.22 Our cohort of critically ill cirrhosis patients had several notable differences from Prado and colleagues’ cohort: (1) the sample size was larger (N = 600); (2) disease severity was higher (the proportion of ACLF = 63% vs. 47%; Model for End-stage Liver Disease score = 28 vs. 17; SOFA score = 9 vs. 6); (3) both nasal and rectal swabs were used to detect MDR colonization; and (4) vancomycin-resistant Enterococcus were the most commonly identified microorganism for MDR colonization.
+
+In a large, multicenter, international cohort of hospitalized cirrhosis patients with infection (N = 1302), the prevalence of MDR infection in the US was 16%.7 A similar rate of MDR infection (16%) was observed in a large European cohort of hospitalized cirrhosis patients (N = 1146).6 Neither of these 2 studies reported on the prevalence of MDR colonization, potentially because a routine surveillance for non-ICU admission is not a common practice.
+
+Not surprisingly, MDR infection in the ICU was significantly more frequent in patients who were colonized with MDR microorganisms on ICU admission. Studies including general critically ill patients have suggested that early colonizing microorganisms on the skin, in the airway, or in the gut may become the source of a subsequent infection.23,24 In the European cohort of critically ill cirrhosis patients examined by Prado et al.22, MDR rectal colonization was associated with higher risk of MDR infection. Therefore, the findings from the present study extends the existing literature by confirming the association between MDR colonization and the risk of subsequent MDR infection in the ICU in a larger and sicker sample of critically ill cirrhosis patients.
+
+Interestingly, in our cohort, patients colonized with MDR microorganisms were significantly more likely to have a history of HE and to have taken lactulose, proton-pump inhibitors, and trimethoprim-sulfamethoxazole as outpatient before the index hospitalization. Prior use of proton-pump inhibitors and trimethoprim-sulfamethoxazole, but not lactulose, was also more frequent in patients with MDR infection in the ICU than those without MDR infection. In contrast to Prado et al.22 who reported an association between prior norfloxacin use and MDR rectal colonization, prior quinolone use was not associated with MDR colonization or MDR infection in our cohort. This observed discrepancy may be secondary to a lower frequency of quinolone use in our cohort (6% vs. 10%), methodological differences (ie, surveillance with nasal and rectal swabs), and geographical differences in prevalent MDR species. Regardless, based on these findings, we postulate that common treatments for complications of cirrhosis and portal hypertension may alter the gut microbiota and the risk of colonization and infection with MDR microorganisms. It is also possible that patients who receive these treatments have more severe complications of cirrhosis and portal hypertension, which, along with an increased frequency of health care utilization, contribute to alteration in gut microbiota and the risk of MDR colonization and infection.
+
+In our cohort, we also found that the occurrence of any infection was significantly more likely in cirrhosis patients with higher ACLF grades. In addition, 52% of patients with an infection developed shock. These findings are in line with previous studies that have demonstrated that infection is the most frequent trigger of the development of organ failures in patients with cirrhosis.3–5,9 Patients with infection-triggered ACLF have been shown to have a worse clinical outcome compared with those with other triggers such as gastrointestinal bleeding.25 Patients with ACLF have been shown to exhibit evidence of cellular immune depression, which may further contribute to increased susceptibility for infection.26
+
+In our cohort, patients with MDR colonization or MDR infection required a significantly higher number of antibiotics and longer maximum duration of antibiotic treatment, compared with those without MDR colonization and non-MDR infection, respectively. Infections with MDR microorganisms are often more difficult to treat than those with non-MDR microorganisms, which may lead to the initiation of multiple-drug regimen and an extended duration of antibiotic treatment.22,27
+
+Finally, we found that MDR colonization and MDR infection were independently associated with lower TFS, after adjusting for age, sex, cirrhosis etiology, previous complications of portal hypertension, and the severity of organ failures on ICU day 1. Associations with hospital survival remained significant for MDR infection but not for MDR colonization in the sensitivity analysis excluding patients who received LT. Interestingly, time-to-death analyses with LT as a competing risk showed an unexpectedly lower likelihood for death in those colonized with MDR while MDR infection was not significantly associated with death. This phenomenon is likely explained by (1) a nearly 2-fold higher daily odds of receiving LT in those colonized or infected with MDR and (2) a longer duration of hospitalization among those colonized with MDR who ultimately did not survive.
+
+Prado et al.22 reported an association between MDR rectal colonization and a lower hospital survival in critically ill patients with cirrhosis. In the multicenter international study of hospitalized cirrhosis patients with infection, where most patients were not critically ill, MDR infection was associated with lower hospital survival.7 However, neither study reported on TFS, making it difficult to make further direct comparisons.
+
+Regardless, we conclude that MDR infection, and possibly MDR colonization, in the ICU may be important risk factors for worse prognosis in critically ill cirrhosis patients. Efficient strategies to improve the detection of MDR colonization or infection in cirrhosis patients need to be further studied. Those may include standard protocol swabs on hospital admission and periodically during the hospital stay, especially in those patients with risk factors for colonization. Furthermore, recent developments of PCR-based diagnostic platforms, such as BioFire FilmArray, enable a rapid identification of microorganisms with improved sensitivity compared with traditional culture methods. Future studies incorporating PCR-based diagnostic testing may be useful in elucidating the prognostic significance of infection, including MDR infection, in critically ill cirrhosis patients.
+
+Limitations
+The results of this analysis require consideration of the following limitations. First, this was an observational study of patients admitted to a university hospital in a large urban area of the US. Therefore, given the evolving variability of the MDR types and prevalence worldwide, these results may not be generalizable in different geographical locations. Second, we were not able to capture interventions targeted to control the source of infection. However, the use of local protocols based on updated international guidelines about infection management may mitigate such a limitation. Third, we do not have data on the specific causes of death and are unable to ascertain sepsis-related mortality or death due to withdrawal of care. Last, the definitions we used for infections required a confirmed growth of microorganism, except for culture-negative peritonitis. While the absence of clinical criteria may limit the yield of overall infection diagnoses, our approach eliminates a potential bias associated with a clinical diagnosis of culture-negative infection. Despite these limitations, our study adds to the literature by providing a detailed characterization of the types and impact of MDR colonization or infection on the outcomes in critically ill cirrhosis patients.
+
+CONCLUSION
+In critically ill cirrhosis patients admitted to the ICU, MDR colonization and MDR infection were associated with poorer short-term outcomes.

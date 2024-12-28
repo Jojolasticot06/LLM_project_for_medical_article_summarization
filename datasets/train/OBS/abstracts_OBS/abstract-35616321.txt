@@ -1,0 +1,23 @@
+INTRODUCTION: No reports on both blood and fecal bile acids (BAs) in patients 
+with nonalcoholic fatty liver disease (NAFLD) exist. We simultaneously assessed 
+the serum and fecal BA patterns in healthy participants and those with NAFLD.
+METHODS: We collected stool samples from 287 participants from 5 hospitals in 
+Japan (healthy control [HC]: n = 88; mild fibrosis: n = 104; and advanced 
+fibrosis group: n = 95). Blood samples were collected and analyzed for serum BAs 
+and 7α-hydroxy-4-cholesten-3-one (C4)-a surrogate marker for BA synthesis 
+ability-from 141 patients. Concentrations of BAs, including cholic acid (CA), 
+deoxycholic acid (DCA), chenodeoxycholic acid, ursodeoxycholic acid, and 
+lithocholic acid (LCA), were measured using liquid chromatography-mass 
+spectrometry.
+RESULTS: The total fecal BA concentration was significantly higher in the NAFLD 
+group with worsening of fibrosis than in the HC group. Most of the fecal BAs 
+were secondary and unconjugated. In the fecal BA fraction, CA, DCA, 
+chenodeoxycholic acid, ursodeoxycholic acid, and LCA were significantly higher 
+in the NAFLD than in the HC group. The total serum BA concentration was higher 
+in the NAFLD group with worsening of fibrosis than in the HC group. In the serum 
+BA fraction, CA, LCA, and C4 concentrations were significantly higher in the 
+NAFLD than in the HC group.
+DISCUSSION: Fecal and serum BA and C4 concentrations were high in patients with 
+NAFLD with worsening of fibrosis, suggesting involvement of abnormal BA 
+metabolism in NAFLD with fibrosis progression. Abnormalities in BA metabolism 
+may be a therapeutic target in NAFLD with fibrosis.

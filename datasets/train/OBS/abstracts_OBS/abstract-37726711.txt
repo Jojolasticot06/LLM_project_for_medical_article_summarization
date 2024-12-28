@@ -1,0 +1,34 @@
+BACKGROUND: In the course of the SARS-CoV-2 pandemic, multiple vaccines were 
+developed. Little was known about reactogenicity and safety in comparison to 
+established vaccines, e.g. influenza, pneumococcus, or herpes zoster. Therefore, 
+the present study aimed to compare self-reported side effects in persons 
+vaccinated against SARS-CoV-2 with the incidence of side effects in persons 
+receiving one of the established vaccines.
+METHODS: A longitudinal observational study was conducted over a total of 
+124 days using web-based surveys. Persons receiving either a vaccination against 
+SARS-CoV-2 or one of the established vaccines (comparator group) were included. 
+In the first questionnaire (short-term survey), 2 weeks after vaccination, 
+mainly local and systemic complaints were evaluated. The long-term survey 
+(42 days after vaccination) and follow-up survey (124 weeks after vaccination) 
+focused on medical consultations for any reason. Multivariate analyses were 
+conducted to determine the influence of the vaccine type (SARS-CoV-2 vs. 
+comparator) and demographic factors.
+RESULTS: In total, data from 16,636 participants were included. Self-reported 
+reactogenicity was lowest in the comparator group (53.2%) and highest in the 
+ChAdOx1 group (85.3%). Local reactions were reported most frequently after 
+mRNA-1273 (73.9%) and systemic reactions mainly after vector-based vaccines 
+(79.8%). Almost all SARS-CoV-2 vaccines showed increased odds of reporting local 
+or systemic reactions. Approximately equal proportions of participants reported 
+medical consultations. None in the comparator group suspected a link to 
+vaccination, while this was true for just over one in 10 in the mRNA-1273 group. 
+The multivariate analysis showed that people with SARS-CoV-2 vaccination were 
+not more likely to report medical consultations; patients who had received a 
+regimen with at least one ChAdOx1 were even less likely to report medical 
+consultations. Younger age, female gender and higher comorbidity were mostly 
+associated with higher odds of medical consultations.
+CONCLUSION: The rate of adverse reactions after established vaccinations was 
+roughly comparable to previous studies. Two weeks after vaccination, 
+participants in the SARS-CoV-2 vaccination group reported more local and 
+systemic local reactions than participants in the comparator group. In the 
+further course, however, there were no higher odds of medical consultations in 
+either of the two groups. Thus, altogether, we assume comparable safety.

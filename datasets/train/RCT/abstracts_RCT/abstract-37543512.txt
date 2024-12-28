@@ -1,0 +1,56 @@
+Integrating metabolic expenditure information from wearable fitness sensors into 
+an AI-augmented automated insulin delivery system: a randomised clinical trial.
+
+1/BACKGROUND: Exercise can rapidly drop glucose in people with type 1 diabetes. 
+Ubiquitous wearable fitness sensors are not integrated into automated insulin 
+delivery (AID) systems. We hypothesised that an AID can automate insulin 
+adjustments using real-time wearable fitness data to reduce hypoglycaemia during 
+exercise and free-living conditions compared with an AID not automating use of 
+fitness data.
+
+2/METHODS: Our study population comprised of individuals (aged 21-50 years) with 
+type 1 diabetes from from the Harold Schnitzer Diabetes Health Center clinic at 
+Oregon Health and Science University, OR, USA, who were enrolled into a 76 h 
+single-centre, two-arm randomised (4-block randomisation), non-blinded crossover 
+study to use (1) an AID that detects exercise, prompts the user, and shuts off 
+insulin during exercise using an exercise-aware adaptive proportional derivative 
+(exAPD) algorithm or (2) an AID that automates insulin adjustments using fitness 
+data in real-time through an exercise-aware model predictive control (exMPC) 
+algorithm. Both algorithms ran on iPancreas comprising commercial glucose 
+sensors, insulin pumps, and smartwatches. Participants executed 1 week run-in on 
+usual therapy followed by exAPD or exMPC for one 12 h primary in-clinic session 
+involving meals, exercise, and activities of daily living, and 2 free-living 
+out-patient days. Primary outcome was time below range (<3·9 mmol/L) during the 
+primary in-clinic session. Secondary outcome measures included mean glucose and 
+time in range (3·9-10 mmol/L). This trial is registered with ClinicalTrials.gov, 
+NCT04771403.
+
+3/FINDINGS: Between April 13, 2021, and Oct 3, 2022, 27 participants (18 females) 
+were enrolled into the study. There was no significant difference between exMPC 
+(n=24) versus exAPD (n=22) in time below range (mean [SD] 1·3% [2·9] vs 2·5% 
+[7·0]) or time in range (63·2% [23·9] vs 59·4% [23·1]) during the primary 
+in-clinic session. In the 2 h period after start of in-clinic exercise, exMPC 
+had significantly lower mean glucose (7·3 [1·6] vs 8·0 [1·7] mmol/L, p=0·023) 
+and comparable time below range (1·4% [4·2] vs 4·9% [14·4]). Across the 76 h 
+study, both algorithms achieved clinical time in range targets (71·2% [16] and 
+75·5% [11]) and time below range (1·0% [1·2] and 1·3% [2·2]), significantly 
+lower than run-in period (2·4% [2·4], p=0·0004 vs exMPC; p=0·012 vs exAPD). No 
+adverse events occurred.
+
+4/INTERPRETATION: AIDs can integrate exercise data from smartwatches to inform 
+insulin dosing and limit hypoglycaemia while improving glucose outcomes. Future 
+AID systems that integrate exercise metrics from wearable fitness sensors may 
+help people living with type 1 diabetes exercise safely by limiting 
+hypoglycaemia.
+
+DOI: 10.1016/S2589-7500(23)00112-7
+PMCID: PMC10557965
+PMID: 37543512 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests PGJ and JRC have a 
+financial interest in Pacific Diabetes Technologies, a company that might have a 
+commercial interest in the results of this research and technology. JRC also 
+reports advisory board participation for Zealand Pharma, Novo Nordisk, Insulet, 
+and AstraZeneca. PGJ reports advisory board participation for Eli Lilly. PGJ and 
+JRC have received research funding at their institution from Dexcom. All other 
+authors declare no competing interests.

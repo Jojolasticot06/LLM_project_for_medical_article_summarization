@@ -1,0 +1,37 @@
+Immunogenicity and safety of concomitant administration of the 
+sabin-strain-based inactivated poliovirus vaccine, the 
+diphtheria-tetanus-acellular pertussis vaccine, and measles-mumps-rubella 
+vaccine to healthy infants aged 18 months in China.
+
+1/OBJECTIVES: During the COVID-19 pandemic, there was a decline in vaccine 
+coverage, and the implementation of combined vaccines and co-administration 
+strategies emerged as potential solutions to alleviate this predicament. Our 
+objective is to delve into the concurrent administration of the 
+sabin-strain-based inactivated poliovirus vaccine (sIPV), the 
+diphtheria-tetanus-acellular pertussis vaccine (DTaP), and measles-mumps-rubella 
+vaccine (MMR), with the intention of bridging the evidentiary gap pertaining to 
+vaccine co-administration in Chinese infants, and to ensure a safe and effective 
+vaccination strategy, ultimately leading to an augmentation in immunization 
+coverage.
+
+2/METHODS: This study was a follow-up trial of the "Immunogenicity and safety of 
+concomitant administration of the sIPV with the DTaP vaccine in children: a 
+multicenter, randomized, non-inferiority, controlled trial." Blood samples were 
+collected on day 0 and day 30, and serum antibody levels were detected to 
+measure antibody responses to each of the antigens. Local and systemic adverse 
+events were monitored and compared among groups. This study is the first to fill 
+the knowledge gap in China regarding the safe and effective combined vaccination 
+of sIPV, DTaP, and MMR vaccines.
+
+3/RESULTS: The geometric mean titer of the poliovirus types I, II, and III 
+neutralizing antibodies were 1060.22 (95% CI: 865.73-1298.39), 1537.06 (95% CI: 
+1324.27-1784.05), and 1539.10 (95% CI: 1296.37-1827.29) in group I on day 30; 
+geometric mean titer of antibodies against DTaP and MMR in the simultaneous 
+vaccination group was non-inferior to those in the DTaP alone and MMR alone 
+group. Reporting rates of local and systemic adverse reactions were similar 
+between groups and no serious adverse events were reported throughout the 
+clinical study period.
+
+4/CONCLUSION: Co-administration of the sIPV, DTaP, and MMR was safe and did not 
+impact immunogenicity, which would help to mitigate administrative costs and 
+enhance vaccine coverage rates.

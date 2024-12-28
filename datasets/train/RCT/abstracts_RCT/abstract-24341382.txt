@@ -1,0 +1,11 @@
+Inhibition of LPS-induced airway neutrophilic inflammation in healthy volunteers with an oral CXCR2 antagonist.
+
+1/BACKGROUND: Inhaled lipopolysaccharide (LPS) induces a dose-dependent, acute neutrophilic response in the airways of healthy volunteers that can be quantified in induced sputum. Chemokines, such as CXCL1 and CXCL8, play an important role in neutrophilic inflammation in the lung through the activation of CXCR2 and small molecule antagonists of these receptors have now been developed. We investigated the effect of AZD8309, a CXCR2 antagonist, compared with placebo on LPS-induced inflammation measured in sputum of healthy 
+volunteers.
+
+2/METHODS: Twenty healthy subjects were randomized in a double-blind placebo-controlled, cross-over study. AZD8309 (300 mg) or placebo was dosed twice daily orally for 3 days prior to challenge with inhaled LPS and induced sputum was collected 6 h later.
+
+3/RESULTS: Treatment with AZD8309 showed a mean 77% reduction in total sputum cells (p < 0.001) and 79% reduction in sputum neutrophils (p < 0.05) compared with placebo after LPS challenge. There was also a reduction in neutrophil elastase activity (p < 0.05) and CXCL1 (p < 0.05) and trends for reductions in 
+sputum macrophages (47%), leukotriene B4 (39%) and CXCL8 (52%).
+
+4/CONCLUSIONS: AZD8309 inhibited LPS-induced inflammation measured in induced sputum of normal volunteers, indicating that this treatment may be useful in the treatment of neutrophilic diseases of the airways, such as COPD, severe asthma and cystic fibrosis.

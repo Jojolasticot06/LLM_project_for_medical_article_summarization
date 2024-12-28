@@ -1,0 +1,35 @@
+OBJECTIVE: To investigate whether short-term exposure to environmental air 
+pollution is associated with psoriasis flares.
+DESIGN, SETTING, AND PARTICIPANTS: This observational study with both 
+case-crossover and cross-sectional design retrospectively analyzed longitudinal 
+data from September 2013 to January 2020 from patients with chronic plaque 
+psoriasis consecutively attending the outpatient dermatologic clinic of the 
+University Hospital of Verona. For the case-crossover analysis, patients were 
+included who had at least 1 disease flare, defined as Psoriasis Area and 
+Severity Index (PASI) increase of 5 or greater between 2 consecutive assessments 
+in a time frame of 3 to 4 months. For the cross-sectional analysis, patients 
+were included who received any systemic treatment for 6 or more months, with 
+grade 2 or higher consecutive PASI assessment.
+MAIN OUTCOMES AND MEASURES: We compared the mean and cumulative (area under the 
+curve) concentrations of several air pollutants (carbon monoxide, nitrogen 
+dioxide, other nitrogen oxides, benzene, coarse particulate matter [PM; 2.5-10.0 
+μm in diameter, PM10] and fine PM [<2.5 μm in diameter, PM2.5]) in the 60 days 
+preceding the psoriasis flare and the control visits.
+RESULTS: A total of 957 patients with plaque psoriasis with 4398 follow-up 
+visits were included in the study. Patients had a mean (SD) age of 61 (15) years 
+and 602 (62.9%) were men. More than 15 000 measurements of air pollutant 
+concentration from the official, open-source bulletin of the Italian Institute 
+for Environmental Protection and Research (ISPRA) were retrieved. Among the 
+overall cohort, 369 (38.6%) patients with psoriasis flare were included in the 
+case-crossover study. We found that concentrations of all pollutants were 
+significantly higher in the 60 days before psoriasis flare (median PASI at the 
+flare 12; IQR, 9-18) compared with the control visit (median PASI 1; IQR, 1-3, 
+P < .001). In the cross-sectional analysis, exposure to mean PM10 over 20 μg/m3 
+and mean PM2.5 over 15 μg/m3 in the 60 days before assessment were associated 
+with a higher risk of PASI 5 or greater point worsening (adjusted odds ratio 
+[aOR], 1.55; 95% CI, 1.21-1.99; and aOR, 1.25; 95% CI, 1.0-1.57, respectively). 
+Sensitivity analyses that stratified for trimester of evaluation, with various 
+lag of exposure and adjusting for type of treatment, yielded similar results.
+CONCLUSIONS AND RELEVANCE: The findings of this case-crossover and 
+cross-sectional study suggest that air pollution may be a trigger factor for 
+psoriasis flare.

@@ -1,0 +1,35 @@
+INTRODUCTION: Primary immunodeficiency diseases (PIDs) are rare inherited 
+diseases resulting in impaired immunity. People with PID experience lower 
+health-related quality of life (HR-QOL) and disease-related burdens in daily 
+activities. This ongoing, prospective observational study aims to evaluate 
+disease activity, treatment status, treatment-related burden, daily activities, 
+and HR-QOL in patients with PID in Japan over a 1-year period. In this interim 
+report (database lock: July 29, 2022), we present baseline results.
+METHODS: Participants were enrolled between November 2021 and May 2022; data 
+were collected four times/year per participant until May 2023 using an online 
+electronic patient-reported outcomes system. Patients with PID and healthy 
+volunteers aged ≥12 years, residing in Japan, and with access to a smartphone 
+were eligible. HR-QOL (primary endpoint) was assessed by the EuroQol-5 
+Dimensions-5 Levels (EQ-5D-5L) and the Medical Outcomes Study 36-Item Short Form 
+Health Survey (SF-36). Work productivity was assessed by the Work Productivity 
+and Activity Impairment (WPAI) Questionnaire. Other aspects of PID and burden 
+were assessed with a new questionnaire developed in-house. The study is 
+registered at the University hospital Medical Information Network clinical 
+trials registry (UMIN000045622).
+RESULTS: The full interim analysis set comprised 71 patients with PID and 47 
+healthy volunteers. The most common International Union of Immunological 
+Societies PID category was primary antibody deficiency (56.3% of patients). 
+Complications were common, especially recurrent respiratory tract infections 
+(63.4%). Most patients with PID were treated with immunoglobulin replacement 
+therapy (73.2%); 22.4% of these patients had serum immunoglobulin levels <700 
+mg/dL. Among patients who did not undergo hematopoietic cell transplantation, 
+EQ-5D-5L (n=67) and SF-36 (n=59) Physical and Mental Component Summary scores 
+were significantly lower than in healthy volunteers (p < 0.001). WPAI 
+absenteeism, work productivity loss, and activity impairment scores were 
+significantly lower in 42 working patients with PID than in 37 working healthy 
+volunteers (p < 0.05). Other results indicated that patients with PID experience 
+substantial burdens related to medical visits, expenses, work, and daily 
+activities.
+DISCUSSION: This interim analysis confirms that patients with PID in Japan have 
+lower HR-QOL and work productivity compared with healthy individuals and 
+experience substantial limitations and burdens in their daily lives.

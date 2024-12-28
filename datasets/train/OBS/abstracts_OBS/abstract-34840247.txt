@@ -1,0 +1,28 @@
+PURPOSE: Participating in cardiac rehabilitation (CR) after a cardiac event 
+provides many clinical benefits. Patients of lower socioeconomic status (SES) 
+are less likely to attend CR. It is unclear whether they attain similar clinical 
+benefits as patients with higher SES. This study examines how educational 
+attainment (one measure of SES) predicts both adherence to and improvements 
+during CR.
+METHODS: This was a prospective observational study of 1407 patients enrolled 
+between January 2016 and December 2019 in a CR program located in Burlington, 
+VT. Years of education, smoking status (self-reported and objectively measured), 
+depression symptom level (Patient Health Questionnaire), self-reported physical 
+function (Medical Outcomes Survey), level of fitness (peak metabolic equivalent, 
+peak oxygen uptake, and handgrip strength), and body composition (body mass 
+index and waist circumference) were obtained at entry to, and for a subset (n = 
+917), at exit from CR. Associations of educational attainment with baseline 
+characteristics were examined using Kruskal-Wallis or Pearson's χ 2 tests as 
+appropriate. Associations of educational attainment with improvements during CR 
+were examined using analysis of covariance or logistic regression as 
+appropriate.
+RESULTS: Educational attainment was significantly associated with most patient 
+characteristics examined at intake and was a significant predictor of the number 
+of CR sessions completed. Lower educational attainment was associated with less 
+improvement in cardiorespiratory fitness, even when controlling for other 
+variables.
+CONCLUSIONS: Patients with lower SES attend fewer sessions of CR than their 
+higher SES counterparts and may not attain the same level of benefit from 
+attending. Programs need to increase attendance within this population and 
+consider program modifications that further support behavioral changes during 
+CR.

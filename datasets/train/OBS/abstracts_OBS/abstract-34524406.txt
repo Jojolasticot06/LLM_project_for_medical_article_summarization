@@ -1,0 +1,42 @@
+OBJECTIVE: To assess the efficacy and safety of sirolimus for children with 
+slow-flow vascular malformations to better delineate the indications for 
+treatment.
+DESIGN, SETTING AND PARTICIPANTS: This multicenter, open-label, 
+observational-phase randomized clinical trial included 59 children aged 6 to 18 
+years with a slow-flow vascular malformation who were recruited between 
+September 28, 2015, and March 22, 2018, in 11 French tertiary hospital centers. 
+Statistical analysis was performed on an intent-to-treat basis from December 4, 
+2019, to November 10, 2020.
+INTERVENTIONS: Patients underwent an observational period, then switched to an 
+interventional period when they received oral sirolimus (target serum levels, 
+4-12 ng/mL). The switch time was randomized from month 4 to month 8, and the 
+whole study period lasted 12 months for each patient.
+MAIN OUTCOMES AND MEASURES: The primary outcome was change in the volume of 
+vascular malformations detected on magnetic resonance imaging scan (with 
+centralized interpretation) per unit of time (ie, between the interventional 
+period and the observational period). Secondary outcomes included subjective end 
+points: pain, bleeding, oozing, quality of life, and safety.
+RESULTS: Among the participants (35 girls [59.3%]; mean [SD] age, 11.6 [3.8] 
+years), 22 (37.3%) had a pure venous malformation, 18 (30.5%) had a cystic 
+lymphatic malformation, and 19 (32.2%) had a combined malformation, including 
+syndromic forms. Variations in the volume of vascular malformations detected on 
+magnetic resonance imaging scans associated with the duration period were not 
+overall significantly different between the interventional period and the 
+observational period (all vascular malformations: mean [SD] difference, -0.001 
+[0.007]; venous malformations: mean [SD] difference, 0.001 [0.004]; combined 
+malformations: mean [SD] difference, 0.001 [0.009]). However, a significant 
+decrease in volume was observed for children with pure lymphatic malformations 
+(mean [SD] difference, -0.005 [0.005]). Overall, sirolimus had positive effects 
+on pain, especially for combined malformations, and on bleeding, oozing, 
+self-assessed efficacy, and quality of life. During sirolimus treatment, 56 
+patients experienced 231 adverse events (5 serious adverse events, none 
+life-threatening). The most frequent adverse event was an oral ulcer (29 
+patients [49.2%]).
+CONCLUSIONS AND RELEVANCE: This observational-phase randomized clinical trial 
+allows for clarifying the goals of patients and families when starting sirolimus 
+therapy for children older than 6 years. Pure lymphatic malformations seem to be 
+the best indication for sirolimus therapy because evidence of decreasing 
+lymphatic malformation volume per unit of time, oozing, and bleeding and 
+increasing quality of life was found. In combined malformations, sirolimus 
+significantly reduced pain, oozing, and bleeding. Benefits seemed lower for pure 
+venous malformations than for the 2 other subgroups, also based on symptoms.

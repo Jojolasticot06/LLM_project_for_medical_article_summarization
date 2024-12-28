@@ -1,0 +1,26 @@
+PURPOSE: Participation in cardiac rehabilitation (CR) is low despite proven 
+benefits. The aim of this study was to assess medical, psychosocial, and 
+behavioral predictors of participation in a phase 2 CR.
+METHODS: This was a prospective observational study. Participants hospitalized 
+for an acute cardiac event and eligible for CR completed in-hospital 
+assessments, and the primary outcome was CR participation over a 4-mo follow-up. 
+Measures included age, sex, educational attainment, smoking status, medical 
+diagnosis, ejection fraction, and electronic referral to CR. Data included 
+General Anxiety Disorder, Patient Health Questionnaire, Medical Outcomes Study 
+Short Form-36, Behavioral Rating Inventory of Executive Function, and Duke 
+Social Support Index. Logistic regression and Classification and Regression Tree 
+analysis were performed.
+RESULTS: Of 378 hospitalized patients approached, 294 (31% females) enrolled in 
+the study and 175 participated in CR. The presence of electronic referral, 
+surgical diagnosis, non/former smoker, and strength of physician recommendation 
+(all Ps < .02) were independent predictors for CR participation. No differences 
+were seen in participation by measures of anxiety, depression, or executive 
+function. Males with a profile of electronic referral to CR, high school or 
+higher education, ejection fraction >50%, and strong physician recommendation 
+were the most likely cohort to participate in CR (89%). Patients not referred to 
+CR were the least likely to attend (20%).
+CONCLUSIONS: Lack of CR referral, lower educational attainment, nonsurgical 
+diagnosis, current smoking, and reduced ejection fraction can predict patients 
+at a highest risk of CR nonparticipation. Specific interventions such as 
+electronic referral and a strong in-person recommendation from a medical 
+provider may enhance CR participation rates.

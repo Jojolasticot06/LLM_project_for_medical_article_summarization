@@ -1,0 +1,27 @@
+Prostration and the prognosis of death in African children with severe malaria.
+
+1/OBJECTIVES: Malaria is still one of the main reasons for hospitalization in 
+children living in sub-Saharan Africa. Rapid risk stratification at admission is 
+essential for optimal medical care and improved prognosis. Whereas coma, deep 
+breathing, and, to a lesser degree, severe anemia are established predictors of 
+malaria-related death, the value of assessing prostration for risk 
+stratification is less certain.
+
+2/METHODS: Here we used a retrospective multi-center analysis comprising over 
+33,000 hospitalized children from four large studies, including two 
+observational studies from the Severe Malaria in African Children network, a 
+randomized controlled treatment study, and the phase-3-clinical RTS,S-malaria 
+vaccine trial, to evaluate known risk factors of mortality and with a specific 
+emphasis on the role of prostration.
+
+3/RESULTS: Despite comparable age profiles of the participants, we found 
+significant inter- and intra-study variation in the incidence of fatal malaria 
+as well as in the derived risk ratios associated with the four risk factors: 
+coma, deep breathing, anemia, and prostration. Despite pronounced variations, 
+prostration was significantly associated with an increased risk of mortality (P 
+<0.001) and its consideration resulted in improved predictive performance, both 
+in a multivariate model and a univariate model based on the Lambaréné Organ 
+Dysfunction Score.
+
+4/CONCLUSION: Prostration is an important clinical criterion to determine severe 
+pediatric malaria with possible fatal outcomes.

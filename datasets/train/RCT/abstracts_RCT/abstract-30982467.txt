@@ -1,0 +1,11 @@
+Cognitive training for children and adolescents with fragile X syndrome: a randomized controlled trial of Cogmed.
+
+1/BACKGROUND: Individuals with fragile X syndrome (FXS) typically demonstrate profound executive function (EF) deficits that interfere with learning, socialization, and emotion regulation. We completed the first large, non-pharmacological controlled trial for FXS, designed to evaluate the efficacy of Cogmed, a computer/tablet-based working memory (WM) training program.
+
+2/METHODS: The study was a randomized, blinded, parallel two-arm controlled trial in 100 children and adolescents with FXS (63 male, 37 female; 15.28 ± 3.36 yrs.). Participants were randomized equally to adaptive (difficulty level adjusted to performance) or non-adaptive (control) Cogmed training. 
+Participants were assessed at home using objective measures of WM (primary outcome) and EF at baseline, following 20-25 caregiver-supported sessions over 5-6 weeks, and at follow-up 3 months after cessation of training. Parents and teachers provided ratings of WM, attention, and EF.
+
+3/RESULTS: The WM composite and selective domains of EF (distractibility, cognitive flexibility), as well as parent- and teacher-reported attention and EF, significantly improved across the full study sample, with many changes maintained at follow-up. However, comparisons of improvement between adaptive and non-adaptive control conditions did not differ, showing that progressively challenging the WM system by expanding span length did not provide added benefit overall.
+
+4/CONCLUSIONS: Further experimental comparisons are needed before Cogmed working memory training can be considered empirically validated for children with FXS, forming the basis of treatment recommendation. However, given that prior studies show no significant changes on these measures in FXS without treatment, that improvements were maintained for 3 months, and that blinded teachers reported improvements in the classroom, the modest benefits seen in both adaptive and non-adaptive groups overall are unlikely to be attributable to placebo or practice effects alone. Future analyses examining inter-individual differences 
+(e.g., baseline capacity, training efficiency, co-morbidity, training environment, characteristics of training aide) may help to link this intervention to outcomes and potential transfer effects.

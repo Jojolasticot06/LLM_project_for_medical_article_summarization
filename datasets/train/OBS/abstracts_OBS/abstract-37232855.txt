@@ -1,0 +1,29 @@
+OBJECTIVES: As causative pathogens are not usually identified at the time of 
+initiating antibiotics in sepsis, carbapenems are commonly used as an initial 
+treatment. To reduce indiscriminate use of carbapenems, the efficacy of 
+alternative empiric regimens, such as piperacillin-tazobactam and the 
+fourth-generation cephalosporins, should be elucidated. This study aimed to 
+evaluate survival effect associated with carbapenems as initial therapy for 
+sepsis compared with these antibiotics.
+DESIGN: Multicenter retrospective observational study.
+SETTING: Tertiary hospitals in Japan.
+PATIENTS: Adult patients diagnosed as having sepsis from 2006 to 2019.
+INTERVENTIONS: Administration of carbapenems as initial antibiotic therapy.
+MEASUREMENTS AND MAIN RESULTS: This study used data of adult patients with 
+sepsis extracted from a large-scale database in Japan. Patients were divided 
+into two groups as follows: patients receiving carbapenems and patients 
+receiving noncarbapenem broad-spectrum beta-lactam antibiotics as initial 
+treatment. In-hospital mortality was compared between the groups by a logistic 
+regression model adjusted by an inverse probability treatment weighting using 
+propensity scores. To evaluate heterogeneity of effects according to patient 
+characteristics, we also fitted logistic models in several subgroups. Among 
+7,392 patients with sepsis, 3,547 patients received carbapenems, and 3,845 
+patients received noncarbapenem agents. The logistic model showed no significant 
+association between carbapenem therapy and lower mortality (adjusted OR 0.88, p 
+= 0.108). Subgroup analyses suggested that there were significant survival 
+benefits associated with carbapenem therapy in patients with septic shock, in 
+ICUs, or with mechanical ventilation ( p for effect modifications: < 0.001, 
+0.014, and 0.105, respectively).
+CONCLUSIONS: Compared with the noncarbapenem broad-spectrum antibiotics, 
+carbapenems as an initial therapy for sepsis were not associated with 
+significantly lower mortality.

@@ -1,0 +1,29 @@
+OBJECTIVE: To evaluate whether a moderate-intensity exercise intervention can 
+affect the rate of estimated glomerular filtration rate per cystatin C 
+(eGFRCysC) change in older adults.
+DESIGN, SETTING, AND PARTICIPANTS: This ancillary analysis of the Lifestyle 
+Interventions and Independence For Elders randomized clinical trial enrolled 
+1199 community-dwelling, sedentary adults aged 70 to 89 years with mobility 
+limitations and available blood specimens. The original trial was conducted 
+across 8 academic centers in the US from February 2010 through December 2013. 
+Data for this study were analyzed from March 29, 2021, to February 28, 2022.
+INTERVENTIONS: Structured, 2-year, partially supervised, moderate-intensity 
+physical activity and exercise (strength, flexibility) intervention compared 
+with a health education control intervention with 2-year follow-up. Physical 
+activity was measured by step count and minutes of moderate-intensity activity 
+using accelerometers.
+MAIN OUTCOMES AND MEASURES: The primary outcome was change in eGFRCysC. Rapid 
+eGFRCysC decline was defined by the high tertile threshold of 6.7%/y.
+RESULTS: Among the 1199 participants in the analysis, the mean (SD) age was 78.9 
+(5.2) years, and 800 (66.7%) were women. At baseline, the 2 groups were well 
+balanced by age, comorbidity, and baseline eGFRCysC. The physical activity and 
+exercise intervention resulted in statistically significantly lower decline in 
+eGFRCysC over 2 years compared with the health education arm (mean difference, 
+0.96 mL/min/1.73 m2; 95% CI, 0.02-1.91 mL/min/1.73 m2) and lower odds of rapid 
+eGFRCysC decline (odds ratio, 0.79; 95% CI, 0.65-0.97).
+CONCLUSIONS AND RELEVANCE: Results of this ancillary analysis of a randomized 
+clinical trial showed that when compared with health education, a physical 
+activity and exercise intervention slowed the rate of decline in eGFRCysC among 
+community-dwelling sedentary older adults. Clinicians should consider targeted 
+recommendation of physical activity and moderate-intensity exercise for older 
+adults as a treatment to slow decline in eGFRCysC.

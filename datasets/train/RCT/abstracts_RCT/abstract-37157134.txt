@@ -1,0 +1,32 @@
+Post-exposure prophylaxis with SA58 (anti-SARS-COV-2 monoclonal antibody) nasal 
+spray for the prevention of symptomatic COVID-19 in healthy adult workers: a 
+randomized, single-blind, placebo-controlled clinical study.
+
+1/Monoclonal antibodies (mAbs) and the post-exposure prophylaxis (PEP) with mAbs 
+represent a very important public health strategy against coronavirus disease 
+2019 (COVID-19). 
+
+2/This study has assessed a new Anti-SARS-COV-2 mAb (SA58) Nasal 
+Spray for PEP against COVID-19 in healthy adults aged 18 years and older within 
+three days of exposure to a SARS-CoV-2 infected individual. Recruited 
+participants were randomized in a ratio of 3:1 to receive SA58 or placebo. 
+
+
+3/Primary endpoints were laboratory-confirmed symptomatic COVID-19 within the 
+study period. A total of 1222 participants were randomized and dosed (SA58, 
+n = 901; placebo, n = 321). Median of follow-up was 2.25 and 2.79 days for SA58 
+and placebo, respectively. Adverse events occurred in 221 of 901 (25%) and 72 of 
+321 (22%) participants with SA58 and placebo, respectively. All adverse events 
+were mild in severity. Laboratory-confirmed symptomatic COVID-19 developed in 7 
+of 824 participants (0.22 per 100 person-days) in the SA58 group vs. 14 of 299 
+(1.17 per 100 person-days) in the placebo group, resulting in an estimated 
+efficacy of 80.82% (95%CI 52.41%-92.27%). There were 32 SARS-CoV-2 reverse 
+transcriptase polymerase chain reaction (RT-PCR) positives (1.04 per 100 
+person-days) in the SA58 group vs. 32 (2.80 per 100 person-days) in the placebo 
+group, resulting in an estimated efficacy of 61.83% (95%CI 37.50%-76.69%). A 
+total of 21 RT-PCR positive samples were sequenced and all were the Omicron 
+variant BF.7. 
+
+4/In conclusion, SA58 Nasal Spray showed favourable efficacy and 
+safety in preventing symptomatic COVID-19 or SARS-CoV-2 infection in adults who 
+had exposure to SARS-CoV-2 within 72 h.

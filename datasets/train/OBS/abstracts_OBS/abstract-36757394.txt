@@ -1,0 +1,27 @@
+INTRODUCTION: Autonomic nervous system activity in cirrhotic portal hypertension 
+is linked to hyperdynamic circulation. Heart rate variability (HRV) is a 
+validated noninvasive method to assess the sympathovagal balance. To investigate 
+the correlation between HRV parameters and degree of portal hypertension, we 
+studied a cohort of patients with cirrhosis accounting for etiology and 
+treatments.
+PATIENTS AND METHODS: In this cross-sectional, observational cohort study, 157 
+outpatients of both sex with nonalcoholic cirrhosis were assessed by upper 
+gastrointestinal endoscopy to search for esophagogastric varices. 
+Twenty-four-hour electrocardiogram Holter monitoring with 3 HRV parameters 
+measurement [SD of the NN intervals, root mean square successive difference of 
+NN intervals, and SD of the averages of NN intervals (SDANN)] according to 
+time-domain analysis were performed in all patients. Sixteen patients with large 
+esophagogastric varices underwent measurements of the HVPG and assessment of HRV 
+parameters at baseline and after 45 days on carvedilol.
+RESULTS: The liver dysfunction, expressed by Child-Pugh class or MELD score, was 
+directly related to root mean square successive difference of NN intervals and 
+inversely related to SDANN. Presence of ascites was inversely related to SDANN 
+and to SD of the NN intervals. Treatment with carvedilol had an inverse relation 
+with SDANN. Presence and size of esophagogastric varices had an inverse relation 
+to SDANN and SD of the NN intervals. Upon multivariate analysis the associations 
+between SDANN and Child-Pugh class, size of varices and ascites were confirmed. 
+In the subgroup of 16 patients undergoing HVPG measurement, pressure gradient 
+was unrelated to heart rate and HRV parameters.
+CONCLUSIONS: Time-domain HRV parameters in patients with cirrhosis, confirm the 
+autonomic nervous system alteration, and their correlation to the degree of 
+portal hypertension suggesting a role of the ANS in hepatic decompensation.

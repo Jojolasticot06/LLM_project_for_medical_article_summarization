@@ -1,0 +1,126 @@
+1. Introduction
+Benign prostatic hypertrophy (BPH) is a public health concern since it affects almost 50% of men over the age of 50 years [1]. BPH usually manifests as lower urinary tract symptoms (LUTS). Prostatic artery embolization (PAE) has now a well-established role in the management of BPH [2] and the most recent recommendations validate PAE as an alternate option to transurethral surgery for highly symptomatic patients with BPH resistant to medical treatment [3]. PAE offers results similar to those of endo-urethral surgery and conveys less complications. In this regard, patients treated with PAE for BPH have no retrograde ejaculation [4]. PAE can be performed using calibrated microparticles within the prostatic arteries until the blood flow is slowed down. However, many urologists are concerned regarding potential ischemic complications due to non-target embolization during PAE, which is often explained by complex vascular anatomy and individual variations that make generalizability of PAE difficult [5], [6].
+
+Technical innovations such as the use of balloon-occlusion helps reduce non-target embolization by comparison with conventional microcatheter [7]. Additionally, three-dimensional (3D) cone-beam computed tomography (CBCT) helps securely target prostatic arteries. In this regard, 3D CBCT is useful for a comprehensive identification of prostatic arterial supplies as well as avoiding complications due to non-target embolization [8]. A superiority of CBCT as compared to digital subtraction angiography (DSA) alone is the capability of providing essential information on prostatic artery origins and potential spontaneous anastomoses with vessels of adjacent organs [9]. 3D CBCT associated with a vessel tracking tool has a sensitivity up to 92% for detecting prostatic arteries [10]. We assumed that the use of 3D CBCT could facilitate catheterization of the prostatic arteries by a clear identification of the target vessels.
+
+The purpose of this study was to report the use of 3D CBCT for PAE in patients with BPH.
+
+2. Materials and methods
+2.1. Patients
+From June 2016 to September 2018, 23 patients with moderate to severe BHP, refractory to medical treatment for at least 6 months, LUTS or complicated BHP were referred by the Urology Department of our Institution for PAE.
+
+Inclusion criteria included:
+•
+an age > 50 years;
+
+•
+BPH with moderate to severe LUTS (International prostate symptom score [IPSS]  > 18), quality of life ≥ 3;
+
+•
+BPH refractory to medical treatment for at least 6 months;
+
+•
+a total prostate volume > 30 g.
+
+
+Exclusion criteria were any suspicion of a malignant prostatic involvement, severe renal insufficiency and/or prostatic embolization for hemostatic purposes.
+
+The final study population consisted of 23 consecutive men (mean age: 73 ± 12.1 [SD] years; range: 52–94 years). Fig. 1 shows flow chart of patient inclusion/exclusion into the study.
+
+
+Download : Download high-res image (372KB)
+Download : Download full-size image
+Fig. 1. Study flow chart.
+
+IPSS, quality of life (QoL) scores, prostatic specific antigen (PSA) serum levels and prostatic volumes were obtained before PAE in all patients (Table 1) and three months after PAE. The prostate volume was assessed either by ultrasound or magnetic resonance imaging. The three-month IPSS and QoL were assessed by systematic phone calls made by the same medical operator. The degree of satisfaction of the patients after PAE was assessed using an analogue scale of self-evaluation specifically designed for this study (0 to 10; 0 = not at all satisfied to 10 = fully satisfied) were also collected.
+
+Table 1. Baseline characteristics of 23 patients who underwent prostatic artery embolization using 3D cone-beam CT.
+
+Variables	Empty Cell
+Age (years)	73 ± 12 [52–94]
+IPSS score	21 ± 5.7 [9–30]
+QoL score	5 ± 0.9 [3–6]
+PSA (ng/mL)	3.6 ± 2.6 [2–13]
+TPV (g)	100 ± 63 [30–250]
+CT: computed tomography; IPSS: International Prostate Symptom Score; QoL: quality of life; PSA: prostatic specific antigen; TPV: total prostatic volume.
+
+Data are expressed as means ± standard deviations; numbers in brackets are ranges.
+
+
+This retrospective descriptive study was approved by the local medical ethics committees, and a signed consent form was obtained after each patient was fully informed about PAE and the alternative treatments.
+
+2.2. Embolization procedure
+Patients were admitted to the hospital the night prior to PAE. No systematic antibiotic, analgesic or other medications were given prior to PAE. Intravenous paracetamol infusion was given at the beginning of PAE. No bladder catheter was placed for PAE and neither heparin nor systematic intra-arterial nitroglycerin were given to the patients during PAE. Two different interventional radiologists performed PAE: 21 PAE (21/23; 91%) were performed by the most experienced operator (V.V., 30 years of experience) and two (2/21; 9%) were performed by the less experienced operator (F.T., 7 years of experience). All PAE were performed using a Discovery IGS 730 angiography equipment (GE Healthcare).
+
+Using strict aseptic conditions and local anesthesia, a 5-F introducer sheath with a hemostatic valve (Radifocus® introducer II, Terumo corporation) was introduced and positioned into the right common femoral artery. Afterwards, contralateral crossover catheterization for positioning a diagnostic catheter (Cobra-shaped C2 catheter 5-F, Cook Medical) within the left hypogastric artery was achieved. A 3D angiographic acquisition was then obtained in all patients, with the exception of two for whom a 3D acquisition was performed directly with the catheter in the prostatic arteries. A 3D CBCT was performed with the catheter in the internal iliac artery according to the following protocol: 48 mL at a rate of 6 mL/s, with a delay of 2 s and a rotation of 40°/s, with a 50% diluted iodinated contrast material. The time (t1) when the 3D CBCT was realized with the catheter in the internal iliac artery was noted.
+
+The prostatic artery was identified among the opacified vessels as the branch of the internal iliac artery going to and ending within the prostate parenchyma. 3D CBCT showed all the different branches of the internal iliac artery and allowed an accurate identification of the prostatic artery. After manually pointing to this vessel of interest and following it, the whole path of the target vessel was rendered as a 3D roadmap (Fig. 2).
+
+
+Download : Download high-res image (124KB)
+Download : Download full-size image
+Fig. 2. 68-year-old man with an estimated prostatic volume of 60 g, initial International prostate symptom score of 20 and Quality of life score of 5. Three-dimensional (3D) roadmap image shows prostatic artery (arrow) identified from the initial 3D cone-beam computed tomography (CT) acquisition.
+
+A 45° or double curve-2.4F microcatheter (Progreat®2.7 Terumo, or Maestro® Merit Medical or Direxion® Boston Scientific Corporation or Echelon®14 Medtronic) was then used. Once the microcatheter was in a satisfactory position, a new 3D CBCT acquisition (3 mL at a rate of 0.5 mL/s and a rotation of 40°/s) was renewed in 20 patients. At the discretion of the operator, three patients had only DSA. Catheter placement was confirmed by obtaining satisfactory enhancement of prostatic parenchyma (Fig. 3). A careful search of potential anastomoses with the surrounding visceral arteries (including rectal or bladder) was performed. Just before PAE, the time (t2) when the microcatheter was in place in the prostatic artery was noted.
+
+
+Download : Download high-res image (153KB)
+Download : Download full-size image
+Fig. 3. 65-year-old man with an estimated prostatic volume of 35 g, initial International prostate symptom score of 17 and Quality of life score of 5. A. Three-dimensional cone-beam computed tomography (CT) image (coronal view) obtained through a microcatheter in the left prostatic artery shows left prostatic artery (red arrow). B. Three-dimensional cone-beam CT image (axial view) obtained through a microcatheter in the left prostatic artery shows normal enhancement of the left prostatic tissue (arrow).
+
+Embolization was performed using 400-μ calibrated microspheres (Embozene® Microspheres, Boston Scientific) until vascular stasis was achieved. The Perfected technique was not used for any patients [11]. The procedure was repeated for the ipsilateral side (“siding” of the Cobra catheter or a Simmons Sidewinder catheter when necessary, during ipsilateral hypogastric catheterization). Patients were monitored for two hours prior to returning to the hospital ward. In the absence of any significant complications, patients were discharged the following day.
+
+2.3. Definitions & outcomes
+Technical success was defined as a selective PAE for at least one side. The catheterization duration (Δt) on each side was estimated as the interval time between the 3D CBCT in the internal iliac artery (t1) and the moment just before the microspheres delivery (t2), which can be resumed as Δt = t2 − t1. This time interval was assumed to reflect the help of CBCT to safely identify prostatic arteries.
+
+The different dosimetry indices and per- and/or post-procedure complications for all 21 patients having 3D CBCT-guidance were reported. The global dosimetry report included the dose area product (DAP), cumulative air kerma (CAK) and fluoroscopy time. These indices were collected based on the dosimetry report automatically created by the angiography room detectors (Dosemap®, GE Healthcare). Per- and post-procedure complications were searched based on the medical record and then divided into two categories according to the CIRSE standards of practice on PAE [12]. Major complications included severe urinary sepsis that may require readmission, bladder or glans ischemia. Other events were considered to be minor complications.
+
+3. Results
+3.1. Technical success
+PAE was technically successful in 21 (21/23; 91%) patients. The procedure could not be completed in two patients (2/23; 9%) due to one patient having a bilateral prostatic artery dissection and the other an insufficiently selective bilateral catheterization with risk of non-target embolization. Fourteen patients (14/21; 66%) had bilateral PAE and seven (7/21; 33%) had unilateral PAE. The unilateral PAEs were due to vascular anastomoses with adjacent organs (n = 3), catheterization difficulties, which required the positioning of coils (n = 1), persistent vasospasm (n = 1), non-individualization of the prostatic artery within a vascular network (n = 1), and absence of normal prostatic enhancement during the control angiography (microcatheter in place in the prostatic artery) (n = 1).
+
+3.2. Duration of catheterization
+With the help of 3D CBCT, prostatic arteries were precisely identified in 20 patients (20/21; 95%) by identifying the vessel supplying enhancing prostatic tissue. The initial 3D CBCT examination performed with the catheter within the hypogastric arteries was obtained bilaterally in 20 patients (20/23; 87%). In one patient (1/23; 4%), PAE was performed on the left side only and not performed at all for the other two (2/23; 9%). These last two patients were therefore excluded from the calculation of the mean catheterization duration and the patient with a 3D CBCT on the left side was excluded from the duration analysis of the right side. The catheterization time (Δt) was 17.3 ± 12.5 (SD) min (range: 8–57 min) on the right side and 23.6 ± 14.9 (SD) min (range: 6–54 min) on the left side.
+
+3.3. Radiation exposure
+The DAP and dose to the skin, as reflected by the CAK, were measured in 21 patients. The mean DAP was 146.7 ± 47.9 [SD] Gy.cm2 (range: 54–254 Gy.cm2) and CAK was 771.4 ± 333.3 [SD] mGy (range: 280–1560 mGy). The mean fluoroscopy time was 42.3 minutes ± 23.1 [SD] min (range: 19.4–118.2 min).
+
+3.4. Complications
+Two patients were lost to follow-up (2/21; 9.5%) and complications were evaluated in only 19 patients (19/21; 90.5%) who had PAE with 3D CBCT-guidance. Ten patients (10/21; 47%) had no complications, and among the others no major complication occurred. All complications occured during the 30 days following PAE. Minor complications occurred in five patients (5/21; 24%) with one patient readmitted for acute urine retention associated with hematuria (1/21; 5%) and four other patients (4/21; 19%) with a fever, two of which (2/4; 50%) had negative bacteriological tests. One had urine cytobacteriological examination positive for pseudomonas aeruginosa and another had inconclusive urine cytobacteriological examination. Regardless of the bacteriological results, all four patients received antibiotics and were discharged the following day.
+
+Among the six patients (6/23; 26%) who initially had permanent bladder drainage catheter, catheter removal was not possible in four (4/6; 67%) of them. One patient had post-embolization dysuria (1/21; 5%), which resolved with anti-inflammatory treatment and one patient had “post-embolization syndrome” (1/21; 5%) consisting in perineal pain associated with dysuria. No non-target PAE were reported.
+
+3.5. Satisfaction
+All successfully treated patients were contacted by telephone three months after the procedure. Their mean overall satisfaction rate was 6 ± 4 [SD] (range: 0–10) on the satisfaction self-assessment scale and reduced values were reported for the IPSS score, the QoL and the total prostatic volume (TPV) (Table 2).
+
+Table 2. Clinical variables before and 3 months after prostatic artery embolization.
+
+Variables	Before PAE	After PAE
+IPSS score	21 ± 5.7 [9–30]	9 ± 6.6 [0–24]
+QoL score	5 ± 0.9 [3–6]	1.7 ± 1.6 [0–4]
+TPV (g)	100 ± 63 [30–250]	83 ± 53 [30–120]
+IPSS: International Prostate Symptom Score; QoL: quality of life; TPV: total prostatic volume; PAE: prostatic artery embolization.
+
+Data are expressed as means ± standard deviations; numbers in brackets are ranges.
+
+
+Two patients (2/21; 9%) had an alternative urological treatment by laser vaporization because of persistent symptoms and dependence on a bladder catheter.
+
+PSA serum level at three months after PAE was obtained in 11 patients (11/21; 52%), and all but two patients (2/11; 18%) had normal PAE values. One patient (1/11; 9%) with a PSA serum level of 26 ng/mL had a urinary tract infection and the other one (1/11; 9%) with a PSA serum level of 28 ng/mL had suspicious prostate lesion on magnetic resonance imaging but biopsies and histopathological analysis excluded prostate cancer.
+
+4. Discussion
+Our study reports the selective catheterization time needed for PAE using 3D CBCT in patients with PBH. 3D CBCT is an easy-to-use tool, but not yet standardized for PAE because of a lack of randomized trials proving its value [11]. To our knowledge there are no studies focusing on the time for prostatic artery catheterization. Pisco et al. reported an overall PAE procedure time ranging from 20 to 185 min (mean time: 73 min) including pre-interventional imaging, but without specifying the prostate catheterization time [4].
+
+The complex anatomy and individual variations of the prostatic arteries must be known to obtain a selective catheterization and avoid non-target embolization. As a result, balloon-occlusion PAE has been proposed. Bilhim et al. showed that balloon-occlusion PAE is as effective as PAE with conventional microcatheter in patients with BPH [7]. In their study, patients who underwent balloon-occlusion PAE had no complications whereas three patients who underwent conventional PAE had penile skin lesions or rectal bleeding. The latter complications were probably due to non-target embolization, which could be reduced by preventing reflux and redirecting flow by creating a negative pressure inside the prostatic vasculature with reversal of blood flow through the arterial anastomoses.
+
+The prostatic arterial vasculature originates from arterial branches originating from the internal iliac artery [13]. Bilhim et al. showed that 56% of prostatic arteries originate from the internal pudendal artery and 28% from a common gluteo-pudendal trunk, with the remaining percentages originating from other anatomical origins and anastomotic networks [14]. Angiographic classifications have been proposed with five anatomical variations and four of them represent 95% of all possible anatomical variations [15].
+
+Prior to PAE and to anticipate difficulties in catheterization, CT or MR angiography helps analyze the pelvic arterial network [4] and grade the potential PAE difficulty into four categories as “easy, relatively difficult, difficult and very difficult” [16], with the “very difficult category” questioning the performance of embolization. However, angiography remains the imaging technique of reference for the study of prostatic arteries, because CT or MR angiography have limited resolution to detect small prostatic arteries [8]. However, they help anticipate technical difficulties and provide a preoperative information relative to the arterial anatomy.
+
+Systematic 3D CBCT acquisitions, in addition to standard DSA, can be a source of additional irradiation. However, unlike the technique based on repeated DSA, the 3D CBCT distributes the radiation dose to the skin over 180° [17], [18], [19], [20]. The literature has little data on this subject, but our results are consistent with those of others [21]. Maclean et al. reported a mean DAP of 174 Gy.cm2 regardless if the PAE was guided by pre-procedural CT or with the help of intraoperative CBCT [22]. Andrade et al. reported a mean DAP of 450.7 Gy.cm2 in 25 PAEs, of which 71.5% were due to DSA only, followed by fluoroscopy and CBCT for the remaining percentages [23]. In this latter study, the mean dose to the skin was of 2420.3 mGy and the mean fluoroscopy time was 30.9 min [23]. Garzón et al. reported a mean dose to the skin of 2674.2 mGy in five PAEs [24]. By comparison with other abdominopelvic embolization procedures, CAK values were in the range of the peak skin dose values for abdominal elective embolization or abdominal urgent embolization and below hepatic chemoembolization [25]. Larger studies are needed to determine to what extent the use of 3D CBCT may reduce irradiation and fluoroscopy time.
+
+Our study reports only one major complication. In different series, the rates were less than 30% for minor complications and around 1% for major ones [5]. For patients with persisting LUTS, repeat PAE can be proposed, usually 12 months later as in one of our patients. However, the second PAE is often unsuccessful because of the development of collateral vessels [26]. A “post-embolization syndrome” has been reported in one patient with perineal pain and dysuria [27], which is not related with the microspheres size used as embolic agent [28].
+
+Our study has many limitations. First, it is a single-center, retrospective study with a limited number of patients. A second limitation is absence of a control group to estimate of the benefit of 3D CBCT. Finally, the majority of PAE were performed by the same operator.
+
+In conclusion, 3D CBCT is a useful tool to identify the prostatic arteries and facilitates catheterization with an acceptable level of radiation exposure for PAE. It could also be a tool to identify the potential vascular anastomoses with vessels of adjacent organs and avoid non-target embolization.

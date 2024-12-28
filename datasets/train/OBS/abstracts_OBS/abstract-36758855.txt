@@ -1,0 +1,25 @@
+BACKGROUND: The present study was designed to describe the prevalence of 
+norepinephrine use, the factors associated with its use, and the incidence of 
+postoperative complications according to norepinephrine use, in patients 
+undergoing cardiac surgery with cardiopulmonary bypass.
+METHOD: We performed a prospective, multicenter, observational study in 4 
+University-affiliated medico-surgical cardiovascular units. We analyzed all 
+patients treated with cardiac surgery after excluding pre-ECMO surgery, LVAD 
+implantation, heart transplantation and intra-operative hemorrhage.
+RESULTS: Of 9316 patients screened during the study period, 2862 were included 
+and 2510 were analyzed. Among them, 1549 (61%) were treated with norepinephrine 
+with a median maximal dose of 0.11 [0.06-0.2] μg.kg-1.min-1 and a median 
+duration of 10 h [2-24]. Norepinephrine was most often started in the operating 
+room before cardiopulmonary bypass. The multiple regression logistic analysis 
+identified several modifiable (haematocrit, maintenance of beta-blocker, 
+cardiopulmonary bypass time, glucose-insulin-potassium, Custodiol cardioplegia, 
+Delnido cardioplegia, and fibrinogen transfusion) and non-modifiable factors 
+(age, ASA score, chronic high blood pressure, coronary disease, dyslipidemia, 
+right ventricular dysfunction, left ventricular dysfunction, active 
+endocarditis, and valvular aortic surgery) associated with norepinephrine use. 
+Mortality, morbidity (neurological and renal complications, death) and length of 
+stay in the ICU were higher in patients treated with norepinephrine.
+CONCLUSION: Norepinephrine is often used in cardiac surgical patients but for 
+<24 h with a low dose. Many preoperative and surgical factors are associated 
+with norepinephrine use. Patients supported by norepinephrine have a higher 
+incidence of major postoperative events.

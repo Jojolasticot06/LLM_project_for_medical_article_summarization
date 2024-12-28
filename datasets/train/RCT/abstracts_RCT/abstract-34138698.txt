@@ -1,0 +1,16 @@
+Preventing Chronic Disease PCD logo association Between Food Insecurity and Diet QualityAmong Early Care and Education Providers in thePennsylvania Head Start Program
+
+
+1/Introduction
+Food insecurity affects dietary behaviors and diet quality in adults. This relationship is not widely studied among early careand education (ECE) providers, a unique population with important influences on children’s dietary habits. Our study’sobjective was to explore how food insecurity affected diet quality and dietary behaviors among ECE providers.
+
+2/Methods
+We used baseline data from a cluster-randomized controlled trial (January 2019-December 2020) on 216 ECE providers underthe Pennsylvania Head Start Association. We used radar plots to graph scores for the Healthy Eating Index 2015 and theAlternative Healthy Eating Index (AHEI) 2010 and fitted a multivariate regression model for diet quality measures, adjusting forcovariates.
+
+3/Results
+Among the 216 participants, 31.5% were food insecure. ECE providers who were food insecure had a lower AHEI-2010 meanscore (mean difference for food insecure vs food secure = -4.8; 95% CI, -7.8 to -1.7; P = .002). After adjusting for covariates,
+associations remained significant (mean difference = -3.9; 95% CI, -7.5 to -0.4; P = .03). Food insecure ECE providers wereless likely to use nutrition labels (22.8% vs 39.1%; P = .046) and more likely to report cost as a perceived barrier to eatingfruits and vegetables.
+
+4/Conclusion
+We found a significant inverse association between food insecurity and the AHEI-2010 diet quality score among ECE providersafter adjusting for covariates. More studies are needed to examine the effects of food insecurity on dietary behaviors of ECEproviders and their response to nutrition education programs targeting their health.
+

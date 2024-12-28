@@ -1,0 +1,28 @@
+The impact of multidrug-resistant (MDR) colonization and MDR infection in 
+critically ill cirrhosis patients remains unclear. We assessed the association 
+of MDR colonization and MDR infection with these patients' survival. 
+Observational cohort study including adult cirrhosis patients admitted to 5 
+intensive care units at Northwestern Memorial Hospital (Chicago, Illinois, USA) 
+on January 1, 2010, to December 31, 2017. Patients admitted for elective liver 
+transplant or with previous liver transplant were excluded. Patients were 
+screened for MDR colonization on intensive care unit admission. Infection 
+diagnoses during the intensive care unit stay were considered. The primary 
+endpoint was hospital transplant-free survival. Among 600 patients included, 362 
+(60%) were men and median (interquartile range) age was 58.0 (49.0, 64.0) years. 
+Median (interquartile range) Model for End-stage Liver Disease, Sequential Organ 
+Failure Assessment, and Chronic Liver Failure-Acute-on-Chronic Liver Failure 
+scores on intensive care unit day 1 were 28.0 (20.0, 36.0), 9.0 (6.0, 13.0), and 
+55.0 (48.0, 64.0), respectively. Overall, 76 (13%) patients were transplanted 
+and 443 (74%) survived the hospital stay. Infections were diagnosed in 347 (58%) 
+patients: pneumonia in 197 (33%), urinary tract infection in 119 (20%), 
+peritonitis in 93 (16%), bloodstream infection in 99 (16%), Clostridium 
+difficile colitis in 9 (2%), and catheter tip infection in 7 (1%). MDR 
+colonization and MDR infection were identified in 200 (33%) and 69 (12%) 
+patients, respectively. MDR colonization was associated with MDR infection (p < 
+0.001). MDR colonization or MDR infection was associated with higher number and 
+duration of antibiotics (p < 0.001). Following adjustment for covariables (age, 
+sex, etiology, portal hypertension, and Sequential Organ Failure Assessment 
+score), MDR colonization [OR (95% CI), 0.64 (0.43, 0.95)] or MDR infection 
+[adjusted OR (95% CI), 0.22 (0.12, 0.40)] were independently associated with 
+lower transplant-free survival. Among critically ill cirrhosis patients, MDR 
+colonization or MDR infection portended a worse prognosis.

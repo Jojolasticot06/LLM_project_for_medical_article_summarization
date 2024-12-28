@@ -1,0 +1,27 @@
+BACKGROUND: Effects of Atrial Fibrillation Better Care (ABC) adherence among 
+high-risk atrial fibrillation (AF) subgroups remains unknown. We aimed to 
+evaluate the impact of ABC adherence on clinical outcomes in these high-risk 
+patients.
+METHODS: EORP-AF General Long-Term Registry is a prospective, observational 
+registry from 250 centres across 27 European countries. High-risk patients were 
+defined as those with either CKD (eGFR <60 mL/min/1.73m2), elderly patients (≥75 
+years) or prior thromboembolism. Primary outcome was a composite event of 
+all-cause death, thromboembolism and acute coronary syndrome.
+RESULTS: 6646 patients with AF were screened (median age was 70 [IQR 61 - 77] 
+years; 40.2% females). There were 3304 (54.2%) patients with either CKD 
+(n = 1750), older age (n = 2236) or prior thromboembolism (n = 728). Among 
+these, 924 (28.0%) were managed as adherent to ABC. At 2-year follow-up, 966 
+(14.5%) patients reported the primary outcome. The incidence of the primary 
+outcome was significantly lower in high-risk patients managed as adherent to ABC 
+pathway (IRR 0.53 [95%CI, 0.43 - 0.64]). Consistent results were obtained in the 
+individual subgroups. Using multivariable Cox proportional hazards analysis, ABC 
+adherence in the high-risk cohort was independently associated with a lower risk 
+of the primary outcome (aHR 0.64 [95%CI, 0.51 - 0.80]), as well as in the CKD 
+(aHR 0.51 [95%CI, 0.37 - 0.70]) and elderly subgroups (aHR 0.69 [95%CI, 0.53 - 
+0.90]). Overall, there was greater reduction in the risk of primary outcome as 
+more ABC criteria were fulfilled, both in the overall high-risk patients (aHR 
+0.39 [95%CI, 0.25 - 0.61]), as well as in the individual subgroups.
+CONCLUSION: In a large, contemporary cohort of patients with AF, we demonstrate 
+that adherence to the ABC pathway was associated with a significant benefit 
+among high-risk patients with either CKD, advanced age (≥75 years old) or prior 
+thromboembolism.

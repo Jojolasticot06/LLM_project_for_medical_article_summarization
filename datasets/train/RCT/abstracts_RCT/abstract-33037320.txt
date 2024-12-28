@@ -1,0 +1,9 @@
+Multidimensional analyses reveal modulation of adaptive and innate immune subsets by tuberculosis vaccines
+
+1/We characterize the breadth, function and phenotype of innate and adaptive cellular responses in a prevention of Mycobacterium tuberculosis infection trial.
+
+2/ Responses are measured by whole blood intracellular cytokine staining at baseline and 70 days after vaccination with H4:IC31 (subunit vaccine containing Ag85B and TB10.4), Bacille Calmette-Guerin (BCG, a live attenuated vaccine) or placebo (n = ~30 per group). 
+
+3/H4:IC31 vaccination induces Ag85B and TB10.4-specific CD4 T cells, and an unexpected NKTlike subset, that expresses IFN-?, TNF and/or IL-2. BCG revaccination increases frequencies of CD4 T cell subsets that either express Th1 cytokines or IL-22, and modestly increases IFN?-producing NK cells. In vitro BCG re-stimulation also triggers responses by donor-unrestricted T cells, which may contribute to host responses against mycobacteria. 
+
+4/BCG, which demonstrated efficacy against sustained Mycobacterium tuberculosis infection, modulates multiple immune cell subsets, in particular conventional Th1 and Th22 cells, which should be investigated in discovery studies of correlates of protection.

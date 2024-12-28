@@ -1,0 +1,32 @@
+BACKGROUND: Birth weight (BW) is a strong predictor of neonatal outcomes. The 
+purpose of this study was to compare BWs between global regions (south Asia, 
+sub-Saharan Africa, Central America) prospectively and to determine if trends 
+exist in BW over time using the population-based maternal and newborn registry 
+(MNHR) of the Global Network for Women'sand Children's Health Research (Global 
+Network).
+METHODS: The MNHR is a prospective observational population-based registryof six 
+research sites participating in the Global Network (2013-2018), within five low- 
+and middle-income countries (Kenya, Zambia, India, Pakistan, and Guatemala) in 
+threeglobal regions (sub-Saharan Af rica, south Asia, Central America). The 
+birth weights were obtained for all infants born during the study period. This 
+was done either by abstracting from the infants' health facility records or from 
+direct measurement by the registry staff for infants born at home. After 
+controlling for demographic characteristics, mixed-effect regression models were 
+utilized to examine regional differences in birth weights over time.
+RESULTS: The overall BW meanswere higher for the African sites (Zambia and 
+Kenya), 3186 g (SD 463 g) in 2013 and 3149 g (SD 449 g) in 2018, ascompared to 
+Asian sites (Belagavi and Nagpur, India and Pakistan), 2717 g (SD450 g) in 2013 
+and 2713 g (SD 452 g) in 2018. The Central American site (Guatemala) had a mean 
+BW intermediate between the African and south Asian sites, 2928 g (SD 452) in 
+2013, and 2874 g (SD 448) in 2018. The low birth weight (LBW) incidence was 
+highest in the south Asian sites (India and Pakistan) and lowest in the African 
+sites (Kenya and Zambia). The size of regional differences varied somewhat over 
+time with slight decreases in the gap in birth weights between the African and 
+Asian sites and slight increases in the gap between the African and Central 
+American sites.
+CONCLUSIONS: Overall, BWmeans by global region did not change significantly over 
+the 5-year study period. From 2013 to 2018, infants enrolled at the African 
+sites demonstrated the highest BW means overall across the entire study period, 
+particularly as compared to Asian sites. The incidence of LBW was highest in the 
+Asian sites (India and Pakistan) compared to the African and Central American 
+sites.

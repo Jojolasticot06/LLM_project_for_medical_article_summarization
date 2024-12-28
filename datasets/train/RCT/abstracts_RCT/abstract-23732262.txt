@@ -1,0 +1,12 @@
+Effects of Roux-en-Y gastric bypass or diabetes support and education on insulin sensitivity and insulin secretion in morbidly obese patients with type 2 diabetes.
+
+1/OBJECTIVE: The long-term changes in insulin sensitivity and β-cell function in morbidly obese patients with type 2 diabetes mellitus who undergo Roux-en-Y gastric bypass (RYGB) surgery or standard medical care remain unclear. We prospectively studied longitudinal changes of glucostatic parameters in morbidly 
+obese patients with type 2 diabetes mellitus undergoing RYGB surgery or diabetes support and education (DSE).
+
+2/RESEARCH METHODS AND DESIGN: Sixty-one morbidly obese subjects (41.7 ± 0.6 kg/m) with type 2 diabetes mellitus were assigned to RYGB surgery (n = 30) or DSE (n = 31). They were matched for sex, age, and body weight. Insulin sensitivity index (Si) and acute insulin response (AIR) were derived from frequently sampled 
+intravenous glucose tolerance test. Body composition was measured using dual-energy x-ray absorptiometry. General linear model with repeated measures was used to examine the longitudinal changes (baseline, 6 months, 12 months) in these parameters.
+
+3/RESULTS: At 12-month follow-up, significant improvement in obesity measures, body composition, glucose homeostasis, Si, and AIR was observed after RYGB surgery and weight loss. These outcomes were not influenced by preoperative insulin use. Although there were no significant changes in the body composition 
+among DSE subjects, they experienced a decline in the Si and AIR, along with an increase in fasting glucose and HbA1c. The between-group differences in Si and AIR at 12-month follow-up were completely attenuated with adjustment to changes in body weight.
+
+4/CONCLUSIONS: The long-term effects of RYGB surgery on glucostatic parameters are partly dependent on weight loss. In morbidly obese patients with diabetes who were offered DSE, a progressive decline in the glucose homeostasis and glucostatic parameters is observed despite absence of weight gain. (NCT00787670).

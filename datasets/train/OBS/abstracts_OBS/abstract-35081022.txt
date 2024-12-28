@@ -1,0 +1,6 @@
+High-Dose Convalescent Plasma for Treatment of Severe COVID-19.
+
+1/To assess whether high-dose coronavirus disease (COVID-19) convalescent plasma (CCP) transfusion may benefit patients with severe COVID-19, we conducted a multicenter randomized trial in Brazil. 
+2/Patients with severe COVID-19 who were within 10 days of initial symptom onset were eligible. Patients in the CCP group received 3 daily doses of CCP (600 mL/d) in addition to standard treatment; control patients received standard treatment only. Primary outcomes were death rates at days 30 and 60 of study randomization. Secondary outcomes were ventilator-free days and hospital-free days. 
+3/ We enrolled 107 patients: 36 CCP and 71 control. At day 30, death rates were 22% for CCP and 25% for the control group; at day 60, rates were 31% for CCP and 35% for control. Needs for invasive mechanical ventilation and durations of hospital stay were similar between  groups. 
+4/We conclude that high-dose CCP transfused within 10 days of symptom onset provided no benefit for patients with severe COVID-19.

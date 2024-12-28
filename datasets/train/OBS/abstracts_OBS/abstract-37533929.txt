@@ -1,0 +1,24 @@
+BACKGROUND: While early appropriate antibiotic therapy is a proven means of 
+limiting the progression of infections, especially bacteremia, empirical 
+antibiotic therapy in sepsis is ineffective up to 30%. The aim of this study was 
+to compare early blood culture testing protocols in terms of their ability to 
+shorten the delay between blood sampling and appropriate antibiotic therapy.
+METHODS: In this french observational study, we compared three blood culture 
+testing protocols. Positive blood cultures were tested using either GenMark 
+ePlex panels (multiplex PCR period), a combination of MRSA/SA PCR, β-Lacta and 
+oxidase tests (multitest period), or conventional identification and 
+susceptibility tests only (reference period). Conventional identification and 
+susceptibility tests were performed in parallel for all samples, as the gold 
+standard.
+RESULTS: Among the 270 patients with positive blood cultures included, early and 
+conventional results were in good agreement, especially for the multitest 
+period. The delay between a blood culture positivity and initial results was 3.8 
+(2.9-6.9) h in the multiplex PCR period, 2.6 (1.3-4.5) h in the multitest period 
+and 3.7 (1.8-8.2) h in the reference period (p<0.01). Antibiotic therapy was 
+initiated or adjusted in 68 patients based on early analysis results. The 
+proportion of patients receiving appropriate antibiotic therapy within 48 h of 
+blood sampling was higher in the multiplex PCR and multitest periods, 
+(respectively 90% and 88%) than in the reference period (71%).
+CONCLUSION: These results suggest rapid bacterial identification and antibiotic 
+resistance tests are feasible, efficient and can expedite appropriate antibiotic 
+therapy.

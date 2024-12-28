@@ -1,0 +1,12 @@
+Efficacy and Safety of Ciprofol Sedation in ICU Patients Undergoing Mechanical Ventilation: A Multicenter, Single-Blind, Randomized, Noninferiority Trial
+
+1/Objectives: To determine the effectiveness and safety of ciprofol for sedating patients in ICUs who required mechanical ventilation (MV).
+
+2/Design: A multicenter, single-blind, randomized, noninferiority trial.
+Setting: Twenty-one centers across China from December 2020 to June 2021.
+Patients: A total of 135 ICU patients 18 to 80 years old with endotracheal intubation and undergoing MV, who were expected to require sedation for 6-24 hours.
+Interventions: One hundred thirty-five ICU patients were randomly allocated into ciprofol ( n = 90) and propofol ( n = 45) groups in a 2:1 ratio. Ciprofol or propofol were IV infused at loading doses of 0.1 mg/kg or 0.5 mg/kg, respectively, over 4 minutes ± 30 seconds depending on the physical condition of each patient. Ciprofol or propofol were then immediately administered at an initial maintenance dose of 0.3 mg/kg/hr or 1.5 mg/kg/hr, to achieve the target sedation range of Richmond Agitation-Sedation Scale (+1 to -2). Besides, continuous IV remifentanil analgesia was administered (loading dose: 0.5-1 µg/kg, maintenance dose: 0.02-0.15 µg/kg/min).
+
+3/Measurements and main results: Of the 135 patients enrolled, 129 completed the study. The primary endpoint-sedation success rates of ciprofol and propofol groups were 97.7% versus 97.8% in the full analysis set (FAS) and were both 100% in per-protocol set (PPS). The noninferiority margin was set as 8% and confirmed with a lower limit of two-sided 95% CI for the inter-group difference of -5.98% and -4.32% in the FAS and PPS groups. Patients who received ciprofol had a longer recovery time ( p = 0.003), but there were no differences in the remaining secondary endpoints (all p > 0.05). The occurrence rates of treatment-emergent adverse events (TEAEs) or drug-related TEAEs were not significantly different between the groups (all p > 0.05).
+
+4/Conclusions: Ciprofol was well tolerated, with a noninferior sedation profile to propofol in Chinese ICU patients undergoing MV for a period of 6-24 hours.

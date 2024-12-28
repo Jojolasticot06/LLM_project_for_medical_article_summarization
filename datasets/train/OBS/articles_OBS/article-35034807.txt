@@ -1,0 +1,424 @@
+1. Introduction
+Early readmission after hospital discharge is frequent, partly preventable, and puts a heavy burden on healthcare systems [[1],[2]]. Many risk factors—like adverse drug events [[3]], physician workload [[4]], patients’ comorbidities [[5]]—and the internationally validated HOSPITAL score for 30-day potentially avoidable readmission [[6]] can be assessed directly during the hospital stay. However, physiological stresses experienced during hospitalization extend beyond discharge, resulting in a period of increased vulnerability [[7]]. Thus, formal and informal post-discharge support and healthcare can play valuable roles in mitigating the risks of hospital readmission [[8]].
+General practitioners (GPs) are essential actors in healthcare transitions from hospital to ambulatory care. Misky et al. found an almost 90% reduction in 30-day readmissions for the same medical condition as the index hospitalization, after a timely follow-up consultation with a GP [[9]]. In a retrospective observational study, Jackson et al. found a significant reduction in readmissions among high-risk patients who consulted with a physician within seven days of discharge [[10]]. However, in prospective studies, the relationship between consultations with a GP and readmission rates has been inconsistent, with Field et al. finding no effects for consultations with a GP within seven days of hospital discharge [[11]]. Besides, a randomized trial involving intensive primary care interventions (close follow-up by a nurse and a GP) among patients suffering from diabetes, chronic obstructive pulmonary disease, or heart failure, showed even an increase in the number of 6-month readmissions compared to usual care [[12]]. Therefore, the relationship between post-discharge healthcare use and unplanned readmission after hospital discharge in medical patients remains unclear.
+We aimed to evaluate the relationships between medical consultations after hospital discharge—dichotomized between GP and specialist consultations—and 30-day unplanned readmission risk. We also aimed to evaluate associations between other healthcare use (home visits by nurses, home support, and emergency room visits) and the 30-day unplanned readmission risk.
+2. Methods
+This study is part of phase 1 of the TARGET-READ study (Transition cAre intervention targeted to high-risk patiEnts To Reduce rEADmission; clinicaltrials.org NCT03496896). Patients were enrolled during a hospital stay, and their healthcare use and unplanned readmissions were monitored for 30 days.
+2.1 Settings and participants
+Between July 2017 and March 2018, all the adult patients admitted to general internal medicine units for 24 h or more and then discharged alive from four secondary and tertiary hospitals in Switzerland (Neuchâtel, Liestal, Bienne, and Fribourg) were consecutively included in the study. Patients previously enrolled in the study, admitted electively, living outside Switzerland, without a telephone, not speaking a national language, or unwilling or unable to give written informed consent were excluded. Each participating center's ethics committee approved the study protocol.
+Everyone living in Switzerland have at least a standard health insurance that cover for all main healthcare services, including access to outpatient treatment by GP or specialists, emergency treatment and hospitalization. Patients are free to choose their own GP and may consult specialists without a referral from their GP. However, some patients may choose a cheaper insurance policy plan with the obligation to see first their GP before to be referred to a specialist.
+In Switzerland, GP have no role in the care of hospitalized patients, which is assumed by physicians working solely at the hospital.
+2.2 Outcomes and measurements
+The primary outcome was 30-day unplanned hospital readmission. Secondary outcomes were the time to the first hospital readmission, cumulative hospital length of stay (LOS), and the number of emergency room (ER) visits.
+Trained study nurses collected patients’ characteristics, demographic data, diagnoses at index hospitalization, discharge destination, and calculated their HOSPITAL score, which includes: hemoglobin level at discharge, discharge from an oncology unit or an active cancer diagnosis, sodium level at discharge, procedure during the index hospitalization, index admission type (urgent or emergent), number of hospital admissions during the previous year, and LOS ≥ 8 days [[6]].
+Information on health care use (home visits by nurses, home support, number of medical consultations or ER visits) and unplanned hospital readmissions were collected using three planned, follow-up telephone calls at 2–4 days, 13–15 days, and 30 days after discharge and hospital chart screening. Death was recorded using registers of death, calls to GPs, and calls to next of kin. To limit information bias, study nurses used a standardized form to collect information from patients or, when needed, next of kin or GPs. When patients were readmitted to hospital, they and their medical professional (specialist or GP) were asked for their subjective feelings about whether the admission had been avoidable.
+2.3 Statistics
+The primary analysis—unplanned hospital readmissions associated with medical consultation—was made using logistic regression analysis. We repeated this separately for GPs and specialist physicians and for the combined outcome of ER visits and hospital readmissions.
+The unadjusted impact of GP or specialist consultations on the time to a first hospital readmission was calculated using Kaplan–Meier survival analysis and an unweighted, two-sided, log-rank test to compare groups. The proportional hazards assumption was verified using Schoenfeld residuals and a visual inspection of the log-minus-log plots. The associations between medical consultations and cumulative LOS on readmission were tested using a linear regression model adjusted for confounding factors and in which LOS was log-transformed to correct for skewed data.
+Patients with missing information on post-discharge medical information (3.5%) were excluded from the main analysis. The data was missing at random.
+Associations between other healthcare use and 30-day readmission were analyzed using logistic regression analyses. All analyses were adjusted for age (continuous), HOSPITAL score (continuous), being of Swiss nationality (binary), and numbers of comorbidities (continuous).
+Group characteristics were compared using the chi-squared test or Fisher's exact test, where appropriate, for categorical variables. The Mann–Whitney test was used for continuous variables, as these were not normally distributed. The significance level was set at 5%, and all analyses were performed using STATA statistical software, version 15.0 (StataCorp LP, College Station, TX, USA).
+3. Results
+Of 3239 patients screened, 934 were finally included in the study (Fig. 1). Within 30 days of discharge, 22 (2%) had died and 111 (12%) had experienced at least one unplanned hospital readmission. Participants’ baseline characteristics are shown in Table 1.
+Fig. 1
+Fig. 1Patient flowchart.
+View Large ImageFigure ViewerDownload Hi-res imageDownload (PPT)
+Table 1Characteristics of the entire patient population and their post-discharge medical consultations. Values are numbers (percentages) unless otherwise stated.
+Total(N = 934)	30-day post-discharge medical consultations*
+No consultations (n = 168)	≥ 1 GP consultation(n = 569)	≥ 1 specialist consultation(n = 164)	p-value
+General					
+Age (years), median (IQR 25%–75%)	71 (58–80)	75 (62–82.5)	71 (59–80)	66 (54–75)	< 0.001
+Male
+
+Female	509 (56%)
+
+392 (44%)	96 (57%)
+
+72 (43%)	315 (55%)
+
+255 (45%)	98 (60%)
+
+65 (40%)	0.53
+Swiss nationality
+
+Other nationality	783 (87%)
+
+118 (13%)	155 (92%)
+
+13 (8%)	494 (87%)
+
+76 (13%)	134 (82%)
+
+29 (17%)	0.022†
+Place of living
+
+Home
+
+Sheltered accommodation
+
+Nursing Home Other or unknown	
+
+882 (94)
+
+11 (1.2)
+
+35 (3.7)
+
+6 (1%)	
+
+158 (94%)
+
+2 (1%)
+
+8 (5%)
+
+0 (0%)	
+
+541 (95%)
+
+7 (1%)
+
+20 (4%)
+
+2 (0%)	
+
+152 (93%)
+
+2 (1%)
+
+5 (3%)
+
+4 (2%)	0.21†
+Work
+
+Active
+
+Unemployment
+
+Receiving social or invalidity benefits
+
+Retired
+
+Other or unknown	
+
+206 (23%)
+
+16 (2%)
+
+55 (6%)
+
+602 (67%)
+
+22 (2%)	
+
+31 (18%)
+
+2 (1%)
+
+8 (5%)
+
+122 (73%)
+
+5 (3%)	
+
+123 (23%)
+
+10 (2%)
+
+31 (5%)
+
+386 (68%)
+
+13 (2%)	
+
+45 (28%)
+
+4 (2%)
+
+16 (10%)
+
+94 (58%)
+
+4 (2%)	0.15†
+Health insurance
+
+None
+
+Standard
+
+Standard +
+
+Semi-private
+
+Private	
+
+1 (0%)
+
+421 (47%)
+
+256 (28%)
+
+160 (18%)
+
+62 (7%)	
+
+1 (1%)
+
+81 (48%)
+
+44 (26%)
+
+26 (16%)
+
+15 (9%)	
+
+0
+
+259 (45%)
+
+164 (29%)
+
+111 (19%)
+
+36 (6%)	
+
+0
+
+81 (50%)
+
+48 (29%)
+
+23 (14%)
+
+11 (7%)	0.30†
+Comorbidities					
+Number of comorbidities, median (IQR 25%–75%)	1 (0–3)	1 (0–3)	1 (0–3)	1 (0–2)	0.60
+Chronic heart failure	131 (15%)	20 (12%)	95 (17%)	16 (10%)	0.05
+Ischemic heart disease	241 (27%)	46 (28%)	157 (28%)	38 (23%)	0.53
+Atrial fibrillation	162 (18%)	27 (16%)	114 (20%)	21 (13%)	0.09
+PAD	83 (9%)	16 (10%)	59 (10%)	8 (5%)	0.09
+Diabetes	205 (23%)	37 (22%)	137 (24%)	31 (19%)	0.48
+Dementia	28 (3%)	4 (2%)	23 (4%)	1 (1%)	0.09†
+COPD	92 (10%)	19 (11%)	63 (11%)	10 (6%)	0.15
+Active cancer	132 (15%)	28 (17%)	51 (9%)	53 (32%)	< 0.001
+Chronic renal disease	189 (21%)	33 (20%)	126 (22%)	30 (18%)	0.49
+Cirrhosis	29 (3%)	4 (2%)	22 (4%)	3 (2%)	0.50†
+Substance abuse	94 (10%)	12 (7%)	62 (11%)	20 (12%)	0.29
+Psychiatric disease	92 (10%)	20 (12%)	56 (10%)	16 (10%)	0.72
+Hospitalization index					
+LOS hospitalization index, median (IQR 25%–75%)	6 (4–9)	6 (4–10)	6 (4–9)	6 (4–8)	0.99
+Place of discharge
+
+Home
+
+Nursing home	
+
+862 (96%)
+
+39 (4%)	
+
+156 (93%)
+
+12 (7%)	
+
+547 (96%)
+
+23 (4%)	
+
+159 (98%)
+
+4 (2%)	
+
+0.12†
+Left against medical advice	15 (2%)	5 (3%)	10 (2%)	0	0.07
+HOSPITAL score, median (IQR 25%–75%)	3 (2–5)	3 (2–5)	3 (2–4)	4 (2–6)	< 0.001
+COPD: chronic obstructive pulmonary disease; IQR: interquartile range; LOS: length of stay; PAD: peripheral arterial disease.
+* 33 participants had missing data (at random) regarding their post-discharge consultation. Therefore, the sum of the columns is 901 and not 934; † Fischer's exact test (instead of chi-squared test).
+Open table in a new tab
+3.1 Primary care professionals and hospital readmission
+During the 30-day post-discharge period, 569 (61%) and 164 (18%) patients consulted their GP or specialist, respectively, whereas 168 (18%) consulted neither (Table 2). Patients who consulted a physician within 30 days of discharge were younger, less frequently Swiss nationals, had higher rates of heart failure or active oncological disease, and had HOSPITAL scores significantly statistically different from those of patients who did not consult one (Table 1).
+Table 2Association between healthcare use and hospitalization index score and risk of 30-day unplanned hospital readmission.
+Unplanned 30-day hospital readmission
+Yes (n = 111)	No(n = 813)	OR	Adjusted* OR
+Medical professional				
+Patient had no medical professional	1	12	1.7 (0.2–12.9)	1.1 (0.1–8.9)
+Medical consultation (any)	78	655	0.7 (0.4–1.2)	0.7 (0.4–1.1)
+GP consultations	48	526	0.4 (0.3–0.7)	0.5 (0.3–0.7)
+No. of GP consultations (vs. none)
+
+1
+
+2 or more	
+
+20
+
+28	
+
+219
+
+303	
+
+0.5 (0.3–0.8)
+
+0.5 (0.3–0.8)	
+
+0.5 (0.3–0.9)
+
+0.5 (0.3–0.8)
+Specialist consultations	30	133	2.1 (1.3–3.3)	2.0 (1.2–3.3)
+No. of specialist visits
+
+1
+
+2 or more	
+
+10
+
+20	
+
+42
+
+87	
+
+2.2 (1.1–4.6)
+
+2.3 (1.3–3.9)	
+
+2.3 (1.1–4.8)
+
+2.0 (1.1–3.5)
+No medical consultation vs.
+
+GP consultation
+
+Specialist consultation	
+
+48
+
+30	
+
+526
+
+133	-
+
+0.5 (0.3–0.9)
+
+1.4 (0.8–2.5)	-
+
+0.6 (0.3–0.9)
+
+1.3 (0.7–2.4)
+Nursing professional				
+Home visits by a nurse	37	191	1.6 (1.1–2.5)	1.1 (0.7–1.9)
+Informal support				
+Living with someone vs. living alone	73	541	1.0 (0.6–1.5)	1.1 (0.7–1.7)
+Homecare support				
+Homecare support (any vs. none)	43	219	1.7 (1.1–2.6)	1.4 (0.9–2.3)
+Homecare support for cleaning	41	213	1.6 (1.1–2.5)	1.4 (0.9–2.2)
+Homecare support for buying groceries	16	76	1.6 (0.9–2.9)	1.3 (0.7–2.5)
+Homecare support for eating	13	69	1.4 (0.8–2.6)	1.1 (0.5–2.0)
+No. of homecare support initiatives
+
+1
+
+2
+
+3	
+
+24
+
+11
+
+8	
+
+130
+
+39
+
+50	
+
+1.6 (1.0–2.6)
+
+2.5 (1.2–5.0)
+
+1.4 (0.7–3.0)	
+
+1.4 (0.8–2.4)
+
+2.1 (1.0–4.4)
+
+1.1 (0.5–2.5)
+Emergency room (ER) visits				
+ER visits (yes vs. no)	41	43	10.5 (6.4–17.2)	10.0 (6.0–16.8)
+No. of ER visits (vs. none)
+
+1
+
+2
+
+3 or more	
+
+34
+
+5
+
+2	
+
+37
+
+5
+
+1	
+
+10.1 (5.9–17.1)
+
+10.8 (3.1–38.9)
+
+21.7 (2.0–245.6)	
+
+9.7 (5.6–16.7)
+
+12.0 (3.1–45.5)
+
+14.1 (1.2–164.7)
+ER: emergency room; GP: general practitioner; No.: number; OR: odds ratio.
+* adjusted for HOSPITAL score, age, number of comorbidities, and Swiss nationality.
+Open table in a new tab
+When primary care professionals were not dichotomized, univariate and adjusted analyses did not associate medical consultations with a greater risk of 30-day unplanned hospital readmission (Table 2). When these consultations were dichotomized between GPs and specialists, a GP consultation decreased the risk of readmission (OR 0.4, 95%CI: 0.3–0.7), whereas a specialist consultation increased it (OR 2.1, 95%CI: 1.3–3.3). These two associations persisted in adjusted analyses (Table 2).
+Time to first hospital readmission was also associated with post-discharge GP consultations (HR: 0.47, 95%CI: 0.32–0.70; adjusted HR: 0.49, 95%CI: 0.33–0.74), and specialist consultations (HR: 2.0, 95%CI: 1.32–3.12; adjusted HR: 1.88, 95%CI: 1.21–2.93) (Fig. 2).
+Fig. 2
+Fig. 2Time to 30-day hospital readmission associated with no consultation (solid line), or at least one post-discharge consultation with a GP (dash) or a specialist physician (dots). Log-rank test for survival difference p < 0.001.
+View Large ImageFigure ViewerDownload Hi-res imageDownload (PPT)
+GP consultations reduced the odds of an ER visit (adjusted OR: 0.62, 95%CI: 0.39–1.00) and the combined risk of an ER visit or unplanned readmission (adjusted OR: 0.51, 95%CI: 0.35–0.74). Specialist consultations, however, were associated with an increased adjusted combined risk of an ER visit or unplanned readmission (adjusted OR: 1.69, 95%CI: 1.10–2.62) (Table 3).
+Table 3Secondary outcomes associated with primary care professional consultations.
+Without consultation(n = 168)	With GP consultation(n = 569)	p-value	With specialist consultation(n = 164)	p-value
+Unplanned hospital readmission	24 (14%)	48 (8%)	< 0.001	30 (18%)	0.002
+Emergency room (ER) visits	20 (12%)	40 (7%)	0.011	19 (12%)	0.150
+More than 1 visit to ER	12 (2%)	8 (1%)	-	4 (2%)	-
+Hospital readmission or ER visit	34 (20%)	70 (12%)	< 0.001	39 (24%)	< 0.001
+Cumulative hospital LOS of readmissions, median days (IQR 25%–75%)	8 (4.5–15)	6 (2–10)	0.11*	6 (4–9)	0.96*
+ER: emergency room; GP: general practitioner; IQR: interquartile range; LOS: hospital length of stay.
+* calculated using the Kruskal–Wallis test.
+Open table in a new tab
+There was no difference in the cumulative LOS for readmissions within 30 days between patients who had consulted their GP, those who had consulted their specialist, and those who had consulted neither (Table 3).
+3.2 Other post-discharge healthcare use and readmission risks
+Home visits by nurses, home support, and ER visits were associated with 30-day unplanned readmissions. However, only ER visits remained associated after adjustment for confounding factors (Table 2). Patients’ subjective feeling that their readmission to hospital had been avoidable was associated with a higher proportion of ER visits but not with their other uses of healthcare services (e.g., home visits by nurses) (Appendix Table A1).
+Table A1Healthcare use by patients readmitted to hospital within 30 days of discharge and according to subjective impressions of hospitalization being avoidable according to the patient and their primary care professional.
+Avoidable according to patient	P-value	Avoidable according to professional	P-value
+no	yes	no	yes
+Any medical consultation	34 (89%)	4 (11%)	0.357	30 (88%)	4 (12%)	0.132
+Specialist consultation	24 (89%)	3 (11%)	0.742	17 (85%)	3 (15%)	0.740
+Home visits by a nurse	24 (86%)	4 (14%)	0.975	21 (81%)	5 (19%)	0.760
+Living with someone vs. living alone	48 (69%)	7 (58%)	0.518	41 (68%)	6 (46%)	0.200
+Homecare support (any vs. none)	29 (41%)	4 (33%)	0.755	26 (43%)	3 (23%)	0.227
+Emergency room (ER) visits	24 (34%)	9 (75%)	0.010	18 (30%)	6 (45%)	0.329
+ER: emergency room; GP: general practitioner.
+* median number of comorbidities = 1, ** median HOSPITAL score = 3.
+Open table in a new tab
+4. Discussion
+In this multicenter prospective cohort, patients discharged from internal medicine units who consulted with their GP at least once soon afterwards were half as likely to be readmitted to hospital or to visit an ER within 30 days, compared to patients who did not consult their GP. In contrast, those who consulted a specialist physician soon after hospital discharge were twice as likely to be readmitted or to visit an ER in comparison to patients who did not visit their specialist.
+To the best of our knowledge, associations between medical consultations and readmission risk have been inconsistently reported in the past. Only one randomized interventional study has shown the paradoxical increase in readmission risk following consultation [[12]], whereas other retrospective studies observed a lower risk [13, 14, 15, 16]. The GP and specialist consultations in our study showed two opposite associations, neutralizing each other when analyzed together; thus, overall, consulting a physician was not associated with 30-day readmission risk. Variations in other studies might have come from the types of medical consultations included [[13],[15]], post-discharge follow-up times [[12]], the type of readmissions considered [[9]], or patients’ individual risks [[10]].
+Our observed lower rate of readmissions has several possible explanations. First, patients consulting their GP are less prone to visiting ERs, which are a major stepping-stone to hospital admission. Interestingly, more readmitted patients with a ER visit within the 30 days than those without an ER visit felt that their readmission could have been avoided. Second, an early consultation with a GP could increase the potential for medication reconciliation, avoiding drug prescription errors, and identifying or treating adverse drug reactions after hospital discharge [[17],[18]]. Third, the potential causative association between GP consultations and lower numbers of readmissions could, in fact, result from an inverse relationship. Readmitted patients may not have had the opportunity to consult their GP because they lacked time between the two hospitalizations. Also, readmitted patients or patients presenting at ERs could be too sick to benefit from care from their GP and may have been readmitted regardless of a consultation. To mitigate this effect, we adjusted for age, comorbidities, and HOSPITAL score (a score that has been associated with readmission and mortality risks). However, an interventional study randomly assigning patients at risk of readmission to a consultation with their GP (or not) would be required to definitively appreciate whether this observed relationship was causative or not.
+The observed opposite relationship between specialist consultations and readmissions agreed with previous reports [[15]]. On the one hand, this inverse effect could be due to the different types of patients consulting GPs and specialists. Many end-organ failures (e.g., heart, lung, and kidney) deserving specialized care repeatedly decompensate and need frequent hospital admission [[19],[20]]. Furthermore, the patients in our study consulting specialists had more oncological diseases, and oncological diseases and their treatment are known to increase admission risk [[21]]. On the other hand, healthcare systems oriented towards clearly separated medical specialties could lack the more general approach needed following hospital discharge (medication reconciliation, avoiding drug errors, and identifying or treating adverse drug reactions) [[17],[18]]. Besides, the lack of a statistically significant difference between patients consulting specialists or not consulting a physician at all could suggest that the increased risk of readmission was mainly driven by not consulting a GP. However, this analysis was of limited statistical power.
+The findings present some limitations. First, as an observational study, associations may result from unconsidered confounding factors. Second, GPs and specialists were dichotomized and mutually exclusive in this study. Indeed, patients were asked to state which type of medical professional was most involved in their post-discharge care, but both a GP and a specialist might share this responsibility. Not considering the possibility of dual care might have favored the positive results with GPs. Nevertheless, for oncological diseases, which represented a substantial proportion of our study's patients under specialized care, patients were often treated exclusively by specialists, with GPs taking over responsibility after therapy has ended. However, within our 30-day post-discharge window, few patients attended more than one consultation with a physician, thus reducing the chances of having consulted a GP and a specialist.
+In conclusion, consultations with a GP were associated with fewer ER visits and unplanned readmissions, whereas consultations with a specialist physician were associated with a higher risk of these outcomes. Interventional studies are needed to explore the nature of this association in more detail.

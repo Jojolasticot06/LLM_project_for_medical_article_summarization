@@ -1,0 +1,39 @@
+Mesenchymal stromal cells plus basiliximab, calcineurin inhibitor as treatment 
+of steroid-resistant acute graft-versus-host disease: a multicenter, randomized, 
+phase 3, open-label trial.
+
+1/BACKGROUND: Steroid-resistant (SR) acute graft-versus-host disease (aGVHD) lacks 
+standard second-line treatment. Mesenchymal stromal cells (MSCs) have potential 
+efficacy in SR aGVHD. We aimed to assess the efficacy and safety of MSCs 
+combined with basiliximab and calcineurin inhibitor as second-line therapy for 
+SR aGVHD.
+
+2/METHODS: A randomized phase 3 trial involved 203 SR aGVHD patients at nine 
+centers in China (September 2014-March 2019). Participants were randomized at a 
+1:1 ratio to receive second-line therapy with (n = 101) or without (n = 102) 
+MSCs. The primary endpoint was the overall response (OR) at day 28. Secondary 
+and safety endpoints included durable OR at day 56, failure-free survival, 
+overall survival (OS), chronic GVHD (cGVHD), infection, hematological toxicity 
+and relapse.
+
+3/RESULTS: Of 203 patients, 198 (97.5%; mean age, 30.1 years; 40.4% women) 
+completed the study. The OR at day 28 was higher in the MSC group than the 
+control group (82.8% [82 patients] vs. 70.7% [70]; odds ratio, 2.00; 95% 
+confidence interval [CI], 1.01-3.94; P = 0.043). The durable OR at day 56 was 
+also higher in the MSC group (78.8% [78 patients] vs. 64.6% [64]; odds ratio, 
+2.02; 95% CI, 1.08-3.83; P = 0.027). The median failure-free survival was longer 
+in the MSC group compared with control (11.3 months vs. 6.0 months; hazard ratio 
+(HR) 0.68; 95% CI, 0.48-0.95, P = 0.024). The 2-year cumulative incidence of 
+cGVHD was 39.5% (95% CI, 29.3-49.4%) and 62.7% (51.4-72.1%) in the MSC and 
+control groups (HR 0.55, 95% CI, 0.36-0.84; P = 0.005). Within 180 days after 
+study treatments, the most common grade 3 and 4 adverse events were infections 
+(65 [65.7%] in the MSC group vs. 78 [78.8%] in the control group) and 
+hematological toxicity (37 [37.4%] vs. 53 [53.5%]). The 3-year cumulative 
+incidence of tumor relapse was 10.1% (95% CI, 5.2-17.1) and 13.5% (7.5-21.2%) in 
+the MSC and control groups, respectively (HR 0.75, 95% CI, 0.34-1.67, 
+P = 0.610).
+
+4/CONCLUSIONS: MSCs plus second-line treatments increase the efficacy of SR aGVHD, 
+decrease drug toxicity of second-line drugs and cGVHD without increasing 
+relapse, and are well-tolerated. MSCs could be recommended as a second-line 
+treatment option for aGVHD patients. 

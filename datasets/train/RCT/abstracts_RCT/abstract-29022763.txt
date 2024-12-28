@@ -1,0 +1,30 @@
+Impact of practice, provider and patient characteristics on delivering screening 
+and brief advice for heavy drinking in primary healthcare: Secondary analyses of 
+data from the ODHIN five-country cluster randomized factorial trial.
+
+1/BACKGROUND: The implementation of primary healthcare-based screening and advice 
+that is effective in reducing heavy drinking can be enhanced with training.
+OBJECTIVES: Undertaking secondary analysis of the five-country ODHIN study, we 
+test: the extent to which practice, provider and patient characteristics affect 
+the likelihood of patients being screened and advised; the extent to which such 
+characteristics moderate the impact of training in increasing screening and 
+advice; and the extent to which training mitigates any differences due to such 
+characteristics found at baseline.
+
+2/METHODS: A cluster randomized factorial trial involving 120 practices, 746 
+providers and 46 546 screened patients from Catalonia, England, the Netherlands, 
+Poland, and Sweden. Practices were randomized to receive training or not to 
+receive training. The primary outcome measures were the proportion of adult 
+patients screened, and the proportion of screen-positive patients advised.
+
+4/RESULTS: Nurses tended to screen more patients than doctors (OR = 3.1; 95%CI: 
+1.9, 4.9). Screen-positive patients were more likely to be advised by doctors 
+than by nurses (OR = 2.3; 95%CI: 1.4, 4.1), and more liable to be advised the 
+higher their risk status (OR = 1.9; 95%CI: 1.3, 2.7). Training increased 
+screening and advice giving, with its impact largely unrelated to practice, 
+provider or patient characteristics. Training diminished the differences between 
+doctors and nurses and between patients with low or high-risk status.
+
+4/CONCLUSIONS: Training primary healthcare providers diminishes the negative 
+impacts that some practice, provider and patient characteristics have on the 
+likelihood of patients being screened and advised. Trial registration 

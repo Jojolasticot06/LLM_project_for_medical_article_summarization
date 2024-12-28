@@ -1,0 +1,9 @@
+Oxytocin modulates local topography of human functional connectome in healthy men at rest
+
+1/Oxytocin has recently received remarkable attention for its role as a modulator of human behaviour. 
+
+2/Here, we aimed to expand our knowledge of the neural circuits engaged by oxytocin by investigating the effects of intranasal and intravenous oxytocin on the functional connectome at rest in 16 healthy men. 
+
+3/Oxytocin modulates the functional connectome within discrete neural systems, but does not affect the global capacity for information transfer. These local effects encompass key hubs of the oxytocin system (e.g. amygdala) but also regions overlooked in previous hypothesis-driven research (i.e. the visual circuits, temporal lobe and cerebellum). Increases in levels of oxytocin in systemic circulation induce broad effects on the functional connectome, yet we provide indirect evidence supporting the involvement of nose-to-brain pathways in at least some of the observed changes after intranasal oxytocin. 
+
+4/Together, our results suggest that oxytocin effects on human behaviour entail modulation of multiple levels of brain processing distributed across different systems.

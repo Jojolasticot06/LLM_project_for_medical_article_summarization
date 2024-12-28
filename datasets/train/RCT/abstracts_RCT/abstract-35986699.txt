@@ -1,0 +1,12 @@
+Efficacy and safety of topical brepocitinib for the treatment of mild-to-moderate atopic dermatitis: a phase IIb, randomized, double-blind, vehicle-controlled, dose-ranging and parallel-group study.
+
+1/BACKGROUND: Atopic dermatitis (AD) is a prevalent inflammatory, pruritic skin disease. The Janus kinase (JAK) pathway is a treatment target.
+OBJECTIVES: To assess the efficacy, safety and pharmacokinetics of topical cream 
+brepocitinib, a small-molecule tyrosine kinase 2 (TYK2)/JAK1 inhibitor, in participants with mild-to-moderate AD.
+
+2/METHODS: In this phase IIb, double-blind, dose-ranging study, participants were randomized to receive one of eight treatments for 6 weeks: brepocitinib 0·1% once daily (QD), 0·3% QD or twice daily (BID), 1·0% QD or BID, 3·0% QD, or vehicle QD or BID. The primary endpoint was the percentage change from baseline in the Eczema Area and Severity Index (EASI) total score at week 6. Adverse events (AEs) were monitored.
+
+3/RESULTS: Overall, 292 participants were enrolled and randomized. The brepocitinib 1% QD and 1% BID groups achieved statistically significantly greater (with multiplicity-adjusted P < 0·05 due to Hochberg's step-up method) percentage reductions from baseline in EASI total score at week 6 [least squares mean (90% confidence interval, CI): QD: -70·1 (-82·1 to -58·0); BID: -75·0 (-83·8 to -66·2)] compared with respective vehicle [QD: -44·4 (-57·3 to -31·6); BID: -47·6 (-57·5 to -37·7)]. There was not a dose-dependent trend in AE frequency, and there were no serious AEs or deaths.
+
+4/CONCLUSIONS: Topical brepocitinib is effective and well tolerated in participants with mild-to-moderate AD. What is already known about this topic? Janus kinase (JAK) inhibitors are in development for treatment of atopic dermatitis (AD). The tyrosine kinase 2 and JAK 1 inhibition by brepocitinib may bring a new profile for topical JAK inhibitors for treatment of mild-to-moderate AD. What does this study add? Topical brepocitinib can provide rapid, effective symptom reduction, and could offer a novel alternative to current topical 
+treatments for mild-to-moderate AD.

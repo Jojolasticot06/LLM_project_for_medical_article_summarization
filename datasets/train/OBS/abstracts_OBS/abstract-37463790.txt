@@ -1,0 +1,32 @@
+BACKGROUND: The liver is a frequent site of metastases and liver metastases (LM) 
+correlate with diminished immunotherapy efficacy in non-small cell lung cancer 
+(NSCLC). This study aimed to analyze whether tumor response to immunotherapy 
+differs between pulmonary lesions (PL) and LM in NSCLC and to explore potential 
+mechanisms through multiomics analysis.
+METHODS: This observational longitudinal clinical cohort study included patients 
+with NSCLC with LM receiving immunotherapy was conducted to evaluate 
+organ-specific tumor response of PL and LM. We collected paired PL and LM tumor 
+samples to analyze the organ-specific difference using whole-exome sequencing, 
+RNA sequencing, and multiplex immunohistochemistry.
+RESULTS: A total of 52 patients with NSCLC with LM were enrolled to evaluate the 
+organ-specific response of immunotherapy. The objective response rate (21.1% vs 
+32.7%) and disease control rate of LM were lower than that of PL (67.3% vs 
+86.5%). One-third of patients showed mixed response, among whom 88.2% (15/17) 
+presented with LM increasing, but PL decreasing, while the others had the 
+opposite pattern (p=0.002). In another independent cohort, 27 pairs of matched 
+PL and LM tumor samples from the same individuals, including six simultaneously 
+collected pairs, were included in the translational part. Genomic landscapes 
+profiling revealed similar somatic mutations, tumor mutational burden, and 
+neoantigen number between PL and LM. Bulk-RNA sequencing showed immune 
+activation-related genes including CD8A, LCK, and ICOS were downregulated in LM. 
+The antigen processing and presentation, natural killer (NK) cell-mediated 
+cytotoxicity and T-cell receptor signaling pathway were enriched in PL compared 
+with LM. Multiplex immunohistochemistry detected significantly lower fractions 
+of CD8+ cells (p=0.036) and CD56dim+ cells (p=0.016) in LM compared with PL. 
+Single-cell RNA sequencing also characterized lower effector CD8+ T cells 
+activation and NK cells cytotoxicity in LM.
+CONCLUSIONS: Compared with PL, LM presents an inferior organ-specific tumor 
+response to immunotherapy. PL and LM showed limited heterogeneity in the genomic 
+landscape, while the LM tumor microenvironment displayed lower levels of immune 
+activation and infiltration than PL, which might contribute to developing 
+precise immunotherapy strategies for patients with NSCLC with LM.

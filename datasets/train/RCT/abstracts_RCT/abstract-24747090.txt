@@ -1,0 +1,12 @@
+Is there a role for body mass index in the assessment of prostate cancer risk on biopsy?
+
+1/PURPOSE: We examine the role of body mass index in the assessment of prostate cancer risk.
+
+2/MATERIALS AND METHODS: A total of 3,258 participants who underwent biopsy (including 1,902 men with a diagnosis of prostate cancer) were identified from the Selenium and Vitamin E Cancer Prevention Trial. The associations of body mass index with prostate cancer and high grade prostate cancer were examined using logistic regression, adjusting for age, race, body mass index adjusted prostate specific antigen, digital rectal examination, family history of prostate cancer, biopsy history, prostate specific antigen velocity, and time between study entry and the last biopsy. The prediction models were compared with our previously developed body mass index adjusted Prostate Cancer 
+Prevention Trial prostate cancer risk calculator.
+
+3/RESULTS: Of the study subjects 49.1% were overweight and 29.3% were obese. After adjustment, among men without a known family history of prostate cancer, increased body mass index was not associated with a higher risk of prostate cancer (per one-unit increase in logBMI OR 0.83, p=0.54) but was significantly associated with a higher risk of high grade prostate cancer (ie Gleason score 7 
+or greater prostate cancer) (OR 2.31, p=0.03). For men with a known family history of prostate cancer the risks of prostate cancer and high grade prostate cancer increased rapidly as body mass index increased (prostate cancer OR 3.73, p=0.02; high grade prostate cancer OR 7.95, p=0.002). The previously developed risk calculator generally underestimated the risks of prostate cancer and high 
+grade prostate cancer.
+
+4/CONCLUSIONS: Body mass index provided independently predictive information regarding the risks of prostate cancer and high grade prostate cancer after adjusting for other risk factors. Body mass index, especially in men with a known family history of prostate cancer, should be considered for inclusion in any clinical assessment of prostate cancer risk and recommendations regarding prostate biopsy.

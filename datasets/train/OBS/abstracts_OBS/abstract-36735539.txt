@@ -1,0 +1,24 @@
+INTRODUCTION: Constructing quality indicators that reflect the defect of 
+colonoscopy operation for quality audit and feedback is very important. 
+Previously, we have established a real-time withdrawal speed monitoring system 
+to control withdrawal speed below the safe speed. We aimed to explore the 
+relationship between the proportion of overspeed frames (POF) of withdrawal and 
+the adenoma detection rate (ADR) and to conjointly analyze the influence of POF 
+and withdrawal time on ADR to evaluate the feasibility of POF combined with 
+withdrawal time as a quality control indicator.
+METHODS: The POF was defined as the proportion of frames with instantaneous 
+speed ≥44 in the whole colonoscopy video. First, we developed a system for the 
+POF of withdrawal based on a perceptual hashing algorithm. Next, we 
+retrospectively collected 1,804 colonoscopy videos to explore the relationship 
+between POF and ADR. According to withdrawal time and POF cutoff, we conducted a 
+complementary analysis on the effects of POF and withdrawal time on ADR.
+RESULTS: There was an inverse correlation between the POF and ADR (Pearson 
+correlation coefficient -0.836). When withdrawal time was >6 minutes, the ADR of 
+the POF ≤10% was significantly higher than that of POF >10% (25.30% vs 16.50%; 
+odds ratio 0.463, 95% confidence interval 0.296-0.724, P < 0.01). When the POF 
+was ≤10%, the ADR of withdrawal time >6 minutes was higher than that of 
+withdrawal time ≤6 minutes (25.30% vs 21.14%; odds ratio 0.877, 95% confidence 
+interval 0.667-1.153, P = 0.35).
+DISCUSSION: The POF was strongly correlated with ADR. The combined assessment of 
+the POF and withdrawal time has profound significance for colonoscopy quality 
+control.

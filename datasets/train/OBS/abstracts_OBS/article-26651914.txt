@@ -1,0 +1,187 @@
+1 Introduction
+Over the past 15 years, the development of gene expression signatures by microarray analysis has led to the deconstruction of breast cancer in molecular subtypes characterized by distinct clinical outcomes (Perou et al., 2000; Sorlie et al., 2001) and response to treatment (Nielsen et al., 2010; Parker et al., 2009).
+
+Gene signatures represent a standardized quantitative and reproducible classification tool for tumor prognostication and treatment tailoring (Consortium et al., 2006) and provide additional information beyond that obtained from the routinely employed clinical parameters and pathological biomarkers (Dowsett et al., 2013). Gene expression profiles have been extensively tested as prognostic factors in early breast cancer (Parker et al., 2009; Nielsen et al., 2010; van de Vijver et al., 2002; Habel et al., 2006; Paik et al., 2004; van't Veer et al., 2002; Buyse et al., 2006). In addition, a cost-effective immunohistochemical (IHC) assay based on the assessment of estrogen receptor (ER), progesterone receptor (PR), human epidermal growth factor receptor 2 (HER2) and Ki67, namely IHC4, has been proposed as a surrogate to gene signatures (Cheang et al., 2009; Prat et al., 2013). Nevertheless, IHC markers alone or in combination do not accurately reproduce gene expression subtyping and do not fully capture its prognostic ability (Prat and Perou, 2011). More recently, integrative models combining molecular, IHC and clinical features have been developed with the aim to further refine breast cancer risk categorization (Dowsett et al., 2013; Cuzick et al., 2011).
+
+Whilst a myriad of prognostic and treatment predictive factors exist for primary breast cancers, few of these have been tested in the metastatic setting (Anderson et al., 2011; Delpech et al., 2012; King et al., 2013; Ravdin et al., 1992; Yamashita et al., 2006). A large retrospective cohort of patients from the Stockholm breast cancer registry revealed that primary tumor size and ER, recurrence free interval, age at relapse, site of first systemic recurrence and systemic adjuvant therapy were independently associated with post-relapse survival (Foukakis et al., 2011). Additionally, assessment of ER, HER2 and Ki67 in relapse tissue, instead of primary tumor, may improve their prognostic value (Lindstrom et al., 2012; Falato et al., 2014) and optimize the therapeutic management of the metastatic disease (Thompson et al., 2010; Amir et al., 2012a, 2012b). Recently, it has been shown that molecular subtypes evaluated in metastatic biopsies are prognostic of post-relapse survival with basal-like and HER2-enriched displaying the shortest survival (Tobin et al., 2015).
+
+While the clinical utility of prognostic microarray expression profiling has been established in early breast cancer, (Buyse et al., 2006; Nielsen et al., 2010; Paik et al., 2004) there is a lack of studies investigating their ability to predict survival after systemic relapse. The aim of the study was therefore to explore their prognostic role in metastatic breast cancer beyond the classical clinical and pathological prognostic variables.
+
+2 Patients and methods
+2.1 Study population
+The study cohort consists of 220 patients diagnosed and treated for primary breast cancer and subsequent systemic relapse at Karolinska University Hospital, Sweden between January, 1997 and September, 2006. Patients were retrospectively identified, using an individually assigned 12- digit personal code, within the population-based Stockholm – Gotland breast cancer registry. This cohort is part of a larger nested case-control study (in which controls were non relapsed breast tumors in the same time period) including 621 subjects (2 patients had bilateral primary breast cancer) with no stage IV tumor at time of primary diagnosis. Frozen primary tumor tissue was available for all patients at the Karolinska University Hospital biobank and was obtained for RNA isolation.
+
+Complete clinical and pathological disease information as well as data regarding treatments and follow-up was manually retrieved from original hospital records and pathology reports. Primary tumor grade was centrally re-evaluated by a breast cancer pathologist and scaled according to Elston-Ellis system (Elston and Ellis, 2002). The patients were treated for early and metastatic disease according to institutional guidelines.
+
+The study was retrospective and observational. The Ethics Committee at Karolinska Institutet approved data collection and analysis as well as gene array profiling.
+
+2.2 Study objective
+The study objective was to investigate the prognostic value in terms of survival after systemic relapse of breast cancer classifiers as based on the routinely performed IHC biomarkers and research-based gene expression signatures of the commercially available genomic profiles from primary tumor.
+
+2.3 Immunohistochemistry-based tumor subtyping
+ER and PR were retrieved from the routine pathology evaluations. HER2 and Ki67 were centrally and retrospectively assessed in tissue microarray sections, using the same tumor sample as for RNA isolation, by employing Chromogenic in situ hybridization (CISH) (Tanner et al., 2000) and MIB-1 monoclonal antibody (Cattoretti et al., 1992) (DAKO, M7240), respectively.
+
+Tumor subtyping based on IHC was performed according to the aforementioned biomarkers. Luminal A tumors were defined as ER and/or PR positive, HER2 negative, low Ki67 while luminal B tumors were defined as having high Ki67 levels. Ki67 was dichotomized according to a cut-point of 20% (low ≤ 20%; high>20%) (Goldhirsch et al., 2013). HER2 positive category included all HER2 positive cancers regardless of hormonal receptor status (Cheang et al., 2009; Prat et al., 2013). ER, PR and HER2 negative tumors were classified as triple negative tumors (TNBC).
+
+2.4 Gene expression signature classifications
+Gene expression profiling was obtained from RNA collected in primary cancer tissue. RNA was extracted from frozen tumors using the Qiagen RNeasy Mini Kit (Qiagen, Germany). As the cohort is comprised of more aggressive tumors than a typical primary breast cancer cohort, the normalization was done using the whole case-control patient population (NCBI GEO reference: GSE48091). Details of the array platform HRSTA-2.0 custom human Affymetrix array GPL10379 can be found at NCBI GEO depository, as described by Tobin et al. (Tobin et al., 2015). Following normalization and median centering across genes, molecular subtyping according to the PAM50 signature was performed as outlined in the original publication (Parker et al., 2009), using the code provided by Parker et al. on the UNC Microarray Database website as a data supplement to the original paper. Similarly, the classification calls for the 70-gene signature (commercially known as Mammaprint®) and recurrence score (RS, Oncotype DX®) were made as per the original publications (Paik et al., 2004; van't Veer et al., 2002), and for similar reasons to PAM50, the 70-gene calls were made as part of the larger material (GSE48091). All gene expression analyses were performed in R (Ihaka and Gentleman, 1996). The code for the 70-gene and recurrence score signatures has been previously reported (Tobin et al., 2014).
+
+2.5 Statistical analysis
+Analysis was prespecified and performed using IBM SPSS Statistics (version 22).
+
+The end-point was post-relapse survival (or more briefly, survival) defined as the time between first systemic relapse diagnosis and death irrespective of the cause or last follow-up. Patients still alive at last study follow-up (July, 2012) were censored.
+
+Associations between the investigated tumor classifiers were explored by Pearson's chi-square test and the strength of the agreement between IHC and PAM50 measured by kappa score.
+
+Post-systemic relapse survival according to IHC-based subtypes as well as gene expression signature-derived breast cancer subgroups was visualized by Kaplan–Meier method (Kaplan and Meier, 1958) and comparisons were performed by log-rank test. The risk of recurrence score based on PAM50 subtypes (ROR-S), 21-gene and the 70-gene signatures were initially designed to predict outcome among ER+ cancers. Hence, two separate analyses were performed to test their prognostic role in the overall cohort as well as in the ER+ tumor subgroup. A model excluding primary tumor grade was also implemented.
+
+Univariate Cox proportional hazard models fitted to post-relapse survival were employed for hazard ratio (HR) and corresponding 95% confidence intervals (CIs) estimation. Clinical [dichotomized primary tumor size and axillary lymph node status, distant relapse free interval (DRFI), age at first systemic relapse, neoadjuvant and/or adjuvant chemotherapy, site of first systemic relapse, first line treatment for metastatic disease] and pathological (primary tumor grade as well as ER, PR, HER2 and Ki67) factors were the prognostic variables for survival comparisons. Variables significantly associated with post-relapse survival in univariate analyses, were selected as covariates for adjustment in multivariable Cox models (Cox, 1972).
+
+The prognostic value of 11 proliferation genes in the PAM50 gene set (PAM50 proliferation index) was also investigated. Finally, a ROR weighted for the proliferation score (ROR-P) (Nielsen et al., 2010) was explored as a prognostic factor in metastatic disease and the additional contribution that ROR-P provided when combined to a clinical model alone or in presence of the other classifiers was estimated in terms of change in LR- χ2.
+
+The analysis was carried out in accordance with “REMARK” guidelines (Altman et al., 2012). P values were two-sided and all CIs were at the 95% level.
+
+3 Results
+The clinical and pathological characteristics of the overall cohort as well as the patients for whom IHC and gene expression-based subtypes were available, are detailed in Table 1. As expected from a metastatic cohort, a high percentage of patients had positive axillary lymph nodes at primary diagnosis (72%), ER negative (33%), PR negative (38%), HER2 positive (31%), poorly differentiated (45%) and highly proliferative (Ki67 > 20 = 53%) tumors.
+
+Table 1. Clinical and pathological characteristics of metastatic breast cancer patients in the study cohort.
+Variable	Overall cohort	IHC cohort	GEX cohort
+n (%)	n (%)	n (%)
+Total	220 (100)	184 (100)	187 (100)
+Age at systemic relapse
+≤50 years	77 (35)	65 (35)	65 (35)
+>50 years	143 (65)	119 (65)	122 (65)
+Systemic DRFI
+≤24 months	101 (46)	80 (43)	84 (45)
+>24 months	119 (54)	104 (57)	103 (55)
+Primary tumor size
+≤2 cm	77 (35)	65 (35)	68 (36)
+>2 cm	139 (63)	115 (63)	116 (62)
+unknown	4 (2)	4 (2)	3 (2)
+Axillary lymph node status
+Negative	58 (26)	48 (26)	49 (26)
+Positive	158 (72)	134 (73)	135 (72)
+Unknown	4 (2)	2 (1)	3 (2)
+First systemic relapse
+Non visceral	86 (39)	73 (40)	72 (38)
+Visceral	134 (61)	111 (60)	115 (61)
+Primary tumor grade
+G1-G2	112 (51)	98 (53)	97 (52)
+G3	99 (45)	85 (46)	82 (44)
+Unknown	9 (4)	1 (1)	8 (4)
+Neoadjuvant/Adjuvant Chemotherapy
+No	60 (27)	51 (28)	48 (26)
+Yes	160 (73)	133 (72)	139 (74)
+Endocrine adjuvant therapy
+No	79 (36)	62 (34)	62 (33)
+Yes	141 (64)	122 (64)	125 (67)
+Trastuzumab for metastatic disease
+No	172 (78)	143 (78)	141 (75)
+Yes	48 (22)	41 (22)	46 (25)
+Primary tumor estrogen receptor
+Negative	72 (33)	57 (31)	61 (33)
+Positive	145 (66)	126 (68)	124 (66)
+Unknown	3 (1)	1 (1)	2 (1)
+Primary tumor progesteron receptor
+Negative	84 (38)	73 (40)	71 (38)
+Positive	90 (41)	77 (42)	79 (42)
+Unknown	46 (21)	34 (18)	37 (20)
+Primary tumor HER2
+Negative	128 (58)	117 (64)	110 (59)
+Positive	67 (31)	67 (36)	57 (30)
+Unknown	25 (11)		20 (11)
+Primary tumor Ki67
+≤20%	81 (37)	73 (40)	71 (38)
+>20%	117 (53)	105 (57)	96 (51)
+Unknown	22 (10)	6 (3)	20 (11)
+Abbreviations: n, number of patients; IHC, immunohistochemistry; GEX, gene expression profiles; DRFI, distant relapse free interval; HER2, human epitelial growth factor 2.
+3.1 Tumor subtypes based on immunohistochemistry and PAM50
+Complete IHC biomarker panel was available in 184 out of 220 patients while gene expression profiling was possible in 187 cases. In an analysis excluding normal breast-like cancers, the agreement in tumor categorization between IHC and PAM50 was moderate (concordant cases 96 out of 150 tumors; agreement 64%; kappa score = 0.51, p = 0.001) (Supplementary Table S1).
+
+First, the prognostic role of intrinsic subtypes was tested in a Kaplan–Meier analysis.
+
+Overall, both IHC- and PAM50-based intrinsic subtypes were prognostic (p = 0.05 and p = 0.03 by log-rank test, respectively), mainly due to the better outcome of luminal compared with non-luminal tumors after relapse (Figure 1A and 1B).
+
+Details are in the caption following the image
+Figure 1
+Open in figure viewer
+PowerPoint
+Kaplan- Meier estimates of post- systemic relapse survival according to: A) immunohistochemistry-based intrinsic subtypes assessed in primary tumor; B) PAM50-based intrinsic subtypes assessed in primary tumor.
+The difference in post-relapse survival between luminal A and B defined by IHC was not significant (median survival: 23 vs. 24 months; HR = 1.0, 0.65–1.52 95% CIs, p = 0.99 by log-rank test) while TNBC were associated with a statistically significant shorter survival in comparison with luminal tumors (median survival: 10 vs. 23 months; HR = 0.53, 0.33–0.87 95% CIs, p = 0.008 by log-rank test). Similarly, with PAM50 classification luminal tumors showed a statistically significant better prognosis compared with basal-like (median survival: 23 vs. 10 months; HR = 0.54, 0.37–0.81 95% CIs, p = 0.002 by log-rank test) while no difference in post-relapse survival was demonstrated between luminal A and B (median survival: 23 vs. 22 months; HR = 0.85, 0.54–1.32 95% CIs, p = 0.45 by log-rank test).
+
+Furthermore, in a multivariate analysis adjusted for clinical factors associated with survival in univariate models (primary tumor size and grade as well as DRFI, and site of first systemic recurrence) (Supplementary Table S2), IHC-derived subtypes did not significantly correlate with post-relapse survival (p = 0.64) (Table 2). These results were not affected when different cutoffs for Ki67 were used for defining luminal A and B subtypes by IHC (data not shown). Similar results emerged in the correlation between PAM50 and survival in a model adjusted for the same variables (plus PR) (p = 0.58) (Table 2). When normal breast-like tumors were removed from the analysis, the results were unchanged (data not shown).
+
+Table 2. Cox regression models for IHC and PAM50 classifier association with post-relapse survival in the study population.
+Variable	n	Events	Median survival	Univariate	Multivariatea
+HR (95% CI)	p	HR (95% CI)	p
+IHC subtypes	0.06		0.64
+Luminal A	49	45	23	0.56 (0.33–0.94)	0.94 (0.52–1.69)
+Luminal B	45	41	24	0.56 (0.33–0.95)	0.72 (0.40–1.29)
+HER2 positive	67	64	14	0.78 (0.48–1.29)	0.82 (0.48–1.39)
+TNBC	23	21	10	1	1
+PAM50	0.04		0.58
+Luminal A	41	38	23	0.51 (0.33–0.81)	0.65 (0.34–1.24)
+Luminal B	44	42	22	0.60 (0.39–0.93)	0.74 (0.44–1.26)
+HER2 enriched	49	47	13	0.73 (0.48–1.12)	0.82 (0.50–1.36)
+Normal-like	12	11	20	0.55 (0.48–1.12)	0.57 (0.27–1.20)
+Basal-like	41	40	10	1	1
+Abbreviations: n, number of patients; HR, hazard ratio; CI, confidence interval; p, p-value; IHC, immunohistochemistry; HER2, human epidermal growth factor 2; TNBC, triple negative breast cancer.
+a Multivariate model adjusted for variables significantly associated with survival in univariate models: primary tumor size and grade, progesteron receptor, distant relapse free interval, site of first systemic relapse. Progesteron receptor was excluded from the IHC subtype multivariate model for overlap of biological information.
+3.2 PAM50 risk of recurrence score, 21-gene recurrence score and 70-gene profile
+The associations in tumor classification according to ROR-S, RS and the 70-gene poor and good categories are detailed in Supplementary Table S3. Overall, a good agreement between the classifiers in the assignment of primary tumors in prognostic categories was shown (Pearson's chi-square: p = 0.001), although the 21-gene RS assigned more tumors to the higher risk categories.
+
+First, these signatures were tested in relation to post-relapse survival by Kaplan–Meier analysis. Patients allocated in the low and medium ROR-S categories had a significantly shorter post-relapse survival compared to those with a higher risk profile in the overall cohort (p = 0.002 by log-rank test) but not in the ER+ patients (p = 0.103 by log-rank test) (Supplementary Figure S1A and S1D). RS did not correlate with survival in all (p = 0.19 by log-rank test) or ER+ tumors (p = 0.47 log-rank test) and thus was not further explored in a multivariable analysis (Supplementary Figure S1B and S1E). The 70-gene signature based subgroups were significantly associated with post-relapse survival in all (p = 0.01 by log-rank test) but not in ER+ patients (p = 0.06 by log-rank test) (Supplementary Figure S1C and S1F).
+
+Next, in a multivariate analysis low and medium ROR-S risk categories showed a significantly better post-relapse survival in comparison with high-risk group regardless of routinely employed clinical factors (low-risk: HR = 0.59, 0.34–1.01 95% CIs; medium-risk: HR = 0.58, 0.37–0.91 95% CIs, p = 0.04) (Table 3). No independent prognostic role was seen for the 70-gene signature in the overall cohort (Table 3). The results were unchanged when primary tumor grade was removed from the model (Supplementary Table S4).
+
+Table 3. Cox regression models for ROR-S, RS and the 70-gene profile association with post-relapse survival in the study population.
+Variable	n	Events	Median survival	Univariate	Multivariate
+HR (95% CI)	p	HR (95% CI)	p
+ROR-Sa	0.002		0.04
+Low	34	32	23	0.57 (0.38–0.86)		0.59 (0.34–1.01)	
+Medium	67	62	23	0.60 (0.43–0.83)		0.58 (0.37–0.91)	
+High	86	84	10	1		1	
+RS	0.2		
+Low/intermediate	28	26	21	0.76 (0.50–1.15)	
+High	159	152	15	1
+70-gene signaturea	0.01		0.64
+Good	62	58	23	0.66 (0.48–0.91)	0.90 (0.57–1.40)
+Poor	125	120	13	1	1
+Abbreviations: n, number of patients; HR, hazard ratio; CI, confidence interval; p, p-value; ROR-S, Risk of Relapse based on PAM50 subtypes; RS, Recurrence Score based on the 21-gene profile.
+a Multivariate model adjusted for primary tumor size and grade, distant relapse free interval, progesteron receptor, site of first systemic relapse.
+Additionally, a proliferation index derived from 11 proliferation-associated genes within the PAM50 set was correlated to post-relapse survival. The association with survival was statistically significant in a univariate (HR = 1.62, 1.09–2.41 95% CIs, p = 0.02) as well as in a multivariable Cox model including clinical variables (HR = 1.74, 1.09–2.78 95% CIs, p = 0.02) (Table 4). When a bivariate Cox model containing primary tumor Ki67 and the PAM50 proliferation index was implemented, a trend towards a worse survival related to increasing levels of proliferation score emerged (HR = 1.6, 0.99–2.56 95% CIs, p = 0.05) (Table 4).
+
+Table 4. Cox models for the evaluation of the prognostic role of PAM50 proliferation index and ROR-P in metastatic breast cancer.
+n	Events	Median survival	Univariate	Multivariate
+HR (95% CI)	p	HR (95% CI)	p
+Proliferation scorea	175	167		1.62 (1.09–2.41)	0.02	1.74 (1.09–2.78)	0.02
+Proliferation scoreb						1.6 (0.99–2.56)	0.05
+Primary tumor Ki67 (low≤20%)						0.99 (0.69–1.44)	0.96
+ROR-Pc	187	178			0.001		0.002
+Low			23	0.56 (0.35–0.89)		0.68 (0.38–1.21)	
+Medium			22	0.52 (0.38–0.73)		0.47 (0.30–0.72)	
+High			10			1	
+Abbreviations: n, number of patients; HR, hazard ratio; CI, confidence interval; p, p-value; ROR-P, Risk of Relapse weighted for PAM50 proliferation index.
+a Adjusted for primary tumor size and PR, distant relapse free interval, site of first metastasis.
+b Binary model with Ki67 from primary tumor.
+c Adjusted for size, grade and PR of the primary tumor, distant relapse free interval, site of first metastasis.
+In consideration of the independent role of ROR-S and the proliferation index, the prognostic value of ROR-P was further explored and a correlation with post-relapse survival was found independently of the clinical variables in the model (high-risk: reference; low-risk: HR = 0.68, 0.38–1.21 95% CIs; medium-risk: HR = 0.47, 0.30–0.72 95% CIs, p = 0.002). Finally, ROR-P provided significant additional information when combined to a clinical model alone or in presence of the other prognosticators in the study (Figure 2).
+
+Details are in the caption following the image
+Figure 2
+Open in figure viewer
+PowerPoint
+Evaluation in terms of change in Likelihood Ratio- χ2 of the additional prognostic information on post-systemic relapse survival provided by sequentially adding immunohistochemical and gene expression- based breast cancer classifiers to a clinical model including primary tumor size and grade, distant relapse free interval and site of first systemic relapse.
+3.3 Post-relapse survival prognostication according to first line treatment for metastatic disease
+An explorative survival analysis was conducted in subgroups of patients identified according to the first line treatment for metastatic disease (chemotherapy or endocrine therapy). Treatment choice was based on the institutional guidelines. Overall, 126 (57%) and 62 (28%) out of 220 patients received chemotherapy and endocrine therapy, respectively (20 patients died shortly after diagnosis of systemic relapse while in 12 cases information about treatment was incomplete). In 48 patients with positive disease, trastuzumab was administered. In endocrine therapy treated group, patients classified as low-risk according to ROR-S score had a remarkably longer post-relapse survival when compared with medium and high-risk categories (35 months vs. 18 months in the medium-risk group vs. 8 months in the high-risk group; p = 0.002 by log-rank test) (Supplementary Figure S2A). No statistically or clinically significant difference between ROR-S subtypes was demonstrated in the chemotherapy group (p = 0.097 by log-rank test) (Supplementary Figure S2B). When the analysis was restricted to the ER+ patients, the results were unchanged (data not shown). IHC- based luminal subtypes were not significantly associated with post-relapse survival either in endocrine or in the chemotherapy treatment groups (p = 0.72 and p = 0.62, respectively) (Supplementary Figure S3A and S3B). Although no significantly different survival was shown in the comparison between PAM50 luminal subtypes, luminal A had a clinically relevant 14 months longer survival in comparison with luminal B in the endocrine-treated patient subgroup (Supplementary Figure S3C).
+
+4 Discussion
+Gene expression-based signatures have demonstrated clinical utility for prognostication and therapy selection in early breast cancer (Buyse et al., 2006; Nielsen et al., 2010; Paik et al., 2004). As some of these tests are increasingly used in the clinic, the information on the gene expression they provide is available for several patients when they ultimately relapse. To date, whether these tests may be employed as prognosticators of survival after recurrence is poorly explored. To our knowledge, this is the first report investigating the prognostic value of approved gene signatures of the primary tumor in the relapse setting.
+
+The importance of the intrinsic cancer biology is well established in metastatic disease and receptor status defined in the primary tumor or in metastasis is fundamental in clinical practice. Intrinsic subtypes obtained interrogating PAM50 classifier has a superior prognostic ability in comparison with IHC (Nielsen et al., 2010). Our results confirm the prognostic role of intrinsic subtypes and indicate that PAM50 ROR is an independent prognostic factor of post-systemic relapse survival. Conversely, the outcome driven 21-gene and 70-gene profiles, both developed in highly selected early breast cancer cohorts, did not display any relevant association with survival in the metastatic setting. Furthermore, ROR weighted for the PAM50 proliferation index (ROR-P) showed the best prognostic performance in comparison with the other prognostic signatures as well as IHC subtypes, consistently with studies in early disease (Nielsen et al., 2010; Prat et al., 2013). Additionally, ROR score significantly identified a low-risk patient group that could mostly benefit from endocrine treatment as first line therapy for metastatic disease.
+
+We have recently shown that molecular subtypes defined in metastatic biopsies are prognostic of post-relapse survival (Tobin et al., 2015). The evidence of a receptor pattern discrepancy between primary tumor and its metastasis and an enhanced disease management driven by relapse characteristics might suggest a better performance of gene signatures from the relapse tissue as a survival prognosticator. Although the biopsy of the relapse site may provide additional insights to improve the treatment of the advanced disease (Amir et al., 2012a; Foukakis et al., 2012; Karlsson et al., 2014; Lindstrom et al., 2012; Niikura et al., 2012; Wilking et al., 2011), a good agreement has been recently reported in the assignment of tumors to the basal and the high-risk ROR category between primary tumors and their metastases (Cheang et al., 2015). Metastasis biopsy is not always easy to perform due to site accessibility and could yield to the collection of material insufficient to allow gene expression profiling. Conversely, the analysis of genomic signatures in primary tumor, whose use is already established in clinical practice, might be more efficiently expanded for prognostication purposes after breast cancer relapse.
+
+Taken together, the aforementioned findings may have a significant impact on metastatic breast cancer management moving the focus of the decision-making process from a merely clinical to an integrative approach, which combines classical and more innovative genomic prognosticators. Although this analysis does not provide any therapy recommendation due to its retrospective nature and the relatively small sample size, it could open perspectives for an investigation of the predictive role of gene signatures in more homogeneous metastatic cohorts deriving from prospective randomized trials.
+
+Unlike the early disease, no prognostic algorithms have been developed in metastatic breast cancer, as yet. If validated in a larger independent cohort, our findings could represent a valid approach to be adopted in daily clinical practice and integrated with classical prognosticators for a more individualized survival prediction in advanced breast cancer.

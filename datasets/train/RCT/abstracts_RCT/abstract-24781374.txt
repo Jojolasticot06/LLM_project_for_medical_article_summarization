@@ -1,0 +1,14 @@
+Long-term benefits of an early online problem-solving intervention for executive dysfunction after traumatic brain injury in children: a randomized clinical trial.
+
+1/IMPORTANCE: Executive dysfunction after traumatic brain injury (TBI) in children is common and leads to significant short- and long-term problems in functioning across multiple settings. We hypothesized that improvements in short-term executive function would be maintained to 24 months after injury and that 
+improvements would increase over time in a counselor-assisted problem-solving (CAPS) intervention.
+OBJECTIVE: To evaluate the efficacy of a CAPS intervention administered within 7 months of complicated mild to severe TBI compared with an Internet resource condition in improving long-term executive dysfunction.
+
+2/DESIGN, SETTING, AND PARTICIPANTS: Multisite, assessor-blinded, randomized clinical trial at 3 tertiary pediatric hospitals and 2 tertiary general medical centers. Participants included 132 adolescents aged 12 to 17 years who sustained a moderate to severe TBI 1 to 7 months before study enrollment.
+INTERVENTION: Web-based CAPS intervention.MAIN OUTCOMES AND MEASURES: The primary outcome was the parent-reported Global Executive Composite (GEC) of the Behavior Rating Inventory of Executive Function. Secondary outcomes included the Behavioral Regulation Index (BRI) and Metacognition Index (MI) of the GEC.
+
+3/RESULTS: In older (>14 to 17 years) adolescents, the CAPS intervention was associated with lower GEC ratings at 12 (β = -0.46; P = .03) and 18 (β = -0.52; P = .02) months after enrollment. Trends were also observed for older adolescents toward lower GEC ratings at 6 months (β = -0.40; P = .05), lower BRI ratings at 12 (β  = -0.40; P = .06) and 18 (β  = -0.47; P = .04) months, and lower MI ratings at 6 (β  = -0.41; P = .05), 12 (β  = -0.46; P = .03), and 18 (β  = -0.50; P = .03) months. In younger (12-14 years) adolescents, no group 
+differences were found on the GEC, BRI, or MI ratings.
+
+4/CONCLUSIONS AND RELEVANCE: Delivery of the CAPS intervention early after TBI in older adolescents improves long-term executive function. This trial is, to our knowledge, one of the few large, randomized clinical treatment trials performed in pediatric TBI to demonstrate the efficacy of an intervention for management 
+of executive dysfunction and long-term benefits of an intervention delivered soon after injury. Use of the CAPS intervention clinically should be considered; however, further research should explore ways to optimize delivery.

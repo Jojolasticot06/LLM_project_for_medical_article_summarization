@@ -1,0 +1,33 @@
+BACKGROUND: BCG is recommended as intravesical immunotherapy to reduce the risk 
+of tumor recurrence in patients with non-muscle invasive bladder cancer (NMIBC). 
+Currently, it is unknown whether intravesical BCG application induces trained 
+immunity.
+METHODS: The aim of this research was to determine whether BCG immunotherapy 
+induces trained immunity in NMIBC patients. We conducted a prospective 
+observational cohort study in 17 NMIBC patients scheduled for BCG therapy and 
+measured trained immunity parameters at 9 time points before and during a 1-year 
+BCG maintenance regimen. Ex vivo cytokine production by peripheral blood 
+mononuclear cells, epigenetic modifications, and changes in the monocyte 
+transcriptome were measured. The frequency of respiratory infections was 
+investigated in two larger cohorts of BCG-treated and non-BCG treated NMIBC 
+patients as a surrogate measurement of trained immunity. Gene-based association 
+analysis of genetic variants in candidate trained immunity genes and their 
+association with recurrence-free survival and progression-free survival after 
+BCG therapy was performed to investigate the hypothesized link between trained 
+immunity and clinical response.
+RESULTS: We found that intravesical BCG does induce trained immunity based on an 
+increased production of TNF and IL-1β after heterologous ex vivo stimulation of 
+circulating monocytes 6-12 weeks after intravesical BCG treatment; and a 37% 
+decreased risk (OR 0.63 (95% CI 0.40 to 1.01)) for respiratory infections in 
+BCG-treated versus non-BCG-treated NMIBC patients. An epigenomics approach 
+combining chromatin immuno precipitation-sequencing and RNA-sequencing with in 
+vitro trained immunity experiments identified enhanced inflammasome activity in 
+BCG-treated individuals. Finally, germline variation in genes that affect 
+trained immunity was associated with recurrence and progression after BCG 
+therapy in NMIBC.
+CONCLUSION: We conclude that BCG immunotherapy induces trained immunity in NMIBC 
+patients and this may account for the protective effects against respiratory 
+infections. The data of our gene-based association analysis suggest that a link 
+between trained immunity and oncological outcome may exist. Future studies 
+should further investigate how trained immunity affects the antitumor immune 
+responses in BCG-treated NMIBC patients.

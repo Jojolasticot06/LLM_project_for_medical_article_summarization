@@ -1,0 +1,33 @@
+BACKGROUND: Gains in malaria control are threatened by widespread pyrethroid 
+resistance in malaria vectors across sub-Saharan Africa. New long-lasting 
+insecticidal nets (LLINs) containing two active ingredients (dual 
+active-ingredient LLINs) have been developed to interrupt transmission in areas 
+of pyrethroid resistance. We aimed to evaluate the effectiveness of three dual 
+active-ingredient LLINs compared with standard pyrethroid LLINs against 
+pyrethroid-resistant malaria vectors in rural Tanzania.
+METHODS: In this study, we did a secondary analysis of entomological data from a 
+four-group, 3 year, single-blind, cluster-randomised controlled trial carried 
+out between Feb 18, 2019, and Dec 6, 2021. We conducted quarterly indoor 
+mosquito collections using the Centers for Disease Control and Prevention light 
+trap, in eight houses in each of the 84 study clusters in the Misungwi district, 
+northwestern Tanzania. Anopheles vectors were then tested for malaria parasites 
+and identified at species level, to distinguish between sibling species of the 
+Anopheles gambiae and Anopheles funestus groups, using molecular laboratory 
+techniques. The primary outcomes were density of different malaria vector 
+species measured as the number of female Anopheles collected per household per 
+night, the entomological inoculation rate (EIR), an indicator of malaria 
+transmission, and sporozoite rate. Entomological outcomes were assessed on the 
+basis of intention to treat, and the effect of the three dual active-ingredient 
+LLINs was compared with the standard pyrethroid LLINs at household level.
+FINDINGS: Dual active-ingredient LLINs had the greatest effect on Anopheles 
+funestus sl, the most efficient vector in the study area, with comparatively 
+weak effect on An arabiensis. An funestus density was 3∙1 per house per night in 
+the pyrethroid LLIN group, 1∙2 in the chlorfenapyr pyrethroid LLIN group 
+(adjusted density ratio [aDR]=0∙26, 95% CI 0∙17-0∙14, p<0∙0001), 1∙4 in the 
+piperonyl-butoxide pyrethroid LLIN group (aDR=0∙49, 0∙32-0∙76, p=0∙0012), and 
+3∙0 in the pyriproxyfen pyrethroid LLIN group (aDR=0∙72, 0∙47-1∙11, p=0∙15). 
+Malaria transmission intensity was also significantly lower in the chlorfenapyr 
+pyrethroid group, with 0∙01 versus 0∙06 infective bites per household per night 
+in the pyrethroid LLIN group (aDR=0∙21, 0∙14-0∙33, p<0∙0001). Ecological niche 
+models indicated that vector-species distribution was stable following LLIN 
+intervention despite the reductions observed in An funestus sl density.

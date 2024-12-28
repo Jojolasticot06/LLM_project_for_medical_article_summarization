@@ -1,0 +1,26 @@
+BACKGROUND: COVID-19 patients requiring mechanical ventilation are particularly 
+at risk of developing ventilator-associated pneumonia (VAP). Risk factors and 
+the prognostic impact of developing VAP during critical COVID-19 have not been 
+fully documented.
+METHODS: Patients invasively ventilated for at least 48 h from the prospective 
+multicentre COVID-ICU database were included in the analyses. Cause-specific Cox 
+regression models were used to determine factors associated with the occurrence 
+of VAP. Cox-regression multivariable models were used to determine VAP 
+prognosis. Risk factors and the prognostic impact of early vs. late VAP, and 
+Pseudomonas-related vs. non-Pseudomonas-related VAP were also determined.
+MAIN FINDINGS: 3388 patients were analysed (63 [55-70] years, 75.8% males). VAP 
+occurred in 1523/3388 (45.5%) patients after 7 [5-9] days of ventilation. 
+Identified bacteria were mainly Enterobacteriaceae followed by Staphylococcus 
+aureus and Pseudomonas aeruginosa. VAP risk factors were male gender (Hazard 
+Ratio (HR) 1.26, 95% Confidence Interval [1.09-1.46]), concomitant bacterial 
+pneumonia at ICU admission (HR 1.36 [1.10-1.67]), PaO2/FiO2 ratio at intubation 
+(HR 0.99 [0.98-0.99] per 10 mmHg increase), neuromuscular-blocking agents (HR 
+0.89 [0.76-0.998]), and corticosteroids (HR 1.27 [1.09-1.47]). VAP was 
+associated with 90-mortality (HR 1.34 [1.16-1.55]), predominantly due to late 
+VAP (HR 1.51 [1.26-1.81]). The impact of Pseudomonas-related and 
+non-Pseudomonas-related VAP on mortality was similar.
+CONCLUSION: VAP affected almost half of mechanically ventilated COVID-19 
+patients. Several risk factors have been identified, among which modifiable risk 
+factors deserve further investigation. VAP had a specific negative impact on 
+90-day mortality, particularly when it occurred between the end of the first 
+week and the third week of ventilation.

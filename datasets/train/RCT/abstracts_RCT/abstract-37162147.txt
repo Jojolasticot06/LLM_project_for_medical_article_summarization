@@ -1,0 +1,9 @@
+Influence of Demographic Factors on Clinical Outcomes in Adults With Chronic Idiopathic Constipation Treated With Plecanatide
+
+1/Introduction: Chronic idiopathic constipation (CIC) is a common condition that affects some patient groups more often. Demographic/clinical characteristics can differ in presentation and therapeutic response. The impact of these characteristics on plecanatide efficacy/safety was examined.
+
+2/Methods: Data from 2 identically designed, randomized, phase 3 trials of adults with CIC receiving 3 mg of plecanatide, 6 mg of plecanatide, or placebo for 12 weeks were analyzed. Subgroups were baseline age, body mass index (BMI), race/ethnicity, and sex/gender. Endpoints included durable overall complete spontaneous bowel movement (CSBM) responder rate, weekly CSBMs and spontaneous bowel movements (SBMs), and adverse events.
+
+3/Results: Overall (N = 2,639; 3 mg of plecanatide [n = 877]; 6 mg of plecanatide [n = 877]; and placebo [n = 885]), CSBM responder rates were significantly greater with 3 mg of plecanatide and 6 mg of plecanatide vs placebo in subgroups with those younger than 65 years ( P < 0.001), females ( P < 0.001), White individuals ( P < 0.001), and BMI <25 kg/m 2 ( P = 0.004) and 25-30 kg/m 2 ( P < 0.001); as well, for 3 mg: 65 years or older ( P = 0.03), non-White individuals ( P < 0.001), and BMI =30 kg/m 2 ( P = 0.02). Improvement from baseline in weekly CSBM and SBM frequency occurred in all subgroups for both plecanatide doses vs placebo ( P = 0.02) at week 12, except those aged 65 years or older for 6 mg of plecanatide. The most common adverse event was diarrhea (3 mg [4.9%]; 6 mg [5.4%]; and placebo [1.3%]).
+
+4/Discussion: Pooled data from identically designed CIC trials strengthened the ability to identify meaningful subgroup comparisons regarding plecanatide efficacy and safety.

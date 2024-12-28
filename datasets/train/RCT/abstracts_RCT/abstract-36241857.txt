@@ -1,0 +1,29 @@
+Negative Pressure Wound Therapy for the Prevention of Surgical Site Infections 
+Using Fascia Closure After EVAR-A Randomized Trial.
+
+1/BACKGROUND: Surgical site infections (SSI) in the groin after vascular surgery 
+are common. The aim of the study was to evaluate the effect of negative pressure 
+wound therapy (NPWT) on SSI incidence when applied on closed inguinal incisions 
+after endovascular aneurysm repair (EVAR).
+
+2/METHODS: A multicenter randomized controlled trial (RCT). Between November 2013 
+and December 2020, 377 incisions (336 bilateral and 41 unilateral) from elective 
+EVAR procedures with the primary intent of fascia closure were randomized and 
+included, receiving either NPWT or a standard dressing. In bilateral incisions, 
+each incision randomly received the opposite dressing of the other side, thereby 
+becoming each other's control. The primary endpoint was SSI incidence at 90 days 
+postoperatively, analyzed on an intention-to-treat basis. Uni and bilaterally 
+operated incisions were analyzed separately, and their respective p-values 
+combined using Fisher's method for combining P-values. Study protocol 
+(NCT01913132).
+
+3/RESULTS: The SSI incidence at 90 days postoperatively in bilateral incisions was 
+1.8% (n = 3/168) in the NPWT and 4.8% (n = 8/168) in the standard dressing 
+group, and in unilateral incisions 13.3% (n = 2/15) and 11.5% (n = 3/26), 
+respectively (combined p = 0.49). In all SSIs, bacteria were isolated from 
+incisional wound cultures. No additional SSIs were diagnosed between 90 days and 
+1 year follow-up.
+
+4/CONCLUSIONS: No evidence of difference in SSI incidence was seen in these 
+low-risk inguinal incisions when comparing NPWT with standard dressings after 
+EVAR with the primary intent of fascia closure.

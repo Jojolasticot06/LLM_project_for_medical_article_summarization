@@ -1,0 +1,30 @@
+OBJECTIVES: Optimal timing of renal replacement therapy (RRT) initiation in 
+severe acute kidney injury (AKI) remains controversial. Initiation of treatment 
+early in the course of AKI may lead to some patients undergoing unnecessary RRT, 
+whereas delayed treatment is associated with increased mortality. This study 
+aims to investigate whether the combination of the furosemide stress test (FST) 
+and AKI-associated biomarkers can predict the development of indications for 
+RRT.
+DESIGN: Single-center, prospective, observational study.
+SETTING: University Hospital of Muenster, Germany.
+PATIENTS: Critically ill, postoperative patients with moderate AKI (Kidney 
+Disease: Improving Global Outcomes stage 2) and risk factors for further 
+progression (vasopressors and/or mechanical ventilation) receiving an FST.
+INTERVENTIONS: Sample collection and measurement of different biomarkers 
+(chemokine [C-C motif] ligand 14 [CCL14], neutrophil gelatinase-associated 
+lipocalin, dipeptidyl peptidase 3).
+MEASUREMENT AND MAIN RESULTS: The primary endpoint was the development of 
+greater than or equal to one predefined RRT indications (hyperkalemia [≥ 6 
+mmol/L], diuretic-resistant hypervolemia, high urea serum levels [≥ 150 mg/dL], 
+severe metabolic acidosis [pH ≤ 7.15], oliguria [urinary output < 200 mL/12 hr], 
+or anuria). Two hundred eight patients were available for the primary analysis 
+with 108 having a negative FST (urine output < 200 mL in 2 hr following FST). 
+Ninety-eight patients (47%) met the primary endpoint, 82% in the FST negative 
+cohort. At the time of inclusion, the combination of a negative FST test and 
+high urinary CCL14 levels had a significantly higher predictive value for the 
+primary endpoint with an area under the receiver operating characteristic curve 
+(AUC) of 0.87 (95% CI, 0.82-0.92) compared with FST or CCL14 alone (AUC, 0.79; 
+95% CI, 0.74-0.85 and AUC, 0.83; 95% CI, 0.77-0.89; p < 0.001, respectively). 
+Other biomarkers showed lower AUCs.
+CONCLUSIONS: The combination of the FST with the renal biomarker CCL14 predicts 
+the development of indications for RRT.

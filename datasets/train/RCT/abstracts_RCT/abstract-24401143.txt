@@ -1,0 +1,10 @@
+Strength training versus robot-assisted gait training after incomplete spinal cord injury: a randomized pilot study in patients depending on walking assistance.
+
+1/BACKGROUND: Task-specific locomotor training has been promoted to improve walking-related outcome after incomplete spinal cord injury (iSCI). However, there is also evidence that lower extremity strength training might lead to such improvements. The aim of this randomized cross-over pilot study was to compare changes in a broad spectrum of walking-related outcome measures and pain between 
+robot-assisted gait training (RAGT) and strength training in patients with chronic iSCI, who depended on walking assistance. We hypothesized that task-specific locomotor training would result in better improvements compared to strength training.
+
+2/METHODS: Nine participants with a chronic iSCI were randomized to group 1 or 2. Group 1 received 16 sessions of RAGT (45 min each) within 4 weeks followed by 16 sessions of strength training (45 min each) within 4 weeks. Group 2 received the same interventions in reversed order. Main outcome measures were the 10 m Walk Test (10MWT) at preferred and maximal speed. Furthermore, we assessed several measures such as walking speed under different conditions, balance, strength, and 2 questionnaires that evaluate risk of falling and pain. Data were collected at baseline, between interventions after 4 weeks, directly after the interventions and at follow-up 6 months after the interventions. Pain was assessed repeatedly throughout the study.
+
+3/RESULTS: There were no significant differences in changes in scores between the 2 interventions, except for maximal walking speed (10MWT), which improved significantly more after strength training than after RAGT. Pain reduced after both interventions.
+
+4/CONCLUSION: In patients with chronic iSCI dependent on walking assistance, RAGT was not more effective in improving walking-related outcome compared to lower extremity strength training. However, the low sample size limits generalizability and precision of data interpretation.

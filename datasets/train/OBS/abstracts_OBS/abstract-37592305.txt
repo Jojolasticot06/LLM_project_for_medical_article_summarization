@@ -1,0 +1,34 @@
+BACKGROUND: Outbreaks of monkeypox have been ongoing in non-endemic countries 
+since May 2022. A thorough assessment of its global zoonotic niche and potential 
+transmission risk is lacking.
+METHODS: We established an integrated database on global monkeypox virus (MPXV) 
+occurrence during 1958 - 2022. Phylogenetic analysis was performed to examine 
+the evolution of MPXV and effective reproductive number (Rt) was estimated over 
+time to examine the dynamic of MPXV transmissibility. The potential ecological 
+drivers of zoonotic transmission and inter-regional transmission risks of MPXV 
+were examined.
+RESULTS: As of 24 July 2022, a total of 49 432 human patients with MPXV 
+infections have been reported in 78 countries. Based on 525 whole genome 
+sequences, two main clades of MPXV were formed, of which Congo Basin clade has a 
+higher transmissibility than West African clade before the 2022-monkeypox, 
+estimated by the overall Rt (0.81 vs. 0.56), and the latter significantly 
+increased in the recent decade. Rt of 2022-monkeypox varied from 1.14 to 4.24 
+among the 15 continuously epidemic countries outside Africa, with the top three 
+as Peru (4.24, 95% CI: 2.89-6.71), Brazil (3.45, 95% CI: 1.62-7.00) and the 
+United States (2.44, 95% CI: 1.62-3.60). The zoonotic niche of MPXV was 
+associated with the distributions of Graphiurus lorraineus and Graphiurus 
+crassicaudatus, the richness of Rodentia, and four ecoclimatic indicators. 
+Besides endemic areas in Africa, more areas of South America, the Caribbean 
+States, and Southeast and South Asia are ecologically suitable for the 
+occurrence of MPXV once the virus has invaded. Most of Western Europe has a 
+high-imported risk of monkeypox from Western Africa, whereas France and the 
+United Kingdom have a potential imported risk of Congo Basin clade MPXV from 
+Central Africa. Eleven of the top 15 countries with a high risk of MPXV 
+importation from the main countries of 2022-monkeypox outbreaks are located at 
+Europe with the highest risk in Italy, Ireland and Poland.
+CONCLUSIONS: The suitable ecological niche for MPXV is not limited to Africa, 
+and the transmissibility of MPXV was significantly increased during the 
+2022-monkeypox outbreaks. The imported risk is higher in Europe, both from 
+endemic areas and currently epidemic countries. Future surveillance and targeted 
+intervention programs are needed in its high-risk areas informed by updated 
+prediction.

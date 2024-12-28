@@ -1,0 +1,324 @@
+Introduction
+Per- and polyfluoroalkyl substances (PFAS) highly persistent and widely used manufactured chemicals that are ubiquitous in the environment. Although the main sources of background exposure are food and indoor environments, PFAS production sites and the use of PFAS-containing firefighting foams are important point sources, leading to the local contamination of soil, groundwater, and drinking water.1 The total number of sites potentially contaminated with PFAS has been estimated to be on the order of 100,000 in Europe alone.2 In such hot spots, concentrations of PFAS compounds such as perfluorohexane sulfonic acid (PFHxS), perfluorooctanesulfonic acid (PFOS), and perfluorooctanoic acid (PFOA) in drinking water can lead to intakes that are orders of magnitude higher than the recently determined tolerable weekly intake (TWI) for humans of 
+ body weight per week.3 Environmental contamination can also lead to the contamination of locally produced food.4 Ongoing extensive monitoring for PFAS in drinking water and food will likely lead to the detection of additional, localized populations with elevated PFAS burdens, which underscores the importance of examining dose–response associations for adverse health effects across a large exposure range.
+There is a considerable amount of evidence for the immunotoxicity of PFAS, particularly PFOA and PFOS, in experimental settings5 and in wildlife.6 Immunosuppression in animals has been observed at PFOA and PFOS doses relevant for highly exposed humans,7 involving both the innate and adaptive immune systems and different immunological organs.8 Numerous mechanisms of action have been proposed, and it is likely that multiple pathways are involved, including both direct immunotoxic and downstream nonimmunological effects.8
+The suggested TWI for humans from the European Food Safety Authority (EFSA) is to a large extent based on the results of human vaccination studies.3 Lower antibody responses in relation to higher serum PFAS have been observed after immunization with toxoid-based,9–11 conjugate,11 and live attenuated vaccines,12,13 primarily in children. A more recent study in Greenland replicated the negative association between PFAS and antibody responses to toxoid-based vaccines in children.14
+Only a few studies have been performed in adults. A small study of 12 healthy adults reported a negative association between PFAS and antibodies after toxoid-based diphtheria and tetanus vaccines,15 and a larger study of 411 adults observed a negative association between PFAS and the response to an inactivated trivalent influenza vaccine in one of three influenza strains.16 Similarly, a study of 1,202 adults and 1,012 youths from NHANES found a negative association between PFAS and Rubella antibody titers.17 In contrast, another influenza vaccination study investigating PFAS and antibody response after vaccination with FluMist, an intranasal live attenuated vaccine, found that a higher proportion of individuals with high PFAS levels seroconverted.18 Notably a follow-up of a Faroese child cohort at age 28 y detected no clear negative association between PFAS and antibody levels neither after booster immunization against diphtheria and tetanus nor following primary immunization against hepatitis A and B with Twinrix, containing an inactivated virus and purified virus antigen.19 A recent study of PFAS and antibody response to different SARS-CoV-2 vaccines in 415 workers at two 3M Company facilities showed borderline significant negative associations for PFOS.20
+The EFSA assessment highlighted the lack of data on PFAS effects in prospective vaccination studies covering various types of vaccines and age groups.3 Efforts to control the COVID-19 pandemic by vaccination provide a unique opportunity to prospectively study effects of PFAS on primary vaccine responses in adults. The novelty of SARS-CoV-2 means that individual variation in SARS-CoV-2-specific immunity resulting from previous infection will be small, with information on previous (symptomatic) infections easily obtainable. These conditions parallel childhood vaccinations in geographical areas with low prevalence of the infection of interest.
+The present study aimed to evaluate potential associations across a wide range of PFAS exposure levels and immunological responses in adults through assessment of antibody levels 5 wk and 6 months after a two-dose vaccination regime against SARS-CoV-2 with the Spikevax (Moderna) mRNA vaccine. PFAS levels were hypothesized to influence vaccine-induced serum antibody levels through three potential pathways: a) direct effects of high PFAS-levels, in which current high PFAS levels could impair antibody production; b) historical exposure, in which PFAS levels over time could induce damage to immune organs/tissues/cells, which could impair antibody production; and c) prenatal exposure, in which PFAS levels at a critical prenatal period could lower antibody production. PFAS exposures were assessed in three ways to test these hypotheses: a) current PFAS exposure measured at vaccination, both as continuous levels and in quartiles; b) previous PFAS exposure measured in the period 2014–2016 and address-based exposure assessment; and c) prenatal exposure based on the residential history of the participants’ mothers during pregnancy.
+Methods
+Study Design
+This was an observational study, evaluating the effect of PFAS on the antibody response 5 wk and 6 months after vaccination against COVID-19. The first vaccine dose was given at the end of May 2021 and the second dose at the end of June 2021. The 5-wk follow-up occurred in early August 2021, and the 6-month follow-up in mid-January 2022.
+This study was conducted in accordance with the declaration of Helsinki and Good Clinical Practice, registered in the EudraCT database of clinical studies and trials (number 2021-000842-16) and approved by the Swedish Medical Products Agency and the Swedish Ethical Review Authority prior to the start of the study. Written informed consent was obtained from all participants before enrollment.
+Study Setting
+In Ronneby, a municipality of 
+ inhabitants in Blekinge County in southern Sweden, a “natural experiment” involving varying PFAS exposure occurred within a limited geographical area. In this hot spot, municipal drinking water with high PFAS contamination was distributed from one of the two waterworks to one-third of all households until December 2013.21 The source of contamination was firefighting foams used at a nearby military airfield since the mid-1980s. Between 2014 and 2016, open serum sampling in the municipality constituted the Ronneby Biomarker Cohort, comprising 3,297 individuals in Ronneby and 226 individuals with only background exposure from Karlshamn, a nearby municipality with an uncontaminated water source (Figure S1). Serum PFAS analyses from the Ronneby Biomarker Cohort have revealed median serum PFHxS and PFOS levels up to 100-fold higher in exposed inhabitants in Ronneby than in the background group, which are among the highest values ever reported for PFHxS and PFOS in a nonoccupationally exposed population. Notably, inhabitants of Ronneby not receiving heavily contaminated water at their residence also had elevated serum PFAS concentrations that were around 10-fold higher than the background population.21 Although uncontaminated drinking water was immediately provided starting in December 2013, the body burden of PFAS persists for many years because of the slow elimination of many PFAS.22,23
+Study Subjects
+Adults 20–60 y of age from the Ronneby Biomarker Cohort21,22 who intended to get vaccinated against COVID-19 were eligible for the present study.
+Personal invitation letters were sent to all eligible participants from an existing panel study, a subcohort who attended repeated biomonitoring, and a random selection of participants from the rest of the Ronneby Biomarker Cohort. A background-exposure group from Karlshamn, a neighboring municipality, was also invited to participate (Figure 1). Detailed descriptions of these biomarker subcohorts are available from Li et al.22 and Xu et al.21 In addition, a small number of new recruits were included, if inclusion criteria were met (20–60 y of age and providing written consent) and exclusion criteria (already vaccinated) were not met; these new participants were recruited as convenient sampling.
+
+Figure 1. Flowchart describing the recruitment of participants and follow-up throughout the trial. Note: Ever High refers to participants who lived in Ronneby with PFAS-contaminated drinking water for at least 1 y between 1985 and 2013. Never High refers to participants who lived in Ronneby any time between 1985 and 2013 but without PFAS-contaminated drinking water. Background refers to participants who were from Karlshamn and never lived or worked in Ronneby between 1985 and 2013. *Exclusions due to cancer or immunomodulating treatments, pregnancies, and no follow-up sample. †Participants from the Background group were excluded due to working in Ronneby for at least 1 y between 1985 and 2013.
+OPEN IN VIEWER
+The study started at the same time that vaccination for the general population ages 20–60 y was offered in the Blekinge County, where Ronneby and Karlshamn are located. Persons in medical risk groups had been offered vaccination earlier, and health care personnel had been fully vaccinated during the spring of 2021. Thus, a proportion of the study base was already vaccinated and not eligible for participation.
+Power calculations made prior to the study start set a goal of 350 participants, including 50 participants with background exposure. With the ratio of exposed to unexposed groups of 6:1, and statistical power of 80%, effect sizes as small as 0.4 standard deviation (SD) was calculated (substantially lower than previous studies had reported9–11). Recruitment stopped when the number of participants was at or near these goals.
+In total, 367 individuals were initially enrolled in the study. Per-protocol analyses excluded individuals with immunomodulating medications and pregnant women, and women who became pregnant during follow-up were excluded from further participation (Figure 1). The number of participants who received two vaccine doses, provided at least one follow-up sample, and were included in the analyses was 309 individuals from Ronneby and 47 individuals from the background municipality Karlshamn.
+Blood Sampling and Vaccination
+Venous blood was sampled in Vacuette gel tubes (Greiner Bio-One) immediately before the first vaccination and at the two follow-ups. Serum was separated after at least 20 min, frozen at 
+, and transported frozen for biobanking at 
+ until analysis.
+The vaccination program in Blekinge County provided and administered the vaccine according to the Swedish COVID-19 vaccination regulations. All enrolled individuals received two 
+ doses of the mRNA vaccine Spikevax (Moderna), with a median interval between doses of 31 d (P5–P95: 29–38) for Ronneby participants and 29 d (P5–P95: 27–37) for participants from Karlshamn. Booster vaccinations with a third dose were offered by Blekinge County directly after the blood sampling at the 6-month follow-up visit.
+Questionnaires
+Information on background variables was obtained through questionnaires, completed at each sampling occasion. Information was collected on sex (male/female), age, current smoking (yes/no), current snuff use (yes/no), current vaping (yes/no), highest achieved level of education (elementary school, high school, vocational education, and higher education), allergies, previous and current chronic diseases [hypertension, myocardial infarction, stroke, diabetes, chronic obstructive pulmonary disease (COPD), chronic kidney disease], body mass index (BMI), and blood donor status (yes/no and the last donation date). Information regarding medications and occupation were given as free text. Information on observed side effects of vaccination was collected in accordance with Good Clinical Practice, and Blekinge County was responsible for reporting adverse events to the Swedish Medical Products Agency.
+In addition, a history of past COVID-19 infections (laboratory-confirmed personal or family cases) was obtained from the questionnaires at 5 wk and 6 months after the second vaccination dose.
+Exposure Assessment
+PFAS levels in serum.
+Current PFAS levels were analyzed in serum from the first blood sampling at the Division of Occupational and Environmental Medicine at Lund University using liquid chromatography–tandem mass spectrometry (LC-MS/MS; QTRAP 5,500, AB Sciex). A modified method previously described by Xu et al.21 was applied. Sixteen nonisomer-specific PFAS compounds were analyzed. Quantified levels for PFHxS, perfluoroheptane sulfonic acid (PFHpS), PFOS, PFOA, perfluorononanoic acid (PFNA), perfluorodecanoic acid (PFDA), and perfluoroundecanoic acid (PFUnDA) were used in further analyses. The PFAS excluded were: perfluorobutane sulfonic acid (PFBS), perfluoropentane sulfonic acid (PFPeS), perfluorodecane sulfonic acid (PFDS), perfluoropentanoic acid (PFPeA), perfluorohexanoic acid (PFHxA), perfluoroheptanoic acid (PFHpA), perfluorododecanoic acid (PFDoA), and perfluorotridecanoic acid (PFTrDA), with 
+ of samples over the level of detection. Quality-control samples and chemical blank samples were included. This analytical quality and variability data are presented in Table S1. The laboratory participates in the European interlaboratory comparison investigations and external quality assurance schemes (European Interlaboratory Comparison Investigations and External Quality Assurance Schemes) exercises for analyses of PFAS in the Human Biomonitoring for Europe (HBM4EU) project (https://www.hbm4eu.eu/), and in a quality-control program coordinated by the University of Erlangen-Nuremberg, Germany.
+PFAS in serum sampled during 2014–2016 (PFHxS, PFOS, and PFOA) were previously analyzed using a LC-MS/MS method described in Li et al.22 The method differed in that the analytical column Fortis C18 1, μ
+, 
+ (Fortis Technologies Ltd.) was used instead of the Acquity UPLC BEH C18 μ
+, 
+ (Waters) column that was used for the serum sampled in May 2021.
+Address-based modeling.
+Yearly address information was obtained from Statistics Sweden. The Ronneby municipality provided information on the water distribution network. Thus, information on residences with or without highly contaminated municipal water from 1985 and onward was available.
+The participants were divided into three exposure groups, based on the external exposure from drinking water: a) Ever High: participants who lived in an area of Ronneby with contaminated water for at least 1 y between 1985 and 2013; b) Never High: participants who lived in Ronneby but never had access to contaminated water at home; and c) Background: participants who neither lived nor worked in Ronneby between 1985 and 2013.
+Seven participants from Karlshamn were excluded from analyses due to previous work in Ronneby between 1985 and 2013, and one participant from Ronneby was excluded from analyses because of lack of information on residential history.
+Prenatal PFAS exposure.
+Exposure was restricted according to year of birth to assess prenatal exposure during developmentally critical periods. Because exposure started in the mid-1980s, we assumed that only individuals born after 1985 (
+) had potential prenatal PFAS exposure above background levels.
+Prenatal exposure was determined where possible by the home address of the participants’ mothers during pregnancy, collected through a digital questionnaire that was sent to the participants after the 6-month follow-up (
+). For most remaining participants (
+), prenatal exposure was determined according to address information on the participants’ first year of life, which was collected by questionnaires in the previous Ronneby Biomarker Cohort study. For the 49 individuals who had data from both sources, conflicting information were present in only three cases. In these cases, the home addresses of the participants’ mothers were used. For 14 participants born after 1985, we obtained no data, and these individuals were excluded from the analyses of prenatal PFAS exposure. Of the 114 participants with information of prenatal exposure, 5 were excluded from the analyses for other reasons (pregnancy and immunomodulating medications) and 4 were lost to follow-up at the 5-wk follow-up, resulting in 105 included participants; at the 6-month follow-up, 6 participants were excluded and 8 were lost to follow-up, resulting in 100 included participants.
+Antibody Analyses
+Levels of serum immunoglobulin G (IgG) antibodies against the SARS-CoV-2 spike antigen (S-Abs) were analyzed at the Clinical Microbiology Laboratory at the Sahlgrenska University Hospital, Gothenburg, Sweden, using a quantitative chemiluminescent microparticle immunoassay (Architect; Abbott Laboratories). Serum levels above 7.1 binding antibody units (BAU) per mL were considered positive.
+The same assay was used to measure serum IgG antibodies against the SARS-CoV-2 nucleocapsid protein (N-Abs) at the third sampling occasion, 6 months after vaccination, a period when COVID-19 infections with the Omicron variant emerged (Figure 2).
+
+Figure 2. Study timeline in relation to PCR-test positive SARS-CoV-2 infections per 1,000 in Blekinge County, Sweden. Incidence data from the five municipalities in Blekinge County were gathered from the Blekinge County official website,24 and information regarding SARS-CoV-2 variants was obtained from contact with the Public Health Agency of Sweden. The vaccine study timeline at the bottom of the figure describes the blood sampling (B), questionnaire gathering (Q), and COVID-19 vaccinations (V) in relation to the regional COVID-19 transmission. The x-axis depicts each month (abbreviated by the first letter) from November 2020 to January 2022, and the y-axis depicts cases per 1,000 inhabitants per month. Karlskrona, Sölvesborg, Olofström, Karlshamn, and Ronneby are the five municipalities in Blekinge County. Note: α
+, SARS-CoV-2 variant alpha; B, blood sampling; δ
+, SARS-CoV-2 variant delta; ο
+, SARS-CoV-2 variant omicron; Q, questionnaire; V, vaccination.
+OPEN IN VIEWER
+S-Abs before the first vaccination dose were used to determine confirmed infection prior to the study, and N-Abs were used as an indication of previous infection at the 6-month follow-up, because production of N-Abs is not induced by vaccination.
+COVID-19 Infections in Blekinge County
+The study coincided with a period with a relatively low incidence of SARS-CoV-2 infection in the five municipalities of Blekinge County (Figure 2; Figure S1). The last sampling, 6 months after vaccination occurred in the first half of January, when the Omicron wave just had started.
+Information on PCR-verified COVID-19 in all five municipalities of Blekinge County between February 2020 and January 2022 was obtained from the county of Blekinge. Data can be retrieved from The Swedish Public Health Agency’s website.24
+Statistical Analyses
+Correlations between PFAS compounds were estimated using Pearson’s correlation coefficients. Analysis of variation (ANOVA) was used to descriptively investigate the difference of S-Abs among Ever High, Never High, and Background exposure groups.
+The distribution of S-Abs levels was positively skewed. Therefore, ln-transformed (natural Log-transformed) antibody levels were used in all analyses. For presentation of regression model results, all ln-transformed antibody levels were converted back into percentage differences.
+For the direct effect hypothesis (a), linear regression models were used with current PFAS levels. In these models, vaccination outcome was assessed through S-Abs 5 wk after the second dose of vaccine, 6 months after the second dose of vaccine and using the ratio between the 6-month and 5-wk S-Abs levels. The ratio was assessed to capture the rate of decline of antibodies from the 5-wk follow-up to the 6-month follow-up. Measured serum levels of seven PFAS compounds and a molar-weight-adjusted sum of PFHxS, PFOS, PFOA, and PFNA (Sum4) (the compounds used by EFSA 2020 in their proposed TWI)3 were used as continuous variables and quartiles. The quartiles and the interquartile range (IQR) were set on the 356 individuals who were included in the per-protocol analyses and provided at least one follow-up sample.
+The molar-weight-adjusted sum of all seven PFAS compounds was also considered in all analyses but rendered almost identical results as Sum4 because they were extremely correlated (
+), and because PFHpS, PFDA, and PFUnDA added very little to the mixture.
+Smooth splines were also used to investigate whether there were nonlinear relationships between PFAS and S-Abs levels. Ln-transformed S-Abs were estimated as a thin plate smooth function of each PFAS level. The degree of smoothing was selected by generalized cross-validation. The procedure generalized additive model (GAM) in the R package (version 4.2.2) “mgcv” was used.
+For the historical exposure hypothesis (b), previous PFHxS, PFOS and PFOA serum levels from 2014 to 2016 (5–7 y before vaccination) were investigated, as well as comparisons between the Ever High, Never High, and Background groups, representing external exposure. Both the analyses with previous PFAS levels and address-based categorization used linear regression models with adjustments.
+For the prenatal exposure hypothesis (c), participants with prenatal exposure (born in 1985 and later) were compared to those without prenatal exposure in linear regression models.
+Mixed-effect linear regression models were used to estimate an overall relationship between current PFAS levels and S-Abs (hypothesis A), pooled both 5 wk and 6 months after vaccine together. Note that in the previously described linear models, associations between PFAS exposure and antibody levels at 5 wk, at 6 months, and the difference between antibody levels at 5 wk and 6 months were analyzed separately. The following mixed models were used:
+αγβε
+where 
+ is antibody level for individual i and sampling round j; α
+ is the subject-specific intercept; T is the time after vaccine; 
+ is the estimate of time effect. 
+ is the measured PFAS levels for individual i; γ
+ is the coefficient of PFAS; 
+ is a vector of adjusted covariates for individual i; β
+ is the coefficient for adjusted covariates; and ε
+ is the random error. The subject-specific intercept α
+ and the random error term ε
+ were modeled as random with normal distribution; others were treated as fixed effects. Further, a possible sex modification on the association between PFAS and S-Abs was investigated in the mixed model, first with an interaction term (
+) and then in sex-stratified analyses.
+Several potential confounders were adjusted for in all regression models. Age was considered a confounder, because age has been shown to influence both antibody levels25 and PFAS exposure.23 Age was used as a categorical covariate with 10-y intervals (20–29, 30–39, 40–49, and 50–59 y) in most analyses. In the spline models, age was added using thin plate splines as basis. Sex and current smoking habit (yes/no) were also considered potential confounders and added a priori.
+Participants with previous infection were excluded from the main analyses. Previous infection was defined as a positive S-Abs result before vaccination; self-reported previous, laboratory-confirmed infection communicated by questionnaire at the 5-wk or 6-month follow-up; or positive N-Abs result at the 6-month follow-up. Participants infected after the 5-wk follow-up but before the 6-month follow-up were considered noninfected in the 5-wk analyses and infected in the 6-month analyses. N-Abs was dichotomized into present/not present, where present represented antibody levels above detection levels. In the prenatal exposure analyses, age (continuous), sex and smoking habit were considered as potential competing exposures and adjusted for, thus achieving a better fit of the model.
+Several sensitivity analyses were included. Instead of excluding individuals with previous infection, they were included in crude models (without adjustments) and in adjusted models (where previous infection was adjusted for). Another sensitivity analysis was to include socioeconomic status in the form of highest educational level (with “high school” as reference category) as covariates in the mixed-effect linear regression models. However, the inclusion of socioeconomic status did not alter the point estimates or p-values in any substantial way and was thus not included in the final models. When it comes to malnutrition, extreme poverty or low food security, these conditions are extremely rare in Sweden because of the strong social security net provided by the national and local authorities. In addition, we do not have measures of these factors. Therefore, it was not investigated. Finally, shared household as a potential source of nonindependent sampling was investigated in the mixed model by including household as a random effect. This inclusion did not have a substantial effect on the effect estimates or on the standard error estimates and was thus not included in the main analyses.
+The analyses were performed in SAS 9.4 (SAS Institute Inc.), except for the smooth splines that were performed in R (version 4.2.2; R Development Core Team).
+Results
+In total, 367 participants were recruited and 365 were vaccinated with two doses. Of these, 356 participants were included in per-protocol analyses owing to exclusions and loss to follow-up (Figure 1). Demographic characteristics for the per-protocol subjects are given in Table 1. Corresponding data for the 367 originally recruited were similar. The participants from Ronneby and Karlshamn were comparable regarding timing of blood samplings and vaccinations (Table 1).
+Table 1 Demographic characteristics at first COVID-19 vaccination for 356 study participants who provided at least one postvaccination serum sample, Ronneby and Karlshamn, Sweden, 2021–2022.
+All	Ever higha	Never higha	Backgroundb
+Participants includedc	N (%)	356 (100)	245 (100)	63 (100)	40 (100)
+Participants 5 wk after vaccination	n (%)	350 (98)	241 (98)	63 (100)	38 (95)
+Participants 6 months after vaccination	n (%)	329 (92)	228 (93)	59 (94)	35 (88)
+Age	Median (P5–P95)	42 (21–57)	42 (21–57)	41 (21–57)	38.5 (24–57)
+ 20–29 y of age	n (%)	62 (17)	41 (17)	15 (24)	5 (12)
+ 30–39 y of age	n (%)	95 (27)	65 (27)	15 (24)	15 (38)
+ 40–49 y of age	n (%)	127 (36)	87 (36)	22 (35)	15 (38)
+ 50–59 y of age	n (%)	72 (20)	52 (21)	11 (17)	5 (12)
+Born before 1985	n (%)	233 (65)	163 (67)	39 (62)	24 (60)
+Born in 1985 and after	n (%)	123 (35)	82 (33)	24 (38)	16 (40)
+Female	n (%)	187 (53)	136 (56)	33 (52)	17 (42)
+Male	n (%)	169 (47)	109 (44)	30 (48)	23 (58)
+Current smokers	n (%)	22 (6)	14 (6)	2 (3)	6 (15)
+Current nonsmokers	n (%)	334 (94)	231 (94)	61 (97)	34 (85)
+Highest education level	 	 	 	 	 
+ Elementary school	n (%)	13 (4)	8 (3)	4 (6)	1 (3)
+ High school	n (%)	154 (43)	111 (45)	26 (41)	12 (30)
+ Vocational education	n (%)	57 (16)	36 (15)	14 (22)	6 (15)
+ Higher education	n (%)	132 (37)	90 (37)	19 (30)	21 (53)
+Days between vaccinations 1 and 2	Median (P5–P95)	31 (29–38)	31 (29–38)	31 (29–37)	29 (27–37)
+Days between vaccination 2 and the 5-wk follow-up	Median (P5–P95)	35 (34–40)	35 (34–40)	35 (34–40)	36 (34–40)
+Days between vaccination 2 and the 6-month follow-up	Median (P5–P95)	200 (194–203)	200 (194–203)	200 (194–206)	198 (194–202)
+Previous COVID-19 infection before the first vaccinationd	n (%)	56 (16)	37 (15)	13 (22)	5 (12)
+No COVID-19 infection before the first vaccinationd	n (%)	300 (84)	208 (85)	50 (78)	35 (88)
+Note: Participants received the Spikevax (Moderna) mRNA vaccine. Ever High refers to participants who lived in an area with PFAS-contaminated drinking water for at least 1 y between 1985 and 2013. Never High refers to participants who lived in Ronneby any time between 1985 and 2013 but in an area without PFAS-contaminated drinking water. Background refers to participatants who were from Karlshamn and never lived or worked in Ronneby during the period 1985–2013. P5, fifth percentile; P95, 95th percentile; PFAS, per- and polyfluoroalkyl substances.
+a
+One participant from Ronneby could not be classified into Ever High or Never High exposure category (ever or never having a residential address in the contaminated water district).
+b
+Seven participants from Karlshamn had worked in Ronneby at some time between 1985 and 2013 and thus could not be included in the group with background exposure. Data from these individuals were used in the analyses with measured PFAS.
+c
+Proportions presented in the rest of Table 1 are based on these individuals.
+d
+Previous infection defined through self-reported COVID-19 infection.
+OPEN IN VIEWER
+Eight participants dropped out at the 5-wk follow-up, mainly because of logistics during the summer holidays. Twenty-seven additional participants dropped out at the 6-month follow-up (one was due to pregnancy, and one was due to initiation of cancer treatment). The remaining 25 participants dropped out mainly because of ongoing COVID-19 infection or Christmas vacations.
+PFAS Levels before Vaccination
+The Ever High group had markedly higher PFHxS, PFHpS, and PFOS levels than the Never High group, who themselves had higher PFAS levels than the Background group (Table 2).
+Table 2 Current and historic PFAS serum levels in 356 study participants who provided at least one postvaccination serum sample, Ronneby and Karlshamn, Sweden.
+All	Ever high	Never high	Background
+PFHxS at first vaccination (
+)	Median (P5–P95)	34 (0.6–236)	56 (5–253)	10 (0.6–101)	0.9 (0.2–7)
+PFHpS at first vaccination (
+)	Median (P5–P95)	2 (0.05–13)	3 (0.3–15)	0.6 (0.05–6)	0.1 (0.03–0.5)
+PFOS at first vaccination (
+)	Median (P5–P95)	36 (3–200)	54 (7–217)	14 (2–88)	4 (2–18)
+PFOA at first vaccination (
+)	Median (P5–P95)	2 (0.4–7)	2 (0.4–8)	1 (0.4–5)	1 (0.4–2)
+PFNA at first vaccination (
+)	Median (P5–P95)	0.4 (0.1–1)	0.4 (0.1–1)	0.4 (0.1–1)	0.4 (0.2–0.8)
+PFDA at first vaccination (
+)	Median (P5–P95)	0.2 (0.06–0.4)	0.2 (0.06–0.4)	0.2 (0.1–0.4)	0.2 (0.09–0.3)
+PFUnDA at first vaccination (
+)	Median (P5–P95)	0.1 (0.03–0.3)	0.1 (0.03–0.3)	0.1 (0.04–0.4)	0.1 (0.04–0.3)
+Sum4 at first vaccination (
+)	Median (P5–P95)	162 (10–1,023)	265 (30–1,131)	56 (8–437)	15 (7–44)
+PFHxS 2014–2016a (
+)	Median (P5–P95)	102 (1–481)	139 (16–537)	28 (2–224)	0.9 (0.4–10)
+PFOS 2014–2016a (
+)	Median (P5–P95)	131 (5–531)	165 (24–584)	35 (5–272)	5 (2–14)
+PFOA 2014–2016a (
+)	Median (P5–P95)	7 (1–27)	10 (2–29)	3 (0.7–17)	1.6 (1–3)
+Note: Ever High refers to participants who lived in an area with PFAS-contaminated drinking water for at least 1 y between 1985 and 2013. Never High refers to participants who lived in Ronneby any time between 1985 and 2013 but in an area without PFAS-contaminated drinking water. Background refers to participants who were from Karlshamn and never lived or worked in Ronneby during the period 1985–2013. The first vaccination was in late May 2021. IQR, interquartile range; P5, fifth percentile; P95, 95th percentile; PFAS, per- and polyfluoroalkyl substances; PFDA, perfluorodecanoic acid; PFHpS, perfluoroheptane sulfonic acid; PFHxS, perfluorohexanesulfonic acid; PFNA, perfluorononanoic acid; PFOA, perfluorooctanoic acid; PFOS, perfluorooctanesulfonic acid; PFUnDA, perfluoroundecanoic acid; Sum4, sum of PFHxS, PFOS, PFOA, and PFNA in 
+.
+a
+2014 in the Ever High and Never High groups (Ronneby) and 2016 in Background group.
+OPEN IN VIEWER
+We observed a high correlation between the concentrations of several PFAS compounds (Table S2). In particular, PFHxS, PFHpS, and PFOS were highly correlated, with Pearson’s correlation coefficients of 0.80–0.99 in all three pairwise comparisons. In the Ever High and Never High groups, PFOA was also highly correlated with PFHxS, PFHpS, and PFOS (
+) but not in the background group (
+). PFNA, PFDA, and PFUnDA were moderately to highly correlated with each other (
+ in Background; 
+ in the Ever High and Never High groups) but not strongly correlated with PFHxS, PFHpS, PFOS, or PFOA (Table S2).
+We calculated IQRs for current serum levels of PFAS. These IQRs differed markedly for different PFAS compounds, from 
+ for PFHxS to 
+ for PFUnDA (Table 3; Table S3). The concentration intervals for each quartile for each PFAS are presented in Table S3.
+Table 3 Linear regression model with continuous, current serum PFAS concentrations and SARS-CoV-2 anti-spike IgG serum antibody levels 5 wk and 6 months after COVID-19 vaccination and the ratio between 6-month and 5-wk antibody levels, excluding participants with previous COVID-19 infection.
+ 	 	Anti-spike antibody levels 5 wk after vaccination (
+)	Anti-spike antibody levels 6 months after vaccination (
+)	Ratio between the 6 months and 5 wk levels (
+)
+PFAS	IQR (
+)	% changea	
+-Value	% changea	
+-Value	% changea	
+-Value
+PFHxS	82	
+0.93	
+0.66	
+0.80
+PFHpS	4	
+0.77	
+0.77	
+0.72
+PFOS	72	
+0.89	
+0.55	
+0.55
+PFOA	2	
+0.57	
+0.09	
+0.10
+PFNA	0.3	
+0.98	
+0.50	
+0.13
+PFDA	0.1	
+1.00	
+0.53	
+0.18
+PFUnDA	0.1	
+0.48	
+0.93	
+0.48
+Sum4	359	
+0.92	
+0.60	
+0.68
+Note: Participants received the Spikevax (Moderna) mRNA vaccine. 
+-Values are the p-values for the coefficients of PFAS in the regression models. IgG, immunoglobulin G; IQR, interquartile range; PFAS, per- and polyfluoroalkyl substances; PFDA, perfluorodecanoic acid; PFHpS, perfluoroheptane sulfonic acid; PFHxS, perfluorohexanesulfonic acid; PFNA, perfluorononanoic acid; PFOA, perfluorooctanoic acid; PFOS, perfluorooctanesulfonic acid; PFUnDA, perfluoroundecanoic acid; Sum4, sum of PFHxS, PFOS, PFOA, and PFNA in 
+.
+a
+aPoint estimates and confidence intervals were generated from the regression models with ln-transformed antibody levels as outcome, adjusted by sex, age and smoking habit. After that, the estimates were back-transformed and IQR-adjusted; these are the percentage changes presented in the table. The percentage changes are the average percentage changes of antibody levels for the associated with an increase of one IQR of PFAS.
+OPEN IN VIEWER
+Antibody Levels before Vaccination and 5 Weeks and 6 Months after Two Doses of Vaccine
+Immediately before the first vaccination, the prevalence of S-Abs indicating prior infection was 15.5% for the Ever High, 19.0% for the Never High, and 12.5% for the Background group. In addition, one individual in the Ever High and two individuals in the Never High groups self-reported previous positive COVID-19 tests without detectable S-Abs (Figure S2).
+Five weeks after the second vaccine dose, all participants (100%) had positive S-Abs, and the vast majority (95%, 
+) had serum levels above 
+. Six months after the second vaccine dose, mean antibody levels were 86% lower than those at 5 wk after vaccination. Nine participants had an increase in S-Abs levels at the 6-month follow-up in comparison with their levels at the 5-wk follow-up; all of these had N-Abs at the 6-month time point and/or self-reported a previous positive COVID-19 test.
+Descriptive Comparison of Antibody Levels among Ever High, Never High, and Background Groups
+There was no difference in antibody levels 5 wk or 6 months after vaccination when comparing the Ever High, Never High, and Background groups at each time point (ANOVA: 
+ at the 5 wk follow-up and 
+ at the 6-month follow-up; Figure 3; Table S4).
+
+Figure 3. SARS-CoV-2 anti-spike IgG serum antibody levels 5 wk and 6 months after vaccination in Ever High, Never High, and Background exposure groups, excluding individuals with previous infection. Note: Participants received the Spikevax (Moderna) mRNA vaccine. Boxplot shows antibody levels in the three exposure groups: Ever High, Never High, and Background. The midline represents the median; the diamond represents the mean; the box incorporates the IQR; the whiskers encompass the values 1.5 times the IQR extended from the box in both directions; and circles indicate outliers. There was no significant difference between the groups 5 wk after vaccination (ANOVA: 
+) nor 6 months after vaccination (ANOVA: 
+). The data for the boxplots are present in Table S4. Background refers to participants who were from Karlshamn and never lived or worked in Ronneby between 1985 and 2013. Ever High refers to participants who lived in the Ronneby area with PFAS-contaminated drinking water for at least 1 y between 1985 and 2013. Never High refers to participants who lived in Ronneby any time between 1985 and 2013 but in an area without heavily PFAS-contaminated drinking water. ANOVA, analysis of variance; IgG, immunoglobulin G; IQR, interquartile range.
+OPEN IN VIEWER
+Current PFAS-Levels Measured before Vaccination and Antibody Response
+We detected no evidence for associations between current serum PFAS levels and S-Abs in linear regression models with adjustments for sex, age, and smoking habits, with participants with previous COVID-19 infection at 5 wk or 6 months excluded (Table 3). Similarly, PFAS was not associated with the relative decline in antibody levels over time, as judged by the ratio between S-Abs at 6 months and at 5 wk (Table 3).
+In the crude model, and in the adjusted model where previous infection was adjusted for, positive effect estimates were indicated for PFNA, PFDA, and PFUnDA at the 6-month follow-up (Table S5) but were not seen in the model with previous infections excluded (Table 3).
+In addition, there were no significant negative associations between serum levels of the seven different PFAS compounds based on quartile levels and levels of S-Abs in analyses 5 wk after vaccination, 6 months after vaccination, or in relative decline (represented by the ratio). These results are presented graphically as a heat map (Figure 4, with details in Tables S6–S8). The point estimates fluctuated around the null, with a slight predominance of positive associations, with no 
+ except for PFOA, 6 months after vaccination. There was also no evidence from smooth splines (Figure S3–S4) for any nonlinear associations between serum PFAS levels and S-Abs levels.
+
+Figure 4. Point estimates for the associations between serum PFAS levels in quartiles and SARS-CoV-2 anti-spike IgG serum antibodies in participants from Ronneby and Karlshamn, Sweden. Heat map showing the effect estimates of serum PFAS on percent anti-spike IgG antibody difference in linear regression models, with PFAS levels at the first COVID-19 vaccination categorized in quartiles, with the first quartile used for comparison. The regression models were replicated in three different models. These models were (A) crude, nonadjusted model; (B) model adjusted for sex, age, smoking habit, and previous COVID-19 infection; and (C) same as B but excluding individuals with previous COVID-19 infection. Quartiles and regression models can be found in Tables S3 and S6–S8. Note: IgG, immunoglobulin G; PFAS, per- and polyfluoroalkyl substances; PFDA, perfluorodecanoic acid; PFHpS, perfluoroheptane sulfonic acid; PFHxS, perfluorohexanesulfonic acid; PFNA, perfluorononanoic acid; PFOA, perfluorooctanoic acid; PFOS, perfluorooctanesulfonic acid; PFUnDA, perfluoroundecanoic acid; Sum, sum pf PFHxS, PFOS, PFOA, and PFNA in 
+. *
+.
+OPEN IN VIEWER
+Historical PFAS Exposure, Based on Previously Measured PFAS Serum Levels and on Address-Based Exposure Assessment, and Antibody Response
+PFHxS, PFOS, and PFOA serum levels sampled in the period 2014–2016 were higher than current levels in the Ever High and Never High groups, reflecting substantial PFAS elimination following the end of external exposure through drinking water from the heavily contaminated waterworks in December 2013. In contrast, in the Background group, previous serum PFAS levels were similar to the current levels, indicating a constant background exposure (Table 1).
+Similar to current PFAS levels, the 2014–2016 levels showed no association with S-Abs levels (Table S9). Confidence intervals (CIs) were all centered on a net zero change, with the nominally negative estimates seen in the crude models being reversed to positive in the fully adjusted models with individuals having previous infections excluded (Table S9).
+In the regression analyses comparing residency (Ever High, Never High and Background), most estimates for Ever High and Never High were slightly positive in comparison with Background. However, all CIs were wide (Table S10).
+Prenatal PFAS Exposure, Based on Maternal Residential History during Pregnancy, and Antibody Response
+For individuals identified as prenatally exposed, S-Abs were 14%–32% higher 5 wk and 6 months after vaccination in the crude and adjusted models. CIs were wide, but the point estimates were higher than in the other regression models (Table 4).
+Table 4 Linear regression model comparing individuals born in 1985 and after classified as prenatally exposed vs. nonexposed to PFAS with percent difference in SARS-CoV-2 anti-spike IgG serum antibody levels after COVID-19 vaccination, in Ronneby, Sweden.
+ 	Anti-spike antibody levels 5 wk after vaccination	Anti-spike antibody levels 6 months after vaccination	Ratio between the 6-month and 5-wk levels
+ 	Crude
+Prenatal exposure	
+% changea	
+-Value	
+% changea	
+-Value	
+% changea	
+-Value
+Not present	63	Ref	Ref	60	Ref	Ref	57	Ref	Ref
+Present	42	
+0.09	40	
+0.18	39	
+0.76
+ 	Full modelb
+Prenatal exposure	
+% changea	
+-Value	
+% changea	
+-Value	
+% changea	
+-Value
+Not present	63	Ref	Ref	60	Ref	Ref	57	Ref	Ref
+Present	42	
+0.21	40	
+0.47	39	
+0.94
+ 	Full model with previous COVID-19 infection excludedc
+Prenatal exposure	
+% changea	
+-Value	
+% changea	
+-Value	
+% changea	
+-Value
+Not present	55	Ref	Ref	48	Ref	Ref	45	Ref	Ref
+Present	34	
+0.19	28	
+0.24	27	
+0.72
+Note: Participants received the Spikevax (Moderna) mRNA vaccine. 
+-Values are the p-values for the coefficients of PFAS in the regression models. Prenatal exposure defined as present if participant’s mother lived in the area with contaminated water during pregnancy or if the participant lived in the exposed area for the first year of life (if the information on historic address of the mother was missing). In the full model with previous COVID-19 infection excluded, individuals that had been infected up to that point were excluded from analysis. For the 5-wk follow-up, self-reported previous confirmed COVID-19 infection from questionnaires and present anti-spike antibodies before vaccination were used to determine previous infection. For the 6-month follow-up, new self-reported infection and presence of anti-nucleocapsid antibodies defined individuals previously infected. IgG, immunoglobulin G; Ref, referent.
+a
+Point estimates and confidence intervals were generated from the regression models with ln-transformed antibody levels as outcome. After that, the estimates were back-transformed; these are the percentage changes presented in the table. The percentage changes are the average percent difference of antibody levels between the prenatally exposed and nonexposed (Ref).
+b
+Adjusted by sex, age, smoking habit, and previous COVID-19 infection.
+c
+Adjusted by sex, age, and smoking habit.
+OPEN IN VIEWER
+Mixed-Effect Analyses
+In mixed-effect analyses we observed no association between current PFAS and S-Abs levels (Figure 5; Table S11). However, the interaction term 
+ indicated that women had a pattern of positive associations between PFAS and antibody levels, relative to findings in men (Figure 5; Table S12). The largest contrast in sex-stratified analyses was for PFOA, where the interquartile effect for women was 16% higher for antibody levels (95% CI: 5%, 27%) in comparison with an association close to null in men (Figure 5; Table S12). However, for most PFAS compounds in the sex strata, the sex differences were modest, although mainly in the same direction, and CIs were wide. We observed no pattern when evaluating address-based exposure assessment (Ever High, Never High, Background) in mixed-effect models (Table S13).
+
+Figure 5. Adjusted mixed-effect regression models comparing serum PFAS to percent SARS-CoV-2 anti-spike IgG serum antibody difference at both 5 wk and 6 months after vaccination, in 295 participants without previous infection and in sex-stratified models, Ronneby, Sweden. Point estimates and confidence intervals were generated from mixed-effect regression models with ln-transformed antibody levels as outcome. After that, the estimates were back-transformed and IQR-adjusted. The black circles and whiskers represent the unstratified point estimates and confidence intervals, respectively. The upward red and downward blue triangles represent the estimates from the sex-stratified analyses. The point estimates, confidence intervals and IQRs are presented in Table S11 and S12. Note: IgG, immunoglobulin G; IQR, interquartile range; PFAS, per- and polyfluoroalkyl substances; PFDA, perfluorodecanoic acid; PFHpS, perfluoroheptane sulfonic acid; PFHxS, perfluorohexanesulfonic acid; PFNA, perfluorononanoic acid; PFOA, perfluorooctanoic acid; PFOS, perfluorooctanesulfonic acid; PFUnDA, perfluoroundecanoic acid; Sum4, sum of PFHxS, PFOS, PFOA, and PFNA in 
+.
+OPEN IN VIEWER
+Discussion
+We detected no indications that PFAS exposure, observed over a very wide range of serum levels, is associated with lower levels of serum IgG antibodies against the SARS-CoV-2 spike antigen after immunization with two doses of Spikevax (Moderna) mRNA vaccine in adults observed over 6 months. These findings were consistent when exposure assessments were based on current or previous PFAS serum levels as well as address-based exposure assessment. Moreover, we did not find any indication of negative association in the antibody response between groups with or without higher prenatal exposure to PFAS.
+It should be noted that the IQR corresponded to different PFAS levels for different PFAS compounds; for example, for PFHxS, the IQR was 
+, whereas for PFNA, PFDA, and PFUnDA, the IQRs were 0.3, 0.1, and 
+, respectively (Table 3; Table S3). These differences in IQRs create PFAS-relative scales that should be considered when extrapolating the results to other populations.
+In general, the results from the mixed-effect models suggested that PFAS were not negatively associated with levels of S-Abs, across both the 5-wk and 6-month follow-ups. Because the mixed-effect models pooled the two S-Abs measurements, the models were more powerful to detect associations than the linear models, where the S-Abs at the different follow-ups were used separately.
+The sex-specific slopes seen in the mixed-effect regression models suggest a differential effect for PFAS on S-Abs levels between men and women. A differential antibody effect of PFAS has also been suggested in a cross-sectional, NHANES study with regard to Rubella antibodies in adults.17 Differences between sexes were also indicated in a study at much lower exposure levels, where differences between sexes were indicated in PFAS associations with antibodies against hepatitis A and B in Faroese adults.19 However, in that study, the sex differences were not consistent by PFAS compounds and by sampling time points. In contrast, our results showed more consistency, with women exhibiting positive correlations for most specific PFAS compounds and S-Abs levels (Figure 5). However, the consistency between PFAS compound results is not surprising, given the high correlation between the dominating and source-specific PFAS compounds. These sex-interaction analyses should be seen as exploratory, and future studies are needed to explore the possibility of sex-specific effects.
+In children, lower S-Abs levels with increasing PFAS levels were observed after vaccination against tetanus,9,10,26 diphtheria,9,10,14,26 Haemophilus influenzae,11 and rubella.12 The present results in adults are not directly comparable to those of previous studies, because we studied antibody formation after vaccination with an mRNA-based vaccine, whereas attenuated, conjugate, or toxoid-based vaccines were used in the previous studies. Moreover, most other studies have been performed at background to slightly elevated PFAS levels, whereas we investigated a very large exposure range, dominated by PFHxS and PFOS. Most important, PFAS might have a different effect on more immature immune systems, and this effect may subside owing to compensatory mechanisms as the adult immune system matures. This notion is supported by the study by Shih et al.,19 where the negative associations between PFAS and antibody production in Faroese children, reported by Grandjean et al.,9 did not persist at age 28 y.
+In the COVID-19 vaccination study by Porter et al.,20 results were similar to ours. In the Porter et al. study, the antibody response to three COVID-19 vaccines was investigated in current and retired PFAS-exposed factory workers. The study protocol was less stringent, with subjects vaccinated with a varying number of doses and vaccines and follow-up already after 5–6 wk. The correlations between S-Abs to COVID-19 and IQR difference in serum concentration of PFOS, PFOA, PFHxS, and PFNA were inverse but small, with CIs that included zero.
+In addition to investigating the association between PFAS and antibody production, concerns have been raised that PFAS exposure may increase the risk for severe COVID-19 disease.27 A Danish study of COVID-19 severity in a population at background exposure levels investigated risk in relation to serum PFAS for several different compounds, in hospitalized in comparison with nonhospitalized COVID-19 cases and in intensive care in comparison with non–intensive care cases.28 There was no association for PFOS and a borderline, significantly reduced risk in relation to PFOA and PFHxS. For perfluorobutanoic acid (PFBA), present at very low levels, there was an increased odds ratio for hospitalization in subjects above vs. those below the limit of detection. The authors hypothesized that this might result from PFBA accumulation in lung tissue, which had been reported previously.29 However, a recent study could not verify such lung accumulation.30
+A case–control study in China investigating PFAS in 80 COVID-19 patients (all with mild clinical symptoms) and 80 healthy controls found that after controlling for age, sex, BMI, comorbidities, and urine albumin-to-creatinine ratio, urinary levels of PFOS, PFOA, and the sum of 12 PFAS were each associated with an increased risk of COVID-19 diagnosis. However, no increased risk was seen for PFHxS.31
+In an Italian ecological study from a heavily PFAS-contaminated region, a higher COVID-19 mortality risk was reported in comparison with noncontaminated areas after adjustments for general mortality and education level, with a risk ratio of 1.6 (90% CrI: 0.94; 2.51) in high-exposure areas during the first COVID-19 wave.32 The exposure involved a mixture of PFAS from industrial emissions, but serum PFAS levels were predominantly raised for PFOA.
+Finally, COVID-19 incidence during the first wave of the pandemic appeared to be moderately higher (incidence ratio 1.19) in a sex- and age-standardized ecological study from Ronneby, in comparison with Karlshamn.33 This result is reflected in the municipality data shown in Figure 2 up to March 2021. However, a difference was not evident in comparison with the other nonexposed municipalities in Blekinge County, nor in subsequent COVID-19 waves. However, the municipality data represent crude rates and so disparities may be confounded. A registry study based on the entire Blekinge population is in progress, allowing an individual-level observational approach combining COVID-19 information from testing and diagnoses with detailed data on underlying health, occupation, close contacts with others, and contextual information on neighborhood characteristics.
+In summary, the evidence for an association between PFAS and COVID-19 disease is scarce at present, and published studies look at different COVID-19 outcomes. It should be kept in mind that COVID-19 incidence, severity, and mortality are not only reflections of immunity, although immune protection plays a part.
+The unique combination of a) vaccination against the novel SARS-CoV-2 virus and b) the Ronneby PFAS hot spot with a wide range of PFAS exposures in the same community created a unique setting for our study. The study has several strengths: a prospective design with a strict study protocol for measurement of antibody responses at defined time points after vaccination; well-characterized and wide PFAS exposure range; many different, complementary exposure measurements such as present, historical, and prenatal exposure; the most important covariates being either adjusted for (sex, age, smoking habit) or excluded from analyses (previous infection, immunomodulating medications, pregnancy), limiting the risk of residual confounding; and a very low dropout rate.
+Furthermore, we consider the study population to be representative of the general population in the study area but without representation of health care personnel or individuals belonging to risk groups who had been prioritized for vaccination before our study started. At the first vaccination, only 12% of the subjects had reported a previous positive test for SARS-CoV-2 infection (Figure S2). These numbers are in relatively good agreement with the cumulative verified COVID-19 cases reported in Blekinge County of about 8% of the total population (all ages) at the time of the vaccination.24 Thus, the majority of the subjects were infection-naïve at the time of enrollment. This setting therefore resembles the situation for childhood vaccination studies, where natural infection prior to vaccination is rare.
+The observed high antibody titers 5 wk after administration of the second dose as well as the substantial decline in antibody levels until 6 months is consistent with several previous studies of antibody responses after COVID-19 mRNA vaccination.34 For example, after administration of two doses of the Moderna vaccine to about 2,600 Israeli subjects without known COVID-19 infection before or after vaccination, the anti-Spike IgG titers decreased 16-fold from 1 to 6 months after the second dose.35 Neutralizing antibody titers have also consistently been reported to show a similar decline.34 Thus, the two postvaccination time points in our study are well selected to enable evaluation of both peak and waning antibody levels. All subjects enrolled in the study were offered a third vaccine dose 6 months post vaccination, limiting the possibility to evaluate the decline of antibodies further in this study cohort.
+There are also limitations to our study. First, there is no firm knowledge as to the minimum level of S-Abs that is required for protection against SARS-CoV-2 infection or COVID-19 disease, either initially after vaccination or long-term. This lack of knowledge limits the applicability of our results to a clinical context. Second, we cannot exclude the possibility that there is an effect of PFAS within background exposure levels, because our background exposure group is too small to assess this notion. Thus, we cannot investigate whether low-level exposure may have an effect that is not further exacerbated at higher levels. Third, we only analyzed S-Abs levels from the 5-wk and 6-month follow-up periods after administration of two doses of one type of mRNA vaccine and only analyzed antibodies binding to the spike protein of the original SARS-CoV-2 strain. We did not study the ability of antibodies to neutralize different SARS-CoV-2 variants, and it is possible that differences in cross-reactivity and/or affinity of antibodies exist between the different PFAS exposure groups.
+In summary, this study did not support a negative association between PFAS exposure over a large exposure range and levels of serum IgG antibodies against the SARS-CoV-2 spike antigen 5 wk or 6 months after immunization with an mRNA COVID-19 vaccine. Post hoc mixed-effects regression models hinted at a sex-specific response to PFAS. However, these results should be interpreted as exploratory only. Further investigations focusing on cellular and humoral immune responses are needed to study long-term effects, as are registry studies of COVID-19 disease, with careful consideration of other risk factors for infection and disease. Such studies, which are ongoing in the exposed Ronneby population, are relevant also for other populations currently exposed to high levels of PFAS and for those living in yet-to-be-discovered PFAS hot spots.

@@ -1,0 +1,23 @@
+Randomized phase 2 trial of intravenous oncolytic virus JX-594 combined with 
+low-dose cyclophosphamide in patients with advanced soft-tissue sarcoma.
+
+1/JX-594 is an oncolytic vaccinia virus genetically modified to replicate 
+selectively in tumor cells. Metronomic chemotherapy has shown preclinical 
+synergy with oncolytic viruses. 
+
+2/We report here the results of the METROMAJX 
+which is a randomized phase II clinical trial investigating the combination of 
+JX-594 combined with metronomic cyclophosphamide (arm 1) or metronomic 
+cyclophosphamide (arm 2) in patients with advanced STS. A two-stage Simon design 
+was used. JX-594 was administered intra-venously at the dose 1.109 every 2 weeks 
+for the first 3 injections and then every 3 weeks. Cyclophosphamide was given 
+orally at the dose of 50 mg BID 1 week on 1 week off. 
+
+3/The primary endpoint was the 6-month non progression rate. 20 patients were included (arm 1:15, arm 2:5). The two most frequent toxicities were grade 1 fatigue and fever and grade 2 fatigue and grade 2 lymphopenia in arms 1 and 2, respectively. In arm 1, 12 patients were assessable for the efficacy analysis. None of them were 
+progression-free at 6 months indicating that the first stage of the Simon's 
+design was not satisfied. One patient out 4 assessable for efficacy was 
+progression-free at 6 months in arm 2. High throughput analysis of sequential 
+plasma samples revealed an upregulation of protein biomarkers reflecting immune 
+induction such as CXCL10 and soluble CD8 antigen in arm 1. 
+
+4/Systemic treatment with JX-594 is safe in patients with advanced STS. Further investigations are needed to improve immune response to oncolytic viruses and define their therapeutic potential in patients with STS.

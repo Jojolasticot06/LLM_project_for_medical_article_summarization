@@ -1,0 +1,12 @@
+Exposure to household air pollution from wood combustion and association with respiratory symptoms and lung function in nonsmoking women: results from the RESPIRE trial, Guatemala.
+
+1/BACKGROUND: With 40% of the world's population relying on solid fuel, household air pollution (HAP) represents a major preventable risk factor for COPD (chronic obstructive pulmonary disease). Meta-analyses have confirmed this relationship; however, constituent studies are observational, with virtually none measuring exposure directly.
+OBJECTIVES: We estimated associations between HAP exposure and respiratory symptoms and lung function in young, nonsmoking women in rural Guatemala, using measured carbon monoxide (CO) concentrations in exhaled breath and personal air to assess exposure.
+
+2/METHODS: The Randomized Exposure Study of Pollution Indoors and Respiratory Effects (RESPIRE) Guatemala study was a trial comparing respiratory outcomes among 504 women using improved chimney stoves versus traditional cookstoves. The present analysis included 456 women with data from postintervention surveys including interviews at 6, 12, and 18 months (respiratory symptoms) and 
+spirometry and CO (ppm) in exhaled breath measurements. Personal CO was measured using passive diffusion tubes at variable times during the study. Associations between CO concentrations and respiratory health were estimated using random intercept regression models.
+
+3/RESULTS: Respiratory symptoms (cough, phlegm, wheeze, or chest tightness) during the previous 6 months were positively associated with breath CO measured at the same time of symptom reporting and with average personal CO concentrations during the follow-up period. CO in exhaled breath at the same time as spirometry was associated with lower lung function [average reduction in FEV1 (forced 
+expiratory volume in 1 sec) for a 10% increase in CO was 3.33 mL (95% CI: -0.86, -5.81)]. Lung function measures were not significantly associated with average postintervention personal CO concentrations.
+
+4/CONCLUSIONS: Our results provide further support for the effects of HAP exposures on airway inflammation. Further longitudinal research modeling continuous exposure to particulate matter against lung function will help us understand more fully the impact of HAP on COPD.

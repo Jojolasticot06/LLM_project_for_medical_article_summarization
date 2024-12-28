@@ -1,0 +1,10 @@
+A single-blind, cross-over trial of hip abductor strength training to improve Timed Up & Go performance in patients with unilateral, transfemoral amputation.
+
+1/OBJECTIVE: To evaluate hip abductor strength-training for patients with unilateral transfemoral amputation.
+
+2/DESIGN: Single-blind, cross-over (AB/BA) trial with randomization.SUBJECTS: Seventeen patients with transfemoral amputation.
+METHODS: Subjects completed 8-week programs of twice weekly hip abductor strength training or arm ergometry. Subjects were randomly assigned to receive either the experimental or active control intervention first. A physiotherapist blinded to group assignment conducted baseline and post-intervention assessments. The Timed Up & Go (TUG) test was selected as the primary outcome measure; secondary measures included the 2 Minute Walk (2MW), hip abductor strength, Activities Specific Balance Confidence Scale (ABC) and prosthetic use. 
+A two-way cross-over ANOVA was used for baseline and post-intervention treatment comparisons.
+
+3/RESULTS: There were no baseline differences between treatments for TUG, 2MW, ABC, Houghton scale, sitting or side-lying abductor strength (p > 0.05 for all), though supine strength was greater for the experimental treatment (p < 0.05). After 8-weeks of hip abductor strength training, there were significant treatment effects for TUG, ABC (p < 0.01 for both), 2MW (p < 0.05), sitting and side-lying abductor strength (p = 0.05 for both), but not for supine strength, prosthetic use, nor thigh girth measures (p > 0.05 for all).
+4/CONCLUSIONS: This study suggests that patients with unilateral transfemoral amputation can improve functional performance and balance confidence following intense hip abductor strength training.

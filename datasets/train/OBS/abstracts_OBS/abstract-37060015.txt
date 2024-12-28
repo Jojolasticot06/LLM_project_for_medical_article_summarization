@@ -1,0 +1,37 @@
+BACKGROUND: Pathogenic germline variants (PGVs) in certain genes are linked to 
+higher lifetime risk of developing breast cancer and can influence preventive 
+surgery decisions and therapy choices. Public health programs offer genetic 
+screening based on criteria designed to assess personal risk and identify 
+individuals more likely to carry PGVs, dividing patients into screened and 
+non-screened groups. How tumor biology and clinicopathological characteristics 
+differ between these groups is understudied and could guide refinement of 
+screening criteria.
+METHODS: Six thousand six hundred sixty breast cancer patients diagnosed in 
+South Sweden during 2010-2018 were included with available clinicopathological 
+and RNA sequencing data, 900 (13.5%) of which had genes screened for PGVs 
+through routine clinical screening programs. We compared characteristics of 
+screened patients and tumors to non-screened patients, as well as between 
+screened patients with (n = 124) and without (n = 776) PGVs.
+RESULTS: Broadly, breast tumors in screened patients showed features of a more 
+aggressive disease. However, few differences related to tumor biology or patient 
+outcome remained significant after stratification by clinical subgroups or PAM50 
+subtypes. Triple-negative breast cancer (TNBC), the subgroup most enriched for 
+PGVs, showed the most differences between screening subpopulations (e.g., higher 
+tumor proliferation in screened cases). Significant differences in PGV 
+prevalence were found between clinical subgroups/molecular subtypes, e.g., TNBC 
+cases were enriched for BRCA1 PGVs. In general, clinicopathological differences 
+between screened and non-screened patients mimicked those between patients with 
+and without PGVs, e.g., younger age at diagnosis for positive cases. However, 
+differences in tumor biology/microenvironment such as immune cell composition 
+were additionally seen within PGV carriers/non-carriers in ER + /HER2 - cases, 
+but not between screening subpopulations in this subgroup.
+CONCLUSIONS: Characterization of molecular tumor features in patients clinically 
+screened and not screened for PGVs represents a relevant read-out of guideline 
+criteria. The general lack of molecular differences between 
+screened/non-screened patients after stratification by relevant breast cancer 
+subsets questions the ability to improve the identification of screening 
+candidates based on currently used patient and tumor characteristics, pointing 
+us towards universal screening. Nevertheless, while that is not attained, 
+molecular differences identified between PGV carriers/non-carriers suggest the 
+possibility of further refining patient selection within certain patient subsets 
+using RNA-seq through, e.g., gene signatures.

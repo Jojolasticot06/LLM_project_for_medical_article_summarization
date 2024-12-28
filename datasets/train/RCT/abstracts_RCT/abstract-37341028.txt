@@ -1,0 +1,24 @@
+BACKGROUND: The current investigation assessed a) the performance of the FOCUS 
+ADHD mobile health application (App) in increasing pharmacological treatment 
+adherence and improving patients' knowledge of attention-deficit/hyperactivity 
+disorder (ADHD) and b) the impact of implementing a financial incentive for 
+using the App (i.e., a discount on medication).
+METHODS: In a randomized, blind, parallel-group clinical trial, 73 adults 
+diagnosed with ADHD were allocated into three groups for 3 months: a) 
+Pharmacological treatment as usual (TAU); b) TAU and the App (App Group); and c) 
+TAU and the App + a commercial discount on the purchase of medication prescribed 
+for ADHD treatment (App + Discount Group).
+RESULTS: There was no significant difference in mean treatment adherence between 
+groups, assessed as a medication possession ratio (MPR). However, the 
+App + Discount Group exhibited greater medication intake registrations compared 
+with the App Group during the initial phase of the trial. The financial discount 
+also produced a 100% App adoption rate. App use did not increase ADHD knowledge, 
+though knowledge scores were high at baseline. The usability and quality of the 
+App were rated favorably.
+CONCLUSIONS: The FOCUS ADHD App achieved a high adoption rate and positive 
+evaluations by users. Use of the App did not increase adherence to treatment as 
+measured by MPR, but, for App users, the addition of a financial incentive to 
+use the App produced an increase in treatment adherence in terms of medication 
+intake registrations. The present results offer encouraging data for combining 
+incentives with mobile digital health solutions to positively impact treatment 
+adherence in ADHD.

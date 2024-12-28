@@ -1,0 +1,29 @@
+BACKGROUND: For certain conditions, treatments aim to lessen deterioration over 
+time. A trial outcome could be change in a continuous measure, analysed using a 
+random slopes model with a different slope in each treatment group. A sample 
+size for a trial with a particular schedule of visits (e.g. annually for three 
+years) can be obtained using a two-stage process. First, relevant (co-) 
+variances are estimated from a pre-existing dataset e.g. an observational study 
+conducted in a similar setting. Second, standard formulae are used to calculate 
+sample size. However, the random slopes model assumes linear trajectories with 
+any difference in group means increasing proportionally to follow-up time. The 
+impact of these assumptions failing is unclear.
+METHODS: We used simulation to assess the impact of a non-linear trajectory 
+and/or non-proportional treatment effect on the proposed trial's power. We used 
+four trajectories, both linear and non-linear, and simulated observational 
+studies to calculate sample sizes. Trials of this size were then simulated, with 
+treatment effects proportional or non-proportional to time.
+RESULTS: For a proportional treatment effect and a trial visit schedule matching 
+the observational study, powers are close to nominal even for non-linear 
+trajectories. However, if the schedule does not match the observational study, 
+powers can be above or below nominal levels, with the extent of this depending 
+on parameters such as the residual error variance. For a non-proportional 
+treatment effect, using a random slopes model can lead to powers far from 
+nominal levels.
+CONCLUSIONS: If trajectories are suspected to be non-linear, observational data 
+used to inform power calculations should have the same visit schedule as the 
+proposed trial where possible. Additionally, if the treatment effect is expected 
+to be non-proportional, the random slopes model should not be used. A model 
+allowing trajectories to vary freely over time could be used instead, either as 
+a second line analysis method (bearing in mind that power will be lost) or when 
+powering the trial.

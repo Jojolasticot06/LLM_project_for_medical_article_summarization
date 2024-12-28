@@ -1,0 +1,309 @@
+Introduction
+Maternal mortality refers to the “death of a woman whilst pregnant or within 42 days of delivery or termination of pregnancy, from any cause related to, or aggravated by pregnancy or its management, but excluding deaths from incidental or accidental causes.”1 While many women die following a life-threatening event, many more women survive with morbidity and long-term sequelae. Survival after a life-threatening event is referred to as maternal near miss, defined as “a woman who nearly died but survived a complication that occurred during pregnancy, childbirth or within 42 days of termination of pregnancy.”2 Monitoring these near-miss events will provide insight into the quality of obstetric care offered in a facility including the strength and weakness of the referral system and availability of clinical interventions, which could suggest improvements to reduce severe maternal complications.2,3
+
+An ideal system or set of criteria to identify maternal near miss should (i) be easy to implement (with a minimal number of severity indicators); (ii) not miss those who may succumb to the disease process; and (iii) be possible to use in all settings, allowing comparison of the incidence of near-miss events similar to the maternal mortality ratio which is currently used. High-income countries with electronic health records use the International Classification of Disease (ICD) codes to diagnose near-miss events, whereas lower income countries rely more on clinical and management criteria for the diagnosis.4–7
+
+The World Health Organization (WHO) first defined surveillance recommendations for monitoring near miss in 20092,8 and published the WHO near-miss approach for maternal health in 2011.9 Even after a decade of using the WHO criteria, differences in the available data limits the use of near miss as an indicator for maternal health care in comparing across different countries and regions within the same country. Several authors have made modifications to the criteria, citing resource constraints that prevent use of the WHO approach. The modifications range from adding specific clinical conditions or modifying the indicators, to approaches in which a combination of individual indicators (one each from clinical, investigation and management) are used to define near miss.5,10–14 The Global Network Near-Miss Maternal Mortality System is one such approach, which omitted the laboratory criteria for maternal near miss, as centres with limited resources lack these facilities.15 For this study in India, we aimed to compare the incidence of maternal near-miss events in women with potentially life-threatening conditions during pregnancy or childbirth, calculated using different sets of criteria. We used the WHO proposed criteria and six others, including the country-specific consensus criteria developed by the Indian national technical group in 2014.16
+
+Go to:
+Methods
+Study design and setting
+We based the study on data collected as part of a primary study assessing the incidence of near-miss events and the impact of the event on maternal health at 12 months, among a cohort of women with potentially life-threatening conditions admitted to hospital from May 2018 to April 2021. The setting was the Women and Children’s Hospital of Jawaharlal Institute of Postgraduate Medical Education and Research, Puducherry, India. Situated in the south-eastern coastal region of India, the hospital caters primarily for a rural population and manages 17 000–18 000 deliveries annually. The hospital provides tertiary care to women with high-risk pregnancies referred from the Union Territory of Puducherry and the neighbouring districts of Tamil Nadu.
+
+Study population
+Women older than 18 years admitted with a potentially life-threatening condition, as defined by WHO, were included in the study.2,8 The criteria include: (i) haemorrhagic disorders such as placental abruption, placenta praevia, postpartum haemorrhage, ectopic pregnancy and ruptured uterus; (ii) hypertensive disorders such as severe pre-eclampsia, eclampsia, hypertensive urgencies and HELLP (haemolysis, elevated liver enzymes, low platelet count) syndrome; (iii) other systemic disorders such as pulmonary oedema, seizures, sepsis, shock, thrombocytopenia (platelet count < 100 × 109/L) and thyroid crisis; and (iv) management indicators such as blood transfusions, central venous access, and hysterectomy or surgical intervention.17 The women were recruited from the intensive care units, eclampsia room and high dependency unit.
+
+Data collection
+After taking informed written consent, the research staff collected sociodemographic information on each woman with potentially life-threatening conditions, including age, level of education, obstetric and medical history, the care received in the hospital until discharge, and neonatal outcomes.
+
+Criteria sets
+In addition to the WHO near-miss tool, we studied six other commonly used sets of criteria for determining maternal near miss which we identified in a literature search (Table 1).7,15,16,18,19,22 The Mantel18 and Waterstone19 criteria use organ dysfunction and clinical diagnosis for predicting near miss and we included them in this study for their ease of use in low- and middle-income settings. The Global Network criteria15 are a modification of the WHO criteria, which exclude laboratory criteria for the diagnosis of near miss to reflect the situation in low- and middle-income countries where the availability of laboratory services is limited. In contrast, the United States Centers for Disease Control and Prevention (CDC) criteria20,22 and the maternal morbidity outcomes indicators proposed by Roberts et al.7 are based on ICD diagnosis and procedures codes that are primarily used in high-income settings which have electronic health records or a population database.7,15,20,22 Finally, we applied the Indian consensus criteria that are recommended by the Indian government and are being used in some centres.16 The Indian national criteria are more complex than the other approaches to identifying maternal near miss and are detailed elsewhere.23
+
+Table 1
+Criteria sets for the diagnosis of maternal near miss used in the study of maternal near miss, Puducherry, India
+Variable	Mantel et al., 199818	Waterstone et al., 200119	Roberts et al., 20087	WHO criteria, 20119	Chou et al., 201615 (Global Network criteria)	CDC criteria, 201720
+Basis of criteria	• Clinical (on organ dysfunction) and management	• Clinical diagnosis	• ICD-code (diagnosis or procedures)	• Clinical laboratory and management	• Clinical or management	• ICD-code
+Usefulness in low- and middle- income countries	• Possible to use, as clinical	• Possible to use, as clinical	• Difficult to use, as based on electronic data or records	• Suitable to use, although laboratory services may not be uniformly available	• Possible and suitable to use, as only clinically and management based	• Difficult to use, as based on electronic data or records
+Indicators						
+Cardiovascular	• Pulmonary oedema
+• Cardiac arrest	• Severe pre-eclampsia	• Shock
+• Cardiac failure
+• Cardiac arrest or infarction	• Shock
+• Cardiac arrest
+• Use of continuous
+vasoactive drugs
+• Cardiopulmonary
+resuscitation
+• pH < 7.1
+• Lactate > 5 mmol/L	• Shock
+• Cardiac arrest
+• Use of continuous vasoactive drugs
+• Cardiopulmonary resuscitation	• Acute myocardial infarction or aneurysm
+• Cardiac arrest or ventricular fibrillation
+• Conversion of cardiac rhythm
+• Pulmonary oedema or acute heart failure
+• Shock
+Respiratory	• Intubation and ventilation for ≥ 60 minutes unrelated to general anaesthesia
+• Oxygen saturation < 90% for ≥ 60 minutes, Pao2/FiO2 ratio ≤ 300 mmHg	NA 	• Obstetric embolism
+• Acute severe asthma
+• Assisted ventilation including tracheostomy	• Acute cyanosis
+• Gasping
+• Respiratory rate > 40 or < 6 breaths per minute
+• Intubation and ventilation not related to anaesthesia
+• Oxygen saturation < 90% for ≥ 60 minutes
+• Pao2/FiO2 ratio < 200 mmHg	• Acute cyanosis
+• Gasping
+• Respiratory rate > 40 or < 6 breaths per minute
+• Intubation and ventilation not related to anaesthesia	• Adult respiratory distress syndrome
+• Amniotic fluid embolism
+• Air embolism or thrombotic embolism
+• Temporary tracheostomy
+• Ventilation
+Renal	• Oliguria (≤ 400 mL in 24 hours), not responding to rehydration or diuresis
+• Urea > 15 mmol/L
+• Creatinine > 400 mmol/L	NA	• Acute renal failure
+• Dialysis	• Oliguria non-responsive to fluids
+• Dialysis for acute
+renal failure
+• Creatinine ≥ 300 mmol/L or ≥ 3.5 mg/dL	• Non-responsive to fluids
+• Dialyses for acute renal failure	• Acute renal failure
+Haematological	• Acute thrombocytopenia requiring platelet transfusion
+• Transfusion of ≥ 5 units of blood or packed red cells	• Severe bleeding	• Any transfusion of blood or coagulation factors
+• Disseminated intravascular coagulation
+• Sickle cell anaemia with crisis	• Failure to form clots
+• Transfusion of ≥ 5 units of blood or packed red blood cells
+• Acute severe thrombocytopenia (platelet count ≤ 50 000/mm3)	• Failure to form clots
+• Blood transfusion (any volume)
+• Transfusion of blood products
+• Disseminated intravascular coagulation
+• Sickle cell disease with crisis
+Hepatic	• Jaundice in the presence of pre-eclampsia	HELLP syndrome	 NA	• Jaundice with pre-eclampsia
+• Bilirubin > 100 mmol/L
+or > 6.0 mg/dL	• Jaundice with pre-eclampsia
+• Eclampsia	NA 
+Neurological	• Coma, lasting for > 12 hours
+• Subarachnoid or intracerebral haemorrhage	• Eclampsia	• Cerebral oedema or coma
+• Status epilepticusa
+• Cerebrovascular accident	• Loss of consciousness or coma (lasting > 12 hours)
+• Stroke
+• Status epilepticus or uncontrollable fits
+• Total paralysis	• Loss of consciousness
+• Stroke
+• Fits
+• Paralyses	• Eclampsia
+• Puerperal cerebrovascular disorders
+Immunological	• Sepsis leading to intensive care admission	• Severe sepsis	NA 	NA 	NA 	• Sepsis
+Metabolic	• Diabetic ketoacidosis
+• Thyroid crisis	NA 	NA 	NA 	NA 	NA
+Procedures	• Emergency hysterectomy for sepsis or any other reason	• Ruptured uterus	• Uterine rupture
+• Repair of rupture of inverted uterus
+• Reclosure of disrupted caesarean section wound
+• Evacuation of haematoma
+• Hysterectomy
+• Dilatation and curettage under general anaesthesia
+• Interventions to control bleeding
+• Repair of bladder or cystostomy
+• Repair of intestine	• Haemorrhage leading to hysterectomy	• Surgical procedure to stop bleeding	• Hysterectomy
+• Heart failure or arrest during procedure
+Anaesthesia-related	• Severe hypotension (with spinal or epidural anaesthetic)
+• Failed tracheal intubation requiring anaesthetic reversal	NA 	• Major anaesthesia complications	NA 	NA 	• Severe anaesthesia
+complications
+Other	• Intensive care unit admission for any reason	NA 	• Acute abdomen
+• Acute psychosis
+• Acute appendicitis	NA 	NA 	NA
+Open in a separate window
+CDC: United States Centers for Disease Control and Prevention; HELLP: haemolysis, elevated liver enzymes and low platelet count; ICD: International Statistical Classification of Diseases and Related Health Problems, 10th revision; NA: not applicable; WHO: World Health Organization.
+
+a Status epilepticus is defined as continuous, generalized, convulsive seizure lasting > 5 minutes, or two or more seizures during which the patient does not return to baseline consciousness.21
+
+Outcomes and analysis
+First, we determined the number of women with severe maternal outcome (those who have a life-threatening event) and maternal near miss, using the 25 severity indicators proposed in the WHO near-miss tool.2 We present the baseline characteristics of the women, the various potentially life-threatening conditions and the indicators in the WHO criteria as frequencies and percentages. Case fatality of each potentially life-threatening condition is presented as a percentage. We calculated the variable by dividing the number of deaths following a potentially life-threatening condition with the total number of women with that particular condition.
+
+To assess differences in the rates of recognition of severe morbidity and maternal near-miss events using the various sets of criteria, we calculated the number of maternal deaths per 100 000 live births and the near-miss indicators for each criteria set.2 We did not report diagnostic accuracy parameters to compare the methods using one criterion set as a reference standard. Instead, we compared the number of maternal near misses and the number of maternal deaths (and other maternal near-miss indicators) identified by each criteria set. This approach aims to reflect the burden that near misses will add (due to overdiagnosis) or reduce (missing those who ultimately die due to the complications).
+
+We calculated the following indicators:2 (i) maternal near-miss ratio per 1000 live births, calculated from: [(number of maternal near misses diagnosed using the criteria ÷ total number of live births) × 1000]; (ii) severe maternal outcome ratio per 1000 live births, calculated as: [(number of maternal deaths + number of maternal near misses) ÷ total number of live births × 1000]; (iii) ratio of maternal near miss to maternal death (number of cases of maternal near miss ÷ the number of maternal deaths); and (iv) mortality index calculated from: [number of maternal deaths ÷ (number of women with maternal near miss + number of maternal deaths) × 100]. The mortality index and the maternal near miss to mortality ratio indicate the quality of care; the lower the mortality index and the higher the maternal near-miss to maternal death ratio, the higher the quality of care.
+
+Ethical approval
+The study was approved by the scientific advisory committee and following the standards set by the ethics committee (human studies) of Jawaharlal Institute of Postgraduate Medical Education and Research, Puducherry, India. Informed consent was obtained from all women enrolled in the primary study or their relatives. The ethics committee (human studies) approved the primary research proposal leading to the work submitted (vide no. JIP/ IEC/2013/3/173).
+
+Go to:
+Results
+Among the 38 292 deliveries at the hospital from May 2018 to April 2021, there were 37 590 live births. Using the WHO severity indicators, we identified 1833 women with potentially life-threatening conditions (48.8 per 1000 live births). Among them, a total of 57 women died due to complications of birth (151.6 maternal deaths per 100 000 live births). The characteristics of the women at recruitment to the study and details of their pregnancy care are shown in Table 2. The most common condition among women with potentially life-threatening conditions was hypertension (1039 women; 56.7%), followed by other systemic or medical disorder. Categories of potentially life-threatening conditions and the case fatality rates of each condition in the study population are shown in Table 3.
+
+Table 2
+Sociodemographic characteristics among women with potentially life-threatening conditions and those who developed severe maternal outcomes, Puducherry, India, May 2018 to April 2021
+Characteristic	Potentially life-threatening conditions (n = 1833)	Severe maternal outcomes (n = 380)
+Age, mean (SD) years	26.6 (4.9)	27.4 (5.3)
+Marital status, no. (%) of women
+Living with partner	1821 (99.3)	378 (99.5)
+Single or divorced	12 (0.7)	2 (0.5)
+Parity, no. (%) of women
+Nulliparous	1103 (60.2)	186 (48.9)
+Primiparous	485 (26.5)	119 (31.3)
+Multiparous	245 (13.4)	75 (19.7)
+Socioeconomic status, no. (%) of womena
+Upper high	104 (5.7)	21 (5.5)
+High	406 (22.1)	65 (17.1)
+Upper middle	584 (31.9)	124 (32.6)
+Lower middle	388 (21.2)	91 (23.9)
+Poor	351 (19.1)	79 (20.8)
+No antenatal care visits, no. (%) of women	26 (1.4)	9 (2.4)
+Timing of the maternal near-miss events, no. (%) of women
+Antenatal	1678 (91.5)	309 (81.3)
+      First trimester (1–12 weeks)	52 (3.1)	11 (3.6)
+      Second trimester (13–28 weeks)	164 (9.8)	51 (16.5)
+      Third trimester (> 28 weeks)	1462 (87.1)	247 (79.5)
+Postpartum	139 (7.6)	60 (15.8)
+Post-abortion	16 (0.9)	11 (2.9)
+Timing of delivery, no. (%) of womenb
+Extreme pre-term (28–34 weeks)	341 (18.6)	87 (22.9)
+Pre-term (34–37 weeks)	443 (24.2)	95 (25.0)
+Term (≥ 37 weeks)	790 (43.1)	99 (26.1)
+Mode of delivery, no. (%) of women (n = 1574)b
+Vaginal delivery	740 (47.0)	94 (33.5)
+Caesarean section	834 (53.0)	187 (66.5)
+Open in a separate window
+a We used the classification of Dalvi et al., 202024 for socioeconomic status based on the per capita monthly income in Indian rupees (INR): upper high (7533 INR and above); high (3766–7532 INR); upper middle (2260–3765 INR); lower middle (1130–2259 INR); poor (below 1130 INR).
+
+b After excluding 259 women who had abortion and ectopic pregnancy among those with a potentially life-threatening condition, and 99 among those with severe maternal outcome.
+
+Note: n is the total number of women surveyed. Potentially life-threatening conditions and severe maternal outcome were defined by the World Health Organization severity indicators.2
+
+Table 3
+Categories of potentially life-threatening conditions and the case fatality rates of each condition in the study population, Puducherry, India, May 2018 to April 2021
+Condition	No. (%) of women
+Case fatality rate, %
+Potentially life-threatening conditions
+(n = 1833)	Maternal near miss
+(n = 323)	Maternal death
+(n = 57)
+Haemorrhage disorder	206 (11.2)	96 (29.7)	19 (33.3)	9.2
+Post-abortion haemorrhage	27 (1.5)	11 (3.4)	4 (7.0)	14.8
+Ectopic pregnancy	21 (1.1)	6 (1.9)	0 (0.0)	0.0
+Gestational trophoblastic disease	5 (0.3)	4 (1.2)	0 (0.0)	0.0
+Placental abruption	60 (3.3)	30 (9.3)	4 (7.0)	6.6
+Ruptured uterus	16 (0.9)	4 (1.2)	2 (3.5)	12.5
+Morbidly adherent placenta	29 (1.6)	18 (5.6)	0 (0.0)	0.0
+Postpartum haemorrhage	90 (4.9)	45 (13.9)	12 (21.0)	13.3
+Infection, timing	100 (5.5)	37 (11.5)	8 (14.0)	8.0
+Antenatal	58 (3.2)	19 (5.9)	5 (8.8)	8.6
+Intrapartum	5 (0.3)	1 (0.3)	0 (0.0)	0.0
+Postpartum	34 (1.9)	17 (5.3)	2 (3.5)	5.8
+Post-abortion	3 (0.2)	0 (0.0)	1 (1.8)	33.3
+Hypertensive disorder	1039 (56.7)	155 (48.0)	16 (28.1)	1.5
+Gestational hypertension	489 (26.7)	64 (19.8)	6 (10.5)	1.2
+Pre-eclampsia	656 (35.8)	93 (28.8)	13 (22.8)	1.9
+Eclampsia	61 (3.3)	20 (6.2)	1 (1.8)	1.6
+Hypertensive encephalopathy	14 (0.8)	0 (0.0)	0 (0.0)	0.0
+HELLP syndrome	104 (5.7)	56 (17.3)	5 (8.8)	1.9
+Medical disorder	1181 (64.4)	227 (70.3)	38 (66.7)	3.2
+Anaemia	438 (23.9)	120 (37.2)	17 (29.8)	3.9
+Endometritis	10 (0.5)	0 (0.0)	0 (0.0)	0.0
+Thyroid crisis	295 (16.1)	48 (14.9)	2 (3.5)	0.7
+Seizures	92 (5.0)	20 (6.2)	7 (12.3)	7.6
+Heart disease	281 (15.3)	38 (11.8)	13 (22.8)	4.6
+Pulmonary oedema or respiratory failure	82 (4.5)	33 (10.2)	12 (21.1)	14.6
+Diabetes	316 (17.2)	42 (13.0)	6 (10.5)	1.9
+Labour-related disorder	17 (0.9)	3 (0.9)	0 (0.0)	0.0
+Prolonged or obstructed labour	14 (0.8)	2 (0.6)	0 (0.0)	0.0
+Open in a separate window
+HELLP: haemolysis, elevated liver enzymes and low platelet count.
+
+Note: n is the total number of women surveyed.
+
+According to the WHO criteria, 380 of the women had severe maternal outcomes. Among these women, receiving blood transfusion of more than five units was the most common criterion met out of the WHO near-miss criteria set (108 women, 28.4%; Table 4).
+
+Table 4
+WHO maternal near-miss indicators among women with severe maternal outcomes, Puducherry, India, May 2018 to April 2021
+Criterion	No. (%)
+(n = 380)
+Clinical	
+Overall	184 (48.4)
+Acute cyanosis	0.0 (0.0)
+Loss of consciousness lasting > 12 hours	14 (3.7)
+Gasping	1 (0.3)
+Cardiac arrest	3 (0.8)
+Respiratory rate > 40 or < 6 per minute	18 (4.7)
+Stroke	2 (0.5)
+Shock	31 (8.2)
+Uncontrollable fit	19 (5.0)
+Total paralysis	3 (0.8)
+Oliguria, non-responsive to fluids or diuretics	25 (6.6)
+Jaundice in the presence of pre-eclampsia	6 (1.6)
+Failure to form clots	93 (24.5)
+Laboratory	
+Overall	193 (50.8)
+Oxygen saturation < 90% for > 60 minutes	48 (12.6)
+pH < 7.1	14 (3.7)
+Pao2/FiO2 < 200 mmHg	4 (1.1)
+Lactate > 5 mmol/L or > 45.0 mg/dL	4 (1.1)
+Creatinine > 300 mmol/L or > 3.5 mg/dL	24 (6.3)
+Acute severe thrombocytopenia (< 50 000 platelets)	102 (26.8)
+Bilirubin > 100 mmol/L or > 6.0 mg/dL	26 (6.8)
+Management based	
+Overall	268 (70.5)
+Use of continuous vasoactive drugs	18 (4.7)
+Intubation and ventilation for > 60 minutes not related to anaesthesia	80 (21.1)
+Hysterectomy following infection or haemorrhage	35 (9.2)
+Dialysis for acute renal failure	19 (5.0)
+Transfusion of > 5 units red cell transfusion	108 (28.4)
+Cardiopulmonary resuscitation	30 (7.9)
+Open in a separate window
+WHO: World Health Organization.
+
+Note: Women were identified using the criteria proposed by WHO for diagnosis of obstetric near miss.9 Women could have one or more criteria identified.
+
+Applying the different sets of criteria to the data, we found that the numbers of women classified with severe maternal outcome ranged from 333 to 641 and the number of near misses identified ranged from 280 using the proposed Indian national criteria to 588 using the CDC criteria (Table 5). The corresponding incidence of near miss in the study sample therefore ranged from 7.6 to 15.6 per 1000 live births. These variations also affected the indices of quality of care (mortality index and maternal near-miss to mortality ratio) in the study population.
+
+Table 5
+Comparison of different criteria sets for identifying maternal near miss and severe maternal morbidity, Puducherry, India, May 2018 to April 2021
+Indicator	Mantel et al., 199818	Waterstone et al., 200119	Roberts et al., 20087	WHO criteria, 20119	Indian national criteria, 201423	Chou et al., 2016
+(Global Network criteria)15	CDC criteria, 201720
+Severe maternal outcome, no. of women	372	375	514	380	333	540	641
+Maternal near miss, no. of women	324	354	462	323	280	483	588
+Maternal deaths not counted,a no. of women	9	36	5	0	4	0	4
+Severe maternal outcome ratio, per 1000 live births	9.9	10.0	13.7	10.1	9.0	14.4	17.1
+Maternal near-miss ratio, per 1000 live births	8.6	9.4	12.2	8.6	7.6	12.8	15.6
+Mortality index, %	12.9	5.6	10.1	15.0	15.7	10.6	8.2
+Maternal near-miss to maternal death ratio	6.75:1	16.8:1	8.8:1	5.7:1	5.35:1	8.47:1	11:1
+Open in a separate window
+CDC: United States Centers for Disease Control and Prevention; WHO: World Health Organization.
+
+a Actual maternal deaths among the study sample were 57.
+
+Note: We applied each set of criteria to data from 1833 women who had potentially life-threatening conditions as defined using the WHO severity indicators.2 Total live births in the hospital over the time period were 37 590.
+
+The WHO criteria identified 323 women with near miss and all 57 women who died. Use of ICD-based diagnosis in two criteria sets7,20 increased the number of women classified with near miss (to 462 and 588 women, respectively), but few women who died from the complications were overlooked (only 5 and 4 women, respectively). However, the Waterstone criteria19 and Mantel criteria18 missed more maternal deaths (36 and 9 women, respectively). Using the Indian criteria, only 280 women were classified as near miss, and four women who ultimately died due to complications were not identified.
+
+Use of any number of blood transfusions in three of the criteria sets7,15,22 also increased the total number of women diagnosed with maternal near miss. Only the WHO2 and Global Network criteria15 identified all 57 women who died due to the various conditions (Table 5). Fig. 1 shows the incidence of near miss according to the number of units of transfusion the women received according to WHO criteria. There were 407 women who received one or more units of transfusion who were identified using the criteria where any volume of blood was transfused. These results also show that all the women receiving five or more units of blood were identified as maternal near misses, whereas if a cut-off of four or fewer units were used many would be counted as near miss despite not having a life-threatening (near miss) event.
+
+An external file that holds a picture, illustration, etc.
+Object name is BLT.21.287737-F1.jpg
+Fig. 1
+Number of women diagnosed with near miss according to the WHO criteria when categorized based on the number of blood transfusions received, Puducherry, India, May 2018 to April 2021
+
+WHO: World Health Organization.
+
+Note: We applied each set of criteria to data from 1833 women who had potentially life-threatening conditions as defined using the WHO severity indicators.2 Total live births in the hospital over the time period were 37 590.
+
+Go to:
+Discussion
+Potentially life-threatening complications occurred in 48.8 per 1000 live births in the study period and there were 57 maternal deaths. Among the 323 women identified as near miss using the WHO tool, two thirds of the women fulfilled one or more of the management criteria. Among the seven criteria sets used in various settings worldwide for identifying maternal near miss, the WHO and the Global Network criteria identified women with severe maternal outcomes without missing those who died due to the events. Use of any number of blood transfusions as an indicator increased the total number of women diagnosed with maternal near miss.
+
+To date, maternal mortality is considered an important indicator of health care and is used to compare health-care systems and the gaps in various settings across the globe.25 Analysis of maternal near miss or severe maternal morbidity can provide more information about the standard of care and help assess the quality of health-care systems.2 Even after the introduction of the near-miss tool by WHO in 2011, a literature search indicates the wide variation in the use of criteria for identifying severe maternal morbidity across health systems between and within countries.4–6,10–14,22 Lack of availability of the investigations, facilities or expertise to adopt the WHO criteria is often cited as a reason for using modifications or other criteria, especially in low- or middle-income countries.12,22,26
+
+Even though different sets of criteria are available for identifying cases, there is considerable overlap in the individual indicators defined.18,19,22,26 The Mantel and Waterstone criteria use organ dysfunction or a specific condition-based approach to diagnose near miss.18,19 Since many of the severity indicators in the WHO criteria are not used in these criteria sets, the ability of these classifications to detect near misses is limited, resulting in an underestimate of the women who died after suffering a life-threatening condition, as seen in the present analysis.
+
+In high-income countries, where electronic health records or population databases are available, ICD-based criteria sets easily identify women with near-miss births.7,20,22 Although accessibility of the records and the standardization of the data can be an advantage in such criteria sets, there can still be issues with diagnostic criteria sets that incorporate laboratory criteria and rely primarily on the condition and the management received by the woman. We found that the criteria set that used ICD-based criteria,7,20,22 for example, led to underestimating the number of women with severe complications or who died.
+
+In an attempt to follow the WHO mandate to initiate near-miss reviews in all settings in all countries, India’s national technical group in 2014 proposed a set of local-specific expert consensus criteria.2,16 The indicators were proposed under four sections: (i) disorders and conditions or complications; (ii) clinical findings (symptoms and signs); (iii) results of investigations; and (iv) interventions, with each condition or complication further having a subsection which includes (i) clinical feature or (ii) investigation and (iii) management or intervention received, to identify the condition. To identify a woman with near miss, the method requires a minimum of three criteria to be met in each section – one each from clinical findings (either symptoms or signs), investigations carried out, and interventions carried out to manage the care – or any single criterion which signifies cardiorespiratory collapse.16,23 The subcriteria resulted in a system with more than a hundred possible indicator variables, and the minimum criteria (that is, requirement of one each of the three criteria) to diagnose a near miss resulted in underestimating near-miss events, including women who died due to complications.
+
+Recognizing the limitations of the WHO criteria in a low-resource setting where the investigations and facilities are limited and there are high proportions of community or home deliveries, the Global Network criteria were proposed in 2016.15,26,27 The criteria set is similar to the WHO criteria but omitting the indicator of laboratory test results while adding the change to any number of blood and blood products transfusion. As evident from our study, laboratory criteria are indirect markers of the indicators under the WHO management and clinical criteria. The Global Network criteria also identified all women with severe morbidity, including those who died due to the complications.
+
+In contrast with the WHO criteria, three other criteria sets use the transfusion of any volume of blood products, irrespective of the number of units received, to identify a pregnant woman with severe maternal morbidity.7,15,20 Even when the Global Network criteria identified all those who died from complications, the criterion of transfusion of any blood products without specifying the number of units exaggerates the number of women diagnosed with near miss (similar to the ICD-based systems).7,22 This finding may limit the usefulness of the Global Network approach in low- and middle-income countries. Many women who have moderate to severe anaemia receive a blood transfusion during pregnancy and childbirth to avert the complications, rather than being transfused following a life-threatening event such as obstetric haemorrhage, as is more often the case in high-income settings.
+
+There were strengths and limitations to our study. Most of the earlier reports compared one or two systems of identifying near miss and used the WHO criteria as the gold standard.4–6,11,13 Meticulous screening using the condition or diagnosis given as per the ICD in two of the criteria sets7,20 can be considered a strength of this study. We compared seven methods, without assigning one as a reference standard for near miss, and presenting the results as frequencies and as the rates for various maternal near-miss indicators. This approach helps to reflect the actual burden on the health systems, which may be increased, and to identify women who may be missed yet died from complications. This study from a lower-middle-income country also highlights the need for a unified system applicable across various settings. As the hospital is considered as a regional referral centre for high-risk pregnancies and postnatal complications in the south-eastern region of India, the data might reflect the actual rates of near miss in the area and can also add to the strength of the study. Although the study had a large sample size, the investigation was conducted in a single tertiary hospital and this may limit the generalizability of the results; further evaluation would be needed in multicentre studies.
+
+Since maternal mortality ratios are declining globally, validation of the criteria in various settings is required to enable comparisons and to identify areas for improvement.25 A set of uniform criteria, with minimum indicators to identify all women with severe maternal morbidity, validated across various settings, needs to be explored. As with the maternal morbidity ratio, near-miss rates could then be used as a health indicator. Such an approach also needs to consider differences in the presentation and the disease condition, as wide variations were observed between high-income and low-income settings in the causes of maternal mortality.25 As we observed, the use of either WHO or the Global Network criteria, especially in low- and middle-income countries, can be beneficial for identifying maternal near miss across various settings, which will allow the comparison of the quality of care across regions.
+
+In conclusion, a uniform validated set of criteria that will aid in identifying near-miss births and allow comparison of health systems across the globe is needed. The WHO and Global Network tools may serve that purpose, as they aid in identifying all women with maternal near miss including those who died from maternal complications, even in lower-resource settings. The usefulness of blood transfusion as an indicator for near-miss events, without specifying the number of units, needs to be evaluated in future, especially in low- to middle-income countries where the criterion may not identify severe maternal morbidity.

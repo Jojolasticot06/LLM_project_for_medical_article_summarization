@@ -1,0 +1,158 @@
+INTRODUCTION
+Colonic diverticulosis is a frequent and largely asymptomatic condition in the general population (1). However, about one-quarter of patients harboring diverticula will develop symptoms (diverticular disease [DD]) ranging in severity from symptomatic uncomplicated diverticular disease (SUDD) to complicated diverticulitis with abscess formation, peritonitis, or bleeding (2,3). The pathophysiological grounds of DD are multifaceted (4) and involve colonic neuromuscular dysfunction (5) including both muscular and enteric nervous system abnormalities (6–9), colonic dysmotility (10), genetic alterations, and gut dysbiosis (1). In addition to the above mechanisms, the genesis of symptoms is likely also due to visceral hypersensitivity (11). The latter point is of particular interest in the differential diagnosis between SUDD and irritable bowel syndrome (IBS) (12,13).
+
+The possibility of having accurate diagnostic methods able to identify and characterize patients suffering from SUDD and predict their prognosis and monitor treatment could be of extreme importance in the follow-up of the disease. Apart from the diagnosis of diverticulosis, an ideal diagnostic method should not only be able to detect the presence of colon diverticula but also be able to identify this condition as the cause of the patient's symptoms. Nowadays, however, there are no instrumental diagnostic investigations validated for this purpose that can be considered as the gold standard for DD (1,2).
+
+Of interest, intestinal ultrasound (IUS) and computed tomography (CT) scans have comparable diagnostic accuracy in the diagnosis of acute diverticulitis, and in fact, there is evidence that ultrasound performed by an expert operator is recommended as a first choice to diagnose acute diverticulitis, restricting CT to complicated or uncertain cases (14). In this way, it would be possible to avoid at least 50% of CT scans without any negative impact on the patient (14). In fact, IUS is able to assess in real time the bowel as potential abdominal site of pain, and it can detect the morphological and functional characteristics of the intestinal wall (15,16). Thus, IUS, being noninvasive, with low cost and wide diffusion on the territory, could prove to be a good tool in the diagnosis and monitoring of DD.
+
+However, to the best of our knowledge, the literature provides only a relatively old prospective study conducted on a sample of 60 patients, in which accuracy of IUS in the diagnosis of left diverticulosis, using colonoscopy as a gold standard, showed a sensitivity of 85% with only 2 false positives (17).
+
+On the basis of the above considerations, this study aimed at evaluating whether IUS is accurate in detecting colonic diverticula and whether specific and morphological characteristics of the sigmoid wall that can be sonographically assessed (such as the thickness of muscularis propria and the pain intensity evoked by elective abdominal compression) are able to differentiate SUDD from IBS and from patients with asymptomatic diverticulosis.
+
+PATIENTS AND METHODS
+We conducted an observational, prospective, monocentric study, performed after obtaining the ethical and administrative authorizations from the competent authority. Data were collected in the period September 2018–March 2019 by means of a structured collection form and the creation of a specific electronic archive.
+
+A series of consecutive outpatients with the following characteristics were considered as potentially eligible: age range 20–80 years; abdominal symptoms characterized by pain or altered bowel habits; recent (<1 year) colonoscopy or virtual colonoscopy examination; and ability to provide informed consent. Exclusion criteria were recent (<1 month) episode of acute diverticulitis, concurrent organic diseases of the gastrointestinal tract (inflammatory bowel diseases, celiac disease, parasitosis, and neoplasms); major intestinal resections (e.g., colon resection); use of antibiotics, laxatives, antidiarrheal, psychotropic drugs or painkillers in the past 2 weeks; presence of endocrine, rheumatic, and psychiatric diseases, and pregnancy/breastfeeding.
+
+Study population
+Based on the previous available colonoscopy (presence or absence of diverticula) and clinical features, in particular abdominal symptoms, patients were classified into the following categories.
+
+SUDD, that is patients with diverticula demonstrated by colonoscopy and with abdominal symptoms or alteration of bowel habits, with or without previous acute diverticulitis (ascertained by ultrasound or CT).
+IBS, that is the presence of abdominal symptoms and abnormal bowel habits, with symptoms classifiable according to the Rome IV criteria in diarrhea predominant, constipation predominant, alternating bowel habits, and unclassifiable bowel habits and absence of diverticula at colonoscopy (18);
+Unclassifiable abdominal symptoms, that is patients with symptoms (sporadic abdominal bloating and distension, mild abdominal pain) not fulfilling the Rome IV criteria for IBS and absence of colonic diverticula.
+Controls, represented by a series of asymptomatic control subjects undergoing colonoscopy for colorectal cancer screening. In relation to the colonoscopy results, these subjects were classified as asymptomatic diverticulosis or controls without diverticulosis.
+All the subjects described above underwent IUS of the sigmoid with assessment of IUS-evoked pain, as described below.
+
+The evaluation of symptoms and clinical history and classification of patients and controls in the respective groups was performed by a researcher (A.L.) unaware of the ultrasound findings.
+
+Demographic data and clinical parameters
+In all enrolled patients, a careful history was taken to collect the demographic data (sex and age), anthropometric (body mass index), and clinical variables. The latter examined in particular: the presence of abdominal pain, altered bowel habits and symptoms compatible with IBS, according to Rome IV criteria; previous episodes of acute diverticulitis, documented by CT scan or ultrasound and/or blood chemistry; number of episodes; and severity of the last episode and interval since the last episode.
+
+IUS parameters
+All enrolled patients underwent IUS performed by an expert operator (G.M.) who was blinded to the clinical features and to the endoscopic findings, scanned the whole bowel, and, focusing on sigmoid colon, reported the following variables: presence of sigmoid diverticula, defined as previously described (17), thickness of the muscularis propria of the sigmoid colon measured at 4 different sites spaced at least 1 cm from each other, and in at least 3 different cross-sections (Figure 1). All scans were performed using the same sonographic machine (Hitachi Logos Hi Vision C) using a microconvex high-resolution probe (4–8 MHz), in the morning, in fasting conditions and without bladder distension.
+
+F1
+Figure 1.: Cross-sectional scans of the sigmoid colon, showing (a) a diverticulum (arrow) with posterior shadowing (asterisks) and thickening of the muscularis propria (2.7 mm) and (b) measurement of thickness of the muscularis propria at 4 different sites spaced at least 1 cm from each other.
+IUS-evoked pain
+During IUS, an evaluation of the intensity of the pain evoked by elective abdomen compression was performed using the ultrasound probe (microconvex with a curved surface of 2.5 cm width) in correspondence of the sigmoid colon, anterior to the psoas muscle, and of the hypogastrium or left lower abdominal quadrant, in an area that does not underlie the sigma. Compression was performed in an unweighted measure of equal intensity in the 2 sites. Pressure intensity was assessed and confirmed subjectively by the patient. The intensity of pain or discomfort was graded from 0 (absence of pain) to 10 (unbearable pain) according to a visual analogue scale. To compensate for a condition of generic visceral hypersensitivity, the intensity of pain at the sigmoid level was expressed as an absolute value (i.e., as the difference between pain grade at the sigmoid level and in hypogastrium) and as the ratio between the pain grade evoked far from sigmoid colon and that above the sigmoid colon.
+
+Statistical analysis
+Categorical variables were expressed as absolute and percentage values, whereas continuous values were expressed as mean values (±SD) or medians (95% confidence interval). Statistical analysis was performed using the Fisher exact test and χ2 test for the comparison of categorical variables and by the Kruskal-Wallis test for continuous data. To adjust for possible confounders (such as age, sex, and body mass index), multiple linear regression models were fitted with thickness of the muscularis propria as dependent variables. Correlations were assessed by calculating the Spearman correlation coefficient.
+
+Sensitivity and specificity, positive predictive value, and negative predictive value of IUS in detecting diverticula of the colon were assessed using colonoscopy or virtual colonoscopy as reference standard.
+
+To reject the null hypothesis, a significance level of P < 0.05 was considered. Statistical analyses were performed by the IBM SPSS Statistics version 25 statistical program.
+
+Ethical considerations
+After careful explanation on the aims of the study, all subjects provided written informed consent, and the study was performed according to the ethical principles expressed in the declaration of Helsinki (revision 2013). The study was approved by the Ethical Committee of the “L. Sacco Hospital.”
+
+RESULTS
+Patient characteristics
+During the study period, 88 patients were enrolled; of these, 40 had SUDD without (28) and with (12) previous episodes of acute diverticulitis (1–3 episodes, the last occurring 3–18 months before the study, and classified as Hinchey 0 in 9 patients and as Hinchey 1a in 3 patients), 20 had IBS, and 28 had abdominal symptoms in the absence of diverticula but not classifiable as IBS according to Rome IV criteria. Moreover, 10 asymptomatic subjects with sigmoid diverticulosis and 20 healthy controls entered the study, as reported above.
+
+The anthropometric and clinical variables of these groups are shown in Table 1. Colonoscopy (114) or virtual colonoscopy (4) were performed in 29 patients for cancer screening, in 38 patients for abdominal pain, in 18 for changes of bowel movements, and in 33 both abdominal pain and changes of bowel movements. Patients with SUDD and colonic diverticulosis were older than patients with IBS, and those with unclassifiable abdominal pain, and together with the latter, were mainly referred for abdominal pain.
+
+Table 1. - Anthropometric and clinical characteristics of the groups included in the study
+SUDD (n = 40)	IBS (n = 20)	Not IBS (n = 28)	Diverticulosis (n = 10)	Controls (n = 20)	P
+M (%)/Fa	12 (30)/28	5 (25)/15	17 (60.7)/11	6 (60)/4	6 (30)/14	0.03
+Age mean (± SD)b	61.1 (±12.7)	44.7 (±13.5)	42.5 (±13.3)	65.6 (±13.0)	55.7 (±10.3)	<0.001
+Weight, kgc	69.0 (±15.7)	58.6 (±10.3)	68.2 (±12.8)	82.1 (±12.2)	66.9 (±12.2)	0.012
+Height, cmd	164.0 (±9.4)	165.1 (±7.9)	170.9 (±8.4)	173.1 (±7.4)	167.5 (±8.8)	0.008
+BMI, m2/kge	25.8 (±5.9)	20.5 (±4.0)	24.9 (±6.5)	27.9 (±4.5)	23.7 (±3.3)	0.002
+Abdominal pain/discomfort						0.52
+ Never	0	0	0			
+ Less than 4 d in 1 mo	12 (30.0)	5 (25.0)	5 (17.9)			
+ At least once day a week	28 (70.0)	15 (75.0)	23 (82.1)			
+Abdominal pain/discomfort						0.16
+ Onset at least >6 mo	34 (85.0)	20 (100)	23 (82.1)			
+Onset associated with a change in frequency of stoolf,g						0.03
+ Never	11 (27.5)	3 (15.0)	9 (32.1)			
+ Sometime or more	29 (72.5)	17 (85.0)	19 (67.9)			
+Onset associated with a change in form of stoolf						0.01
+ Never	9 (22.5)	0	6 (21.4)			
+ Sometime or more	31 (77.5)	20 (100)	22 (78.6)			
+Bowel movementsf						<0.001
+ Diarrheah	4 (35.0)	12 (60.0)	8 (28.6)			
+ Constipationi	6 (15.0)	1 (5.0)	1 (3.6)			
+ Alternatej	3 (7.5)	6 (30.0)	1 (3.6)			
+ Unclassifiedk	17 (42.5)	1 (5.0)	18 (64.3)			
+BMI, body mas index; IBS, irritable bowel syndrome; SUDD, symptomatic uncomplicated diverticular disease.
+aNo-IBS patients and patients with diverticulosis showed a greater prevalence of female patients than other groups.
+bThe age in IBD and no-IBS patients was significantly different from that of other groups.
+cThe weight of patients with IBS was significantly lower than that of patients with SUDD and diverticulosis.
+dThe height of patients with diverticulosis was significantly greater than that of patients with SUDD and IBS.
+eThe BMI of patients with IBS was significantly lower than that of patients with diverticulosis.
+fThe features of patients with IBS were significantly different from those of patients with SUDD and no-IBS.
+gRecurrent abdominal pain, on average for at least 1 d per week in the past 6 months, associated with 2 or more of the following: related to defecation, a change in frequency of stool, and a change in stool form.
+h≥25% of bowel movements with ≥ 25% Bristol Stool Form 5, 6, and 7 and < 25% of Bristol Stool Form 1, 2, or 3.
+i≥ 25% of bowel movements with ≥ 25% Bristol Stool Form 1 and 2 and < 25% Bristol Stool Form 5, 6, or 7.
+j≥ 25% of bowel movements with ≥ 25% Bristol Stool Form 1, 2, and 3 and ≥ 25% Bristol Stool Form 5, 6, or 7.
+kPatients with IBS who did not meet the previous criteria.
+
+Muscularis propria characteristics
+Patients with SUDD displayed significantly (P < 0.001) greater muscle thickness (2.25 ± 0.73 mm) compared with patients with IBS (1.66 ± 0.32 mm; P < 0.01) and with control subjects (1.65 ± 0.41 mm; P < 0.01), greater to that of patients with unclassifiable abdominal pain (1.80 ± 0.44 mm; P = 0.035), and comparable with that of subjects with asymptomatic diverticulosis (2.35 ± 0.71 mm, P = 0.38). The correlation was also confirmed even when corrected for body mass index, age, and sex (see Supplementary Table 1s, https://links.lww.com/CTG/A927).The detection of thickness of muscularis propria >2 mm was even more common in patients with SUDD and asymptomatic diverticulosis than in subjects with IBS, nonspecific symptoms, and controls (Table 2).
+
+Table 2. - Muscularis propria thickness (MPt) of the groups included in the study
+SUDD (n = 40)	IBS (n = 20)	Not IBS (n = 28)	Diverticulosis (n = 10)	Controls (n = 20)	P
+Thickness, mm (mean ± SD)a	2.25 (0.73)	1.66 (0.32)	1.80 (0.44)	2.35 (0.71)	1.65 (0.41)	<0.001
+MPt >2 mm in 75% of measurements, n (%)b	19 (47.5)	2 (10.0)	5 (17.8)	6 (60.0)	4 (20.0)	0.002
+MPt >2 mm in 90% of measurements, n (%)b	17 (42.5)	0 (0.0)	3 (10.7)	4 (40.0)	1 (5.0)	<0.001
+IBS, irritable bowel syndrome; SUDD, symptomatic uncomplicated diverticular disease.
+aIBS vs SUDD: P < 0.01; IBS vs diverticulosis: P < 0.01.
+bSUDD vs IBS: P < 0.01; SUDD vs controls: P < 0.01.
+
+Characteristics of evoked abdominal pain
+All subjects included in the study, except controls, showed discrete tenderness to elective compression of the abdomen with the probe, both at the sigmoid level and elsewhere. Patients with SUDD mainly showed tenderness to sigmoid compression compared with patients with IBS and control subjects. The intensity of pain at this level was comparable among all groups (Table 3). The differential pain score between sigma and other sites was greater, but not significantly, in patients with SUDD compared with the other groups of patients, particularly those with IBS and controls (Table 3).
+
+Table 3. - Characteristics of the pain evoked by compression with the ultrasound probe on the sigmoid and on another site
+SUDD (n = 40)	IBS (n = 20)	Not IBS (n = 28)	Diverticulosis (n = 10)	Controls (n = 20)	P
+Sigmoid colon pain						0.7
+ Mean (±DS)	4.6 (±2.6)	3.9 (±3.0)	4.4 (±2.3)	4.0 (±2.1)	1,6 (±2.15)	
+ Median (95% CI)	5.0 (0–7)	4.5 (0–10)	4.0 (0–8)	4.0 (0–7)	1	
+Other side pain						0.69
+ Mean (±DS)	2.6 (±2.6)	3.1 (±2.9)	3.2 (±2.6)	2.6 (±2.6)	0.3 (±1.46)	
+ Median (95% CI)	1.5 (0–8)	3.0 (0–8)	3.0 (0–8)	2.0 (0–8)	0	
+Main pain sitea						0.048
+ Sigmoid colon, n (%)	29 (72.5)	8 (40)	15 (53.6)	6 (60)	6 (30)	
+ Other site n (%)	9 (22.5)	6 (30)	8 (28.6)	3 (30)	3 (15)	
+ Indifferent n (%)	2 (5.0)	6 (30)	5 (17.8)	1 (10)	11 (55)	
+Sigma—other site pain						0.22
+ Median (95% CI)	2.5 (−7, +8)	0 (−3, +6)	1 (−4, +5)	1 (−1, +4)	0 (−2, +5)	
+Sigma/other site pain						0.22
+ Median (95% CI)	0.53 (−2, +1)	0.0 (−2, +1)	0.15 (−2, +1)	0.50 (+0.5, +1)	0 (−0.5, +1)	
+CI, confidence interval; IBS, irritable bowel syndrome; SUDD, symptomatic uncomplicated diverticular disease.
+aSUDD vs IBS: P < 0.012; SUDD vs controls: P < 0.001.
+
+Correlation between muscle thickness and pain evoked by compression
+A significant correlation was found between the degree of muscular thickness and the extent of differential pain between the sigmoid and other sites (r = 0.308; P = 0.001). In particular, the correlation between these 2 variables was significant only for patients with SUDD (r = 0.460; P = 0.01), but not for those with asymptomatic diverticulosis (r = −0.072; P = 0.865), for those with IBS (r = 0.220; P = 0.379), for patients with unclassifiable pain (r = 0.203; P = 0.319), and for controls (r = −0.054; P = 0.828).
+
+Diagnostic accuracy of IUS in detecting the presence of sigmoid diverticula
+In 50 of 118 subjects examined (42.4%), sigmoid diverticula were detected by the reference standard (endoscopy or virtual colonoscopy). IUS correctly detected the presence of diverticula in 48/50 patients with 2 false negatives (sensitivity 96.0%) and correctly excluded their presence in 67 of 68 cases with 1 false positive (specificity 98.5%), demonstrating a positive predictive value of 97.9% and a negative predictive value of 97.1% (Table 4).
+
+Table 4. - Diagnostic accuracy of intestinal ultrasound (IUS) in detecting diverticula of the colon
+IUS+	IUS−	Total
+Diverticula+	48 TP	2 FN	50
+Diverticula−	1 FP	67 TN	68
+Total	49	69	118
+Sensitivity (TP/S+)	96%	Specificity (TN/S−)	98.5%
+PPV (TP/total+)	97.9%	NPV (TN/total−)	97.1%
+FN, false negative; FP, false positive; IUS, intestinal ultrasound; NPV, negative predictive value; PPV, positive predictive value; TN, true genative; TP, true positive.
+
+DISCUSSION
+Colonic DD is frequent in the general population, is widely present in many countries, and is responsible for significant medical burden and increased health costs (19,20). However, its diagnosis is still controversial and lacking a definite gold-standard method (1). Conventional and virtual colonoscopy certainly represent the most accurate investigations for the diagnosis of colon diverticula; the former also may offer some insights on the prediction of the clinical outcome (21). However, because of their invasiveness and high costs, their use is not recommended as the first-choice diagnostic method for the sole purpose of detecting the presence of diverticula (1).
+
+The ideal diagnostic method for DD should not only be able to detect the presence of diverticula but also to identify this condition as the cause of the patient's symptoms and possibly some associated pathophysiological conditions such as visceral hypersensitivity, abnormalities of the muscularis propria, increased inflammation of the intestinal wall, and the peri-intestinal mesentery (5–11,22,23). Indeed, under this light, IUS has become increasingly widespread for the diagnosis of DD (24,25). In fact, several of the above alterations that are clinically relevant can be evaluated by IUS, which is potentially able to assess the morphological abnormalities, such as the thickness of the muscularis propria, and the intensity of pain evoked by its compression.
+
+In this study, we evaluated the potential of IUS in identifying SUDD, differentiating it from IBS and unclassified abdominal pain. Ultrasound enabled us to observe that SUDD is characterized by a significantly higher thickness of the muscularis propria than that of subjects suffering from IBS and those with unclassifiable abdominal pain, regardless of age. On the other hand, this morphologic abnormality of the colonic muscle is a very specific characteristic of diverticulosis, widely reported in several studies (26–29). In particular, pathological and immunohistochemical studies have found that patients with DD have distinct structural and functional alterations of the enteric musculature such as increased thickness of the circular and longitudinal layer of the smooth muscle of the sigmoid colon, architectural alterations of colonic smooth muscle cells, increased connective tissue within the longitudinal muscular layer, focally reduced density of myofilaments, and oligoneuronal hypoganglionosis (30).
+
+Thus, it is not surprising that IUS can detect muscular thickening in these patients, whereas is conversely surprising that to date, there are no studies that evaluated the role of the muscularis in DD (particularly in patients with SUDD) using imaging methods, whereas there are only a few reports on its pathogenic relevance in IBS (31–33). Moreover, because of its noninvasiveness, IUS allows to examine some functional characteristics in real life, such as tenderness to elective compression.
+
+In fact, although all subjects included in the study (except asymptomatic controls) showed discrete tenderness to elective probe compression at sigmoid level, patients with SUDD displayed prevalent tenderness to compression on the sigmoid compared with other abdominal adjacent areas. In particular, the tenderness on sigmoid compression was prevalent in patients with SUDD compared with those with IBS, confirming previous literature reports based more on clinical experience than on scientifically validated data (34), but the differential pain score between the sigmoid colon and other sites was greater, although not significantly, in patients with SUDD compared with the other groups of patients. We also observed that the intensity of elective pain at the sigmoid level, expressed as differential pain score between this and other sites, was significantly correlated with the degree of thickness of the muscularis, and this was only documented in subjects with SUDD (r = 0.460), but not in subjects with asymptomatic diverticulosis, patients with IBS, and those with not unclassifiable pain. This observation was never previously reported in literature; we hypothesized that such pain may be related to the visceral hypersensitivity previously documented in these patients (11,22). This hypersensitivity might be related to the increase in neuropeptides found in mucosal biopsies of patients with SUDD, which could reflect resolution of a previous inflammation (35). However, this is still a controversial issue (36). On the other hand, the enhanced facilitatory control on tachykinergic contractile activity documented in these patients (7) and the abnormalities of factors controlling smooth muscle contractility found in the colonic muscle (6) are likely among the factors involved in the abnormal sigmoid motility—related to the pain—documented in patients with SUDD (10).
+
+We want to stress that the possibility of IUS to diagnose patients with SUDD cannot ignore the accuracy of this investigation in detecting the presence of sigmoid diverticula. In this regard, we found a sensitivity of 96.0% and a specificity of 98.5%, with a positive predictive value of 97.9% and a negative predictive value of 97.1%. These results confirm the usefulness of IUS in the diagnosis of sigmoid diverticulosis, a finding observed over 15 years ago by Hollerweger et al (17) in a prospective study that included a sample of 60 patients. Using colonoscopy as a gold standard, the accuracy of the ultrasound examination showed a sensitivity of 85% and only 2 false positives in the diagnosis of left diverticulosis and pointed out that hypertrophy of the muscularis was present in most patients (17). Our results showed a greater sensitivity, likely correlated to the availability of equipment with greater image definition than those available 20 years ago.
+
+However, we must also acknowledge some limitations of this study. In fact, the results we obtained may have been somewhat biased because the population included in the study also included patients with previous acute diverticulitis and young control subjects, in whom the risk of sigmoid diverticula was respectively very high or very low and routine colonoscopy has been used as diagnostic gold standard. It is well known that the sensitivity of routine colonoscopy for diverticula, although driven by the symptoms of patients, is lower than that of barium enema or virtual colonoscopy (37,38). For this reason, the accuracy of ultrasound in the diagnosis of diverticula deserves to be re-evaluated in future ad hoc diagnostic studies.
+
+In conclusion, we showed that IUS can be a valid contribution to the diagnostic definition of SUDD. In particular, given its wide availability and the relative low cost, the technique could allow for the detection, in a noninvasive manner, of colonic DD, thereby reducing the economic burden and the discomfort of invasive or expensive methods such as colonoscopy, CT colonography, or CT. The ultrasound detection of diverticula, the measurement of a simple ultrasound parameter such as the thickness of the muscularis, and the quantification of the pain evoked at the elective compression of the sigmoid and of the neighboring structures in which the sigmoid is not detectable might therefore represent useful parameters to identify patients with SUDD and help in better defining the clinical picture.
+
+Thus, should these data be confirmed and validated in the future by larger prospective studies, the ultrasound evaluation of the sigmoid colon would represent a useful diagnostic tool for SUDD and characterize DD, to address the therapeutic approach in a more targeted manner and, possibly, also to provide useful prognostic information to estimate the risk and outcome of acute diverticulitis.

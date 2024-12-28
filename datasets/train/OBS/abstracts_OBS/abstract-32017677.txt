@@ -1,0 +1,6 @@
+Pregnancy Outcomes among Women Receiving rVSVΔ-ZEBOV-GP Ebola Vaccine during the Sierra Leone Trial to Introduce a Vaccine against Ebola.
+
+1/Little information exists regarding Ebola vaccine rVSVΔG-ZEBOV-GP and pregnancy. 
+2/The Sierra Leone Trial to Introduce a Vaccine against Ebola (STRIVE) randomized participants without blinding to immediate or deferred (18-24 weeks postenrollment) vaccination. Pregnancy was an exclusion criterion, but 84 women were inadvertently vaccinated in early pregnancy or became pregnant <60 days after vaccination or enrollment. 
+3/ Among immediate vaccinated women, 45% (14/31) reported pregnancy loss, compared with 33% (11/33) of unvaccinated women with contemporaneous pregnancies (relative risk 1.35, 95% CI 0.73-2.52). Pregnancy loss was similar among women with higher risk for vaccine viremia (conception before or <14 days after vaccination) (44% [4/9]) and women with lower risk (conception >15 days after vaccination) (45% [10/22]). No congenital anomalies were detected among 44 live-born infants examined. 
+4/These data highlight the need for Ebola vaccination decisions to balance the possible risk for an adverse pregnancy outcome with the risk for Ebola exposure.

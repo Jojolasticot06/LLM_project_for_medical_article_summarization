@@ -1,0 +1,9 @@
+Randomized Trial Comparing Left Colon Mucus Production Using Water vs Saline During Water Exchange Colonoscopy
+
+1/Introduction: Water-assisted colonoscopy increases left colon mucus production; however, the effect of saline on mucus production is unclear. We tested the hypothesis that saline infusion may reduce mucus production in a dose-related manner.
+
+2/Methods: In a randomized trial, patients were assigned to colonoscopy with CO 2 insufflation, water exchange (WE) with warm water, 25% saline, or 50% saline. The primary outcome was the Left Colon Mucus Scale (LCMS) score (5-point scale). Blood electrolytes were measured before and after saline infusion.
+
+3/Results: A total of 296 patients with similar baseline demographics were included. The mean LCMS score for WE with water was significantly higher than that for WE with saline and CO 2 (1.4 ± 0.8 [WE water] vs 0.7 ± 0.6 [WE 25% saline] vs 0.5 ± 0.5 [WE 50% saline] vs 0.2 ± 0.4 [CO 2 ]; overall P < 0.0001), with no significant difference between the 25% and 50% saline groups. The left colon adenoma detection rate (ADR) was highest in the 50% saline group, followed by the 25% saline and the water groups (25.0% vs 18.7% vs 13.3%), but the difference was not significant. Logistic regression showed water infusion as the only predictor of moderate mucus production (odds ratio 33.3, 95% confidence interval 7.2-153.2). No acute electrolyte abnormalities were documented indicating a safe modification.
+
+4/Discussion: The use of 25% and 50% saline significantly inhibited mucus production and numerically increased ADR in the left colon. Evaluation of the impact of mucus inhibition by saline on ADR may refine the outcomes of WE.

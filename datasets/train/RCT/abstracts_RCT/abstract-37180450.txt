@@ -1,0 +1,9 @@
+Antifungal prophylaxis with nebulized amphotericin-B in solid-organ transplant recipients with severe COVID-19: a retrospective observational study.
+
+1/COVID-19-associated pulmonary aspergillosis (CAPA) has emerged as a frequent complication in the intensive care unit (ICU). However, little is known about this life-threatening fungal superinfection in solid organ transplant recipients (SOTRs), including whether targeted anti-mold prophylaxis might be justified in 
+this immunosuppressed population. 
+2/We performed a multicentric observational retrospective study of all consecutive ICU-admitted COVID-19 SOTRs between August 1, 2020 and December 31, 2021. SOTRs receiving antifungal prophylaxis with nebulized amphotericin-B were compared with those without prophylaxis. CAPA was defined according the ECMM/ISHAM criteria. Sixty-four SOTRs were admitted to ICU for COVID-19 during the study period. One patient received antifungal prophylaxis with isavuconazole and was excluded from the analysis. Of the remaining 63 SOTRs, nineteen (30.2%) received anti-mold prophylaxis with nebulized amphotericin-B. 
+3/Ten SOTRs who did not receive prophylaxis developed pulmonary mold infections (nine CAPA and one 
+mucormycosis) compared with one who received nebulized amphotericin-B (22.7% vs 5.3%; risk ratio 0.23; 95%CI 0.032-1.68), but with no differences in survival. No severe adverse events related to nebulized amphotericin-B were recorded. 
+4/SOTRs admitted to ICU with COVID-19 are at high risk for CAPA. However, nebulized amphotericin-B is safe and might reduce the incidence of CAPA in this high-risk population. A randomized clinical trial to confirm these findings is warranted.
+

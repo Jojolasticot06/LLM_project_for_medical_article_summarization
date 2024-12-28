@@ -1,0 +1,13 @@
+Limosilactobacillus reuteri DSM 17938 supplementation and SARS-CoV-2 specific 
+antibody response in healthy adults: a randomized, triple-blinded, 
+placebo-controlled trial
+
+1/Studies have shown that probiotics can decrease the symptoms of respiratory tract infections as well as increase antibody responses following certain vaccinations. 
+2/We examined the effect of probiotic supplementation on anti-SARS-CoV-2 specific antibody responses upon SARS-CoV-2 infection as well as after COVID-19 vaccination. In this randomized, triple-blinded, placebo- 
+controlled intervention study with a parallel design, 159 healthy adults without prior SARS-CoV-2 
+infection or COVID-19 vaccination and any known risk factors for severe COVID-19 were randomly allocated into two study arms. The active treatment arm consumed a probiotic product containing a minimum of 1 × 108 colony-forming units of Limosilactobacillus reuteri DSM 17938 + 10 µg vitamin D3 twice daily for 6 months. The placebo arm consumed identical tablets containing only 10 µg vitamin D3. Anti-SARS-CoV-2 specific antibodies and virus neutralizing antibody titers were analyzed from blood samples collected at baseline, after 3 months, and after 6 months. 
+Differences in serum antibody titers between the two study arms were tested with independent t-test using log-transformed values. 
+3/In the intention-to-treat (ITT) analysis, SARS-CoV-2 infected individuals in the active treatment arm (n = 6) tended to have higher serum anti-spike IgG (609 [168–1480] BAU/ml vs 111 [36.1–1210] BAU/ml, p = 0.080) and anti-receptor binding domain (RBD) IgG (928 [212–3449] BAU/ml vs (83.7 [22.8–2094] BAU/ml, p = 0.066) levels than individuals in the placebo arm (n = 6). Considering individuals who were fully vaccinated with mRNA-based COVID- 19 vaccines, the active treatment arm (n = 10) exhibited significantly higher serum levels of anti- RBD IgA (135 [32.9–976] BAU/ml vs 61.3 [26.7–97.1] BAU/ml, p = 0.036) than the placebo arm (n = 7) 
+>28 days postvaccination. 
+4/Supplementation with specific probiotics might improve the long-term 
+efficacy of mRNA-based COVID-19 vaccines via enhanced IgA response.

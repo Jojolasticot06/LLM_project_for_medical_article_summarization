@@ -1,0 +1,9 @@
+Mediators of exercise maintenance after cardiac rehabilitation.
+
+1/PURPOSE: Exercise maintenance after completing phase II cardiac rehabilitation (CR) is challenging for many patients. A telephone-based maintenance intervention improved exercise participation compared with a control group at 12 months post-CR discharge. We examined the 6-month mediators of intervention effects on exercise.
+
+2/METHODS: In a randomized controlled trial, 130 patients who had completed CR (mean age: 63.6 [SD = 9.7] years, 20.8% female) were randomized to Maintenance Counseling (n = 64) or Contact Control (n = 66). Putative mediators examined the following: self-efficacy, behavioral processes of change, decisional balance index, social support for exercise, and enjoyment of exercise.
+
+3/RESULTS: Multiple mediation analyses showed that the intervention significantly increased social support from friends at 6 months but not the other constructs. Decreasing support from friends mediated greater exercise participation in Maintenance Counseling than in Contact Control at 12 months.
+
+4/CONCLUSIONS: Social support from friends functioned as a suppressor mediator for exercise maintenance among cardiac patients.

@@ -1,0 +1,10 @@
+Tofacitinib or adalimumab versus placebo: patient-reported outcomes from OPAL Broaden-a phase III study of active psoriatic arthritis in patients with an inadequate response to conventional synthetic disease-modifying antirheumatic drugs.
+
+1/OBJECTIVES: Tofacitinib is an oral Janus kinase inhibitor for treatment of psoriatic arthritis (PsA). We evaluated patient-reported outcomes (PROs) in patients with PsA refractory to ≥1 conventional synthetic disease-modifying antirheumatic drug (csDMARD-IR) and tumour necrosis factor inhibitor-naïve in a 12-month, phase III randomised controlled trial (OPAL Broaden [NCT01877668]).
+
+2/METHODS: Patients (N=422) received tofacitinib 5 mg or 10 mg twice daily, adalimumab 40 mg subcutaneously every 2 weeks or placebo advancing to tofacitinib 5 mg or 10 mg twice daily at month 3. Least squares mean changes from baseline and percentages of patients reporting improvements ≥minimum clinically important differences (MCID); and scores ≥normative values in: Patient Global Assessment of disease activity (PtGA), Pain, Patient Global Joint and Skin Assessment (PGJS), Short Form-36 Health Survey version 2 (SF-36v2), Functional Assessment of Chronic Illness Therapy-Fatigue (FACIT-Fatigue), EuroQol 5-Dimensions-3-level questionnaire (EQ-5D-3L) and Ankylosing Spondylitis 
+Quality of Life (ASQoL) were determined. Nominal p values were cited without multiple comparison adjustments.
+
+3/RESULTS: At month 3, PtGA, Pain, PGJS, FACIT-Fatigue, EQ-5D-3L, ASQoL and SF-36v2 Physical Component Summary (PCS), physical functioning (PF), bodily pain (BP) and vitality domain scores exceeded placebo with both tofacitinib doses (p≤0.05); SF-36v2 social functioning with 5 mg twice daily (p≤0.05). Percentages reporting improvements ≥MCID in PtGA, Pain, PGJS, FACIT-Fatigue, ASQoL and SF-36v2 PCS, PF, BP and general health scores exceeded placebo with both tofacitinib doses (p≤0.05) and were similar with adalimumab.
+
+4/CONCLUSION: csDMARD-IR patients with active PsA reported statistically and clinically meaningful improvements in PROs with tofacitinib compared with placebo at Month 3.

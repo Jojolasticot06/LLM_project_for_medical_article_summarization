@@ -1,0 +1,26 @@
+Local budesonide therapy in the management of persistent hyposmia in suspected 
+non-severe COVID-19 patients: Results of a randomized controlled trial.
+
+1/OBJECTIVES: Consequences of COVID-19 on olfactory functions remained unclear 
+during the pandemic. We assessed the efficacy of local budesonide in addition to 
+olfactory rehabilitation when managing non-severe COVID-19 patients with 
+persistent hyposmia.
+
+2/METHODS: A multicentric, randomized, superiority trial was conducted 
+(ClinicalTrials.gov NCT04361474). The experimental group (EG) received 
+budesonide and physiological saline nasal irrigations administered via three 
+syringes of 20 ml in each nasal cavity in the morning and evening for 30 days. 
+The control group (CG) received a similar protocol without budesonide. Patients 
+were included if they were >18 years old, with a SARS-CoV-2 infection and 
+presenting an isolated hyposmia persisting 30 days after symptom onset. The 
+primary endpoint was the percentage of patients with improvement of more than 
+two points on the ODORATEST score after 30 days of treatment.
+
+3/RESULTS: In total, 123 patients were included and randomized (EG: 62 vs CG: 61). 
+Two patients from the EG met the primary endpoint with no statistical difference 
+between the two groups (P = 0.5).
+
+4/CONCLUSION: To our knowledge, this is the first study evaluating local 
+budesonide for COVID-19 related hyposmia treatment even though previous trials 
+were performed with other local corticosteroids. Local budesonide efficacy was 
+not demonstrated for persistent hyposmia related to COVID-19.

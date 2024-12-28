@@ -1,0 +1,35 @@
+BACKGROUND: After amputation, many people become less active, feel lonely and 
+lose independence. Understanding the factors associated with low physical 
+activity levels and participation could contribute to defining key interventions 
+which can support prosthesis users so they can live a more active and socially 
+included lifestyle. This longitudinal observational study aims to assess 
+relationships between physical activity, community participation, prosthetic 
+fit, comfort and user satisfaction using actimetry, 3D scans and questionnaires 
+in a Cambodian cohort of established lower limb prosthesis users.
+METHODS: Twenty participants (5F:15M, nine transfemoral, eleven transtibial, 
+24-60 years old and 3-43 years since amputation) were recruited. They completed 
+a questionnaire which included their demographics, community participation, 
+prosthesis satisfaction and comfort at the start of the study, and between three 
+and six months later. Their prosthetic sockets and residual limbs were 3D 
+scanned at the start and end of the study. Accelerometers were embedded under 
+the cosmesis on the shank of the prosthesis, to collect ten weeks of activity 
+data.
+RESULTS: Participants averaged 4470 steps/day (743-7315 steps/day), and wore 
+their prosthesis for most waking hours, averaging 13.4 h/day (4.5-17.6 h/day). 
+Self-reported measures of activity and hours of wear correlated with these 
+accelerometer data (Spearman's rho rs = 0.59, and rs = 0.71, respectively). 
+Participants who were more active wore their prosthesis for more hours/day 
+(Pearson r = 0.73) and were more satisfied with socket fit (rs = 0.49). A longer 
+residual limb correlated with better community participation (rs = 0.56) and 
+comfort (rs = 0.56). Self-reported community participation did not correlate 
+with a person's activity level (rs = 0.13), or their prosthesis comfort 
+(rs = 0.19), and there was only weak correlation between how important the 
+activity was to an individual, and how often they participated in it 
+(rs = 0.37). A simple 0-10 scale of overall comfort did not provide enough 
+detail to understand the types and severity of discomfort experienced.
+CONCLUSION: Associations between perceived and measured activity levels 
+correlated with socket satisfaction in this cohort of people with established 
+lower limb amputations. The small sample size means these correlations should be 
+interpreted with caution, but they indicate variables worthy of further study to 
+understand barriers to community engagement and physical activity for prosthesis 
+users in Cambodia, and potentially in other settings.

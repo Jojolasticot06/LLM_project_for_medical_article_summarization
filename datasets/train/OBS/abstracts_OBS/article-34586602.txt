@@ -1,0 +1,124 @@
+1 Introduction
+Severe asthma encompasses a heterogeneous group of patients, with an estimated prevalence of 7.7% among individuals with asthma [1], which implies a substantial use of healthcare resources. There is an increasing consensus that the control of severe asthma is a major unmet need. The ERS/ATS task force defines severe asthma as a disease that, after asthma diagnosis is confirmed and co-morbidities addressed, requires treatment with high-dose inhaled corticosteroids plus a second controller and/or systemic corticosteroids to prevent it from becoming uncontrolled, or that remains uncontrolled despite this therapy [2,3,4].
+
+Knowledge of the pathophysiology of severe asthma has improved during the last decade, and significant contributions on characterizing phenotypes have emerged from severe asthma cohorts and patient registries [5,6,7]. Adequate identification and management of these patients is key to preventing disease exacerbations and improving health-related quality of life. In this sense, the identification of eosinophilic asthma patients, which represent most of the type 2 asthma patients, is undoubtedly an increasingly relevant aspect of the asthma therapeutic approach [5, 8].
+
+Mepolizumab, the first approved anti-IL-5 monoclonal antibody, binds to and blocks IL-5, a key factor in the regulation of the growth, differentiation, activation and survival of eosinophils. Several clinical trials have shown its efficacy in reducing exacerbations (MENSA) and oral corticosteroid use (OCS) (SIRIUS), and improvement in quality of life (QoL), asthma control and lung function (MUSCA) [9,10,11]. It has also been shown to be effective as an alternative therapy for a group of patients not optimally controlled on omalizumab (OSMO) [12]. However, whilst the efficacy of mepolizumab is well documented, real-life data from independent sources on its effectiveness are currently limited, although growing through case series and global cohorts [13, 14]. Also, several single-centre real-life studies have shown evidence of the effectiveness of mepolizumab [15,16,17,18]. Moreover, the stringent selection criteria adopted by clinical trials in general and by monoclonal antibody development programs in severe asthma are highly restrictive [19].
+
+The threshold of peripheral blood eosinophils at which anti-IL5 drugs are effective has been widely discussed in the literature. Pivotal studies and post hoc analyses of these studies show that mepolizumab is effective at eosinophil values of 150 cells/µL and above. Whether these benefits are also maintained in real life is of interest [9].
+
+As a result, we conducted a study to comprehensively evaluate the REal-worlD Effectiveness and Safety of mepolizumab in severe eosinophilic asthma (SEA), the REDES study. REDES incorporates two aspects: a prespecified stratification by blood eosinophil counts for outcomes analysis, and the fact that it has been performed in a Southern European patient population.
+
+2 Methods
+2.1 Design and Study Population
+We conducted a phase IV, multicentric observational cohort study of severe eosinophilic asthma patients treated with mepolizumab across 24 geographically distributed Asthma Units in Spain. Sites were selected using a standard feasibility questionnaire ensuring they met the minimum relevant criteria for the study endpoints and geographic representativeness. Investigators needed to have followed up severe asthma patients regularly (i.e., every 6 months) for 12 months before mepolizumab initiation and at least 12 months after that date.
+
+Investigators consecutively enrolled all eligible patients who met the inclusion criteria (Online Supplementary Material (OSM), Fig. 1). Data were retrospectively collected from patients’ clinical records between December 2019 and July 2020 over an 8-month period.
+
+Fig. 1
+figure 1
+Patient flowchart
+
+Full size image
+Key inclusion criteria were a diagnosis of severe eosinophilic asthma in individuals aged ≥ 18 years, with at least 12 months since the start of mepolizumab treatment, regardless of their treatment continuation at data inclusion time, with a regular follow-up since treatment initiation (at least every 6 months), and the availability of continuous follow-up information in the 12 months before the introduction of mepolizumab. The key exclusion criteria were participation in an interventional asthma study in the 12 months prior or after initiating mepolizumab and missing key clinical information to define the primary endpoint.
+
+2.2 Outcome
+The primary outcome was the annual rate of clinically significant asthma exacerbations. These were defined as those exacerbations requiring the administration of a systemic corticosteroid for at least 3 days (or doubling the dose in patients on maintenance OCS), or if the patient had visited an emergency department or was hospitalized. Exacerbation rates in the 12 months before and after mepolizumab initiation were compared, and the percentage of reduction was calculated. For patients who discontinued treatment before the 6-month or 12-month timepoint, their last available measurement during treatment was used for the endpoint analyses. Two stratifications were carried out to baseline eosinophil levels: by ranges (< 150 eosinophils/μL, ≥ 150 eosinophils/μL and < 300 eosinophils/μL, ≥ 300 eosinophils/μL and < 500 eosinophils/μL and ≥ 700 eosinophils/μL at treatment initiation) and by lower thresholds: ≥ 150 eosinophils/µL, ≥ 300 eosinophils/µL , ≥ 500 eosinophils/µL and ≥ 700 eosinophils/µL at treatment initiation).
+
+2.3 Study Measurements
+Secondary outcomes included pre- and post-bronchodilator spirometric tests, compared at 6 months and 12 months after mepolizumab treatment to baseline values, changes in the number of eosinophils pre-/post-treatment were also assessed. In patients receiving a maintenance OCS dose at the time of mepolizumab initiation, changes in the average OCS daily maintenance dose were calculated pre-/post-mepolizumab treatment. Symptom control was assessed using the Asthma Control Test (ACT) at baseline, at 6 months, and at 12 months after treatment initiation. Scores at 6 months and 12 months after mepolizumab treatment were compared to baseline.
+
+We investigated the effect of baseline eosinophil count on exacerbations, ACT, and lung function following mepolizumab treatment. For this, patients were grouped according to their baseline blood eosinophil counts (≥ 150 cells/μL, ≥ 300 cells/μL, ≥ 500 cells/μL and ≥ 700 cells/μL), and baseline blood eosinophil ranges (< 150 cells/μL, 150–299 cells/μL, 300–499 cells/μL, 500–699 cells/μL and ≥ 700 cells/μL).
+
+Safety was assessed by the collection and description of drug-related adverse events (AEs) during the study. The investigators determined the relationship of the AE to mepolizumab.
+
+2.4 Sample Population Size Calculation
+The study sample size was calculated according to the primary objective, the change in the number of exacerbations. A power analysis based on data from the COSMOS (MEA115661) open-label 1-year extension study was used to calculate the minimum sample size to measure a change in asthma exacerbation rate in real life. Patients on placebo during the MENSA study (MEA115588) experienced a 42% exacerbation reduction during COSMOS, from 1.9 exacerbations/year to 1.1 exacerbations/year. The power analysis considered a sample size of 350, after assuming 10% of missing data, meaning that we would need to include 320 patients. A one-sided test and alpha = 0.05 showed that a sample of 320 patients had almost 100% power to detect the above-mentioned change in exacerbations.
+
+2.5 Statistical Analysis
+For the description of continuous variables, the mean (with 95% CI), median, standard deviation (SD), interquartile range (IQR), minimum and maximum values were used. For the description of categorical variables, number and percentage within categories with 95% confidence intervals (CIs) were calculated. A paired two-tailed t-test was used for comparison of before/after periods for continuous variables and the McNemar test for categorical variables. To compare more than two groups, ANOVA was used. Exacerbation rates were modelled using a Poisson model, adjusted for treatment duration. A statistical significance level of 0.05 was used. All analyses were done using SAS version 9.2.
+
+3 Results
+3.1 Overall Baseline Characteristics
+In total, 321 patients were enrolled, and 318 patients were eligible for the study. Three patients were excluded due to incomplete information on the study primary endpoint. There were no losses to follow up. The mean (SD) age of the population was 56.5 (12.5) years. The gender distribution showed a predominance of women (n = 220, 69.2%) (Table 1). The mean (SD) body mass index (BMI) was 28.6 kg/m2 (5.50), and 72.8% of patients (n = 230) were overweight, obese or severely obese. Nasal polyposis was present in 147 patients (46.2%), and allergic asthma was present in 193 patients (60.7%). The diagnosis of allergic asthma was clinical and not always supported by allergy testing. Atopic sensitization was recorded in 131 patients, of which dust mites were the most common (53.9% prick test and 45.3% specific IgE). Daily OCS maintenance therapy was used by 98 patients (30.8%), and the mean (SD) dose was 12.1 mg/day (10.0). Most patients (84.9%, n = 237) had poor asthma control at baseline (ACT score < 20). Of the patients included in the study, 91.8% presented some co-morbidity, the most frequent being nasal polyposis (46.2%), followed by chronic rhinosinusitis (24.2%) and gastroesophageal reflux disease (GERD) (21.2%). Allergic rhinitis was recorded in 21.7% of the cases (Table 1).
+
+Table 1 Baseline overall characteristics of patients
+Full size table
+3.2 Previous Treatment
+A total of 121 (38.2%) of the patients were previously treated with omalizumab, and all of them switched to another biologic treatment due in most cases to a lack of effectiveness or inadequate control (95; 78.5%) (Table 1).
+
+At the time of the study visit, the mean duration of mepolizumab to discontinuation or to the date of the baseline visit (censored data) was 2.2 years. Two hundred and ninety-four (92.5%) of the patients continued to receive mepolizumab; three patients (0.9%) discontinued mepolizumab treatment 6 months, the main reason being inadequate control and adverse events (Table 2).
+
+Table 2 Clinical characteristics at baseline (mepolizumab initiation)
+Full size table
+3.3 Exacerbations
+For the primary endpoint, the number of exacerbations was significantly reduced by 77.5% during the year post-mepolizumab introduction (p < 0.001), which went from a mean (SD) of 4.5 (3.5) exacerbations per year during the pre-mepolizumab treatment period, to 1.0 (1.4) in the post-mepolizumab initiation period. All prespecified eosinophil subgroups reduced the mean number of exacerbations, irrespective of the eosinophil count (Fig. 2 and OSM Table 1). In the 12 months before mepolizumab treatment, a total of 91.8% (n = 292) of severe eosinophilic asthma patients had experienced an exacerbation. This proportion was significantly reduced to 49.4% (n = 157) in the post-mepolizumab period (p-value < 0.001), with 50.6% of patients experiencing no exacerbations during the 12 months post-initiation (OSM Table 2 and OSM Fig. 2).
+
+Fig. 2
+figure 2
+Mean number of total exacerbations 12 months pre- and post-mepolizumab initiation by baseline eosinophil sub-groups and thresholds
+
+Full size image
+Exacerbations that required an emergency department visit/hospitalization decreased by 79.4% from 1.6 (2.08) to 0.3 (0.8) (p-value < 0.001) (Fig. 3).
+
+Fig. 3
+figure 3
+Change in annual exacerbation rates pre- and post-mepolizumab initiation by exacerbation type. Three types of exacerbation types were considered: exacerbations requiring only corticosteroid, requiring emergency room (ER) visit and requiring hospitalization. Total exacerbations represent all exacerbations together, while exacerbations requiring ER/hospitalizations represent the sum of each individual category
+
+Full size image
+3.4 Lung Function
+Figure 4 illustrates the evolution of the mean forced expiratory volume in 1 s (FEV1) pre- and post-bronchodilator use according to the different blood eosinophil subgroups. Overall, the mean FEV1 increased by 10.4% and a mean (SD) of 0.21 L (0.46) (p < 0.001). Changes in lung function in terms of the mean pre- and post-bronchodilator FEV1 are shown in OSM Table 3.
+
+Fig. 4
+figure 4
+Mean and standard error for evolution of forced expiratory volume in 1 s (FEV1) pre- and post-bronchodilator use according to baseline eosinophil level. FEV1 before and after bronchodilators is expressed in (L) and as a percentage (%). The change in FEV1 represents the mean difference from baseline at 6 and 12 months
+
+Full size image
+3.5 Oral Corticosteroid Reduction
+A total of 98 patients required maintenance OCS treatment at baseline. Forty-three (47.8%) of these patients were able to discontinue OCS after 12 months (Fig. 5 and OSM Table 4), and the mean daily OCS maintenance dose decreased by 50.4% and 59.9% at 6 and 12 months, respectively, from 12.1 mg/day at baseline to 6 mg/day at month 6 and 4.9 mg/day at month 12 (Fig. 5 and OSM Table 4). The baseline OCS maintenance dose was high (≥ 7.5 mg/day) in 57.1% of OCS-treated patients (n = 56) and decreased to 32.3% (n = 30) and 28.9% (n = 26) at 6 and 12 months, respectively.
+
+Fig. 5
+figure 5
+Daily dose evolution of oral corticosteroid use (OCS; ranges and median daily dose of prednisone equivalent) in patients with maintenance corticosteroids at baseline. The left Y-axis represents the total percentages, which are based on the total number of patients with OCS treatment at baseline (n = 98). The right Y-axis represents the median OCS dose progression. The X-axis represents the three different assessment time points (baseline, 6 and 12 months). The colour gradients represent the OCS dose ranges, where the volume represents the percentage of patients within each range
+
+Full size image
+3.6 Symptom Control
+The ACT is a simple, patient-based, five-item tool for identifying patients with poorly controlled asthma, with a score that ranges between 5 and 25 [20]. A score ranging between 20 and 25 means that the patient is well controlled. A cut-off score of ≤ 19 indicates patients with poorly controlled asthma [21]. A score between 16 and 19 is considered partially controlled asthma; a score < 16 indicates the patient’s asthma is uncontrolled. The minimally important difference (MID) for the ACT was established at three points [22]. The mean (SD) ACT score at baseline was 14.1 (5.0) and increased by a mean (SD) of 6.1 and 6.7 (1.9) points after 6 and 12 months of follow-up, reaching a final score of 20.3 and 20.8, respectively. In 78.3% of patients, the pre-post difference was at least 3 points (p < 0.001) (Fig. 6 and OSM Table 4).
+
+Fig. 6
+figure 6
+Evolution from baseline in Asthma Control Test (ACT) scores after mepolizumab initiation. Evolution and change in the mean ACT scores over the three different assessment time-points (baseline, 6 and 12 months) according to blood eosinophil counts at baseline. ACT score > 19 indicates well-controlled asthma
+
+Full size image
+3.7 Blood Eosinophil Counts
+The population treated with mepolizumab in Spain was highly eosinophilic, with 39.3% of the study sample having values over 700 cells/µL. The overall mean (SD) baseline eosinophil count was 710.16 cells/µL (836.82), and treatment with mepolizumab reduced this to a mean (SD) of 124.74 (457.74) cells/µL (p < 0.001) at 12 months, representing an 82.4% reduction.
+
+3.8 Safety
+During the study period, nine patients (2.8%) out of the 321 registered AEs related to mepolizumab, reporting a total of 13 AEs related to mepolizumab (Table 3). The incidence of musculoskeletal and connective tissue disorders related to mepolizumab was 1.6%. No severe AEs related to mepolizumab were reported.
+
+Table 3 Adverse drug-related events
+Full size table
+The mean duration of mepolizumab until interruption or the date of data inclusion (whichever occurred first) was 2.2 years. At 6 months only three patients (0.9%) had discontinued mepolizumab due to inadequate control (n = 2) and AEs (n = 1). Treatment persistence was 98.1% (n = 312) at 12 months after mepolizumab initiation, and no further discontinuations due to AEs were observed.
+
+4 Discussion
+Based in a diverse and heterogenous population, real-life studies provide complementary information to randomized clinical trials, supporting clinical decision-making by further understanding the effectiveness of a drug in real-world conditions and a more personalized treatment approach. The REDES study included a heterogeneous population of 318 Spanish patients and a broad co-morbidity spectrum. It is striking that the percentage of allergic rhinitis is low (21%), with a percentage of the allergic population around 50%, compared to other studies that yield higher figures of up to 78% [20, 23]. The reason for the lower prevalence of rhinitis in REDES could be that, being a retrospective evaluation, mild rhinitis is often not recorded in medical records. The proportion of atopy was similar to that of MUSCA, and curiously, the proportion of nasal polyposis found in REDES was notably higher than the proportion found in the MUSCA trial [11]. The REDES study showed that mepolizumab was safe and effective in improving overall asthma control of severe eosinophilic asthma patients by significantly reducing severe exacerbations, OCS use and blood eosinophil counts, and improving lung function and asthma control scores (ACT). Significant improvements were evident by 6 months and persisted at month 12.
+
+The MENSA and MUSCA clinical trials demonstrated a clinically significant reduction in exacerbation rates by 53% and 58%, respectively [9, 11]. Within our sample, rates of clinically significant exacerbations were reduced during the mepolizumab treatment compared to the pre-mepolizumab period by 77.5%. The percentage reduction in exacerbations within our study was closer to what was observed within the French nATU (temporary use authorisation) early access program to mepolizumab, in which an 86.2% reduction was observed at 12 and 24 months [24]. Other studies, smaller in size, based on real-world data have reported similar reductions in exacerbations [25, 27,28,, 29]. This is relevant, as the frequency and severity of exacerbations has been associated with a decreased health-related quality of life [30, 31]. Real-world studies have also reported improvements in OCS use, lung function and asthma control in line with our findings [26, 28, 32].
+
+A relatively high number of patients switched from omalizumab to mepolizumab compared to other reports [33]. It should be noted that for a decade omalizumab was the only biologic on the market. This undoubtedly led to the testing of anti-immunoglobulin (Ig) E in severe patients in indications that would be questionable today.
+
+Mepolizumab clinical trial selection requirements concerning eosinophil peripheral blood counts were set at 150 cells/μL, with efficacy below this level remaining uncertain. However, low eosinophil counts (< 150 cells/μL) are often encountered in clinical practice and are likely due to OCS use, which reduce blood eosinophils to normal or low levels, despite persistence of eosinophilic inflammation in patients with severe asthma. REDES included a prespecified stratification by blood eosinophil counts, and within our study, individuals who had counts below 150 eosinophils/µL represented 7.9% of the population, who still received substantial benefit from mepolizumab add-on treatment. Overall, while there was an observed tendency for greater improvements at higher baseline eosinophil counts, exacerbations and lung function improvements were observed irrespective of the baseline eosinophil counts. These findings are consistent with a post hoc analysis of the MENSA and DREAM studies, in which reductions in exacerbation frequency were observed for individuals with eosinophil counts ≥ 150 cells/μL and are relevant for clinical practice given current guidelines recommend mepolizumab use for patients with eosinophil counts > 150 cells/μL [8, 34].
+
+Amongst the 98 patients who required maintenance OCS at the start of mepolizumab, 34.4% of them discontinued OCS by 6 months and 47.8% did so by 12 months. Overall, at 12 months post-mepolizumab, the mean OCS maintenance dose was reduced by 59.9%, in line with previous studies [24, 25]. Furthermore, 53.6% of patients who were initially treated with an OCS maintenance dose ≥ 7.5 mg/day were able to reduce their OCS dose below this mark, which is relevant in terms of reducing patients’ risk category and subsequent treatment to prevent glucocorticoid-induced osteoporosis according to the most recent guidelines (OSM Table 4) [33, 35]. While timewise dose reductions in clinical trials were achieved earlier, this is likely explained by a more conservative management approach and less frequent visits in real-world practice [10, 24].
+
+In line with previous studies, we found the frequency of drug-related adverse events was low. Additionally, treatment interruptions due to adverse events only occurred in one patient after 12 months [36].
+
+4.1 Strengths and Limitations
+Overall, the REDES study illustrates the management of severe eosinophilic asthma patients by asthma specialists in a real-world setting in Spain. Treatment recommendations were likely to guide prescription practices across participating sites through the therapeutic positioning report [37]. Additionally, treatment consensus guidelines on severe asthma management are followed among specialized asthma units in Spain and regularly updated [38].
+
+This study's main limitation is its retrospective data collection, which may be subject to missing data and time-varying confounders. To minimize this aspect, the centres participating had specialised dedicated asthma units, the majority of which had a formal accreditation by the Spanish Society of Pulmonology (SEPAR) or the Spanish Society of Allergy (SEAIC).
+
+Finally, the lack of a control group as part of the REDES study design must be considered in interpreting the safety data since this study uses pre-treatment as a comparison (baseline).
+
+5 Conclusions
+The REDES study helps advance patient care by providing useful information to guide clinical decision-making in patients with severe eosinophilic asthma. This real-life study of severe eosinophilic asthma patients treated with mepolizumab in Hospital Asthma Units of the Spanish National Health System confirms that mepolizumab was effective in reducing clinically significant exacerbations, improving lung function and decreasing OCS dependence and mean OCS dose irrespective of baseline blood eosinophil counts. The REDES study confirms in a real-life environment the benefits of mepolizumab in severe eosinophilic asthma patients.

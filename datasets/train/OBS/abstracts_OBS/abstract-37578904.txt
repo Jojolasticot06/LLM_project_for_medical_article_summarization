@@ -1,0 +1,29 @@
+BACKGROUND: Per- and polyfluoroalkyl substances (PFAS) are widely used, 
+environmentally ubiquitous, and stable chemicals that have been associated with 
+lower vaccine-induced antibody responses in children; however, data on adults 
+are limited. The drinking water from one of the two waterworks in Ronneby, 
+Sweden, was heavily contaminated for decades with PFAS from firefighting foams, 
+primarily perfluorohexane sulfonic acid and perfluorooctanesulfonic acid (PFOS). 
+Vaccination against SARS-CoV-2 offered a unique opportunity to investigate 
+antibody responses to primary vaccination in adults who had been exposed to 
+PFAS.
+OBJECTIVES: Our objective was to evaluate associations between PFAS, across a 
+wide range of exposure levels, and antibody responses in adults 5 wk and 6 
+months after a two-dose vaccination regime against SARS-CoV-2.
+METHODS: Adults age 20-60 y from Ronneby (n = 309, median PFOS serum level 
+47 ng/mL, fifth to 95th percentile 4 - 213 ng/mL) and a group with background 
+exposure (n = 47, median PFOS serum level 4 ng/mL) received two doses of the 
+Spikevax (Moderna) mRNA vaccine. The levels of seven PFAS were measured in serum 
+before vaccination. Serum immunoglobulin G antibodies against the SARS-CoV-2 
+spike antigen (S-Abs) were measured before vaccination and at 5 wk (n = 350) and 
+6 months (n = 329) after the second vaccine dose. Linear regression analyses 
+were fitted against current, historical, and prenatal exposure to PFAS, 
+adjusting for sex, age, and smoking, excluding individuals with previous 
+SARS-CoV-2-infection.
+RESULTS: PFAS exposure, regardless of how it was estimated, was not negatively 
+associated with antibody levels 5 wk [current PFOS: - 0.5% S-Abs/PFOS 
+interquartile range (IQR); 95% confidence interval (CI): - 8, 7] or 6 months 
+(current PFOS: 3% S-Abs/PFOS IQR; 95% CI: - 6, 12) after COVID-19 vaccination.
+DISCUSSION: Following a strict study protocol, rigorous study design, and few 
+dropouts, we found no indication that PFAS exposure negatively affected antibody 
+responses to COVID-19 mRNA vaccination for up to 6 months after vaccination.

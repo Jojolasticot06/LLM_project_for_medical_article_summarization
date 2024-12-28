@@ -1,0 +1,27 @@
+OBJECTIVE: The objectives of our study were to assess the association of 
+radiomic and genomic data with histology and patient outcome in non-small cell 
+lung cancer (NSCLC).
+METHODS: In this retrospective single-centre observational study, we selected 
+151 surgically treated patients with adenocarcinoma or squamous cell carcinoma 
+who performed baseline [18F] FDG PET/CT. A subgroup of patients with cancer 
+tissue samples at the Institutional Biobank (n = 74/151) was included in the 
+genomic analysis. Features were extracted from both PET and CT images using an 
+in-house tool. The genomic analysis included detection of genetic variants, 
+fusion transcripts, and gene expression. Generalised linear model (GLM) and 
+machine learning (ML) algorithms were used to predict histology and tumour 
+recurrence.
+RESULTS: Standardised uptake value (SUV) and kurtosis (among the PET and CT 
+radiomic features, respectively), and the expression of TP63, EPHA10, FBN2, and 
+IL1RAP were associated with the histotype. No correlation was found between 
+radiomic features/genomic data and relapse using GLM. The ML approach identified 
+several radiomic/genomic rules to predict the histotype successfully. The ML 
+approach showed a modest ability of PET radiomic features to predict relapse, 
+while it identified a robust gene expression signature able to predict patient 
+relapse correctly. The best-performing ML radiogenomic rule predicting the 
+outcome resulted in an area under the curve (AUC) of 0.87.
+CONCLUSIONS: Radiogenomic data may provide clinically relevant information in 
+NSCLC patients regarding the histotype, aggressiveness, and progression. Gene 
+expression analysis showed potential new biomarkers and targets valuable for 
+patient management and treatment. The application of ML allows to increase the 
+efficacy of radiogenomic analysis and provides novel insights into cancer 
+biology.

@@ -1,0 +1,128 @@
+Randomized clinical trial of BCG vaccine in patients with convalescent COVID-19: Clinical evolution, adverse events, and humoral immune response
+Introduction
+The Bacillus Calmette–Guérin (BCG) vaccine was developed over 100 years ago to prevent severe forms of tuberculosis in children [1]. Half a century later, the effect of BCG on modulating immunity was successfully used to treat non-muscle invasive bladder cancer [2]. As part of the Brazilian vaccination schedule, this vaccine is offered at birth [3], after which a small local lesion evolves into a vaccine scar in most cases. However, more severe local and systemic adverse events may occur [4].
+
+Regardless of the skin test result, BCG revaccination is not recommended because of the lack of evidence on its safety but has recently attracted interest due to its off-target effects in adults [5]. In addition, this vaccine was considered an option at the beginning of the pandemic caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) until the emergence of a specific vaccine [6].
+
+In this trial, we first hypothesized that BCG revaccination in coronavirus disease 2019 (COVID-19) convalescent adults is safe: the healing of COVID-19 symptoms is not prolonged, and new symptoms do not emerge. Further, we hypothesized that BCG could serve as an adjuvant to minimize damage from an already installed process, improve immune response, and enhance the efficacy of SARS-CoV-2 vaccination. Herein, we describe a phase III placebo-controlled clinical trial of 378 adults with convalescent COVID-19 randomized 1:1 to receive BCG and placebo.
+
+
+Materials and methods
+BATTLE clinical trial design
+This study is a multicenter, prospective, randomized (1:1, www.randomization.com), double-blind, parallel-group, placebo-controlled phase III clinical trial, approved by National Commission for Research Ethics (CONEP) under number 31049320.7.1001.5404. All participants signed an informed consent form authorizing the use of their data before participating in the study. This trial is registered with ClinicalTrials.gov, number NCT04369794 (COVID-19 BATTLE trial), and is funded by CAPES. The funders had no role in the design, conduct, analysis, or interpretation of data.
+
+Residents of the metropolitan region of Campinas (state of São Paulo, Brazil) were invited by phone to participate in the study between October 2020 and December 2021. Eligibility criteria were individuals older than 18 years of both sexes diagnosed with COVID-19 in the last 14 days by nasopharyngeal reverse transcription–quantitative polymerase chain reaction performed in outpatient settings of the Community Health Center (CeCom) of the State University of Campinas, UNICAMP (Campinas-SP, Brazil), and Paulínia Municipal Hospital, HMP (Paulínia-SP, Brazil).
+
+Exclusion criteria included contraindications to BCG administration (pregnant; immunosuppressed, including use of corticosteroids for a period longer than 3 months; transplanted; cancer; use of immunobiological or chemotherapy), or who did not understand or agree to provide informed consent.
+
+The established COVID-19 BATTLE trial protocol determined T0 as the day of randomization and injection application and T1, T2, T3, and T4 as 7, 14, 21, and >40 days after application, respectively. At T0, the patients were screened, and those eligible signed the informed consent and completed the established clinical questionnaire (based on Brazilian Ministry of Health 2014 guidelines, BRASIL, 2014) stored in the database software REDCap (v5.18.1-Vanderbilt University, USA), followed by the application of BCG or placebo.
+
+The patients’ questionnaire included the history of current disease, symptoms, and comorbidities as follows: hypertension (systolic blood pressure >139 mmHg or diastolic blood pressure >89 mmHg), obesity (body mass index >30 kg/m2), chronic pulmonary diseases (chronic obstructive pulmonary disease, chronic asthma, interstitial lung diseases, etc.), chronic sinusitis (chronic sinus inflammation >6 months), respiratory allergies, hemoglobinopathies, and autoimmune diseases. Other chronic diseases were classified under “other” and included the following: hypothyroidism, gastritis, depression, arthrosis, dyslipidemia, glaucoma, and so on.
+
+Administration of BCG vaccine or placebo
+Either 0.1 ml of BCG vaccine, Brazilian strain (Ataulpho de Paiva Foundation, FAP, Rio de Janeiro, Brazil) or Russian BCG-I strain (Serum Institute of India PVT LTD, Hadapsar, Pune, India), or 0.1 ml of 0.9% saline solution was intradermic injected into the deltoid area on the arm without a BCG scar for better monitoring of the emerging skin reactions.
+
+Allocation and concealment: one investigator prepared the injections and numbered them based on a predetermined list of randomized numbers. The syringes for placebo and BCG were identical, and the investigator who injected them and the patient were both blinded to the content.
+
+
+Symptoms monitoring
+Patients were monitored, and symptoms were characterized at day zero (randomization), 7, 14, 21, and >40 days. Symptom recovery and the emergence of new symptoms were analyzed.
+
+Evaluation of the vaccine dermic reaction and characterization of adverse events
+The standardized measurement of the dermal vaccine reaction was performed at T1, T2, T3, and T4 in millimeters using a ruler or measuring tape and recorded in a photo at a distance of 15–20 cm from the wound.
+
+Adverse reactions to vaccination were classified according to the World Health Organization and Epidemiological Surveillance Manual of Post-Vaccination Adverse Events [7].
+
+Detection of immunoglobulin G anti-SARS-COV-2 N protein
+For immunoglobulin G (IgG) anti-SARS-CoV-2 N protein and neutralizing antibody detection, venous blood was collected from four BD Vacutainer spray-coated K2EDTA tubes (12 ml) before the intervention (T0) and during the follow-up visits (T1, T2, T3, and T4). The tubes were centrifuged, and the plasma was separated.
+
+Detection of IgG in plasma samples was verified in 38 consecutive patients (n = 15 in the placebo group and n = 23 in the BCG group) by ELISA to detect IgG anti-SARS-CoV-2 N protein.
+
+After overnight incubation at 4°C in a 96-well microplate containing SARS-CoV-2 N protein (1 ug/ml) and washing with phosphate-buffered saline (PBS) 0.1% + Tween 20, the plate was blocked against nonspecific binding with PBS + 2% bovine serum albumin (BSA solution for 1 h at 37°C). After washing again, the plasma samples were diluted at 1:100 and added to the plate (100 µL/well). After incubation for 2 h at 37°C, the secondary antibody, anti-human IgG conjugated with horseradish peroxidase (1:30,000), was added for 1 h at 37°C. For the detection of antiviral IgG, tetramethylbenzidine (Thermo Scientific) was added, and after 3 min, the reaction was stopped with a solution of HCl (1N). The absorbance of the reaction was measured using a microplate reader at 450 nm. The assay was validated using positive (diagnosed patients) and negative (samples obtained from uninfected individuals before the pandemic) controls.
+
+Detection of neutralizing antibodies
+Plasma samples from the placebo group (n = 12) and BCG group (n = 11) were used to detect IgG at T0 and T4 to verify whether vaccination with BCG induces the production of neutralizing anti-SARS-CoV-2 antibodies in the long term. Neutralizing antibodies were detected using the SARS-CoV-2 Neutralization Antibody ELISA kit (Elabscience Biotechnology Inc., United States) precoated with recombinant human angiotensin-converting enzyme 2 (ACE2), according to the manufacturer's instructions.
+
+Statistical analysis
+Study sample size: the primary outcome of our study was the evaluation of symptom resolution in patients infected with SARS-CoV-2. To provide 80% power to detect a symptom difference of 13% between the groups using a type-I error of 0.05, 180 patients were required per group.
+
+The Wilcoxon rank-sum test (unpaired) was used to analyze continuous variables. Fisher's exact test was used for categorical analysis. A p-value of less than 0.05 was considered significant, and each test's significance was discussed based on context. Error bars in all figures represent one standard deviation unless otherwise specified. All statistical analyses were performed using R version 4.1.2 (1 November 2021) on the RStudio platform version “Ghost Orchid” Release (fc9e2179, 2022-01-04) and using the following packages: tidyverse, ggstatsplot, and janitor.
+
+
+Results
+A total of 2808 patients were approached by phone, of which 381 fulfilled the inclusion criteria and agreed to participate. Three patients were excluded due to comorbidities (immunocompromised state), leaving 378 for randomization (Fig. 1). The patients were randomized 13 days after symptom onset. The BCG vaccine was administered to 183 patients, and 195 patients received a placebo.
+Table 1 shows the characteristics and comorbidities of both groups. There were no significant differences in the symptoms at admission (T0). Most patients in both groups had BCG scars from childhood vaccination (94.5% of BCG and 93.3% of placebo, p = 0.67). In terms of comorbidities, there was a higher proportion of chronic pulmonary diseases (asthma, chronic obstructive pulmonary disease, etc.) than in the placebo group (6.6% vs. 2.1%, p = 0.039). There were no other significant differences in the comorbidities.
+Follow-up and major events
+Two patients from the BCG group and one from the placebo group were hospitalized in the first week following randomization, and one patient (BCG) died of COVID-19 complications. Two patients (both placebo) were hospitalized at week three. No other major adverse events were observed. No tuberculosis or disseminated BCGitis was reported.
+
+Adverse reactions
+The BCG group demonstrated no systemic adverse effect. Table S1 shows details of local skin reactions following injection.
+
+At the first visit (T1, 1 week after injection), the vast majority of patients in the BCG group presented with local erythema (n = 152, 86.4%) and some presented with papules (n = 111, 63.1%) or pustules (n = 16, 9.1%). Other reactions, such as mild pain at the injection site (n = 12, 6.8%) and local itching (n = 24, 13.6%), have also been reported. Late skin reactions (ulcers, crust, and scars) became common during the later visits.
+
+There were very few skin reactions in the placebo group: two local erythema, one papule, and one pustule.
+
+Symptom analysis
+In the symptom analysis, we endeavored to answer two questions.
+
+First, does BCG cause the development of new symptoms in patients infected with SARS-CoV-2? Second, does BCG impact the recovery time of already developed symptoms? For both questions, we excluded patients who did not fulfill all their follow-up visits; eight (4.3%) from the BCG group and nine (4.6%) from the placebo group were excluded.
+
+Acquiring new symptoms after injection
+To answer the first question, we assessed the development of new COVID-related symptoms in patients who did not have these symptoms at the time of injection. We counted new cases of each symptom weekly until the last follow-up (>4 weeks; average, 6 weeks).
+
+Table 2 shows the development of new symptoms in patients who did not show any symptoms on admission. Patients who did not have ageusia at the time of injection were significantly less likely to develop ageusia in the following weeks (seven new cases in 113 BCG recipients compared to 19 in 126 placebos, p = 0.036, number needed to treat [NNT] = 11.2). A similar pattern was observed in the development of new anosmia cases, but the difference was not statistically significant (10 new cases in 100 BCGs compared to 19 in 108 placebos, p = 0.16). In addition, there were no statistically significant differences in the development of other new symptoms between BCG and placebo.
+Recovery from COVID-19 symptoms after injection
+To answer the second question, we analyzed patients based on their symptoms at the time of injection and compared the symptom recovery process. This calculation showed a relapsing nature, particularly in the third week. In patients who complained of fatigue on admission, we saw a relapse in fatigue during the second week in the BCG group. However, in the placebo group, relapse was observed at the last visit (>4 weeks). In both groups, there were a few cases of diarrhea relapse during the second week and sore throat relapse during the third week. Both groups had an increase in headaches, arthralgia, myalgia, nausea, and nasal congestion in the third week (Table S2).
+
+We statistically analyzed the percentage of recovered symptoms in each group during the third week. There was no statistically significant difference in the percentage of healed cases between the two groups for any symptoms during the third week. We also compared the percentage of healed patients at the final visit for anosmia and ageusia because these two symptoms tend to heal slowly. A significantly higher number of BCG patients with anosmia and ageusia healed at the 6-week follow-up visit compared to placebo (anosmia: 83.1% vs. 68.7% healed, p = 0.043, NNT = 6.9; ageusia: 81.2% vs. 63.4% healed, p = 0.032, NNT = 5.6).
+
+We also calculated the changes in the number of symptoms per week (Fig. 2). The counting of symptoms shows that placebo and BCG overlap almost perfectly in terms of recovery from symptoms except on the second follow-up visit (T2, 14 days of randomization), where there was a slightly lower symptom count in the BCG group.
+Potentially non-COVID-related symptoms
+There were few non-COVID-19 symptoms.
+
+In the first-week visit (T1), four patients complained of mild dizziness (placebo), three of intense sweating (placebo), one of stomach pain (placebo), two of back pain (one BCG and one placebo), and one of palpitation (BCG).
+
+At the second-week visit (T2), two patients complained of abdominal pain (one BCG or placebo), one of general urticaria (placebo), three of back pain (one placebo and two BCG), one of photosensitivity (placebo), and three of dizziness (two placeboes and one BCG).
+
+Third-week visit (T3): two patients complained of dizziness (both placebo), one of loss of appetite (placebo), and four of back pain (two placeboes, two BCG).
+
+Beyond 40 days visit (T4): two patients complained of dizziness (both placebo), two of back pains (both BCG), heartburn (BCG), two of pleuritic chest pains (both placebo), one of dysuria (placebo), and one of constipation (placebo).
+
+IgG quantification and neutralization assay
+We initially performed an ELISA assay to evaluate antiviral IgG antibodies against SARS-CoV-2 N protein in plasma samples from 24 BCG (vaccinated approximately 12 days following symptom onset) and 15 placebo recipients that were collected during follow-up visits on days 0, 7, 14, 21, and >40 days. Table S3 shows the characteristics and comorbidities and Table S4 shows the symptom evolution of each group.
+
+There was a borderline difference between the two groups regarding IgG titers on day 21 (Wilcoxon rank-sum test, p = 0.078, Fig. 3a,b). IgG fold induction was calculated as the IgG titer on the follow-up visit divided by the IgG titer on admission. There was a borderline difference in IgG fold induction between the BCG and placebo groups (all follow-ups compared together: Wilcoxon rank-sum exact test, p = 0.057). Daily comparison of the two groups, however, showed no significant difference.
+There was no significant difference between the two groups in antiviral IgG levels or neutralization, which was also evaluated in these plasma samples on admission and beyond 40 days (T4) (Fig. 3c,d). However, when neutralization was normalized by IgG titer (neutralization divided by IgG titer), there was a slight difference between the two groups in T4 (Wilcoxon rank-sum exact test, p = 0.189 and p = 0.053 after removing an outlier sample, Fig. 3e,f).
+
+
+Discussion
+The emergence of COVID-19 has forced the scientific community to develop new treatments and repurpose old treatments. Previous studies have shown that BCG protects infants and children against mortality from respiratory viral infections. BCG has also been shown to modulate the immune response against viruses in multiple studies [8, 9, 10, 11, 12]. Furthermore, since the beginning of our trial, a few retrospective studies have shown the possible protection against SARS-CoV-2 of old or new BCG vaccination in adults [13].
+
+A retrospective observational study of a diverse cohort of 6679 healthcare workers in Los Angeles, California, demonstrated that a history of BCG vaccination was associated with reduced COVID-19 related clinical symptoms (p = 0.017) as well as decreased seroprevalence of anti-SARS-CoV-2 IgG with an odds ratio of 0.76 (95% confidence interval: 0.57–0.99; p = 0.048). In addition, a BCG vaccination history has also been associated with decreased SARS-CoV-2 seroprevalence across a diverse cohort of healthcare workers [14].
+
+Using the results of this study in decision making
+In the case of making decisions for an individual adult regarding BCG revaccination, our data with an adequate sample size shows that BCG is possibly safe—BCG is unlikely to cause severe adverse effects in an adult with convalescent COVID-19 with mild symptoms. However, our data are not representative of severely ill patients or children with COVID-19. Our data are also insufficient to make large-scale decisions for an entire population; a sample size of 378 is adequate for individual decision making. However, rare adverse effects only emerge in large sample sizes, although BCG has been successfully used for the last 100 years. Furthermore, mortality in mild-to-moderate COVID-19 is very low, approximately 1 in 1300 [15]; therefore, our study should not be used for mortality analysis.
+
+Understanding the statistical analysis of the article
+One of the limitations of this study is that it performs too many statistical tests. The issue of multiple testing is straightforward: the more tests performed, the more likely it is to acquire a wrongly significant p-value by chance. However, our observations of anosmia and ageusia were repeated more than once in different tests, which reduced the probability of it being generated by chance. We also strongly urge the reader to have the issue of multiple testing in mind while poring through the result of the data; one easy way to adjust for this issue is to reduce the significant level of p-value so that the overall alpha error = 1 - (1 - a)m (where m is the number of tests in the symptomatology analysis -26 tests, and a is the new significant level for p-value) reaches an acceptable number for the reader (usually 0.05). We generally avoid having a clear cut-off for the significance of the p-value because statistical tests with small sample sizes are “suggestive of a trend” rather than clearly proving causality or association. Therefore, the results of each test must be carefully concluded in their context.
+
+SARS-CoV-2 was mutated in the old coronavirus family in 2019. One of the specific changes resulting from mutations is the virus's high affinity and direct attack on protein/receptor ACE2, which is located in human olfactory neurons. According to previous studies, SARS-CoV-2 enters the body by interacting with the ACE2 receptors, causing anosmia and ageusia. Our study observed a connection between BCG vaccination and ACE2 receptors, faster recovery from anosmia and ageusia, and lower odds of developing ageusia following BCG immunization. These findings suggest that BCG reduces the chance of acquiring COVID-19, which is corroborated by previous studies [13, 16, 17, 18, 19]. Our study included many patients who presented with anosmia, ageusia, or both at the time of intervention (160 and 130, respectively, at T0). This robust sample size showed a statistically significant difference in recovery. Furthermore, these two symptoms tend to be less subjective than other COVID-19 symptoms.
+
+We also explored the in vitro interaction of a recombinant SARS-CoV-2 protein, and the synthetic ACE2 receptor in the presence of BCG stimulated plasma. In this assay, we evaluated the neutralization potential of plasma antibodies to inhibit the interaction between the SARS-CoV-2 SPIKE protein and the ACE2 receptor, which mimics a viral infection. In addition, we used this neutralization assay as an indicator of the homologous anti-SARS-CoV-2 humoral response since the assay was monoclonal.
+
+BCG did not significantly change the absolute antiviral IgG levels or the absolute neutralization activity in our small sample; however, we observed a trend toward reduction in the neutralization normalized by IgG level (neutralization divided by IgG titer), which may indicate that the serum of BCG-injected patients had the same capacity to neutralize the virus. However, a higher antibody concentration was needed to achieve the same neutralization percentage. Multiple studies have shown BCG to induce “heterologous” and “trained” immunity. It enhances the immune response to pathogens other than BCG (heterologous immunity). Moreover, it changes the behavior and trains part of the immune response that was previously considered innate (nonspecific cellular immunity that lacks the ability to learn). Therefore, the antiviral response following BCG injection might not be super specialized against the target protein because BCG-induced immune changes are nonspecific and generally shift towards the cellular response. This reduced specificity can cause a desirable outcome because secondary infections and constant mutation of the virus are the main threats to the host in SARS-CoV-2 infection. A small mutation in the virus can turn monoclonal antibodies blind to the virus, and if the majority of the immune system is occupied with one specific antigen, they might miss a mutated virus and opportunistic bacteria. Heterologous immune training with BCG is considered responsible for reduced mortality from different respiratory infections in BCG-vaccinated populations [11, 12, 20, 21].
+
+In a 2021 study by Garcia-Beltran et al. [22], neutralization capacity was decreased in severely ill COVID-19 patients, showing that it might be important not to lower such ability. However, it is not clear whether a lower neutralization capacity is the cause or association of poorer outcomes. In addition, the sample size for their assay was relatively small (similar to our sample) and mostly involved hospitalized or critically ill patients, compared to our sample of relatively healthy individuals.
+
+Long-term effects and future vaccination adjuvant
+Our recruited patients are under surveillance regarding the impact of BCG on post-COVID chronic symptoms and sequelae in the long-term follow-up. In the future, BCG should be used as an adjunct to vaccination to enhance the effect of the vaccine as previously shown [23, 24, 25] and protect against mutated strains; further studies with larger sample sizes are needed to analyze the effect of BCG on different types of vaccines first (mRNA vs. inactivated virus, etc.) and then proceed with analyzing the improvement of vaccine efficacy and its protection against mutated variations.
+
+Variability in response to BCG
+Several studies have shown variable host responses to BCG based on the strain of the vaccine or previous exposure to BCG vaccination and Mycobacterium species. Brazil is a tuberculosis-endemic region, with 100% expected to be vaccinated against BCG at birth. Our study subjectively reported previous BCG vaccination in infancy by visualizing the old scar (94% had a scar). BCG vaccine has proven safe irrespective of purified protein derivative skin reactivity or the interferon gamma release assay test, which expands the safety profile of BCG; once previous exposure to Mycobacterium has been used as a formal impediment parameter for BCG rechallenge [5, 26].
+
+Last but not least, BCG is a live vaccine made of different strains around the globe, and our study showed no significant difference when comparing Brazilian and Russian BCG-I strains regarding clinical evolution, severe adverse events, humoral immune response, and correlation with BCG vaccine lesion in the BATTLE trial (data not shown).
+
+
+Conclusions
+In adults with convalescent COVID-19, BCG rechallenge is safe and offers cross-protection against anosmia and ageusia with potential humoral response modulation. This strategy should be further explored to evaluate the vaccine potential for other COVID-19 variants.
+

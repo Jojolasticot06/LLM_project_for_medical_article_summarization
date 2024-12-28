@@ -1,0 +1,114 @@
+Radiofrequency ablation (RFA) is an effective and safe therapeutic option for colorectal cancer patients with lung metastases [1], [2], [3]. Computed tomography (CT) is the most widely accepted and accurate guidance technique for RFA [4], [5]. However, interventional radiology procedures performed under CT guidance convey several limitations, including a lack of real-time monitoring, the requirement for gantry tilting to make the pathway to the target lesion more accessible to the needle, a small gantry bore, limiting access for the anesthesiology and ablation tools, and difficulties performing double oblique ablation [6]. By contrast, the C-arm cone beam CT (CBCT) system is highly flexible, with the possibility of orienting the detector around the patients, and it provides three-dimensional reconstructed CT-like images and can be used for real-time fluoroscopy guidance [7], [8]. Needle planning software simplifies the ballistics and the needle placement procedure, even in the double-oblique pathway [9]. Furthermore, C-arm CBCT is carried out in a dedicated interventional radiology room, providing a full range of possibilities for intervention procedures and anesthetic care.
+
+The aim of this study was to assess the feasibility, safety and efficacy of RFA of lung metastases from colorectal cancer using C-arm CBCT guidance.
+
+Materials and methods
+Patient selection
+This single-center observational study was performed during August 2013 and August 2016 and included all consecutive patients with lung metastases from colorectal carcinoma referred for percutaneous ablation under C-arm CBCT guidance. This study was approved by our institutional review board. This article was written in accordance with the Research Reporting Standards for Percutaneous Thermal Ablation of Lung Neoplasms [10]. Patients were considered eligible for this study if they presented at least two lung metastases of colorectal carcinoma (< 3.5 mm in diameter) suitable for RFA (Fig. 1). Furthermore, all patients had to have had a stable disease status, according to the response evaluation criteria in solid tumors (RECIST) 1.1, for at least three months before ablation [11]. The decision to perform lung percutaneous ablation was taken during a multidisciplinary tumor board meeting, in accordance with the recommendations of our institution.
+
+
+Download : Download high-res image (881KB)
+Download : Download full-size image
+Figure 1. Sixty-five-year-old man with a single lung metastasis from colorectal cancer. Computed tomography (CT) revealed a 13 mm metastasis in the upper lobe of left lung. The metastasis remained stable on chemotherapy. The patient was referred for radiofrequency ablation (RFA) under C-arm CBCT guidance. A. CT image in the transverse plane before RFA shows a 13 mm lesion (arrow) in the superior left lobe. B. 18FDG PET CT examination before RFA shows high 18FDG uptake by tumor. C. CT image in the transverse plane shows initial C-arm CBCT image before RFA. The lung metastasis is located in the upper lobe of the left lung (star). Black arrow shows the double-lumen tracheal tube for selective bronchial intubation. D. CT image in the transverse plane shows the planned RFA probe path (green line). The pathway was set with the needle guidance software. E. CT image in the coronal plane using volume rendering reconstruction shows double-lumen tracheal tube in place. Black arrow indicates lateral hole used for selective ventilation. White arrow indicates left side branch of double-lumen tracheal tube allowing positive pressure insufflation in the left bronchus tract. F. CT image in the transverse plane show RFA probe placement within the lung metastasis. G. 18FDG PET-CT examination 6 months after RFA shows the ablation scar (arrow) with a small increase in diameter by comparison with the original tumor size. No 18FDG uptake is observed.
+
+Procedure
+All procedures were performed under general anesthesia, with the patient in supine or prone position, depending on the anatomical location of the lesion. We used a commercial angiographic C-arm CBCT system (Artis Zee®, Siemens Healthcare, Forchheim, Germany) and a workstation (X-workplace®, Siemens Healthcare) for real-time guidance. This system allowed a five-second C-arm CBCT rotational acquisition and volumetric image reconstruction. For each C-arm rotation, the area of interest was positioned in the system isocenter and, over a period of about 5 s, 248 projection images (50 frames/s) were acquired, with the motorized C-arm covering a 200° clockwise arc. During image acquisition, the imaging dataset was transferred to the reconstruction workstation X-workplace (Siemens Healthcare) for the automatic generation of volumetric data. The two-dimensional projection images were reconstructed by Feldkamp back projection into three-dimensional volumetric images with an isotropic resolution of 0.5 mm for a diameter of 250 mm and a 180 mm-long field of view (FOV) and a matrix size of 512 × 512 [12]. The dataset was then processed with iGuide® software. This software provided assistance for needle pathway planning and tumor targeting. One fiducial marker was placed on the target and another was placed on the entry point on the skin. These two markers thus defined a virtual pathway to the center of the tumor. We selected the shortest and safest needle pathway circumventing the lung bullae, interlobar fissures and pulmonary vessels. This virtual pathway was then imported onto the fluoroscopy screen as an overlay, within the appropriate c-arm angulations for a “bull's-eye view” and a “progress view”. A laser placed on the flat panel detector within the chosen prerequisite reference indicated the point of entry on the skin. The needle probe was then pushed through the skin to the target lesion, under real-time guidance by fluoroscopy imaging, first in a “bulls-eye” view and then in an orthogonal projection. C-arm CBCT controls were performed after the repositioning of each probe and after the opening of the RFA probe, to check that the probe was correctly positioned in the target.
+
+The anesthesiologist performed selective bronchial intubation with a double-lumen tube under general anesthesia to ensure zero breathing motion conditions [13]. The lobe carrying the tumor was excluded from ventilation and maintained fully inflated with 3 L/min oxygen and a continuous positive airway pressure (CPAP) valve, providing a mild positive pressure (3 cm of water). The contralateral lung was ventilated normally, with tidal volumes of 6 ml/kg, a respiratory rate of 14/min and a positive end-expiratory pressure of 5 cm of water.
+
+RFA was performed with 150–200 W generators (1500 Angiodynamics®, RITA Medical Systems, Queensbury, NY, USA) and adapted dispersive probe placed on the patient's thigh. On average, the procedure required an initial power setting of 35 W, which was gradually increased to obtain a temperature of 90 °C. Effective pain control after the ablation procedure was achieved with 10 ml of 7.5% ropivacaine (AstraZeneca, Wilmington, DE, USA) injected at the needle puncture site. At the end of the procedure, an additional C-arm CBCT acquisition was performed to rule out pneumothorax, hemothorax or parenchymal hemorrhage.
+
+Endpoints
+The primary objective of our study was to report the feasibility of percutaneous lung ablation under C-arm CBCT guidance. Feasibility was defined as the technical success of the correct placement of the ablation device in the target tumor. Ablation probe positioning time was measured in minutes from the first C-arm CBCT (before needle planning with iGuide® software) to the last C-arm CBCT assessing the correct placement of the ablation probe in the target allowing the ablation procedure itself. Probe repositioning was quantified as the count of probe manipulations required to reach the ideal position in the target. The number of C-arm CBCT acquisitions was defined as the cumulative number of C-arm CBCT acquisitions performed to achieve the procedure, including the control imaging at the end of the procedure. Ablation probe placement accuracy was measured as the distance (in mm) between the ideal probe tip placement in the target as defined with iGuide® software and the actual position of the probe tip in the tumor.
+
+The secondary objectives were to determine the safety and the success rate of the RFA procedure at 6 months by assessing the target tumor response. The safety was evaluated by the report of any adverse event using the common terminology criteria for adverse events V4.0 (CTCAE-V4.0) classification and radiation dose [14].
+
+Radiation dose was calculated as the total amount of radiation to which the patient was exposed during the entire RFA procedure. The total dose area product (DAP) for an individual patient was the sum of that attained at fluoroscopy and on C-arm CBCT scans over the course of the entire procedure. The DAP was converted into effective dose with a conversion factor [15]. The conversion factor used to calculate the effective dose from DAP was 0.17 mSv/Gy × cm2 [15].
+
+The target tumor response was assessed by CT using RECIST 1.1 criteria and F-18 fluorodeoxyglucose positron emission tomography combined with CT (18FDG-PET-CT) six months after the procedure, to evaluate the efficacy of RFA [16]. Overall success was defined as a significant decrease in standardized uptake value (SUV) on 18FDG-PET-CT at six months.
+
+Data collection
+For each patient, the EPR DxCare® findings (Medasys, Clamart, France) imaging examinations and reports were reviewed. The data collected included the indication for the procedure, patient age, medical history, ECOG status, number of chemotherapy regimens administered before RFA. Hospital stay duration after the ablation procedure, and subsequent complications were also registered.
+
+Statistical analysis
+Statistical analyses were performed with XLSTAT 2011.4.02 (Addinsoft, New York, NY). Values are reported as means (or medians) ± standard deviation (SD) and ranges. Student t test was used to compare the average SUVmax value before and after RFA. A P value < .05 was considered as statistically significant.
+
+Results
+From August 2013 and August 2016, 54 consecutive patients (32 men, 22 women) with a mean age of 63 ± 8 (SD) years (range: 51–81 years) and lung metastases from colorectal adenocarcinoma were referred for RFA procedure.
+
+A total of 56 RFA procedures were performed to treat a total of 56 lung metastases from colorectal adenocarcinoma. All lung metastases were stable according to the RECIST 1.1 criteria. Table 1 summarizes the baseline characteristics of the patients. Mean lung metastasis diameter was 25.6 ± 4.54 (SD) mm (range: 17–31 mm). Forty of the 56 tumors (71.4%) were located in lung parenchyma 3 cm away from major vascular or bronchial structure, 13/56 tumors (23.2%) were sub-pleural and 3/56 tumors (5.4%) were hilar within 1 cm margin from major vascular structures.
+
+Table 1. Baseline characteristics of 54 patients with 56 lung metastases from colorectal cancer.
+
+Baseline characteristics	Empty Cell
+Age (year)	63 ± 9 [51–87]
+Sex ratio	32 men/22 women
+ECOG performance status	
+ 0	49 (91%)
+ 1	5 (9%)
+Comorbidities	
+ Cardiac insufficiency	16 (30%)
+ Renal insufficiency	10 (19%)
+ Dyspnea (NYHA 1/2)	22 (41%)
+Pulmonary comorbidities	
+ Radiotherapy scar	2 (4%)
+ Emphysema	16 (30%)
+ Bronchiectasis	5 (9%)
+Previous thoracic treatment on the same side	
+ Radiotherapy	2 (4%)
+ Wedge resection	8 (15%)
+ Segmentectomy	7 (13%)
+Extra pulmonary metastases	
+ Liver	22 (41%)
+Number of chemotherapy regimens per patient, at ablation	
+ 1	9 (17%)
+ 2	25 (46%)
+ 3	18 (33%)
+ 4	2 (4%)
+ECOG: Eastern Cooperative Oncology Group; NYHA: New York Heart Association.
+
+
+All tumors were successfully reached with i-Guide® software guidance based on a 5 s acquisition by rotational C-arm CBCT. The ablation probe was safely inserted into the tumor after a median time of 10 min (range: 5–25 min). The median number of probe repositioning events per patient was 1 (range: 0–3) and the median number of C-arm CBCT acquisitions was 4 (range: 3–6). The accuracy of ablation probe placement in lung tumor before ablation was 2 ± 0.2 mm (range: 0–9 mm) (Table 2).
+
+Table 2. Procedure data in 56 lung metastases from colorectal cancer.
+
+Procedure data	Empty Cell
+Number of probe repositioning events	1 ± 0.69 [0–3]b
+Number of C-arm CBCT acquisitions	3.9 ± 0.7 [3–6]b
+Time taken to insert the probe correctly into the tumor (min)	10.11 ± 4.3 [5–25]a
+Accuracy of ablation probe placement (mm)	2 mm ± 0.2 [0–9]a
+Duration of ablation procedure (min)	34.6 ± 8.1 [25–50]a
+Power of ablation (W)	79.8 ± 8.3 [70–90]a
+Fluoroscopy time (s)	178 ± 53 [18–210]a
+Dose area product (μGy.m2)	15,244 ± 2103 [11,265–18,587]a
+Calculated effective dose (mSv)a	25.9a
+Procedural complications	
+ Pneumothorax	n = 7
+ Intercostal radiculopathy	n = 7
+Results are presented as mean (a) or median (b) ± SD [range]. C-arm CBCT: C-arm cone beam computed tomography.
+
+
+All lung metastases were treated in a single session. Two patients had two lung metastases, each were treated in a single session. In both patients, the lesions were located in different lobes on the same side. Both lesions were reached with the same technique, in each of these two patients. No additional complications were observed in either of these two procedures.
+
+Seven pneumothoraxes were observed, yielding a pneumothorax rate of 12.5% on a per procedure basis. Six pneumothoraxes occurred (CTCAE V4.0 Grade 2) at the end of the procedure and were managed medically and one pneumothorax (CTCAE V4.0 Grade 3) occurred during probe repositioning and required immediate percutaneous drainage with a 14-Fr Monaldi chest tube. In this patient, the RFA probe was nevertheless correctly positioned and RFA of lung metastasis was achieved. The chest tube was maintained in place with aspiration for the next 12 hours and was removed after six hours of clamping when a plain chest X ray confirmed resolution of pneumothorax. No deaths related to the procedure were observed either during the procedure or follow-up period.
+
+The median DAP and fluoroscopy time was 15,244.6 μGy × m2 (range: 11,265–18,587 μGy × m2) and 1.35 min (range: 0.3–3.5 min), respectively. The median effective dose was 25.9 mSv.
+
+All patients underwent CT examination and 18FDG-PET CT at six months after ablation. At 6 months, all lung metastases were considered with partial response. The mean tumor response rate was −30% on follow-up CT examination. In all patients, the 18FDG-PET-CT SUVmax has decreased significantly from 9.4 SUVmax ± 0.9 (SD) (range 2.3–18.7 SUVmax) at baseline to 0.9 SUVmax ± 0.4 (SD) (range 0.9–1 SUVmax) at six months follow-up (P < 0.001).
+
+Discussion
+Our results indicate that percutaneous RFA of lung tumor can be performed safely and effective under C-arm CBCT guidance. The technical success rate was 100% and no recurrences were detected at the six-month follow-up visit, confirming that needle placement was accurate enough to ensure effective tumor ablation.
+
+The accuracy of C-arm CBCT in our study is similar to that reported in previous studies. Lee et al. assessed the accuracy of C-arm CBCT in percutaneous transthoracic lung biopsy in a study involving 1108 patients [17]. The accuracy and sensitivity of this method were similar to those of CT-guided biopsy for small pulmonary nodules, even those less than 1 cm in diameter.
+
+Complication rate was low in our study. We observed only seven pneumothoraxes (12.5%) despite the positive pressure applied on the treated lung. Only one of these cases required drainage via a chest tube. These results compare favorably with those of published studies suggesting that pneumothorax occurs in 60% of procedures, with the need for chest tube placement in 4 to 12% [2], [18].
+
+In the present study, C-arm CBCT has several specific advantages. The mean time to reach the lesion was 10 minutes and the mean duration of RFA ablation was 33.5 min. The resulting radiation dose was lower than for classic guidance techniques. We found a median DAP of 15,244.6 μGy × m2 and a median effective dose of 25.9 mSv lower than those for CT and fluoro-CT guidance. Tsalafoutas et al. reported a mean duration of 75 mins, with patients exposed to a mean radiation dose of 35.3 mSv for lung percutaneous ablation under CT guidance [19]. The long time taken to position the needle correctly and the high dose of radiation result principally from the large number of CT acquisitions required to target and reach the lesion [19], [20].
+
+C-arm CBCT also has other advantages. CT is generally performed in a different room from interventional suite. The availability of CT scanners may be low for interventional radiology procedures when CT scanner is not fully dedicated interventions. The gantry of the CT scanner hinders access to the patient and the lesion. For example, recurrent targeting on the Z axis is limited under CT fluoroscopy guidance and the anesthetist has poor access to the airways, which may be dangerous, particularly for patients in the prone position. The combination of C-arm CBCT imaging and two-dimensional real-time fluoroscopy makes it possible to use needle-planning software, such as iGuide® [21]. The targets and needle pathways are planned on the basis of the CT-like volumetric information obtained, and the planning information is overlaid on fluoroscopy screen. This application allows an optimal double-oblique projection of C-arm CBCT, and accurate positioning of the needle into the tumor for ablation [22], [23]. The interventional radiologist responsible for carrying out the intervention can thus choose a safe needle pathway avoiding critical anatomical structures such as vessels or bullae [3].
+
+Breathing movements may be challenging for RFA of lung tumors. Reproducible apnea is required to reach the tumor correctly and safely and it is difficult to achieve the same degree of apnea reproducibly. Effective collaboration between the radiologist carrying out the intervention and the anesthesiology team is required. This challenge is rendered greater by the longer duration of acquisition and reconstruction for C-arm CBCT acquisition than for CT acquisition. The main consequence of this limitation is a high rate of motion artifacts on images [18]. Some teams have overcome this limitation by using respiratory gating linking the ventilator and diaphragm motion on fluoroscopy [16]. Other researchers have suggested the use of high-frequency jet ventilation to limit breathing movements [24]. Our anesthesiology team proposed a specific anesthesiology protocol using selective orotracheal intubation with double-lumen tube and single-lung ventilation, associated with the application of a positive pressure to the treated lung. This approach makes it possible to achieve full static expansion of the target lobe, without the need for apnea during C-arm CBCT acquisition.
+
+This study has some limitations. It is an observational study with no control arm. Most of the patients had small lung metastases, and C-arm CBCT guidance for the RFA of lung metastases should be evaluated for larger lesions to confirm the clinical success of this technique.
+
+In conclusion, C-arm CBCT guidance for RFA of lung metastasis from colorectal cancer is feasible and safe and constitutes a potentially useful alternative to conventional CT guidance, particularly for angular trajectories.

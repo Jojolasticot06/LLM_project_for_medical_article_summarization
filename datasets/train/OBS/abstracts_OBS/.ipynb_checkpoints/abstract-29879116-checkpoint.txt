@@ -1,0 +1,27 @@
+Selection pressure due to exposure to infectious pathogens endemic to Africa may 
+explain distinct genetic variations in immune response genes. However, the 
+impact of those genetic variations on human immunity remains understudied, 
+especially within the context of modern lifestyles and living environments, 
+which are drastically different from early humans in sub Saharan Africa. There 
+are few data on population differences in constitutional immune environment, 
+where genetic ancestry and environment are likely two primary sources of 
+variation. In a study integrating genetic, molecular and epidemiologic data, we 
+examined population differences in plasma levels of 14 cytokines involved in 
+innate and adaptive immunity, including those implicated in chronic 
+inflammation, and possible contributing factors to such differences, in 914 AA 
+and 855 EA women. We observed significant differences in 7 cytokines, including 
+higher plasma levels of CCL2, CCL11, IL4 and IL10 in EAs and higher levels of 
+IL1RA and IFNα2 in AAs. Analyses of a wide range of demographic and lifestyle 
+factors showed significant impact, with age, education level, obesity, smoking, 
+and alcohol intake, accounting for some, but not all, observed population 
+differences for the cytokines examined. Levels of two pro-inflammatory 
+chemokines, CCL2 and CCL11, were strongly associated with percent of African 
+ancestry among AAs. Through admixture mapping, the signal was pinpointed to 
+local ancestry at 1q23, with fine-mapping analysis refined to the Duffy-null 
+allele of rs2814778. In AA women, this variant was a major determinant of 
+systemic levels of CCL2 (p = 1.1e-58) and CCL11 (p = 2.2e-110), accounting for 
+19% and 40% of the phenotypic variance, respectively. Our data reveal strong 
+ancestral footprints in inflammatory chemokine regulation. The Duffy-null allele 
+may indicate a loss of the buffering function for chemokine levels. The 
+substantial immune differences by ancestry may have broad implications to health 
+disparities between AA and EA populations.

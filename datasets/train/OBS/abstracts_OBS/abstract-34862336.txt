@@ -1,0 +1,22 @@
+Neuropathic pain has long-term consequences in affective and cognitive 
+disturbances, suggesting the involvement of supraspinal mechanisms. In this 
+study, we used the spared nerve injury (SNI) model to characterize the 
+development of sensory and aversive components of neuropathic pain and to 
+determine their electrophysiological impact across prefrontal cortex and limbic 
+regions. Moreover, we evaluated the regulation of several genes involved in 
+immune response and inflammation triggered by SNI. We showed that SNI led to 
+sensorial hypersensitivity (cold and mechanical stimuli) and depressive-like 
+behavior lasting 12 months after nerve injury. Of interest, changes in 
+nonemotional cognitive tasks (novel object recognition and Y maze) showed in 
+1-month SNI mice were not evident normal in the 12-month SNI animals. In vivo 
+electrophysiology revealed an impaired long-term potentiation at prefrontal 
+cortex-nucleus accumbens core pathway in both the 1-month and 12-month SNI mice. 
+On the other hand, a reduced neural activity was recorded in the lateral 
+entorhinal cortex-dentate gyrus pathway in the 1-month SNI mice, but not in the 
+12-month SNI mice. Finally, we observed the upregulation of specific genes 
+involved in immune response in the hippocampus of 1-month SNI mice, but not in 
+the 12-month SNI mice, suggesting a neuroinflammatory response that may 
+contribute to the SNI phenotype. These data suggest that distinct brain circuits 
+may drive the psychiatric components of neuropathic pain and pave the way for 
+better investigation of the long-term consequences of peripheral nerve injury 
+for which most of the available drugs are to date unsatisfactory.

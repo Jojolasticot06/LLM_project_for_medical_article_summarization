@@ -1,0 +1,25 @@
+OBJECTIVE: The purpose of this investigation was therefore to verify whether the 
+ROX index is an accurate predictor of HFNC failure for COVID-19 patients treated 
+outside the intensive care unit (ICU) and to evaluate the validity of the 
+previously suggested threshold.
+DESIGN: Multicenter study. Retrospective observational analysis of prospectively 
+collected data.
+SETTING: 3 centres specialized in non-invasive respiratory support (Buenos 
+Aires, Argentina; Bolzano and Treviso, Italy). Patients treated outside the ICU 
+were analysed MEASUREMENTS: The variables to calculate the ROX index were 
+collected during the first day of therapy at 2, 6, 12 and 24 hours and then 
+recorded every 24 hours. HFNC failure was defined as escalation of respiratory 
+support to invasive mechanical ventilation (IMV) or death.
+MAIN RESULTS: A total of 35 (29%) patients failed HFNC and required intubation. 
+ROC analysis identified the 12-hour ROX index as the best predictor of 
+intubation with an AUC of 0.7916[CI 95% 0.6905-0.8927] and the best threshold to 
+be 5.99[Specificity 96% Sensitivity 62%]. In the survival analysis, a ROX value 
+<5.99 was associated with an increased risk of failure (p = 0008 log - rank 
+test). The threshold of 4,9 identified by Roca as the best predictor in 
+non-COVID patients, was not able to discriminate between success and failure 
+(p = 0.4 log-rank test) in our patients.
+CONCLUSIONS: ROX index may be useful in guiding the clinicians in their decision 
+to intubate patients, especially in patients with moderate ARF, treated 
+therefore outside the ICU. Indeed, it also demonstrates a different threshold 
+value than reported for non-COVID patients, possibly related to the different 
+mechanisms of hypoxia.

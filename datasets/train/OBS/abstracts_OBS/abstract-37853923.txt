@@ -1,0 +1,22 @@
+OBJECTIVE: To examine the daily course of, and factors associated with, 
+momentary fatigue after subarachnoid haemorrhage, and to explore subgroups of 
+patients with distinct diurnal patterns of fatigue.
+DESIGN: Observational study using ecological momentary assessment.
+SUBJECTS: A total of 41 participants with subarachnoid haemorrhage.
+METHODS: Patients with fatigue were included within one year post-onset. 
+Momentary fatigue (scale 1-7) was assessed with repeated measurements (10-11 
+times/day) during 7 consecutive days. Multilevel-mixed-model analyses and 
+latent-class trajectory modelling were conducted.
+RESULTS: Mean (standard deviation; SD) age of the group was 53.9 (13.0) years, 
+56% female, and mean (SD) time post-subarachnoid haemorrhage onset was 9.3 (3.2) 
+months. Mean (SD) momentary fatigue over all days was 3.22 (1.47). Fatigue 
+increased significantly (p < 0.001) over the day, and experiencing more burden 
+of fatigue and day type (working day vs weekend day) were significantly 
+(p < 0.05) associated with higher momentary fatigue. Three subgroups could be 
+distinguished based on diurnal patterns of fatigue. The largest group (n = 17, 
+41.5%) showed an increasing daily pattern of fatigue.
+CONCLUSION: Momentary fatigue in patients with subarachnoid haemorrhage 
+increases over the day, and diurnal patterns of fatigue differ between  
+participants. In addition to conventional measures, momentary measures of 
+fatigue might provide valuable information for physicians to optimize 
+personalized management of fatigue after subarachnoid haemorrhage.

@@ -1,0 +1,31 @@
+BACKGROUND: Microbiome dysbiosis can have long-lasting effects on our health and 
+induce the development of various diseases. Bronchopulmonary dysplasia (BPD) is 
+a multifactorial disease with pre- and postnatal origins including 
+intra-amniotic infection as main risk factor. Recently, postnatal pathologic 
+lung microbiota colonization was associated with BPD. The objectives of this 
+prospective observational cohort study were to describe differences in bacterial 
+signatures in the amniotic fluid (AF) of intact pregnancies without clinical 
+signs or risk of preterm delivery and AF samples obtained during preterm 
+deliveries and their variations between different BPD disease severity stages.
+METHODS: AF samples were collected under sterile conditions during fetal 
+intervention from intact pregnancies (n = 17) or immediately before preterm 
+delivery < 32 weeks (n = 126). Metabarcoding based approaches were used for the 
+molecular assessment of bacterial 16S rRNA genes to describe bacterial community 
+structure.
+RESULTS: The absolute amount of 16S rRNA genes was significantly increased in AF 
+of preterm deliveries and detailed profiling revealed a reduced alpha diversity 
+and a significant change in beta diversity with a reduced relative abundance of 
+16S rRNA genes indicative for Lactobacillus and Acetobacter while Fusobacterium, 
+Pseudomonas, Ureaplasma and Staphylococcus 16S rRNA gene prevailed. Although 
+classification of BPD by disease severity revealed equivalent absolute 16S rRNA 
+gene abundance and alpha and beta diversity in no, mild and moderate/severe BPD 
+groups, for some 16S rRNA genes differences were observed in AF samples. 
+Bacterial signatures of infants with moderate/severe BPD showed predominance of 
+16S rRNA genes belonging to the Escherichia-Shigella cluster while Ureaplasma 
+and Enterococcus species were enriched in AF samples of infants with mild BPD.
+CONCLUSIONS: Our study identified distinct and diverse intrauterine 16S rRNA 
+gene patterns in preterm infants immediately before birth, differing from the 
+16S rRNA gene signature of intact pregnancies. The distinct 16S rRNA gene 
+signatures at birth derive from bacteria with varying pathogenicity to the 
+immature lung and are suited to identify preterm infants at risk. Our results 
+emphasize the prenatal impact to the origins of BPD.

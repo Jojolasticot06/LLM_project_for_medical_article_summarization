@@ -1,0 +1,26 @@
+BACKGROUND: We aimed to evaluate the ability of diaphragmatic excursion at 
+hospital admission to predict outcomes in patients with coronavirus disease-2019 
+(COVID-19).
+METHODS: In this prospective observational study, we included adult patients 
+with severe COVID-19 admitted to a tertiary hospital. Ultrasound examination of 
+the diaphragm was performed within 12 h of admission. Other collected data 
+included peripheral oxygen saturation (SpO2), respiratory rate, and computed 
+tomography (CT) score. The outcomes included the ability of diaphragmatic 
+excursion, respiratory rate, SpO2, and CT score at admission to predict the need 
+for ventilatory support (need for non-invasive or invasive ventilation) and 
+patient mortality using the area under the receiver operating characteristic 
+curve (AUC) analysis. Univariate and multivariable analyses about the need for 
+ventilatory support and mortality were performed.
+RESULTS: Diaphragmatic excursion showed an excellent ability to predict the need 
+for ventilatory support, which was the highest among respiratory rate, SpO2, and 
+CT score; the AUCs (95% confidence interval [CI]) was 0.96 (0.85-1.00) for the 
+right diaphragmatic excursion and 0.94 (0.82-0.99) for the left diaphragmatic 
+excursion. The right diaphragmatic excursion also had the highest AUC for 
+predicting mortality in relation to respiratory rate, SpO2, and CT score. 
+Multivariable analysis revealed that low diaphragmatic excursion was an 
+independent predictor of mortality with an odds ratio (95% CI) of 0.55 
+(0.31-0.98).
+CONCLUSION: Diaphragmatic excursion on hospital admission can accurately predict 
+the need for ventilatory support and mortality in patients with severe COVID-19. 
+Low diaphragmatic excursion was an independent risk factor for in-hospital 
+mortality.

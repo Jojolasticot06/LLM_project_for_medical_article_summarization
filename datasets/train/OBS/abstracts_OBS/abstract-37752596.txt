@@ -1,0 +1,26 @@
+OBJECTIVES: The clinical significance of Stenotrophomonas maltophilia in 
+patients with COPD is poorly understood. We aimed to determine whether a lower 
+respiratory tract culture positive for S. maltophilia in COPD patients was 
+independently associated with increased risk of death and hospitalisation for 
+exacerbation of COPD.
+METHODS: An observational cohort study following outpatients with COPD in 
+Eastern Denmark between 2010 and 2018, with a follow-up period of five years. 
+Presence of S. maltophilia was treated as a time-varying exposure, where 
+patients were considered exposed at the time of the first isolation of S. 
+maltophilia from the lower respiratory tract. The hazard ratio (HR) of death and 
+hospitalisation for acute exacerbations of COPD was assessed using a Cox 
+proportional hazards regression.
+RESULTS: Of the total 22,689 patients 459 (2.0%) had a lower respiratory sample 
+positive for S. maltophilia. A total of 7,649 deaths (S. maltophilia positive: 
+243 (52.9%) and S. maltophilia negative: 7,406 (34.4%)) and 24,912 
+hospitalisations for exacerbation of COPD (S. maltophilia positive: 1,100 in 459 
+patients and S. maltophilia negative: 23,821 in 22,230 patients) were registered 
+during the study period. We found that a lower respiratory tract culture 
+positive for S. maltophilia was associated with both increased mortality: HR 3.3 
+(95% CI 2.6-4.3), and hospitalisation for exacerbation of COPD: HR 3.4 (95% CI 
+2.8-4.1).
+CONCLUSIONS: A lower respiratory tract culture positive for S. maltophilia in 
+COPD patients was associated with a substantially increased mortality and 
+hospitalisation for exacerbation of COPD. Randomised controlled trials are 
+proposed to determine whether S. maltophilia should be the target of antibiotic 
+treatment.

@@ -1,0 +1,31 @@
+OBJECTIVE: To assess oral HPV prevalence and factors associated with HR and 
+low-risk infection in a general US population.
+DESIGN, SETTING, AND PARTICIPANTS: PROGRESS (Prevalence of Oral HPV Infection, a 
+Global Assessment) was a cross-sectional observational study conducted between 
+November 2021 and March 2022 in 43 dental offices in the US (24 urban, 13 urban 
+cluster, and 6 rural sites), spanning 21 states. Eligible participants were aged 
+18 to 60 years, visiting dental clinics for routine dental examination. Dental 
+clinics used targeted sampling to recruit equal distributions of men and women 
+and across age groups.
+EXPOSURE: Participants provided an oral gargle specimen for HPV DNA and 
+genotyping and completed behavioral questionnaires, and dentists reported oral 
+health status. Detection of HPV DNA and genotyping was performed using the 
+SPF10/DEIA/LiPA25 system at a central laboratory.
+MAIN OUTCOME: Oral HPV prevalence.
+RESULTS: Of the 3196 participants enrolled, mean (SD) age was 39.6 (12.1) years, 
+and 55.5% were women. Oral HPV prevalence was 6.6% (95% CI, 5.7%-7.4%) for any 
+HPV genotype, and 2.0% (95% CI, 1.5%-2.5%), 0.7% (95% CI, 0.4%-1.0%), and 1.5% 
+(95% CI, 1.1%-1.9%) for HR, HPV-16, and 9-valent-HPV vaccine types, 
+respectively. Among HPV-positive participants, HPV-16 was the most prevalent 
+genotype (12.4% among men and 8.6% among women). Prevalence of HPV was higher in 
+men than women and highest among men aged 51 to 60 years (16.8%, 6.8%, and 2.1% 
+for any HPV, HR HPV, and HPV-16, respectively). Factors associated with HR oral 
+infection included being male (adjusted odds ratio [AOR], 3.1; 95% CI, 1.2-8.5), 
+being aged 51 to 60 years (AOR, 3.3; 95% CI, 1.5-7.3), having 26 or more 
+lifetime male sex partners (AOR, 6.5; 95% CI, 2.3-18.7), and having 6 to 25 
+lifetime female oral sex partners (AOR, 3.4; 95% CI, 1.3-8.7).
+CONCLUSIONS AND RELEVANCE: In this cross-sectional study, oral HPV burden was 
+highest among older men who may be at higher risk of developing oropharyngeal 
+cancer. In addition to male sex and older age, HR oral HPV infection was also 
+associated with sexual behaviors, including increasing number of male sex 
+partners and female oral sex partners.

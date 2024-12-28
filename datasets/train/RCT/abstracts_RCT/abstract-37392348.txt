@@ -1,0 +1,14 @@
+Intraoperative suggestions to prevent postoperative delirium in patients undergoing transaortic valvular replacement: a randomized placebo-controlled trial.
+
+1/BACKGROUND: Postoperative delirium (POD) is a serious complication following anaesthesia and surgery and significantly influences postoperative outcome especially in the elderly population. Intraoperative music and positive suggestions influence postoperative outcomes by attenuating analgesic demand and increasing patient satisfaction.
+AIMS: Here, we examined the effect of intraoperative music and positive suggestions on the development of POD in aged patients undergoing transcatheter aortic valve replacement (TAVR) procedure under general anaesthesia.
+
+2/METHODS: For this randomized placebo-controlled study, eligible patients without cognitive deficit, indicated by a MMSE < 10 points, were anesthetized using remifentanil and sevoflurane. Anaesthetic depth was guide with bispectral index. An audiotape with positive suggestions was applied from a MP3 player via headphones. POD, pain and PONV was assessed. CAM-ICU and Nu-DESC were done twice daily for the first 5 days.
+
+3/RESULTS: Of 140 patients 118 patients could be analysed (57 male, 80.6 ± 5.1 years). POD was diagnosed in 16 patients (12.7%). POD was significantly more often observed in male (12, 21.1%) than in female (4, 6.6%, p = 0.02) and in patients with a low MMSE (23.6 ± 4.5 vs. 26.8 ± 2.8, p = 0.001). Anaesthetic depth did not influence the incidence of POD. 
+Intraoperative music and suggestions did not affect the rate of POD, pain, analgesic requirement or PONV.
+DISCUSSION: In patients undergoing TAVR male sex and low MMSE scoring are 
+associated with an increase in POD.
+
+4/CONCLUSIONS: Intraoperative music and positive suggestions do not influence the 
+incidence of POD in this patient group.

@@ -1,0 +1,25 @@
+BACKGROUND: Bacterial meningitis (BM) is a rare but severe infection. Few 
+population-based studies have characterised BM episodes and sequelae over long 
+periods.
+METHODS: This was a population-based observational cohort study with national 
+coverage, using data on aetiological pathogens, sex, premorbid conditions, 
+steroid pretreatment, severe sequelae and birth, death and diagnosis dates 
+collected from 10,339 patients with BM reported to the National Board of Health 
+and Welfare in Sweden between 1964 and 2014.
+RESULTS: During the 50-year study period, the incidence of BM decreased in young 
+children, but not in the elderly. The most common cause of BM was pneumococci 
+(34%), followed by Haemophilus influenzae (26%), and meningococci (18%), mainly 
+community acquired. Premorbid conditions were found in 20%. After the H. 
+influenzae type b vaccine was introduced in 1993, the BM incidence decreased by 
+36%. Following pneumococcal conjugated vaccine introduction in 2009, the 
+incidence and 30-day mortality from pneumococcal meningitis decreased by 64% and 
+100%, respectively, in previously healthy children, and the 30-day mortality 
+decreased by 64% among comorbid adults. The BM incidence in immunosuppressed 
+patients increased by 3% annually post vaccine introduction. The 30-day 
+mortality was 3% in children and 14% in adults, and the rate of severe sequelae 
+was 44%. On average, patients lost 11 years of healthy life due to BM.
+CONCLUSION: The introduction of conjugated vaccines into the childhood 
+vaccination program has reduced the incidence of BM in young children, but not 
+in adults. Post vaccine introduction, patients present with more premorbid 
+conditions and other bacterial causes of BM, emphasising the need for a correct 
+diagnosis when treating these infections.

@@ -1,0 +1,35 @@
+BACKGROUND: Co-development alliances and capital-raising activities are 
+essential supports for biopharmaceutical innovation. During the initial outbreak 
+of the COVID-19, the level of these business activities has increased greatly. 
+Yet the magnitude, direction, and duration of the trend remain ambiguous. 
+Real-time real-world data are needed to inform strategic redirections and 
+industrial policies.
+METHODS: This observational study aims to characterize trends in global 
+biopharma innovation activities throughout the global pandemic outbreak. Our 
+extensive deal dataset is retrieved from the commercial database GlobalData 
+(12,866 partnership deals and 32,250 fundraising deals announced between 2011 
+and 2022). We perform Chi-squared tests to examine the changes in qualitative 
+deal attributes during and beyond the outbreak. Our deal-level sample is further 
+aggregated into category-level panel data according to deal characteristics such 
+as therapy area, molecule type, and development phase. We run a series of 
+regressions to examine how the monthly investment amount raised in each category 
+changed with the onset of the pandemic, controlling for the US Federal funds 
+rate.
+RESULTS: The temporary surge of partnership and capital-raising activities was 
+associated with the increase in infectious disease-related deals. Academic and 
+government institutions played an increased role in supporting COVID-related 
+co-development partnerships in 2020, and biopharma ventures had been securing 
+more investments in the capital market throughout 2020 and 2021. The partnership 
+and investment boom did not last till the later pandemic in 2022. The most 
+significant and enduring trend was the shifting focus toward discovery-phase 
+investments. Our regression model reveals that the discovery-phase fundraising 
+deals did not suffer from a bounce back in the late pandemic, consistent with a 
+persistent focus on early innovation.
+CONCLUSIONS: Despite the reduced level of partnership and fundraising activities 
+during 2022, we observe a lasting change in focus toward biopharmaceutical 
+innovation after the pandemic outbreak. Our evidence suggests how entrepreneurs 
+and investors should allocate resources in response to the post-pandemic tight 
+monetary environment. We also suggest the need for policy interventions in 
+financing private/public co-development partnerships and non-COVID-related 
+technologies, to maintain their research capacity and generate breakthroughs 
+when faced with unforeseen diseases.

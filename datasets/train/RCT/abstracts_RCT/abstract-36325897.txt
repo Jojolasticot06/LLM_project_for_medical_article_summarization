@@ -1,0 +1,9 @@
+Efficacy and Safety of Alirocumab in Children and Adolescents With Homozygous Familial Hypercholesterolemia: Phase 3, Multinational Open-Label Study
+
+1/Background: Despite progress in treating homozygous familial hypercholesterolemia, most patients do not achieve low-density lipoprotein cholesterol (LDL-C) targets. This study examined efficacy and safety of the PCSK9 (proprotein convertase subtilisin/kexin type 9) inhibitor, alirocumab, in pediatric patients (aged 8-17 years) with inadequately controlled homozygous familial hypercholesterolemia.
+
+2/Methods: In this open-label, single-arm, multinational, Phase 3 study, patients (n=18) received alirocumab 75 mg or 150 mg (bodyweight <50 kg/=50 kg) every 2 weeks as an adjunct to background treatment. The primary endpoint was percent change in LDL-C from baseline to Week 12. Secondary endpoints included changes in LDL-C and other lipid parameters up to 48 weeks, safety/tolerability, and alirocumab pharmacokinetics.
+
+3/Results: The mean age of patients was 12.4 years; 16/18 (89%) had mutations in the low-density lipoprotein receptor gene (LDLR) and 2/18 (11%) had mutations in the LDLR adapter protein 1 gene (LDLRAP1). At baseline, mean LDL-C (standard deviation) was 373.0 (193.5) mg/dL, which decreased by 4.1% at Week 12 (primary endpoint) and 11.4%, 13.2%, and 0.4% at Weeks 4, 24, and 48, respectively. At Week 12, 9/18 (50%) patients achieved LDL-C reductions =15%. Mean absolute LDL-C decreases ranged from 25 to 52 mg/dL over follow-up. A post hoc analysis demonstrated heterogeneity of responses according to genotype. There were no unexpected safety/tolerability findings. Free PCSK9 was reduced to near zero for all patients at Weeks 12 and 24.
+
+4/Conclusions: The study supports the efficacy and safety of alirocumab as a potential adjunct to treatment for some pediatric patients with homozygous familial hypercholesterolemia.

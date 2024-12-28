@@ -1,0 +1,24 @@
+PURPOSE: Prior research has shown a significant relationship between 6-minute 
+walking distance (6MWD) and health-related quality of life (HRQOL) in patients 
+with chronic obstructive pulmonary disease (COPD). However, few studies have 
+examined this relationship above and below the 350-m threshold that 
+prognosticates survival and whether serum biomarkers could provide insight into 
+the causes of quality-of-life differences above and below this threshold.
+METHODS: Measures of lung function, 6MWD, and HRQOL were compared in patients 
+with COPD. Differences in HRQOL domains and serum biomarkers were compared in 
+patients whose 6MWD were > or < 350 m.
+RESULTS: In patients walking < 350 m, scores in the physical domains of the 
+SF-36 and the St. George's Respiratory Questionnaire (SGRQ) were significantly 
+different from scores of their counterparts with greater 6MWD. However, there 
+was no association between any biomarkers and the physical domains of the SF-36 
+and the SGRQ. In patients walking < 350 m, only the IL-8 levels were associated 
+with lower scores in SF-36 domains of emotional role, pain, vitality, and mental 
+health (average r = -0.702; P = .01). In contrast, in patients walking > 350 m, 
+surfactant protein D levels were associated with higher SF-36 scores in general 
+pain, vitality, and social functioning (average r = 0.42; P = .04).
+CONCLUSIONS: In COPD, there is an association between 6MWD and the physical 
+domains of the SF-36 and SGRQ in those patients walking < 350 m. The physical 
+differences between patients walking < or > 350 m are not related to systemic 
+inflammation. The association between interleukin 8 with nonphysical domains in 
+patients with 6MWD < 350 m suggests that inflammation may play a larger role in 
+the perceptive domain than previously recognized.

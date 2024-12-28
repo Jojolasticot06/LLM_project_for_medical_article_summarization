@@ -1,0 +1,11 @@
+Efficacy and safety of omalizumab in Chinese patients with anti-histamine refractory chronic spontaneous urticaria.
+
+1/Chronic spontaneous urticaria (CSU) is characterized by the spontaneous development of wheals, itching, and/or angioedema, for ≥6 weeks. In China, non-sedating H1-antihistamines (H1AH) are the recommended first-line treatment, with escalation up to 4× the standard dose in symptomatic patients to achieve control. Treatment options for Chinese patients who remain symptomatic on H1AH treatment are limited. 
+
+2/This 20-week randomized, double blind, placebo-controlled, parallel-group study investigated the efficacy and safety of omalizumab as an add-on therapy for the treatment of patients with CSU who remained symptomatic despite H1AH treatment in China. Adult patients (N = 418) diagnosed with refractory CSU for ≥6 months were randomized (2:2:1) to receive 
+omalizumab 300 mg (OMA300), omalizumab 150 mg (OMA150) or placebo, subcutaneously, every 4 weeks. Primary outcome was change from baseline to week 12 in weekly itch severity score (ISS7). Safety was assessed by rates of adverse events (AEs). 
+
+3/Demographic and disease characteristics at baseline were comparable across treatment groups. At week 12, statistically significant greater decreases from baseline were observed in ISS7 with OMA300 (least square mean difference [LSM]: -4.23; 95% confidence interval [CI]: -5.70, -2.77; p < 0.001) and OMA150 (LSM: -3.79; 95% CI: -5.24, -2.33; p < 0.001) versus placebo. Incidence of treatment-emergent AEs over 20 weeks was slightly higher 
+with OMA300 (71.3%) compared to OMA150 and placebo groups (64.7% and 63.9%, respectively). The incidences of serious AEs were balanced between groups. 
+
+4/This study demonstrated the efficacy and safety of omalizumab in Chinese adult patients with CSU who remained symptomatic despite H1AH therapy.

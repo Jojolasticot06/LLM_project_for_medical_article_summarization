@@ -1,0 +1,11 @@
+Safety and efficacy of amlitelimab, a fully human nondepleting, noncytotoxic anti-OX40 ligand monoclonal antibody, in atopic dermatitis: results of a phase IIa randomized placebo-controlled trial.
+
+1/BACKGROUND: Atopic dermatitis (AD) is an inflammatory skin disease with significant unmet need. Blockade of the OX40-OX40 ligand (OX40L) costimulation pathway by targeting OX40L on antigen-presenting cells (APCs) with a fully human noncytotoxic, nondepleting anti-OX40L monoclonal antibody (amlitelimab; SAR445229; KY1005) is a novel way to modulate persistent inflammation.
+OBJECTIVES: To assess the safety and efficacy of amlitelimab over 16 weeks in adults with AD in a phase IIa double-blind placebo-controlled study.
+
+2/METHODS: The study was conducted at 19 hospitals in Germany, Poland, Spain and the UK. Eligible patients with moderate-to-severe AD were randomized (1 : 1 : 1) to low-dose intravenous (IV) amlitelimab (200 mg), high-dose IV amlitelimab (500 mg) or placebo, followed by three maintenance doses (50% of loading dose) at 4, 8 and 12 weeks, with safety follow-up to week 36. The co-primary endpoints were the incidence of treatment-emergent adverse events (all patients who received ≥ 1 dose of the study drug) and mean percentage change in Eczema Area and Severity Index (EASI) to week 16 (full analysis set).
+
+3/RESULTS: Between 13 December 2018 and 12 May 2020, 89 patients were randomly assigned to low- (n = 29) or high-dose amlitelimab (n = 30) or placebo (n = 29), of whom 88 proceeded to treatment [37 women (42%), 51 (58%) men; mean (SD) age 33.6 (11.9) years]. Amlitelimab was generally well tolerated with an unremarkable safety profile; no hypersensitivity events were reported. For the primary endpoint, the least square mean percentage change in EASI from baseline to week 16 was -80.12% [95% confidence interval (CI) -95.55 to -64.68; P = 0.009 vs. placebo] and -69.97% (95% CI -85.04 to -54.60; P = 0.07 vs. placebo) for the 
+low- (n = 27) and high-dose (n = 27) amlitelimab groups, respectively, vs. -49.37% (95% CI -66.02 to -32.72) for placebo (n = 24). Numerically greater reductions in EASI were observed for amlitelimab vs. placebo from weeks 2 to 16.
+
+4/CONCLUSIONS: Novel targeting of OX40L-expressing APCs with amlitelimab was well tolerated and resulted in clinically meaningful improvements in AD.

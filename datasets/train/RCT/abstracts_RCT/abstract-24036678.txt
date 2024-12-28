@@ -1,0 +1,9 @@
+Health-related quality-of-life outcomes in coronary artery bypass surgery patients and partners.
+
+1/PURPOSE: The purpose of this study was to examine health-related quality-of-life (HRQOL) outcomes in coronary artery bypass surgery (CABS) patients and partners enrolled together in cardiac rehabilitation versus a usual care group.
+
+2/METHODS: After CABS, couples were randomly assigned to the Partners Together in Health (PaTH) intervention (n = 17) or usual care (n = 17) groups. Health-related quality-of-life was operationalized as physical function (SF-36 Physical Functioning subscale), depression (Patient Health Questionnaire), and marital adjustment (Dyadic Adjustment Scale). Data were measured in patients and partners at the start (T1) and end of cardiac rehabilitation (T2), and 3 months after cardiac rehabilitation (T3). Nonparametric statistics were used to examine changes over time and differences between groups.
+
+3/RESULTS: Patients in both groups, and partners in the PaTH group, significantly improved physical function between T1 and T2. At T1, 18% of patients and 6% of partners were depressed. At T2 and T3, only 3% of patients and no partners were depressed. Almost 12% of patients and partners were maritally distressed at T1. At T2 and T3, patients' marital distress was unchanged, but more partners reported marital distress (15%).
+
+4/CONCLUSIONS: This study adds to our understanding of the trajectory of HRQOL outcomes after CABS for patients and partners. These findings demonstrated promise for the PaTH intervention. Future testing of the intervention is warranted in a larger sample. Because patients and partners are impacted by CABS as a shared life experience, couple-centered interventions may improve HRQOL outcomes more than individually focused interventions.

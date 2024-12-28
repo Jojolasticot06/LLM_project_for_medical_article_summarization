@@ -1,0 +1,37 @@
+BACKGROUND AND OBJECTIVES: Elevated serum neurofilament light chain (NfL) is 
+used to identify carriers of genetic frontotemporal dementia (FTD) pathogenic 
+variants approaching prodromal conversion. Yet, the magnitude and timeline of 
+NfL increase are still unclear. Here, we investigated the predictive and early 
+diagnostic value of longitudinal serum NfL for the prodromal conversion in 
+genetic FTD.
+METHODS: In a longitudinal observational cohort study of genetic FTD pathogenic 
+variant carriers, we examined the diagnostic accuracy and conversion risk 
+associated with cross-sectional and longitudinal NfL. Time periods relative to 
+prodromal conversion (>3, 3-1.5, 1.5-0 years before; 0-1.5 years after) were 
+compared with values of participants who did not convert. Next, we modeled 
+longitudinal NfL and MRI volume trajectories to determine their timeline.
+RESULTS: We included 21 participants who converted (5 chromosome 9 open-reading 
+frame 72 [C9orf72], 10 progranulin [GRN], 5 microtubule-associated protein tau 
+[MAPT], and 1 TAR DNA-binding protein [TARDBP]) and 61 who did not (20 C9orf72, 
+30 GRN, and 11 MAPT). Participants who converted had higher NfL levels at all 
+examined periods before prodromal conversion (median values 14.0-18.2 pg/mL; 
+betas = 0.4-0.7, standard error [SE] = 0.1, p < 0.046) than those who did not 
+(6.5 pg/mL) and showed further increase 0-1.5 years after conversion (28.4 
+pg/mL; beta = 1.0, SE = 0.1, p < 0.001). Annualized longitudinal NfL change was 
+only significantly higher in participants who converted (vs. participants who 
+did not) 0-1.5 years after conversion (beta = 1.2, SE = 0.3, p = 0.001). 
+Diagnostic accuracy of cross-sectional NfL for prodromal conversion (vs. 
+nonconversion) was good-to-excellent at time periods before conversion (area 
+under the curve range: 0.72-0.92), improved 0-1.5 years after conversion 
+(0.94-0.97), and outperformed annualized longitudinal change (0.76-0.84). NfL 
+increase in participants who converted occurred earlier than frontotemporal MRI 
+volume change and differed by genetic group and clinical phenotypes. Higher NfL 
+corresponded to increased conversion risk (hazard ratio: cross-sectional = 6.7 
+[95% CI 3.3-13.7]; longitudinal = 13.0 [95% CI 4.0-42.8]; p < 0.001), but 
+conversion-free follow-up time varied greatly across participants.
+DISCUSSION: NfL increase discriminates individuals who convert to prodromal FTD 
+from those who do not, preceding significant frontotemporal MRI volume loss. 
+However, NfL alone is limited in predicting the exact timing of prodromal 
+conversion. NfL levels also vary depending on underlying variant-carrying genes 
+and clinical phenotypes. These findings help to guide participant recruitment 
+for clinical trials targeting prodromal genetic FTD.

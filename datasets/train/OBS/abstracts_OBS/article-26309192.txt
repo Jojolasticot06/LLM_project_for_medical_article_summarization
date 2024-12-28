@@ -1,0 +1,323 @@
+Introduction and Statement of Purpose
+Chronic obstructive pulmonary disease (COPD) is a leading cause of mortality and disability in the world.1 Impaired functional capacity is common in COPD and likely multifactorial, including severe airflow limitation2, muscle wasting3 and depression4, amongst other systemic manifestations of the disease. Systemic inflammation has been implicated in the development of these extrapulmonary manifestations of COPD5,6. Therefore, serum biomarkers of local and systemic inflammation have gained increasing attention as associations to meaningful clinical outcomes, such as mortality and hospitalizations, have been established.7 Studies thus far, however, have not examined the relationship between these serum biomarkers and health related quality of life domains in COPD patients with severe functional limitations.
+
+In COPD, forced expiratory volume in 1 second (FEV1) has been historically used to predict functional outcomes and even mortality despite its weak relationship to both of these important outcomes. More recently exercise capacity has emerged as one of the most important prognostic indicators in COPD. Although VO2max obtained from cardiopulmonary exercise testing has been shown to be a predictor of mortality in COPD, such testing is not always readily available or cost effective.8 The six minute walking distance (6MWD), on the other hand, is a quick reproducible exercise field test that predicts mortality in patients with COPD.9,10 Although the average 6MWD is low in severe COPD, the distribution is wide within all severity categories of COPD.11 In studies where both have been compared, the 6MWD was a better predictor of mortality than the FEV19 and evidence suggests that a value of 350 meters (m) is the threshold below which patients experience a linear increased risk of hospitalization and mortality.12,13
+
+Relationships between 6MWD as a continuous physiologic measure and health related quality of life (HRQL) measures have been established in COPD. 6MWD has been shown to correlate with both disease specific and generic HRQL instruments, such as the St. George’s Respiratory Questionnaire (SGRQ)14 and the Medical Outcomes SF-36 questionnaire (SF-36),15 respectively. Although the disease specific SGRQ has been validated in large therapeutic trials, such as TORCH and UPLIFT,16 and in observational studies such as ECLIPSE,2 relatively few studies have examined the relationship of the 6MWD with generic measures of quality of life such as the SF-36, which measures overall health status including effects of co-morbid diseases. Of importance, no study has evaluated the relationship between HRQL domains of the SGRQ and SF-36 and patients’ ability to walk more or less than the 350m,17 despite the considerable prognostic value of this functional threshold.
+
+HRQL measures have been shown to be robust predictors of 6MWD2 and mortality18 in COPD. Thus, understanding the HRQL profile of COPD patients with poor functional status is essential to our clinical understanding of true burden of illness engendered by COPD in this functionally limited population. In addition, understanding possible biologic causes of the HRQL profile of those with 6MWD <350m may provide insight into how best stratify and manage these patients. Therefore, the purpose of this study was two-fold. First, this study sought to establish which domains of HRQL are related to poor functional capacity as measured by the 6MWD <350m in COPD. Subsequently, this study examined the link between inflammatory biomarkers and these domains of HRQL in patients with 6MWD above and below the 350m threshold. We hypothesized that HRQL domain scores and the relationships between HRQL domains and biomarker profiles would differ above and below the 350m threshold that confers survival prognosis and is currently proposed as a stratification tool by the COPD Foundation Biomarker Qualification Consortium.12,13,19
+
+Go to:
+Subjects and Methods
+Study Population
+Subjects were participants in the observational study RES19044 (“A Multi-center Cohort Study to Evaluate Radiological, Physiological and Biochemical Biomarkers in Patients with Chronic Obstructive Pulmonary Disease and Age and Gender Matched Controls”) enrolled in 2004 and followed until 2008. RES19044 was approved by the Institutional Review Boards of St. Elizabeth’s Medical Center (Protocol #00195) and the University of Pennsylvania (Protocol #801096). Subjects were diagnosed based on the 2007 Global Initiative for Chronic Obstructive Lung Disease (GOLD) criteria of airflow obstruction20 and assigned to one of five groups: healthy non-smokers, current or former smokers without airflow obstruction, GOLD COPD stages II, III, or IV. Patients with respiratory disorders other than COPD were excluded.
+
+A group of 59 patients aged 45–75 years old with COPD were enrolled. All subjects provided written consent.
+
+Inclusion criteria included a diagnosis of COPD (FEV1/FVC < 0.7), stable on medical therapy, smoking history > 10 years (current and ex-smokers), and ability to complete the questionnaires. Exclusion criteria included concomitant anticoagulant (except aspirin) therapy or recent use of investigational drugs, alcohol abuse, medical conditions such as (but not limited to) prior lung surgery, ventilator dependence, asthma, New York Heart Association class 3 or 4 congestive heart failure, cirrhosis, end stage renal disease requiring dialysis, uncontrolled diabetes, alpha-1 antitrypsin disease, rheumatoid arthritis or other known significant inflammatory disorders, chronic respiratory failure (defined as PaO2 < 60), right heart failure, recent infections (within 21 days), pregnancy, hospitalization for COPD exacerbation within 3 months.
+
+Data Collection
+Each subject participated in up to 5 study sessions. The duration of each subject’s participation from screening to last follow-up telephone call was 3 years and a total of 7 visits. Data from the initial visit were used for this analysis.
+
+HRQL was assessed with generic and disease specific quality of life questionnaires14,21. The Medical Outcomes Study short-form survey (SF-36) consists of 36 questions that cover 9 health domains including physical and social functioning, physical and emotional role limitations, mental health, pain index, vitality, general health perceptions and health transitions. Scores for each domain range from 0 to 100 with the higher scores indicating better functioning. The SGRQ consists of 76 items addressing the effect of respiratory disease on HRQL. A composite score and 3 domain scores for symptoms, activity and impact range from 0% to 100%, with higher scores indicating worse impairment.
+
+Patients performed pulmonary function testing following ATS /ERS guidelines.22 The symptom limited non-invasive CPET was performed following ATS/ACCP standards.23 Exercise tolerance was measured using the 6 minute walk distance testing following the recommendations of the ATS24. The longer of two walk tests measured with a 30 minute rest was used for analysis.
+
+The selection of biomarkers was based on a review of the literature and their biological plausibility. For instance, plasma c-reactive protein (CRP),25 fibrinogen,26 and IL-627 have been well studied and associated with poor clinical outcomes and mortality in COPD. The levels of IL-67, TNF –alpha4 and surfactant protein D (SDP)28 are associated with disease specific health related quality of life. Additionally, relationships between functional limitations and Il-6, IL-8 and TNF-alpha have also been described7. As proteloytic enzyme activity and lung epithelial injury have been implicated in the development and progression of COPD, we included assays for matrix metalloproteinases (MMP)29 and clara cell secretory protein 16 (CC-16)30 in our analysis. Therefore, our biomarker panel included Il-6, Il-8, CRP, SPD, TNF-alpha, MMP and CC-16.
+
+For biomarker analysis, the blood was allowed to clot for 30 minutes and serum was obtained by centrifugation at 1500 g for 10–15 minutes. For plasma preparation, whole blood was collected into vacutainer tubes containing EDTA. Plasma was obtained by centrifugation at 2000 g for 10–15 minutes. Serum and plasma samples were stored at −80°C until analyzed. With the exception of fibrinogen, all biomarkers, including SP-D and CC-16, were measured using validated immunoassays (Aushon Biosystems, Inc., Billerica, MA USA). Fibrinogen was measured using an immunoturbidometric assay validated for use with EDTA plasma (K-ASSAY fibrinogen test, Kamiya Biomedical Co., Seattle, WA, USA). Assays were performed in duplicate to allow assessment of assay variation.
+
+Statistical Analysis
+Descriptive statistics were performed for all data. Categorical data were summarized using frequency counts and percentages while continuous data were summarized using means and standard deviations. The number of missing data points was low and missing values were not imputed. However, for biomarkers with missing values due to the concentration being below the limit of detection of the assay, values were imputed to be half the limit of detection.
+
+Comparisons of means or frequencies between groups were performed using a t-test or a Cochran-Mantel-Haenszel test, respectively. The relationship between pairs of continuous variables were assessed using linear regression and the Pearson correlation coefficient was used to express strength and direction of the relationship. Differences between groups and tests of association were declared significant at the 5% level. There was no adjustment for multiple testing.
+
+Go to:
+Results
+Subject Characteristics
+The baseline characteristics of the 59 COPD subjects (25 female, 34 male) are summarized in table 1. The mean age was 63 years and the mean BMI was 29 kg/m2. As compared to patients able to walk more than 350m during testing, COPD patients who walked less than 350m had more significant airflow obstruction with a mean FEV1 0.96 L (34% predicted), lower diffusing capacity for carbon monoxide (48% predicted) and lower resting and peak oxygen saturations. Total lung capacity was similar amongst all patients with COPD.
+
+Table 1
+Characteristics of Patients with COPD Stratified by Six Minute Walking Distance (6MWD)
+
+Characteristics	6MWD < 350m	6MWD> 350m	p-value
+N	17	38	
+Age (y), mean	64 (59 – 69)	62 (59 – 65)	0.42
+Sex (F)	10	15	0.19
+BMI (kg/m2)	30.3 (28.1 – 32.5)	27.8 (25.8 – 29.8)	0.12
+Smoking history, pack years, mean	58 (44 – 72)	53 (41 – 64)	0.54
+Smoking status (Current smoker) (n)	7	17	0.81
+CAD (n)	0	3	NS‡
+Congestive Heart Failure (n)	0	1	NS
+Diabetes Mellitus (n)	6	1	<0.01
+FEV1 (L), mean	0.96 (0.71 – 1.21)	1.42 (1.22 – 1.62)	<0.01
+FEV1 (% predicted), mean	34 (26 – 42)	46 (41 – 52)	0.01
+FEV1/FVC, mean	54 (46 – 61)	57 (51 – 63)	0.49
+RV, L, mean	3.9 (3.2 – 4.7)	3.8 (3.4 – 4.2)	0.8
+FRC, L, mean	4.5 (3.7 – 5.2)	4.8 (4.3 – 5.2)	0.51
+TLC, L, mean	6.5 (5.9 – 7.2)	7.2 (6.6 – 7.8)	0.2
+DLCO, uncorrected (ml/min/mmHg), mean	10.27 (7.88 – 12.65)	13.83 (12.33 – 15.33)	0.01
+DLCO, % predicted, mean	48 (39 – 57)	61 (56 – 66)	<0.01
+VO2 max, % predicted, mean	54 (46 – 61)	63 (57– 69)	0.08
+VE/MVV %, mean	71 (65 – 78)	69 (62 – 77)	0.74
+HRR %, mean	46 (34 – 58)	69 (62 – 76)	<0.01
+Pre-SPO2 %, mean	92 (89 – 95)	95 (94 – 96)	<0.01
+Peak-SPO2 %, mean	90 (87 – 93)	94 (93 – 95)	<0.01
+Open in a separate window
+*Numbers in brackets denote 95% confidence intervals. 6MWD denotes the six minute walking distance. FEV1 denotes the forced expiratory volume in 1 second, FVC the forced vital capacity, RV the residual volume, FRC the functional residual capacity, TLC the total lung capacity, DLCO the diffusing capacity of the lung for carbon monoxide.
+**VO2 max is the peak oxygen uptake. VE/MVV is the maximum minute ventilation during exercise relative to minimum voluntary ventilation at rest; a ratio > 80% suggests a pulmonary limitation to exercise. O2 pulse approximates stroke volume. HRR is the heart rate recovery and SpO2 denotes arterial oxygen saturation.
+†n, number of cases
+‡NS, non-significant
+Relationship between HRQL domains and functional status in COPD subjects walking < 350 meters
+The analysis comparing the HRQL domains in COPD patients able to walk more or less than 350m is shown in figure 1. SGRQ scores for all subgroups were on average 8 points higher in COPD patients who walked less than 350m during the 6 minute walk test, compared to COPD patients able to walk greater than 350m although only the score in the activity domain was significantly different between the groups (p=0.02). The score in the SF-36 domain of physical functioning was significantly different (p < 0.01) when comparing patients based on a 6MWD above or below 350m, and there was a trend towards significance in the domain of physical role. Scores in the domains of mental health, emotional role, vitality and pain, on the other hand, were similar between groups regardless of 6MWD achieved.
+
+An external file that holds a picture, illustration, etc.
+Object name is nihms674526f1.jpg
+Figure 1
+SF-36 and SGRQ scores in COPD subjects stratified by 6MWD.
+
+HRQL = Health Related Quality of Life.
+
+Relationship between HRQL and biomarkers in COPD patients stratified by 6MWD
+The association between HRQL domains and biomarkers in COPD patients walking more or less than 350m is shown in table 2. Higher levels of serum interleukin 8 (IL-8) were associated with lower scores in SF-36 domains of emotional role (r= −0.717, p=0.02), bodily pain (r=−0.662, p=0.02), general pain (r=−0.741, p=0.01), vitality (r=−0.748, p=0.01) and mental health (r=−0.789, p=0.01) in COPD patients with a 6MWD less than 350m. There was no correlation between IL-8 levels and any domains of the SGRQ in this group. In contrast, surfactant protein D (SP-D) levels were significantly associated with higher SF-36 scores in the domains of general pain (r=0.417, p=0.05), vitality (0.425, p=0.05) and social functioning (0.441, p=0.04) and in all SGRQ domains except “activity” in COPD patients walking greater than 350m. In the absence of stratification by walking distance, there was no association between any biomarkers and the SF-36 domains of physical functioning and physical role across all patients.
+
+Table 2
+Relationship Between Serum Biomarkers and Health Status in COPD Patients According to Six Minute Walking Distance (6MWD)
+
+Biomarkers†	IL-6
+*Corr (*p)	IL-8
+Corr (p)	CRP
+Corr (p)	Fibrinogen
+Corr (p)	SPD
+Corr (p)	TNF-α
+Corr (p)	MMP-9
+Corr (p)	CC16
+Corr (p)
+6MWD (m)	<=350m	>350m	<=350m	>350m	<=350m	>350m	<=350m	>350m	<=350m	>350m	<=350m	>350m	<=350m	>350m	<=350m	>350m
+**SF-36																
+Physical Function	0.516
+(0.13)	−0.304
+(0.16)	−0.202
+(0.58)	−0.232
+(0.29)	0.217
+(0.48)	−0.011
+(0.95)	0.391
+(0.19)	−0.005
+(0.98)	0.012
+(0.98)	0.322
+(0.14)	0.180
+(0.62)	0.121
+(0.58)	−0.425
+(0.22)	−0.295
+(0.17)	0.135
+(0.73)	0.191
+(0.39)
+Role, physical	0.147
+(0.69)	−0.009
+(0.97)	−0.539
+(0.11)	0.249
+(0.25)	−0.273
+(0.37)	−0.112
+(0.54)	0.090
+(0.77)	−0.052
+(0.77)	0.202
+(0.60)	0.375
+(0.09)	0.029
+(0.94)	0.198
+(0.36)	0.038
+(0.92)	0.039
+(0.86)	−0.357
+(0.35)	0.140
+(0.53)
+Role, emotional	−0.114
+(0.75)	0.196
+(0.37)	−0.717
+(0.02)	0.129
+(0.56)	0.248
+(0.41)	−0.205
+(0.25)	0.199
+(0.51)	−0.088
+(0.63)	0.302
+(0.43)	0.300
+(0.18)	−0.068
+(0.85)	0.079
+(0.72)	0.086
+(0.81)	−0.289
+(0.18)	−0.182
+(0.64)	0.229
+(0.30)
+Bodily Pain	−0.342
+(0.33)	0.362
+(0.09)	−0.662
+(0.04)	0.284
+(0.19)	0.217
+(0.48)	−0.199
+(0.27)	0.384
+(0.20)	0.274
+(0.12)	0.405
+(0.28)	0.394
+(0.07)	−0.334
+(0.35)	0.127
+(0.56)	−0.092
+(0.80)	−0.244
+(0.26)	0.427
+(0.25)	0.366
+(0.09)
+General Pain	0.267
+(0.46)	−0.215
+(0.33)	−0.741
+(0.01)	0.052
+(0.81)	0.209
+(0.49)	−0.125
+(0.49)	0.245
+(0.42)	−0.350
+(0.05)	0.120
+(0.76)	0.417
+(0.05)	0.084
+(0.82)	0.141
+(0.52)	−0.130
+(0.72)	−0.274
+(0.21)	0.219
+(0.57)	0.075
+(0.74)
+Vitality	0.120
+(0.74)	−0.232
+(0.29)	−0.748
+(0.01)	−0.063
+(0.77)	0.403
+(0.17)	−0.342
+(0.05)	0.528
+(0.06)	−0.509
+(0.00)	0.393
+(0.29)	0.425
+(0.05)	−0.055
+(0.88)	0.103
+(0.64)	0.173
+(0.63)	−0.024
+(0.91)	0.270
+(0.48)	0.282
+(0.20)
+Social Function	−0.605
+(0.06)	0.190
+(0.39)	−0.403
+(0.25)	0.194
+(0.38)	0.399
+(0.18)	−0.351
+(0.05)	0.491
+(0.09)	−0.094
+(0.60)	0.679
+(0.04)	0.441
+(0.04)	−0.608
+(0.06)	0.171
+(0.44)	0.238
+(0.51)	−0.043
+(0.84)	0.149
+(0.70)	0.423
+(0.05)
+Mental Health	−0.412
+(0.24)	−0.076
+(0.73)	−0.789
+(0.01)	−0.110
+(0.62)	0.318
+(0.29)	−0.136
+(0.45)	0.384
+(0.19)	−0.266
+(0.13)	0.508
+(0.16)	0.363
+(0.10)	−0.439
+(0.20)	0.195
+(0.37)	0.103
+(0.78)	−0.318
+(0.14)	0.355
+(0.35)	0.295
+(0.18)
+**SGRQ																
+Symptoms	−0.491
+(0.15)	0.286
+(0.19)	0.447
+(0.20)	−0.033
+(0.88)	−0.427
+(0.15)	0.235
+(0.19)	−0.270
+(0.37)	0.332
+(0.06)	0.199
+(0.61)	−0.634
+(0.00)	−0.618
+(0.06)	−0.110
+(0.62)	0.104
+(0.78)	0.280
+(0.20)	−0.330
+(0.39)	−0.291
+(0.19)
+Activity	−0.723
+(0.02)	0.236
+(0.29)	0.088
+(0.81)	0.078
+(0.73)	−0.182
+(0.55)	−0.004
+(0.98)	−0.294
+(0.33)	0.256
+(0.16)	0.163
+(0.68)	−0.313
+(0.17)	−0.448
+(0.19)	−0.113
+(0.62)	0.083
+(0.82)	0.398
+(0.07)	0.035
+(0.93)	−0.032
+(0.89)
+Impacts	−0.493
+(0.15)	0.167
+(0.44)	0.407
+(0.24)	−0.013
+(0.95)	−0.253
+(0.41)	0.133
+(0.46)	−0.283
+(0.35)	0.282
+(0.11)	−0.007
+(0.98)	−0.463
+(0.03)	−0.415
+(0.23)	−0.156
+(0.48)	−0.111
+(0.76)	0.235
+(0.28)	0.103
+(0.79)	−0.209
+(0.35)
+Total	−0.608
+(0.06)	0.219
+(0.33)	0.351
+(0.32)	0.005
+(0.98)	−0.273
+(0.37)	0.144
+(0.44)	−0.307
+(0.31)	0.350
+(0.05)	0.075
+(0.85)	−0.450
+(0.04)	−0.493
+(0.15)	−0.151
+(0.50)	−0.027
+(0.94)	0.333
+(0.13)	0.035
+(0.93)	−0.176
+(0.45)
+Open in a separate window
+The bolded cells represent correlations that were significant to a p-value < 0.05. For the SF-36, higher scores indicate better functioning. Therefore, negative correlations between domains of the SF-36 and IL-8 reflect higher IL-8 levels found in patients with lower SF-36 scores, or poor functioning. For the SGRQ, on the other hand, higher scores indicate worse impairment. Therefore, negative correlation correlations between domains of SGRQ and SDP reflect higher SDP levels found in patients with lower SGRQ scores, or better functioning.
+
+*Corr denotes the correlation coefficient and (p), p-value.
+**SF-36 denotes the Medical Outcomes SF-36 questionnaire and SGRQ, the St. George’s Respiratory Questionnaire.
+†IL-6 denotes interleukin-6, IL-8 interleukin 8, CRP c-reactive protein, SPD surfactant associated protein D, TNF-αtumor necrosis factor alpha, MMP matrix metalloproteinase, CC16 clara cell protein.
+Go to:
+Discussion
+This prospective study of patients with COPD provides two novel findings. First, in functionally limited COPD patients who walk less than 350m during the 6MWD test, the physical domains of the SF-36 and SGRQ were significantly associated with 6MWD and constituted the only important difference in HRQL compared with patients that walked more than 350m. Second, inflammatory markers were not associated with HRQL domains of physical functioning and physical role suggesting that the physical differences between COPD patients who were able to walk less than 350m and their counterparts with better functional capacity may not be driven by systemic inflammation. However, the inflammatory marker IL-8 was associated with emotional, pain, vitality, and mental health in those with 6MWD less than 350m suggesting that inflammation may play a role in non-physical domains of well-being that impact performance on this functional field test.
+
+The 6MWD is an excellent indicator of physical function and therapeutic response in patients with COPD31 and has gained wide acceptance given its simplicity and standardization.32 Specifically, the 6MWD been used effectively to evaluate the effect of pulmonary rehabilitation and changes in exercise capacity33. A recent systematic review from the European Respiratory and American Thoracic Society concluded that the 6MWD responsiveness was high, especially to interventions that included exercise training.34 This test has also been shown to provide prognostic information in COPD, as a more reliable predictor of mortality in patients completing rehabilitation35 than other tests such as spirometry.34 In spite of this strong evidence for the 6MWD as a robust test of functional capacity and prognosis, there are no studies evaluating the relationship between the distances walked by patients with COPD and biomarkers, using the 6MWD threshold that has been found to predict outcomes.
+
+Two large studies and a systematic review from the ERS/ATS show that a 6MWD of 350m separates COPD patients at an increased risk for death and supports the existence of a curvilinear association between 6MWD and mortality, where the relationship is linear below that threshold.2,8,34 This asymptotic relationship may help explain the modest associations that have been observed between 6MWD as a continuous variable and both the SGRQ36,37 and SF-3615 scores. A prior study of the ECLIPSE cohort revealed significantly higher total SGRQ scores between COPD patients with a 6MWD less than 350m compared to their more functional counterparts regardless of GOLD stage.2 However, differences in the individual domains of the disease specific SGRQ and more generic HRQL measures have never been examined. When we examined the HRQL measures in this severely functionally limited group of COPD patients at increased risk of mortality, we found that both the SF-36 and SGRQ questionnaires accurately reflect the decrement in functional status. Indeed, the SGRQ activity domain and the SF-36 domain of physical functioning were significantly different between COPD patients who walked less than or greater than 350m suggesting that this difference in functional capacity is reflected similarly within both instruments.
+
+In this study, we also explored the relationship between levels of biomarkers and HRQL measures in these two COPD patient populations (6MWD > and < 350m) in an effort to elucidate possible biological mechanisms behind the difference in HRQL outcomes. In prior studies of COPD patients, biomarkers such as serum IL-6, Il-16 and TNF alpha have been independently associated with 6MWD as a continuous variable and total SGRQ scores.7 IL-627, fibrinogen26 and CRP27,38 have also been associated with disease severity and poor outcomes. However, no studies to our knowledge have examined the relationship between HRQL measures and serum biomarker levels in these functionally distinct groups.
+
+In our study, there were no associations between any biomarkers and the SF-36 domains of physical functioning and physical role in either group suggesting that a systemic inflammatory process may not be contributing directly to physical and functional limitations. However, in COPD patients who walked less than 350m, the IL-8 level was inversely associated with SF-36 domains of emotional role, bodily pain, general pain, vitality and mental health. Prior literature does support the association of inflammation with psychological changes such as depression in COPD, although few have examined IL-839,40,41,4. Given the absence of elevation in other inflammatory markers in this population, IL-8 may play a more important role in psychological limitations and perceptions of pain than previously recognized. The association between higher levels of SP-D and HRQL in patients who walked more than 350m reflects this marker’s association with fewer COPD exacerbations as observed in the large ECLIPSE cohort of COPD patients.42
+
+This study has several limitations including a limited sample size. Therefore, some findings lacking statistical significance may have been due to inadequate statistical power. Replication with a larger cohort would help solidify these findings. Second, the results are correlative in nature, limiting our ability to define causality. Interventional strategies in randomized trials evaluating the multiple domains here analyzed will yield more mechanistic insights. Third, we recognize that, as is commonly the case in health status research, we measured multiple functional domains and thus we used multiple comparisons in our statistical approach. As such, some of our significant findings may be due to chance alone. However, the results are not only biologically plausible, but also clinically meaningful and can serve to generate further research in this field. We certainly encourage further efforts to define predictors of various patient-centered outcomes and their relationship to biological processes.
+
+In summary, this study shows that in functionally limited COPD patients who walk less than 350m during the 6MWD test, the physical domains of the SF-36 and SGRQ are important measures of HRQL that reflect the relationship between functional status and HRLQ. Also, the lack of association between inflammatory markers and the HRQL domains related to physical functioning and physical role suggest that the functional difference between COPD patients who were able to walk less than 350m and their counterparts with better functional capacity may not driven by systemic inflammation. However, IL-8 is inversely correlated to scores in non-physical SF-36 domains of emotional, pain, vitality and mental health in those that walk less than 350m suggesting IL-8 may play a more important role in psychological limitations and perceptions of pain than previously recognized. There is a need for more studies relating patient centered outcomes with potential biological mechanisms.

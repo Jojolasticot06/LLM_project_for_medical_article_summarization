@@ -1,0 +1,26 @@
+INTRODUCTION: The diaphragm function assessed by ultrasound has been 
+well-studied in COPD, asthma, and intensive care. However, there are only a few 
+studies on diffuse interstitial lung disease, while dyspnea and quality of life 
+are major issues in the management that may depend on the diaphragm.
+METHODS: We retrospectively included idiopathic pulmonary fibrosis (IPF) 
+patients followed in our center (Marseille, France) between January 2020 and 
+February 2023 who underwent diaphragmatic ultrasound. Our objectives were to 
+describe the diaphragmatic function of IPFs compared to healthy controls and to 
+correlate with clinical, functional, and lung density on CT-scan.
+RESULTS: 24 IPF patients and 157 controls were included. The diaphragmatic 
+amplitude in IPF was increased at rest (median of 2.20 cm vs 1.88 cm on the 
+right, p < 0.007, and 2.30 cm vs 1.91 cm on the left, p < 0.03, in IPF and 
+controls respectively) and decreased in deep breathing (median of 4.85 cm vs 
+5.45 cm on the right, p < 0.009, and 5.10 cm vs 5.65 cm on the left, p < 0.046, 
+in IPF and controls respectively). Diaphragmatic thickness was significantly 
+reduced at rest on the right side (median of 1.75 mm vs 2.00 mm, p < 0.02, in 
+IPF and controls respectively) and in deep breathing on both sides compared to 
+controls (mean of 3.82 mm vs 4.15 mm on the right, p < 0.02, and 3.53 mm vs 
+3.94 mm, on the left, p < 0.009, in IPF and controls respectively). 
+Diaphragmatic amplitude in deep breathing was moderate to strongly correlated 
+with FVC, DLCO, and 6MWT and negatively correlated with the dyspnea and lung 
+density on CT scan.
+CONCLUSION: The diaphragmatic amplitude and thickness were impaired in IPF 
+compared to controls. Diaphragmatic amplitude is the parameter best correlated 
+with clinical, functional, and lung density criteria. Further studies are needed 
+to determine if diaphragmatic amplitude can be a prognostic factor in IPF.

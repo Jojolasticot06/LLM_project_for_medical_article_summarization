@@ -1,0 +1,16 @@
+Peritoneal dialysis (PD) possesses multiple advantages for end stage renal 
+disease. However, long-term PD triggers peritoneal fibrosis (PF). From the 
+nationwide analysis of diabetic PD patients (n = 19,828), we identified the 
+incidence of PD failure was significantly lower in diabetic patients treated 
+with dipeptidyl peptidase 4 (DPP4) inhibitors. Experimental study further showed 
+high concentration of glucose remarkably enhanced DPP4 to promote 
+epithelial-mesenchymal transition (EMT) in the mesothelial cells. In 
+chlorhexidine gluconate (CG)-induced PF model of rats, DPP4 expression was 
+enriched at thickening peritoneum. Moreover, as to CG-induced PF model, DPP4 
+deficiency (F344/DuCrlCrlj strain), sitagliptin and exendin-4 treatments 
+significantly inhibited DPP4 to reverse the EMT process, angiogenesis, oxidative 
+stress, and inflammation, resulting in the protection from PF, preservation of 
+peritoneum and the corresponding functional integrity. Furthermore, DPP4 
+activity was significantly correlated with peritoneal dysfunction. Taken 
+together, DPP4 caused peritoneal dysfunction/PF, whereas inhibition of DPP4 
+protected the PD patients against PD failure.

@@ -1,0 +1,31 @@
+BACKGROUND: Attention deficit hyperactivity disorder (ADHD) is a common 
+childhood behavioral condition that globally affects an average of around 5% of 
+children and is associated with several adverse life outcomes. Comorbidity with 
+autism spectrum disorder (ASD) is highly prevalent. Pharmacological treatment 
+for ADHD symptoms has been shown to be effective. However, the prevailing 
+perception is that children with ADHD and concomitant ASD symptoms report poorer 
+efficacy and more side effects. This has been supported by studies on this 
+population, but prospective studies directly comparing children with ADHD and 
+different levels of ASD symptoms are lacking. We aimed to assess if children 
+with ADHD and concomitant ASD symptoms differ regarding effects and side-effects 
+of pharmacological ADHD treatment compared to children with ADHD without ASD 
+traits. This is to our knowledge the second study to directly compare the effect 
+of ADHD medication between ADHD patients with different levels of ASD symptoms.
+METHODS: In a non-randomized, observational, prospective cohort study, 323 
+patients aged 6 to 17 years who were diagnosed with ADHD and starting 
+pharmacological treatment were divided into two groups: one with high level of 
+ASD symptoms (ASD group, N=71) and one with low level of ASD symptoms (non-ASD 
+group, N = 252). Treatment outcome was measured as ADHD symptoms, and evaluated 
+using the Swanson, Nolan and Pelham Teacher and Parent ADHD rating scale-version 
+IV (SNAP-IV). Side-effects were evaluated using the Pediatric Side Effects 
+Checklist (P-SEC), at 3 months follow-up.
+RESULTS: From baseline to 3 months, there was no significant difference in 
+neither treatment effect nor number of clinically significant adverse events 
+experienced between the ASD group and the non-ASD group.
+CONCLUSIONS: Our results did not implicate that ADHD patients with concomitant 
+ASD symptoms have decreased treatment effect of ADHD medication than patients 
+with ADHD without concomitant ASD symptoms. Neither did the results support that 
+ADHD patients with ASD symptoms experienced significantly more side-effects than 
+ADHD patients without ASD symptoms. Although, we did not analyze different 
+medications separately, this is in line with the only previous study directly 
+comparing methylphenidate treatment in children with or without ASD.

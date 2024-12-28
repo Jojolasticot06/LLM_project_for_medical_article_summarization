@@ -1,0 +1,22 @@
+OBJECTIVES: To compare the incidence of cardiovascular (CV) events in rheumatoid 
+arthritis (RA) treated with janus kinase inhibitors (JAKi), tumour necrosis 
+factor inhibitors (TNFi), or other biological disease-modifying antirheumatic 
+drugs (bDMARDs), in clinical practice, and to contextualise these findings by 
+comparing to the Swedish RA population and general population at large.
+METHODS: Patients with RA initiating JAKi, TNFi and non-TNFi bDMARDs were 
+identified in the Swedish Rheumatology Quality Register between 2016 and 2021. 
+Through linkages to national registers, a cohort of patients with RA, general 
+population comparators, as well as covariates and incident major acute CV event 
+(MACE, including myocardial infarction, stroke and fatal CV events) were 
+identified until 2022. Crude and age-sex standardised rates were calculated and 
+HRs estimated from multivariable Cox regression models using TNFi as reference.
+RESULTS: We identified 13 492 patients with RA initiating a JAKi, non-TNFi 
+bDMARD or TNFi treatment. Among 3037 JAKi-initiators, 59 MACE events were 
+observed. The age-sex standardised rates for MACE were similar in the JAKi (0.88 
+per 100 person years) and TNFi (0.91) cohorts. Fully adjusted models showed no 
+increased rate of MACE with JAKi (HR=0.71, 95% CI 0.51 to 0.99), or non-TNFi 
+bDMARD (HR=0.98; 95% CI 0.78 to 1.23) in comparison to TNFi. We found no 
+evidence that this HR changed over time since treatment initiation. In a 
+CV-enriched subset, we observed higher rates but similar HRs.
+CONCLUSIONS: As used in present clinical practice in Sweden, we found no 
+evidence that CV risk is higher with JAKis than TNFis in RA.

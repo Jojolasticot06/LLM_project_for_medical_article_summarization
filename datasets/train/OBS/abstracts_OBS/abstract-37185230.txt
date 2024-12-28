@@ -1,0 +1,30 @@
+OBJECTIVE: The aim was to determine preoperative gut microbiota metabolites that 
+may be associated with postoperative delirium (POD) development in patients and 
+further study in rodents.
+SUMMARY BACKGROUND DATA: POD occurs in 9% to 50% of older patients undergoing 
+anesthesia/surgery but lacks effective treatments or prevention. High-throughput 
+metabolomics using liquid chromatography with tandem mass spectrometry has 
+accelerated disease-related biomarkers discovery. We performed metabolomic 
+studies in humans to identify potential metabolite biomarkers linked to POD and 
+examined potential mechanisms in rodents.
+METHODS: We performed a prospective observational cohort study to examine the 
+metabolomic changes that were associated with the development of POD. Then the 
+gut microbiota-related metabolomic changes were recapitulated by gut microbiota 
+perturbation in rodents. POD was assessed in mice using a battery of behavioral 
+tests including novel objective test, Y-maze test, open-field test, and buried 
+food test. The mechanisms through which gut microbiota-related metabolomic 
+changes influenced POD were examined using chemogenetics.
+RESULTS: Indole-3-propionic acid (IPA) is a gut microbiota metabolite that 
+belongs to the indole family. Baseline plasma levels of IPA were significantly 
+inversely correlated with the onset of POD in 103 (17 cases) human individuals. 
+This relationship was validated in preclinical mouse models for POD: reducing 
+IPA levels through gut microbiota perturbation promoted POD-like behavior. More 
+importantly, IPA administration deterred POD-like behavior. Colonization of 
+germ-free mice with mutant Clostridium sporogenes that did not produce 
+IPA-promoted POD-like behavior. Chemogenetic studies revealed that the 
+protective effect of IPA in mice was mediated, in part, by peroxisome 
+proliferator-activated receptor gamma coactivator 1-alpha in hippocampal 
+interneurons.
+CONCLUSIONS: Gut microbiota-derived IPA is an important molecule implicated in 
+the pathogenesis of POD, which could potentially be harnessed for POD 
+prevention.

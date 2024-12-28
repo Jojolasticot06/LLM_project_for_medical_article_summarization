@@ -1,0 +1,26 @@
+OBJECTIVE: To describe a systematic process of transforming paper registers into 
+a digital system optimized to enhance service provision and fulfil reporting 
+requirements.
+METHODS: We designed a formative study around primary health workers providing 
+reproductive, maternal, newborn and child health services in three countries in 
+Bangladesh, Indonesia and Pakistan. The study ran from November 2014 to June 
+2018. We developed a prototype digital application after conducting a needs 
+assessment of health workers' responsibilities, workflows, routine data 
+requirements and service delivery needs. Methods included desk reviews, focus 
+group discussions, in-depth interviews; data mapping of paper registers; 
+observations of health workers; co-design workshops with health workers; and 
+usability testing. Finally, we conducted an observational feasibility assessment 
+to monitor uptake of the application.
+FINDINGS: Researchers reviewed a total of 17 paper registers across the sites, 
+which we transformed into seven modules within a digital application running on 
+mobile devices. Modules corresponded to the services provided, including 
+household enumeration, antenatal care, family planning, immunization, nutrition 
+and child health. A total of 65 health workers used the modules during the 
+feasibility assessment, and average weekly form submissions ranged from 8 to 
+234, depending on the health worker and their responsibilities. We also observed 
+variability in the use of modules, requiring consistent monitoring support for 
+health workers.
+CONCLUSION: Lessons learnt from this study shaped key global initiatives and 
+resulted in a software global good. The deployment of digital systems requires 
+well-designed applications, change management and strengthening human resources 
+to realize and sustain health system gains.

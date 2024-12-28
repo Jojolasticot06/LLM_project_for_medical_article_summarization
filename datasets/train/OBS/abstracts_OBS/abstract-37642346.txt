@@ -1,0 +1,26 @@
+Significant human gut microbiome changes during adolescence suggest that 
+microbial community evolution occurs throughout important developmental periods 
+including the transition to college, a typical life phase of weight gain. In 
+this observational longitudinal study of 139 college freshmen living in 
+on-campus dormitories, we tracked changes in the gut microbiome via 16S amplicon 
+sequencing and body weight across a single academic year. Participants were 
+grouped by weight change categories of gain (WG), loss (WL), and maintenance 
+(WM). Upon assessment of the community structure, unweighted and weighted 
+UniFrac metrics revealed significant shifts with substantial variation explained 
+by individual effects within weight change categories. Genera that positively 
+contributed to these associations with weight change included Bacteroides, 
+Blautia, and Bifidobacterium in WG participants and Prevotella and 
+Faecalibacterium in WL and WM participants. Moreover, the Prevotella/Bacteroides 
+ratio was significantly different by weight change category, with WL 
+participants displaying an increased ratio. Importantly, these genera did not 
+display co-dominance nor ease of transition between Prevotella- and 
+Bacteroides-dominated states. We further assessed the overall taxonomic 
+variation, noting the increased stability of the WL compared to the WG 
+microbiome. Finally, we found 30 latent community structures within the 
+microbiome with significant associations with waist circumference, sleep, and 
+dietary factors, with alcohol consumption chief among them. Our findings 
+highlight the high level of individual variation and the importance of initial 
+gut microbiome community structure in college students during a period of major 
+lifestyle changes. Further work is needed to confirm these findings and explore 
+mechanistic relationships between gut microbes and weight change in free-living 
+individuals.

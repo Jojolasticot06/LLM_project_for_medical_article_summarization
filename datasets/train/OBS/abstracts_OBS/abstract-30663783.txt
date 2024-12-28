@@ -1,0 +1,17 @@
+This study aimed to investigate the spatial distribution and redistribution of 
+lumbar erector spinae (ES) activity during a lumbar extension endurance task in 
+pain-free participants and how this is modified in people with low back pain 
+(LBP). High density surface electromyography (HDEMG) was recorded using 13 × 5 
+electrode grids placed over the lumbar ES in 13 LBP and 13 control participants 
+while completing an Ito test to task failure. The root mean square of the HDEMG 
+signals was computed, a topographical map of the EMG amplitude generated and the 
+centre of the activity (centroid) determined throughout the task. The centroid 
+of the EMG amplitude map was systematically more cranial (F = 6.09, P = 0.022) 
+for the LBP participants compared with the control subjects. Regression analysis 
+showed that the extent of redistribution of ES activity was associated with 
+longer endurance. These results show that LBP participants utilised a different 
+motor strategy to perform the endurance task, characterised by greater 
+activation of more cranial regions of the ES and less redistribution of ES 
+activity throughout the task. This study provides new insight into the 
+functional activation of the lumbar ES and how it is modified when people have 
+pain.

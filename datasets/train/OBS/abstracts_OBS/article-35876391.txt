@@ -1,0 +1,132 @@
+Although breast cancer incidence is increasing, prognosis has improved significantly with 5‐year survival outcomes improving from 40% to 90% over the past 5 decades.1 Breast cancer is a molecular diverse disease with at least 4 biologically distinct biological subtypes, each with individual clinical characteristics, therapeutic strategies, and prognoses.2 The St. Gallen Expert Consensus Panel advocate use of multigene expression assays [eg, OncotypeDX Recurrence Score (RS), Genomic Health Inc., Redwood City, CA] as the gold standard for molecular substratification2,3 and immunohistochemical evaluation of estrogen (ER), progesterone (PgR), and human epidermal growth factor receptor‐2 (HER2) receptors act as surrogate phenotypical biomarkers to decipher biological subtypes.2,4 Moreover, appraising receptor status is crucial for guiding therapeutic decision making.5,6
+
+Breast cancer survival is equivalent for those treated with adjuvant and neoadjuvant chemotherapy (NAC).7,8 Nevertheless, advantages of NAC include potential tumor downstaging, increased patient eligibility for breast conservation surgery (BCS), improved resectability,9–11 and the generation of in vivo data regarding tumour sensitivity to systemic therapies, which carry prognostic significance.12,13 In particular, predicting response to NAC translates into important disease outcomes in the setting of HER2-positive (HER2+) and triple negative molecular subtypes.12,13 Unfortunately, predicting response is challenging due to variability in host and tumour factors.
+
+Micro ribonucleic acids (or miRNAs) are small (19–25 nucleotides in length), noncoding ribonucleic acid (RNA) molecules which modulate gene expression by post-transcriptional degradation or translational inhibition of messenger RNA.14–17 Aberrant expression of miRNAs regulate breast cancer development and miRNAs have the ability to maintain stability in several biological tissues.18–21 Moreover, miRNA profiling may be performed relatively simply and inexpensively using real-time quantitative reverse transcriptase polymerase chain reaction,22–24 supporting their suitability as clinical biomarkers.
+
+Translational research efforts are focused on identifying novel biomarkers capable of predicting response to NAC to tailor treatment strategies to each patient’s needs. The Cancer Trials Ireland – Irish Clinical Oncology Research Group 10/11 (CTRIAL ICORG10/11) is a prospective, multicenter trial which recruited 120 patients treated with NAC for breast cancer. Expression levels of a predetermined miRNA panel were relatively quantified from bloods samples using relative quantification polymerase chain reactiond at several predetermined timepoints during NAC.
+
+The aims of this study were:
+
+To determine whether circulating miRNA expression levels successfully predict response to NAC.
+To establish whether subtype specific miRNA biomarkers predict response to NAC.
+Go to:
+METHODS
+Study Design
+This prospective, multicenter trial was overseen by Clinical Trials Ireland (CTRIAL ICORG10/11—NCT1722851), with recruitment at 8 treatment sites in the Republic of Ireland. Local ethical approval was granted in February 2008 (C.A.151) and in January 2014 (C.A.1012).
+
+MiRNA expression profiles were measured from liquid biopsies taken at diagnosis (Timepoint 1, or T1) and halfway during NAC (Timepoint 2, or T2) (Fig. ​(Fig.1).1). Thereafter, the changes in miRNA expression levels between these timepoints were determined (T2 minus T1) and correlated with response to NAC.
+
+An external file that holds a picture, illustration, etc.
+Object name is sla-276-0905-g001.jpg
+FIGURE 1
+Scheme of timepoints at which venous sampling occurred during this study: Timepoint 1 (T1) which involved venous sampling at breast cancer diagnosis (and before standard-of-care with neoadjuvant chemotherapy), and Timepoint 2 (T2) at the halfway point during neoadjuvant chemotherapy).
+
+Inclusion and Exclusion Criteria
+Consecutive female patients aged 18 years or older indicated to undergo standard-of-care NAC for breast cancer were considered for inclusion. Patients had to be capable of providing informed written consent. Patients failing to meet these inclusion criteria were not considered for inclusion.
+
+Histopathology and Molecular Subtyping
+Breast cancer molecular subtypes were classified using the 12th St. Gallen Expert Consensus panel.25 In brief, tumors were evaluated for ER and PgR using immunohistochemistry as per the 2010 American Society of Clinical Oncology/College of American Pathologists (ASCO/CAP) consensus.26 HER2 status was identified by Herceptest (DAKO Agilent pathology solutions, Santa Clara, CA), with a score of 3+ considered positive. Any 2+ inconclusive results were confirmed using fluorescent in situ hybridization.27,28 Ki-67 evaluation was performed in just a few cases using MIB1 antibody testing.29,30 Luminal disease [luminal breast cancers (LBC)] was classified as ER+/HER2−, Luminal/HER2+ disease (L/HER2) was classified as ER+/HER2+, HER2 disease (HER2+) was classified as ER−/PgR−/HER2+, and triple negative breast cancer (TNBC) was classified as ER−/PgR−/HER2−.25 American Joint Committee on Cancer (AJCC) version 8 was used for staging.31
+
+Response to Chemotherapy
+Response to NAC was based on Miller-Payne classification.32 In addition, patients were classified as “responders” and “nonresponders”; “responders” were patients who achieved pathological complete response (pCR) or a >90% reduction in tumor cellularity on their specimen (Miller-Payne grades 4/5), while those with >90% were classified as “nonresponders” (Miller-Payne grades 1–3). Further subclassification was performed with respect to those who achieved a pCR (Miller-Payne grade 5) versus those who did not (Miller-Payne grades 1–4).32
+
+Venous Blood Sampling
+Venous samples from the 120 patients were collected during a 3-year period (May 2011–April 2014). Whole blood liquid biopsies were collected at 2 independent timepoints:
+
+Timepoint 1 (T1) – at breast cancer diagnosis, before treatment with NAC.
+Timepoint 2 (T2 – halfway during NAC) (Fig. ​(Fig.11).
+Venous blood samples were collected in 3 mL ethylenediaminetetraacetic acid (EDTA) tubes and stored at the local Surgery Cancer Biobank. A study enrolment diagram illustrating recruitment is outlined in Supplementary Appendix 1. A (Supplemental Digital Content 1, http://links.lww.com/SLA/E85).
+
+MiRNA Expression Panel
+Following literature review, a 5 miRNA panel was selected for evaluation (Let-7a, miR-21, miR-145, miR-155, and miR-195) based on their relevance in breast cancer at the time of trial design.20,21,33 Two additional miRNAs were used as validated endogenous controls (miR-16 and miR-345), with the intention of standardizing miRNA expression.34 Table ​Table11 outlines the relevance of each miRNA selected for evaluation.
+
+TABLE 1
+The Relevance of the 5 Target-miRNA and 2 Endogenous Controls Included in our Predetermined miRNA Panel
+
+Target	References	MiRNA Function
+Let-7a	Heneghan et al20,21	Increased expression in treatment naive breast cancer patients versus controls and postresection
+miR-21	Heneghan et al20,21	Known as a well described oncogenic miRNA
+miR-145	Heneghan et al20,21	Increased expression levels in breast cancers relative to other malignancies and controls
+miR-155	Heneghan et al20,21	Differentiated expression levels in breast cancers relative to other malignancies and controls
+miR-195	Heneghan et al20,21	Increased expression in treatment naive breast cancer patients versus controls and other cancers
+miR-16	McDermott et al33	Endogenous control in human circulation
+miR-425	McDermott et al33	Endogenous control in human circulation
+Open in a separate window
+RNA Isolation and Storage
+Total RNA was extracted from whole blood (1 mL) using Trizol (as per the manufacturer’s instructions). RNA concentrations were determined using spectrophotometry (NanoDrop ND-1000 Technologies Inc., Wilmington, DE), as previously described.20 RNA was then transferred to storage tubes, labelled, and stored at −70°C in our Cancer Biobank.
+
+Analysis of miRNA Expression Levels
+For each sample, miRNAs were relatively quantified using quantitative reverse transcriptase polymerase chain reaction. TaqMan assays were used for the amplification of target miRNAs, as per manufacturer’s instructions (TaqMan Fast Universal Master Mix (2X), No AmpErase UNG: Applied biosystems, Foster City, CA).14,34 Assays were performed using AB7900HT (Applied Biosystems), as per the manufacturer’s instructions. Reactions were initiated with a 10-minute incubation at 95°C, followed by 40 cycles at 95°C for 15 seconds, and 60°C for 60 seconds. We utilised miR-26b as an interassay control from a breast cancer cell line, which was included on each plate. All reactions were performed in triplicate. The threshold SD for intra-assay and inter-assay replicates was 0.3. The percentage polymerase chain reaction amplification efficiencies (E) for each assay were calculated using the slope of the semi-log regression plot of cycle threshold versus log input of cDNA (10-fold dilution series of 5 points), with the following equation, and a threshold of 10% above or below 100% efficiency was applied: E=(10−1/slope−1)×100. MiRNA expression levels were calibrated and normalized using endogenous controls, before expression levels were calculated using QbasePlus© software (Biogazelle, Gent, Belgium) using the geNorm method. MiRNA analysis was performed blinded to clinical information.
+
+Statistical Analysis
+Data were analysed using R version 3.2.3. Differences in miRNA expression profiles between T2 and T1 were calculated. The Shapiro-Wilks test was used to assess the distribution of data. Nonparametric analyses [ie, Kruskal-Wallis test (used to compare medians among multiple groups) and the 2-sample Wilcoxon rank sum test (used for all 2-sample comparisons)] were used as appropriate to correlate miRNA expression with response to NAC. All analyses were 2-tailed and statistical significance was defined as P<0.050.
+
+Go to:
+RESULTS
+Clinicopathological and Surgical Data
+Overall, 120 patients were included. The median age at diagnosis was 55.0 [interquartile range (IQR): 48.0–63.0] and tumor size was 38.0 mm (IQR: 28.0–54.0 mm). Almost 50.0% of included patients had LBC (49.2%, 59/120), 20.8% had TNBC (25/120), 17.5% had L/HER2 (21/120), and 12.5% had HER2+ (15/120). Most patients underwent BCS (55.8%, 67/120) and axillary lymph node dissection (70.8%, 85/120). Table ​Table22 illustrates clinicopathological and surgical data for included patients.
+
+TABLE 2
+Clinicopathological and Surgical Data for all 120 Included Patients With Correlations With Response to Neoadjuvant Chemotherapy
+
+Parameter	Variable	Total	“Responders”, n (%)	“Nonresponders”, n (%)	P	pCR, n (%)	Non-pCR, n (%)	P
+Total number	—	120 (100.0)	56 (46.7)	64 (53.3)	—	32 (26.7)	88 (73.3)	—
+Age (y)	Median (IQR)	55 (48–63)	55 (48–64)	55 (48.5–61.5)	0.895	53 (47–63)	55 (48–64)	0.531
+Tumor size (mm)	Median (IQR)	38 (28–54)	36 (27–52)	39 (30–54)	0.674	35 (25–48)	40 (30–55)	0.176
+Nodal involvement	Negative	43 (35.8)	21 (48.8)	22 (51.2)	0.919	16 (37.2)	26 (60.5)	0.069
+Positive	76 (64.2)	35 (46.1)	41 (53.9)		16 (21.5)	61 (80.3)	
+Missing	1 (0.8)	0 (0.0)	1 (100.0)		0 (0.0)	1 (100.0)	
+Tumor grade	Grade 1	1 (0.8)	0 (0.0)	1 (100.0)	0.003*	0 (0.0)	1 (100.0)	0.002*
+Grade 2	64 (53.3)	21 (32.8)	43 (67.2)		9 (14.1)	55 (85.9)	
+Grade 3	54 (45.0)	34 (63.0)	20 (37.0)		23 (42.6)	31 (57.4)	
+Missing	1 (0.8)	1 (100.0)	0 (0.0)		0 (0.0)	1 (100.0)	
+Estrogen receptor	Positive	78 (65.0)	28 (35.9)	50 (64.1)	0.002*	12 (15.4)	67 (84.6)	<0.001*
+Negative	42 (35.0)	28 (66.7)	14 (33.3)		20 (47.6)	21 (52.4)	
+Progesterone receptor	Positive	63 (52.5)	21 (33.3)	42 (66.7)	0.004*	9 (14.3)	54 (85.7)	0.002*
+Negative	57 (47.5)	35 (61.4)	22 (38.6)		23 (40.4)	34 (59.6)	
+HER2 receptor	Positive	36 (30.0)	24 (66.7)	12 (33.3)	0.007*	15 (41.7)	21 (58.3)	0.027*
+Negative	84 (70.0)	32 (38.1)	52 (61.9)		17 (20.2)	67 (79.8)	
+Molecular Subtype	LBC	59 (49.2)	16 (27.1)	43 (72.9)	<0.001*	6 (10.2)	53 (89.8)	<0.001*
+L/HER2	21 (17.5)	13 (61.9)	8 (38.1)		6 (28.6)	15 (71.4)	
+HER2+	15 (12.5)	11 (73.2)	4 (26.8)		9 (60.0)	6 (40.0)	
+TNBC	25 (20.8)	16 (64.0)	9 (36.0)		11 (44.0)	14 (56.0)	
+Surgery	BCS	67 (55.8)	37 (55.2)	30 (44.8)	0.054	24 (35.8)	43 (64.2)	0.014*
+Mastectomy	53 (44.2)	19 (35.8)	34 (64.2)		8 (15.1)	45 (84.9)	
+Open in a separate window
+*Denotes statistical significance.
+Response to NAC
+Overall, 46.7% were “responders” to NAC (56/120). “Responders” were likely to have grade 3 (P<0.001), ER− (P=0.002), PgR− (P=0.004), HER2+ (P=0.002), and be L/HER2, HER2+ or TNBC molecular subtypes (P<0.001) (Table ​(Table22).
+
+In the overall cohort, no miRNAs correlated with response to NAC (Supplementary Appendix 1.B, Supplemental Digital Content 1, http://links.lww.com/SLA/E85). In L/HER2, increased Let-7a expression identified “responders” to NAC (P=0.049). Similarly, decreased miR-21 expression trended toward significance for identifying “responders” in L/HER2 (P=0.064). For HER2+, decreased miR-145 expression identified “responders” to NAC (P=0.033) and decreased Let-7a expression trended toward significance for identifying “responders” (P=0.052). Furthermore, increased miR-21 expression identified “responders” in TNBC (P=0.089) (Fig. ​(Fig.22).
+
+An external file that holds a picture, illustration, etc.
+Object name is sla-276-0905-g002.jpg
+FIGURE 2
+The difference in miRNA expression profiles between Timepoint 2 minus Timepoint 1 and the correlation with response to neoadjuvant chemotherapy for each of the breast cancer molecular subtypes.
+
+Pathological Complete Response to NAC
+Overall, 26.7% of patients achieved a pCR (32/120). Those achieving a pCR were likely to be node negative (P<0.001), grade 3 (P<0.001), ER− (P<0.001), PgR− (P=0.002), HER2+ (P=0.027), and be L/HER2, HER2+ or TNBC molecular subtypes (P<0.001). Patients achieving a pCR were likely to undergo BCS (P=0.014) (Table ​(Table22).
+
+In the overall cohort, no miRNAs correlated with achieving a pCR (Supplementary Appendix 1.C, Supplemental Digital Content 1, http://links.lww.com/SLA/E85). In LBC, reduced Let-7a expression predicted achieving a pCR (P=0.037), while increased miR-145 expression trended toward significance in predicting a pCR (P=0.072). In HER2+, reduced miR-145 expression predicted achieving a pCR (P=0.027), while reduced Let-7a expression trended toward significance in predicting a pCR (P=0.062), In L/HER2, reduced miR-21 expression trended toward significance in predicting a pCR (P=0.058) (Fig. ​(Fig.33).
+
+An external file that holds a picture, illustration, etc.
+Object name is sla-276-0905-g003.jpg
+FIGURE 3
+The difference in miRNA expression profiles between Timepoint 2 minus Timepoint 1 and the correlation with pathological complete response to neoadjuvant chemotherapy for each of the breast cancer molecular subtypes.
+
+Go to:
+DISCUSSION
+Breast cancer’s subclassification into distinct molecular subtypes is essential for personalizing treatment strategies.2,25 Once oncological control is established, efforts are focused on promoting personalized treatment. This represents the ideology of precision oncology and the aim of ICORG10/11 was to identify biomarkers of host response. Such a biomarker could allow individualization of therapy by identifying responders who should continue the course of treatment as planned, unlike their nonresponding counterparts who may benefit from halting NAC and proceeding to surgery. While Luminal A is consistently endocrine responsive,35 there was a traditional tendency to deliver chemotherapy to all patients with locally advanced and node-positive LBC.36 ICORG 10/11 pragmatically included LBC patients receiving NAC to elucidate responsible biomarkers. Unsurprisingly, pCR rates, the proportion of “responders,” and miRNA profiles which correlated with treatment response varied among molecular subgroups, therefore substratifying these subgroups based on their sensitivity to NAC, while laying the foundation for the discovery of novel miRNA-related molecular subtypes.37
+
+Reduced miR-145 expression predicted patients who achieved a pCR to NAC in HER2+ (ER−/HER2+) disease (P=0.027), coinciding with the results of the translational research NeoALTTO trial.38 In NeoALTTO, Di Cosimo and colleagues described increased plasma miR-145 expression of those achieving a pCR after 2 weeks treatment with Trastuzumab. Moreover, reduced miR-145 expression differentiated “responders” from “nonresponders” following NAC in this study (P=0.033). Recent ASCO/CAP guidelines recommend NAC for patients with HER2+ cancers, with exceptions limited to those with T1a-b/N0 disease.39 Therefore, further validation of these preliminary results assessing the utility of miR-145 in delineating response to NAC is crucial before miR-145 may be used to guide therapeutic decision-making regarding NAC in clinical practice. Furthermore, such a biomarker may be useful in dividing HER2+ patients into two narrower molecular subtypes: Those likely to respond (and derive benefit from continuing NAC) and those unlikely to respond (and may be beneficiaries from early NAC cessation and progression to surgery). However, further interrogation of this biomarker in the next generation of translational research trials is mandated before fully establishing its value in predicting tumour sensitivity to NAC in HER2+ disease.
+
+Increased expression of Let-7a segregated “responders” from “nonresponders” in L/HER2 (ER+/HER2+) (P=0.049). Interestingly, reduced Let-7a expression differentiated those achieving a pCR (P=0.062) and “responders” in HER2+ (ER-/HER2+) disease (P=0.052). While the current paradigm encourages the division of HER2+ breast cancers based on ER status,2 the use of Let-7a may provide further subdivision based on therapeutic response to NAC, as observed in ICORG 10/11 in correlating reduced miR-145 with the reduction in tumor volume in response to NAC. Furthermore, response to NAC predicts long-term oncological outcomes,12,13 therefore, it is unsurprising that Fuso et al40 demonstrated a survival advantage with increased Let-7a-5p expression in HER2+ disease (event-free survival: 61 vs. 36 mo, P=0.050). Thus, this study supports the potential use of Let-7a profiling to inform response to NAC which may translate indirectly into long-term survival outcomes.
+
+This study provides preliminary data regarding reduced miR-21 in L/HER2 in predicting a pCR (P=0.058) and aberrant expression of miR-21 in deciphering “responders” from “nonresponders” in L/HER2 (P=0.064) and TNBC (P=0.089). This is a potentially anticipated finding: in previous ICORG10/11 data published from McGuire et al,41 miR-21 expression measured at T1 in isolation acted as an independent predictor of response to NAC (P=0.036). Similarly in the Geparquinto trial, Müller et al42 reported increased baseline miR-21 expression differentiated “responders” from “nonresponders” in HER2+ disease, while Rodriquez-Martinez et al43 outlined the discriminative ability of miR-21 to predict pCR to NAC. Interestingly, upregulation of miR-21 via signaling of the MAPK pathway correlates with increased HER2 signaling,44 providing the rationale for changes in miR-21 expression to predict NAC response in HER2+ disease in ICORG10/11.41–43 Moreover, miR-21 is a promotor of proliferation, invasion and initiating epithelial-mesenchymal transition in TNBC,45,46 supporting the reduction in miR-21 correlating with “response” to NAC in TNBC.
+
+In LBC, decreased Let-7a expression correlated with achieving a pCR (P=0.037), while miR-195 expression failed to indicate sensitivity to NAC. These results refute the results from NeoALTTO, where reduced miR-195 identified those who achieved a pCR to combined Trastuzamab and Lapatinib in HER2+ disease.38 Furthermore, mir-195 levels have correlated with lower grade, reduced proliferation, and “True” LBC.20 While McGuire et al described reduced miR-145 to correlate with “responders” in LBC,41 increased miR-145 expression trended toward significance for predicting pCR in LBC (P=0.064). This emphasizes the importance of serial miRNA measurement to aid prediction of response to NAC, as demonstrated in the in vivo data from ICORG10/11 and NeoALTTO.
+
+This study has several limitations: firstly, patients recruited were all habitants of a unique cultural European region, facilitating unavoidable selection from a small genetic pool, inherently limiting the translation of these results to a global level. Secondly, the predetermined miRNA panel evaluated included targets of most interest at the time of trial design. During the time elapsed between study initiation and completion, newer miRNA targets have been discovered. Thirdly, while this study provides insights into predicting response to NAC for each biomolecular subtype, this substratification of tumors into 4 subtypes was based on the 12th St. Gallen Expert Consensus.25 More recently, the 13th Expert Consensus Panel revised this subclassification to encompass 5 molecular subtypes.2 In addition, the seminal TAILORx and RxPONDER trials now facilitate RS to identify candidates with ER+/HER2− disease who may be spared systemic chemotherapies, whether in the neoadjuvant or adjuvant settings.47–50 Finally, although the goal of this study is to individualize NAC prescription based on circulating miRNA are promising, there are of course preliminary results which will inevitably require validation before having actual influence upon therapeutic decision making in clinical practice.
+
+The ICORG10/11 study is the first prospective, multicenter, neoadjuvant translational research trial conducted evaluating and illustrating the potential value of circulatory miRNA measurement in predicting response to NAC in an Irish population. This study supports the ideology that circulatory miRNAs may personalize therapeutic decision-making for patients indicated to receive standard-of-care NAC. The next generation of translational research trials should focus on interrogating the use of circulatory miRNAs to inform tumor sensitivity to NAC, before adaptations to current therapeutic strategies may be made in clinical practice.

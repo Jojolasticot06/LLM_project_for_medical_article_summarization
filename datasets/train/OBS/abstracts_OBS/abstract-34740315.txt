@@ -1,0 +1,24 @@
+BACKGROUND: Phelan McDermid syndrome (PMS) is a neurogenetic condition 
+associated with a high prevalence of intellectual disability (ID) and autism 
+spectrum disorder (ASD). This study provides a more comprehensive and 
+quantitative profile of repetitive behaviors within the context of ID seen with 
+the condition.
+METHODS: Individuals age 3-21 years with a confirmed PMS diagnosis participated 
+in a multicenter observational study evaluating the phenotype and natural 
+history of the disorder. We evaluated data collected from this study pertaining 
+to repetitive behaviors from the Repetitive Behavior Scales-Revised (RBS-R).
+RESULTS: There were n = 90 participants who were part of this analysis. 
+Forty-seven percent (n = 42/90) were female, and the average age at baseline 
+evaluation was 8.88 ± 4.72 years. The mean best estimate IQ of the cohort was 
+26.08 ± 17.67 (range = 3.4-88), with n = 8 with mild ID (or no ID), n = 20 with 
+moderate ID, and n = 62 with severe-profound ID. The RBS-R total overall score 
+was 16.46 ± 13.9 (compared to 33.14 ± 20.60 reported in previous studies of ASD) 
+(Lam and Aman, 2007), and the total number of items endorsed was 10.40 ± 6.81 
+(range = 0-29). After statistical correction for multiple comparisons, IQ 
+correlated with the RBS-R stereotypic behavior subscale score (rs = - 0.33, 
+unadjusted p = 0.0014, adjusted p = 0.01) and RBS-R stereotypic behavior total 
+number of endorsed items (rs = - 0.32, unadjusted p = 0.0019, adjusted p = 
+0.01). IQ did not correlate with any other RBS-R subscale scores.
+CONCLUSIONS: The RBS-R total overall score in a PMS cohort appears milder 
+compared to individuals with ASD characterized in previous studies. Stereotypic 
+behavior in PMS may reflect cognitive functioning.

@@ -1,0 +1,29 @@
+Training GPs to improve their management of work-related problems: results of a 
+cluster randomized controlled trial.
+
+1/BACKGROUND: Paying attention to their patients' work and recognizing 
+work-related problems is challenging for many general practitioners (GPs).
+OBJECTIVES: To assess the effect of training designed to improve the care for 
+patients with work-related problems in general practice.
+
+2/METHODS: A cluster randomized controlled trial among 32 Dutch GPs. GPs in the 
+intervention group received five-hour training. GPs in the control group were 
+not trained. Included patients (age 18-63, working ≥12 h per week) completed 
+baseline questionnaires and follow-up questionnaires planned after one year. 
+Primary outcome at patient level was patients' expectations about their ability 
+to work, measured using the return-to-work self-efficacy scale (RTW-SE). Primary 
+outcomes on GP level were their use of ICPC-code Z05 ('work-related problem') 
+per 1000 working-age patients and percentage of the electronic medical files of 
+working-age patients in which information about occupation had been recorded.
+
+3/RESULTS: A total of 640 patients completed the baseline questionnaire and 281 
+the follow-up questionnaire. We found no statistically significant differences 
+in patients' RTW-SE scores: intervention 4.6 (95%CI: 4.2-5.0); control 4.5 
+(95%CI: 4.1-4.9). Twenty-nine GPs provided data about the GP-level outcomes, 
+which showed no statistically significant differences: use of ICPC code Z05 11.6 
+(95%CI: 4.7-18.6) versus 6.0 (95%CI: -1.2 to 13.2) per 1000 working-age 
+patients; recording of occupation 28.8% (95%CI: 25.8-31.7) versus 28.6% (95%CI: 
+25.6-31.6).
+
+4/CONCLUSION: Training GPs did not improve patients' work-related self-efficacy or 
+GPs' registration of work-related problems and occupation.

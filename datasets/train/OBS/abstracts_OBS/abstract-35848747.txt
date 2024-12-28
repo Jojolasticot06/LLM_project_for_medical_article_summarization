@@ -1,0 +1,26 @@
+OBJECTIVE: To determine the association between olfactory function and cognition 
+in patients and rodents.
+BACKGROUND: Perioperative neurocognitive disorders include delayed 
+neurocognitive recovery (dNCR). The contribution of olfactory function to dNCR 
+remains undetermined. It is unknown whether odor enrichment could mitigate dNCR.
+METHODS: We performed a prospective observational cohort study to determine 
+potential association between olfactory impairment and dNCR in patients. We 
+assessed the effects of anesthesia/surgery on olfactory and cognitive function 
+in mice using the block test and Barnes maze. We measured interleukin-6 (IL-6), 
+olfactory mature protein, growth-associated protein 43, mature and premature 
+olfactory neurons, postsynaptic density 95, and synaptophysin in blood, nasal 
+epithelium, and hippocampus of mice. Odor enrichment, IL-6 antibody, and 
+knockout of IL-6 were used in the interaction experiments.
+RESULTS: Patients with dNCR had worse odor identification than the patients 
+without dNCR [preoperative: 7 (1.25, 9) vs 10 (8, 11), median (interquartile 
+range), P <0.001; postoperative: 8 (2.25, 10) vs 10 (8, 11), P <0.001]. 
+Olfactory impairment associated with dNCR in patients before and after adjusting 
+age, sex, education, preoperative mini-mental state examination score, and days 
+of the neuropsychological tests. Anesthesia/surgery induced olfactory and 
+cognitive impairment, increased levels of IL-6 in blood and nasal epithelium, 
+decreased amounts of olfactory receptor neurons and their markers in the nasal 
+epithelium, and reduced amounts of synapse markers in the hippocampus of mice. 
+These changes were attenuated by odor enrichment and IL-6 antibody.
+CONCLUSION: The anesthesia/surgery-induced olfactory impairment may contribute 
+to dNCR in patients and postoperative cognitive impairment in mice. Odor 
+enrichment could be a potential intervention.

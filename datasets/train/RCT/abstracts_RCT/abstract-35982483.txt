@@ -1,0 +1,37 @@
+Olverembatinib (HQP1351), a well-tolerated and effective tyrosine kinase 
+inhibitor for patients with T315I-mutated chronic myeloid leukemia: results of 
+an open-label, multicenter phase 1/2 trial.
+
+1/BACKGROUND: BCR-ABL1T315I mutations confer resistance to tyrosine kinase 
+inhibitors (TKIs) in chronic myeloid leukemia (CML). Olverembatinib is a new 
+potent BCR-ABL1 TKI with preclinical activity against T315I-mutated CML. In 
+phase 1/2 studies, we explored the safety and efficacy of olverembatinib in 
+Chinese adults with TKI-resistant CML in the chronic phase (CML-CP) and 
+accelerated phase (CML-AP).
+
+2/METHODS: In the phase 1 study, olverembatinib was orally administered once every 
+other day in 28-day cycles at 11 dose cohorts ranging from 1 to 60 mg, and we 
+evaluated the maximum tolerated dose, recommended phase 2 dose (RP2D), safety, 
+efficacy, and pharmacokinetics of olverembatinib. In the phase 2 studies, 
+olverembatinib was administered at the RP2D of 40 mg orally on alternate days 
+for 28-day cycles. The primary outcome measure is major cytogenetic response 
+(MCyR) and major hematologic response by the end of Cycle 12 in CML-CP and 
+CML-AP, respectively. Fine and Gray's hazard models were used to identify 
+covariates associated with responses.
+
+3/RESULTS: A total of 165 patients (> 80.0% of whom had received ≥ 2 TKIs) were 
+enrolled in this study. Among 127 patients with CML-CP, the 3-year cumulative 
+incidences of achieving MCyR, complete cytogenetic response (CCyR), major 
+molecular response (MMR), MR4.0, and MR4.5 were 79.0, 69.0, 56.0, 44.0 and 
+39.0%, respectively. The highest response rates were observed in patients with a 
+single T315I mutation. Among 38 patients with CML-AP, the 3-year cumulative 
+incidences of achieving MCyR, CCyR, MMR, MR4.0, and MR4.5 were 47.4%, 47.4%, 
+44.7%, 39.3%, and 32.1%, respectively. In multivariate analyses, baseline 
+BCR-ABL1 mutation status was significantly associated with cytogenetic and 
+molecular responses. Common treatment-related adverse events included skin 
+hyperpigmentation, hypertriglyceridemia, proteinuria, and severe 
+thrombocytopenia.
+
+4/CONCLUSIONS: Olverembatinib was well tolerated, with significant antileukemic 
+activity in adults with TKI-resistant CML-CP and CML-AP, especially those with 
+the T315I mutation.

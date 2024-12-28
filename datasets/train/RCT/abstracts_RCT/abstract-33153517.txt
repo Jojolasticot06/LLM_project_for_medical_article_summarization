@@ -1,0 +1,20 @@
+Effects of primary care C-reactive protein point-of-care testing on antibiotic 
+prescribing by general practice staff: pragmatic randomised controlled trial, 
+England, 2016 and 2017.
+
+1/Background
+C-reactive protein (CRP) testing can be used as a point-of-care test (POCT) to guide antibiotic use for acute cough.
+Aim
+We wanted to determine feasibility and effect of introducing CRP POCT in general practices in an area with high antibiotic prescribing for patients with acute cough and to evaluate 
+patients' views of the test.
+
+2/Methods
+We used a McNulty-Zelen cluster pragmatic randomised controlled trial design in general practices in Northern England. Eight intervention practices accepted CRP testing and eight control practices maintained usual practice. Data collection included process evaluation, patient questionnaires, practice audit and antibiotic prescribing data.
+
+3/Results
+Eight practices with over 47,000 patient population undertook 268 CRP tests over 6 months: 78% of patients had a CRP < 20 mg/L, 20% CRP 20-100 mg/L and 2% CRP > 100 mg/L, where 90%, 22% and 100%, respectively, followed National Institute for Health and Care Excellence (NICE) antibiotic prescribing guidance. 
+Patients reported that CRP testing was comfortable (88%), convenient (84%), useful (92%) and explained well (85%). Patients believed CRP POCT aided clinical diagnosis, provided quick results and reduced unnecessary antibiotic use. Intervention practices had an estimated 21% reduction (95% confidence interval: 0.46-1.35) in the odds of prescribing for cough compared with the controls, a non-significant but clinically relevant reduction.
+
+4/Conclusions
+In routine general practice, CRP POCT use was variable. Non-significant reductions in antibiotic prescribing may reflect small sample size due to non-use of tests. While CRP 
+POCT may be useful, primary care staff need clearer CRP guidance and action planning according to NICE guidance.

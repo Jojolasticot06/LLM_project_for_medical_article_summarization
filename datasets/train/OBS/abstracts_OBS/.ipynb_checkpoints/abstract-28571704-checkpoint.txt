@@ -1,0 +1,26 @@
+PURPOSE: The aim of this study was to assess the feasibility, safety and 
+efficacy of percutaneous radiofrequency ablation of lung metastases from 
+colorectal carcinoma using C-arm cone beam computed tomography (CBCT) guidance.
+MATERIAL AND METHODS: This single-center prospective observational study was 
+performed from August 2013 to August 2016, and included consecutive patients 
+referred for radiofrequency ablation of lung metastases from colorectal cancer. 
+Radiofrequency ablation procedures were performed under C-arm CBCT guidance. 
+Feasibility was assessed by probe accuracy placement, time to accurate placement 
+and number of C-arm CBCT acquisitions to reach the target lesion. Safety was 
+assessed by the report of adverse event graded using the common terminology 
+criteria for adverse events (CTCAE-V4.0). Efficacy was assessed by metastases 
+response rate using RECIST 1.1 and 18FDG-PET-CT tumor uptake at 6months.
+RESULTS: Fifty-four consecutive patients (32 men, 22 women) with a mean age of 
+63±8 (SD) years (range: 51-81years) with a total of 56 lung metastasis from 
+colorectal metastases were treated in a single session. The mean tumor diameter 
+was 25.6±4.5 (SD)mm (range: 17-31mm). Median time to insert the needle into the 
+target lesion was 10min (range: 5-25min). Median number of needles repositioning 
+and C-arm CBCT acquisition per patient was 1 (range: 0-3) and 4 (range: 3-6) 
+respectively. The accuracy for radiofrequency ablation probe placement was 2±0.2 
+(SD)mm (range: 0-9mm). Pneumothorax requiring chest tube placement occurred in 
+one patient (CTCAE-V4.0 grade 3). At 6months, all patients were alive with tumor 
+response rate of -27% and had no significant activity on the 18FDG-PET CT 
+follow-up.
+CONCLUSION: Percutaneous radiofrequency ablation of lung metastases from 
+colorectal cancer under C-arm CBCT guidance is feasible and safe, with immediate 
+and short-term results similar to those obtained using conventional CT guidance.

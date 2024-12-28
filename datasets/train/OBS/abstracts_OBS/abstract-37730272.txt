@@ -1,0 +1,28 @@
+BACKGROUND: Rheumatic immune-related adverse events (R-irAEs) occur in 5-15% of 
+patients receiving immune checkpoint inhibitors (ICI) and, unlike other irAEs, 
+tend to be chronic. Herein, we investigate the factors influencing cancer and 
+R-irAEs outcomes with particular focus on adverse effects of anti-inflammatory 
+treatment.
+METHODS: In this prospective, multicenter, long-term, observational study, 
+R-irAEs were comprehensively analyzed in patients with malignant melanoma (MM, 
+n=50) and non-small cell lung cancer (NSCLC, n=41) receiving ICI therapy who 
+were enrolled in the study between August 1, 2018, and December 11, 2022.
+RESULTS: After a median follow-up of 33 months, progressive disease or death 
+occurred in 66.0% and 30.0% of MM and 63.4% and 39.0% of patients with NSCLC. 
+Male sex (progression-free survival (PFS): p=0.013, and overall survival (OS): 
+p=0.009), flare of a pre-existing condition (vs de novo R-irAE, PFS: p=0.010) 
+and in trend maximum glucocorticoid (GC) doses >10 mg and particularly ≥1 mg/kg 
+prednisolone equivalent (sex-adjusted PFS: p=0.056, OS: p=0.051) were associated 
+with worse cancer outcomes. Patients receiving disease-modifying antirheumatic 
+drugs (DMARDs) showed significantly longer PFS (n=14, p=0.011) and OS (n=20, 
+p=0.018). Effects of these variables on PFS and/or OS persisted in adjusted Cox 
+regression models. Additionally, GC treatment negatively correlated with the 
+time from diagnosis of malignancy and the latency from ICI start until R-irAE 
+onset (all p<0.05). R-irAE features and outcomes were independent of other 
+baseline patient characteristics in both studied cancer entities.
+CONCLUSION: Male sex, flare of pre-existing rheumatologic conditions and 
+extensive GC treatment appeared to be linked with unfavorable cancer outcomes, 
+while DMARD use had a favorable impact. These findings challenge the current 
+dogma of restrictive DMARD use for R-irAE and thus may pave the way to better 
+strategies and randomized controlled trials for the growing number of patients 
+with R-irAE.

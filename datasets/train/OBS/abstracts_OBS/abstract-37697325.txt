@@ -1,0 +1,33 @@
+BACKGROUND: Multimorbidity is common in women across the life course. Preterm 
+birth is the single biggest cause of neonatal mortality and morbidity. We aim to 
+estimate the prevalence of multimorbidity in pregnant women and to examine the 
+association between maternal multimorbidity and PTB.
+METHODS: This is a retrospective cohort study using electronic health records 
+from the Scottish Morbidity Records. All pregnancies among women aged 15 to 49 
+with a conception date between 1 January 2014 and 31 December 2018 were 
+included. Multimorbidity was defined as the presence of two or more pre-existing 
+long-term physical or mental health conditions, and complex multimorbidity as 
+the presence of four or more. It was calculated at the time of conception using 
+a predefined list of 79 conditions published by the MuM-PreDiCT consortium. PTB 
+was defined as babies born alive between 24 and less than 37 completed weeks of 
+gestation. We used Generalised Estimating Equations adjusted for maternal age, 
+socioeconomic status, number of previous pregnancies, BMI, and smoking history 
+to estimate the effect of maternal pre-existing multimorbidity. Absolut rates 
+are reported in the results and tables, whilst Odds Ratios (ORs) are adjusted 
+(aOR).
+RESULTS: Thirty thousand five hundred fifty-seven singleton births from 27,711 
+pregnant women were included in the analysis. The prevalence of pre-existing 
+multimorbidity and complex multimorbidity was 16.8% (95% CI: 16.4-17.2) and 3.6% 
+(95% CI: 3.3-3.8), respectively. The prevalence of multimorbidity in the 
+youngest age group was 10.2%(95% CI: 8.8-11.6), while in those 40 to 44, it was 
+21.4% (95% CI: 18.4-24.4), and in the 45 to 49 age group, it was 20% (95% CI: 
+8.9-31.1). In women without multimorbidity, the prevalence of PTB was 6.7%; it 
+was 11.6% in women with multimorbidity and 15.6% in women with complex 
+multimorbidity. After adjusting for maternal age, socioeconomic status, number 
+of previous pregnancies, Body Mass Index (BMI), and smoking, multimorbidity was 
+associated with higher odds of PTB (aOR = 1.64, 95% CI: 1.48-1.82).
+CONCLUSIONS: Multimorbidity at the time of conception was present in one in six 
+women and was associated with an increased risk of preterm birth. Multimorbidity 
+presents a significant health burden to women and their offspring. Routine and 
+comprehensive evaluation of women with multimorbidity before and during 
+pregnancy is urgently needed.

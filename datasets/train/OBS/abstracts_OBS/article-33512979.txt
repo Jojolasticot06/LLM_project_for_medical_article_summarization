@@ -1,0 +1,153 @@
+Cardiovascular disease continues to be the leading cause of death in the United States for both men and women, and current guidelines recommend that all patients who experience an acute myocardial infarction and chronic systolic heart failure or undergo percutaneous coronary intervention or cardiac surgery attend cardiac rehabilitation (CR).1–4 Although the benefits of CR have been clearly established, it continues to be underutilized; only 19-34% of eligible individuals participate in CR.2,5–7 This underutilization of CR has led to national efforts such as the Million Hearts Initiative to increase participation, setting an ambitious goal of 70% participation by 2022.8
+
+While several studies have identified anxiety, depression, or lack of social support as barriers to CR, these studies have been small, retrospective secondary analyses without in-depth demographic, behavioral, and psychosocial measures.9–11 Ades et al12 demonstrated in 1992 that the strength of physician recommendation for CR participation was the most powerful predictor of CR entry; however, factors such as cardiac diagnosis or left ventricular ejection fraction (EF) did not predict participation. In addition, system-level factors such as lack of referral or geographic lack of program affect CR enrollment.7,13 The majority of these studies are not reflective of contemporary practice; for example, diagnostic indications for phase 2 CR have expanded to include patients with systolic heart failure and percutaneous heart valve replacement and repair, allowing more patients access to the program. Thus, while past studies have examined barriers to CR, there is need for a prospective examination, within the contemporary environment, that takes into account various psychosocial predictors pertinent to participation in CR. Aspects such as executive function, self-reported physical function, EF, and education level and its relationship with CR attendance have not routinely been examined.
+
+The primary purpose of this study was to determine the medical, psychosocial, and behavioral factors that influence CR participation among men and women using a prospective approach in which patients were interviewed and completed comprehensive behavioral assessments in hospital. A secondary goal of these analyses is to inform evidence-based approaches to increasing CR participation.
+
+Go to:
+METHODS
+This was a prospective single-center study conducted from August 2018 to September 2019 at the University of Vermont Medical Center (UVMMC). The University of Vermont Institutional Review Board approved this study.
+
+Patients with a CR qualifying event (myocardial infarction, percutaneous coronary intervention, stable angina, heart failure with reduced EF [≤35%], coronary bypass, or heart valve surgery) were interviewed during their inpatient stay after obtaining informed consent. Participants were informed that this was a study to determine predictors of recovery from a cardiac event; CR was specifically not mentioned to avoid influencing patient attendance. Eligibility criteria included residence in the catchment area of the UVMMC CR program without plans to leave the area. Patients were ineligible if they had severe cognitive delay/ dementia, terminal illness (eg, advanced cancer), or other comorbidities that would impede ability to exercise (eg, severe arthritis).
+
+Patients were interviewed by the principal investigator or a research assistant at time of hospitalization to gather demographics, clinical, and psychosocial data. Demographic data included age, sex, educational attainment, and smoking status through self-report. Clinical data included the medical diagnosis, body mass index (BMI), left ventricular EF (obtained by echocardiogram), electronic referral to CR, and selected comorbidities (chronic pulmonary disease, peripheral arterial disease, diabetes mellitus, and stroke/transient ischemic attack). Psychosocial data were collected through a series of validated questionnaires: anxiety screening (General Anxiety Disorder [GAD-7]), depression screening (Patient Health Questionnaire [PHQ-9]), self-reported physical functioning assessment (Medical Outcomes Study Short Form-36 [MOS SF-36 Physical Function] survey questionnaire) and assessment of social support via the Duke Social Support Index (DSSI).14–17 In addition, executive function was assessed using the Behavioral Rating Inventory of Executive Function, a validated and standardized measure of subjective executive function in an everyday environment (BRIEF-A).18
+
+One week after hospital discharge, patients were contacted via telephone call to inquire about their overall health status; at that time, patient perceived strength of physician provider recommendation to participate in CR was assessed. A 5-point Likert scale was used to measure the strength of recommendation, with options ranging from 1 (recommend against CR), 2 (do not remember), 3 (mentioned but not recommended), 4 (mentioned and recommended), or 5 (mentioned and strongly recommended). Patients were then followed to determine enrollment and participation in CR. Similar with prior studies, CR participation was defined as having attended ≥1 CR session.7,19
+
+Patients who did not enroll in CR were contacted by telephone 4 mo following hospital discharge to assess reason for lack of CR participation.
+
+STATSICAL ANALYSES
+Frequencies and means of baseline characteristics were calculated and were compared between CR participants and non-CR participants as well as between sexes using chi-square tests for categorical variables and the t test for continuous variables. Logistic regression analysis was performed to find a best fitting model predicting CR participation, with psychosocial and medical variables as independent variables. Univariate logistic regression was conducted with 12 possible predictors (age, qualifying diagnosis, smoking status prior to hospitalization, BMI, social support, anxiety, depression, executive function, level of education, EF, use of electronic referral, and strength of physician recommendation). Subsequently, a multivariable logistic regression model for enrollment in CR was performed for all variables that were significant from the univariate analysis. Results from regressions are reported as ORs with a 95% CI. A P value of <.05 was used to indicate statistical significance. Statistical analyses were performed using SAS version 9.0 (SAS Institute, Inc).
+
+A Classification and Regression Tree (CART) analysis was performed to quantify which of the variables identified in logistic regression analyses were most important in predicting CR participation and how combinations of those variables (risk profiles) affect the likelihood of participation.20 A CART is a nonparametric procedure for dividing a population of interest into mutually exclusive subcategories based on a dependent variable of interest.21 During this process, the observed independent variables with the most explanatory power in accounting for that dependent variable are identified. These observed variables can be used repeatedly across branches, depending on their relative importance in splitting groups. Beginning with the entire sample, an algorithm identifies a single independent variable, where splitting the sample (parent node) on that variable will maximize the distinction between the two resulting subsamples (child nodes) on the dependent variable. When variables are continuous, the analysis determines what score, when used as a cutoff, will maximize differences in the resulting nodes. Nodes continue to be split into subsamples in this fashion, based on which independent variable will continue to maximize distinction between the resulting nodes until further splits do not significantly improve classification within the model (terminal nodes). The “rpart” package in R was used to perform the CART analysis.22
+
+Go to:
+RESULTS
+We identified 378 patients in hospital as potentially eligible for inclusion in the study. Of these, 46 patients declined (39% females) and 38 were ineligible (21% females) due to dementia (n = 7) or severe comorbidities/terminal illness (n = 31). There was no difference in study enrollment between men and women (data not shown). The final study population included 294 individuals (31% females). Baseline characteristics were analyzed separately by CR participation (Table 1).
+
+Table 1.
+Baseline Characteristics for CR and Non-CR Participantsa
+
+CR Participants (n = 175)	Non-CR Participants (n = 119)	P Value
+Age, yr	68.3 ± 12	67.7 ± 12	.67
+Sex, male	128 (73)	74 (62)	.05
+BMI, kg/m2	29.5 ± 6	29.7 ± 6	.48
+Current smokers	13 (7)	22 (18)	<.001
+High school or higher education	72 (41)	65 (55)	<.001
+Electronic referral	165 (94)	77 (65)	<.001
+Surgical diagnosis	42 (24)	6 (5)	<.001
+Ejection fraction >50%	113 (65)	51 (43)	<.001
+Strength of physician	4.2± 1	3.3±1	<.001
+ recommendation			
+Comorbidities			
+ Chronic pulmonary disease	17 (8)	7 (6)	.81
+ Diabetes mellitus	43 (25)	40 (34)	.09
+ Peripheral arterial disease	4 (2)	7 (6)	.11
+ Orthopedic limitations	19 (11)	8 (7)	.78
+ Stroke	7 (4)	4 (3)	.78
+Psychosocial assessments			
+ PHQ-9 score	3.7 ± 6	5 ± 5	.08
+ GAD-7 score	4.4 ± 5	4.9 ± 5	.46
+ MOS SF-36 Physical	64 ± 30	56.3 ± 30	.03
+  Function score			
+BRIEF (T-scores)			
+ Behavioral Regulation Index	47.2 ± 9	46.4 ± 7	.46
+ Global Executive Composite	47.7 ± 8	47.4 ± 8	.81
+Duke Social Support Index	28.3 ± 3	27.5 ± 4	.04
+Open in a separate window
+Abbreviations: BMI, body mass index; BRIEF, Behavioral Rating Inventory of Executive Function; CR, cardiac rehabilitation; GAD-7, Generalized Anxiety Disorder Questionnaire; MOS SF-36 Physical Function, Medical Outcomes Study Short Form-36 Physical Function Component; PHQ-9, Patient Health Questionnaire.
+
+aData present as mean ± SD or n (%).
+PREDICTORS OF CR PARTICIPATION
+A total of 175 patients (60%) enrolled and participated in ≥1 session of CR. Predictors, or correlates, of CR participation can be seen in Table 2. Electronic referral (OR = 8.79; 95% CI, 4.18-18.45), surgical diagnosis (OR = 5.95; 95% CI, 2.44-14.50), and non/former smoker (OR = 2.86; 95% CI, 1.38-5.92) were the most powerful univariate predictors of CR participation. In addition, EF >50% (OR = 2.56; 95% CI, 1.56-4.20), higher educational attainment (OR = 1.71; 95% CI, 1.07-2.75), stronger physician recommendation (OR = 1.68; 95% CI, 1.34-2.11), higher physical function (OR = 1.01; 95% CI, 1.00-1.02), and more social support (OR = 1.01; 95% CI, 1.00-1.12) were favorably associated with CR participation in the overall population. There were no significant differences in participation due to measures of anxiety, depression, or executive function.
+
+Table 2.
+Correlates for CR Participation
+
+OR (95% CI)	P Value
+Correlates for CR participation
+Univariate analysis
+ Electronic referral	8.79 (4.18-18.45)	<.001
+ Surgical diagnosis	5.95 (2.44-14.50)	<.001
+ Non/former smoker	2.86 (1.38-5.92)	<.001
+ Ejection fraction >50%	2.56 (1.56-4.20)	.001
+ College-level or higher education	1.71 (1.07-2.75)	.03
+ Strength of physician recommendation	1.68 (1.34-2.11)	<.001
+ Male sex	1.67 (1.01-2.72)	.05
+ MOS SF-36 Physical Function score	1.01 (1.00-1.02)	.03
+ Duke Social Support Index	1.01 (1.00-1.12)	.04
+Multivariate analysis
+ Electronic referral	7.05 (2.57-19.21)	<.001
+ Surgical diagnosis	4.01 (1.23-13.34)	.02
+ Non/former smoker	3.19 (1.17-8.66)	.02
+ Male sex	2.12 (1.01-4.79)	.05
+ College-level or higher education	1.43 (0.70-2.95)	.32
+ Strength of physician recommendation	1.40 (1.01-1.89)	.02
+ Duke Social Support Index	1.08 (0.98-1.19)	.12
+ MOS SF-36 Physical Function score	1.01 (0.99-1.02)	.32
+Correlates for CR participation within women
+Univariate analysis
+ Electronic referral	13.66 (2.9-63.67)	<.001
+ Surgical diagnosis	5.81 (1.20-28.22)	.03
+ Strength of physician recommendation	1.63 (1.07-2.48)	.02
+Multivariate analysis
+ Electronic referral	11.34 (2.24-57.35)	.003
+ Surgical diagnosis	6.27 (1.06-37.25)	.04
+Correlates for CR participation within men
+Univariate analysis
+ Electronic referral	7.35 (3.09-17.47)	<.001
+ Surgical diagnosis	5.83 (1.97-17.25)	.001
+ Non/former smoker	3.86 (1.67-8.92)	.001
+ Ejection fraction >50%	3.27 (1.76-6.09)	.001
+ College-level or higher education	1.82 (1.01-3.26)	.04
+ Strength of physician recommendation	1.72 (1.31-2.26)	<.001
+ Duke Social Support Index	1.08 (1.00-1.17)	.04
+Multivariate analysis
+ Electronic referral	6.39 (2.45-16.61)	<.001
+ Surgical diagnosis	4.37 (1.17-16.44)	.03
+ Non/former smoker	2.78 (1.08-7.18)	.03
+ Ejection fraction >50%	2.39 (1.15-4.95)	.02
+Open in a separate window
+Abbreviations: CR, cardiac rehabilitation; MOS SF-36 Physical Function, Medical Outcomes Study Short Form-36 Physical Function Component.
+
+Factors associated with CR participation in the univariate logistic regression model were entered into a multivariate model; four factors were identified as independent correlates for CR participation: electronic referral (OR = 7.05; 95% CI, 2.57-19.21), surgical diagnosis (OR = 4.01; 95% CI, 1.23-13.34), non/former smoker (OR = 3.19; 95% CI, 1.17-8.66), and stronger physician recommendation (OR = 1.4; 95% CI, 1.01-1.89). In addition, univariate and multivariate regressions were performed among men and women separately (Table 2).
+
+For women, electronic referral (OR = 13.66; 95% CI, 2.9-63.67), surgical diagnosis (OR = 5.81; 95% CI, 1.20-28.22), and strength of physician recommendation (OR = 1.63; 95% CI, 1.07-2.48) were univariate predictors of CR attendance. Use of electronic referral (OR = 11.34; 95% CI, 2.24-57.35) and surgical diagnosis (OR = 6.27; 95% CI, 1.06-37.25) were independent predictors for CR participation in women.
+
+Regarding men, electronic referral (OR = 7.35; 95% CI, 3.09-17.47), surgical diagnosis (OR = 5.83; 95% CI, 1.97-17.25), non/former smoker (OR = 3.86; 95% CI, 1.67-8.92), EF >50% (OR = 3.27; 95% CI, 1.76-6.09), college-level or higher education (OR = 1.82; 95% CI, 1.01-3.26), stronger physician recommendation (OR = 1.72; 95% CI, 1.31-2.26), and more social support (OR = 1.08; 95% CI, 1.00-1.17) were associated with CR participation. Of these, electronic referral (OR = 6.39; 95% CI, 2.45-16.61), surgical diagnosis (OR = 4.37; 95% CI, 1.17-16.44), non/former smoker (OR = 2.78; 95% CI, 1.08-7.18), and EF >50% (OR = 2.39; 95% CI, 1.15-4.95) were independent correlates for CR participation in men.
+
+The Figure shows the CART model of associations between CR attendance and the following risk factors: use of electronic referral, educational attainment, EF, self-reported physical function score (SF-36), physician recommendation, social support (DSSI), age, and sex. The top rectangle (node) represents the entire sample, whereas other nodes represent subgroups of the sample. Within each node, the top line lists the percentage of the overall sample represented within that node and the second line represents the percentage of the subsample that attended CR. Using the top node as an example, this node represents 100% of the sample and 60% of them attended CR. Lines below nodes represent the binary branching around particular risk factors and risk factor levels into subgroup nodes. For example, the first branching occurs around whether there was an electronic referral. Following this division, those with no referral make up 17% of the sample, only 20% of whom attended CR. Consequently, 83% of the sample received electronic referral, 68% of whom attended CR. Further divisions of nodes demonstrate how combinations of risk factors influence attendance. Overall, 13 terminal nodes or risk profiles were identified.
+
+An external file that holds a picture, illustration, etc.
+Object name is nihms-1705948-f0001.jpg
+Figure.
+A pruned, weighted CART model of associations between attendance and CR and the following risk factors: use of electronic referral, educational attainment (HS), EF, self-reported physical function score (SF-36), physician recommendation (phys rec), social support (DSSI), age, and sex. The top rectangle (node) represents the entire sample, while other nodes represent subgroups of the sample. Within each node, the top line lists the percentage of the overall sample represented within that node and the second line represents the percentage of the subsample that attended CR. Using the top node as an example, this node represents 100% of the sample and 60% of them attended CR. Lines below nodes represent the binary branching around particular risk factors and risk factor levels into subgroup nodes. For example, the first branching occurs around whether there was an electronic referral. Following this division, those with no referral make up 17% of the sample, only 20% of whom attended CR. Consequently, 83% of the sample received electronic referral, 68% of whom attended CR. Further divisions of nodes demonstrate how combinations of risk factors influence attendance. Abbreviations: CART, Classification and Regression Tree; CR, cardiac rehabilitation; DSSI, Duke Social Support Index; EF, ejection fraction; HS, high school; SF-36, Medical Outcomes Study Short Form-36.
+
+The CART analysis demonstrates how combinations of characteristics can drastically change the likelihood of CR attendance. For example, receiving a referral leads to the first big split; the percentage of those who attend CR is 68% in those who do receive a referral as compared with only 20% of those who did not. The next large split occurs within those who have been referred. Among this subsample, CR attendance is 70% among those who have at least a high school education and only 30% among those with less than a high school education. A third large split demonstrates how important combinations of factors are. Those with electronic referral, a high school education or higher, EF >50%, who received strong physician recommendation, and are male were the most likely cohort to participate in CR (89% likelihood). This contrasts with the women, who, when they share all those same characteristics, are still fairly likely to attend (68%). But the likelihood of women attending varies in a large part by whether they report higher levels of social support (77% CR attendance) or lower levels of support (33%).
+
+BARRIERS TO CR PARTICIPATION
+Of those enrolled in the study, 119 patients (40%) did not participate in CR. Four months following hospital discharge, patients were contacted for phone interviews to assess self-reported reasons for nonparticipation. Three attempts were made by the research assistant to contact the patient; 69 (58%) were able to be contacted. The following were found to be the major barriers for participation: lack of interest (23%), transportation issues (22%), or no referral/recommendation by provider (18%).
+
+Go to:
+DISCUSSION
+Cardiac rehabilitation is a comprehensive lifestyle program with well-known medical benefits, but it continues to be underutilized. Inspired by the Million Hearts Initiative of reaching 70% CR participation by 2022, our goal was to examine the medical, behavioral, and psychosocial factors that influence contemporary CR participation.8,23
+
+In 2011, Grace et al24 demonstrated that use of automatic electronic medical record-based CR referral can dramatically increase referral rates and thus participation in the Canadian system of care. A major limitation of the study, however, was that the measurement of CR referral and participation relied solely on patient self-report. In the present study, we objectively identified whether an electronic referral was placed at discharge and our data support the importance of an electronic referral in increasing CR participation in both men and women after a cardiac event. Given the evidence, following the conclusion of our study, we instituted the use of automatic electronic referral for all eligible patients upon discharge from our hospital inpatient cardiology or cardiothoracic surgery services.
+
+Ades et al12 highlighted the importance of physician recommendation to CR in 1992, and 28 yr later, this still holds true. Patients look to their physician for guidance as seen in this present study; those who received a strong recommendation from their provider for CR participation while in the hospital were much more likely to attend CR. Accordingly, we need to ensure that physicians and other health care providers endorse CR in the same manner as other treatments of secondary prevention such as statins or aspirin. Lack of endorsement is only partly overcome with an automatic referral as patients still highly value guidance of their primary caregiver/cardiologist when it comes to medical interventions.25
+
+A novel finding in our study was that those with an EF >50% were more likely to participate in CR than those who did not. To the best of our knowledge, this is the first time EF has been found to be a predictor for CR participation and this is highly relevant since patients with systolic chronic heart failure are now eligible for CR. Those with lower EF, particularly ≤35%, tend to be more ill or frail, so there might be a perception that these individuals may not benefit as much from CR.26,27 This, however, is not the case as participation in CR has been show to relieve symptoms and reduce clinical events in this cohort and since 2014, systolic heart failure has been a CMS-covered diagnosis for CR.28–31 Attention therefore needs to be placed among those with lower EF as they are less likely to enroll in CR.
+
+Participants in our CR program were less likely to smoke, had fewer comorbidities, had higher educational attainment, more frequently had surgical diagnosis, had better left ventricular function, and had strong social support compared with those who did not enroll. Unlike prior studies, psychosocial factors such as anxiety and depression, which were carefully measured, were not a predictor of participation in either men or women. The evaluation of executive function was a unique component to this study. While patients referred to CR tend to be older and have comorbidities, there does not appear to be corresponding impairment in executive function that might affect participation.
+
+Consistent with prior studies, the disparity in CR participation rates between men and women persists.32–34 However, women enrolled in our CR at a higher rate (50%) than previously reported. Overall, women referred to CR tended to be older and have more comorbidities than men. Thus, when examined in the multivariate analysis, sex was not an independent predictor of CR participation.
+
+A secondary goal of this study was to identify evidence-based approaches to increasing CR participation. Several factors associated with CR participation, however, are modifiable. In particular, the use of electronic referral was a key independent predictor for CR participation for both men and women as was the strength of physician referral.
+
+Our study has several strengths. First, it was a prospective study with a large sample size, included various CR qualifying events, and patients were interviewed during their inpatient stay for data collection and questionnaires rather than by retrospective medical record review. This study also included a large number of female cardiac patients, a vulnerable population often underrepresented in prior studies. We therefore were able to analyze patterns for CR participation in men and women separately and examine unique components that might affect enrollment. As demonstrated by the CART analysis, those with lower physical function, less than high school-level education, or EF <50% may require additional support to participate in CR.
+
+In terms of limitations, this was a single-center study with limited population diversity. The majority (98%) of patients were Caucasian (data not shown). Certain variables could not be included in the CART analysis of risk profile, given the relatively small number of current smokers and those with a surgical diagnosis. We did not obtain data on patient income, employment status, or insurance, which have been previously identified as barriers to CR participation. We did, however, measure educational status, a good measure of socioeconomic status. We also note that psychosocial assessments (GAD-7, PHQ-9) are measures of symptoms and are not necessarily reflective of clinical diagnoses. In addition, CR participation was defined as having attended ≥1 session; the number of sessions attended (adherence) was not examined in this study.
+
+Go to:
+CONCLUSION
+Variations in CR participation are associated with characteristics known at the time of hospitalization. Lack of referral, lower educational attainment, nonsurgical diagnosis, current smoking, and low/moderately reduced EF can predict patients at a highest risk of CR nonparticipation. Efforts need to be directed toward developing specific strategies to enhance CR participation. These factors include the use of automatic electronic referral for all eligible patients and ensuring that medical providers discuss and recommend participating in CR directly, in person, prior to hospital discharge.

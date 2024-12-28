@@ -1,0 +1,24 @@
+BACKGROUND: In patients with invasive fungal infection (IFI), the steady-state 
+serum trough concentration (C min) of voriconazole (VCZ) is highly variable and 
+can lead to treatment failure (C min < 0.5 mg/L) and toxicity (C min ≥ 5.0 
+mg/L). However, It remains challenging to determine the ideal maintenance dose 
+to achieve the desired C min level quickly.
+AIMS: This randomized, prospective observational single-center study aimed to 
+identify factors affecting VCZ-C min and maintenance dose and create an 
+algorithmic model to predict the necessary maintenance dose. MeThe study 
+enrolled 306 adult IFI patients, split into two groups: non-gene-directed (A) 
+(where CYP2C19 phenotype is not involved in determining VCZ dose) and 
+gene-directed (B) (where CYP2C19 phenotype is involved in determining VCZ dose).
+RESULTS: Results indicated that CYP2C19 genetic polymorphisms might 
+significantly impact VCZ loading and maintenance dose selection. CYP2C19 
+phenotype, C-reaction protein (CRP), and average daily dose/body weight were 
+significant influencers on VCZ-C min, while CYP2C19 phenotype, CRP, and body 
+weight significantly impacted VCZ maintenance dose. A feasible predictive 
+formula for VCZ stable maintenance dose was derived from the regression equation 
+as a maintenance dose (mg) =282.774-0.735×age (year)+2.946×body 
+weight(Kg)-19.402×CYP2C19 phenotype (UM/RM/NM:0, IM:1, PM:2)-0.316×CRP (mg/L) (p 
+< 0.001).
+DISCUSSION: DiThis formula may serve as a valuable supplement to the Clinical 
+Pharmacogenetics Implementation Consortium (CPIC®) guideline for CYP2C19 and VCZ 
+therapy, especially for IFI patients with highly variable inflammatory cytokines 
+during VCZ therapy.

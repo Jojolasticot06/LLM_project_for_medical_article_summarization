@@ -1,0 +1,39 @@
+OBJECTIVE: To examine associations of CUD with self-harm, suicide, and overall 
+mortality risk in youths with mood disorders.
+DESIGN, SETTING, AND PARTICIPANTS: A population-based retrospective cohort study 
+was performed using Ohio Medicaid claims data linked with death certificate 
+data. The analysis included 204 780 youths (aged 10-24 years) with a diagnosis 
+of mood disorders between July 1, 2010, and December 31, 2017, who were followed 
+up to 365 days from the index diagnostic claim until the end of enrollment, the 
+self-harm event, or death. Statistical analysis was performed from April 4 to 
+July 17, 2020.
+EXPOSURE: Physician-diagnosed CUD defined using outpatient and inpatient claims 
+from 180 days prior to the index mood disorder diagnostic claim through the 
+365-day follow-up period.
+MAIN OUTCOMES AND MEASURES: Nonfatal self-harm, all-cause mortality, and deaths 
+by suicide, unintentional overdose, motor vehicle crashes, and homicide. 
+Marginal structural models using inverse probability weights examined 
+associations between CUD and outcomes.
+RESULTS: This study included 204 780 youths (133 081 female participants 
+[65.0%]; mean [SD] age at the time of mood disorder diagnosis, 17.2 [4.10] 
+years). Cannabis use disorder was documented for 10.3% of youths with mood 
+disorders (n = 21 040) and was significantly associated with older age (14-18 
+years vs 10-13 years: adjusted risk ratio [ARR], 9.35; 95% CI, 8.57-10.19; and 
+19-24 years vs 10-13 years: ARR, 11.22; 95% CI, 10.27-12.26), male sex (ARR, 
+1.79; 95% CI, 1.74-1.84), Black race (ARR, 1.39; 95% CI, 1.35-1.44), bipolar or 
+other mood disorders (bipolar disorders: ARR, 1.24; 95% CI, 1.21-1.29; other 
+mood disorders: ARR, 1.20; 95% CI, 1.15-1.25), prior history of self-harm (ARR, 
+1.66; 95% CI, 1.52-1.82), previous mental health outpatient visits (ARR, 1.26; 
+95% CI, 1.22-1.30), psychiatric hospitalizations (ARR, 1.66; 95% CI, 1.57-1.76), 
+and mental health emergency department visits (ARR, 1.54; 95% CI, 1.47-1.61). 
+Cannabis use disorder was significantly associated with nonfatal self-harm 
+(adjusted hazard ratio [AHR], 3.28; 95% CI, 2.55-4.22) and all-cause mortality 
+(AHR, 1.59; 95% CI, 1.13-2.24), including death by unintentional overdose (AHR, 
+2.40; 95% CI, 1.39-4.16) and homicide (AHR, 3.23; 95% CI, 1.22-8.59). Although 
+CUD was associated with suicide in the unadjusted model, it was not 
+significantly associated in adjusted models.
+CONCLUSIONS AND RELEVANCE: Cannabis use disorder is a common comorbidity and 
+risk marker for self-harm, all-cause mortality, and death by unintentional 
+overdose and homicide among youths with mood disorders. These findings should be 
+considered as states contemplate legalizing medical and recreational marijuana, 
+both of which are associated with increased CUD.

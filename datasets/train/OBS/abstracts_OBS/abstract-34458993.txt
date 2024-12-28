@@ -1,0 +1,32 @@
+Quadriceps atrophy and morphological change is a known phenomenon that can 
+impact significantly on strength and functional performance in patients with 
+acute or chronic presentations conditions. Real-time ultrasound (RTUS) imaging 
+is a noninvasive valid and reliable method of quantifying quadriceps muscle 
+anatomy and architecture. To date, there is a paucity of normative data on the 
+architectural properties of superficial and deep components of the quadriceps 
+muscle group to inform assessment and evaluation of intervention programs. The 
+aims of this study were to (1) quantify the anatomical architectural properties 
+of the quadriceps muscle group (rectus femoris, vastus intermedius, and vastus 
+lateralis) using RTUS in healthy older adults and (2) to determine the 
+relationship between RTUS muscle parameters and measures of quadriceps muscle 
+strength. Thirty middle aged to older males and females (age range 55-79 years; 
+mean age =59.9 ± 7.08 years) were recruited. Quadriceps muscle thickness, 
+cross-sectional area, pennation angle, and echogenicity were measured using 
+RTUS. Quadriceps strength was measured using hand-held dynamometry. For the 
+RTUS-derived quadriceps morphological data, rectus femoris mean results; 
+circumference 9.3 cm; CSA 4.6 cm2 ; thickness 1.5 cm; echogenicity 100.2 pixels. 
+Vastus intermedius mean results; thickness 1.8 cm; echogenicity 99.1 pixels. 
+Vastus lateralis thickness 1.9 cm; pennation angle 17.3°; fascicle length 
+7.0 cm. Quadriceps force was significantly correlated only with rectus femoris 
+circumference (r = 0.48, p = 0.007), RF echogenicity (r = 0.38, p = 0.037), VI 
+echogenicity (r = 0.43, p = 0.018), and VL fascicle length (r = 0.43, 
+p = 0.019). Quadriceps force was best predicted by a three-variable model 
+(adjusted R2  = 0.46, p < 0.001) which included rectus femoris echogenicity 
+(B = 0.43, p = 0.005), vastus lateralis fascicle length (B = 0.33, p = 0.025) 
+and rectus femoris circumference (B = 0.31, p = 0.041). Thus respectively, 
+rectus femoris echogenicity explains 43%, vastus lateralis fascicle length 
+explains 33% and rectus femoris circumference explains 31% of the variance of 
+quadriceps force. The study findings suggest that RTUS measures were reliable 
+and further research is warranted to establish whether these could be used as 
+surrogate measures for quadriceps strength in adults to inform exercise and 
+rehabilitation programs.

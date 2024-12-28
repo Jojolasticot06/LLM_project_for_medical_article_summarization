@@ -1,0 +1,9 @@
+Improving alcohol treatment engagement using integrated behavioral interventions in alcohol-associated liver disease: A randomized pilot trial
+
+1/Introduction: Alcohol cessation improves mortality in alcohol-associated liver disease (ALD), but few ALD patients will engage in treatment. We aimed to demonstrate the feasibility and acceptability of a mobile health intervention to increase alcohol use disorder (AUD) treatment among ALD patients.
+
+2/Methods: We conducted a pilot randomized controlled trial (September 2020 to June 2022) at a single tertiary care center in adults with any stage of ALD, past 6-month drinking, and no past-month AUD treatment. Sixty participants were randomized 1:1 to a mobile health application designed to increase AUD treatment engagement through preference elicitation and matching to treatment and misconception correction. Controls received enhanced usual care. The primary outcomes were feasibility (recruitment and retention rates) and acceptability. Exploratory outcomes were AUD treatment engagement and alcohol use, measured by Timeline Followback. Outcomes were measured at 3 and 6 months.
+
+3/Results: Baseline characteristics were balanced. The recruitment rate was 46%. Retention was 65% at 6 months. The intervention was highly acceptable to participants (91% were mostly/very satisfied; 95% felt that the intervention matched them well to AUD treatment). Secondary outcomes showed increased AUD treatment at 6 months in the intervention group (intent-to-treat: 27.3% vs. 13.3%, OR 2.3, 95% CI, 0.61-8.76). There was a trend toward a 1-level or greater reduction in World Health Organization (WHO) drinking risk levels in the intervention group (OR 2.25, 95% CI, 0.51-9.97).
+
+4/Conclusions: A mobile health intervention for AUD treatment engagement was highly feasible, acceptable, and produced promising early outcomes, with improved AUD treatment engagement and alcohol reduction in ALD patients.

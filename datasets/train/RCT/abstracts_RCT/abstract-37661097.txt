@@ -1,0 +1,11 @@
+ONCOS-102 plus pemetrexed and platinum chemotherapy in malignant pleural mesothelioma: a randomized phase 2 study investigating clinical outcomes and the tumor microenvironment.
+
+1/BACKGROUND: ONCOS-102, an oncolytic adenovirus expressing granulocyte-macrophage colony-stimulating factor, can alter the tumor microenvironment to an immunostimulatory state. Combining ONCOS-102 with standard-of-care chemotherapy for malignant pleural mesothelioma (MPM) may improve treatment outcomes.
+
+2/METHODS: In this open-label, randomized study, patients with unresectable MPM received intratumoral ONCOS-102 (3×1011 virus particles on days 1, 4, 8, 36, 78, and 120) and pemetrexed plus cisplatin/carboplatin (from day 22), or pemetrexed plus cisplatin/carboplatin alone. The primary endpoint was safety. Overall 
+survival (OS), progression-free survival, objective response rate, and tumor immunologic activation (baseline and day 36 biopsies) were also assessed.
+
+3/RESULTS: In total, 31 patients (safety lead-in: n=6, randomized: n=25) were enrolled. Anemia (15.0% and 27.3%) and neutropenia (40.0% and 45.5%) were the most frequent grade ≥3 adverse events (AEs) in the ONCOS-102 (n=20) and chemotherapy-alone (n=11) cohorts. No patients discontinued ONCOS-102 due to 
+AEs. No statistically significant difference in efficacy endpoints was observed. There was a numerical improvement in OS (30-month OS rate 34.1% vs 0; median OS 20.3 vs 13.5 months) with ONCOS-102 versus chemotherapy alone in chemotherapy-naïve patients (n=17). By day 36, ONCOS-102 was associated with increased T-cell infiltration and immune-related gene expression that was not observed in the control cohort. Substantial immune activation in the tumor microenvironment was associated with survival at month 18 in the ONCOS-102 cohort.
+
+4/CONCLUSIONS: ONCOS-102 plus pemetrexed and cisplatin/carboplatin was well tolerated by patients with MPM. In injected tumors, ONCOS-102 promoted a proinflammatory environment, including T-cell infiltration, which showed association with survival at month 18.

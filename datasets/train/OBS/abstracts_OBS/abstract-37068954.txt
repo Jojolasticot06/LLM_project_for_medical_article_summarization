@@ -1,0 +1,36 @@
+BACKGROUND AND OBJECTIVES: MRI connectomics is an ideal tool to test a 
+network-based model of pathologic propagation from a disease epicenter in 
+neurodegenerative disorders. In this study, we used a novel graph theory-based 
+MRI paradigm to explore functional connectivity reorganization, discerning 
+between direct and indirect connections from disease epicenters, and its 
+relationship with neurodegeneration across clinical presentations of the 
+frontotemporal dementia (FTD) spectrum, including behavioral variant of FTD 
+(bvFTD), nonfluent variant of primary progressive aphasia (nfvPPA), and semantic 
+variant of primary progressive aphasia (svPPA).
+METHODS: In this observational cross-sectional study, disease epicenters were 
+defined as the peaks of atrophy of a cohort of patients with high confidence of 
+frontotemporal lobar degeneration pathology (Mayo Clinic). These were used as 
+seed regions for stepwise functional connectivity (SFC) analyses in an 
+independent (Milan) set of patients with FTD to assess connectivity in regions 
+directly and indirectly connected to the epicenters. Correlations between SFC 
+architecture in healthy conditions and atrophy patterns in patients with FTD 
+were also tested.
+RESULTS: As defined by comparing the 42 Mayo Clinic patients with 15 controls, 
+disease epicenters were the left anterior insula for bvFTD, left supplementary 
+motor area for nfvPPA, and left inferior temporal gyrus (ITG) for svPPA. 
+Compared with 94 age-matched controls, patients with bvFTD (n = 64) and nfvPPA 
+(n = 34) of the Milan cohort showed widespread decreased SFC in bilateral 
+cortical regions with direct/indirect connections with epicenters and increased 
+SFC either in directly connected regions, physically close to the respective 
+seed region, or in more distant cortical/cerebellar areas with indirect 
+connections. Across all link steps, svPPA (n = 36) showed SFC decrease mostly 
+within the temporal lobes, with co-occurrent SFC increase in cerebellar regions 
+at indirect link steps. The average stepwise topological distance from the left 
+ITG in a reference group of 50 young healthy controls correlated with regional 
+gray matter volume in svPPA, consistent with network-based degeneration.
+DISCUSSION: Our findings demonstrate that each FTD syndrome is associated with a 
+characteristic interplay of decreased and increased functional connectivity with 
+the disease epicenter, affecting both direct and indirect connections. SFC 
+revealed novel insights regarding the topology of functional disconnection 
+across FTD syndromes, holding the promise to be used to model disease 
+progression in future longitudinal studies.

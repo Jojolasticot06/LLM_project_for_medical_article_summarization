@@ -1,0 +1,23 @@
+OBJECTIVE: To compare the incidence of maternal near miss using the World Health 
+Organization (WHO) near-miss tool and six other criteria sets, including 
+criteria designed for low-resource settings or specifically for India.
+METHODS: In a cohort study we used WHO severity indicators to identify women 
+with potentially life-threatening conditions during pregnancy or childbirth 
+admitted to a referral hospital in Puducherry, India, from May 2018 to April 
+2021. We analysed sociodemographic, clinical and laboratory data for each woman 
+and calculated the incidence of maternal near miss and other process indicators 
+for each set of criteria.
+FINDINGS: We analysed data on 37 590 live births; 1833 (4.9%) women were 
+identified with potentially life-threatening conditions, 380 women had severe 
+maternal outcomes and 57 died. Applying the different sets of criteria to the 
+same data, we found the incidence of maternal near miss ranged from 7.6 to 15.6 
+per 1000 live births. Only the Global Network criteria (which exclude laboratory 
+data that may not be available in low-resource settings) and the WHO criteria 
+could identify all women who died. Applying the criterion of any number of units 
+of blood transfusion increased the overall number of women identified with near 
+miss.
+CONCLUSION: The WHO and Global Network criteria may be used to detect maternal 
+near miss in low-resource settings. Future studies could assess the usefulness 
+of blood transfusion as an indicator for maternal near miss, especially in low- 
+to middle-income countries where the indicator may not reflect severe maternal 
+morbidity if the number of units received is not specified.

@@ -1,0 +1,28 @@
+PURPOSE: The heterogeneity in sepsis is held responsible, in part, for the lack 
+of precision treatment. Many attempts to identify subtypes of sepsis patients 
+identify those with shared underlying biology or outcomes. To date, though, 
+there has been limited effort to determine overlap across these previously 
+identified subtypes. We aimed to determine the concordance of critically ill 
+patients with sepsis classified by four previously described subtype strategies.
+METHODS: This secondary analysis of a multicenter prospective observational 
+study included 522 critically ill patients with sepsis assigned to four 
+previously established subtype strategies, primarily based on: (i) clinical data 
+in the electronic health record (α, β, γ, and δ), (ii) biomarker data (hyper- 
+and hypoinflammatory), and (iii-iv) transcriptomic data (Mars1-Mars4 and 
+SRS1-SRS2). Concordance was studied between different subtype labels, clinical 
+characteristics, biological host response aberrations, as well as combinations 
+of subtypes by sepsis ensembles.
+RESULTS: All four subtype labels could be adjudicated in this cohort, with the 
+distribution of the clinical subtype varying most from the original cohort. The 
+most common subtypes in each of the four strategies were γ (61%), which is 
+higher compared to the original classification, hypoinflammatory (60%), Mars2 
+(35%), and SRS2 (54%). There was no clear relationship between any of the 
+subtyping approaches (Cramer's V = 0.086-0.456). Mars2 and SRS1 were most alike 
+in terms of host response biomarkers (p = 0.079-0.424), while other subtype 
+strategies showed no clear relationship. Patients enriched for multiple subtypes 
+revealed that characteristics and outcomes differ dependent on the combination 
+of subtypes made.
+CONCLUSION: Among critically ill patients with sepsis, subtype strategies using 
+clinical, biomarker, and transcriptomic data do not identify comparable patient 
+populations and are likely to reflect disparate clinical characteristics and 
+underlying biology.

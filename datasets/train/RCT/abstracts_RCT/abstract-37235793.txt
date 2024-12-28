@@ -1,0 +1,9 @@
+Efficacy and Safety of Keverprazan Compared With Lansoprazole in the Treatment of Duodenal Ulcer: A Phase III, Randomized, Double-Blind, Multicenter Trial
+
+1/Introduction: Keverprazan is a novel potassium-competitive acid blocker for the treatment of acid-related disorders requiring potent acid inhibition. This study aimed to establish the noninferiority of keverprazan to lansoprazole in the treatment of patients with duodenal ulcer (DU).
+
+2/Methods: In this phase III, double-blind, multicenter study, 360 Chinese patients with endoscopically confirmed active DU were randomized 1:1 to take either keverprazan (20 mg) or lansoprazole (30 mg) treatment for up to 6 weeks. The primary end point was DU healing rate at week 6. The secondary end point was DU healing rate at week 4. Symptom improvement and safety were also assessed.
+
+3/Results: Based on the full analysis set, the cumulative healing rates at week 6 were 94.4% (170/180) and 93.3% (166/178) for keverprazan and lansoprazole, respectively (difference: 1.2%; 95% confidence intervel: -4.0%-6.5%). At week 4, the respective healing rates were 83.9% (151/180) and 80.3% (143/178). In the per protocol set, the 6-week healing rates in keverprazan and lansoprazole groups were 98.2% (163/166) and 97.6% (163/167), respectively (difference: 0.6%; 95% confidence intervel: -3.1%-4.4%); the 4-week healing rates were respectively 86.8% (144/166) and 85.6% (143/167). Keverprazan was noninferior to lansoprazole in DU healing after the treatment for 4 and 6 weeks. The incidence of treatment-emergent adverse events was comparable among groups.
+
+4/Discussion: Keverprazan 20 mg had a good safety profile and was noninferior to lansoprazole 30 mg once daily for DU healing.

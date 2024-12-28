@@ -1,0 +1,860 @@
+Introduction 
+
+Coronavirus disease 2019 (COVID-19), caused by severe 
+acute respiratory syndrome coronavirus 2 (SARS-CoV-2), 
+had a strong impact on healthcare systems worldwide [1]. 
+Patients with severe pneumonia present high mortality 
+due to the large number of complications they face [2]. 
+Particularly, bacterial respiratory coinfection is a complication 
+extensively studied in the field of virus pandemics 
+such as severe influenza H1N1 pneumonia and 
+is reported to be associated with the severity of illness, 
+worse outcomes, and even with an increased risk of mortality 
+[3]. 
+
+In COVID-19 the prevalence of community-acquired 
+bacterial respiratory coinfections (from now, bacterial 
+coinfection) is reported to be inferior to 5% upon hospital 
+admission [4–6]. Although the impact on mortality 
+of this complication is still widely debated, almost threequarters 
+of patients with COVID-19 receive antibiotics, 
+so prescribing is significantly higher than the estimated 
+prevalence of bacterial coinfection [7]. Rule out bacterial 
+coinfection upon admission to the hospital in these 
+patients could potentially limit antibiotics overuse and 
+so reduce hospitalization costs, potential side-effects and 
+the development of multi-drug resistant infections [8]. 
+
+Procalcitonin (PCT) is a serum biomarker that has 
+shown promise in discriminating between viral and bacterial 
+infections [9, 10], being routinely used in combination 
+with clinical evidences as a guide to antibiotic 
+de-escalation/discontinuation in critically ill patients [11, 
+12]. The role of PCT in community-acquired pneumonia 
+(CAP) has been evaluated in multiple studies, with 
+
+Take-home message 
+In critically ill patients with pneumonia associated to coronavirus 
+disease 2019 a single determination of either procalcitonin or 
+C-reactive protein, at a single time point, is not enough to rule out 
+a bacterial coinfection. 
+
+no scientific consensus on its usefulness for diagnosis 
+or antibiotic initiation [13, 14]. On the other hand, PCT 
+showed promising results in the early recognition of bacterial 
+coinfection in influenza pneumonia [15]. 
+
+C-reactive protein (CRP), another well-known systemic 
+marker of inflammation and tissue damage, is extensively 
+used by clinicians to monitor infections [16]. In patients 
+with COVID-19, admission CRP correlated with disease 
+severity and tended to be a good predictor of adverse 
+outcome [17]. Furthermore, in patients with CAP PCT 
+is reported to be superior when assessing disease severity 
+in the first 48 h since symptoms onset whereas CRP is 
+a better choice in patients with symptoms for 3 or more 
+days [18]. 
+
+We therefore aimed to determine the role of PCT and 
+CRP in the identification of bacterial coinfection among 
+patients with COVID-19 pneumonia. 
+
+Methods 
+
+Study design and patients 
+
+We retrospectively analysed patients from the CIBERESUCICOVID 
+study (NCT04457505), which had prospectively 
+included consecutive patients aged = 
+18 years 
+with laboratory-confirmed SARS-CoV-2 infection from 
+
+across 55 Spanish intensive care units (ICUs) between 5 
+February 2020 and 21 December 2021 (Supplementary 
+Table 1). All consecutive patients admitted to the intensive 
+care unit (ICU) were enrolled if reason for admission 
+was COVID-19. Exclusion criteria for patients included: 
+
+(1) unconfirmed SARS-CoV-2 infection; (2) lack of data 
+at baseline or hospital discharge; (3) lack of data on testing 
+for bacterial infections and on the presence of bacterial 
+pneumonia during hospital stay; (4) lack of data on 
+both PCT and CRP at hospital and ICU admission; (5) 
+patient transfer from another ICU or nursing-home; (6) 
+antibiotic administration previous of hospital admission 
+was also an exclusion criterion for patients not presenting 
+a bacterial coinfection, in order to rule out possible 
+false negative. 
+The study received approval by the Institution’s Internal 
+Review Board (Comité Ètic d’Investigació Clínica, 
+registry number HCB/2020/0370). Local researchers 
+maintained contact with a study team member, and 
+participating hospitals obtained local ethics committee 
+approval. We reported results in accordance with the 
+Strengthening the Reporting of Observational Studies in 
+Epidemiology (STROBE) guidelines [19]. 
+
+Data collection and definitions 
+
+We collected data on demographics, comorbidities, clinical 
+symptoms, and treatment. Standard laboratory and 
+clinical data were collected at hospital and ICU admission, 
+particularly PCT and CRP levels. The pharmacological 
+treatments administered and interventions 
+performed during hospital admission until either dis-
+charge from hospital or death were also collected, as well 
+as outcomes [20]. 
+
+Bacterial coinfection was defined as any respiratory 
+bacterial infection diagnosed by the treating physicians 
+within 48 h since hospital admission, taking into account 
+clinical, laboratory and imaging evidences, with the isolation 
+of at least one respiratory pathogen in the blood or 
+in a good quality respiratory sample (sputum, tracheal 
+aspirate, or bronchoalveolar lavage) and/or positive urinary 
+antigens for Streptococcus pneumoniae or Legionella 
+pneumophila. Infections occurring later than 48 h since 
+hospital admission were considered as nosocomial 
+infections and not included in the present analysis [21]. 
+Patients were then classified according to whether or not 
+the diagnosis of bacterial coinfection was met. 
+
+Primary and secondary outcomes 
+
+The primary outcome was to investigate whether PCT or 
+CRP serum levels upon admission could predict bacterial 
+coinfection among patients with COVID-19 pneumonia. 
+The secondary outcome was to evaluate the association 
+of PCT and CRP with 30 days and 90 days mortality. 
+
+Biomarkers in higher risk profile subpopulations 
+and according to symptoms onset 
+
+In order to evaluate the clinical usefulness of PCT and 
+CRP in patients with an higher risk profile for bacterial 
+coinfection, we conducted subgroups analyses considering 
+the presence of septic shock and non-respiratory 
+Sequential Organ Failure Assessment (SOFA) score at 
+hospital admission. 
+
+Furthermore, as PCT and CRP present different kinetics, 
+we explored the potential correlation between biomarkers 
+values and time since symptoms onset, by 
+dividing the population in = 
+48 h and>48 h from symptoms 
+onset to hospital admission. 
+
+Statistical analysis 
+
+We reported the number and percentage of patients as 
+categorical variables, and the median [first quartile (Q1); 
+third quartile (Q3)] as continuous variables. Categorical 
+variables were compared using the chi-squared test 
+or Fisher’s exact test, whereas continuous variables were 
+compared using the nonparametric Mann–Whitney U 
+test. 
+
+To determine the predictive capacity of PCT and CRP 
+at hospital admission for bacterial coinfection, we determined 
+sensitivity, specificity, positive and negative predictive 
+value (NPV), and positive and negative likelihood 
+ratio (LR) [22–24], along with the 95% confidence inter-
+vals (CIs). We performed these analyses using different 
+PCT and CRP cut-off values based on different clinical 
+significance thresholds. 
+
+We analysed the association between PCT and CRP 
+at hospital admission (at 48 h) and bacterial coinfection 
+by means of a mixed-effects multivariable model [25, 
+26], defined by a binomial probability distribution and a 
+logit link function, with centres as a random effect. The 
+multivariable model included the following variables 
+based on clinical relevance only: age, sex, body mass 
+index, comorbidities, SOFA (without respiratory system 
+component), PaO2/FiO2 ratio at hospital admission, 
+leukocytosis (= 
+11 × 
+109/L) at hospital admission, PCT 
+at hospital admission, CRP at hospital admission and 
+COVID-19 wave. Odds ratios (ORs) and their 95% CIs 
+were calculated. Discrimination was assessed by the area 
+under the receiver operating characteristic curve (AUC). 
+
+To describe 30 days mortality, we utilized a Cox regression 
+model stratified on the centre variable [27]. A list of 
+candidate predictors was established a priori based on 
+previous findings and clinical constraints: age, sex, body 
+mass index, comorbidities, SOFA (without respiratory 
+system component), PaO2/FiO2 ratio at hospital admission 
+PCT at hospital admission, CRP at hospital admission, 
+leukocytosis (= 
+11 × 
+109/L) at hospital admission, 
+respiratory support at hospital admission, septic shock at 
+
+hospital admission, bacterial coinfection and COVID-19 
+wave. Hazard ratios (HRs) and their 95% CIs were calculated. 
+Proportional hazards assumptions were tested 
+with log minus log plots. Patients who were transferred 
+to another hospital were censored in survival analyses. 
+The same survival analysis was performed for 30 days 
+mortality. 
+
+Single collinearity in multivariable analyses was evaluated 
+using the Pearson correlation (r) and multicollinearity 
+was examined by means of the variance inflation 
+factor (VIF). 
+
+To account for missing data we used the multiple 
+imputation method [28]; further details regarding the 
+employed imputation methodology are presented in Supplementary 
+Table 2. 
+
+In addition, subgroup analysis were carried out taking 
+into account the presence of septic shock, non-respiratory 
+SOFA score (i.e., < 2 and = 
+2) and time from first 
+symptoms to hospital admission [i.e., early admission 
+(= 
+48 h) and late admission (> 48 h)]. 
+
+The level of significance was set at 0.05 (two-tailed). 
+No adjustments were made for multiple comparisons. All 
+analyses were performed using IBM SPSS version 26.0 
+(IBM Corp., Armonk, NY, USA) and R version 4.1.1 (R 
+Foundation for Statistical Computing, Vienna, Austria). 
+
+Results 
+
+Between 5 February 2020 and 21 December 2021, 6225 
+patients with COVID-19 were admitted to 55 ICUs. We 
+included 4076 patients in this analysis, 133 (3%) of whom 
+presented a community-acquired respiratory coinfection 
+(Supplementary Fig. 1). 
+
+Demographics and characteristics 
+
+Patient characteristics at hospital admission are reported 
+in Table 1. Patients without bacterial coinfection presented 
+less comorbidities than patient with coinfection 
+(45 vs. 55%; p = 
+0.019). Time from symptoms onset to 
+ICU admission and from hospital to ICU admission were 
+both shorter for the bacterial coinfection group. At hospital 
+admission, patients with bacterial coinfection had 
+lower PaO2/FiO2 ratio [200 (105; 277) vs. 165 (100; 237; 
+0.017)] and they were more likely to undergo invasive 
+mechanical ventilation (12 vs. 44%; p < 0.001); they also 
+had higher leukocyte, neutrophil and platelet counts. 
+
+Only 10 patients out of the 133 with bacterial coinfection 
+received an empirical antibiotic treatment before 
+hospital admission. 
+
+Supplementary Table 3 reports data on antibiotic prescription, 
+with 74% of patients without bacterial coinfection 
+receiving antibiotics within the first 48 h from 
+hospital admission. 
+
+Data on microorganisms isolated in the coinfection 
+group are displayed in Supplementary Table 4. The most 
+commonly found bacteria were Staphylococcus aureus, 
+Streptococcus pneumoniae and Haemophilus influenzae. 
+
+Supplementary Table 5 reports data on the sampling 
+techniques used to isolate the microorganisms responsible 
+for the bacterial coinfections. 
+
+Primary outcome 
+
+In our population, median values of PCT [0.19 (0.1; 0.44) 
+vs. 0.26 (0.12; 0.94) ng/mL; p = 
+0.01] and CRP [131 (70; 
+
+213) vs. 163 (109; 242) mg/L; p < 0.001] were significantly 
+higher in the bacterial coinfection group (Table 1). 
+In order to determine the best PCT and CRP values 
+to identify bacterial coinfection, we analysed different 
+cut-off points from the receiver operating characteristic 
+(ROC) curve, resulting in PCT = 
+0.12 ng/mL and 
+CRP = 
+97 mg/L being the best thresholds to identify 
+bacterial coinfection with a sensitivity higher than 80% 
+(Table 2); both biomarkers had low AUC scores at the 
+ROC curve analysis [0.57 (95% CI 0.51–0.61) and 0.6 
+(95% CI, 0.55–0.64) for PCT and CRP, respectively] (Supplementary 
+Fig. 2), but high NPV [97.5% (95% CI 96.5– 
+
+98.5) and 98.2% (95% CI 97.5–98.9) for PCT and CRP, 
+respectively] (Table 2). 
+In the multivariable models we analysed the association 
+between single biomarkers levels or their combination 
+and bacterial coinfection. In Model 1 PCT = 
+0.12 was not 
+associated with coinfection (OR 1.11, 95% CI 0.69–1.79; 
+p = 
+0.659), while a significance was detected both for 
+CRP alone and, in model 2, for the combination of the 
+two biomarkers (OR 2.0, 95% CI 1.25–3.19; p = 
+0.004 and 
+OR 1.72, 95% CI 1.15–2.56; p = 
+0.008 for CRP in Model 
+1 and for the combination of PCT and CRP in Model 2) 
+(Table 3). 
+
+Secondary outcome 
+
+The overall 15, 30 and 90 days mortality had a higher 
+trend in the bacterial coinfection group, but without significant 
+difference, as shown in Supplementary Table 6. In 
+the multivariable models assessing predictors of 30 days 
+mortality neither PCT = 
+0.12 ng/mL nor CRP = 
+97 mg/L 
+showed a significant association with higher mortality 
+(OR 1.17, 95% CI 0.97–1.40; p = 
+0.094 and OR 1.02, 95% 
+CI 0.87–1.19; p = 
+0.839 for PCT and CRP respectively) 
+(Supplementary Table 7), while for the 90-day mortality 
+a positive signal was only detected for PCT (OR 1.2, 95% 
+CI 1.03–1.4; p = 
+0.022)(Supplementary Table 8). 
+
+Biomarkers in higher risk profile subpopulations 
+and according to symptoms onset 
+
+In order to evaluate the performance of PCT and CRP 
+in patients with a higher risk profile, we conducted 
+
+Table 1 Characteristics of the study population 
+
+Variables No bacterial coinfection 
+(N 3943) 
+Bacterial coinfection 
+(N 133) 
+p value 
+Age, median (Q1; Q3), years 63 (54; 71) 65 (55; 72) 0.369 
+Male sex, n (%) 2777 (70) 86 (65) 0.547 
+BMI, median (Q1; Q3), kg/m2 28.9 (26.1; 32.3) 29.5 (26.1; 32.3) 0.105 
+Comorbidities, n (%)a 1758 (45) 73 (55) 0.019 
+Diabetes mellitus 961 (24) 39 (29) 0.192 
+Chronic liver disease 119 (3) 9 (7) 0.036 
+Chronic heart disease 469 (12) 25 (19) 0.016 
+Chronic lung disease 564 (14) 30 (23) 0.008 
+Chronic renal failure 242 (6) 5 (4) 0.258 
+Immunosuppression 131 (4) 4 (3) > 0.999 
+Days from first symptoms to hospital admission, median (Q1; Q3) 7 (4; 8) 7 (5; 9) 0.091 
+Days from initial symptoms to ICU admission, median (Q1; Q3) 9 (7; 12) 7 (6; 10) < 0.001 
+Days from hospital admission to ICU admission, median (Q1; Q3) 2 (0; 4) 0 (0; 1) < 0.001 
+Treatment before admission, n (%) 
+Corticosteroids 278 (7) 11 (8) 0.591 
+Antibiotics 0 (0) 10 (8) < 0.001 
+Characteristics at hospital admission 
+Glasgow Coma Scale, median (Q1; Q3) 15 (15; 15) 15 (15; 15) < 0.001 
+Temperature, median (Q1; Q3), °C 37.3 (36.5; 38.1) 37.1 (36.2; 37.8) 0.006 
+Respiratory rate, median (Q1; Q3), bpm 25 (20; 30) 26 (22; 32) 0.035 
+Arterial blood gases at hospital admission 
+PaO2/FiO2 ratio, median (Q1; Q3) 200 (105; 277) 165 (100; 237) 0.017 
+PaO2/FiO2 ratio in ventilated patients at hospital admission, median (Q1; Q3)b 133 (83; 229) 122 (95; 179) 0.340 
+PaO2/FiO2 ratio categories in ventilated patients at hospital admission, n (%)b 0.001 
+Severe (< 100) 439 (35) 24 (32) 0.582 
+Moderate (= 
+100–< 200) 418 (33) 39 (52) 0.001 
+Mild (= 
+200–< 300) 252 (20) 12 (16) 0.381 
+No ARDS (= 
+300) 141 (11) 0 (0) 0.002 
+pH, median (Q1; Q3) 7.44 (7.4; 7.47) 7.42 (7.35; 7.46) < 0.001 
+PaCO2, median (Q1; Q3), mmHg 34.3 (30.7; 40) 37 (32; 43) 0.001 
+PaCO2 in vetilated patients at hospital admission, median (Q1; Q3), mmHgb 35 (31; 42) 36 (32; 45.7) 0.158 
+Laboratory findings at hospital admission 
+Haemoglobin, median (Q1; Q3), g/dL 14 (12.9; 15.1) 13.6 (12.5; 14.9) 0.016 
+Leucocyte count, median (Q1; Q3), 109/L 7 (5.2; 9.9) 8.3 (6.1; 11.5) < 0.001 
+Neutrophil count, median (Q1; Q3), 109/L 5.6 (3.9; 8.4) 6.9 (5; 10.1) < 0.001 
+Platelet count, median (Q1; Q3), 109/L 190 (148; 247) 207 (174; 280) 0.001 
+D-dimer, median (Q1; Q3), ng/mL 670 (376; 1282) 890 (456; 1810) 0.004 
+Procalcitonin, median (Q1; Q3), ng/mL 0.19 (0.1–0.44) 0.26 (0.12 to 0.94) 0.010 
+C-reactive protein, median (Q1; Q3), mg/L 131 (70; 213) 163 (109; 242) < 0.001 
+Serum creatinine, median (Q1; Q3), mg/dL 0.95 (0.78; 1.2) 0.96 (0.75; 1.25) 0.977 
+LDH, median (Q1; Q3), U/L 420 (321; 568) 492 (372; 647) 0.003 
+Ferritin, median (Q1; Q3), ng/mL 921 (464; 1650) 1080 (543; 1676) 0.149 
+Respiratory support at hospital admissionc < 0.001 
+Conventional oxygen therapy 2365 (60) 49 (37) < 0.001 
+High-flow nasal cannula 700 (18) 18 (14) 0.196 
+Non-invasive mechanical ventilation 378 (10) 8 (6) 0.159 
+Invasive mechanical ventilation 470 (12) 58 (44) < 0.001 
+Patients undergoing invasive mechanical ventilation in the first 48 h from hospital 1352 (34) 99 (74) < 0.001 
+admission 
+
+Table 1 (continued) 
+
+ICU indicates intensive care unit, Q1 first quartile, Q3 third quartile; BMI, body mass index, PaO2 partial pressure of arterial oxygen, FiO2 fraction of inspired oxygen, 
+LDH lactate dehydrogenase, ECMO extracorporeal membrane oxygenation. Percentages calculated on non-missing data. p values marked in bold indicate numbers 
+that are statistically significant on the 95% confidence limit 
+
+a 
+
+Possibly > 1 comorbidity 
+
+b 
+
+Patients who received high-flow nasal cannula, non-invasive ventilation or invasive mechanical ventilation at hospital admission 
+
+Patients who received high-flow nasal cannula but needed non-invasive ventilation were included in the non-invasive mechanical ventilation group. Patients who 
+received high-flow nasal cannula and/or non-invasive ventilation but needed intubation were included in the invasive mechanical ventilation group 
+
+Table 2 Discriminatory performance of procalcitonin and C-reactive protein for detection of bacterial coinfection, using 
+different cut-off points (N= 4076) 
+
+Variables Sensitivity% (95% CI) Specificity% (95% CI) PPV% (95% CI) NPV% (95% CI) LR + (95% CI) LR– (95% CI) 
+PCT cut-off 
+
+= 
+0.1 ng/mL 85 (78.5–91.4) 18.9 (17.7–20.2) 3.4 (2.8–4.1) 97.4 (96.2–98.6) 1.05 (0.97–1.13) 0.79 (0.53–1.2) 
+
+= 
+0.12 ng/mLa 81.2 (74.2–88.2) 24.9 (23.5–26.3) 3.5 (2.9–4.2) 97.5 (96.5–98.5) 1.08 (0.99–1.18) 0.75 (0.53–1.08) 
+
+= 
+0.25 ng/mL 59.4 (50.7–68.1) 49.5 (47.9–51) 3.8 (3–4.7) 97.3 (96.6–98) 1.18 (1.02–1.36) 0.82 (0.67–1.01) 
+
+= 
+0.5 ng/mL 35.3 (26.8–43.8) 69.3 (67.8–70.7) 3.7 (2.7–4.8) 97 (96.3–97.6) 1.15 (0.91–1.45) 0.93 (0.82–1.06) 
+
+= 
+1 ng/mL 18.1 (11.1–25) 91.6 (90.8–92.5) 6.8 (4–9.5) 97.1 (96.5–97.6) 2.16 (1.48–3.14) 0.89 (0.83–0.97) 
+
+CRP cut-off 
+
+= 
+10 mg/L 100 (99.6–100) 1.9 (1.5–2.3) 3.3 (2.8–3.9) 100 (99.3–100) 1.02 (1.01–1.02) – 
+
+= 
+20 mg/L 97.7 (94.8–100) 4.4 (3.8–5.1) 3.3 (2.8–3.9) 98.3 (96.1–100) 1.02 (1–1.05) 0.51 (0.17–1.58) 
+
+= 
+97 mg/La 80.5 (73.3–87.6) 36.3 (34.8–37.8) 4.1 (3.3–4.9) 98.2 (97.5–98.9) 1.26 (1.16–1.38) 0.54 (0.38–0.76) 
+
+= 
+100 mg/L 79.7 (72.5–86.9) 37.9 (36.3–39.4) 4.2 (3.4–4.9) 98.2 (97.5–98.9) 1.28 (1.17–1.4) 0.54 (0.38–0.75) 
+
+= 
+200 mg/L 39.9 (31.2–48.6) 71.7 (70.3–73.1) 4.5 (3.3–5.8) 97.3 (96.6–97.9) 1.41 (1.14–1.75) 0.84 (0.73–0.96) 
+
+CI confidence interval, PPV positive predictive value, NPV negative predictive value, LR+ positive likelihood ratio, LR– negative likelihood ratio 
+
+a 
+
+Cut-off value obtained from ROC curve for bacterial coinfection (value with a sensitivity of 80%) 
+
+subgroup analysis considering non-respiratory SOFA 
+score and the presence of septic shock. 
+
+The analysis of the cut-off points from the ROC curves 
+was repeated, in order to identify the biomarkers thresholds 
+with an 80% sensitivity for bacterial coinfection. 
+
+In patients presenting septic shock at hospital admission, 
+levels of PCT = 
+0.11 ng/mL where associated with 
+bacterial coinfection, but with a very wide confidence 
+interval (OR 81.1, 95% CI 1.71–3850.77; p = 
+0.026) 
+(Table 4 and Supplementary Table 9). At the ROC curve 
+analysis for identification of bacterial coinfection, PCT 
+had an AUC of 0.82 (95% CI 0.67–0.98) in patients with 
+septic shock (Fig. 1 and Supplementary Fig. 3). 
+
+Conversely, in patients with a non-respiratory 
+SOFA = 
+2, only CRP > 107 mg/L was associated with bacterial 
+coinfection (OR 2.27, 95% CI 1.08–4.75; p = 
+0.03) 
+(Table 4 and Supplementary Table 10), but with an AUC 
+of 0.6 (95% CI 0.53–0.67) at the ROC curve analysis 
+(Fig. 1 and Supplementary Fig. 4). CRP was also associated 
+with bacterial coinfection in patients without septic 
+shock (OR 2.08, 95% CI 1.24–3.51; p = 
+0.006) and with a 
+non-respiratory SOFA < 2 (OR 3.18, 95% CI 1.32–7.62; 
+p = 
+0.010). 
+
+Table 3 Association of procalcitonin and C-reactive protein 
+with bacterial coinfection (N= 4076) 
+
+Variables Adjusted OR (95% CI)a p value 
+Model 1 
+
+Procalcitonin = 
+0.12 ng/mLb 1.11 (0.69–1.79) 
+
+C-reactive protein = 
+97 mg/Lb 2.00 (1.25–3.19) 
+
+Model 2 
+
+Procalcitonin = 
+0.12 ng/mLb and 1.72 (1.15–2.56) 
+C-reactive protein = 
+97 mg/Lb 
+
+Mixed-effects models with center variable as a random effect. Data are shown as 
+estimated ORs (95% CIs) of the explanatory variables in the bacterial coinfection 
+group. The p value is based on the null hypothesis that all ORs relating to an 
+explanatory variable equal unity (no effect). p values marked in bold indicate 
+numbers that are statistically significant on the 95% confidence limit. Area under 
+the ROC curve, AUC model 1 = 
+0.76 (95% CI 0.72 to 0.80); AUC model 2 = 
+0.76 
+(95% CI 0.71–0.80) 
+
+a 
+
+Adjusted for variables (age, sex, BMI, comorbidities, SOFA (without respiratory 
+system component), PaO2/FiO2 ratio at hospital admission, leucocyte 
+count = 
+11 × 
+109/L, septic shock and COVID-19 wave) 
+b 
+
+Cut-off value obtained from ROC curve for bacterial coinfection (value with a 
+sensitivity of 80%) 
+
+Finally, acknowledging differences in PCT and CRP 
+kinetics, we explored the potential correlation between 
+time since symptoms onset and biomarkers values. 
+
+Supplementary Fig. 5 displays differences in PCT and 
+CRP values at hospital admission, stratified according 
+to time from symptoms onset. In patients with bacteria 
+coinfection presenting symptoms from < 3 days, PCT had 
+higher values (p = 
+0.006). When comparing the two study 
+populations, coinfected patients had higher PCT and 
+CRP in the = 
+48 h group (PCT p = 
+0.001, CRP p = 
+0.027), 
+while in the > 48 h group an increase from the baseline 
+was shown only for CRP values (p = 
+0.001). 
+
+In the multivariable models for association with bacterial 
+coinfection we found no significant association 
+between biomarkers thresholds and bacterial coinfection, 
+but with a positive trend for PCT = 
+0.44 ng/mL in the 
+early symptoms group (OR 14.97; 95% CI 0.96–234.03; 
+p = 
+0.054)(Table 4 and Supplementary Table 11). At the 
+ROC curve analysis for identification of bacterial coinfection, 
+PCT had an AUC of 0.76 (95% CI 0.61–0.92) in the 
+group with = 
+48 h since symptoms onset (Fig. 1 and Supplementary 
+Fig. 6). 
+
+Discussion 
+
+In this large cohort of critically ill patient with COVID19 
+we found that the combined values of PCT and CRP 
+upon admission, as well as CRP values alone, were associated 
+with bacterial respiratory coinfection. 
+
+However, our results suggest that a single determination 
+of these biomarkers is not enough to identify a 
+
+bacterial coinfection, as their significance should always 
+be contextualized with a thorough clinical evaluation 
+[29]. 
+
+In our population, the incidence of bacterial coinfection 
+was 3% and the more commonly isolated bacteria 
+were S. aureus and S. pneumoniae, consistently with the 
+previous studies [4–6]. 
+
+Although PCT and CRP alone had low accuracy in 
+predicting bacterial coinfection based on the ROC curve 
+analysis (AUC of 0.57 and 0.6 for PCT and CRP, respectively), 
+likely due to low specificity, our study found that 
+CRP alone and the combination of PCT and CRP were 
+still associated with bacterial coinfection in the multivariable 
+model. Moreover, the identified biomarkers thresholds 
+demonstrated a sensitivity greater than 80% and 
+high negative predictive values, suggesting that values of 
+PCT < 0.12 ng/mL and CRP < 97 mg/L may still be useful 
+to rule out bacterial coinfection, similarly to what was 
+found by Ingram et al. in patients with severe 2009 H1N1 
+influenza infection [30]. Notably, in order to address the 
+possible bias created by the derivation of thresholds values 
+and evaluation of diagnostic test accuracy in the same 
+population, we reported commonly used biomarkers cutoffs 
+in Table 2, showing the consistency of our thresholds 
+[31–33]. 
+
+When interpreting these results it is important to 
+consider that serum CRP is an acute-phase protein and 
+it rises whenever an inflammatory process is present 
+[34]. In a recent study it was found that high CRP levels 
+
+Table 4 Combined multivariable models for association of procalcitonin and C-reactive protein with bacterial coinfection 
+by septic shock, non-respiratory SOFA and symptoms timing 
+
+Variables Adjusted OR (95% CI)a p value 
+Septic shock (N= 
+94) 
+
+Procalcitonin = 
+0.11 ng/mLb 81.10 (1.71–3850.77) 0.026 
+C-reactive protein = 
+100 mg/Lb 1.41 (0.01–197.54) 0.892 
+Non-respiratory SOFA score = 
+2 (N = 
+1, 325) 
+Procalcitonin = 
+0.12 ng/mLb 0.92 (0.44 to 1.93) 0.828 
+C-reactive protein = 
+107 mg/Lb 2.27 (1.08–4.75) 0.030 
+Early symptoms (< 3 days) (N = 
+371) 
+Procalcitonin = 
+0.44 ng/mLb 14.97 (0.96–234.03) 0.054 
+C-reactive protein = 
+58 mg/Lb 1.62 (0.08–31.51) 0.750 
+Late symptoms (= 
+3 days) (N = 
+3667) 
+Procalcitonin = 
+0.11 ng/mLb 1.08 (0.62–1.87) 0.783 
+
+C-reactive protein = 
+100 mg/Lb 1.98 (0.9–4.36) 0.092 
+
+Mixed-effects models with center variable as a random effect. Data are shown as estimated ORs (95% CIs) of the explanatory variables in the bacterial coinfection 
+group. The p value is based on the null hypothesis that all ORs relating to an explanatory variable equal unity (no effect). p values marked in bold indicate numbers 
+that are statistically significant on the 95% confidence limit. Area under the ROC curve, AUC for septic shock model = 
+0.98 (95% CI 0.94–1.00); AUC for non-respiratory 
+SOFA = 
+2 model = 
+0.76 (95% CI 0.70–0.82); AUC for early symptoms model = 
+1.00 (95% CI 0.99–1.00); AUC for late symptoms model = 
+0.79 (95% CI 0.75–0.83) 
+
+a 
+
+Adjusted for variables (age, sex, BMI, comorbidities, SOFA (without respiratory system component), PaO2/FiO2 ratio at hospital admission, leucocyte 
+count = 
+11 × 
+109/L, septic shock, and COVID-19 wave) 
+
+b Cut-off value obtained from ROC curve for bacterial coinfection (value with a sensitivity of 80%) 
+
+Panel A – Sepc shock Panel B - Non-respiratory SOFA 2 
+
+PCT AUC= 0.82 
+
+95% CI 0.67 to 0.98 
+
+CRP AUC= 0.50 
+
+95% CI 0.30 to 0.69 
+
+Panel C - Symptoms onset 48 hours 
+
+PCT AUC= 0.57 
+
+95% CI 0.48 to 0.66 
+
+CRP AUC= 0.60 
+
+95% CI 0.53 to 0.67
+
+ Panel D - Symptoms onset >48 hours 
+
+PCT AUC= 0.76 PCT AUC= 0.55 
+
+95% CI 0.61 to 0.92 95% CI 0.49 to 0.60 
+
+CRP AUC= 0.69 CRP AUC= 0.59 
+
+95% CI 0.52 to 0.85 95% CI 0.54 to 0.63 
+
+Fig. 1 Receiver operating characteristic curve of procalcitonin and C-reactive protein for identification of bacterial coinfection according to population 
+subgroups (Septic shock—Panel A, Non-respiratory SOFA = 
+2—Panel B, Symptoms onset = 
+48 h Panel C, Symptoms onset > 48 h Panel D) 
+
+were a good predictor of CAP in patient with clinical 
+diagnosis and false-negative chest X-ray, confirming 
+that very high levels of this biomarker are more specific 
+for bacterial infection [35, 36]. Nevertheless, its serum 
+concentration depends on the intensity of the stimulus 
+and, at the early stage of COVID-19, CRP levels were 
+found to be positively correlated with lung lesions [37]. 
+Procalcitonin conversely has higher sensitivity and 
+specificity as compared to CRP for differentiating bacterial 
+from viral infections [38]. 
+
+Clearly a single biomarker could never capture the 
+complex and variable interactions of an infection and 
+its values should be interpreted in light of the overall 
+clinical context [29]; in order to evaluate the clinical 
+
+usefulness of PCT and CRP, we therefore assessed the 
+association between biomarkers and bacterial coinfection 
+in patients with an higher risk profile for coinfection. 
+We found an association between values of 
+PCT = 
+0.11 ng/mL and bacterial coinfection in patients 
+presenting septic shock, with a very wide confidence 
+interval (OR 81.1, 95% CI 1.71–3850.77; p = 
+0.026) but 
+with an AUC of 0.82 at the ROC curve analysis. Conversely, 
+CRP was associated with bacterial coinfection 
+in various subgroups throughout the models (no sep-
+tic shock, non-respiratory SOFA both under and over 
+2), but always with low AUC scores. These results are 
+in favour of a stronger connection between PCT levels 
+and bacterial coinfection, while CRP seems to have 
+
+a lower discriminatory ability [31, 38, 39]. However, 
+given the high number of variables we adjusted for and 
+the small sample size of the subgroups, these analysis 
+have low statistical power and must be discussed with 
+caution. 
+
+When considering symptoms timing, in particular the 
+first 48 h since symptoms onset, we found that PCT had 
+an AUC of 0.76 (95% CI 0.61–0.92), with no significant 
+association but with a positive trend between bacterial 
+coinfection and values of PCT = 
+0.44 ng/mL, suggesting 
+improved discrimination abilities in the first hours since 
+symptoms onset and the possible application of an higher 
+cut off as already proposed by Bouadma et al. [35] in the 
+PRORATA trial. 
+
+The importance of taking into account the kinetics of 
+PCT and CRP has already been stated by Méndez et al. 
+[18], who showed that the inflammatory response at the 
+time of CAP diagnosis was influenced by the time since 
+symptoms onset, with a greater expression of PCT in 
+the first 2 days and slower kinetics for CRP. Our results 
+may agree with their conclusions, suggesting how PCT 
+could be a more reliable indicator in the initial phase of 
+infection. 
+
+According to the meta-analysis of Langford et al. 
+
+[7] during the COVID-19 pandemic there has been 
+a reckless use of antibiotics: they were prescribed in 
+three-quarters of patients and, given the low rate of coinfections, 
+most of them were unnecessarily administered. 
+In our study the number of patients treated with antibiotics 
+was accordingly high, with 74% rate of administration 
+in patients without bacterial coinfection within the first 
+48 h from hospital admission. In light of these results, 
+finding a way to predict the presence of bacterial coinfection 
+at hospital admission becomes even more crucial, to 
+improve antibiotic stewardship and picture the possible 
+outcomes. 
+In our population patients with a bacterial coinfection 
+were admitted earlier to the ICU and had longer ICU 
+stay, reflecting the increased severity of the disease. Mortality 
+had a higher trend in coinfected patients (15 days 
+mortality 11 vs 15%, 30 days mortality 22 vs 26%, 90 days 
+mortality 31 vs 37%, respectively in not coinfected and 
+coinfected patients), but without significant differences. 
+In our opinion these result may be linked to several factors: 
+first of all the high rate of antibiotic treatment at 
+hospital admission in the coinfected group, therefore the 
+high number of patients appropriately treated; secondly, 
+treated bacterial coinfections may not have had a more 
+significant impact on mortality than other complications, 
+as age, comorbidities, immunosuppression, lack of 
+knowledge and resources reportedly had, especially during 
+the first two waves on the pandemic. In the multivariable 
+models neither PCT nor CRP were associated with 
+
+30 days mortality, but PCT = 
+0.12 ng/mL was associated 
+with 90 days mortality, showing an overall positive trend, 
+accordingly to what already found by Carbonell et al. [40]. 
+
+Major strengths of this study include its multicentre 
+nature, the consecutive inclusion of all patients from 
+each intensive care unit, the high number of patients analysed 
+and long-term follow-up. We also considered antibiotics 
+administered previously of hospital admission: we 
+excluded from the no bacterial coinfection group patients 
+that had been taking antibiotics, in order to avoid the 
+inclusion in this group of those with an appropriately 
+treated bacterial coinfection. 
+
+We acknowledge the presence of some limitations 
+that should be taken into account. First of all, the poor 
+sensitivity and incomplete use of diagnostic tests, that 
+represent a critical barrier to coinfection detection and 
+antibiotic stewardship [41]. It has been reported that 
+identification of the pathogen responsible for community-
+acquired pneumonia may be elusive, with less than 
+50% of cases having a confirmed aetiology [42, 43]. In 
+our population bacterial coinfection was more common 
+in patients intubated at hospital admission, which could 
+be due to illness severity SOFA < 2 but also to a more 
+invasive sampling strategy. By limiting the inclusion in 
+the bacterial coinfection group to patient with a microbiologically 
+confirmed aetiology, we might have misclassified 
+some no-coinfected patient and created a bias. 
+However, this limitation did not affect haemocultures 
+and urinary antigens testing and the prevalence of bacterial 
+coinfection observed in our population is similar to 
+that reported in the previous studies [4, 5, 30]. Second, 
+we didn’t include radiological evidence and data on the 
+microbiological work-up in our analysis, as the CIBERESUCICOVID 
+database was not designed to register these 
+information. However, radiological evidences were taken 
+into account by clinicians at the time of diagnosis of the 
+bacterial coinfection. 
+
+Third, in the subgroup analysis we considered the variable 
+“time since symptoms onset”, which is necessarily 
+self-reported, dependent on the subjective perception of 
+symptoms and therefore susceptible to bias; however, the 
+exact onset of symptoms is not otherwise objectifiable for 
+a community-acquired infection [18]. 
+
+Fourth, we acknowledge limitations associated to the 
+retrospective design of the study and the plausible influence 
+on our results of selecting patients from different 
+waves of the pandemic, as well as those connected to 
+the observational nature of the study and missing data. 
+Particularly, in our population the rate of missing values 
+was higher for PCT when compared with CRP, as the former 
+is not routinely measured. The impact of PCT-based 
+algorithms on antibiotic sparing, and therefore their 
+
+cost-effectiveness, is still debated [11]; the decision to 
+measure PCT is normally based on the clinician request, 
+introducing a possible bias in observational studies 
+involving this biomarker. However, we have adjusted all 
+of our analyses for these confounders. 
+
+Finally, our results bring new interesting aspects to 
+the interpretation of biomarkers in the context of bacterial 
+coinfection, but they refer to COVID-19 patients and 
+may not be applicable in other clinical settings. 
+
+Conclusions 
+
+Our study suggests that measurements of PCT and CRP, 
+alone and at a single time point, are unfortunately not 
+useful for ruling in or out bacterial coinfection in viral 
+pneumonia by COVID-19. 
+
+Considering the combined values of these biomarkers, 
+as well as symptoms timing and the broader clinical 
+context, appears to be relevant in their interpretation and 
+therefore in the design of further studies.

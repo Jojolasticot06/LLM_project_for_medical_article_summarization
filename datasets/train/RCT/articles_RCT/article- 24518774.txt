@@ -1,0 +1,267 @@
+Statin Drug Use Is Not Associated with Prostate Cancer Risk in 
+Men who are Regularly Screened 
+Introduction 
+Several prospective cohort studies support that men who use cholesterol-lowering statin 
+drugs (HMG-CoA reductase inhibitors), especially for a longer duration, have a lower risk 
+of prostate cancer with a more aggressive phenotype (1–3), or of prostate cancer diagnosed 
+at a more advanced stage in the absence of screening (4). In contrast, the association 
+between statin use and prostate cancer overall, and especially early-stage disease, has not 
+been consistent (1). The lack of consistency may have arisen from differences in the extent 
+to which a complex set of detection biases are operating. Detection bias in these studies 
+could result from the possible influence of statins on serum PSA (5, 6) and from the 
+tendency for men seeking medical care to receive regular screening for both elevated 
+cholesterol and PSA (7). 
+
+To evaluate whether statins influence prostate cancer risk in the setting of regular screening 
+for the disease, and in which detection bias is less likely to be operating, we conducted a 
+prospective cohort study in the placebo arm of the Prostate Cancer Prevention Trial. Unlike 
+standard cohorts, the PCPT protocol called for annual PSA screening and prostate digital-
+rectal examination during the seven years of the trial (8). Thus, the opportunity to detect 
+prostate cancer was less influenced by factors (e.g., medical care uptake) that may be 
+correlated with statin use than in other studies. 
+
+Methods 
+
+Study design and population 
+
+We included in this prospective cohort study all men randomized to the placebo arm of the 
+multi-center SWOG-coordinated PCPT (N=9,457) (8). The PCPT tested whether the 5areductase 
+type II inhibitor, finasteride, prevents prostate cancer in 18,882 men aged =55 
+years old with a normal DRE and serum PSA =3.0 ng/mL. To be eligible, the men could not 
+have had a diagnosis of cancer, aside from nonmelanoma skin cancer. The Institutional 
+Review Boards at the participating centers approved the PCPT. Approval for this secondary 
+analysis was received from the Johns Hopkins Bloomberg School of Public Health 
+Institutional Review Board. 
+
+Assessment of statin use, PSA, and other factors 
+
+The men were asked to complete a survey about demographic characteristics, lifestyle, and 
+medical history during the entry visit. At most study centers, the men were asked to 
+
+J Urol. Author manuscript; available in PMC 2014 August 01. 
+
+
+Platz et al. Page 3 
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+complete a food frequency questionnaire during the next annual visit. At the entry visit, 
+height and weight were measured using standardized protocols. Weight was measured at 
+each annual visit. Waist and hip circumferences were measured at the first annual visit after 
+the entry visit. 
+
+At entry, current medication use was assessed by interview using both closed (e.g., aspirin, 
+hypertension drugs) and open-ended questions. At each 6-month and annual clinic visit, and 
+on every 3- and 9-month telephone call between clinic visits, the men were asked, “Have 
+you started any new medications since we last talked with you?”. We coded as a statin any 
+of the following brand or generic medication names: Lescol (fluvastatin), Lipitor 
+(altorvastatin), Altoprev (lovastatin), Mevacor (lovastatin), Pravachol (pravastatin), Zocor 
+(simvastatin), Baycol (cerivastatin), Advicor (lovastatin), or statin. Other cholesterollowering 
+drugs (i.e., Gemcor (gemfibrozil), Lopid (gemfibrozil), Tricor (fenofibrate), 
+Cholestid (colestipol)) and nonspecific drugs (i.e., cholesterol drug, cholesterol lowering 
+drug, high-cholesterol drug) were not included. Because the interviews requested new 
+medication use, to determine statin use during the trial and to calculate duration of use 
+during the trial, we assumed that once a man reported taking a statin he continued taking it 
+until the end of the trial. We also assumed that the date a man reported first use of a drug 
+was the date he began taking it. We did not have information on use prior to baseline in 
+1993–1997. The earliest possible statin use was 1987, the year first available on the market 
+(9, 10). 
+
+As a component of the trial protocol, serum PSA was measured in a central laboratory 
+(Esoterix, Inc, Calabasas Hills, CA) in samples collected at the entry visit and then annually. 
+Serum total cholesterol was measured in the sample collected at the entry visit (11). 
+
+Ascertainment of prostate cancer cases 
+
+We included as cases those that were detected on a prostate biopsy performed for clinical 
+indication, usually an elevated PSA and/or an abnormal DRE. We did not include as cases 
+those detected on the end-of-study biopsy performed without clinical indication per PCPT 
+protocol (8) as these cases otherwise would not have been detected during the trial. The 
+biopsies were reviewed by pathologists at the study center and confirmed by the Prostate 
+Diagnostic Laboratory, University of Colorado. We used the Gleason score that was 
+determined by central review. 
+
+Statistical analysis 
+
+We calculated age-adjusted means and prevalences of baseline characteristics by statin use 
+during the trial using linear regression. We estimated percent difference in serum PSA 
+(repeated measures) between use and never use of a statin during the trial (updated, but 
+truncated at date of prostate cancer diagnosis) using generalized estimating equations with 
+an autoregressive correlation structure. 
+
+We estimated the hazard ratio and 95% confidence interval of total, localized (T1 or T2, and 
+N0 and M0; N=507), Gleason 2–6 (lower-grade; N=351), and 7–10 (higher-grade; N=156) 
+prostate cancer detected on a biopsy performed for clinical indication using Cox 
+
+J Urol. Author manuscript; available in PMC 2014 August 01. 
+
+
+Platz et al. Page 4 
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+proportional hazards regression. Few men were diagnosed with advanced-stage disease (5 
+T3N0M0, 3 N+M0, and 6 M+) because of the trial eligibility criteria and screening protocol, 
+precluding its analysis. We evaluated statin use during the trial (use versus never) and 
+duration of statin use during the trial (never, 0 to <4 years, =4 years) as time-dependent 
+variables. Time at risk began accruing at the trial entry date and ended on the date of 
+diagnosis or censor, whichever came first. Men diagnosed with prostate cancer on an end-ofstudy 
+biopsy that was performed without clinical indication per trial protocol (8) were 
+censored at their date of diagnosis. Men not diagnosed with prostate cancer were censored at 
+the date of the end of study (7 years) or at the date of their last trial contact. 
+
+We report age- and multivariable-adjusted results. The final multivariable models included 
+factors selected a priori based on their likely associations with prostate cancer and/or use of 
+a statin: age (year, continuous), race (nonwhite versus white), first-degree family history of 
+prostate cancer, body mass index (BMI, kg/m2, continuous), and self-reported diagnosis of 
+diabetes mellitus, regular aspirin use and use of other NSAIDs, and history of myocardial 
+infarction. Attained education, alcohol consumption, physical activity, cigarette smoking 
+history, and intake of energy, saturated fat, fish, tomatoes, calcium, and vitamin E were not 
+confounders based on the change in the estimate approach, and thus were not included in the 
+multivariable models. 
+
+We stratified by baseline serum cholesterol (cutpoint at 200 mg/dL, borderline high) and 
+baseline serum PSA (cutpoint at the median, 1.1 ng/mL). We tested for effect modification 
+by entering the product of use of a statin during the trial and baseline cholesterol or PSA in 
+the model, the coefficient for which we evaluated using the Wald test. 
+
+We performed the statistical analyses using SAS release 9.2 (SAS Institute, Cary, NC) and 
+report two-sided P-values. 
+
+Results 
+
+23.8% of men used a statin during the trial. Compared with never users, users were more 
+likely to be white, were slightly shorter and had slightly higher BMI, were more likely to 
+have a history of diabetes mellitus and myocardial infarction, had a higher serum 
+cholesterol, and were more likely to be aspirin users (Table 1). 
+
+Statin use and serum PSA 
+
+Adjusting for age, ever users of a statin during the trial (mean 1.19 ng/mL) had a slightly 
+lower baseline serum PSA than never users (mean 1.24 ng/mL; P<0.01). When considering 
+repeated measures of PSA concentration and updating statin use during the trial, PSA was 
+2.7% higher in ever than never users after adjusting for age and race (P=0.0002). However, 
+this difference was attenuated after multivariable adjustment (1.3% higher, P=0.09). 
+
+Association between statin use and prostate cancer 
+
+Statin use during the trial and duration of use were not associated with total, localized, 
+lower- or higher-grade prostate cancer after age- or multivariable-adjustment (Table 2). The 
+association between use and prostate cancer risk did not statistically significantly differ 
+
+J Urol. Author manuscript; available in PMC 2014 August 01. 
+
+
+Platz et al. Page 5 
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+between men with serum cholesterol <200 and =200 mg/dL at trial entry (Table 3) or 
+between men with serum PSA below the median (1.1 ng/mL) or at or above the median at 
+trial entry (Table 4). 
+
+Discussion 
+
+In this prospective study in the setting of regular screening for the disease and in which 
+detection bias is less likely to be operating, use of a statin and duration of use during the trial 
+were not associated with prostate cancer risk. Also, the percent difference in PSA 
+concentration between statin users and never users was very small, a finding that helps to 
+rule out a possible source of detection bias. We also did not observe evidence of effect 
+modification by serum cholesterol or PSA measured at entry. 
+
+In the setting of ad hoc prostate cancer screening, detection bias can result when men who 
+seek medical care are more likely to be screened for both elevated cholesterol and PSA than 
+men who do not seek care. These screenings increase the opportunity that a man will be 
+prescribed a statin and be recommended to undergo a prostate biopsy. This source of 
+detection bias would tend to produce a positive association between use and risk of prostate 
+cancer overall, especially screen-detected, early-stage disease (7). Indeed, some studies have 
+observed possible, very slight to moderate, positive associations between statin use and 
+prostate cancer overall, and early-stage disease (12–15). Murtola et al. were the first to 
+address this source of detection bias in depth by conducting a large prospective study in the 
+screening arm of the Finnish component of the European Randomized Study of Prostate 
+Cancer Screening (16). In the Finnish component, men were screened for elevated PSA 
+every four years; the maximum number of PSA tests was three. In the screened men, statin 
+use was not positively associated with prostate cancer as would be seen with this source of 
+detection bias. Instead, use was inversely associated with prostate cancer overall, and with 
+early-stage disease, in a cumulative dose-dependent manner (16). In the PCPT, we also did 
+not observe a positive association between statin use and prostate cancer. In contrast to 
+Murtola et al., use was not associated with prostate cancer detected on a biopsy performed 
+for clinical indication, and risk did not decrease with duration of use, suggesting that statins 
+are unlikely to protect against screen-detected, early prostate cancer. Differences between 
+the two studies that might explain differences in findings include population (Finns vs 
+Americans), background of regular PSA screening in the population (Finland-no, US–yes), 
+screening interval (Finland–4 years, US–1 year), trial entry criteria (e.g., Finnish study–no 
+restriction on PSA, PCPT–restricted to PSA=3.0 ng/mL), sample size (Finnish study–23,320 
+men, PCPT–9,457 men), and source of information on statin use (Finland–national drug 
+reimbursement database, PCPT-self reported medications use). 
+
+Another possible source of detection bias in the association between statin use and prostate 
+cancer is the influence of these drugs on serum PSA. In small randomized trials, serum PSA 
+has been shown to decline in hypercholesterolemic men after starting on a statin (17). 
+Likewise, several observational studies conducted cross-sectionally (18, 19) or 
+longitudinally (5, 6) found that statin users have lower PSA than nonusers and that serum 
+PSA declines after starting to use a statin. An inverse association between statin use and 
+PSA concentration would tend to produce an inverse association between use and prostate 
+
+J Urol. Author manuscript; available in PMC 2014 August 01. 
+
+
+Platz et al. Page 6 
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+cancer, including aggressive disease. While Murtola et al. did not find a difference in the 
+age-adjusted geometric mean PSA concentration between current statin users and did not 
+find an association between the cumulative number of doses received over time, they did 
+observe that in men who later were diagnosed with prostate cancer, statin users had a lower 
+prediagnostic PSA than nonusers (16). In our study, which used repeated measures of both 
+statins and PSA over the course of the trial, users had a slightly higher PSA than never users 
+during the trial. This difference was attenuated and not statistically significant after taking 
+into account factors associated with both use and PSA concentration, supporting that this 
+possible source of bias in the association between statin use and prostate cancer, is unlikely 
+to be playing a role in low PSA settings (e.g., those with regular screening). 
+
+We stratified by serum cholesterol to determine whether statins may be differently 
+associated with prostate cancer among those with and without elevated cholesterol. We 
+previously observed in the PCPT that lower concentration (<200 mg/dL) was associated 
+with a lower risk of high-grade prostate cancer (20), indicating possibly that low cholesterol 
+rather than cholesterol lowering may be more important. However, statin use was not 
+associated with risk, including risk of high-grade disease, either in men with lower or with 
+elevated serum cholesterol. 
+
+Several features of our prospective study require discussion. The PCPT inclusion/exclusion 
+criteria yielded a study population that may differ from the general US population. 
+Nevertheless, the men included in the PCPT would reflect healthy men who are regularly 
+screened, and thus have lower PSA. We relied on self-reported statin use in response to inperson 
+and telephone interviews conducted quarterly, and assumed that once a man reported 
+taking a statin he continued taking it and that the date he reported first use of a statin was the 
+date he began taking it. The prevalence of use at trial entry was low (2.9%), although during 
+the trial the prevalence increased substantially and we were able to capture use and duration 
+of use during the trial. Information was not collected to address the influence of duration of 
+use prior to trial entry (i.e., between 1987, date of first approval, and 1993), or dose, or 
+brand of statin used on risk. Any misclassification of statin use due to our ascertainment 
+methods are unlikely to be differential with respect to future prostate cancer risk, and thus 
+any resulting bias would tend to attenuate any association. We could not address statin use 
+and advanced disease because so few of these highly screened men were diagnosed at a late 
+stage. Prior prospective studies suggest that statin users, especially long term, have a lower 
+risk of being diagnosed with prostate cancer that is already advanced. Because the trial's 
+duration was only 7 years, we could have missed the minimum etiologically-relevant 
+duration of use. Nevertheless, the study goals were to address the link between statin use and 
+early-stage disease in a setting in which the potential for differential detection of prostate 
+cancer between users and nonusers could be minimized. In addition, for some analyses, the 
+precision of the HRs is such that we cannot rule out the possibility of modest to moderate 
+associations. We could not separately study Gleason 8+ disease, the outcome most clearly 
+associated with low serum cholesterol in the PCPT (20), because the number of statin users 
+with very high-grade disease was small. 
+
+J Urol. Author manuscript; available in PMC 2014 August 01. 
+
+
+Platz et al. Page 7 
+
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript 
+
+Conclusion 
+
+Statin use does not appear to influence prostate cancer risk in a setting of annual screening 
+and in which detection bias was less likely to be operating. 

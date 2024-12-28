@@ -1,0 +1,11 @@
+Simvastatin improves the sexual health-related quality of life in men aged 40 years and over with erectile dysfunction: additional data from the erectile dysfunction and statin trial.
+
+1/BACKGROUND: Erectile dysfunction is prevalent in men over 40 years, affecting their quality of life and that of their partners. The aims of this study were:a) To evaluate the internal reliability of the male erectile dysfunction specific quality of life (MED-QoL) scale and explore its factor structure.b) To evaluate the effect of simvastatin on subscales of the MED-QoL in men over forty years with erectile dysfunction.
+
+2/METHODS: This is a double blind randomised controlled trial of 40 mg simvastatin or placebo given once daily for six months to men over forty years with untreated erectile dysfunction, who were not at high cardiovascular risk and were not on anti-hypertensive or lipid-lowering medication. 173 eligible men were recruited from 10 general practices in East of England. Data were collected 
+at two points over 30 weeks.We report on the factor structure of MED-QoL, the internal reliability of the scale and the derived subscales, and the effect of simvastatin on MED-QoL subscales.
+
+3/RESULTS: An initial analysis of the MED-QoL items suggested that a number of items should be removed (MED-QoL-R). Exploratory factor analysis identified three subscales within the MED-QoL-R which accounted for 96% of the variance, related to feelings of Control, initiating Intimacy, and Emotional response to erectile dysfunction. The alpha value for the revised scale (MED-Qol-R) was 
+>0.95 and exceeded .82 for each subscale. Regression analysis showed that patients in the placebo group experienced a significantly reduced feeling of Control over erectile dysfunction than those in the statin group. Those in the placebo group had significantly lower Emotional response than those in the statin group at the close of trial, but there was no significant treatment effect on Intimacy.
+
+4/CONCLUSIONS: Our revised MED-QoL-R identified three subscales. Secondary analysis showed a significant improvement in sexual health related quality of life, specifically in relation to perception of control and emotional health in men with untreated erectile dysfunction given 40 mg simvastatin for six months.

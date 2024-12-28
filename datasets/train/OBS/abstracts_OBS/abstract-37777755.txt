@@ -1,0 +1,23 @@
+BACKGROUND: Idiopathic pulmonary fibrosis (IPF) has an unknown aetiology and 
+limited treatment options. A recent meta-analysis identified three novel causal 
+variants in the TERT, SPDL1, and KIF15 genes. This observational study aimed to 
+investigate whether the aforementioned variants cause clinical phenotypes in a 
+well-characterised IPF cohort.
+METHODS: The study consisted of 138 patients with IPF who were diagnosed and 
+treated at the Helsinki University Hospital and genotyped in the FinnGen FinnIPF 
+study. Data on > 25 clinical parameters were collected by two pulmonologists who 
+were blinded to the genetic data for patients with TERT loss of function and 
+missense variants, SPDL1 and KIF15 missense variants, and a MUC5B variant 
+commonly present in patients with IPF, or no variants were separately analysed.
+RESULTS: The KIF15 missense variant is associated with the early onset of the 
+disease, leading to progression to early-age transplantation or death. In 
+patients with the KIF15 variant, the median age at diagnosis was 54.0 years 
+(36.5-69.5 years) compared with 72.0 years (65.8-75.3 years) in the other 
+patients (P = 0.023). The proportion of KIF15 variant carriers was 9- or 
+3.6-fold higher in patients aged < 55 or 65 years, respectively. The variants 
+for TERT and MUC5B had similar effects on the patient's clinical course, as 
+previously described. No distinct phenotypes were observed in patients with the 
+SPDL1 variant.
+CONCLUSIONS: Our study indicated the potential of KIF15 to be used in the 
+genetic diagnostics of IPF. Further studies are needed to elucidate the 
+biological mechanisms of KIF15 in IPF.

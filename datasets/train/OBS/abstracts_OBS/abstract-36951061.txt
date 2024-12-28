@@ -1,0 +1,25 @@
+BACKGROUND: Clonal hematopoiesis (CH) of indeterminate potential (CHIP) is a 
+risk factor for cardiovascular disease. The relationship between CHIP and 
+coronary microvascular dysfunction (CMD) is unknown. The current study examines 
+the association between CHIP and CH with CMD and the potential relationships in 
+risk for adverse cardiovascular outcomes.
+METHODS: In this retrospective observational study, targeted next-generation 
+sequencing was performed for 177 participants with no coronary artery disease 
+who presented with chest pain and underwent routine coronary functional 
+angiogram. Patients with somatic mutations in leukemia-associated driver genes 
+in hematopoietic stem and progenitor cells were examined; CHIP was considered at 
+a variant allele fraction ≥2%; CH was considered at a variant allele fraction 
+≥1%. CMD was defined as coronary flow reserve to intracoronary adenosine of ≤2. 
+Major adverse cardiovascular events considered were myocardial infarction, 
+coronary revascularization, or stroke.
+RESULTS: A total of 177 participants were examined. Mean follow-up was 12±7 
+years. A total of 17 patients had CHIP and 28 had CH. Cases with CMD (n=19) were 
+compared with controls with no CMD (n=158). Cases were 56±9 years, were 68% 
+women, and had more CHIP (27%; P=0.028) and CH (42%; P=0.001) than controls. CMD 
+was associated with independent risk for major adverse cardiovascular events 
+(hazard ratio, 3.89 [95% CI, 1.21-12.56]; P=0.023), and 32% of this risk was 
+mediated by CH. The risk mediated by CH was ≈0.5× as large as the direct effect 
+of CMD on major adverse cardiovascular events.
+CONCLUSIONS: In humans, we observe patients with CMD are more likely to have 
+CHIP, and nearly one-third of major adverse cardiovascular events in CMD are 
+mediated by CH.

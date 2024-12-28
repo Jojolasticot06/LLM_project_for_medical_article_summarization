@@ -1,0 +1,9 @@
+School-aged children gain weight most rapidly in summer, but few studies have 
+investigated summer weight gain among preschool-aged children. We fit continuous 
+linear spline mixed models to test for accelerated summer weight gain among 
+2,044 children attending 16 Boston-area Head Start programs between fall 2016 
+and spring 2019. Academic year and summer rates of change in modified body mass 
+index z-score differed (P < .001), with accelerated summer weight gain most 
+pronounced among children with obesity. As with school-aged children, increased 
+focus on the summer is warranted for promoting healthy weight among children in 
+Head Start.

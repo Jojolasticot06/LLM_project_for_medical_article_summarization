@@ -1,0 +1,28 @@
+BACKGROUND: Since the introduction of the combination treatment of 
+anti-programmed death-ligand 1 antibody atezolizumab and anti-VEGF antibody 
+bevacizumab (AB), median overall survival in HCC has drastically improved. 
+However, evidence on the efficacy and safety of the novel treatment standard in 
+patients with prior exposure to systemic treatment is scarce. The aim of this 
+global, multicenter, observational study was to evaluate the efficacy and safety 
+of AB in patients after previous systemic therapy.
+METHODS: We screened our global, multicenter, prospectively maintained registry 
+database for patients who received any systemic therapy before AB. The primary 
+end point was overall survival; secondary end points were time-to-progression, 
+progression-free survival, objective response rate, and safety (rate and 
+severity of adverse events).
+RESULTS: Among 493 patients who received AB for unresectable HCC, 61 patients 
+received prior systemic therapy and were included in this analysis. The median 
+age of the study population was 66 years, with 91.8% males. Predominant risk 
+factors for HCC were viral hepatitis (59%) and alcohol (23%). Overall survival 
+for AB was 16.2 (95% CI, 14.5-17.9) months, time-to-progression and 
+progression-free survival were 4.1 (95% CI, 1.5-6.6) and 3.1 (95% CI, 1.1-5.1) 
+months, respectively. The objective response rate was 38.2% (7.3% with complete 
+and 30.9% with partial response). Overall survival was not influenced by 
+treatment line (2nd vs. >2nd) or previous systemic treatment modality (tyrosine 
+kinase inhibitors vs. immune checkpoint inhibitors). Treatment-related adverse 
+events of all grades according to Common Terminology Criteria for Adverse Events 
+were documented in 42.6% of patients, with only 13.1% of grade ≥3, including one 
+death.
+CONCLUSION: In this observational study, AB emerges as a safe and efficacious 
+treatment option in patients with HCC previously treated with other systemic 
+therapy.

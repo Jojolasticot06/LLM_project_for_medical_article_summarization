@@ -1,0 +1,21 @@
+Efficacy and safety of an innovative short-course regimen containing clofazimine 
+for treatment of drug-susceptible tuberculosis: a clinical trial.
+
+1/In preclinical studies, a new antituberculosis drug regimen markedly reduced the 
+time required to achieve relapse-free cure. This study aimed to preliminarily 
+evaluate the efficacy and safety of this four-month regimen, consisting of 
+clofazimine, prothionamide, pyrazinamide and ethambutol, with a standard 
+six-month regimen in patients with drug-susceptible tuberculosis. 
+
+2/An open-label 
+pilot randomized clinical trial was conducted among the patients with newly 
+diagnosed bacteriologically-confirmed pulmonary tuberculosis. The primary 
+efficacy end-point was sputum culture negative conversion. Totally, 93 patients 
+were included in the modified intention-to-treat population. The rates of sputum 
+culture conversion were 65.2% (30/46) and 87.2% (41/47) for short-course and 
+standard regimen group, respectively. 
+
+3/There was no difference on two-month culture conversion rates, time to culture conversion, nor early bactericidal activity (P > 0.05). However, patients on short-course regimen were observed with lower rates of radiological improvement or recovery and sustained treatment success, which was mainly attributed to higher percent of patients permanently changed assigned regimen (32.1% vs. 12.3%, P = 0.012). The main cause for it was drug-induced hepatitis (16/17). Although lowering the dose of prothionamide was approved, the alternative option of changing assigned regimen was chosen in this study. While in per-protocol population, sputum culture conversion rates were 87.0% (20/23) and 94.4% (34/36) for the respective groups. 
+
+4/Overall, the short-course regimen appeared to have inferior efficacy and higher incidence of hepatitis but desired efficacy in per-protocol population. It provides the first proof-of-concept in humans of the capacity of the short-course approach to 
+identify drug regimens that can shorten the treatment time for tuberculosis.

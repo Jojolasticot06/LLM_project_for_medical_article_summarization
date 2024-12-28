@@ -1,0 +1,33 @@
+AIMS/HYPOTHESIS: To assess the associations between glucose metabolism status 
+and a range of continuous measures of glycaemia with corneal nerve fibre 
+measures, as assessed using corneal confocal microscopy.
+METHODS: We used population-based observational cross-sectional data from the 
+Maastricht Study of N=3471 participants (mean age 59.4 years, 48.4% men, 14.7% 
+with prediabetes, 21.0% with type 2 diabetes) to study the associations, after 
+adjustment for demographic, cardiovascular risk and lifestyle factors, between 
+glucose metabolism status (prediabetes and type 2 diabetes vs normal glucose 
+metabolism) plus measures of glycaemia (fasting plasma glucose, 2 h post-load 
+glucose, HbA1c, skin autofluorescence [SAF] and duration of diabetes) and 
+composite Z-scores of corneal nerve fibre measures or individual corneal nerve 
+fibre measures (corneal nerve bifurcation density, corneal nerve density, 
+corneal nerve length and fractal dimension). We used linear regression analysis, 
+and, for glucose metabolism status, performed a linear trend analysis.
+RESULTS: After full adjustment, a more adverse glucose metabolism status was 
+associated with a lower composite Z-score for corneal nerve fibre measures (β 
+coefficients [95% CI], prediabetes vs normal glucose metabolism -0.08 [-0.17, 
+0.03], type 2 diabetes vs normal glucose metabolism -0.14 [-0.25, -0.04]; linear 
+trend analysis showed a p value of 0.001), and higher levels of measures of 
+glycaemia (fasting plasma glucose, 2 h post-load glucose, HbA1c, SAF and 
+duration of diabetes) were all significantly associated with a lower composite 
+Z-score for corneal nerve fibre measures (per SD: -0.09 [-0.13, -0.05], -0.07 
+[-0.11, -0.03], -0.08 [-0.11, -0.04], -0.05 [-0.08, -0.01], -0.09 [-0.17, 
+-0.001], respectively). In general, directionally similar associations were 
+observed for individual corneal nerve fibre measures.
+CONCLUSIONS/INTERPRETATION: To our knowledge, this is the first population-based 
+study to show that a more adverse glucose metabolism status and higher levels of 
+glycaemic measures were all linearly associated with corneal neurodegeneration 
+after adjustment for an extensive set of potential confounders. Our results 
+indicate that glycaemia-associated corneal neurodegeneration is a continuous 
+process that starts before the onset of type 2 diabetes. Further research is 
+needed to investigate whether early reduction of hyperglycaemia can prevent 
+corneal neurodegeneration.

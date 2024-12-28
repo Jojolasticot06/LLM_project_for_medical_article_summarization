@@ -1,0 +1,226 @@
+
+
+Improving Detection of Clinically Significant Prostate Cancer: 
+Magnetic Resonance Imaging/Transrectal Ultrasound Fusion 
+Guided Prostate Biopsy
+SINCE the 1980s, screening methods for CaP have been static, including serum PSA 
+measurement and DRE on a periodic basis. If either is abnormal or suspicious for cancer, 
+TRUS guided systematic prostate biopsy is performed. Although this biopsy uses ultrasound 
+guidance and selects defined zones in the prostate, there is no certainty that the actual 
+tumor is being biopsied. CaP is the only solid organ tumor still diagnosed by a nontargeted 
+sampling method. Using this approach for the last 30 years has yielded limited and 
+varied results.1,2 The USPSTF recently categorized PSA based CaP screening as a grade 
+D recommendation in a goal to prevent over diagnosis, overtreatment, and physical and 
+emotional suffering.3 The USPSTF recommendation regarding PSA based screening was 
+based on the inability to effectively select patients whose benefit from treatment would 
+outweigh the harms associated with screening, diagnosis and treatment.
+
+Improvements in MRI quality, technique and technology have led to increased use in 
+patients with or suspected of having CaP. Although prostate MRI is limited in its ability 
+to detect low grade cancer and lesions less than 5 mm, it is ideal to select patients with 
+intermediate and high risk CaP with greater than 90% negative and positive predictive 
+values.4,5
+
+A new methodology of screening men for CaP was reported by NIH investigators in which 
+patients with increased PSA underwent MP prostate MRI and areas suspicious for CaP were 
+identified.6 In the office/outpatient setting prostate MR images of suspicious lesions/targets 
+are fused with real-time TRUS biopsy techniques to guide needles to suspicious areas in the 
+prostate using electromagnetic tracking. To our knowledge we report the first application of 
+this newly Food and Drug Administration cleared UroNav MR/TRUS fusion guided prostate 
+biopsy system (Invivo, Gainesville, Florida) outside a research hospital setting (NIH).
+
+MATERIALS AND METHODS
+
+We performed a phase III trial, MRI/TRUS Fusion Guided Prostate BiopsydAn Improved 
+Way to Detect and Quantify Prostate Cancer, which was approved by our institutional review 
+board (ClinicalTrials.gov 
+NCT01566045
+). Enrollment began May 2012 and the results of 
+this trial have not been published previously. Subjects with increased PSA/abnormal DRE 
+and MP-MRI with suspicious lesion(s) were included in study.
+
+All study participants underwent MP prostate specific 3 Tesla MRI using a Magnetom Verio 
+device. MRI was obtained with a 16-channel Sense cardiac coil (Invivo) placed on the 
+anterior pelvis and a BPX-30 ERC (Medrad, Warrenton, Pennsylvania) filled with PFC-770 
+(3M™). An ERC was used to detect CaP because of a reported 36% increase in sensitivity 
+compared to that in patients without ERC use.7 Prostate specific pulse sequences included a 
+minimum of triplanar T2-weighted, axial diffusion weighted with ADC mapping (B values 
+0, 500, 1,000, 1,500 and 2,000) and dynamic contrast enhanced MRI sequences according 
+to European Society of Urogenital Radiology guidelines.8 Three radiologists (ARR, EB-L 
+
+
+and RV) identified and graded all lesions suspicious for cancer according to the NIH risk 
+stratification systems, NIH prostate zones and nonvisual reporting (fig. 1).8,9
+
+The NIH MP-MRI scoring system was based on the number of positive sequences. A lesion 
+was considered low risk if positive on 1 or 2 of the 3 sequences. If all 3 parameters were 
+positive, the lesion was considered moderate/high risk.9 At the NIH a lesion is considered 
+high risk if all 4 parameters are positive, including MR spectroscopy. MR spectroscopy was 
+not performed in this trial due to cost, time and little impact on overall CDR, as previously 
+reported by Turkbey et al.4 All lesions locations were recorded by T2 axial slice number and 
+zone number. Each axial slice of the T2 sequence of the prostate was divided into 9 zones 
+(fig. 1). All lesions are described as the respective zones of involvement for each MRI slice 
+(3 mm).
+
+Subjects with a positive MP-MRI entered the phase III trial. Demographics and common 
+data elements, including prior prostate biopsy history, family history of CaP, PSA and 
+prior imaging, were collected before protocol prostate biopsy. All data were collected 
+prospectively.
+
+The MR/TRUS fusion guided biopsy system is based on ultrasound guided rigid registration 
+with visual correction using UroNav 3.0. All images were processed on a DynaCAD 
+work station (Invivo) before biopsy. According to the protocol subjects underwent 
+electromagnetically tracked MR/TRUS fusion guided biopsy of MRI suspicious lesions 
+before standard 12-core TRUS guided biopsy (endfire iU22 Philips ultrasound). MR/TRUS 
+fusion guided biopsy was completed first due to the significant edema that develops after 12-
+core biopsy, limiting fusion system performance. The principal investigator (ARR) was then 
+blinded to target location by turning off the MR/TRUS fusion biopsy system. Standard 12-
+core biopsy was then performed under ultrasound guidance. All specimens were placed in 
+separate pathology containers for each location. Our institutional pathologist (OY) reviewed 
+all pathology slides.
+
+Descriptive statistics were used to describe patient characteristics, including age, race, PSA, 
+DRE, family history and previous biopsy results. All analyses were stratified by detection 
+method, biopsy outcomes, NIH prostate scoring system, modified NIH prostate zones and 
+the 5-point Likert scale using the chi-square test and Student t-test.8
+
+RESULTS
+
+During the study period 648 patients underwent MP-MRI for suspicion of CaP and 335 
+MRIs (52.4%) were positive for suspicious lesion(s). A total of 153 patients referred by 
+primary urologists were consented for the study, of whom 32 were not included in analysis 
+due to a prior CaP diagnosis. Also excluded were 16 men due to device failure (10), 
+inclusion criteria not met (5) and inability to remain still for fusion biopsy (1). Thus, 105 
+consecutive subjects were included in this external validation cohort analysis. Table 1 lists 
+demographics, and clinical and biopsy characteristics. MP-MRI detected a mean of 1.9 
+suspicious lesions per subject.
+
+
+Did MRI Risk Stratification Score Impact CDR in Participants at Risk for CaP?
+
+MP-MRI risk stratification systems resulted in a statistically significant difference in CDRs. 
+Using the NIH scoring system the overall CDR, which included fusion biopsy and standard 
+12-core biopsy, was 47.5% (19 of 40) and 72.3% of cases (47 of 65) at low and moderate/
+high suspicion for cancer, respectively (p = 0.011). Overall CDRs for participants stratified 
+by the 5-point Likert scale were 0%, 25.0% (2 of 8), 50.0% (23 of 46), 65.5% (19 of 29) 
+and 100% (22 of 22) for grade 1 to 5 suspicious lesions, respectively (p <0.0001). The AUC 
+using the 5-point Likert scale with respect to overall CDR was 0.74 (95% CI 0.66e0.83).
+
+Did MR/TRUS Biopsy Outperform Standard Biopsy to Detect Clinically Significant CaP?
+
+Clinically significant CaP was defined using the Epstein criteria as any Gleason pattern 4 or 
+greater, or Gleason 3 + 3 disease with core length 50% or greater and/or more than 2 cores 
+positive on standard 12-core TRUS guided biopy.10 Targeted core biopsy was considered 
+clinically significant with any Gleason pattern 4 or greater, or MR lesion volume 0.2 cm3 
+or greater.11 The chi-square test was used to compare the CDR of MR/TRUS fusion guided 
+biopsy and standard 12-core biopsy stratified by no cancer, no clinically significant CaP 
+and clinically significant CaP (p <0.0001, table 2). Analysis was repeated in each subgroup 
+stratified by NIH risk scores (p <0.0001, table 2). Some groups proposed using cancer 
+core length or index tumor longest diameter to determine the clinical significance of the 
+lesion. These 2 approaches could lead to overestimation or underestimation of actual tumor 
+volume if the lesion is not symmetrical. All MR lesion volumes were calculated using all 3 
+dimensions by the ellipsoid formula, volume = length × width × height × 0.52, to calculate 
+volume in cm3 (fig. 1). There was a 27.7% relative increase in the detection of clinically 
+significant cancer using the fusion biopsy approach compared to the standard 12-core biopsy 
+technique.
+
+How Did CDR Results Stratified by Lesion and Overall CDR Compare to Initial NIH CDR?
+
+Overall CDR and CDR per MRI suspicious lesions were comparable to those in the 
+previously published cohort reported by Pinto et al (table 3).6 Coreby-core analysis resulted 
+in a CDR of 37.9% (154 of 406 cases) for fusion guided biopsy and 12.5% (157 of 1,260) 
+for standard 12-core biopsy (p <0.001). This was comparable to results in the NIH cohort, 
+which showed an increased CDR per core by fusion with CaP revealed a statistically 
+significant difference between standard 12-core and positive fusion biopsies (3.7 vs 4.6 mm, 
+p = 0.01). Overall CDRs for lesions stratified by the 5-point Likert scale were 50% (1 of 
+2), 23.8% (5 of 21), 31.2% (29 of 93), 63.3% (38 of 60) and 96.3% (26 of 27) for grade 1 
+to 5 suspicious lesions, respectively (p <0.0001). Core length and lesion analysis using the 
+5-point Likert scale were not reported in the NIH cohort.
+
+What was Impact on CDR with MR/TRUS Biopsy Approach as Only Screening Method?
+
+Cancer was detected in 50.5% of participants (53 of 105) when the fusion only biopsy 
+approach was used (fig. 1). MR/TRUS fusion guided biopsy detected cancer in 14.3% of 
+cases (15 of 105) missed by standard 12-core biopsy, including Gleason 8 in 4, Gleason 7 
+in 7, high volume Gleason 6 in 2 and low volume Gleason 6 in 2. MR/TRUS fusion guided 
+biopsy also upgraded 23.5% of cancers (4 of 17) deemed clinically insignificant on 12-core 
+
+
+biopsy to clinically significant CaP requiring treatment. However, the MR/TRUS fusion 
+guided biopsy system missed 4 cases of clinically significant CaP. A Gleason 7 cancer was 
+missed due to procedural error and 3 Gleason 7 cancers were missed due to small volume 
+with a core length of 0.5, 2.5 and 2.5 mm, respectively. The remaining 9 cancers missed 
+by the MR/TRUS fusion guided biopsy system were low volume, clinically insignificant 
+Gleason 3 + 3 cancers.
+
+DISCUSSION
+
+This study is an external validation of this new, potentially office based technology that 
+combines the increased sensitivity and specificity associated with prostate MP-MRI with the 
+ease of use of the standard TRUS guided biopsy approach that most urologists use today.
+
+The CDR of targeted biopsy was superior to that of standard 12-core biopsy and detected 
+12.4% more clinically significant cancers (13 of 105). It is possible that the performance 
+of standard 12-core biopsy may have been overestimated since the same surgeon performed 
+each biopsy. Although blinded, he had cognitive registration of the lesion location as well as 
+the impact of MRI selection in patients undergoing biopsy.
+
+Only 28.8% of subjects with CaP were diagnosed with low grade disease in our cohort. 
+In contrast, the PLCO (Prostate, Lung, Colorectal and Ovarian) and ERSPSC (European 
+Randomized Screening for Prostate Cancer) screening trials had a 57.3% to 60.3% incidence 
+of low grade CaP.1,12
+
+Our CDR per patient was higher than the published results by Pinto et al (62.8% vs 
+54.1% to 54.4%), although our cohort included more men with previous negative biopsy 
+compared to the NIH cohort.6,13 However, multiple factors must be considered when 
+comparing both MRI/TRUS fusion biopsy cohorts. MP-MRI quality is crucial when using 
+these new technologies in regard to study technique and interpretation. Before the study the 
+NIH molecular imaging program optimized our MR sequences for prostate imaging. Also, 
+imaging conferences were held to discuss cases, review pathology findings and maintain 
+quality control in regard to the interpretation and quality of prostate images. The increase in 
+CDR compared to that in the NIH series could have been due to a higher threshold and/or 
+selection bias for reporting a lesion as positive on MP-MRI. Of prostate MRIs interpreted 
+at our institution 52% were considered positive, approximately 10% less than that reported 
+in a systematic review of the literature on prostate MP-MRI.14 This is also evident in the 
+difference in the mean number of lesions reported per patient in our study cohort vs the NIH 
+cohort (1.9 vs 2.6). There was no randomization of subjects at either institution. Despite 
+these limitations we implemented a MRI based screening program and similar results were 
+achieved at these 2 centers.
+
+Cost is a major limitation to implementing new diagnostic tests or technologies (genetic 
+markers, PCA3 and/or imaging) for improved CaP risk stratification.15,16 Using 2013 
+Centers for Medicare and Medicaid Services data for processing prostate biopsy specimens 
+if a fusion biopsy only approach was used, the cost saving from the decrease in the number 
+of prostate biopsy specimens (which are reimbursed individually) submitted could offset 
+
+
+97% of the cost of prostate MP-MRI compared to standard 12-core biopsy. MRI also 
+provides information on tumor volume, Gleason grade, and local and regional stage, which 
+may lead to better treatment selection for patients or possibly no treatment at all. MP-MRI 
+has a reported 92% accuracy for selecting patients for treatment vs active surveillance.17,18 
+Moreover, we are currently investigating prostate specific screening transabdominal MRI 
+consisting of a single high resolution axial T2, a diffusion-weighted MRI with ADC maps 
+and no ERC or contrast medium, which could have significantly decreased cost.
+
+If a targeted only biopsy approach was used, 12.4% of CaP cases would have been missed 
+(fig. 1), of which 3.8% (4 of 105) would have been clinically significant disease. This 
+is far better than the performance of the standard 12-core biopsy, which misses 50% to 
+80% of clinically significant disease if present.19 Abd-Alazeez et al recently reported that 
+MP-MRI had 89% to 100% negative predictive value to rule out clinically significant CaP 
+in patients with negative MP-MRI who underwent template mapping biopsy.20 This supports 
+the possible notion that biopsy may not be necessary in men with increased PSA and 
+negative prostate MRI. In the near future if an image guided approach to CaP screening is 
+implemented, the cost savings from eliminating unnecessary biopsies, over diagnosis and 
+unnecessary treatment, biopsy complications and emotional distress in patients could offset 
+the cost of the MR/TRUS fusion biopsy approach.
+
+CONCLUSIONS
+
+Given the limitations of PSA and the recent USPSTF recommendation against PSA based 
+screening, a new paradigm for CaP screening and diagnosis is needed to improve patient 
+selection for biopsy, treatment and/or observation. The combination of advances in MP-MRI 
+and MRI/TRUS fusion guided prostate biopsy technologies have laid the foundation for a 
+new approach to CaP detection and treatment by overcoming the inherent sampling errors 
+and over diagnosis of low grade CaP associated with current strategies. This paradigm may 
+aid in the accurate selection of men for CaP screening and possibly improve treatment 
+decisions and outcomes.17

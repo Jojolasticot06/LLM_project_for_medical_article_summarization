@@ -1,0 +1,42 @@
+Validation of a real-time biliopancreatic endoscopic ultrasonography analytical 
+device in China: a prospective, single-centre, randomised, controlled trial.
+
+1/BACKGROUND: Endoscopic ultrasonography (EUS) is a key procedure for the 
+diagnosis of biliopancreatic diseases. However, the performance among EUS 
+endoscopists varies greatly and leads to blind spots during the operation, which 
+can impair the health outcomes of patients. We previously developed an 
+artificial intelligence (AI) device that accurately identified EUS standard 
+stations and significantly reduced the difficulty of ultrasonography image 
+interpretation. In this study, we updated the device (named EUS-IREAD) and 
+validated its performance in improving the quality of EUS procedures.
+
+2/METHODS: In this single-centre, randomised, controlled trial, we updated 
+EUS-IREAD so it consisted of five learning models to identify eight EUS stations 
+and 24 anatomical structures. The trial was done at the Renmin Hospital of Wuhan 
+University (Wuhan, China) and included patients aged 18 years or older with 
+suspected biliopancreatic (pancreas and biliopancreatic duct) lesions due to 
+clinical symptoms, radiological findings, or laboratory findings, and with a 
+high risk of pancreatic cancer. Patients were randomly assigned (1:1) by a 
+dedicated research assistant using a computer-generated random number series 
+(with a block size of four) to undergo the EUS procedure with or without the 
+assistance of EUS-IREAD. Endoscopists in the EUS-IREAD-assisted group were 
+required to observe all standard stations and anatomical structures according to 
+the prompts by the AI device. Data collectors, the independent data anaylsis 
+team, and patients were masked to group allocation. The primary outcome was the 
+missed scanning rate of standard stations between the two groups, which was 
+assessed in patients who underwent EUS procedure in accordance with the assigned 
+intervention (per protocol). This trial is registered with ClinicalTrials.gov, 
+NCT05457101.
+
+3/FINDINGS: Between July 9, 2022, and Feb 28, 2023, 290 patients (mean age 55·93 
+years [SD 14·06], 152 [52%] male, and 138 [48%] female) were randomly assigned 
+and analysed, including 144 in the EUS-IREAD-assisted group and 146 in the 
+control group. The EUS-IREAD-assisted group had a lower missed scanning rate of 
+stations than the control group (4·5% [SD 0·8] vs 14·3% [1·0], -9·8% [95% CI 
+-12·2 to -7·5]; odds ratio 3·6 [95% Cl 2·6 to 4·9]; p<0·0001). No significant 
+adverse event was found during the study.
+
+4/INTERPRETATION: Our study confirms the capability of EUS-IREAD to monitor the 
+blind spots and reduce the missed rate of stations and structures during EUS 
+procedures. The EUS-IREAD has the potential to play an essential part in EUS 
+quality control.

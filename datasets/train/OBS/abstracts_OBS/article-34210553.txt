@@ -1,0 +1,77 @@
+1. Introduction
+The severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) pandemic is undermining the ability of many emergency departments (EDs) to accurately diagnose and isolate novel coronavirus disease (COVID-19) in a timely manner.
+In clinical practice the detection of the SARS-CoV-2 in real-time reverse transcription polymerase chain reaction (rRT-PCR) on biologic material obtained from nasopharyngeal swabs (NPSs) is the preferred initial diagnostic test [[1]]. However, due to not negligible rate of false-negative results of this method and the undistinguishable features of COVID-19 from other pneumopathies, the World Health Organization (WHO) recommends performing a second test in patients with suspicion of SARS-CoV-2 pneumonia despite a first negative NPS [[2]]. Different strategies such as serial NPSs, bronchoalveolar lavage (BAL), sputum collections have been proposed, however, all of them present limitations to be used as screening test in ED.
+Serial NPSs require isolation of patients for days and the additional contribution of a second NPS performed after 24–48 h is controversial [[3]]. BAL, the most sensitive option, requires expertise, bronchoscopy equipment and as it is an aerosol generating procedure should be performed in the appropriate setting, ideally a negative pressure bronchoscopy room that is not available in the majority of EDs [[4]]. Moreover, in critically ill patients, BAL related adverse events are frequently observed when it is performed by less experienced physicians [[5]]. Sputum collection proved to be more sensitive than NPS, however it can not be performed in most patients as they can not expectorate secretions for analysis [[6]].
+Laryngotracheal aspiration (LTA) performed at the bedside can theoretically overcome these limitations and, according to WHO guidelines, rRT-PCR testing can be performed on the respiratory material obtained with this method [[2]]. LTA is cheap, safe, rapid and it does not require special expertise, as such technique is frequently used to remove major airway secretions in patients without efficient cough. The diagnostic accuracy of tracheal aspirate for ventilator-associated-pneumonia has been studied in intubated patients showing that a diagnostic strategy based on endotracheal aspiration with nonquantitative culture of the aspirate has similar clinical outcomes when compared with BAL with quantitative culture of the bronchoalveolar-lavage fluid [[7]]. There are no studies about LTA utility in ED for SARS-CoV-2 detection in non-intubated patients.
+The aim of the study was to evaluate the negative predictive value of LTA in patients with suspected SARS-COV-2 pneumonia despite a first negative NPS.
+2. Methods
+2.1 Study design and setting
+This was an observational, bicentric, cross sectional diagnostic accuracy study. Informed consent was obtained from study patients. Patients were enrolled in two Italian university hospitals with approximately 900 beds and an ED with approximately 100,000 access per year.
+2.2 Population
+Consecutive patients presenting to the participating EDs with suspected SARS-COV-2 pneumonia despite a negative NPS performed at ED presentation were enrolled. According to the protocols in use in both hospitals, these patients underwent chest computed tomography (CT) and LTA in ED. The suspicion of SAR-COV-2 pneumonia was based on the global evaluation of these patients, comprehensive of compatible symptoms (fever and/or respiratory signs or symptoms) and interstitial pattern on chest CT or chest x-ray. In case of negative results of LTA, patients were admitted to a non-COVID area wearing face mask. At least a second rRT-PCR airway specimen test was repeated during hospitalization. Patients aged less than 18 years were excluded.
+2.3 Data extraction
+Data on demographic, clinical, laboratory and diagnostic imaging characteristics of the included patients were extracted from routinely collected EDs and hospitals databases. All airway specimen tests (NPS, BAL and LTA) performed at ED presentation and within one month after the ED visit were collected.
+2.4 Index test
+LTA was considered the index test. It was performed with a nasotracheal tube connected to a vacuum system in an isolated area of the ED by a nurse wearing FFP3 mask, protective goggles and visor, disposable gown/disposable apron/disposable TNT suit, disposable gloves. The patient was positioned upright in a chair or in a bed and soft sterile catheter inserted in a naris while the patient was tilting his head back. When the tip of the catheter reached the back of the throat, the patient had to take breaths in order to ease insertion and let the catheter advance into the larynx-trachea, then the suction pressure was activated for up to five seconds. Once the sample was collected, the suction was stopped and the catheter removed. LTA specimen were collected 24 h a day, 7 days a week, within 8 h from the first negative NPS. rRT-PCR was performed on the specimen to detect SARS-CoV-2 RNA by the hospital laboratory. The specimen was processed using GeneFinder COVID-19 Plus RealAmp Kit. and AllplexTM SARS-CoV-2 Assay Seegene, Korea. The laboratory analysis and turn round time of LTA was the same of NPS.
+2.5 Reference standard
+The final diagnosis was dichotomic: community acquired SARS-COV-2 pneumonia or alternative diagnosis. Community acquired SARS-COV-2 pneumonia was diagnosed in case of a positive rRT-PCR in any airway specimens (NPS, LTA or BAL) together with a consensus by two physicians that independently adjudicated the case considering all patients data. In particular in patients with SARS-COV-2 pneumonia, the reviewers were asked to establish if the infection was present at the ED admission (community acquired SARS-COV-2 pneumonia) versus acquired SARS-COV-2 pneumonia after admission (hospital acquired). In case of discordance a third physician was consulted for the final diagnosis.
+2.6 Statistical analysis
+Continuous variables were reported as median (interquartile range, IQR) whereas categorical variables were reported as counts (percentages).
+The negative predictive values (NPV) of NPS and LTA for the diagnosis of community acquired SARS-COV-2 pneumonia were calculated as the ratio of true negatives and the total number of negative patients. The diagnostic yield of LTA was calculated considering the ratio of positive LTA and the total number of LTA performed. Finally, we assessed the number of LTA to be performed to detect one additional SARS-COV-2 pneumonia case, calculated as the reciprocal of the diagnostic yield (1/diagnostic yield). Binomial distribution was used to calculate 95% confidence intervals (CI) for the above reported ratios.
+We estimated that the enrollment of at least 100 consecutive patients, assuming a 90% prevalence of LTA negative results in these patients, would have provided an estimate of NPV with an acceptable precision, as shown by the lower limit of the 95% CI. In particular, assuming to observe a NPV of 98% the 95% CI would have been from 92.2% to 99.7%.
+3. Results
+Between 1st of October and 18th December 2020, 117 patients with suspected SARS-COV-2 pneumonia despite a negative NPS were enrolled. LTA was feasible in all patients and a positive or negative result was given by the laboratory in all specimens. No patients experienced adverse events related to LTA procedure.
+The median age of enrolled patients was 74.5 years (IQR, 60 – 83), 56 (47.9%) patients were female. Table 1 shows the characteristics of the included patients.
+Table 1Characteristics of the included patients.
+Comorbidities	No (%)
+Cardiovascular disease	45 (38.5)
+Hypertension	52 (44.4)
+Malignancy	21 (18.0)
+Diabetes	29 (24.8)
+COPD	16 (13.7)
+Chronic Kidney Disease	9 (7.7)
+Symptoms	No (%)
+Dyspnea	69 (59.0)
+Nausea or vomiting	17 (14.5)
+Fatigue	10 (8.6)
+Diarrhea	10 (8.6)
+Cough	42 (35.9)
+Chest pain	15 (12.8)
+Fever	42 (35.9)
+Vital signs	Median (IQR)
+Systolic blood pressure (mmHg)	130 (120–150)
+Diastolic blood pressure (mmHg)	76 (65–85)
+Heart rate	90 (80–104)
+Respiratory rate	22 (20–26)
+Temperature ( °C)	36.5 (36.0–37.5)
+Blood tests	Median (IQR)
+Creatinine (mg/dl)	1.14 (0.91–1.56)
+Hemoglobin (g/dl)	12.0 (10.5–13.7)
+Platelets (x 109/L)	262 (190–342)
+White Blood cells (x 109/L)	11.2 (8.0–14.6)
+Arterial Blood Gas	Median (IQR)
+pH	7.45 (7.40–7.48)
+pCO2 (mm Hg)	34 (30.0–39.5)
+pO2 (mm Hg)	67 (55.0–80.5)
+SaO2%	94 (89–97)
+Open table in a new tab
+The two reviewers agreed on all final diagnosis except for one patient. He was an 84 years old male with pulmonary fibrosis presenting to ED for stroke. During hospitalization, after one week of clinical stability, he showed a rapid respiratory deterioration and was re-tested 9 days after the admission and SARS-COV2 was detected; he died due to acute respiratory distress syndrome six days later. In light of these events the final adjudication was hospital-acquired SARS-COV-2 pneumonia. Fifteen (12.7%) patients were diagnosed with community acquired SARS-COV-2 pneumonia and 2 (1.7% of 117) were LTA negative (Table 2).
+Table 2Laryngotracheal aspiration vs final diagnosis in patients with suspected SARS-COV-2 pneumonia despite a negative nasopharyngeal swab.
+Community acquired SARS-COV-2 pneumonia	Alternative diagnosis	
+LTA +	13	0	13
+LTA -	2	102	104
+15	102	117
+LTA: Laryngotracheal aspiration.
+Open table in a new tab
+Considering the two LTA negatives patients, they were both positive at a second NPS, one after 3 days and the other after 5 days. The first patient was a 54 years old female presenting to the ED with cough, fever and dyspnea. Vital signs: blood pressure 106/60 mmHg, heart rate 90 bpm, respiratory rate 18/min and temperature 36.5 °C. The chest CT did not show interstitial lung disease. The patient was discharged after 5 days with a diagnosis of intrinsic asthma SARS-CoV-2 associated. The second patient was a 68 years male with alcoholic cardiomyopathy, chronic obstructive pulmonary disease and atrial fibrillation. He was admitted to the ED after an accidental fall. In the week before he had cough and rhinorrhea. Vital signs: blood pressure 100/60 mm Hg, heart rate 90 bpm, respiratory rate 34/min, temperature 37 °C. Legionella urinary antigen resulted positive at presentation and he was admitted with a diagnosis of pneumonia due to Legionella pneumophila. The nasopharyngeal swab performed 5 days after the LTA resulted positive. He died after 9 days.
+The negative predictive value of the NPS was 102/117 (87.2% 95% CI from 79.7 to 92.6%). The negative predictive value of LTA was 102/104 (98.1, 95% CI from 93.2 to 99.8%).
+The diagnostic yield of the LTA was 13/117 (11.0% 95% CI from 6.1 to 18.3%). Considering these numbers, we would need to perform LTA in 10 (95% CI from 6 to 17) patients to detect one additional COVID-19 case.
+BAL was performed in 15 patients with negative LTA and in one patient with positive LTA. BAL and LTA gave the same results in all cases.
+4. Discussion
+Our study showed that LTA in patients with suspected SARS-COV-2 pneumonia despite a negative NPS is feasible, safe and can reduce the rate of false negative cases.
+Other alternative strategies have been investigated to reduce the number of false negative patients and reduce the number of patients without a definitive diagnosis or possible COVID-19 patients admitted in COVID negative areas. Some studies performed two NPS 24–48 h apart. This strategy has the problem of maintaining patients in single rooms (or in the emergency departments if single rooms are not available in the hospital) for many hours/days. Moreover, the negative predictive value and diagnostic yield of this approach is lower than the present one [[3]].
+In a metanalysis of Chinese studies, sputum collection, which is a low respiratory tract sample, showed a higher sensitivity (87%) than NPS [[8]], however the majority of patients are not able to produce and collect sputum.
+Another option is to perform a BAL, that is considered the diagnostic refence, as it can detect the virus in the bronchial tree. BAL showed a positive rate of 98.1%, in a small sample of 20 patients [[8]]. An Italian multicentric study examined the diagnostic power of BAL in patients with suspected SARS-COV-2 infection with two previous negative NPSs. In this specific sample a viral detection rate of 37.2% was found [[9]]. Besides its potentiality, adverse events are reported for BAL, especially in hypoxic patients or patients with pre-existing respiratory diseases and when bronchoscopy is performed by less experienced physicians. Ideally BAL has to be performed in selected patients, in a negative pressure bronchoscopy room by expert personnel. On the contrary, LTA is a minimally invasive technique, that can be performed by every physician or nurse, with less delay in time for the diagnosis. LTA has not been studied yet in the ED for SARS-COV-2 detection in non-intubated patients. Other studies referring to other pulmonary diseases in critical care settings showed that the diagnostic accuracy of LTA is similar to that of BAL [[7]]. In our study, the concordance of LTA and BAL was 16/16 (100%) among patients that underwent both procedures.
+LTA reduced the rate of false negative cases of NPS, and a diagnostic strategy based on LTA seems to be the best strategy to be applied in clinical practice. External validation in larger cohort of patients is needed to confirm our results. LTA has a potential risk of aerosolization related to cough stimulated during the procedure. However, considering PPE and alternative strategies such as BAL we think that its benefit overcomes the risks.
+A limitation of our study is that we addressed the negative predictive value of our strategy, that, as known, depends on the prevalence of the disease. Furthermore, the generalizability of our results could be influenced by the fact that the study was performed during the second wave of the pandemic which presented virological and epidemiological characteristics quite different from the following periods, dominated by variants and by the spreading of vaccinations capable of influencing, the prevalence and the clinical course of the disease and the sensitivity of diagnostic tests.
+In conclusion, LTA is feasible and safe and in patients suspected of SARS-CoV-2 pneumonia despite a negative NPS can reduce the rate of false negative cases.

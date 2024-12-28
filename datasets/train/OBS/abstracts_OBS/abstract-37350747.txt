@@ -1,0 +1,37 @@
+AIMS: The safety and efficacy of transcatheter aortic valve replacement (TAVR) 
+with contemporary balloon expandable transcatheter valves in patients with 
+cardiogenic shock (CS) remain largely unknown. In this study, the TAVRs 
+performed for CS between June 2015 and September 2022 using SAPIEN 3 and SAPIEN 
+3 Ultra bioprosthesis from the Society of Thoracic Surgeons/American College of 
+Cardiology Transcatheter Valve Therapy Registry were analysed.
+METHODS AND RESULTS: CS was defined as: (i) coding of CS within 24 h on 
+Transcatheter Valve Therapy Registry form; and/or (ii) pre-procedural use of 
+inotropes or mechanical circulatory support devices and/or (iii) cardiac arrest 
+within 24 h prior to TAVR. The control group was comprised of all the other 
+patients undergoing TAVR. Baseline characteristics, all-cause mortality, and 
+major complications at 30-day and 1-year outcomes were reported. Landmark 
+analysis was performed at 30 days post-TAVR. Cox-proportional multivariable 
+analysis was performed to determine the predictors of all-cause mortality at 1 
+year. A total of 309 505 patients underwent TAVR with balloon-expandable valves 
+during the study period. Of these, 5006 patients presented with CS prior to TAVR 
+(1.6%). The mean Society of Thoracic Surgeons score was 10.76 ± 10.4. The valve 
+was successfully implanted in 97.9% of patients. Technical success according to 
+Valve Academic Research Consortium-3 criteria was 94.5%. In a propensity-matched 
+analysis, CS was associated with higher in-hospital (9.9% vs. 2.7%), 30-day 
+(12.9% vs. 4.9%), and 1-year (29.7% vs. 22.6%) mortality compared to the 
+patients undergoing TAVR without CS. In the landmark analysis after 30 days, the 
+risk of 1-year mortality was similar between the two groups [hazard ratio (HR) 
+1.07, 95% confidence interval (CI) 0.95-1.21]. Patients who were alive at 1 year 
+noted significant improvements in functional class (Class I/II 89%) and quality 
+of life (ΔKCCQ score +50). In the multivariable analysis, older age (HR 1.02, 
+95% CI 1.02-1.03), peripheral artery disease (HR 1.25, 95% CI 1.06-1.47), prior 
+implantation of an implantable cardioverter-defibrillator (HR 1.37, 95% CI 
+1.07-1.77), patients on dialysis (HR 2.07, 95% CI 1.69-2.53), immunocompromised 
+status (HR 1.33, 95% CI 1.05-1.69), New York Heart Association class III/IV 
+symptoms (HR 1.50, 95% CI 1.06-2.12), lower aortic valve mean gradient, lower 
+albumin levels, lower haemoglobin levels, and lower Kansas City Cardiomyopathy 
+Questionnaire scores were independently associated with 1-year mortality.
+CONCLUSION: This large observational real-world study demonstrates that the TAVR 
+is a safe and effective treatment for aortic stenosis patients presenting with 
+CS. Patients who survived the first 30 days after TAVR had similar mortality 
+rates to those who were not in CS.

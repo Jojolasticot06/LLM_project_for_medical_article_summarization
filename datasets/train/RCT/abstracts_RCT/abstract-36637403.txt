@@ -1,0 +1,27 @@
+Tuberculosis preventive treatment among individuals with inactive tuberculosis 
+suggested by untreated radiographic abnormalities: a community-based randomized 
+controlled trial.
+
+1/Epidemiological and interventional studies have been rarely conducted among 
+those with positive interferon-γ release assay (IGRA) results and radiologically 
+inactive tuberculosis (TB) lesions on chest radiograph. 
+
+2/This study aimed to estimate the effectiveness and safety of a six-week twice-weekly regimen (rifapentine plus isoniazid) among this key population in rural China. First, chest digital radiography was conducted to screen individuals with inactive TB lesions. Then, the identified participants were further evaluated and eligible participants with IGRA-positive results were included in subsequent randomized controlled trial (RCT). Of 44,500 recruited residents, 2,988 presented with radiographically inactive TB among 43,670 with complete results of chest 
+radiography and questionnaire, and 28.61% (855/2,988) tested IGRA positive. 
+Subsequently, 677 eligible participants were included in this RCT (345 in the 
+preventive treatment group and 332 in the untreated control group). 
+The treatment completion rate was 80.00% (276/345), and 11.88% (41/345) participants 
+reported side-effects including two cases of hepatotoxicity (0.58%, 2/345). In 
+the intention-to-treat analysis, the cumulative incidence rate of 
+microbiologically confirmed active TB during a two-year follow-up was 1.16 (95% 
+confidence interval [CI]: 0.03-2.29) in the preventive treatment group and 1.51 
+(95% CI: 0.20-2.82) in the control group (p = .485). 
+
+3/Subgroup analyses showed 
+that the protective rates were 55.42% (95% CI: 10.33-93.07%) and 80.17% (95% CI: 
+25.36-97.96%) for participants with fibrosis and for those aged ≥60 years, 
+respectively. The expected treatment effect was not observed for the six-week 
+regimen in this study. 
+
+4/Future studies with sufficient sample size are needed to 
+verify our findings.

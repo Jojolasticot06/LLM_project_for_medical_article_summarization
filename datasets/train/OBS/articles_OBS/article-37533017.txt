@@ -1,0 +1,184 @@
+Background
+From a regulatory perspective, real-world evidence (RWE) arises from diverse sources, including randomized controlled trials (RCT) that involves analysis of real-world data (RWD), observational studies, and other study designs [1]. RWE can provide insight into treatments, outcomes, and populations beyond those that can be studied in traditional RCTs. Researchers studying causal inference have established a strong theoretical foundation for understanding when and how causal effects can be estimated from RWD and developed sophisticated tools for doing so [2,3,4]. Strategies for increasing acceptance of RWE by improving its quality and promoting transparency have appeared in the literature [5,6,7,8]. The adage "trust, but verify" reminds us that before RWE can be used in support of clinical and regulatory decision-making, its quality and reliability must be systematically evaluated, from study design and conduct through analysis and interpretation.
+
+Originally introduced as a guide for statistical learning from data, the Targeted Learning (TL) roadmap is also invaluable for developing a statistical analysis plan and establishing the validity and interpretability of findings from a RWD study (Fig. 1) [9,10,11,12]. This paper demonstrates how to methodically step through the roadmap to expose weaknesses in causal claims. The roadmap provides a systematic way to evaluate the quality of RWE for both regulators and industry scientists. It can also inspire remediation strategies that strengthen the quality of the RWE.
+
+Fig. 1
+figure 1
+The targeted learning roadmap
+
+Full size image
+Variants of the roadmap have been published in which Step 2 precedes Step 1. A preliminary description of the statistical model that relies on the time ordering of the covariates offers a starting point that doesn't rely on statistical knowledge. In some scenarios when little is known about the causal structure, e.g., rare diseases with little knowledge of the natural history of the disease, defining a statistical model based on time ordering and respecting known bounds on the data is a helpful starting point. Researchers with causal knowledge may prefer constructing a causal model first, and then working with statisticians to develop a statistical model that captures other elements of the data distribution that aren't represented in the causal model, such as bounds on continuous variables, monotonicity constraints, and known interactions. Refining the statistical and causal models can be an iterative process. Ultimately they must agree.
+
+A published retrospective cohort study will serve to illustrate how to detect and overcome insufficiency for causal effect estimation. Our intent is not to provide a commentary on the published findings, but to discuss concepts in causality and present results from an alternative data analysis. Shinohara, et. al. studied the association between ritodrine hydrochloride and maternal pulmonary edema in twin pregnancy in Japan [13]. Ritrodine had previously been shown to increase risk of pulmonary edema in pregnant women [14]. Study authors wanted to establish this result in the sub-population of women pregnant with twins, who are at higher risk of pre-term labor. In Japan, ritodrine is a first line therapy for halting pre-term labor, although in the United States, it was withdrawn from the market in 1995 due to efficacy and safety concerns [13, 15].
+
+The target of the primary analysis was the dose–response association. The odds ratio (OR) for developing pulmonary edema associated with a one unit increase in total ritodrine dosage was estimated as OR = 1.02, with a 95% confidence interval (CI) of (1.004, 1.03). The authors state that due to unmeasured confounding, a causal interpretation is not warranted. The finding was interpreted as a partially adjusted measure of the dose–response association, since certain pre-existing health conditions that confound the treatment-outcome association were not available to the study team.
+
+The study provides a rich example of challenges to learning from data, well beyond unmeasured confounding. In the next section we follow the TL roadmap to identify additional barriers to evaluating a causal dose–response curve. Subsequently, we discuss potential solutions that are based on specifying a statistical model that respects the process that gave rise to the data, crafting a realistic definition of treatment consistent with real-world feasibility, and selecting an alternative, less ambitious, target parameter. Results of a modified data analysis support the conclusion that ritodrine treatment increases risk for pulmonary edema.
+
+Methods
+Evaluating real-world evidence
+Data made publicly available on Dryad by the study authors consists of observations on 
+ women in Japan pregnant between 2009 and 2016 [16]. Each observation contains baseline covariates, 
+; ritodrine treatment administered over multiple time points, 
+ time-varying covariates at multiple time points,
+; the pulmonary edema outcome, 
+ and additional covariates measured up to 24 h post-delivery, 
+. Actual infusion rates of the study drug varied from 50 mg per minute (mg/min) to 200 mg/min, over a variable period of time. Total dosage was converted to units of 72 mg/24 h. We step through the roadmap to better understand circumstances under which causal effect estimation might be possible, given the information available.
+
+Step 1: Statistical model
+Study authors posed a main terms logistic regression model,
+, where covariates are defined as ritodrine (the treatment): total dosage of ritodrine; PIH: pregnancy-induced hypertension (Y/N); BMI: body mass index (kg/m2); PPH: postpartum hemorrhage; term: term birth (Y/N); bedrest: bed rest > 6 weeks (Y/N).
+
+This defines the statistical model narrowly, in a way that almost certainly precludes the true data distribution. Including treatment in the model as a continuous main term automatically imposes a linear and monotonic dose–response relationship. Making this restrictive modeling assumption at the outset for all situations is unwarranted. In fact, the paper provides the crude proportion of outcome events observed in the RWD, grouped by dosage levels [13]. Plotting these values suggests the dose–response relationship is, in fact, non-monotonic (Fig. 2). The crude risk increases as total dosage approaches 50 units, then decreases at larger doses. Although adjusting for measured confounders might explain away some of the crude dose–response association, a main terms logistic dose–response model appears to be unrealistic.
+
+Fig. 2
+figure 2
+Proportion of patients with pulmonary edema grouped by total dose of ritodrine
+
+Full size image
+From a causal perspective, the timing of the outcome relative to other covariates included in the model is also problematic. The outcome event was measured from beginning of follow-up through 24 h postpartum [S. Shinohara, personal communication, December 2019]. That means that at least two covariates, PPH (postpartum hemorrhage) and term (term birth), occurred after the outcome, for some women. Including post-outcome covariates in a causal dose–response model violates the tenet that a cause must precede an effect.
+
+Steps 2 and 3: Causal estimand and corresponding statistical parameter
+Because the causal model must be contained within the statistical model, here it is identical to the statistical model. Both the causal estimand and the statistical parameter are given by 
+.
+
+Steps 4 and 5: Estimation and inference
+Maximum likelihood estimates of the model coefficients, standard error (SE) estimates, and 95% CIs were calculated using standard methodology.
+
+Step 6: Interpretation
+Mathematically, the model coefficients quantify the projection of the true dose–response curve onto the model. However, because the model is highly misspecified, as discussed in Step 1, the parameter estimate is not equivalent to the causal conditional log odds associated with a one unit increase in total dose.
+
+Strategies for improving the quality of real-world evidence
+Deficiencies in the study design, model specification, and available data undermine confidence in any causal interpretation of the study finding, and the RWE generated by the study is arguably not reliable. Designing and carrying out a new study may not be feasible, but instead we can revisit the roadmap to see if it may be possible to learn something relevant from the data we have.
+
+Step 1: Statistical model
+Parametric model misspecification can be avoided by defining a realistic, less restrictive, statistical model, 
+.In Step 1 We define the statistical model 
+ non-parametrically as all distributions of the data consistent with the process by which treatment, covariates, and the outcome arise over time. We can further restrict 
+ to distributions that respect the study inclusion criteria. This specification of the statistical model includes some distributions of the data where the dose–response relationship is monotonic (e.g., a main terms parametric model) and some distributions where it is not.
+
+Step 2: Causal estimand
+The causal model makes conditional independence assumptions consistent with the time ordering of the data and assumes exogenous errors. The causal dose–response relationship can be defined in terms of a marginal multi-dimensional parameter. For example, given clinically meaningful groupings of total dosage administered, the mean risk for each treatment group can be targeted. Consider seven treatment categories: patients who receive no treatment (
+), or treatment at one of six levels (
+, …, 
+, corresponding to > 0–10, 11–20, 21–30, 31–40, 41–50, 51 + units) (Fig. 2). The causal dose–response parameter is written as 
+, where 
+ is the counterfactual mean outcome observed if, contrary to fact, each patient received treatment at dosage level 
+. Furthermore, any causal contrast, such as the risk difference (RD), risk ratio (RR), or OR, can be easily calculated, e.g., 
+ is the RD for treatment with up to 10 units of ritodrine vs. no treatment.
+
+Step 3: Statistical estimand and assessment of identifiability
+Next, we specify a statistical estimand in observed data, 
+, that corresponds to our multi-dimensional 
+ under identifying assumptions. For each dimension, 
+, where 
+ is the complete covariate history from baseline (
+) through the time the event occurred, or 24 h post-delivery.
+
+A problem is that the relative timing of 
+ and 
+, is not clearly recorded in the dataset. In other words, it is impossible to properly define 
+, thus we cannot specify any statistical parameter that corresponds to 
+. Another complication is that clinicians may have slowed or stopped ritodrine infusion upon observing pulmonary edema in the patient. Under this scenario, the outcome partly causes the total dose, rather than the total dose causing the outcome. For these reasons, a causal dose–response curve is simply not identifiable from the data. Any study finding would rest entirely on a foundation of unrealistic modeling assumptions, and this RWE would not be appropriate to support decision-making.
+
+Alternative formulation: In the absence of additional data that are fit for purpose, an alternative, unplanned analysis might provide insight into the causal relationship between ritodrine and pulmonary edema. Consider a simpler question: does treatment with any dose of ritodrine vs. no treatment increase risk for pulmonary edema? From this point treatment standpoint, the data consists of 
+ independent and identically distributed observations 
+), where 
+ is a binary outcome indicator, 
+ is a binary treatment indicator (
+ for treated, 
+ for no treatment), and 
+ is a vector of baseline covariates. We are interested in a less ambitious causal parameter, the RD. Downstream covariates that affect treatment infusion over time are irrelevant, and time-dependent confounding is no longer an issue. In the next subsection we step through the roadmap with this revised clinical question in mind.
+
+Determining a point treatment effect by following the Targeted Learning roadmap
+Step 1: Statistical model
+The statistical model is defined as all probability distributions of the data, with structure 
+, consistent with study inclusion criteria.
+
+Step 2: Causal estimand
+The causal model makes no further assumptions, beyond exogenous errors. The causal parameter of interest is the marginal RD, defined in terms of counterfactual outcomes by 
+, where 
+ is the counterfactual outcome under any level of treatment and 
+ is the counterfactual outcome under no treatment.
+
+Step 3: Statistical estimand and assessment of identifiability
+The statistical estimand, 
+ has a valid causal interpretation when underlying assumptions are met [17]. The consistency assumption states that for each observation, the outcome under the observed exposure is equivalent to the counterfactual outcome that would be seen had the observed treatment been assigned. It is satisfied under our simpler definition of treatment as any exposure to ritodrine, versus none.
+
+The positivity assumption states that within all strata of confounders patients have a positive probability of receiving treatment at all levels considered. An outcome-blind look at the data shows that in some age groups no individuals were treated with ritodrine (Table 1), thus the parameter is not identifiable from the data. However, if coarser age categories are clinically justified, the violation can be eliminated by re-defining the age categories.
+
+Table 1 Number of subjects in control and treated groups by age in the original study age groupings (left), and re-defined age groupings (right)
+Full size table
+There is also another, more serious, violation of the positivity assumption. The prescribing information for ritodrine precludes administration when patients have serious pre-existing conditions, including maternal cardiac disease, hyperthyroidism, diabetes, and others [18]. If physicians adhere to these prescribing instructions, then no patients with these conditions would receive ritodrine, and the causal contrast in this subpopulation of women cannot be evaluated. However, these covariates aren't in the publicly available dataset. If the information was also not known to clinicians, then women with these conditions could possibly receive treatment, and there would be no theoretical violation of the positivity assumption.
+
+The final causal assumption, coarsening at random (CAR), is an assumption of no unmeasured confounders. With respect to the pre-existing conditions, if clinicians were unaware of patients' status, then these covariates could not have affected treatment decisions, so none are confounders. If clinicians were aware, then all of these covariates are unmeasured confounders.
+
+Alternative formulation: One option would be to augment the exclusion criteria to rule out pregnant women who are ineligible to receive the study drug. The causal parameter would address a modified scientific question: What is the marginal effect of ritodrine compared with no ritodrine on risk of pulmonary edema among women pregnant with twins to whom ritodrine may be prescribed?" The RD would be identifiable from data, and interpretable as a subgroup-specific causal effect. Unfortunately, this approach isn't feasible with the available dataset because we cannot identify patients with the relevant pre-existing conditions.
+
+A second option would be to modify the scientific question again. Suppose we were interested in understanding how incidence of pulmonary edema would be affected if ritodrine were withdrawn from the market. The target population includes all women pregnant with twins, even those who are ineligible to receive ritodrine. The following realistic treatment rules [19] can always be followed,
+
+Rule 1: Treat with ritodrine unless expressly contra-indicated,
+
+Rule 2: Never treat with ritodrine
+
+The marginal RD of pulmonary edema for following Rule 1 vs. Rule 2 can be estimated from observed data.
+
+Step 4: Estimation and inference
+Targeted minimum loss-based estimation (TMLE) with super learning (SL) was used to estimate the RD for the two realistic treatment rules. Potential baseline confounders included in the adjustment set were age, height, weight, BMI, and binary indicators of the following variables: obesity (BMI 
+ 25), first pregnancy, single placenta, assistive reproductive technology use, magnesium administration, and corticosteroid administration. Analyses were run using R (v4.0.2), and the tmle (v1.5.0–1) and SuperLearner (vx2.0–26) packages [20,21,22]. For SL, the number of cross validation folds, V, was set to 20 to account for the number of events [23]. The default library of algorithms for modeling the outcome included linear regression, Bayesian additive regression trees (BART, in dbarts v0.9–18)[24], and lasso (glmnet v4.0–2)[25]. The default library for modeling the propensity score (PS) included logistic regression, BART, and generalized additive models (gam v1.20) [26]. These library specifications allow us to explore more of the possible probability distributions contained in 
+ than restricting to a parametric main terms model. TMLE uses the SL fit for the treatment assignment mechanism to update the initial SL estimate of the outcome prediction model to improve the bias variance trade-off for the target parameter [10]. TMLE requires the PS (1-PS) to be bounded away from zero for treated and untreated subjects, respectively. We set this lower bound to 0.06, based on the formula 
+, with 
+ = 225) [27]. Influence curve-based standard errors (SE) were reported by the software.
+
+Results
+PS diagnostics allow us to understand the overlap between treatment and control groups. The C-statistic associated with the predicted PS values (0.72), and the plot of the PS distributions within each treatment group (Fig. 3) indicate reasonable overlap of treated and comparator groups. No PS values were extreme, so truncation had no impact. The estimated RD was 
+ (SE, 
+ = 0.062; 95% CI = [0.09, 0.33]).
+
+Fig. 3
+figure 3
+Distribution of propensity scores in treated (blue) and comparator (red) groups
+
+Full size image
+Step 5: Interpretation of the study finding and sensitivity analyses
+Ritodrine was estimated to increase risk for pulmonary edema by 21%. Next, we assess if unexplained departures from the underlying causal assumptions could reverse that conclusion. If without our knowledge any of the three causal assumptions were violated, even at infinite sample size the estimated RD would not equal the true causal effect. The difference between the statistical parameter and the causal parameter is termed the causal gap, 
+. A non-parametric sensitivity analysis illustrates how point estimates and CI bounds change at different assumed values of 
+ [28].
+
+Figure 4 shows the estimated RD and 95% CI under different values of 
+ For comparison, the size of the causal gap is also expressed relative to the SE of the effect estimate (SE units). The point estimate and 95% CI bounds determined from the data analysis are plotted at 0 on the x-axis. If there is a non-zero causal gap, then the estimate and CI would shift either left or right, depending on the direction and magnitude of the gap. Estimates and CIs plotted in gray correspond to different hypothetical causal gaps. If subject matter experts believe that any potential causal gap is likely to be negative then this sensitivity analysis reinforces a conclusion that ritodrine increases risk for pulmonary edema. If the causal gap is thought to be in the positive direction, unless the gap size is greater than approximately 0.1 the conclusion remains unchanged. The causal gap would have to be extremely large (> 0.325) to conclude that ritodrine is protective for pulmonary edema. Methods for establishing plausible values of the causal gap include expert knowledge, existence of a known external interpretable bound [28], data on negative controls, "worst case" imputation of missing outcomes, and analyses of data with key confounders omitted.
+
+Fig. 4
+figure 4
+Non-parametric sensitivity analysis showing the risk difference and 95% confidence intervals under different presumed values of the causal gap, 
+, and also relative to the standard error (SE-units)
+
+Full size image
+The recently proposed G-value calls attention to the gap size that would be needed to negate the finding from the current study (cause the CI to include the null if it is currently excluded, or exclude the null if it currently lies within the CI). For a 95% CI G-value = 
+σ
+, where 
+ is the estimated effect size, 
+σ
+ is the SE, and 
+ is the null value for the parameter (0 for the ATE, 1 for the RR, etc.)[12]. The G-value takes both bias and variance into account to help determine an appropriate level of confidence in conclusions drawn from the study. Here the G-value = 0.09 (1.5 SE units).
+
+Discussion
+Although the findings suggest that exposure to ritodrine increased risk for pulmonary edema among women pregnant with twins in Japan, in the absence of information on pre-existing conditions that affect risk for pulmonary edema the study finding cannot be interpreted as an unbiased estimate of the true causal effect.
+
+Conclusions
+For regulatory purposes, a well-designed study and good quality data are of paramount importance. Following the TL roadmap allowed us to systematically evaluate the suitability of these data for estimating a causal dose–response curve. Outside of a regulatory environment, the roadmap pointed us to explore alternative formulations of the causal question to produce more reliable, interpretable RWE.
+
+Steps 1–3 of the roadmap crystallized the statistical learning task by defining the statistical model (
+), causal parameter (
+), and statistical estimand (
+), that can answer the corresponding clinical question of interest. The original study's overly restrictive 
+ was ill-suited for modeling the true causal dose–response relationship. Our alternative formulation of a multi-dimensional 
+ addressed that problem. However, given the uncertainty around the time ordering of treatment, covariates, and outcome, we were unable to describe a corresponding statistical estimand that could be identified from the data. Even without looking at the actual data, we were able to identify structural barriers that preclude evaluating a causal dose–response curve. This situation motivated targeting a point treatment parameter, defined in terms of realistic treatment rules.
+
+Step 4, estimation of the statistical parameter, should go beyond fitting the coefficients in a single parametric model. If 
+ is sufficiently general, i.e., realistic, then flexible machine learning (SL) is required. TMLE tailors the procedure for unbiased, efficient estimation of the statistical parameter, and provides influence curve-based inference.
+
+Step 5, interpretation of the study finding, should incorporate a non-parametric sensitivity analysis that avoids imposing unwarranted parametric constraints. If a small, hypothetical but clinically plausible causal gap is sufficient to nullify or reverse the substantive conclusion, then the study findings are not a dependable guide decision making. On the other hand, when findings are robust in the face of plausible values of the causal gap, confidence is reinforced.
+
+RWE can fulfill needs for information beyond that generated by RCTs. However, trust must be earned, not assumed. The TL roadmap provides a systematic process for establishing whether the RWE provides transparent, reliable, and actionable support for decision-making. A thorough, honest, realistic assessment of RWE can be a routine part of any decision-making process. The TL roadmap prescribes how this can be accomplished.

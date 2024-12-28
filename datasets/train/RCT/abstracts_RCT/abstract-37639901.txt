@@ -1,0 +1,38 @@
+Accumbal-thalamic connectivity and associated glutamate alterations in human cocaine craving: A state-dependent rs-fMRI and 1H-MRS study
+1/Craving is a core symptom of cocaine use disorder and a major factor for relapse 
+risk. To date, there is no pharmacological therapy to treat this disease or at 
+least to alleviate cocaine craving as a core symptom. In animal models, impaired 
+prefrontal-striatal signalling leading to altered glutamate release in the 
+nucleus accumbens appear to be the prerequisite for cocaine-seeking. Thus, those 
+network and metabolic changes may constitute the underlying mechanisms for 
+cocaine craving and provide a potential treatment target. In humans, there is 
+recent evidence for corresponding glutamatergic alterations in the nucleus 
+accumbens, however, the underlying network disturbances that lead to this 
+glutamate imbalance remain unknown.
+2/ In this state-dependent randomized, 
+placebo-controlled, double-blinded, cross-over multimodal study, resting state 
+functional magnetic resonance imaging in combination with small-voxel proton 
+magnetic resonance spectroscopy (voxel size: 9.4 × 18.8 × 8.4 mm3) was applied 
+to assess network-level and associated neurometabolic changes during a 
+non-craving and a craving state, induced by a custom-made cocaine-cue film, in 
+18 individuals with cocaine use disorder and 23 healthy individuals. 
+Additionally, we assessed the potential impact of a short-term challenge of 
+N-acetylcysteine, known to normalize disturbed glutamate homeostasis and to 
+thereby reduce cocaine-seeking in animal models of addiction, compared to a 
+placebo. 
+3/We found increased functional connectivity between the nucleus 
+accumbens and the dorsolateral prefrontal cortex during the cue-induced craving 
+state. However, those changes were not linked to alterations in accumbal 
+glutamate levels. Whereas we additionally found increased functional 
+connectivity between the nucleus accumbens and a midline part of the thalamus 
+during the cue-induced craving state. Furthermore, obsessive thinking about 
+cocaine and the actual intensity of cocaine use were predictive of cue-induced 
+functional connectivity changes between the nucleus accumbens and the thalamus. 
+Finally, the increase in accumbal-thalamic connectivity was also coupled with 
+craving-related glutamate rise in the nucleus accumbens. Yet, N-acetylcysteine 
+had no impact on craving-related changes in functional connectivity. 
+4/Together, these results suggest that connectivity changes within the 
+fronto-accumbal-thalamic loop, in conjunction with impaired glutamatergic 
+transmission, underlie cocaine craving and related clinical symptoms, 
+pinpointing the thalamus as a crucial hub for cocaine craving in humans.
+

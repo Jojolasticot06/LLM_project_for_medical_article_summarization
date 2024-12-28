@@ -1,0 +1,28 @@
+Current treatment for celiac disease (CD) is adhering to a gluten-free diet 
+(GFD), although its long-term molecular effects are still undescribed. New 
+molecular features detectable in stool may improve and facilitate noninvasive 
+clinical management of CD. For this purpose, fecal small non-coding RNAs 
+(sncRNAs) and gut microbiome profiles were concomitantly explored in CD subjects 
+in relation to strict (or not) GFD adherence over time. In this observational 
+study, we performed small RNA and shotgun metagenomic sequencing in stool from 
+63 treated CD (tCD) and 3 untreated subjects as well as 66 sex- and age-matched 
+healthy controls. tCD included 51 individuals on strict GFD and with negative 
+transglutaminase (TG) serology (tCD-TG-) and 12 symptomatic with not 
+strict/short-time of GFD adherence and positive TG serology (tCD-TG+). Samples 
+from additional 40 healthy adult individuals and a cohort of 19 untreated 
+pediatric CD subjects and 19 sex/age matched controls were analyzed to further 
+test the outcomes. Several miRNA and microbial profiles were altered in tCD 
+subjects (adj. p < .05). Findings were validated in the external group of adult 
+controls. In tCD-TG-, GFD duration correlated with five miRNA levels (p < .05): 
+for miR-4533-3p and miR-2681-3p, the longer the diet adherence, the less the 
+expression differed from controls. tCD-TG+ and untreated pediatric CD patients 
+showed a similar miRNA dysregulation. Immune-response, trans-membrane transport 
+and cell death pathways were enriched in targets of identified miRNAs. 
+Bifidobacterium longum, Ruminococcus bicirculans, and Haemophilus parainfluenzae 
+abundances shifted (adj. p < .05) with a progressive reduction of 
+denitrification pathways with GFD length. Integrative analysis highlighted 121 
+miRNA-bacterial relationships (adj. p < .05). Specific molecular patterns in 
+stool characterize CD subjects, reflecting either the long-term GFD effects or 
+the gut inflammatory status, in case of a not strict/short-time adherence. Our 
+findings suggest novel host-microbial interplays and could help the discovery of 
+biomarkers for GFD monitoring over time.

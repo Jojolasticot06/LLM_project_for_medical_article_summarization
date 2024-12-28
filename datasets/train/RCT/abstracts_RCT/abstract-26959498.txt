@@ -1,0 +1,12 @@
+Correlates of Exercise Self-efficacy in a Randomized Trial of Mind-Body Exercise in Patients With Chronic Heart Failure.
+
+1/PURPOSE: Exercise self-efficacy is one of the strongest predictors of physical activity behavior. Prior literature suggests that tai chi, a mind-body exercise, may increase self-efficacy; however, this is not extensively studied. Little is known about the factors associated with development of exercise self-efficacy in 
+a population with heart failure.
+
+2/METHODS: We utilized data from a randomized controlled trial of 12 weeks of group tai chi classes versus education in patients with chronic heart failure (n = 100). Multivariable linear regression was used to explore possible correlates of change in exercise self-efficacy in the entire sample and in the subgroup who received tai chi (n = 50). Covariates included baseline quality of life, social 
+support, functional parameters, physical activity, serum biomarkers, sociodemographics, and clinical heart failure parameters.
+
+3/RESULTS: Baseline 6-minute walk (β=-0.0003, SE = 0.0001, P = .02) and fatigue score (β= 0.03, SE = 0.01, P = .004) were significantly associated with change in self-efficacy, with those in the lowest tertile for 6-minute walk and higher tertiles for fatigue score experiencing the greatest change. Intervention group assignment was highly significant, with self-efficacy significantly improved in 
+the tai chi group compared to the education control over 12 weeks (β= 0.39, SE = 0.11, P < .001). In the tai chi group alone, lower baseline oxygen uptake (β=-0.05, SE = 0.01, P = .001), decreased mood (β=-0.01, SE = 0.003, P = .004), and higher catecholamine level (epinephrine β= 0.003, SE = 0.001, P = .005) were significantly associated with improvements in self-efficacy.
+
+4/CONCLUSIONS: In this exploratory analysis, our initial findings support the concept that interventions like tai chi may be beneficial in improving exercise self-efficacy, especially in patients with heart failure who are deconditioned, with lower functional status and mood.

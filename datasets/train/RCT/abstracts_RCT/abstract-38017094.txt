@@ -1,0 +1,31 @@
+1/ Muscular strength represents a specific component of health-related fitness. 
+Hand grip strength is used as a simple and dynamic marker of maximum voluntary 
+force of the hand and to estimate overall strength. Today, little is known about 
+the relationship between grip strength and health in forcibly displaced 
+populations. 
+2/ In the present study, we examined whether grip strength is 
+associated with various health outcomes in a sample of forcibly displaced people 
+living in a Greek refugee camp. The present analyses are part of a larger 
+pragmatic randomized controlled trial. In this paper, cross-sectional baseline 
+data of 143 participants (71 men, 72 women) will be presented. In addition to 
+grip strength, the following physical and mental health outcomes were assessed: 
+body weight and body composition, blood pressure, total cholesterol, low- and 
+high-density lipoprotein cholesterol, triglycerides, blood glucose levels 
+(HbA1c), post-traumatic stress disorder (PTSD) symptoms, depressive and anxiety 
+symptoms, pain, and quality of life. Linear regression analyses were carried out 
+to examine how grip strength is associated with the health outcomes, separately 
+for absolute and normalized grip strength scores. 
+3/ Grip strength was positively and strongly associated with percentage muscle mass (normalized grip strength: 
+Stand. B = 0.58, p < .001), whereas a negative association existed for 
+percentage body fat (normalized grip strength: Stand. B = - 0.58, p < .001). No 
+statistically significant associations occurred between grip strength and the 
+other cardiovascular risk markers. In contrast, we found that participants with 
+higher normalized grip strength reported higher levels of PTSD (normalized grip 
+strength: Stand. B = 0.36, p < .05) and depressive symptoms (normalized grip 
+strength: Stand. B = 0.29, p < .05). No significant association occurred between 
+grip strength, anxiety, pain and quality of life. 
+4/ Measuring grip strength in forcibly displaced people can be a useful way to assess their overall muscle 
+strength. Grip strength tests are easy to implement, and results can be used to 
+assess the effects of specific intervention measures. Nevertheless, our results 
+question the usefulness of grip strength as a marker of cardiovascular health 
+and mental wellbeing in a refugee camp setting.

@@ -1,0 +1,12 @@
+A crossover pilot study evaluating the functional outcomes of two different types of robotic movement training in chronic stroke survivors using the arm exoskeleton BONES.
+
+1/BACKGROUND: To date, the limited degrees of freedom (DOF) of most robotic training devices hinders them from providing functional training following stroke. We developed a 6-DOF exoskeleton ("BONES") that allows movement of the upper limb to assist in rehabilitation. The objectives of this pilot study were 
+to evaluate the impact of training with BONES on function of the affected upper limb, and to assess whether multijoint functional robotic training would translate into greater gains in arm function than single joint robotic training also conducted with BONES.
+
+2/METHODS: Twenty subjects with mild to moderate chronic stroke participated in this crossover study. Each subject experienced multijoint functional training and single joint training three sessions per week, for four weeks, with the order of presentation randomized. The primary outcome measure was the change in 
+Box and Block Test (BBT). The secondary outcome measures were the changes in Fugl-Meyer Arm Motor Scale (FMA), Wolf Motor Function Test (WMFT), Motor Activity Log (MAL), and quantitative measures of strength and speed of reaching. These measures were assessed at baseline, after each training period, and at a 3-month follow-up evaluation session.
+
+3/RESULTS: Training with the robotic exoskeleton resulted in significant improvements in the BBT, FMA, WMFT, MAL, shoulder and elbow strength, and reaching speed (p < 0.05); these improvements were sustained at the 3 month follow-up. When comparing the effect of type of training on the gains obtained, no significant difference was noted between multijoint functional and single joint robotic training programs. However, for the BBT, WMFT and MAL, inequality of carryover effects were noted; subsequent analysis on the change in score between the baseline and first period of training again revealed no difference in the gains obtained between the types of training.
+
+4/CONCLUSIONS: Training with the 6 DOF arm exoskeleton improved motor function after chronic stroke, challenging the idea that robotic therapy is only useful for impairment reduction. The pilot results presented here also suggest that multijoint functional robotic training is not decisively superior to single 
+joint robotic training. This challenges the idea that functionally-oriented games during training is a key element for improving behavioral outcomes.

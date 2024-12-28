@@ -1,0 +1,42 @@
+AIMS/HYPOTHESIS: Lifestyle interventions are the first-line treatment option for 
+body weight and cardiometabolic health management. However, whether age groups 
+or women and men respond differently to lifestyle interventions is under debate. 
+We aimed to examine age- and sex-specific effects of a low-energy diet (LED) 
+followed by a long-term lifestyle intervention on body weight, body composition 
+and cardiometabolic health markers in adults with prediabetes (i.e. impaired 
+fasting glucose and/or impaired glucose tolerance).
+METHODS: This observational study used longitudinal data from 2223 overweight 
+participants with prediabetes in the multicentre diabetes prevention study 
+PREVIEW. The participants underwent a LED-induced rapid weight loss (WL) period 
+followed by a 3 year lifestyle-based weight maintenance (WM) intervention. 
+Changes in outcomes of interest in prespecified age (younger: 25-45 years; 
+middle-aged: 46-54 years; older: 55-70 years) or sex (women and men) groups were 
+compared.
+RESULTS: In total, 783 younger, 319 middle-aged and 1121 older adults and 1503 
+women and 720 men were included in the analysis. In the available case and 
+complete case analyses, multivariable-adjusted linear mixed models showed that 
+younger and older adults had similar weight loss after the LED, whereas older 
+adults had greater sustained weight loss after the WM intervention (adjusted 
+difference for older vs younger adults -1.25% [95% CI -1.92, -0.58], p<0.001). 
+After the WM intervention, older adults lost more fat-free mass and bone mass 
+and had smaller improvements in 2 h plasma glucose (adjusted difference for 
+older vs younger adults 0.65 mmol/l [95% CI 0.50, 0.80], p<0.001) and systolic 
+blood pressure (adjusted difference for older vs younger adults 2.57 mmHg [95% 
+CI 1.37, 3.77], p<0.001) than younger adults. Older adults had smaller decreases 
+in fasting and 2 h glucose, HbA1c and systolic blood pressure after the WM 
+intervention than middle-aged adults. In the complete case analysis, the 
+above-mentioned differences between middle-aged and older adults disappeared, 
+but the direction of the effect size did not change. After the WL period, 
+compared with men, women had less weight loss (adjusted difference for women vs 
+men 1.78% [95% CI 1.12, 2.43], p<0.001) with greater fat-free mass and bone mass 
+loss and smaller improvements in HbA1c, LDL-cholesterol and diastolic blood 
+pressure. After the WM intervention, women had greater fat-free mass and bone 
+mass loss and smaller improvements in HbA1c and LDL-cholesterol, while they had 
+greater improvements in fasting glucose, triacylglycerol (adjusted difference 
+for women vs men -0.08 mmol/l [-0.11, -0.04], p<0.001) and HDL-cholesterol.
+CONCLUSIONS/INTERPRETATION: Older adults benefited less from a lifestyle 
+intervention in relation to body composition and cardiometabolic health markers 
+than younger adults, despite greater sustained weight loss. Women benefited less 
+from a LED followed by a lifestyle intervention in relation to body weight and 
+body composition than men. Future interventions targeting older adults or women 
+should take prevention of fat-free mass and bone mass loss into consideration.

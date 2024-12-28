@@ -1,0 +1,12 @@
+Randomized Phase 3 Trial of Ruxolitinib for COVID-19-Associated Acute Respiratory Distress Syndrome
+
+1/Objectives: Evaluate the safety and efficacy of the Janus kinase (JAK)1/JAK2 inhibitor ruxolitinib in COVID-19-associated acute respiratory distress syndrome requiring mechanical ventilation.
+
+2/Design: Phase 3 randomized, double-blind, placebo-controlled trial Ruxolitinib in Participants With COVID-19-Associated Acute Respiratory Distress Syndrome Who Require Mechanical Ventilation (RUXCOVID-DEVENT; NCT04377620).
+Setting: Hospitals and community-based private or group practices in the United States (29 sites) and Russia (4 sites).
+Patients: Eligible patients were greater than or equal to 12 years old, hospitalized with severe acute respiratory syndrome coronavirus 2 infection, and mechanically ventilated with a Pa o2 /F io2 of less than or equal to 300 mm Hg within 6 hours of randomization.
+Interventions: Patients were randomized 2:2:1 to receive twice-daily ruxolitinib 15 mg, ruxolitinib 5 mg, or placebo, each plus standard therapy.
+
+3/Measurements and main results: The primary endpoint, 28-day mortality, was tested for each ruxolitinib group versus placebo using a mixed-effects logistic regression model and one-tailed significance test (significance threshold: p < 0.025); no type 1 error was allocated to secondary endpoints. Between May 24, 2020 and December 15, 2020, 211 patients (age range, 24-87 yr) were randomized (ruxolitinib 15/5 mg, n = 77/87; placebo, n = 47). Acute respiratory distress syndrome was categorized as severe in 27% of patients (58/211) at randomization; 90% (190/211) received concomitant steroids. Day-28 mortality was 51% (39/77; 95% CI, 39-62%) for ruxolitinib 15 mg, 53% (45/85; 95% CI, 42-64%) for ruxolitinib 5 mg, and 70% (33/47; 95% CI, 55-83%) for placebo. Neither ruxolitinib 15 mg (odds ratio, 0.46 [95% CI, 0.201-1.028]; one-sided p = 0.029) nor 5 mg (odds ratio, 0.42 [95% CI, 0.171-1.023]; one-sided p = 0.028) significantly reduced 28-day mortality versus placebo. Numerical improvements with ruxolitinib 15 mg versus placebo were observed in secondary outcomes including ventilator-, ICU-, and vasopressor-free days. Rates of overall and serious treatment-emergent adverse events were similar across treatments.
+
+4/Conclusions: The observed reduction in 28-day mortality rate between ruxolitinib and placebo in mechanically ventilated patients with COVID-19-associated acute respiratory distress syndrome was not statistically significant; however, the trial was underpowered owing to early termination.

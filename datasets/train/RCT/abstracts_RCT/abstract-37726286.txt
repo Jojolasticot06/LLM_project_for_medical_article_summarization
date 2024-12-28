@@ -1,0 +1,23 @@
+Eltrombopag with or without Tacrolimus for relapsed/refractory acquired aplastic 
+anaemia: a prospective randomized trial.
+
+1/This trial compared eltrombopag (EPAG)+tacrolimus and EPAG monotherapy in 
+patients with refractory/relapsed acquired aplastic anaemia (AA). 
+
+2/Patients with 
+refractory/relapsed AA were randomly assigned to receive either EPAG+tacrolimus 
+or EPAG monotherapy at a ratio of 2:1. Patient response, safety, clonal 
+evolution and survival were compared. In total, 114 patients were included in 
+the analysis, with 76 patients receiving EPAG+tacrolimus and 38 receiving EPAG 
+only. 
+
+3/With a median follow-up of 18 (6-24) months, the overall response rate 
+(ORR) for patients treated with EPAG+tacrolimus and EPAG alone was 38.2% vs. 
+31.6% (P = 0.490) at the 3rd month, 61.8% vs. 39.5% (P = 0.024) at the 6th 
+month, 64.5% vs. 47.1% (P = 0.097) at the 12th month, and 60.5% vs. 34.2% 
+(P = 0.008) at the last follow-up. The rate of each adverse event, overall 
+survival curves (P = 0.635) and clonal evolution rate (P = 1.000) were 
+comparable between the groups. A post hoc subgroup analysis showed that 
+EPAG+tacrolimus could have advantage over EPAG monotherapy in terms of the ORR 
+at the 6th month (P = 0.030)/last follow-up (P = 0.013) and the cumulative 
+relapse-free survival (RFS) curves (P = 0.048) in patients <60 years old.

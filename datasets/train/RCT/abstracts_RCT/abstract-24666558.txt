@@ -1,0 +1,10 @@
+A randomized clinical trial to assess the influence of a three months training program (gym-based individualized vs. calisthenics-based non-invidualized) in COPD-patients.
+
+1/INTRODUCTION: Pulmonary rehabilitation has been demonstrated to improve exercise capacity, dyspnoea, quality of life and to reduce the adverse effects of acute exacerbations. Current guidelines recommend exercise training in patients with mild to very severe disease. However, there is insufficient data comparing the efficacy of different training approaches and intensities.
+
+2/METHODS: Between January 2009 and December 2012, 105 COPD patients were screened to participate in the study. 61 patients were randomly assigned into an individualized training group or into a non-individualized training group. Both groups exercised once a week for 60 minutes over a time period of three months. At the beginning and after three months, the following measurements were performed: 6-minute walking test (6-MWT), health-related quality of life (St. Georges Respiratory Questionnaire; SGRQ and COPD-Assessment-Test; CAT), M. rectus femoris cross-sectional area, and inflammatory markers in peripheral blood.
+
+3/RESULTS: Only in the individualized training group we observed a significant change of the 6-MWT (increase of 32.47 m; p = 0.012) and the cross-sectional area of the M. rectus fermoris (increase of 0.57 cm2; p = 0.049), while no significant changes occurred in the non-individualized training group. 
+Peroxisome-proliferator-activated receptor-γ coactivator 1α increased in the individualized training only after the three months training period (increase of 0.43 relative copies; p = 0.017), all other myokines and inflammatory markers were not influenced by either of the programs. The total drop-out-rate was 44.3%.
+
+4/CONCLUSION: A low frequency outpatient training program may induce modest improvements in exercise capacity and muscle mass only if it is performed on an individualized basis.

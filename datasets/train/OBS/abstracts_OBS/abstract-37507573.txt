@@ -1,0 +1,26 @@
+PURPOSE: Although the prevalence of community-acquired respiratory bacterial 
+coinfection upon hospital admission in patients with coronavirus disease 2019 
+(COVID-19) has been reported to be < 5%, almost three-quarters of patients 
+received antibiotics. We aim to investigate whether procalcitonin (PCT) or 
+C-reactive protein (CRP) upon admission could be helpful biomarkers to identify 
+bacterial coinfection among patients with COVID-19 pneumonia.
+METHODS: We carried out a multicentre, observational cohort study including 
+consecutive COVID-19 patients admitted to 55 Spanish intensive care units 
+(ICUs). The primary outcome was to explore whether PCT or CRP serum levels upon 
+hospital admission could predict bacterial coinfection among patients with 
+COVID-19 pneumonia. The secondary outcome was the evaluation of their 
+association with mortality. We also conducted subgroups analyses in higher risk 
+profile populations.
+RESULTS: Between 5 February 2020 and 21 December 2021, 4076 patients were 
+included, 133 (3%) of whom presented bacterial coinfection. PCT and CRP had low 
+area under curve (AUC) scores at the receiver operating characteristic (ROC) 
+curve analysis [0.57 (95% confidence interval (CI) 0.51-0.61) and 0.6 (95% CI, 
+0.55-0.64), respectively], but high negative predictive values (NPV) [97.5% (95% 
+CI 96.5-98.5) and 98.2% (95% CI 97.5-98.9) for PCT and CRP, respectively]. CRP 
+alone was associated with bacterial coinfection (OR 2, 95% CI 1.25-3.19; 
+p = 0.004). The overall 15, 30 and 90 days mortality had a higher trend in the 
+bacterial coinfection group, but without significant difference. 
+PCT ≥ 0.12 ng/mL was associated with higher 90 days mortality.
+CONCLUSION: Our study suggests that measurements of PCT and CRP, alone and at a 
+single time point, are not useful for ruling in or out bacterial coinfection in 
+viral pneumonia by COVID-19.

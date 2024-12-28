@@ -1,0 +1,25 @@
+OBJECTIVE: To evaluate the effects of skeletal muscle mass on the 
+rocuronium-induced neuromuscular block.
+DESIGN: A prospective, double-blinded, observational study.
+SETTING: A tertiary care university hospital.
+POPULATION: One hundred one patients aged 18-65 years who were scheduled to 
+undergo major surgery lasting more than 1 h under general anaesthesia.
+METHODS: All participants underwent body composition analysis before anaesthesia 
+and were allocated into two groups; the muscular and non-muscular group, 
+according to skeletal muscle mass. During anaesthesia induction, rocuronium 
+1.0 mg kg-1 of total body weight was injected followed by neuromuscular 
+monitoring using train-of-four stimulation every 15 s.
+MAIN OUTCOME MEASURES: The onset time of rocuronium included the elapsed time 
+from the rocuronium injection until 95% depression of first twitch (T1) and the 
+time to no response to TOF stimulation. The duration was evaluated as the 
+elapsed time from the rocuronium injection to 25% recovery of the final T1 
+(TDUR25), and the time to the reappearance of T1 (TTOF1) and T4 (TTOF4). These 
+pharmacologic data were compared between two groups.
+RESULTS: There was no significant difference in the onset time of rocuronium 
+between the two groups. However, TDUR25 (min) was significantly shorter in the 
+muscular group than in the non-muscular group (p =  0.035 and p =  0.014 in 
+males and females, respectively). TTOF1 and TTOF4 were also shorter in the 
+muscular group than in the non-muscular group.
+CONCLUSIONS: Total body weight-based dosing of rocuronium might prolong the 
+neuromuscular relaxation effect in patients with a small amount of skeletal 
+muscle.

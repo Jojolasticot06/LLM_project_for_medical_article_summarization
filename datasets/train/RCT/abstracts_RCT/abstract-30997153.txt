@@ -1,0 +1,12 @@
+Randomised, double-blind, phase III study comparing the infliximab biosimilar, 
+PF-06438179/GP1111, with reference infliximab: efficacy, safety and immunogenicity from week 30 to week 54.
+
+1/OBJECTIVE: To investigate the efficacy, safety and immunogenicity of PF-06438179/GP1111 (PF-SZ-IFX) compared with European reference infliximab (Remicade®; ref-IFX) in patients with moderate-to-severe, active rheumatoid arthritis after continued long-term use of PF-SZ-IFX, and in patients who were 
+switched from ref-IFX to PF-SZ-IFX.
+
+2/METHODS: REFLECTIONS B537-02 was a double-blind, active-controlled, multinational study in which patients (N=650) were initially randomised to PF-SZ-IFX or ref-IFX for 30 weeks (treatment period [TP] 1). During weeks 30-54 (TP2), the PF-SZ-IFX group (n=280) continued treatment with PF-SZ-IFX 
+(PF-SZ-IFX/PF-SZ-IFX) and patients in the ref-IFX group (n=286) were rerandomised (1:1) to continue ref-IFX (ref-IFX/ref-IFX) (n=143) or switch to PF-SZ-IFX (ref-IFX/PF-SZ-IFX) (n=143) for a further 24 weeks. Efficacy, safety, immunogenicity and pharmacokinetics were evaluated.
+
+3/RESULTS: During TP2, patients in all three treatment groups continued to maintain comparable treatment response. At week 54, the American College of Rheumatology (ACR20) response rates were 71.1% (PF-SZ-IFX/PF-SZ-IFX), 64.3% (ref-IFX/ref-IFX) and 70.6% (ref-IFX/PF-SZ-IFX). Observations for other endpoints, including ACR50/70, Disease Activity Score in 28 Joints Based on High-Sensitivity C Reactive Protein(DAS28-CRP) remission, and mean change in DAS28-CRP and Health Assessment Questionnaire-Disability Index, were also comparable. Treatment-emergent adverse events were reported in 36.8% (PF-SZ-IFX/PF-SZ-IFX), 33.6% (ref-IFX/ref-IFX) and 37.8% (ref-IFX/PF-SZ-IFX) of patients; there were no clinically meaningful differences in the safety profiles between groups. The percentage of patients who were antidrug antibody-positive was generally stable through the treatment period and comparable overall between the PF-SZ-IFX/PF-SZ-IFX (52.1%; neutralising: 80.8%), ref-IFX/ref-IFX (60.1%; neutralising: 84.9%) and ref-IFX/PF-SZ-IFX (58.0%; neutralising 78.3%) groups.
+
+4/CONCLUSIONS: The similar efficacy, safety and immunogenicity of PF-SZ-IFX compared with ref-IFX were maintained for up to 54 weeks and were not affected by blinded treatment switch from ref-IFX to PF-SZ-IFX at week 30.

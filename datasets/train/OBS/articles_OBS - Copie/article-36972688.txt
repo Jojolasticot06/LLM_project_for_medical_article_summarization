@@ -1,0 +1,753 @@
+Introduction
+
+Elevated blood pressure (BP) is a major modifiable risk factor for mortality 
+worldwide and leads to cerebrovascular diseases and dementia.https://creativecommons.org/licenses/by-nc/4.0/
+Observational and prospective studies, as well as randomised clinical trials 
+of antihypertensive therapies, have demonstrated that hypertension may 
+be causally associated with impaired cognitive performance.https://creativecommons.org/licenses/by-nc/4.0/
+At the 
+same time, increased BP causes long-term changes in the brain.https://creativecommons.org/licenses/by-nc/4.0/
+While the associations between BP and cognition may be mediated by 
+alterations within cerebral structures and traits,https://creativecommons.org/licenses/by-nc/4.0/
+,https://creativecommons.org/licenses/by-nc/4.0/
+the causal nature 
+and exact mechanisms of these associations have been challenging to ascertain. 
+Therefore, it is of primary clinical importance to identify specific 
+brain areas mediating BP-dependent cognitive changes. Emerging genetic 
+tools may enable this, as cognitive function is heritable; shares a common 
+genetic variation with various brain imaging-derived phenotypes (IDPs), 
+including parameters describing cortical and subcortical regions; and 
+may be affected by early life factors.https://creativecommons.org/licenses/by-nc/4.0/
+While randomised trials remain 
+the state-of-the-art approach to infer causality between various clinical 
+traits,https://creativecommons.org/licenses/by-nc/4.0/
+,https://creativecommons.org/licenses/by-nc/4.0/
+causal inference approaches employing genetic instrumental 
+variables through Mendelian randomisation (MR) sit at the interface of 
+experimental and observational studies.https://creativecommons.org/licenses/by-nc/4.0/
+At the same time, the increasing 
+number of well-powered genome-wide association studies (GWAS) 
+facilitates the identification of genetic proxies for complex phenotypes, 
+such as BP and cognitive function, that can be used for MR analysis as 
+both exposures and outcomes. More importantly, these may provide unique 
+tools to indicate specific structures and functional phenotypes of the 
+brain that can mediate this relationship.https://creativecommons.org/licenses/by-nc/4.0/
+,https://creativecommons.org/licenses/by-nc/4.0/
+,https://creativecommons.org/licenses/by-nc/4.0/
+Identifying such IDPs may 
+define novel radiomic predictors of cognitive impairment in hypertensive 
+subjects. It will also specify candidate brain regions for subsequent molecular 
+and cellular therapeutic targeting.
+
+Accordingly, we designed a triangulation approach to identify brain 
+structures potentially responsible for the effects of BP on cognitive 
+function. Firstly, we comprehensively mapped brain structures potentially 
+influenced by BP in midlife using MR analysis. Secondly, we 
+elucidated the effects of BP on cognitive function in well-powered datasets. 
+Finally, using MR analysis, we identified structures in the brain 
+that accompany the detrimental effects of elevated BP on cognitive 
+function in humans. The pattern of brain damage linked to BP by genetic 
+causal inference methods was then validated in an independent, well- 
+phenotyped, prospectively recruited cohort.
+
+Methods
+
+Univariable and multivariable Mendelian 
+randomisation analyses testing the effect 
+of BP indices on cognitive function and brain 
+imaging-derived phenotypes
+
+Uncorrelated (r2 < 0.2), instrumental variables associated with BP traits 
+were selected from 885 single nucleotide polymorphisms (SNPs, http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+) replicated in one-stage or two-stage 
+analyses in GWAS on BP indices by Evangelou and colleagues,http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+similar to 
+previous studies.http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+,http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+Estimates of effects of the above SNPs on BP were 
+extracted from the meta-analysis of the UK Biobank and International 
+Consortium for Blood Pressure (ICBP) [n = 757 601, systolic BP (SBP), diastolic 
+BP (DBP), and pulse pressure (PP) analyses adjusted for body mass 
+index (BMI) and antihypertensive medication use in both the UK Biobank 
+and ICBP].http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+Genome-wide significant (P < 5 × 10-8) SNPs were extracted, 
+and palindromic SNPs with minor allele frequency (MAF) > 0.4 or 
+SNPs with MAF <0.05 were excluded (see http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+).
+
+Summary statistics for each of the 3935 brain IDPs were derived from 
+the GWAS of Smith and colleagues, including ~33 000 UK Biobank participants,
+http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+and used as an outcome in MR analyses. Brain IDPs were named 
+according to the original nomenclature.http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+In order to avoid use of reverse- 
+causal instruments, all SNPs with a significantly larger variation explained in 
+the outcome compared with exposure trait (nominal P < 0.05 in Steiger’s 
+testhttp://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+) were excluded from this analysis. Since brain IDPs strongly correlate 
+with each other,http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+we used a false discovery rate (FDR) P < 0.05 threshold 
+for inverse variance–weighted (IVW) method using instrumental variables 
+from the ICBP + UK Biobank meta-analysis to identify IDPs significantly affected 
+by BP. These IDPs had to additionally demonstrate a nominally significant 
+(P < 0.05) association with BP when (i) using the weighted 
+median, MR–Egger and robust IVW sensitivity methods, which allowed relaxing 
+certain assumptions, such as lack of genetic pleiotropy,http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+of the MR 
+framework, and (ii) instrumental variables from separate ICBP and UK 
+Biobank cohorts were used in IVW MR analysis.
+
+Genome-wide association study performed by Lee and colleagues, encompassing 
+257 841subjects from the UK Biobank and COGENT consortia,
+http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+was used as a source of genetic estimates of the effect of selected 
+SNPs on cognitive function. Mendelian randomisation analyses of the impact 
+of BP indices on cognitive function included SNPs with a more significant 
+effect on the exposure compared with outcome (nominal P < 0.05 in 
+Steiger’s testhttp://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+). Univariable and multivariable (i.e. testing effects of SBP, 
+while adjusting for DBP and vice versa) two-sample MR analyses were performed 
+using IVW method as well as sensitivity methods including weighted 
+median, MR–Egger, and robust IVW methods.
+
+Additional sensitivity analyses used the genetic estimates extracted from 
+individual cohorts, i.e. ICBP (n = 299 024; SBP, DBP, and PP adjusted for 
+BMI and antihypertensive medication use)http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+and UK Biobank [n = 340 
+159; only SBP and DBP from the Neale lab analysis (http://www.nealelab.is/uk-biobank/
+) were used without adjusting for BMI; BP values were not adjusted 
+for antihypertensive medication use]. These analyses are essential to 
+acknowledge the possible impact of collider effects potentially caused by 
+BMI and antihypertensive medication adjustments, both lacking in the UK 
+Biobank–only BP GWAS, as well as moderate subject overlap (lacking in 
+the ICBP-only MR analysis) in the primary MR analysis involving the ICBP 
++ UK Biobank dataset. Since sensitivity analyses were less powered due 
+to three to five times lower number of instrumental variables (see http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+), we used a nominal significance level 
+(P < 0.05 for IVW method) to retain IDPs affected by BP genetically defined 
+by ICBP- and UK Biobank–only instruments.
+
+(See http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+, for additional details on MR 
+and rationale for control MR analyses concerning APOE locus, LDL-C level, 
+and cognitive function.)
+
+Mendelian randomisation analyses testing 
+the effect of selected brain imaging-derived 
+phenotypes on cognitive function
+
+To test the effect of selected IDPs on cognitive function, we used uncorrelated 
+(r2 < 0.2) SNPs associated with individual brain IDPs (significance 
+threshold P < 3.16 × 10-8 set as previously described in a discovery UK 
+Biobank sample of ~22 000 subjectshttp://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+) and replicated at the nominal level 
+of significance P < 0.05 in an independent sample of ~11 000 UK Biobank 
+participants.http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+The meta-analysishttp://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+of both the above samples yielded genetic 
+estimates used for subsequent MR analyses. In case SNPs were missing 
+in the cognitive function GWAS, the best proxy (r2 > 0.8) was selected. All 
+SNPs, selected as instrumental variables, were associated with selected 
+brain IDPs at P < 3.16 × 10-8 (F-statistic > 10) and displayed a significantly 
+larger effect on exposure compared with outcome (nominal P < 0.05 in 
+Steiger’s testhttp://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+).
+
+UK Biobank study
+
+The UK Biobank recruited 500 000 participants (aged 40–69 years) from 22 
+assessment centres across the UK between 2006 and 2010.http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+Baseline 
+
+
+biological measurements were recorded, and touchscreen questionnaires 
+were administered, as described elsewhere.http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+The UK Biobank received 
+ethical approval from the North-West Multi-Center Research Ethics 
+Committee (11/NW/03 820). All participants gave written informed consent 
+before enrolment in the study, which was conducted by the principles 
+of the Declaration of Helsinki. Blood pressure measurement was 
+performed twice for each participant present at baseline (2006–10) and imaging 
+(2014–19) visits using a digital sphygmomanometer Omron 705 IT or 
+a sphygmomanometer with an inflatable cuff in conjunction with a 
+stethoscope (see https://biobank.ctsu.ox.ac.uk/showcase/showcase/docs/Bloodpressure.pdf
+for details). Brain imaging was performed at the imaging 
+visit using Siemens Skyra 3 T scanner according to a protocol (https://www.fmrib.ox.ac.uk/ukbiobank/protocol/
+and https://biobank.ctsu.ox.ac.uk/crystal/crystal/docs/brain_mri.pdf
+) described previously in details.https://biobank.ctsu.ox.ac.uk/crystal/crystal/docs/brain_mri.pdf
+,https://biobank.ctsu.ox.ac.uk/crystal/crystal/docs/brain_mri.pdf
+Cognitive 
+function was defined as a fluid intelligence score (UK Biobank field ID: 
+20016), i.e. an unweighted sum of the number of correct answers given 
+to the 13 fluid intelligence questions, and assessed at baseline, imaging, 
+and first repeat imaging visits. Of note, this variable demonstrates a significant, 
+negative genetic correlation with SBP and DBP (r = -0.14, P = 3.42 × 
+10-10/r = -0.16, P = 2.68 × 10-14, respectively) in the UK Biobank (Neale 
+lab calculations available at https://ukbb-rg.hail.is/rg_browser/
+), which may 
+suggest shared genetic background of these traits. Diagnosis of atrial fibrillation 
+prior to attending the baseline visit was assessed using the UK 
+Biobank field ID 131350.
+
+Genetic analyses identify brain structures related to blood pressure and cognitive impairment 2117
+
+Baseline data from a prospective cohort and 
+case–control study
+
+Hypertensive and normotensive subjects were prospectively recruited between 
+November 2014 and December 2020 in the Heart and Brain research 
+programme at IRCCS Neuromed (NCT03986957) and as part of 
+a case–control study (NCT02310217). Baseline visit data from both studies 
+were analysed. (See http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+, for details concerning 
+recruitment, BP measurement, cognitive function assessment, and 
+brain magnetic resonance imaging in this cohort).
+
+Testing the observational association between 
+BP indices, cognitive performance, and brain 
+imaging-derived phenotypes
+
+Since GWAS on BP performed by the UK Biobank and ICBP included subjects 
+of European ancestry,http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+based on self-reported ethnicity, we selected 
+white, British participants of the UK Biobank study to assess the association 
+between BP, cognitive function, and brain IDPs. An average of two automated, 
+sitting BP readings, with no adjustment for BP-lowering medication 
+use, was calculated at the baseline and imaging visits and used in the final 
+analyses, while subjects with only one reading available were excluded. 
+We did not exclude any UK Biobank subjects based on their disease history. 
+Association between BP traits and cognitive function was tested at the baseline 
+visit in the UK Biobank (2006–10, n = 138 602) using univariate general 
+linear model (GLM). Associations between selected brain IDPs and BP indices 
+or cognitive function were tested using data from the imaging visit 
+(2014–19) and the multivariate GLM model. All GLM models included 
+sex, age, and BMI set as covariates. The longitudinal analysis tested the effect 
+of IDPs, assessed at the imaging visit, on the difference between the fluid 
+intelligence score assessed at first repeat imaging (2019+) and imaging visits 
+divided by the number of days between those visits. The effects of smoking 
+status and alcohol intake frequency were investigated in separate models. 
+Brain volumetric IDPs were scaled for the T1-based head size scaling factor. 
+All brain IDPs were de-confounded by four technical imaging confounders 
+related to scanner position. In order to obtain effect estimates in standard 
+deviation units and approximate normal distribution, dependent and 
+independent variables were transformed to normal scores. Similar analyses 
+were performed in the observational prospective cohort study. 
+Observational mediation analysis was performed using the R mediation 
+package (ver. 4.5)http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+with BMI, sex, and age used as covariates.
+
+Software
+
+Observational analyses were performed using SPSS (ver. 27.0). Mendelian 
+randomisation analyses were performed in R (ver 4.0.3) utilising 
+MendelianRandomizationhttp://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+,http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+and TwoSampleMR packages.http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+Figures 
+were generated using ClustVis,http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+R (ver 4.0.3), FSL,http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+FreeSurfer,http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+and 
+GraphPad Prism (ver. 7.05).
+
+Results
+
+Effects of blood pressure on 3935 brain 
+imaging-derived phenotypes
+
+Mendelian randomisation utilises random segregation of alleles at gametogenesis 
+and uses genetic polymorphisms as instrumental variables to 
+estimate the effect of exposure on the outcome. Since BP highly correlates 
+with brain IDPs in observational analyses,http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+we investigated relationships 
+between BP and brain IDPs by performing MR analysis, 
+testing the effects of SBP, DBP, and PP on each of the 3935 brain 
+IDPs (see http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+). A total of 242, 
+168, and 68 brain IDPs, including primarily diffusion-weighted IDPs, 
+volumetric, as well as resting-state functional IDPs, was significantly associated 
+with SBP, DBP, and PP, respectively (see http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+). Importantly, all the above associations remained 
+significant at nominal P < 0.05 for any of the leave-one-out IVW MR 
+analyses performed. SBP is significantly associated with the highest 
+number of brain IDPs, compared with other BP indices, with a positive 
+effect on the volume of specific brain structures and the mean diffusivity 
+in diffusion-weighted IDPs and a negative effect on fractional anisotropy–
+related IDPs (see http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+). 
+Sensitivity analyses, performed separately in either ICBP or UK 
+Biobank population, demonstrated a high correlation between MR estimates 
+derived from various exposure BP GWAS (see http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+, and http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+, 
+for comparison of IVW MR estimates calculated using genetic exposures 
+derived separately from the UK Biobank and ICBP datasets). 
+Moreover, IVW causal estimates obtained for 242, 168, and 68 brain 
+IDPs associated with SBP, DBP, and PP, respectively, were slightly inflated 
+for ICBP cohort–only analysis compared with meta-analysis of 
+ICBP and UK Biobank (on average by a factor of 1.47, 1.26, and 1.53, 
+respectively) or UK Biobank–only analysis [1.35 (SBP) and 1.24 
+(DBP)]. Causal estimates were less inflated in the UK Biobank–only analysis 
+compared with the meta-analysis of the ICBP and UK Biobank 
+[1.09 (SBP) and 1.02 (DBP)].
+
+Most of the associations identified using genetic tools were consistent 
+with the results from the observational analysis at the imaging visit in 
+the UK Biobank (http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+), including 33 volumetric IDPs associated 
+with one of the BP parameters analysed (http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+), as 95%/91%/ 
+82% of genetically SBP/DBP/PP–linked brain IDPs associated with SBP/ 
+DBP/PP in the observational analysis below Bonferroni-defined 
+significance threshold (P < 0.05/3935, http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+, S6-S8). Further adjustment for smoking status and alcohol 
+intake frequency did not substantially influence observational analyses. 
+As expected, estimates from the univariable MR analyses 
+testing IDPs in relation to SBP or DBP were positively correlated 
+(http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+).
+
+Multivariable MR identified much lower number of IDPs compared 
+with univariable MR and demonstrated that SBP and DBP associated 
+with 18 and 33 IDPs, respectively (FDR P < 0.05 for multivariable 
+IVW and nominal P < 0.05 for multivariable weighted median and multivariable 
+MR–Egger using instrumental variables from the ICBP + UK 
+
+
+Biobank meta-analysis). These effects were independent of BMI/antihypertensive 
+medication use adjustment and moderate subject overlap in 
+exposure and outcome GWAS as they were also confirmed (nominal 
+P < 0.05 for multivariable IVW method) in the separate ICBP or UK 
+Biobank analysis (see http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+). 
+Surprisingly, the estimates derived from the multivariable MR analysis 
+demonstrated their negative correlation, which suggests opposite, direct 
+effects of SBP and DBP on some of the IDPs tested (http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+); however, 
+only 13 IDPs were significantly associated with both SBP and DBP 
+with opposite direction of causal estimate (see http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+). The above change of correlation pattern was observed 
+for analyses restricted to the UK Biobank or ICBP only (see http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+). Overall, 336 IDPs associated 
+with either of the BP parameters, analysed in univariable or multivariable 
+MR, were identified (see http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+). 
+These were mostly consistent with the findings from observational analysis 
+(http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+and http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+).
+
+2118 Siedlinski et al.
+
+Differential effects of blood pressure 
+parameters on cognitive performance
+
+In the next stage of analysis, we aimed to place the effects of BP on IDPs 
+in the context of the effects of individual BP parameters on cognitive 
+function. Interestingly, MR analysis, using SNPs derived from the UK 
+Biobank and ICBP meta-analysis as instrumental variables for BP, identified 
+a negative effect of SBP (-0.044 standard deviation (SD); 95% 
+confidence interval (CI) -0.066, -0.021) and PP, but not of DBP, on 
+cognitive function using the IVW method with consistent effect estimates 
+across sensitivity methods, i.e. weighted median, robust IVW, 
+and MR–Egger (http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+). Importantly, leave-one-out IVW analysis 
+found that this association was not artificially inflated by any of the 
+individual SNPs. Additional analyses performed separately in the ICBP 
+or UK Biobank cohort, aimed to control for potential bias caused by 
+a subject overlap in exposure and outcome GWAS and by BMI/antihypertensive 
+medication use adjustment, confirmed the magnitude and 
+the direction of causal estimates (see http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+).
+
+Interestingly, a multivariable MR analysis showed that the direct effect 
+of SBP on cognitive function, independent of DBP, was more pronounced 
+than the effect obtained from the univariable MR analysis 
+(-0.087 SD; 95% CI -0.132, -0.042, Figure 2A). At the same time, 
+the independent impact of higher DBP on cognitive function was protective, 
+after adjusting for SBP (http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+). Again, the same effect in multivariable 
+MR analysis, compared with univariable MR analysis, was observed 
+when the analysis was performed separately in ICBP or UK Biobank cohort 
+(see http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+). The above findings 
+were supported by observational analysis, which revealed a 
+significant association of SBP and PP, but not DBP with cognitive function 
+in the UK Biobank (http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+). Moreover, when the damaging effect 
+of SBP was taken into account in a single GLM model, higher DBP was 
+associated with better cognitive performance (http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+), and these associations 
+remained robust to adjustment for smoking status, alcohol intake 
+frequency, and the diagnosis of atrial fibrillation. We observed significant 
+effects of SBP, particularly in people over 50 years of age, while in younger 
+subjects, SBP and DBP appeared to have adverse effects on cognitive 
+function (http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+).
+
+Additional sensitivity analyses further validated genetically predicted cognitive 
+function,http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+used in the current MR analyses. The genetically instrumented 
+level of LDL cholesterol, used as a negative control exposure, 
+showed no significant effect on cognitive function, irrespective of inclusion 
+of SNPs from the APOE locus (see http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+). On 
+the other hand, the rs429358 variant, constituting major genetic risk factor 
+
+
+Figure 1 Observational and genetic effects of BP on brain IDPs. Characteristics table of UK Biobank subjects with BP and/or cognitive function test 
+available at the imaging visit (A). Comparison of Mendelian randomisation (using IVW method) and observational estimates concerning 242, 168, and 68 
+brain IDPs significantly affected by genetically instrumented SBP, DBP, and PP, respectively (B). Heatmap (C) presents observational effects of BP indices 
+on all 33 brain volumetric IDPs that were significantly affected by either BP index (IDPs depicted in blue are related to the hippocampus, while IDPs 
+depicted in green are related to the amygdala nuclei; GM, grey matter; LH/RH, left/right hemisphere; UK Biobank field IDs are depicted on the right). 
+Scatter plots present genetic causal estimates corresponding to the effect of SBP and DBP on all 3935 brain IDPs considered in univariable (D) and 
+multivariable (E) Mendelian randomisation analyses. IVW, inverse variance–weighted; SD, standard deviation; SBP/DBP, systolic/diastolic blood pressure; 
+PP, pulse pressure; MR, Mendelian randomisation; IDP, imaging-derived phenotype.
+Genetic analyses identify brain structures related to blood pressure and cognitive impairment 2119
+
+
+Figure 2 Observational and genetic association of BP with cognitive function. Univariable and multivariable Mendelian randomisation analysis testing 
+the total and direct effects of BP indices on cognitive function, respectively (A). Standardised causal estimates were calculated assuming SD of 18.58, 
+10.08, and 13.62 mmHg for systolic BP (SBP), diastolic BP (DBP), and pulse pressure (PP), respectively. Instrumental variables for Mendelian randomisation 
+analysis were derived from the meta-analysis of the UK Biobank and ICBP consortium.http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+At the same time, a genome-wide association study by 
+Lee and colleagues was used as a source of genetic summary statistics concerning cognitive function.http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+Observational association between various BP 
+indices and cognitive function was tested at baseline visit in the UK Biobank (B) in the overall cohort (C) and according to quintiles of age (D). IVW, 
+inverse variance–weighted; SD, standard deviation; SBP/DBP, systolic/diastolic blood pressure; PP, pulse pressure; MR, Mendelian randomisation; mv, 
+multivariable.
+Figure 3 Observational association of brain IDPs with SBP and cognitive function. The circular bar blot presents absolute standardised estimates of 
+the association of 155 imaging-derived phenotypes (IDPs) with SBP (outer bars) and cognitive function (inner bars). Presented IDPs demonstrated 
+significant genetic and observational association with SBP and significant observational association with cognitive function (nominal P < 0.05; 150 
+IDPs with FDR-adjusted P < 0.05) in the opposite direction compared with the association with SBP. Shaded circles demonstrate a standardised observational 
+estimate of 0.05 (SBP) or 0.025 (cognitive function). Tracts and structures from either hemisphere and appearing more than three times 
+(diffusion-weighted IDPs) or one time (structural IDPs) among 155 IDPs are depicted. (B) Heatmap shows the association’s strength between the cerebral 
+regions identified by diffusion-weighted magnetic resonance imaging with TBSS analyses and the link with SBP. (C) Heatmap shows the association’s 
+strength between the cerebral regions identified by diffusion-weighted magnetic resonance imaging with PROBTRACK analyses and the connection 
+with SBP.
+for Alzheimer’s diseasehttp://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+and determining APOE .4 allele, was associated 
+with poorer cognitive function (B = -0.017 SD, SE = 0.004, P = 3 × 
+10-5). This analysis, used as a positive control, suggests that cognitive function, 
+as defined in the current study, does capture at least part of the spectrum 
+of cognitive domains that can be affected later in life by dementia.
+
+2120 Siedlinski et al.
+
+Identification of brain imaging-derived 
+phenotypes that associate with cognitive 
+function and are linked to blood pressure
+
+We next investigated the relationship between IDPs and cognitive 
+function, focusing on IDPs that were identified as genetically and observationally 
+linked to BP. An observational analysis confirmed that the majority 
+of IDPs related to BP was associated with cognitive function, at 
+FDR-corrected P < 0.05, and additional adjustment for smoking status 
+and alcohol intake frequency did not substantially influence these results. 
+These IDPs cover predominantly diffusion-weighted parameters 
+with variable strength of association with SBP (http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+). 
+Importantly, the direction of estimates was predominantly opposite 
+to the association with a particular BP index (see http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+and http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+for SBP and http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+) and remained 
+significant (FDR P < 0.05, http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+) for 138 brain IDPs following additional adjustment for SBP. 
+To provide additional evidence that these IDPs may accompany adverse 
+effects of BP on cognitive function, we estimated the effects of these 
+IDPs on cognitive function by performing MR analyses. To narrow 
+down analysis to the most reliably instrumented candidates, we identified 
+119, 29, and 7 IDPs, altered by SBP, PP, or SBP/DBP in multivariable 
+MR analysis, with at least 3 uncorrelated instrumental variables available, 
+respectively. This analysis has identified a total of 10 unique 
+IDPs, including 9 related to SBP, that was associated with cognitive function 
+(FDR-corrected P < 0.05 using IVW method; see http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+, for all MR results concerning IDPs 
+with at least 1 IV available). These IDPs included parameters related 
+to putamen as well as white matter tracts such as the anterior corona 
+radiata, anterior thalamic radiation, or anterior limb of the internal capsule 
+(http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+). Inspection of leave-one-out IVW plots of the nine 
+SBP-associated IDPs, potentially related to cognitive function, revealed 
+that rs13107325 SNP from the solute carrier family 39 member 8 
+(SLC39A8) locus had a predominant impact on IVW estimates concerning 
+two putamen IDPs. In comparison, the strength of association of 
+two brain IDPs concerning superior longitudinal fasciculus and anterior 
+limb of internal capsule got attenuated to P = 0.06 after exclusion of 
+single SNP (see http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+). Notably, except 
+for two IDPs related to the putamen and one related to the anterior 
+thalamic radiation, six remaining IDPs demonstrated association with 
+SBP below the stricter Bonferroni-defined significance threshold using 
+the weighted median MR approach.
+
+Associations concerning individual IDPs could be confirmed in an observational 
+analysis either directly (IDPs concerning putamen or anterior 
+limb of the internal capsule) or indirectly using different IDPs related 
+to the same brain structure (see http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+). Notably, a significant negative correlation exists between 
+genetic estimates of cognitive function, SBP, and the nine IDPs identified 
+(http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+). Additionally, using UK Biobank data, we analysed the effects 
+of 9 brain IDPs (quantified at imaging visit) on the longitudinal change of 
+fluid intelligence score in 2054 subjects between imaging and first repeat 
+imaging visits. We found nominally significant adverse effects of 
+IDPs related to the anterior thalamic radiation (right hemisphere) 
+and anterior corona radiata (left hemisphere) on the change of fluid intelligence 
+score (see http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+). This 
+further supports their role as potential mediators of detrimental effects 
+of SBP on cognitive function, making these IDPs a potential target for 
+pharmacological therapy of cognitive impairment in hypertension.
+
+Validation in an observational prospective 
+cohort and case–control study
+
+As discussed above, genetic and observational analyses using the UK 
+Biobank and ICBP cohorts identified 242 brain IDPs genetically linked 
+to SBP which were concomitantly associated with cognitive function 
+(http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+). To replicate and translate our findings into clinically relevant 
+setting, we tested selected IDPs for association with SBP or Montreal 
+Cognitive Assessment score–defined cognitive function in a cohort of 
+116 prospectively recruited, well-phenotyped hypertensive and 
+normotensive subjects (see http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+). 
+Since SBP associates with cognitive function and the largest number 
+of IDPs, we focused subsequent validation on SBP-related IDPs. The 
+standardised betas of the association between (i) SBP and IDPs and 
+(ii) IDPs and cognitive function were compared between the UK 
+Biobank cohort and baseline data from the prospective cohort and 
+case–control study with (i) a strong (r = 0.67, P < 0.0001; http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+) 
+and (ii) a moderate (r = 0.33, P < 0.0001, http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+) correlation, respectively, 
+which demonstrates a translational potential of our UK 
+Biobank–based findings into clinically relevant subjects, in the context 
+of SBP-induced brain changes quantified with magnetic resonance imaging. 
+The latter moderate correlation may be explained by a difference 
+in cognitive function, estimated as fluid intelligence in the UK Biobank 
+cohort or Montreal Cognitive Assessment score in the prospective cohort 
+and case–control study. Despite this, the top principal component, 
+calculated using loadings of 30 IDPs (see http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+), related to structures genetically influencing cognitive function 
+in the UK Biobank and available in the observational prospective 
+cohort and case–control study, significantly correlated with Montreal 
+Cognitive Assessment score in the two latter studies (r = -0.192, 
+P = 0.039) and fluid intelligence score in the UK Biobank (r = -0.069, 
+P < 0.001), where it mediated 7.4% (95% CI 2.9%–15.0%) of the total 
+effect of SBP on fluid intelligence score. This additionally supports a 
+translational perspective of our findings in the context of BP-induced 
+changes of cognitive function that are mediated by specific IDPs. The 
+association of 21 brain IDPs with SBP was directly replicated at FDR 
+P < 0.1, while the anterior thalamic radiation tract, present among 9 
+brain IDPs genetically associated with cognitive function in the UK 
+Biobank, demonstrated the most robust association with Montreal 
+Cognitive Assessment score in the observational prospective cohort 
+and case–control study (http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+and http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+).
+
+Discussion
+
+Using a triangulation approach based on combined observational and 
+genetic causal inference approaches, we found an effect of BP on cognitive 
+function and identified, for the first time, a set of specific brain 
+structures that potentially respond to differences in SBP among 3935 
+brain IDPs (see the Structured Graphical Abstract). Some of these structures, 
+including putamen and the white matter regions spanning between 
+the anterior corona radiata, anterior thalamic radiation, and 
+anterior limb of the internal capsule, may represent the target brain regions 
+at which SBP acts on cognitive function. We then leveraged the 
+data obtained from a prospectively recruited cohort and case–control 
+
+
+study to confirm the identified pattern of damage linked by genetic instruments 
+to SBP.
+
+Genetic analyses identify brain structures related to blood pressure and cognitive impairment 2121
+
+While previous attempts to identify brain IDPs linked to BP were observational,
+http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+,http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+,http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+,http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+we demonstrate a relationship between BP and a 
+specific set of IDPs using genetic causal inference methods. These include 
+the anterior thalamic radiation, superior longitudinal fasciculus, 
+and the forceps minor tractshttp://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+as well as total volume of white matter 
+hyperintensities previously suggested both observationallyhttp://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+,http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+and in 
+MR.http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+However, contrary to observational analysis, we found no 
+evidence of the genetic association between total volume of white 
+matter hyperintensities and cognitive function. While white matter hyperintensities 
+have been previously linked to dementiahttp://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+or 
+Alzheimer’s disease but not to general cognitive function,http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+our results 
+may suggest that the effect of BP on cognitive performance may be 
+mediated by specific white matter tracts, making the absolute total 
+brain quantification of white matter hyperintensities a less sensitive indicator 
+for this association in hypertension. For example, the external 
+capsule, anterior corona radiata, and anterior thalamic radiation are 
+strongly linked to SBP and associate with cognitive function, as evidenced 
+by the MR analysis. Noteworthy, the two latter tracts are additionally 
+associated with longitudinal change in cognitive function in 
+2054 UK Biobank subjects. While the level of cognitive function in a 
+particular timepoint may be a derivative of various factors, the exact, 
+overtime route of the effect of brain IDPs, including those identified 
+in the current study, on cognitive function should be validated in the future 
+sufficiently powered longitudinal cohort studies. Furthermore, putamen 
+has been identified as one of the key brain structures linked to 
+both SBP and cognitive function in observational and genetic analyses. 
+
+
+Figure 4 Relation between observational and genetic estimates linking brain IDPs to SBP or to cognitive function. Observational, standardised coefficients 
+concerning 242 brain IDPs, genetically affected by SBP (FDR P < 0.05 for the IVW method and nominal P < 0.05 for the weighted median, MR– 
+Egger, and robust IVW methods using instrumental variables from the ICBP + UK Biobank meta-analysis and nominal P < 0.05 for IVW method using 
+instrumental variables from the separate ICBP or UK Biobank analysis), corresponding to their association with cognitive function or SBP at the imaging 
+visit in the UK Biobank are depicted on a scatter plot (A). After the exclusion of 38 potential outlier points (Betacognitive function > 0 and BetaSBP < 0), the 
+correlation coefficient was r = -0.37, yet retaining statistical significance (P = 5.6 × 10-8). Mendelian randomisation estimates linking nine IDPs, affecting 
+cognitive function in MR analysis at FDR P < 0.05, to SBP or cognitive function are presented on panel (B) (MD, mean diffusivity; ISOVF, isotropic or free 
+water volume fraction; LH, left hemisphere; UK Biobank field IDs are depicted on the right).
+This is important, as putamen is a part of the basal ganglia essential in 
+stimulus response, learning, or planning strategies.http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+
+
+2122 Siedlinski et al.
+
+Importantly, our validation cohort study illustrated a similar pattern 
+of SBP effects on key brain IDPs in a relatively small sample of hypertensive 
+and normotensive subjects in whom no conventional radiological 
+damage was evident in clinical routine magnetic resonance imaging, 
+and we were able to directly translate the pattern of main features of 
+cerebral injury associated with cognitive function from genetic 
+association to the hypertensive and normotensive subjects. This is important 
+as it suggests that these may serve as prodromic indicators of 
+ongoing cerebral damage due to elevated BP. Further validation of this 
+important finding will require focused large-scale magnetic resonance 
+imaging studies in hypertensive subjects.
+
+Another interesting conclusion arising from the current study is 
+that structural changes in the brain occur mainly in response to the 
+difference between SBP and DBP. Most volumetric IDPs were 
+
+
+Figure 5 Summary of associations between brain IDPs, SBP, and cognitive function identified using observational and genetic approaches. Circular plot 
+presents an association summary for 242 brain imaging-derived phenotypes (IDPs) significantly (FDR P < 0.05 for the IVW method and nominal P < 0.05 
+for the weighted median, MR–Egger, and robust IVW methods using instrumental variables from the ICBP + UK Biobank meta-analysis and nominal P < 
+0.05 for IVW method using instrumental variables from the separate ICBP or UK Biobank analysis) affected by SBP. Red/dark blue squares correspond 
+to a significant (at least nominal P < 0.05), positive/negative association with SBP using MR or observational analysis (two outer circles) and cognitive 
+function using MR (at least 1 instrumental variable available) or observational analysis in the UK Biobank (two inner rings). Grey squares correspond to 
+brain IDPs with no instrumental variables available for MR analysis linking them to cognitive function. Brain IDPs labelled in red are associated with SBP 
+below the Bonferroni-defined significance threshold (P < 0.05/3935) using a weighted median MR approach. IDP, imaging-derived phenotype; RH/LH, 
+right/left hemisphere; WM, white matter; MD, mean diffusivity; ISOVF, isotropic or free water volume fraction; FA, fractional anisotropy; ICVF, intra- 
+cellular volume fraction.
+associated with PP and mutually adjusted SBP and DBP in the multivariable 
+MR analysis. At the same time, we identified several resting- 
+state functional IDPs potentially responding to SBP or DBP rather 
+than to PP. Observationally, BP-associated resting-state functional 
+IDPs were associated with cognitive function. However, this observation 
+was not supported by the MR approach. This may be caused by 
+low number of good genetic instruments available for these IDPshttp://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+and by the intrinsic link between cerebral blood flow and blood oxygen 
+level–dependent (BOLD) signal, with the latter that may be more 
+linked to the cerebral haemodynamic alterations than inherited 
+factors.
+
+Genetic analyses identify brain structures related to blood pressure and cognitive impairment 2123
+
+Finally, our study supports the existence of a modest, potentially causal, 
+detrimental effect of higher SBP and PP, but not DBP, on cognitive 
+performance in midlife, which may serve as additional evidence regarding 
+the role of hypertension in dementias.http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+,http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+This is important in the 
+context of the prevalence of hypertension. Since various forms of dementia 
+may create a continuum spectrum rather than a strict dichotomy 
+between Alzheimer’s disease and vascular dementia,http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+,http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+fluid 
+intelligence score, investigated in the current study, may be best suited 
+to evaluate the complexity of this pathological condition.http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+Previous MR 
+studies linking BP to the cognitive function provided conflicting results, 
+likely due to different sets of SNPs used as instrumental variables for BP 
+indices.http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+,http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+,http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+Our study included a much larger set of BP-specific instrumental 
+variables derived from the UK Biobank and ICBP 
+meta-analysishttp://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+and used more powered GWAS on the cognitive function.
+http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+The null effect of DBP on cognitive function observed in the univariable 
+analysis is intriguing, as higher DBP became protective after 
+adjusting for SBP. Taken together with the opposite effect of SBP 
+and DBP on many IDPs identified in multivariable MR analysis, this 
+may reflect the impact of arterial stiffening on increased pulsatility in 
+the brain microvasculature with increased penetration of forward 
+and backward travelling pressure waveshttp://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+as previously associated 
+with white matter hyperintensities.http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+
+
+Several limitations should be considered when interpreting the results. 
+Most of the MR analyses performed were characterised by minor 
+overlap of subjects in exposure and outcome GWAS. While analyses 
+linking BP indices to brain IDPs and IDPs to cognitive function were 
+characterised by a relatively small (<10%) subject overlap, this was 
+not the case for a major analysis linking BP (instrumental variables derived 
+from the meta-analysis of the UK Biobank and ICBPhttp://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+) to 
+cognitive performance (instrumental variables and genetic estimates 
+derived from GWAS performed in the UK Biobank and 
+COGENThttp://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+). Nevertheless, effect estimates linking BP to cognitive 
+function were consistent across MR methods and different exposure 
+GWAS used in the current study. Our study was primarily performed 
+using middle-aged subjects from the UK Biobank; thus, extrapolating 
+the results to older subjects, particularly at risk for dementia, is challenging. 
+Since it was demonstrated that early-onset, rather than late-onset, 
+hypertension predisposes to cognitive impairment in the later life,http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+we 
+may speculate that lifetime exposure to elevated BP, as assumed by an 
+MR approach, plays a major role in the impairment of brain function, 
+even in older people. Another limitation that should be noted is the 
+modest number of subjects in IDP GWAS (~33 000) and thus a relatively 
+small number, or even lack, of genetic instruments available for 
+specific IDPs.http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+While multiple levels of evidence support the association 
+of certain IDPs with BP or cognitive function, false positive associations 
+may have arisen due to the multiple tests performed. In 
+contrast to observational studies, MR-based causal inference should 
+not be affected by confounding factors and reverse causality, although 
+less likely owing to the careful selection of genetic instruments, cannot 
+be entirely excluded. All the above emphasise the need for further epidemiological 
+characterisation of BP–IDPs–cognitive function axis, and 
+
+
+Figure 6 Comparison of results obtained in the prospective cohort and case–control study and the UK Biobank. One hundred seventy brain IDPs, out 
+of 242 genetically affected by SBP in the MR analyses of the UK Biobank and ICBP cohorts, were extracted and tested for association with SBP and 
+Montreal Cognitive Assessment score (only those 127 IDPs with FDR P < 0.05 for association with cognitive function in the UK Biobank) in 116 subjects 
+from the prospective cohort and case–control study. Standardised, observational estimates were compared with the ones obtained in the UK Biobank. 
+IDPs associated at nominal P < 0.05/FDR P < 0.1 with SBP (A) or Montreal Cognitive Assessment score (B) in the prospective cohort and case–control 
+study are depicted in red/blue. Top (based on P values) brain IDPs associated with SBP or Montreal Cognitive Assessment score in the prospective 
+cohort and case–control study are named (MD, mean diffusivity; HTN, hypertension; FA, fractional anisotropy; MoCA, Montreal Cognitive 
+Assessment; SD, standard deviation; SBP/DBP, systolic/diastolic blood pressure; PP, pulse pressure; UK Biobank field IDs are depicted on the right).
+when possible, randomised trials remain state-of-the-art to address 
+causal pathways between modifiable traits and human diseases.http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad101#supplementary-data
+
+
+2124 Siedlinski et al.
+
+In summary, this is the first study comprehensively, genetically, and observationally 
+to link BP parameters, IDPs, and cognitive function. While 
+cognitive function and volumetric IDPs seem to be related predominantly 
+to SBP and PP, SBP associates with several IDPs that further display genetic 
+effects on cognitive function and may serve as novel diagnostic and 
+therapeutic targets in hypertension associated cognitive impairment.

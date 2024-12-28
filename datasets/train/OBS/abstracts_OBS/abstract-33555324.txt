@@ -1,0 +1,31 @@
+OBJECTIVE: To investigate the association between PPI use and risk of asthma in 
+children.
+DESIGN, SETTING, AND PARTICIPANTS: This nationwide cohort study collected 
+registry data in Sweden from January 1, 2007, to December 31, 2016. Children and 
+adolescents 17 years or younger were matched by age and propensity score into 80 
+870 pairs of those who initiated PPI use and those who did not. Data were 
+analyzed from February 1 to September 1, 2020.
+EXPOSURES: Initiation of PPI use.
+MAIN OUTCOMES AND MEASURES: The primary analysis examined the risk of incident 
+asthma with a median follow-up to 3.0 (interquartile range, 2.1-3.0) years. Cox 
+proportional hazards regression was used to estimate hazard ratios (HRs).
+RESULTS: Among the 80 870 pairs (63.0% girls; mean [SD] age, 12.9 [4.8] years), 
+those who initiated PPI use had a higher incidence rate of asthma (21.8 events 
+per 1000 person-years) compared with noninitiators (14.0 events per 1000 
+person-years), with an HR of 1.57 (95% CI, 1.49-1.64). The risk of asthma was 
+significantly increased across all age groups and was highest for infants and 
+toddlers with an HR of 1.83 (95% CI, 1.65-2.03) in the group younger than 6 
+months and 1.91 (95% CI, 1.65-2.22) in the group 6 months to younger than 2 
+years (P < .001 for interaction). The HRs for individual PPIs were 1.64 (95% CI, 
+1.50-1.79) for esomeprazole, 1.49 (95% CI, 1.25-1.78) for lansoprazole, 1.43 
+(95% CI, 1.35-1.51) for omeprazole, and 2.33 (95% CI, 1.30-4.18) for 
+pantoprazole. In analyses of the timing of asthma onset after PPI initiation, 
+the HRs were 1.62 (95% CI, 1.42-1.85) for 0 to 90 days, 1.73 (95% CI, 1.52-1.98) 
+for 91 to 180 days, and 1.53 (95% CI, 1.45-1.62) for 181 days to end of 
+follow-up. The association was consistent through all sensitivity analyses, 
+including high-dimensional propensity score matching (HR, 1.48; 95% CI, 
+1.41-1.55).
+CONCLUSIONS AND RELEVANCE: In this cohort study, initiation of PPI use compared 
+with nonuse was associated with an increased risk of asthma in children. Proton 
+pump inhibitors should be prescribed to children only when clearly indicated, 
+weighing the potential benefit against potential harm.

@@ -1,0 +1,282 @@
+Introduction
+Out-of-hospital cardiac arrest is one of the leading causes of death and disability worldwide1,2 and contributes to as much as 10% of the total mortality in low- and middle-income countries.3–5 Out-of-hospital cardiac arrest is defined as the loss of functional cardiac mechanical activity in association with an absence of systemic circulation, occurring outside of a hospital setting.6,7 The exact public health burden of out-of-hospital cardiac arrest is not known because a considerable number of cases are not attended by emergency medical services and wide variations exist between different regions, races and continents in both reporting systems and survival outcomes.3,8–11
+
+In Asia-Pacific countries, emergency medical services systems are underdeveloped and vary considerably.12 Survival outcomes for out-of-hospital cardiac arrest in Asia differ considerably and these variations may be related to differences in the patients and the emergency medical services system.10 These differences suggest that survival outcomes in many countries can be improved with interventions to enhance emergency medical services, such as increasing bystander cardiopulmonary resuscitation through community-based cardiopulmonary resuscitation training programmes, increasing availability of public access defibrillators and improving post-resuscitation care.
+
+In Viet Nam, pre-hospital services are not well developed. In 2008, the Government of Viet Nam introduced a nationwide policy on the emergency medical services system; however, only a few places, such as urban areas, have a functioning emergency medical services system. Moreover, the ambulances, trained and accredited medical staff, and life-saving equipment available are limited, and medical oversight and regular monitoring of quality indicators are uncommon. As a result, staff of the emergency medical services are often overworked and not able to respond promptly to emergencies.13,14 Furthermore, although national health insurance was established in 1992 to improve access to health care and mitigate the negative impact of user fees introduced in 1989, neither emergency medical nor private ambulance services are currently covered by the health insurance.
+
+Data are lacking on evidence-based performance measures for emergency medical services in Viet Nam, particularly emergency response time.14 A previous study has shown that only 4% (3/75) of injured patients were transported to the hospital by ambulances.15 Most patients are brought by taxi, private vehicle or motorbike, usually with no first aid having been provided.13,15–17 People who have an out-of-hospital cardiac arrest are also not often taken to hospital by ambulance; indeed many may not be taken to hospital at all. Thus, basic and advanced life support treatment is often delayed for people with life-threatening illnesses or injuries until they arrive at the hospital.
+
+Understanding the country-specific causes, risk and prognosis of out-of-hospital cardiac arrest is important to reduce mortality in Viet Nam. The aim of this study therefore was to investigate the survival rate from out-of-hospital cardiac arrest and the factors associated with survival in the country.
+
+Go to:
+Methods
+Study design and setting
+This multicentre prospective observational study is part of the Pan-Asian Resuscitation Outcomes Study, Clinical Research Network, which collects data on patients with out-of-hospital cardiac arrest admitted to hospital emergency departments in countries of Asia.18,19 In this study, we used only data for Viet Nam. The hospitals in Viet Nam participating in the Pan-Asian study are three public sector tertiary hospitals in the three largest cities of the country: Hanoi (northern Viet Nam) which serves an estimated 10 million people; Hue (central Viet Nam) which serves 1.154 million people; and Ho Chi Minh City (southern Viet Nam) which serves 13 million people. The hospitals receive patients from all parts of each city. The reasons for selecting these hospitals were: (i) these hospitals are the largest teaching hospitals of each region and they receive most of the cases attended by the emergency medical services; and (ii) together, these three hospitals serve a varied population of differing socioeconomic status and ethnicity. This hospital-based sample is largely representative of the general urban population in the country.
+
+Several ambulance services are available in Viet Nam, but only one emergency service has an emergency number (i.e. 115), trained and accredited medical staff, life-saving equipment, medical oversight and quality indicators that are regularly monitored. Several other private organizations provide so-called emergency transportation but with limited medical interventions at the scene or during transportation.20 For this study, we categorized type of pre-hospital transportation into two groups: emergency medical services, which refers to ambulances dispatched by an emergency medical services dispatch centre; and non-emergency medical services, which refers to private ambulances, own or private transport, or public transport. We defined a private ambulance as an ambulance that was not dispatched by an emergency medical services dispatch centre. Own or private transport includes transport in vehicles of family members, relatives, neighbours or passers-by. Public transport includes taxis, buses or other types of public transport.
+
+Participants
+This study included all patients (older than 18 years) presenting with out-of-hospital cardiac arrest to the emergency departments of the three hospitals. People with cardiac arrest caused by traumatic injury were excluded. We defined a case of out-of-hospital cardiac arrest as a person who was unresponsive, not breathing and without a pulse outside the hospital setting.21–23 A physician confirmed the diagnosis either in the ambulance or in the emergency department. We excluded patients for whom resuscitation was not attempted by staff of the emergency medical services or private ambulance at the scene or on the way to hospital and who were immediately pronounced dead (because of rigor mortis, lividity and do not resuscitate orders) at the emergency department. However, we included patients on whom resuscitation was attempted but who were later pronounced dead before they reached hospital.
+
+Data collection
+We used a standardized classification and case record form to collect data on common variables. The data dictionary of the Pan-Asian Resuscitation Outcomes Study is available as an online supplement of a previously published paper.10 We extracted data from emergency dispatch records, ambulance patient case notes, and emergency department and in-hospital records. Data were entered into the database of the Pan-Asian Resuscitation Outcomes Study by the electronic data-capture system. Patient identifiers were not entered in the database to protect patient confidentiality. We then merged the data sets for the three hospitals. Each hospital contributed 5 years of data from February 2014 to December 2018.
+
+Variables
+We included variables based on Utstein recommendations,24 such as information on: (i) bystander cardiopulmonary resuscitation; (ii) availability of public access defibrillator; (iii) response times; (iv) provision of advanced life support (e.g. intravenous drugs, advanced airway management including endotracheal intubation, or alternative airway devices); (v) cause of the arrest (a cardiac arrest was presumed unless it was known or likely that the arrest had a non-cardiac cause (e.g. asthma, terminal illness, cerebrovascular accident, drug overdose, suicide, drowning or trauma)); and (vi) specialized post-resuscitation care (hypothermia or extracorporeal membrane oxygenation). We also collected data on the location of the out-of-hospital cardiac arrest (e.g. home, public area). We collected data on system variables which are available in the data repository.25
+
+Outcomes
+The primary outcome was survival to hospital admission. We also examined the following secondary outcomes: return of spontaneous circulation, survival to hospital discharge and neurological status on discharge from hospital.26
+
+Statistical analyses
+We used IBM® SPSS® Statistics 25.0 (IBM Corp., Armonk, United States of America) for data analysis. We report data as number and percentages for categorical variables and median and interquartile range or mean and standard deviation (SD) for continuous variables. We compared death before hospital admission and survival to admission according to type of pre-hospital care using the χ2 test or Fisher exact test for categorical variables and the Mann–Whitney U test, Kruskal–Wallis test, one-way analysis of variance, paired t-test, or Wilcoxon signed-rank test for continuous variables. We assessed factors associated with survival using logistic regression analysis and included independent variables related to the patient (age, sex and past medical history), the cardiac arrest event (location, time of day, presence of a witness, cause of the cardiac arrest and first arrest rhythm), the emergency medical services system (type of pre-hospital transportation and resuscitation attempt), therapy provided (e.g. pharmacotherapy, pre-hospital intervention, defibrillation and airway management) and return of spontaneous circulation if the P-value was < 0.05 in the bivariate analysis between non-survival and survival to admission. We used a step-wise method to select variables and then used the forced entry method with these variables. We present odds ratios (ORs) and 95% confidence intervals (CIs). For all analyses, significance levels were two-tailed, and we considered P < 0.05 as statistically significant.
+
+Ethical issues
+The Bach Mai Hospital Scientific and Ethics Committees approved this study (approval number: 1785/QD–BM; research code: BM-2015–72). We also obtained permission from the heads of institutions and departments of all participating hospitals and their respective institutional review boards wherever available. The study was conducted according to the principles of the Declaration of Helsinki. The committees waived written informed consent for this non-interventional study, and public notification of the study was made by public posting. The authors who did the data analysis kept the data sets in password-protected systems and we present anonymized data.
+
+Go to:
+Results
+Data on 779 patients with out-of-hospital cardiac arrest were submitted to the database of the Pan-Asian Resuscitation Outcomes Study during the study period. Of these patients, we excluded 31 patients aged 18 years or younger, and 109 with traumatic injury. We also excluded 30 patients (4.69%; 30/639) because of long pre-hospital time (i.e. longer than one day), which might imply simple input errors or specific pre-hospital circumstances. In addition, we excluded some patients because of missing or unknown data: one without sex data (0.16%; 1/639), 10 without date and time data of arrival at the emergency department (1.56%; 10/639), five without pre-hospital information (0.78%; 5/639) and three without outcome data (0.47%; 3/639).
+
+Thus, we included 590 patients in our analyses (Fig. 1 and Table 1). Of these patients, 74.6% (440/590) were men and the mean age was 56.1 years (SD: 17.2). Less than a fifth of the patients (17.7%; 92/519) had a past medical history of heart disease. Most out-of-hospital cardiac arrests occurred at home (67.8%; 400/590) and during the day (56.8%; 197/347), and 68.0% (380/559) were witnessed by bystanders who included lay people, family members and health-care providers. A cardiac condition was the presumed cause of the cardiac arrest in 45.1% (266/590) of patients. Only 32.2% (49/152) of people with out-of-hospital cardiac arrest received pre-hospital defibrillation. Only 22.3% (124/555) of the patients received bystander cardiopulmonary resuscitation, and 5.9% (17/288) received bystander automated external defibrillation. Epinephrine was given to 22.7% (134/590) of people with cardiac arrest before reaching hospital and 20.3% (120/590) received pre-hospital advanced airway management. Hypothermia therapy was given to 13.6% (80/590) of patients with out-of-hospital cardiac arrest as part of post-resuscitation care, but only 1.2% (7/588) were given extracorporeal membrane oxygenation therapy. Of the 590 people with out-of-hospital cardiac arrest, 112 (19.0%) had return of spontaneous circulation at the scene of the cardiac arrest or on the way to hospital and for 146 (24.7%) people, spontaneous circulation returned in the emergency department. Overall, 24.2% (143/590) of people survived to hospital admission, and 14.1% (83/590) survived to discharge from hospital; 5.6% (33/590) survived with good neurological function (cerebral performance category score 1 and 2). Our results are also summarized in the Utstein-style template (available in the data repository).25
+
+An external file that holds a picture, illustration, etc.
+Object name is BLT.20.269837-F1.jpg
+Fig. 1
+Flowchart of transportation to hospital, treatment and outcome of people with out-of-hospital cardiac arrest included in the study, Viet Nam, February 2014–December 2018
+
+Table 1
+Characteristics, management and outcomes of patients with out-of-hospital cardiac arrest according to type of transportation to hospital, Viet Nam, February 2014–December 2018
+Variable	All cases	Private or public transport	Private ambulance	Emergency medical services ambulance	Pa
+Hospital taken to, no. (%)	n = 590	n = 297	n = 242	n = 51	< 0.001
+Bach Mai	425 (72.0)	185 (62.3)	226 (93.4)	14 (27.5)	
+Hue	52 (8.8)	43 (14.5)	6 (2.5)	3 (5.9)	
+Cho Ray	113 (19.2)	69 (23.2)	10 (4.1)	34 (66.7)	
+Patient related
+Age in years, mean (SD)	56.1 (17.2)	57.5 (17.5)	54.7 (17.1)	54.5 (15.2)	0.130
+Sex (male), no. (%)	440 (74.6)	214 (72.1)	187 (77.3)	39 (76.5)	0.364
+Past medical history, no. (%)	n = 519	n = 250	n = 222	n = 47	 
+          Heart disease	92 (17.7)	43 (17.2)	34 (15.3)	15 (31.9)	0.024
+          Diabetes	69 (13.3)	29 (11.6)	31 (14.0)	9 (19.1)	0.349
+          Cancer	39 (7.5)	32 (12.8)	4 (1.8)	3 (6.4)	< 0.001
+          Hypertension	124 (23.9)	52 (20.8)	53 (23.9)	19 (40.4)	0.015
+          Renal disease	42 (8.1)	20 (8.0)	15 (6.80	7 (14.9)	0.177
+          Respiratory disease	84 (16.2)	39 (15.6)	41 (18.5)	4 (8.5)	0.228
+          Hyperlipidaemia	6 (1.2)	1 (0.4)	0 (0.0)	5 (10.6)	< 0.001
+          Stroke	17 (3.3)	11 (4.4)	6 (2.7)	0 (0.0)	0.244
+          HIV	1 (0.2)	1 (0.4)	0 (0.0)	0 (0.0)	> 0.999
+Event related
+Place cardiac arrest occurred, no. (%)	n = 590	n = 297	n = 242	n = 51	< 0.001
+          Home	400 (67.8)	231 (77.8)	133 (55.0)	36 (70.6)	 
+          Health-care facility	57 (9.7)	19 (6.4)	34 (14.0)	4 (7.8)	 
+          In emergency medical services or private ambulance	66 (11.2)	2 (0.7)	59 (24.4)	5 (9.8)	 
+          Industrial areab	5 (0.8)	4 (1.3)	1 (0.4)	0 (0.0)	 
+          Nursing home	2 (0.3)	2 (0.7)	0 (0.0)	0 (0.0)	 
+          Place of recreation	4 (0.7)	1 (0.3)	2 (0.8)	1 (2.0)	 
+          Public or commercial building	7 (1.2)	5 (1.7)	1 (0.4)	1 (2.0)	 
+          Street or motorway	20 (3.4)	9 (3.0)	8 (3.3)	3 (5.9)	 
+          Transport centrec	2 (0.3)	2 (0.7)	0 (0.0)	0 (0.0)	 
+          Other	27 (4.6)	22 (7.4)	4 (1.7)	1 (2.0)	 
+Cardiac arrest occurred between 08:00 and 20:00, no. (%)	197/347 (56.8)	83/158 (52.5)	91/143 (63.60	23/46 (50.0)	0.094
+Witness to the cardiac arrest, no. (%)	n = 559	n = 267	n = 241	n = 51	< 0.001
+          Not witnessed	115 (20.6)	75 (28.1)	39 (16.2)	1 (2.0)	 
+          Bystander (lay person)	25 (4.5)	15 (5.6)	7 (2.9)	3 (5.9)	 
+          Bystander (family member)	79 (14.1)	11 (4.1)	62 (25.7)	6 (11.8)	 
+          Bystander (health-care provider)	276 (49.4)	166 (62.2)	95 (39.4)	15 (29.4)	 
+          Emergency medical services or private ambulance	64 (11.4)	0 (0.0)	38 (15.8)	26 (51.0)	 
+Cause of cardiac arrest, no. (%)	n = 590	n = 297	n = 242	n = 51	0.163
+          Presumed cardiac cause	266 (45.1)	129 (43.4)	105 (43.4)	32 (62.7)	 
+          Respiratory cause	138 (23.4)	69 (23.2)	62 (25.6)	7 (13.7)	 
+          Drowning	7 (1.2)	2 (0.7)	4 (1.7)	1 (2.0)	 
+          Electrocution	12 (2.0)	8 (2.7)	3 (1.2)	1 (2.0)	 
+          Other	167 (28.3)	89 (30.0)	68 (28.1)	10 (19.6)	 
+First arrest rhythm, no. (%)	n = 152	NA	n = 123	n = 29	< 0.001
+          Ventricular tachycardia	12 (7.9)	NA	4 (3.3)	8 (27.6)	 
+          Ventricular fibrillation	34 (22.4)	NA	29 (23.6)	5 (17.2)	 
+          Unknown shockable rhythm	64 (42.1)	NA	58 (47.2)	6 (20.7)	 
+          Unknown unshockable rhythm	20 (13.2)	NA	18 (14.6)	2 (6.9)	 
+          Pulseless electrical activity	5 (3.3)	NA	2 (1.6)	3 (10.3)	 
+          Asystole	17 (11.2)	NA	12 (9.8)	5 (17.2)	 
+System related
+Resuscitation attempted by emergency medical services or private ambulance team (n = 288), no. (%)	149 (51.7)	NA	120 (49.8)	29 (61.7)	0.153
+Time to cardiopulmonary resuscitation at scene in minutes (n = 93), mean (SD)	7.3 (8.7)	NA	7.8 (8.0)	5.9 (10.3)	0.325
+Time to defibrillation at scene in minutes (n = 26), mean (SD)	9.1 (4.5)	NA	10.0 (3.8)	3.8 (4.8)	0.008
+Therapy related
+Pre-hospital intervention, no. (%)					
+          Bystander cardiopulmonary resuscitation	124/555 (22.3)	20/264 (7.6)	88/241 (36.5)	16/50 (32.0)	< 0.001
+          Pre-hospital defibrillation	49/152 (32.2)	NA	34/123 (27.6)	15/29 (51.7)	0.016
+          Bystander automatic external defibrillation performed	17/288 (5.9)	0 (0.0)	13/241 (5.4)	4/47 (8.5)	0.494
+          Pre-hospital advanced airway management	120/590 (20.3)	0/297 (0.0)	99/242 (40.9)	21/51 (41.2)	< 0.001
+Pharmacotherapy, no. (%)	n = 590	n = 297	n = 242	n = 51	 
+          Epinephrine (at scene)	134 (22.7)	0 (0.0)	116 (47.9)	18 (35.3)	< 0.001
+          Epinephrine (at emergency department)	539 (91.4)	272 (91.6)	232 (95.9)	35 (68.6)	< 0.001
+Defibrillation at emergency department, no. (%)	83/589 (14.1)	44/296 (14.9)	26/242 (10.7)	13/51 (25.5)	0.020
+Advanced airway management at emergency department, no. (%)	349/590 (59.2)	221/297 (74.4)	103/242 (42.6)	25/51 (49.0)	< 0.001
+Immediate coronary angiography on admission to hospital, no. (%)	n = 590	n = 297	n = 242	n = 51	 
+          Emergency percutaneous coronary intervention	32 (5.4)	9 (3.0)	13 (5.4)	10 (19.6)	< 0.001
+          Emergency coronary artery bypass grafting	2 (0.3)	0 (0.0)	2 (0.8)	0 (0.0)	0.333
+Post-resuscitation care provided, no. (%)					 
+          Extracorporeal membrane oxygenation therapy	7/588 (1.2)	4/295 (1.4)	3/242 (1.2)	0/51 (0.0)	0.709
+          Hypothermia therapy	80/590 (13.6)	16/297 (5.4)	64/242 (26.4)	0/51 (0.0)	< 0.001
+Outcomes
+Return of spontaneous circulation, no. (%)	n = 590	n = 297	n = 242	n = 51	 
+          At scene or on way to the hospital	112 (19.0)	0 (0.0)	100 (41.3)	12 (23.5)	< 0.001
+          In emergency department	146 (24.7)	77 (25.9)	54 (22.3)	15 (29.4)	0.451
+Outcome of patient at emergency department, no. (%)	n = 590	n = 297	n = 242	n = 51	< 0.001
+          Died in emergency department	447 (75.8)	254 (85.5)	161 (66.5)	32 (62.7)	
+          Admitted to hospital	143 (24.2)	43 (14.5)	81 (33.5)	19 (37.3)	
+Patient status, no. (%)	n = 590	n = 297	n = 242	n = 51	< 0.001
+          Died in hospital	42 (7.1)	12 (4.0)	20 (8.3)	10 (19.6)	
+          Still in hospital 30 days after admission	3 (0.5)	2 (0.7)	1 (0.4)	0 (0.0)	
+          Discharged alive within 30 days of cardiac arrest	83 (14.1)	18 (6.1)	56 (23.1)	9 (17.6)	
+Cerebral performance category 1 and category 2 after cardiac arrest, no. (%)	33/590 (5.6)	6/297 (2.0)	26/242 (10.7)	1/51 (2.0)	< 0.001
+Open in a separate window
+HIV: human immunodeficiency virus; NA: not available; SD: standard deviation.
+
+a Comparison between emergency medical services, private ambulance and private or public transport.
+
+b Industrial premises, construction sites, factories, warehouses, shipyards and docks.
+
+c Bus stations or terminals, train or subway stations, ferry terminals and airports.
+
+About half of the people with out-of-hospital cardiac arrest (50.3%; 297/590) were taken to hospital by private or public transport, 41.0% (242/590) were taken by private ambulance, and 8.6% (51/590) were taken by emergency medical services. There were statistically significant associations between type of transportation to hospital and: past medical history of heart disease, cancer, hypertension and hyperlipidaemia; place where the cardiac arrest occurred; whether the cardiac arrest was witnessed or not; the first arrest rhythm; administration of pre-hospital interventions; return of spontaneous circulation at the scene or on the way to hospital; outcome of the patient in the emergency department; and final status of patients admitted to hospital (Table 1; P < 0.001).
+
+Table 2 compares the general characteristics, pre-hospital and in-hospital management, and outcome of people with out-of-hospital cardiac arrest who survived to hospital admission (143 people) or who died before reaching hospital or in the emergency department (447 people). The mean age of people who survived (50.0 years; SD: 17.2) was younger than that of people who died (58.1 years; SD: 16.8; P < 0.001). There was no significant difference between people who died and people who survived according to administration of cardiopulmonary resuscitation by a bystander (P = 0.071). Only a small number of people received pre-hospital defibrillation but with a significant difference between those who died (16.9%; 12/71) and those who survived (45.7%; 37/81; P < 0.001). The proportion of people in whom spontaneous circulation returned at the scene or on the way to hospital was significantly lower in people who died (7.8%; 35/447) than in people who survived (53.8%; 77/143; P < 0.001).
+
+Table 2
+Characteristics, management and outcomes of patients with out-of-hospital cardiac arrest according to survival to hospital admission, Viet Nam, February 2014–December 2018
+Variable	Died	Survived	P
+Hospital taken to, no. (%)	n = 447	n = 143	0.041
+Bach Mai	329 (73.6)	96 (67.1)	 
+Hue	32 (7.2)	20 (14.0)	 
+Cho Ray	86 (19.2)	27 (18.9)	 
+Patient related	n = 447	n = 143	
+Age in years, mean (SD)	58.1 (16.8)	50.0 (17.2)	< 0.001
+Sex (male), no. (%)	328 (73.4)	112 (78.3)	0.270
+Past medical history, no. (%)	n = 391	n = 124	 
+          Heart disease	75 (19.0)	17 (13.7)	0.179
+          Diabetes	52 (13.2)	17 (13.7)	0.876
+          Cancer	36 (9.1)	3 (2.4)	0.014
+          Hypertension	94 (23.8)	30 (24.2)	0.928
+          Renal disease	38 (9.6)	4 (3.2)	0.023
+          Respiratory disease	52 (13.2)	32 (25.8)	0.001
+          Hyperlipidaemia	2 (0.5)	4 (3.2)	0.031
+          Stroke	16 (4.1)	1 (0.8)	0.058
+          HIV	1 (0.3)	0 (0.0)	> 0.999
+          Other	89 (22.5)	10 (8.1)	< 0.001
+Event related
+Place cardiac arrest occurred, no. (%)	n = 447	n = 143	0.003
+          Home residence	298 (66.7)	102 (71.3)	
+          Health-care facility	44 (9.8)	13 (9.1)	
+          In emergency medical services or private ambulance	59 (13.2)	7 (4.9)	
+          Industrial areaa	2 (0.4)	3 (2.1)	
+          Nursing home	0 (0.0)	2 (1.4)	
+          Place of recreation	1 (0.2)	3 (2.1)	
+          Public or commercial building	6 (1.3)	1 (0.7)	
+          Street or motorway	13 (2.9)	7 (4.9)	
+          Transport centreb	2 (0.4)	0 (0.0)	
+          Other	22 (4.9)	5 (3.5)	
+Cardiac arrest occurred between 08:00 and 20:00 (n = 347), no. (%)	127 (53.1)	70 (64.8)	0.047
+Witness to the cardiac arrest, no. (%),	n = 428	n = 131	0.001
+          Not witnessed	105 (24.5)	10 (7.6)	 
+          Bystander (lay person)	17 (4.0)	8 (6.1)	 
+          Bystander (family member)	60 (14.0)	19 (14.5)	 
+          Bystander (health-care provider)	201 (47.0)	75 (57.3)	 
+          Emergency medical services or private ambulance	45 (10.5)	19 (14.5)	 
+Cause of cardiac arrest, no. (%)	n = 447	n = 143	< 0.001
+          Presumed cardiac cause	198 (44.3)	68 (47.6)	
+          Respiratory cause	91 (20.4)	47 (32.9)	
+          Drowning	5 (1.1)	2 (1.4)	
+          Electrocution	5 (1.1)	7 (4.9)	
+          Other	148 (33.1)	19 (13.3)	
+First arrest rhythm, no. (%)	n = 71	n = 81	< 0.001
+          Ventricular tachycardia	5 (7.0)	7 (8.6)	
+          Ventricular fibrillation	6 (8.5)	28 (34.6)	
+          Unknown shockable rhythm	44 (62.0)	20 (24.7)	
+          Unknown unshockable rhythm	2 (2.8)	18 (22.2)	
+          Pulseless electrical activity	5 (7.0)	0 (0.0)	
+          Asystole	9 (12.7)	8 (9.9)	
+System related
+Type of pre-hospital transportation, no. (%)	n = 447	n = 143	< 0.001
+          Emergency medical services	32 (7.2)	19 (13.3)	 
+          Private ambulance	161 (36.0)	81 (56.6)	 
+          Private or public transport	254 (56.8)	43 (30.1)	 
+Resuscitation attempted by emergency medical services or private ambulance team, no. (%)	70/189 (37.0)	79/99 (79.8)	< 0.001
+Time to cardiopulmonary resuscitation at scene in minutes (n = 93), mean (SD)	5.8 (12.8)	7.9 (6.1)	0.270
+Time to defibrillation at scene in minutes (n = 26), mean (SD)	5.0 (5.0)	9.6 (4.3)	0.098
+Therapy related
+Pharmacotherapy, no. (%)	n = 447	n = 143	 
+          Epinephrine (at scene)	61 (13.6)	73 (51.0)	< 0.001
+          Epinephrine (at emergency department)	416 (93.1)	123 (86.0)	0.011
+Pre-hospital intervention, no. (%)			 
+          Bystander cardiopulmonary resuscitation	87/425 (20.5)	37/130 (28.5)	0.071
+          Pre-hospital defibrillation	12/71 (16.9)	37/81 (45.7)	< 0.001
+          Bystander automatic external defibrillation	8/189 (4.2)	9/99 (9.1)	0.116
+          Pre-hospital advanced airway management, no. (%)	46/447 (10.3)	74/143 (51.7)	< 0.001
+Defibrillation at emergency department, no. (%)	47/447 (10.5)	36/143 (25.2)	< 0.001
+Advanced airway management at emergency department, no. (%)	285/447 (63.8)	64/143 (44.8)	< 0.001
+Immediate coronary angiography on admission to hospital, no. (%)	n = 447	n = 143	 
+          Emergency percutaneous coronary intervention performed	5 (1.1)	27 (18.9)	< 0.001
+          Emergency coronary artery bypass grafting	1 (0.2)	1 (0.7)	0.426
+Post-resuscitation care provided, no. (%)	 	 	 
+          Extracorporeal membrane oxygenation therapy	5/445 (1.1)	2/143 (1.4)	0.680
+          Hypothermia therapy	12/447 (2.7)	68/143 (47.6)	< 0.001
+Return of spontaneous circulation, no. (%)	n = 447	n = 143	 
+At scene or on way to the hospital	35 (7.8)	77 (53.8)	< 0.001
+In emergency department	73 (16.3)	73 (51.0)	< 0.001
+Open in a separate window
+HIV: human immunodeficiency virus; SD: standard deviation.
+
+a Industrial premises, construction sites, factories, warehouses, shipyards and docks.
+
+b Bus stations or terminals, train or subway stations, ferry terminals and airports.
+
+Several factors were independently associated with survival to admission to hospital in people with cardiac arrest not caused by traumatic injury (Table 3), including pre-hospital defibrillation (OR: 3.90; 95% CI: 1.54–9.90) and return of spontaneous circulation in the emergency department (OR: 2.89; 95% CI: 1.03–8.12). In people with out-of-hospital cardiac arrest presumed to be caused by a heart condition, attendance by emergency medical services was inversely and independently associated with survival to hospital admission (OR: 0.20; 95% CI: 0.04–0.94; Table 3). The bivariate analysis of survival to hospital in these patients is given in the data repository.25 Pre-hospital defibrillation (OR: 2.87; 95% CI: 1.24–6.67) and hypothermia therapy (OR: 5.44; 95% CI: 2.33–12.74) were independently associated with survival to hospital discharge in people with out-of-hospital cardiac arrest not caused by traumatic injury (Table 3).
+
+Table 3
+Factors associated with survival of patients with out-of-hospital cardiac arrest, Viet Nam, February 2014–December 2018: logistic regression analyses
+Factors	OR (95% CI)a
+Survival to hospital admission: non-traumatic cause
+Past medical history of respiratory disease	3.13 (1.20–8.17)
+Pre-hospital defibrillation given	3.90 (1.54–9.90)
+Attended by emergency medical services	0.51 (0.18–1.45)
+Pre-hospital advanced airway management provided	3.44 (1.20–9.84)
+Return of spontaneous circulation in emergency department	2.89 (1.03–8.12)
+Constant	0.214 (0.002)
+Survival to hospital admission: presumed cardiac cause
+Age ≥ 60 years	0.27 (0.07–1.03)
+Cardiac arrest occurred at home	8.90 (1.55–51.13)
+Cardiac arrest witnessed	36.11 (1.19–1097.34)
+Attended by emergency medical services	0.20 (0.04–0.94)
+Pre-hospital defibrillation given	6.37 (1.33–30.59)
+Pre-hospital advanced airway management provided	3.46 (0.48–25.12)
+Return of spontaneous circulation in emergency department	6.32 (1.01–39.74)
+Constant	0.002 (0.004)
+Survival to discharge: non-traumatic cause
+Past medical history of heart disease	0.37 (0.09–1.55)
+Pre-hospital defibrillation given	2.87 (1.24–6.67)
+Hypothermia therapy given	5.44 (2.33–12.74)
+Return of spontaneous circulation in emergency department	2.07 (0.77–5.55)
+Constant	0.180 (< 0.001)
+Open in a separate window
+CI: confidence interval; OR: odds ratio.
+
+a P-value is given for the constant.
+
+Go to:
+Discussion
+Of 590 people with out-of-hospital cardiac arrest included in our analysis, about a quarter (24.2%) survived to hospital admission, 14.1% survived to hospital discharge and 5.6% survived with good neurological function. We recognize that this cohort is likely to be highly selected as many people with out-of-hospital cardiac arrest in Viet Nam are not brought to hospital and might die outside of hospital.15,17,27 Our figure for survival to hospital admission is in line with figures reported in the Pan-Asian Resuscitation Outcomes Study, 5.9–27.7%.10 However, our proportions for survival to discharge and survival with good neurological function are higher than the rate reported in the Pan-Asian study (0.5–8.5% and 1.6–3.0%, respectively).10 This difference could be due to selection bias in our study as we only had data on patients brought to the three highest-level public sector hospitals in Viet Nam, and these cases may not reflect all out-of-hospital cardiac arrests in the country.
+
+In Viet Nam, as well as in other low- and middle-income countries, pre-hospital care and transportation systems are categorized into emergency medical services and non-emergency medical services (e.g. private ambulances, own or private transport, or public transport).14,20 In our study, half of the people with out-of-hospital cardiac arrest were brought to hospital by private or public transport without life-support equipment or trained personnel. Pre-hospital care is for the most part left to bystanders and usually the injured or sick person is simply carried quickly to the nearest vehicle large enough to accommodate him or her.13,15,20 In such situations, bystander first aid is crucial to improve outcomes of people with out-of-hospital cardiac arrest,28 however, bystander chest compression is not often done in Viet Nam.13 Furthermore, the use of automatic external defibrillation by a bystander before arrival of the emergency medical services in shockable out-of-hospital cardiac arrest is associated with better survival and functional outcomes.29 However, in our study, use of defibrillation by a bystander did not improve survival to hospital admission. Lack of knowledge and skills as well as fear of doing harm to people may prevent bystanders from using such techniques and using them effectively.30 Thus, to improve bystander first aid, more lay people should be trained in first aid and to be able to train others through a recognized emergency first-aid programme.31,32
+
+Economic and political reforms have spurred rapid economic growth in Viet Nam.33 However, health-care providers still have difficulty in delivering essential initial care for patients with out-of-hospital cardiac arrest because of low resources and inadequate infrastructure for emergency medical care, such as dispatch centres for emergency medical services.14,34 In addition, telecommunication staff do not have the ability to identify a possible case of cardiac arrest and provide cardiopulmonary resuscitation instructions to callers.14 In our study, few patients with out-of-hospital cardiac arrest were attended to and taken to hospital by emergency medical services. However, the proportions of people who had spontaneous circulation return at the scene or on the way to the hospital and who survived to hospital discharge were significantly lower in those taken to hospital by the emergency medical services than those taken by private ambulance. Because of the small number of trained and qualified medical emergency staff and the limited amount of life-saving equipment, these staff are overworked and underequipped and the medical emergency services centres are overburdened. These factors may in part explain why outcomes of patients were poorer in those attended by the emergency medical services. At the same time, the staff may not be sufficiently well trained or experienced to be able to recognize out-of-hospital cardiac arrest in their patients and provide the required initial care.34
+
+In view of the limited emergency medical services in Viet Nam, private ambulance services with capability for cardiopulmonary resuscitation, life-saving drugs, defibrillators or at least a medical professional trained to deal with emergencies have therefore been established. In 2011, the health ministry gave these services licences for first-aid or patient transportation35 and the policy has not changed since then.
+
+In our bivariate analysis, return of spontaneous circulation at the scene or on the way to hospital and return of spontaneous circulation in the emergency department were significantly associated with survival to hospital admission. However, in the logistic regression analysis, only return of spontaneous circulation in the emergency department was independently associated with survival to hospital admission. In a Japanese study, shortening the time from receipt of the call for emergency medical services to return of spontaneous circulation was the only important independent factor associated with good neurological outcome in patients with post-cardiac arrest syndrome.36 Our study shows that the rates of return of spontaneous circulation at the scene or on the way to hospital and survival of people with out-of-hospital cardiac arrest were highest in those transported by private ambulance.
+
+Our study also shows that hypothermia therapy, as part of post-resuscitation care, was most often given to patients brought by private ambulance. Almost all of the people with out-of-hospital cardiac arrest brought by private ambulance were brought to Bach Mai Hospital and hypothermia therapy was only available in this hospital, which may explain this finding.25 Furthermore, hypothermia therapy was independently associated with survival to discharge from hospital. Hypothermia therapy has been shown to reduce neurological injury after cardiac arrest and is a cornerstone of post-cardiac arrest care.37 The higher survival rate to discharge in patients brought to hospital by private ambulance than in patients brought by other types of transport may be explained by the greater use of hypothermia therapy in these patients.
+
+Our study has some limitations. Our data are from a highly selected population of cases who were brought to the three highest level public sector hospitals in Viet Nam. Therefore, the number of people with out-of-hospital cardiac arrest is likely to be considerably higher. In addition, data were missing for many variables, e.g. in only 152 patients was it recorded if defibrillation was given or not. Moreover, in our study, a significant proportion of patients with out-of-hospital cardiac arrest came to hospital in private transport rather than in emergency medical services or private ambulances. Some of these people might be attended to by primary health-care providers, may be pronounced dead at home or might not be brought to hospital at all. These factors resulted in incomplete enrolment of patients into the database of the study, which may have introduced selection bias.38 These limitations might account for some differences in figures reported from other countries.
+
+To improve survival outcomes in people with out-of-hospital cardiac arrest, the emergency medical services system in Viet Nam needs to be enhanced through, for example: increasing bystander cardiopulmonary resuscitation; making public access defibrillators more available; increasing the number of emergency medical service ambulances; improving post-resuscitation care; and increasing the use of private ambulances, as well as developing a standard emergency first-aid programme for both health-care personnel and the community.

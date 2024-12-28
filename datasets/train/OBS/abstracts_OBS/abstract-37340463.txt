@@ -1,0 +1,35 @@
+BACKGROUND: Since the beginning of the COVID-19 vaccination campaigns, 
+recommendations regarding the vaccination have been very dynamic. Although the 
+safety and efficacy of different vaccines have been analysed, data were scarce 
+for vaccine regimens combining different vaccines. We therefore aimed to 
+evaluate and compare the perceived reactogenicity and need for medical 
+consultation after the most frequently applied homologous and heterologous 
+COVID-19 vaccination regimens.
+METHODS: In an observational cohort study, reactogenicity and safety were 
+assessed within a maximum follow-up time of 124 days using web-based surveys. 
+Reactogenicity was assessed for different vaccination regimens 2 weeks after a 
+vaccination (short-term survey). The following surveys, long-term and follow-up 
+surveys, focused on the utilisation of medical services, including those that 
+were not suspected to be vaccine-related.
+RESULTS: Data of 17,269 participants were analysed. The least local reactions 
+were seen after a ChAdOx1 - ChAdOx1 regimen (32.6%, 95% CI [28.2, 37.2]) and the 
+most after the first dose with mRNA-1273 (73.9%, 95% CI [70.5, 77.2]). Systemic 
+reactions were least frequent in participants with a BNT162b2 booster after a 
+homologous primary immunisation with ChAdOx1 (42.9%, 95% CI [32.1, 54.1]) and 
+most frequent after a ChAdOx1 - mRNA-1273 (85.5%, 95% CI [82.9, 87.8]) and 
+mRNA-1273/mRNA-1273 regimen (85.1%, 95% CI [83.2, 87.0]). In the short-term 
+survey, the most common consequences were medication intake and sick leave 
+(after local reactions 0% to 9.9%; after systemic reactions 4.5% to 37.9%). In 
+the long-term and follow-up surveys, between 8.2 and 30.9% of participants 
+reported consulting a doctor and between 0% and 5.4% seeking hospital care. The 
+regression analyses 124 days after the first and after the third dose showed 
+that the odds for reporting medical consultation were comparable between the 
+vaccination regimens.
+CONCLUSIONS: Our analysis revealed differences in reactogenicity between the 
+COVID-19 vaccines and vaccination regimens in Germany. The lowest reactogenicity 
+as reported by participants was seen with BNT162b2, especially in homologous 
+vaccination regimens. However, in all vaccination regimens reactogenicity rarely 
+led to medical consultations. Small differences in seeking any medical 
+consultation after 6 weeks diminished during the follow-up period. In the end, 
+none of the vaccination regimens was associated with a higher risk for medical 
+consultation.

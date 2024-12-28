@@ -1,0 +1,24 @@
+BACKGROUND: The COVID-19 pandemic required that our research team change our 
+mail-only (MO) strategy for a research survey to a strategy more manageable by 
+staff working remotely. We used a modified web-push approach (MWP), in which 
+patients were mailed a request to respond online and invited to call if they 
+preferred the questionnaire by mail or phone. We also changed from a 
+pre-completion gift to a post-completion gift card incentive. Our objective is 
+to compare response patterns between modes for a survey that used an MO strategy 
+pre-pandemic followed by an MWP strategy peri-pandemic for data collection.
+METHODS: Observational study using data from a national multi-scale survey about 
+patients' experience of specialty care coordination administered via MO in 2019 
+and MWP from 2020 to 2021 to Veterans receiving primary care and specialty care 
+within the Veterans Health Administration (VA). We compared response rates, 
+respondent characteristics and responses about care coordination between MO and 
+MWP, applying propensity weights to account for differences in the underlying 
+samples.
+RESULTS: The response rate was lower for MWP vs. MO (13.4% vs. 36.6%), 
+OR = 0.27, 95% CI = 0.25-0.30, P < .001). Respondent characteristics were 
+similar across MO and MWP. Coordination scale scores tended to be slightly 
+higher for MWP, but the effect sizes for these differences between modes were 
+small for 9 out of 10 scales.
+CONCLUSIONS: While the logistics of MWP survey data collection are well-suited 
+to the remote research work environment, response rates were lower than those 
+for the MO method. Future studies should examine addition of multi-mode contacts 
+and/or pre-completion incentives to increase response rates for MWP.

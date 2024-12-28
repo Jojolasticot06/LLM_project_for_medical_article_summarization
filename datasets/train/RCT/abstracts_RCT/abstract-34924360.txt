@@ -1,0 +1,14 @@
+Cash transfer during the COVID-19 pandemic: a multicentre, randomised controlled trial
+
+1/Objective To evaluate the effect of a one-time cash transfer of $C1000 in people who are unable to physically distance due to insufficient income. 
+
+2/Design Open-label, multi-centre, randomised superiority trial. Setting Seven primary care sites in Ontario, Canada; six urban sites associated with St. Michael’s Hospital in Toronto and one in Manitoulin Island. Participants 392 individuals who reported trouble affording basic necessities due to disruptions related to COVID-19. 
+Intervention After random allocation, participants either received the cash transfer of $C1000 (n=196) or physical distancing guidelines alone (n=196). Main outcome measures The primary outcome was the maximum number of symptoms consistent with COVID-19 over 14 days. Secondary outcomes were meeting clinical criteria for COVID-19, SARS-CoV-2 presence, number of close contacts, general health and ability to afford basic necessities. 
+
+3/Results The primary outcome of number of symptoms reported by participants did not differ between groups after 2 weeks (cash transfer, mean 1.6 vs 1.9, ratio of means 0.83; 95% CI 0.56 to 1.24). There were no statistically significant effects on secondary outcomes of the meeting COVID-19 clinical criteria (7.9% vs 12.8%; risk difference -0.05; 95% CI -0.11 to 0.01), SARS-CoV-2 presence (0.5% vs 0.6%; risk difference 0.00 95% CI -0.02 to 0.02), mean number of close contacts (3.5 vs 3.7; rate ratio 1.10; 95% CI 0.83 to 1.46), general health very good or excellent (60% vs 63%; risk difference -0.03 95% CI -0.14 to 0.08) and ability to make ends meet (52% vs 51%; risk 
+difference 0.01 95% CI -0.10 to 0.12). 
+
+4/Conclusions A single cash transfer did not reduce the COVID-19 symptoms or improve the ability to afford 
+necessities. Further studies are needed to determine whether some groups may benefit from financial supports 
+and to determine if a higher level of support is beneficial. 
+

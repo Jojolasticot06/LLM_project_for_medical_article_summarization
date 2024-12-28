@@ -1,0 +1,10 @@
+Comparing web-based video interventions to enhance university student willingness to donate organs: A randomized controlled trial.
+
+1/BACKGROUND: The efficacy of video interventions to increase organ donation willingness remains unclear.
+
+2/METHODS: Three-arm web-based randomized controlled trial involving 2261 students at 3 northeastern Ohio universities. Intervention students watched a live-action (n = 755) or animated (n = 753) donation video. Control students (n = 753) viewed wellness information from the Centers for Disease Control and Prevention (CDC). The primary outcome was proportion of students who visited their state 
+electronic donor registry to consent. The secondary outcome was intervention quality. Logistic regression assessed the effects of interventions on visiting the state registry to provide donation consent while controlling for baseline variables.
+
+3/RESULTS: Students in the live-action video arm visited their state registry more frequently than students in the CDC arm (OR = 1.86, 95% CI = 1.20-2.88). There was no difference between students in the animated video and CDC arms (OR = 1.10, 95% CI = 0.69-1.76). The quality of the live-action video was rated lower than the animated video and the CDC text (75% ± 18, 84% ± 16, 80% ± 16, respectively; P < 0.001).
+
+4/CONCLUSION: Students who watched the live-action video were more willing to visit their electronic donor registry to register as organ donors, but rated it lower in satisfaction. Future work should identify the most potent components of organ donation interventions.

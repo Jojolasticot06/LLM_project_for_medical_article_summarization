@@ -1,0 +1,10 @@
+Low-fidelity otoscopy simulation and anatomy training: A randomized controlled trial.
+
+1/OBJECTIVES: To evaluate whether the use of low-fidelity otoscopy simulation improved medical students' theoretical knowledge of middle ear anatomy and pathologies compared to traditional teaching methods.
+
+2/METHODS: This was a randomized controlled trial. Simulation workshops were conducted in April 2019 in the Lyon Sud University medical faculty, France. Students were randomly assigned to the simulation group (n=105) or to the control group (n=95). The students in the control group answered a questionnaire evaluating theoretical knowledge (25 true-false questions) before the simulation tutorial, while the students in the simulation group answered the same questions after the tutorial. Both groups also filled out a satisfaction questionnaire for feedback.
+
+
+3/RESULTS: 196 of the 200 students who participated in the study completed the knowledge assessment questionnaire. Scores were 32.0% higher in the simulation group than in the control group (mean scores, 12.0/20 vs. 9.1/20; P<0.0001). 184 of the 191 students who completed the satisfaction questionnaire (96.3%) were satisfied or very satisfied with the workshop, and all but one (99.5%) recommended keeping it in the curriculum. In the free comments fields, students highlighted the educational value of learning without the stress of patient discomfort.
+
+4/CONCLUSION: Otoscopy simulation is an effective training method, improving theoretical knowledge compared with conventional theoretical training.

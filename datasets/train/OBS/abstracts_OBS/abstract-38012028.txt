@@ -1,0 +1,27 @@
+PURPOSE: The advent of new medical devices allows patients with asthma to 
+self-monitor at home, providing a more complete picture of their disease than 
+occasional in-person clinic visits. This raises a pertinent question: which 
+devices and parameters perform best in exacerbation detection?
+METHODS: A total of 149 patients with asthma (90 children, 59 adults) 
+participated in a 6-month observational study. Participants (or parents) 
+regularly (daily for the first 2 weeks and weekly for the next 5.5 months, with 
+increased frequency during exacerbations) performed self-examinations using 3 
+devices: an artificial intelligence (AI)-aided home stethoscope (providing 
+wheezes, rhonchi, and coarse and fine crackles intensity; respiratory and heart 
+rate; and inspiration-to-expiration ratio), a peripheral capillary oxygen 
+saturation (SpO2) meter, and a peak expiratory flow (PEF) meter and filled out a 
+health state survey. The resulting 6,029 examinations were evaluated by 
+physicians for the presence of exacerbations. For each registered parameter, a 
+machine learning model was trained, and the area under the receiver operating 
+characteristic curve (AUC) was calculated to assess its utility in exacerbation 
+detection.
+RESULTS: The best single-parameter discriminators of exacerbations were wheezes 
+intensity for young children (AUC 84% [95% CI, 82%-85%]), rhonchi intensity for 
+older children (AUC 81% [95% CI, 79%-84%]), and survey answers for adults (AUC 
+92% [95% CI, 89%-95%]). The greatest efficacy (in terms of AUC) was observed for 
+a combination of several parameters.
+CONCLUSIONS: The AI-aided home stethoscope provides reliable information on 
+asthma exacerbations. The parameters provided are effective for children, 
+especially those younger than 5 years of age. The introduction of this tool to 
+the health care system might enhance asthma exacerbation detection substantially 
+and make remote monitoring of patients easier.

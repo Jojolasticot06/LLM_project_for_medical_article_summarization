@@ -1,0 +1,9 @@
+Mobile health-technology integrated care in atrial fibrillation patients with heart failure: A report from the mAFA-II randomized clinical trial
+
+1/Background: To assess the effect of mobile health (mHealth) technology-implemented 'Atrial fibrillation Better Care' (ABC) pathway-approach (mAFA intervention) in AF patients with Heart Failure (HF).
+
+2/Methods: From the Mobile Health Technology for Improved Screening and Optimized Integrated Care in AF (mAFA-II) cluster randomized trial, we evaluated the effect of mAFA intervention on the risk of major outcomes in patients with HF using Inverse Probability of Treatment Weighting. Primary outcome was the composite outcome of stroke/thromboembolism, all-cause death, and rehospitalization. The effect of mAFA and the interaction with HF at baseline was assessed through Cox-regressions.
+
+3/Results: Among the 3,324 patients originally enrolled in the trial, 714 (21.5%; mean age: 72.7±13.1 years; 39.9% females) had HF. The effect of mAFA intervention on the primary outcome was consistent in patients with and without HF (Hazard Ratio, (HR): 0.59, 95% Confidence Interval (CI): 0.29-1.22 vs. HR: 0.40, 95%CI: 0.21-0.76, p for interaction=0.438); similar findings were found for rehospitalisations and bleeding events. A trend towards lower efficacy of mAFA in HF patients was observed for all-cause death, while the risk of the composite outcome of 'recurrent AF, HF and acute coronary syndrome' was higher among AF-HF patients allocated to mAFA (p for interaction: <0.001).
+
+4/Conclusion: A mHealth-technology implemented ABC pathway provides consistent effects on the risks of primary outcome, rehospitalisation and bleeding, in AF patients both with and without HF. However, AF-HF patients may need tailored approaches to improve their overall prognosis, specifically to reduce the risk of recurrent AF, HF and acute coronary syndrome.

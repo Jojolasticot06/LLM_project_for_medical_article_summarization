@@ -1,0 +1,33 @@
+BACKGROUND: Qingfei Paidu Tang (QPT), a formula of traditional Chinese medicine, 
+which was suggested to be able to ease symptoms in patients with Coronavirus 
+Disease 2019 (COVID-19), has been recommended by clinical guidelines and widely 
+used to treat COVID-19 in China. However, whether it decreases mortality remains 
+unknown.
+PURPOSE: We aimed to explore the association between QPT use and in-hospital 
+mortality among patients hospitalized for COVID-19.
+STUDY DESIGN: A retrospective study based on a real-world database was 
+conducted.
+METHODS: We identified patients consecutively hospitalized with COVID-19 in 15 
+hospitals from a national retrospective registry in China, from January through 
+May 2020. Data on patients' characteristics, treatments, and outcomes were 
+extracted from the electronic medical records. The association of QPT use with 
+COVID-19 related mortality was evaluated using Cox proportional hazards models 
+based on propensity score analysis.
+RESULTS: Of the 8939 patients included, 28.7% received QPT. The COVID-19 related 
+mortality was 1.2% (95% confidence interval [CI] 0.8% to 1.7%) among the 
+patients receiving QPT and 4.8% (95% CI 4.3% to 5.3%) among those not receiving 
+QPT. After adjustment for patient characteristics and concomitant treatments, 
+QPT use was associated with a relative reduction of 50% in-hospital COVID-19 
+related mortality (hazard ratio, 0.50; 95% CI, 0.37 to 0.66 p < 0.001). This 
+association was consistent across subgroups by sex and age. Meanwhile, the 
+incidences of acute liver injury (8.9% [95% CI, 7.8% to 10.1%] vs. 9.9% [95% CI, 
+9.2% to 10.7%]; odds ratio, 0.96 [95% CI, 0.81% to 1.14%], p = 0.658) and acute 
+kidney injury (1.6% [95% CI, 1.2% to 2.2%] vs. 3.0% [95% CI, 2.6% to 3.5%]; odds 
+ratio, 0.85 [95% CI, 0.62 to 1.17], p = 0.318) were comparable between patients 
+receiving QPT and those not receiving QPT. The major study limitations included 
+that the study was an observational study based on real-world data rather than a 
+randomized control trial, and the quality of data could be affected by the 
+accuracy and completeness of medical records.
+CONCLUSIONS: QPT was associated with a substantially lower risk of in-hospital 
+mortality, without extra risk of acute liver injury or acute kidney injury among 
+patients hospitalized with COVID-19.

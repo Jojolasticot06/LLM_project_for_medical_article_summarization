@@ -1,0 +1,10 @@
+Effectiveness and safety of Bifidobacterium and berberine in human hyperglycemiaand their regulatory effect on the gut microbiota: a multi-center, double-blind, randomized, parallel-controlled study 
+
+1/Background: Berberine and Bifidobacterium have been reported to improve glucose tolerance in people with 
+hyperglycemia or other metabolic disorders. This study aimed to assess the hypoglycemic effect and the regulation of the gut microbiota caused by berberine and Bifidobacterium and the possible additive benefits of their combination. 
+
+2/Methods: This was an 18-week, multi-center, randomized, double-blind, parallel-controlled study of patients newly diagnosed with hyperglycemia. After a 2-week run-in period, 300 participants were randomly assigned to the following four groups for 16 weeks of treatment: berberine (Be), Bifidobacterium (Bi), berberine and Bifidobacterium (BB), and placebo group. The primary efficacy endpoint was the absolute value of fasting plasma glucose (FPG) compared with baseline after 16 weeks of treatment. 
+
+3/Results: Between October 2015 and April 2018, a total of 297 participants were included in the primary analysis. Significant reductions of FPG were observed in the Be and BB groups compared with the placebo group, with a least square (LS) mean difference of - 0.50, 95% CI [- 0.85, - 0.15] mmol/L, and - 0.55, 95% CI [- 0.91, - 0.20] mmol/L, respectively. The Be and BB groups also showed significant reductions in 2-h postprandial plasma glucose. A pronounced decrease in HbA1c occurred in the BB group compared to the placebo group. Moreover, compared with the Bi and placebo groups, the Be and BB groups had more changes in the gut microbiota from the baseline. 
+
+4/Conclusions: Berberine could regulate the structure and function of the human gut microbiota, and Bifidobacterium has the potential to enhance the hypoglycemic effect of berberine. These findings provide new insights into the hypoglycemic potential of berberine and Bifidobacterium. 

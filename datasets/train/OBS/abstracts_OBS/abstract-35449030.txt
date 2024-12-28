@@ -1,0 +1,32 @@
+BACKGROUND: Breast milk is a vehicle to transfer protective antibodies from the 
+lactating mother to the neonate. After SARS-CoV-2 infection, virus-specific IgA 
+and IgG have been identified in breast milk, however, there are limited data on 
+the impact of different COVID-19 vaccine types in lactating women. This study is 
+aimed to evaluate the time course of induction of SARS-CoV-2-specific IgA and 
+IgG in breast milk after vaccination.
+METHODS: In this prospective observational study in Spain, 86 lactating women 
+from priority groups receiving the vaccination against SARS-CoV-2 were included. 
+Breast milk samples were collected longitudinally at seven or eight-time points 
+(depending on vaccine type). A group with confirmed SARS-CoV-2 infection (n=19) 
+and a group of women from pre-pandemic time (n=20) were included for comparison.
+RESULTS: Eighty-six vaccinated lactating women [mean age, 34.6 ± 3.7 years] of 
+whom 96% were Caucasian and 92% were healthcare workers. A total number of 582 
+milk samples were included, and vaccine distribution was BioNTech/Pfizer 
+(BNT162b2, n=34), Moderna (mRNA-1273, n=20), and AstraZeneca (ChAdOx1 nCoV-19, 
+n=32). For each vaccine, 7 and 8 longitudinal time points were collected from 
+baseline up to 30 days after the second dose for mRNA vaccines and 
+adenovirus-vectored vaccines, respectively. A strong reactivity was observed for 
+IgG and IgA after vaccination mainly after the 2nd dose. The presence and 
+persistence of specific SARS-CoV-2 antibodies in breast milk were dependent on 
+the vaccine type, with higher IgG and IgA levels in mRNA-based vaccines when 
+compared to AstraZeneca, and on previous virus exposure. High intra- and 
+inter-variability were observed, being relevant for IgA antibodies. In milk from 
+vaccinated women, anti-SARS-CoV-2 IgG was significantly higher while IgA levels 
+were lower than in milk from COVID-19-infected women. Women with previous 
+COVID-19 increased their IgG antibodies levels after the first dose to a similar 
+level observed in vaccinated women after the second dose.
+CONCLUSIONS: COVID-19 vaccination induced anti-SARS-CoV-2 IgA and IgG in breast 
+milk with higher levels after the 2nd dose. Levels of anti-SARS-CoV-2 IgA and 
+IgG are dependent on the vaccine type. Further studies are warranted to 
+demonstrate the protective antibody effect against COVID-19 in infants from 
+vaccinated and infected mothers.

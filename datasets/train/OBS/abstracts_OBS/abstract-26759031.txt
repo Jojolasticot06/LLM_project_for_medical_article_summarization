@@ -1,0 +1,27 @@
+BACKGROUND: Bacterial whole-genome sequencing (WGS) has the potential to 
+identify reservoirs of multidrug-resistant organisms and transmission of these 
+pathogens across healthcare networks. We used WGS to define transmission of 
+vancomycin-resistant enterococci (VRE) within a long-term care facility (LTCF), 
+and between this and an acute hospital in the United Kingdom (UK).
+METHODS: A longitudinal prospective observational study of faecal VRE carriage 
+was conducted in a LTCF in Cambridge, UK. Stool samples were collected at 
+recruitment, and then repeatedly until the end of the study period, discharge or 
+death. Selective culture media were used to isolate VRE, which were subsequently 
+sequenced and analysed. We also analysed the genomes of 45 Enterococcus faecium 
+bloodstream isolates collected at Cambridge University Hospitals NHS Foundation 
+Trust (CUH).
+RESULTS: Forty-five residents were recruited during a 6-month period in 2014, 
+and 693 stools were collected at a frequency of at least 1 week apart. Fifty-one 
+stool samples from 3/45 participants (7 %) were positive for 
+vancomycin-resistant E. faecium. Two residents carried multiple VRE lineages, 
+and one carried a single VRE lineage. Genome analyses based on single nucleotide 
+polymorphisms (SNPs) in the core genome indicated that VRE carried by each of 
+the three residents were unrelated. Participants had extensive contact with the 
+local healthcare network. We found that VRE genomes from LTCF residents and 
+hospital-associated bloodstream infection were interspersed throughout the 
+phylogenetic tree, with several instances of closely related VRE strains from 
+the two settings.
+CONCLUSIONS: A proportion of LTCF residents are long-term carriers of VRE. 
+Evidence for genetic relatedness between these and VRE associated with 
+bloodstream infection in a nearby acute NHS Trust indicate a shared bacterial 
+population.

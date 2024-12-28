@@ -1,0 +1,11 @@
+Low-volume high-intensity interval training vs continuous aerobic cycling in patients with chronic heart failure: a pragmatic randomised clinical trial of feasibility and effectiveness.
+
+1/OBJECTIVES: The health benefits of high-intensity interval training in cardiac rehabilitation warrant further research. We compared the effectiveness of low-volume high-intensity interval training vs continuous aerobic exercise training in chronic heart failure.
+
+2/DESIGN/SETTINGS: Unblinded, two arm parallel design with random assignment to exercise interventions in out-patient hospital rehabilitation gym.
+METHODS: Patients with signs of chronic heart failure and ejection fraction < 45%, (mean age: 59.1 years (standard deviation (SD) 8.6); 3 women) completed 6 months of exercise using continuous aerobic exercise training (n = 9) or high-intensity interval training (n = 8). Cardiorespiratory fitness was 
+determined during cycle ergometry using respiratory gas exchange analysis. Functional capacity was assessed via sit-to-stand and gait speed. Quality of life was assessed using the MOS Short-Form 36 and Minnesota living with heart failure questionnaires. Cardiac autonomic regulation was assessed using Heart Rate Variability.
+
+3/RESULTS: Analysis of Covariance revealed significant time effects but no group × time interactions for exercise and functional capacity outcomes. Peak oxygen uptake (VO2peak) improved by a mean of 14.9% (SD 16.3%) from baseline and by 22% (SD 28.3) at ventilatory threshold in both groups. Sit-to-stand (11.9 (SD 11%)) and gait speed (16.0 (SD 19%)) improved similarly in both groups. No changes in quality of life or heart rate variability were noted. Training adaptations in high-intensity interval training were achieved despite a significantly reduced time commitment and total work volume compared to continuous aerobic exercise training.
+
+4/CONCLUSION: Low-volume high-intensity interval training is a feasible and well tolerated training modality in cardiac rehabilitation settings, but is not more effective than continuous aerobic exercise training.

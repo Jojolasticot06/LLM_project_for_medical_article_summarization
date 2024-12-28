@@ -1,0 +1,12 @@
+Astegolimab or Efmarodocokin Alfa in Patients With Severe COVID-19 Pneumonia: A Randomized, Phase 2 Trial
+
+1/Objectives: Severe cases of COVID-19 pneumonia can lead to acute respiratory distress syndrome (ARDS). Release of interleukin (IL)-33, an epithelial-derived alarmin, and IL-33/ST2 pathway activation are linked with ARDS development in other viral infections. IL-22, a cytokine that modulates innate immunity through multiple regenerative and protective mechanisms in lung epithelial cells, is reduced in patients with ARDS. This study aimed to evaluate safety and efficacy of astegolimab, a human immunoglobulin G2 monoclonal antibody that selectively inhibits the IL-33 receptor, ST2, or efmarodocokin alfa, a human IL-22 fusion protein that activates IL-22 signaling, for treatment of severe COVID-19 pneumonia.
+
+2/Design: Phase 2, double-blind, placebo-controlled study (COVID-astegolimab-IL).
+Setting: Hospitals.
+Patients: Hospitalized adults with severe COVID-19 pneumonia.
+Interventions: Patients were randomized to receive IV astegolimab, efmarodocokin alfa, or placebo, plus standard of care. The primary endpoint was time to recovery, defined as time to a score of 1 or 2 on a 7-category ordinal scale by day 28.
+
+3/Measurements and main results: The study randomized 396 patients. Median time to recovery was 11 days (hazard ratio [HR], 1.01 d; p = 0.93) and 10 days (HR, 1.15 d; p = 0.38) for astegolimab and efmarodocokin alfa, respectively, versus 10 days for placebo. Key secondary endpoints (improved recovery, mortality, or prevention of worsening) showed no treatment benefits. No new safety signals were observed and adverse events were similar across treatment arms. Biomarkers demonstrated that both drugs were pharmacologically active.
+
+4/Conclusions: Treatment with astegolimab or efmarodocokin alfa did not improve time to recovery in patients with severe COVID-19 pneumonia.

@@ -1,0 +1,24 @@
+A randomized, controlled trial of everolimus-based dual immunosuppression versus 
+standard of care in de novo kidney transplant recipients.
+
+1/Kidney transplant recipients receiving calcineurin inhibitor-based 
+immunosuppression incur increased long-term risks of cancer and kidney fibrosis. 
+Switch to mammalian target of rapamycin (mTOR) inhibitors may reduce these 
+risks. 
+Steroid or Cyclosporin Removal After Transplant using Everolimus 
+(SOCRATES), a 36-month, prospective, multinational, open-label, randomized 
+controlled trial for de novo kidney transplant recipients, assessed whether 
+everolimus switch could enable elimination of mycophenolate plus either steroids 
+or CNI without compromising efficacy. 
+
+2/Patients received cyclosporin, 
+mycophenolate and steroids for the first 14 days then everolimus with 
+mycophenolate and CNIwithdrawal (CNI-WD); everolimus with mycophenolate and 
+steroid withdrawal (steroid-WD); or cyclosporin, mycophenolate and steroids 
+(control). 126 patients were randomized. The steroid WD arm was terminated 
+prematurely because of excess discontinuations. 
+
+3/Mean eGFR at month 12 for CNI-WD versus control was 65.1 ml/min/1.73 m2 vs. 67.1 ml/min/1.73 m2 by ITT, which met predefined noninferiority criteria (P=0.026). The CNI-WD group experienced a higher rate of BPAR(31% vs. control 13%, P=0.048) and showed a trend towards higher composite treatment failure (BPAR, graft loss, death, loss to follow-up). 
+
+4/The 12 month results from SOCRATES show noninferiority in eGFR, but a significant excess of acute rejection when everolimus was commenced at week 2 to enable a progressive withdrawal of mycophenolate and cyclosporin in kidney 
+transplant recipients.

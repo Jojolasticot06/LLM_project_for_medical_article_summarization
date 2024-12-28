@@ -1,0 +1,89 @@
+Outcome of SARS CoV-2 inpatients treated with convalescent plasma: One-year of data from the Veneto region (Italy) Registry
+1. Introduction
+Convalescent plasma (CP) has been used worldwide to counteract the Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2)[1]. Since April 2020, it has also been utilised in the treatment of patients with COVID-19 in the Veneto region (Italy), along with all the other available drugs and therapeutic tools[2].
+
+Immunoprophylaxis by using specific human immunoglobulins has been around a long time and is still an effective treatment for the post-exposure prophylaxis of several viral infections, including measles, hepatitis and rabies[3]. In recent times, therapeutic use of CP has been reassessed during the SARS epidemic in 2002–2003 and in the Ebola epidemic in 2014–2016 in West Africa. In fact, during these outbreaks caused by severe but relatively restrained viral infections, speeding up any therapeutic strategy including CP treatment has been crucial, since immunoprophylaxis or other drugs of established effectiveness were not available[4]. Protocols of treatment with CP, despite their limited and often anedoctical applications, have been shown to be as a promising therapeutic tool[5].
+
+Recently, treatment with CP in patients with SARS-CoV-2 has been associated with results that do not allow to give a definitive answer on efficacy[6], even though the overall safety of CP has been confirmed[7], as it is in line with the daily transfusion practice of fresh frozen plasma administration[8].
+
+The rationale behind the use of CP obtained from recovered COVID-19 patients (CCP) consists in its content of neutralizing antibodies, which can prevent the SARS-CoV-2 from entering target cells, as reported by the Chinese researchers who first encountered this new virus[9].
+
+During the SARS-CoV-2 pandemic, preliminary results from several therapeutic options have raised hopes that subsequent clinical experiences have revealed to be wrong[10]. Moreover, concerning the CCP efficacy, the lack of univocal evidence is probably due to the variety of experimental designs reported in the literature, and even today it is not certain whether it could still give a relevant contribution to the treatment of COVID-19 (Table 1 )[11], [12], [13], [14], [15], [16], [17], [18]. A randomized controlled trial has been also conducted on 487 patients in Italy, named TSUNAMI Study (TranSfUsion of coNvalescent plAsma for the treatment of severe pneuMonIa due to SARS-CoV-2), under the patronage of the Italian Medicine Agency (AIFA) and the Italian National Institute of Health (ISS), whose definitive results are not yet published. However, it has been anticipated no prominent advantages in CCP, in terms of reduced risk of respiratory worsening or death within the first 30 days. Only in patients with less severe respiratory involvement, a favourable effect of CCP has been observed, although in absence of statistical evidence[19]. These results, however, seem to indicate need for further studies to determine the real therapeutic role of CCP in patients with mild to moderate disease, especially at the onset of infection.
+In the present study the one-year (April 2020 - April 2021) results of the use of CCP in the Veneto region (Italy), namely in a territory with 4900,000 inhabitants, are reported. In fact, CCP, as well as other therapeutic tools, has been made available according to clear-cut clinical criteria, in all hospitals of the Veneto region. The large-scale use of CCP has made possible owing to the establishment of the CCP Blood Bank promoted by the Regional Government[2].
+
+
+2. Patients and methods
+Adult inpatients with a severe form of COVID-19 have been enrolled, with at least one of the following inclusion criteria: 1) tachypnea with respiratory rate (RR) > 30 breaths/min; 2) oxygen saturation (SpO2) = 93% at rest and in room air; 3) partial pressure of oxygen (PaO2)/fraction of inspired oxygen (FiO2) = 200 mmHg, 4) radiological picture and/or chest CT scan showing signs of interstitial disease and/or rapid progression of lung involvement.
+
+In addition to demographic data and associated drug therapy, patients’ comorbidities (obesity, arterial hypertension, cardiovascular diseases, chronic kidney disease, dyslipidemia, diabetes mellitus, chronic lung disease and cancer), has been also considered. Life-threatening disease has been defined according to Liu et al. [20]., namely respiratory failure requiring mechanical ventilation; shock or other organ failure (apart from lung) requiring Intensive Care Unit monitoring. The chest X-ray picture has been scored from 1 to 4 as follows: 1) monolateral pneumonia; 2) bilateral pneumonia; 3) ground-glass opacities; 4) pulmonary consolidations.
+
+As an outcome measure, overall mortality at 30 days after hospitalization has been considered the primary end point. Moreover, patient discharge from hospital has been also assessed as a secondary outcome.
+
+CCP units have been obtained from previously infected subjects with COVID-19 who had recovered and eliminated the virus, as has been defined by the Veneto region procedure entitled Novel Coronavirus (SARS-CoV-2, Rev. 02 of date 6.03.2020), which in turn referred to the document issued by the National Health Council on 28.02.202021. CCP donors have been enrolled on a voluntary basis and had to meet all standard plasma donation requirements as provided by the Italian current laws, with the exception of a previous diagnosis of SARS-CoV-2 infection.
+
+A plasma donation by apheresis using the blood cell separator AURORA (Fresenius Kabi, Italy, srl) has been performed, collecting about 600 mL of CCP (excluding ACD-A as anticoagulant agent) at each donation. A maximum of three apheresis donation sessions were allowed in subjects with a particularly high anti-SARS-CoV-2 antibody titre. Each CCP donation has been subsequently divided into three about 200 mL units, each of which constituting a therapeutic fraction (TF).
+
+As previously described[2], all CCP collected units have been tested for determination and titration of anti-SARS-CoV-2 neutralizing antibodies by a microneutralization assay. Neutralizing antibody levels have been also determined at the first visit, and donors with a titre of = 1:80 have been admitted to the CCP donation. Alternatively, the LIAISON® CLIA SARS-CoV-2 S1/S2 IgG (DiaSorin SpA, Saluggia, Italy) system has been applied to check donor's eligibility (at least 80 AU/mL). All participating volunteers underwent a pre-donation suitability screening, according to the current Italian Law on blood collection and transfusion[21]. In addition to the mandatory tests, NAT-testing for HEV, HAV, parvovirus B19 and SARS-CoV-2 have been performed on all collected CCP units. As a further precaution, viral inactivation, by using the photoinactivation method following addition of amotosalen hydrochloride (Intercept-CERUS System, commercially promoted in Italy by Kedrion-Biopharma, Kedrion SpA, Castelvecchio Pascoli, Lucca, Italy) has been applied to all CCP units.
+
+All donors gave their consent after being thoroughly informed.
+
+Patients have received a maximum of three TFs with antibody titre of = 1:160, administered over a period of 3–5 days. If a TF with titre = 1:160 was unavailable, 2 TFs with antibody titre 1:80 have been administered.
+
+At the time of hospitalization, all patients have been informed of the possible treatment with CCP, the expected benefits and risks associated with this therapy, and gave their consent. All CCP related adverse events have been recorded.
+
+From 20 April 2020 to 20 April 2021, more than 2000 patients have been enrolled in 7 provinces of the Veneto region, but complete or partial clinical data have been available for 1517 of these patients, who formed the cohort of this study.
+
+A control group of all COVID-19 inpatients not treated with CCP in the Veneto region, in the same period of the study, has been obtained from data published by Azienda Zero[22].
+
+
+3. Statistical analysis
+Data are expressed as median values ± interquartile range (IQR) with minimum and maximum values reported in square bracket or as number or percentage of patients showing the parameter under investigation. Numeric data have been statistically analysed by the Mann-Whitney U test. Retrospective analyses have been assessed measuring the odds ratios (OR) with 95% confidence interval (95% CI), and the statistical significance have been assessed by the Chi-Square test with Yates's correction. Values of p < 0.05 have been considered statistically significant and highly significant if p<0.01. Statistical analyses have been performed by the STATISTICA 13.4 software (Tibco Software Inc., Palo Alto, CA 94,304, USA).
+
+
+4. Results
+As shown in Table 2 , our series included 1517 inpatients affected with COVID-19, 1053 males (69%) and 464 females (31%), with a median age of 66 years (range 20–100), all fulfilling at least one of the inclusion criteria. The most common of these was Rx/CT scan lung involvement (68%), followed by SpO2 (46%), PaO2/FiO2 = 200 mmHg (31%) and tachypnea with RR > 30 (18%). Among the most significant comorbidities, 55% of patients were affected with arterial hypertension, 27% with cardiovascular disease or dyslipidemia, 23% with obesity, 22% with diabetes mellitus, 14% with cancer, 13% with chronic lung disease and 10% with chronic kidney disease. Moreover, a life-threatening disease was recorded in 35% of patients, admission to Intensive Care Unit in 22%, high flow oxygen therapy/mechanical ventilation in 76% and a chest-X-ray score 4 (areas of consolidation) in 34%. Therapy with CCP was started on average on the third day of hospitalization, with a range from 0 to 50.
+Concurrent therapy were antibiotics and steroids in most patients (respectively 85% and 90%, unless specific contraindications), while antiviral drugs was administered in 436 patients (35%).
+
+Of the 1517 patients treated with CCP, 209 deceased at the 30-day follow-up (14%). As shown on Table 3 , death was significantly associated with an older age (73±16 vs 64±19 years, p<0.001), a longer time of hospitalization before CCP infusion (3 ± 5 vs 2 ± 2 days, p<0.001), a greater number of inclusion criteria (1 ± 2 vs 1 ± 1, p<0.001) and associated comorbidities (2 ± 3 vs 2 ± 2, p<0.001). In particular, conditions significantly associated with an increased frequency of death were PaO2/FiO2 = 200 (p<0.001) and tachypnea with RR>30 (p<0.05) at entry, concurrent arterial hypertension (p<0.001), cardiovascular disease (p<0.001), chronic kidney disease (p<0.001), dyslipidemia (p<0.05) and cancer (p<0.05). Moreover, factors leading to an unfavorable prognosis were a life-threatening disease (p<0,001), admission to Intensive Care Unit (p<0,001), high flow oxygen therapy or mechanical ventilation (p<0.05) and a chest X-ray score 4 (p<0.001). Risk factors for a poor prognosis are also highlighted in the Fig. 1 (early timing of CCP treatment), Fig. 2 (inclusion criteria), Fig. 3 (associated comorbidities) and Fig. 4 (clinical conditions).
+On Table 4 the secondary outcome (discharge from hospital) is shown, by differentiating discharged patients after 10 or 30 days from hospitalization. Factors significantly influencing late discharge were age (66±19 vs 60±20, p<0.001), number of associated comorbidities (2 ± 2 vs 1 ± 3, p<0.001), as well as some disease conditions, in particular a life-threatening disease (35% vs 10%, p<0.001), admission to Intensive Care Unit (26% vs 7%, p<0.001), and high flow oxygen therapy or mechanical ventilation (77% vs 67%, p<0.001)
+When consulting, after authorization, data published by Azienda Zero, mortality of 24.3% in all patients hospitalized in the Veneto region between February 2020 and June 2021 has been reported[22].
+
+By analysing the regional report of hospitalized patients, a comparison of mortality by age group, with respect to our series of patients treated with CCP, has been made.
+
+As shown on Table 5 , mortality was altogether lower in patients treated with CCP (14% v. 25%), in the group of the elderly patients (23% vs 40%,), with a strong significance (p<0.001).
+In the same way, mortality of inpatients treated with CCP and admitted to Intensive Care Units (ICUs) was nearly half of those not treated with CCP (20% vs 39%, p< 0.001). Moreover, mortality of inpatients not admitted to ICUs and treated with CCP was lower than those not treated (12% vs 20%, p<0.001)
+
+As regards the safety of CCP administration (Tab. VII), 16 adverse events were recorded out of a total of 3937 transfused TF (0,4%). Only in 2 cases of bronchospasm the CCP transfusion was stopped.
+
+
+5. Discussion
+Italy has been the first Western country to be affected by the SARS-CoV-2 pandemic, after its appearance in China in December 2019. Veneto has been the first region in Italy to adopt on a regional scale a project for the collection of CCP throughout its territory[2] and to consider the use of this blood-derived product as a potential treatment option, in addition to any other therapy, none unfortunately targeting such a new viral infection.
+
+Our experience considers patients belonging to the Veneto region CCP Registry treated for one year, from 2020, April 20th to 2021the 20th April.
+
+Moreover, it confirms some features associated with high disease severity, including male sex and frequent comorbidities, i.e., arterial hypertension, cardiovascular disease, dyslipidemia, diabetes mellitus, cancer and chronic lung disease.
+
+Of the 1517 patients treated with CCP, 209 deceased (14%). Besides higher age, presence of comorbidities including arterial hypertension, cardiovascular disease, chronic kidney disease, dyslipidemia, obesity and cancer resulted to be predictive of poor outcome, thus confirming the results of previous studies[23], [24], [25].
+
+Moreover, severity of lung involvement had a negative impact on recovery, in particular a chest X-ray showing consolidation areas, PaO2/FiO2 =200 and high flow oxygen therapy or mechanical ventilation[26].
+
+Regarding the early treatment of patients, it should be noticed that, by consulting patients’ medical records, most of them had been hospitalized after 4–8 days from onset of symptoms. After all, it was a general indication to try keeping at home patients for as long as possible, to avoid overloading hospitals. Therefore, it is not always certain to define early treatment as that carried out soon after hospitalization.
+
+However, lower mortality in patients treated within 3 days from hospital admission, namely an early therapy with CCP, confirms what has already been stated by other authors[27]. After all, the greater efficacy of CP when administered in the early stages of pneumonia was already evident more than a hundred years ago, when it was used during the Spanish influenza pandemic[28].
+
+While not offering new informations in the relevant literature (Table 1), our results are based on a large series of patients treated with CCP in a homogeneous geographical area (Veneto region), selected according to strictly defined inclusion criteria and clinical severity, showing an overall mortality rate of 14%.
+
+Being a retrospective Registry study and not having a control group, the only possible comparison has been made with the Veneto region overall data, showed on Tables 5 and ?and6 .6 . Table 7
+It has to be emphasized that no substantial difference in the patients treated with CCP in the age categories up to 75 years has been observed, while it became really relevant, in terms of reducing mortality in the older age group (> 75 years), thus confirming what was recently summarized by Garraud et al.[29]. A possible interpretation of this result could lie in the fact that older patients, often characterized by several comorbidities and impaired immune surveillance[30,31], a support by CCP containing neutralizing anti-Sars-CoV-2 antibodies could contribute to favourably modify the disease course.
+
+Moreover, according to the Veneto region report, overall mortality in patients admitted to Intensive Care Units has been of 39%, while patients treated with CCP have shown nearly half mortality (20%) with a highly significant difference.
+
+All these data suggest that the administration of CCP had contributed to reducing mortality for severe COVID-19 in the Veneto region, in keeping with the results of two recent meta-analysis[32,33].
+
+Undoubtedly, the main limit of our study is the absence of a randomized control group, namely an experimental design that is always difficult to set up when an emergency like the COVID-19 pandemic occurs. As already pointed out, in an attempt to overcome this limit, it has been decided, according to the Veneto region Health Authority, to carry out a data collection from a large series of patients with severe COVID-19 admitted to CCP therapy with well-defined inclusion criteria.
+
+
+6. Conclusions
+Before any efficacy analysis, our results have confirmed that treatment of severe COVID-19 patients is very safe, in accordance with other reports[34,35].
+
+Our results have shown that in subjects with severe COVID-19 early treatment with CCP might contribute to a favourable outcome, with a reduced mortality, in particular in aged patients, representing a population at high risk of death. We are aware that the treatment we defined as “early” may not correspond to the real duration of the disease, as several patients had been hospitalized after several days of symptomatic illness. However, for the COVID-19 inpatients fulfilling the inclusion criteria as defined in this study, treatment with CCP should not be delayed, to offer the most satisfactory results.

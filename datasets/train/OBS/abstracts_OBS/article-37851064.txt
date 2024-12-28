@@ -1,0 +1,930 @@
+Introduction 
+
+Sepsis is a life-threatening organ dysfunction caused by a 
+dysregulated host response to an infection [1]. The global 
+burden of sepsis is estimated to be 49 million cases annually 
+[2] of which half require intensive care unit (ICU) 
+treatment [3]. Sepsis accounts for more than 11 million 
+deaths [4], and significant long-term morbidity amongst 
+survivors [5]. Despite progress in the understanding of 
+
+sepsis pathophysiology, no specific treatment has proven 
+successful [6, 7]. Amid calls for precision therapy, a 
+greater understanding of the heterogeneity of sepsis is 
+needed and a focus of clinicians, trialists, and funders [6, 
+8–10]. 
+
+Recent approaches to measure sepsis heterogeneity 
+used unsupervised computational methods on clinical, 
+biomarker or gene expression data from observational 
+studies or clinical trial datasets. Examples include subtypes 
+from the Sepsis Endotyping in Emergency Care 
+(SENECA) study [11], acute respiratory distress syndrome 
+(ARDS) subphenotypes from the ARDSnet randomized 
+trials [12, 13], and Molecular Diagnosis and Risk 
+Stratification of Sepsis (MARS) and sepsis response signatures 
+(SRS) endotypes based on transcriptomic data 
+of whole blood leucocytes [14, 15]. At present, more 
+than 100 sepsis subtypes are proposed, without awareness 
+of overlap (or clinical implications), partly caused 
+by the lack of data in a single cohort to compute each of 
+the subtypes [16]. It is unknown whether each new subtype 
+strategy is of added value for the patient or merely 
+‘reinventing the wheel’, by being comparable to already 
+existing subtypes. This is essential information to inform 
+predictive enrichment in future trials [10]. 
+
+To address this knowledge gap, we sought to determine 
+the concordance (i.e., agreement) between different subtype 
+labels, outcomes, and biologic pathways of critically 
+ill sepsis patients classified by previously proposed sepsis 
+subtyping methods. We hypothesized that subtype strategies 
+derived from different data sources signify unrelated 
+subtypes, due to the complex nature of sepsis and 
+fundamental differences between clinical, biomarker, and 
+transcriptomic data. However, we also hypothesized that 
+partial overlap will be present in the subtypes with most 
+unfavorable outcome, mainly driven by disease severity. 
+Moreover, we hypothesized that concordance was high 
+when subtypes were based on the same data source. 
+
+Methods 
+
+We used a prior systematic review [16] to identify candidate 
+subtype labels for critically ill sepsis patients (supplemental 
+Table E1). We chose four subtype strategies 
+shown to be reproducible, associated with differential 
+treatment effects in prior work [11, 17–20], and reflective 
+of multiple domains. These are a mainly clinical 
+based domain [11], a combination of clinical and biological 
+domains [21] and a transcriptomic domain [14, 
+15, 20]. To assign subtypes, we analyzed a previously 
+selected cohort from the MARS study making use of 
+clinical data, host response biomarkers, and transcriptomic 
+data from whole blood leukocytes, all collected 
+within 24 h after admission [14]. For each patient, a subtype 
+label was applied for each of the four strategies. See 
+
+Take-home message 
+This study explores the comparison of sepsis subtypes using clinical 
+and molecular techniques. It furthers the understanding of sepsis 
+heterogeneity revealing that subtypes are likely to represent complimentary 
+pathways to precision medicine approaches in sepsis. 
+
+online supplementary methods for information on host 
+response biomarker measurements and blood leukocyte 
+gene expression analysis. 
+
+Study design, patients, and definitions 
+
+The MARS cohort was a prospective observational study 
+in the mixed ICUs of two tertiary teaching hospitals 
+(Academic Medical Center in Amsterdam and University 
+Medical Center in Utrecht) [14]. Consecutive patients 
+above 18 years of age with an expected length of stay 
+longer than 24 h admitted between January 2011 and January 
+2014 were included via an opt-out method approved 
+by the medical ethical committees of the participating 
+hospitals [14]. We analyzed a previously defined cohort 
+of patients fulfilling Sepsis-2 (and Sepsis-3) criteria at 
+ICU admission in whom clinical, biomarker and transcriptomic 
+data was available making it possible to determine 
+at least 3 out of 4 subtypes. 
+
+Sepsis subtype adjudication 
+
+First, clinical characteristics were used to identify the 
+SENECA subtypes a, ß, ., and d using the SENECA 
+approach [11]. All clinical variables used for SENECA 
+subtype derivation in SENECA were identified in the 
+MARS cohort (supplemental Table E2). Then, subtypes 
+were adjudicated by calculating the Euclidean distance 
+from each patient to the centroid of each subtype from 
+the SENECA derivation cohort [11]. 
+
+To apply sepsis subtype labels based upon ARDS subphenotypes 
+(termed ARDS subtypes “hyperinflammatory” 
+and “hypoinflammatory”), we applied the 
+previously published parsimonious model using plasma 
+levels of bicarbonate, interleukin-8 (IL-8), and protein C 
+[21]. 
+
+To identify MARS and SRS subtypes, we used labels 
+developed from whole blood leukocyte RNA expression. 
+For MARS subtype adjudication, the original classification, 
+which used consensus clustering method in 
+the discovery cohort and a sepsis endotype classifier in 
+the validation cohort, was applied [14]. SRS 1 or 2 was 
+classified by applying the SepstratifieR method [22] using 
+a previously derived 7-gene signature [23], with default 
+parameters. For more information on subtype adjudication, 
+see online supplementary methods. 
+
+Statistical analysis 
+
+We analyzed multiple domains of the sepsis subtypes; 
+
+(i) reproducibility and clinical characteristics, (ii) concordance 
+of subtype membership, (iii) biologic pathways 
+of subtypes implicated through plasma protein 
+biomarkers and whole blood leukocyte gene expression 
+profiles, and (iv) development of subtype ensembles by 
+adjudicating multiple subtypes to a single patient and, 
+thus, creating subsets of patients. 
+First, the reproducibility and clinical characteristics 
+of subtypes compared to the original studies was 
+assessed. The overall distribution of the specific subtype, 
+clinical characteristics, and outcomes (e.g., inhospital 
+mortality) were measured. Second, to study 
+concordance between different subtype labels, proportions, 
+alluvial plots and Cramer’s V, corrected for bias, 
+were used. Cramer’s V is a measure of the strength 
+of association between different subtype labels and 
+was characterized as follows: 0–0.1 no association, 
+0.1–0.3 weak association, 0.3–0.5 moderate association, 
+and > 0.5 strong association [24]. Third, biological 
+domains of subtypes were described by plasma protein 
+biomarker concentration on admission. Furthermore, 
+whole blood leukocyte gene expression data were used 
+to determine differentially expressed genes and to identify 
+canonical signaling pathways in each subtype using 
+Reactome database (R software package, reactome. 
+db version 1.82) [25, 26]. Fourth, explorative analysis 
+of subsets of patients was performed by identifying 
+groups of patients with most subtype overlap, determined 
+by (1) association strength, (2) overlapping biological 
+pathways, and (3) = 
+10 patients. Each enriched 
+subset, called sepsis ensemble, was then compared as a 
+“new subtype of multiple subtypes”. 
+
+In all analyses, a Mann–Whitney U or a Kruskal– 
+Wallis test was used to analyze continuous nonparametric 
+data, presented as median and interquartile 
+ranges (IQR). Continuous parametric data, presented as 
+means ± 
+standard deviation (SD), were analyzed using a 
+Student’s t test or analysis of variance when appropriate. 
+Post hoc testing was performed using Dunn’s test 
+of multiple comparisons using rank sums for nonparametric 
+continuous data, a Tukey post hoc testing for 
+parametric continuous data and a Bonferroni correction 
+for categorical variables. Categorical data, presented 
+as numbers (percentages), were analyzed using 
+a chi-square test. All data were analyzed using R studio 
+built under R version 4.0.3 (R Core Team 2013, Vienna, 
+Austria). A P value < 0.05 was considered to be of statistical 
+significance. 
+
+Results 
+
+Patients 
+
+Among 8332 patients in the MARS study, 2499 patients 
+were admitted with sepsis and 522 patients had the possibility 
+to adjudicate at least 3 out of 4 subtypes. Mean 
+age was 61.2 years (SD 14.6), male sex was most common 
+(n= 
+297, 56.9%) and the median sequential organ 
+failure assessment (SOFA) score was 7 (IQR [5–9]) on 
+ICU admission. Patients were commonly mechanically 
+ventilated in the first 24 h of ICU admission (n= 
+421, 
+80.7%) and in-hospital mortality rate was 30.1% 
+(Table 1). Nearly half (n= 
+226, 43.3%) were admitted 
+with a pulmonary infection, while abdominal infections 
+were less common (n= 
+130, 25%). 
+
+Reproducibility and clinical characteristics of sepsis 
+subtypes 
+
+After SENECA subtype adjudication using the SENECA 
+approach in this critically ill cohort, 316 patients were 
+classified as . (60.5%), 188 as d (36%), 12 as ß (2.3%), and 
+6 as a (1.1%). The distribution of subtypes, especially a 
+and ß, was different from the original SENECA cohort 
+(supplemental Fig. 1). The patterns of clinical data and 
+host response were reproduced in the .- and d-type (supplemental 
+Table 3). For example, .-type patients had 
+higher markers of inflammation, with the highest C-reactive 
+protein (CRP) levels (169 mg/L [87–267], p= 
+0.007) 
+and core temperature (38.2 (1.1) °C, p= 
+0.001). d-type 
+patients had the most abnormal cardiovascular, liver 
+function and hemodynamic markers, and highest inhospital 
+mortality (n= 
+82 (43.6%), p< 0.001) compared to 
+other subtypes (supplemental Table 3). 
+
+For ARDS subtypes, more patients were adjudicated to 
+the hypoinflammatory subtype (59.9%) than to the hyperinflammatory 
+subtype (40.1%) (supplemental Table 4). 
+Patients classified as hyperinflammatory showed higher 
+SOFA scores (9 [7–11] vs 6 [4–8], p< 0.001) and higher 
+levels of CRP on admission (180 mg/mL [99–273] versus 
+138 mg/mL [62–234], p= 
+0.009). Markers reflective of 
+cardiovascular and hemodynamic aberrations were more 
+abnormal in the hyperinflammatory group with lower 
+bicarbonate, increased heartrate, increased serum lactate 
+and lower systolic blood pressure (supplemental Table 4, 
+p= 
+< 0.001–0.002). The hyperinflammatory subtype 
+showed increased mortality compared to hypoinflammatory 
+(37.5% vs 19.7%, p< 0.001). 
+
+Two transcriptomic labels were used to classify sep-
+sis patients using whole blood RNA expression profiles. 
+First, patients were adjudicated to the MARS subtypes, 
+identical to the original discovery and validation cohort 
+(supplemental Table 5, [14]). SRS subtypes yielded similar 
+distributions as the original derivation cohort (SRS1 
+45.6% vs 40.7%). Similar as previously reported and 
+
+Table 1 Baseline characteristics and outcomes of MARS Table 1 (continued) 
+
+patients admitted for sepsis 
+
+Total 
+Number of patients 522 
+Age, mean (SD) 
+
+Male, n (%) 
+
+Race, n (%) 
+
+White 
+
+Black 
+
+Other 
+
+Unknown 
+
+CCI, median [IQR] 
+
+Surgical admission, n (%) 
+
+Organ dysfunction on admission 
+
+Mechanical ventilation, No (%) 
+
+Shock, n (%) 
+
+APACHE IV, median [IQR] 
+
+SOFA score, median [IQR] 
+
+Inflammation 
+
+CRP, mg/L, median [IQR] 
+
+Temperature, mean (SD), °C 
+
+WBC, × 
+109/L, median [IQR] 
+
+Pulmonary 
+
+SpO2, %, median [IQR] 
+
+PaO2, mm Hg, mean (SD) 
+
+RR, breaths/min, mean (SD) 
+
+Cardiovascular or hemodynamic 
+
+Bicarbonate, mEq/L, mean (SD) 
+
+Heart rate, beats/min, mean (SD) 
+
+Lactate, mmol/L, median (IQR) 
+
+SBP, mm Hg, median [IQR] 
+
+Renal 
+
+BUN, mg/dL, median [IQR] 
+
+Creatinine, mg/dL, median [IQR] 
+
+Hepatic 
+
+ALAT, U/L, median [IQR] 
+
+ASAT, U/L, median [IQR] 
+
+Bilirubin, mg/dL, median [IQR] 
+
+Hematologic 
+
+Hemoglobin, g/dL, mean (SD) 
+
+INR, median [IQR] 
+
+Platelets, × 
+109/L, median [IQR] 
+
+Other 
+
+Albumin, g/dL, median [IQR] 
+
+Chloride, mEq/L, mean (SD) 
+
+Glucose, mg/dL, median [IQR] 
+
+Sodium, mEq/L, mean (SD) 
+
+GCS score, median [IQR] 
+
+Source of sepsis on admission 
+
+Lung (CAP/HAP/VAP) (%) 
+
+Abdominal (%) 
+
+61.2 (14.6) 
+
+297 (56.9) 
+
+449 (86) 
+
+34 (6.5) 
+
+15 (2.9) 
+
+24 (5.6) 
+
+1 [0–2] 
+
+143 (27.4) 
+
+421 (80.7) 
+
+181 (34.7) 
+
+80 [63–100] 
+
+7 [5–9] 
+
+153 [71–250] 
+
+38 (1.2) 
+
+14 [9–20] 
+
+98 [96–99] 
+
+74.3 (23) 
+
+35 (9) 
+
+20.2 (6) 
+
+131 (25) 
+
+2.7 [1.6–5] 
+
+80 [79–88] 
+
+28 [18–43] 
+
+1.3 [0.8–2] 
+
+38 [20–90] 
+
+53 [30–138] 
+
+0.8 [0.5–1.3] 
+
+9.5 (2.2) 
+
+1.9 [1.3–3.3] 
+
+180 [103–261] 
+
+2.2 [1.7–2.8] 
+
+112 (7) 
+
+181 [149–220] 
+
+140 (6) 
+
+15 [11–15] 
+
+226 (43.3) 
+
+130 (24.9) 
+
+Urinary tract (%) 49 (9.3) 
+Total 
+Number of patients 522 
+Skin (%) 30 (5.7) 
+Cardiovascular (%) 18 (3.4) 
+Central nervous system (%) 9 (1.7) 
+Other (%) 60 (11.5) 
+Outcome 
+
+ICU mortality, No (%) 95 (18.2) 
+
+In-hospital mortality, No. (%) 157 (30.1) 
+
+30-day mortality, No. (%) 130 (24.9) 
+
+Data are shown for the entire cohort. CCI Charlson comorbidity index, APACHE 
+Acute physiology and chronic health evaluation, SOFA sequential organ 
+failure assessment, CRP C-reactive protein, WBC white blood cell, SpO2 oxygen 
+saturation, PaO2 arterial oxygen pressure, RR respiratory rate, SBP systolic blood 
+pressure, BUN blood urea nitrogen, ALAT alanine transaminase, ASAT aspartate 
+aminotransferase, INR international normalized ratio, GCS Glasgow coma 
+scale, CAP/HAP/VAP Community/Hospital/Ventilation-acquired pneumonia, 
+ICU Intensive care unit. Other sources of sepsis includes: bone joint infection, 
+endocarditis, mediastinitis, myocarditis, ear infection, oral infection, pharyngitis, 
+post-operative wound infection and lung abscess 
+
+compared to SRS2, SOFA score was highest (8 [5–10] vs 7 
+[4–9], p= 
+0.002) and bicarbonate was lowest (18.7 mEq/L 
+
+(5.6) vs 21.5 mEq/L (6.1), p< 0.001) in SRS1. However, 
+there was no significant mortality difference between 
+the SRS subtypes in the MARS cohort (supplemental 
+Table 6). 
+Concordance between subtypes 
+
+There was no relationship between any of the subtyping 
+approaches (Fig. 1, supplemental Table 7–8). For example, 
+when comparing SENECA versus ARDS subtypes, 
+71.3% of .-type patients were classified as hypoinflammatory. 
+Meanwhile, of the d-type patients, 64% were 
+classified as hyperinflammatory resulting in a moderate 
+association between the SENECA and ARDS strategies 
+(Cramer’s V= 
+0.366). The clinical characteristics 
+of .-type were similar to those classified as hypoinflammatory, 
+as well as the 30-day mortality (supplemental 
+Figs. 2–3, supplemental Table 3–4). 
+
+When comparing SENECA vs. MARS and SRS labels, 
+d-type patients were mostly distributed amongst Mars1 
+and Mars2 patients and the majority of .-type patients 
+were classified as Mars2. This suggests a weak association 
+between the two approaches (Cramer’s V= 
+0.091). 
+The same weak association was true for the SRS subtype 
+labels (Cramer’s V= 
+0.086). Subsequently, clinical characteristics 
+classified by SENECA subtypes showed no clear 
+relation to clinical characteristics classified by MARS or 
+SRS subtypes (Table 1, supplemental Fig. 2, supplemental 
+Table 3, 5–6). Only d-type patients and Mars1 appeared 
+to have similar survival rates (supplemental Fig. 3). 
+
+Fig. 1 Distribution of SENECA, ARDS, MARS, or SRS subtypes across each other in the MARS cohort. Visualization of concordance between subtype 
+labels with alluvial plots in patients with sepsis in the MARS cohort 
+
+When comparing ARDS subtypes vs. MARS and SRS 
+subtypes, a moderate association between the strategies 
+was found (Fig. 1, Cramer’s V=0.351–0.382). The hypoinflammatory 
+patients were most comparable with Mars3 
+(36.9%) and/or SRS2 (69.5%), which agrees with the clinical 
+characteristics (Fig. 1 and supplemental Fig. 2). 
+
+When comparing MARS and SRS labels, almost all 
+Mars3 patients were classified as SRS2 (90.7%). However, 
+the remaining transcriptomic labels showed little concordance 
+resulting in a moderate association (Fig. 1, Cramer’s 
+V=0.456). 
+
+Relationship between subtyping strategies and plasma 
+protein biomarkers and immune cell gene expression 
+mechanistic pathway analysis 
+
+Among 466 patients with measured host response 
+biomarkers (89% of the cohort, Fig. 2, supplemental 
+
+Table 9–12), we observed that inflammation mark-
+ers were most elevated in d, hyperinflammatory, Mars2 
+and SRS1. However, the hyperinflammatory ARDS subtype 
+was significantly different from all other subtypes 
+(p< 0.01). In line with the distribution between subtypes, 
+the hypoinflammatory subtype was most similar 
+to .-type, Mars3 and SRS2 (p= 
+0.001–0.439). Coagulation 
+markers, including D-dimer and antithrombin, and 
+endothelial cell activation markers, including angiopoietin 
+and fractalkine, were most abnormal in d-type, hyperinflammatory, 
+Mars2, and SRS1, although almost all 
+subtypes showed similar concentrations. Overall, Mars2 
+and SRS1 were most comparable in biomarker levels 
+across all subtypes in all domains (p= 
+0.079–0.424). 
+
+There were substantial alterations in blood leukocyte 
+gene expression among all sepsis subtypes compared to 
+healthy controls. Yet, only few genes were specific within 
+
+MMP8 MMP8 
+5 
+
+IL-8 
+Protein C 
+ICAM-1 
+ANG-2 
+3 
+4 
+
+4 
+
+2 
+
+3 
+
+2
+
+1
+
+2 
+
+1 
+
+0 
+
+0 
+
+7.0 
+
+6.0 
+6.5 
+
+Subtype 
+
+5.5 
+
+ 
+ 
+
+6.0 
+
+5.5 
+
+5.0 
+
+ 
+
+5.0 
+
+ 
+
+4.5 
+
+4.5 
+
+Hyperinflammatory 
+Hypoinflammatory 
+
+6.0 
+
+5.5 
+
+Mars1 
+
+3 
+
+Mars2 
+
+5.0 
+
+Mars3 
+
+2 
+
+4.5 
+
+Mars4 
+
+4.0 
+
+1 
+
+SRS1 
+SRS2 
+
+3 
+
+5 
+
+2 
+
+4 
+
+1 
+
+0
+
+3 
+
+-1 
+
+2 
+
+Fig. 2 Host response biomarkers classified by sepsis subtype. Boxplots displaying biomarker concentrations (pg/ml), after log10 transformation. 
+Horizontal line is the median concentration of healthy volunteers (n= 
+25). Biomarkers are grouped by domain (Inflammation, Coagulation, and 
+Endothelial dysfunction). IL Interleukin, MMP matrix metalloproteinase, ICAM intercellular adhesion molecule, ANG angiopoietin 
+
+IL-6 
+0 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+eSelectin 
+3 
+4 
+5 
+2 
+3 
+4 
+D-Dimer 
+ANG-1 
+IL-10 
+Antithrombin 
+Fractalkine 
+ANG-2/ANG-1 
+each subtype label (supplemental Figs. 4, 5). When comparing 
+subtypes, d-type and Mars1 shared the most 
+unique genes (supplemental Figs. 6, 7). Pathway analysis 
+confirmed previously implicated mechanisms [14, 
+15]. For example, downregulation in major pathways in 
+the adaptive and innate immune system were observed 
+in Mars1 and SRS2 (Fig. 3), but also in the d-type and 
+hyperinflammatory subtype. Pathways involved in hemostasis 
+were mostly not significant, whereas metabolism 
+pathways were overexpressed and similar in the hyperinflammatory 
+and Mars2 subtypes. 
+
+Sepsis ensembles 
+
+In an exploratory analysis among 64 possible subtype 
+combinations, 17 ensembles contained at least 10 patients 
+(supplemental Fig. 8), with membership ranging from 
+10 to 65 patients (median 20, IQR 15). These ensembles 
+varied in characteristics and outcome, and were dependent 
+on the combination of subtyping approaches (Fig. 4, 
+
+supplemental Fig. 9). For example, hospital mortality 
+ranged from 8% to 46% as the Mars subtype changed 
+from Mars4 to Mars1, according to whether that patient 
+also belonged to .-type, hypoinflammatory and SRS1. 
+In another example, although not significantly, endothelial 
+markers and mortality decreased as the SRS subtype 
+changed in combination with d-type, hyperinflammatory 
+and Mars2, but not when combined with Mars1 (supplemental 
+Fig. 9). 
+
+Discussion 
+
+In this secondary analysis of the MARS prospective 
+cohort study, we describe a comparison of sepsis subtypes, 
+based on clinical, biomarker or transcriptomic 
+data in critically ill patients with sepsis. Subtypes could 
+be assigned successfully, but the distribution of the SENECA 
+subtypes and mortality in SRS subtypes was notably 
+different from the original cohorts. Concordance 
+between SENECA, ARDS, MARS and SRS subtypes 
+
+HyperinflammatoryHypoinflammatoryHyperinflammatoryHypoinflammatory
+Hemostasis 
+
+Cell surface interactions at the vascular wall 
+Formation of Fibrin Clot (Clotting Cascade) 
+Platelet activation, signaling and aggregation 
+Platelet homeostasis 
+
+Metabolism 
+
+Metabolism of carbohydrates 
+Metabolism of lipids 
+Metabolism of proteins 
+The citric acid (TCA) cycle and respiratory electron transport 
+
+
+BH adjusted P-value 
+
+Overexpressed Underexpressed 
+< 1x10-7 > 0.05 
+
+
+< 0.05 
+< 1x10-5 
+
+
+< 0.0025 
+< 0.0025 
+
+< 1x10-5 
+< 0.05 
+
+< 1x10-7 
+
+Adaptive Immune System 
+
+Butyrophilin (BTN) family interactions 
+Class I MHC mediated antigen processing & presentation 
+Costimulation by the CD28 family 
+Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell 
+MHC class II antigen presentation 
+Signaling by the B Cell Receptor (BCR) 
+TCR signaling 
+
+Innate Immune System 
+
+DDX58/IFIH1-mediated induction of interferon-alpha/beta 
+Fcgamma receptor (FCGR) dependent phagocytosis 
+Neutrophil degranulation 
+Toll-like Receptor Cascades 
+
+Cytokine Signaling in Immune system 
+
+Interferon Signaling 
+Signaling by Interleukins 
+TNFR2 non-canonical NF-kB pathway 
+
+Fig. 3 Blood transcriptional responses between subtypes for targeted pathways. Heatmaps showing the Benjamini–Hochberg adjusted P value 
+correcting for all existing Reactome database pathways, and direction using the Normalized Enrichment Score (red =+ 
+NES, blue =- NES). 
+Canonical signaling pathways were grouped into major pathways, indicated in bold 
+
+was moderate to low, concluding that a different set of 
+patients was identified in each subtype strategy. Host 
+response biomarkers and transcriptomic data showed the 
+most similarity between Mars2 and SRS1. When patients 
+were assigned multiple subtypes, this created subgroups 
+of patient with a broad variability in characteristics and 
+in-hospital mortality. 
+
+Compared to prior reports, SENECA subtypes of sepsis 
+were similar in their clinical characteristics [11]. However, 
+the distribution of the SENECA subtypes in this 
+critically ill population was different from those reported 
+in the original Emergency Department (ED) population. 
+For example, the rates of a and ß were < 10%, far lower 
+than 20–30% in broader study cohorts. Even though the 
+distribution of SENECA subtypes was dependent on case 
+mix differences, the clinical characteristics of the individual 
+SENECA subtype members were consistent with 
+prior work [11]. Notably, we found no clear relation-
+ship between the distribution of SENECA subtypes nor 
+clinical characteristics with any of the transcriptomic 
+subtypes. For example, we did not observe concordance 
+between d patients and Mars1, even though both 
+subtypes tend toward higher organ dysfunction and 
+greater mortality, which was not in line with our hypothesis. 
+However, host response biomarker aberrations were 
+most similar between .-type and Mars4, and to a lesser 
+extent between d-type and Mars2. This could be driven 
+in part by disease severity, as d-type and Mars2 had the 
+highest SOFA score. 
+
+The most overlap in the distribution of sepsis subtypes 
+was between subtype strategies derived from the same 
+data source (MARS and SRS subtypes). In addition, there 
+
+was also a moderate association between ARDS subtypes 
+and all other subtypes. In the absence of concordance 
+between clinical and molecular classifiers, it may be that 
+biomarkers form a key link between clinical and transcriptomic 
+approaches to subtyping sepsis. Furthermore, 
+biologic subtypes also show a difference in gene expression 
+profiles and prior work has shown that SENECA 
+subtypes are modifiable when new biomarker data is 
+added [27, 28]. Although there is no ground truth to subtype 
+labels or gold standard to compare, the inclusion of 
+biologic features such as plasma protein biomarkers may 
+be feasible, and unveil subtypes suitable for evaluation in 
+clinical trials [29]. 
+
+These findings suggest that multiple subtype strategies 
+reflect different, perhaps complimentary pieces to 
+the subtyping story. Similar work in traumatic injury 
+and oncology reveals that combinations of clinical, biomarker, 
+and transcriptomic subtypes will reveal important 
+ensembles, however small, that are prognostic or 
+predictive of treatment response and have added value 
+compared to a single subtype [30, 31]. As a proposed 
+solution to investigate the complimentary nature of the 
+subtypes, we explored sepsis subtype ensembles as combinations. 
+In our exploratory analysis and the examples 
+given, we show that combining subtypes seem to give a 
+more precise estimate of the outcome compared to a single 
+subtype. Nevertheless, there are many challenges with 
+this approach. First, this stratification approach requires 
+large sample sizes. Dividing the homogeneous subgroups 
+into more homogeneous subgroups will quickly lead 
+to loss of power and low-grade evidence if the sample 
+size is not adjusted. Second, feasibility of acquiring the 
+
+Group size 
+
+Group size (n) 
+
+Disease severity 
+
+Hospital mortality % (95% CI) 
+
+Clinical variables 
+
+CRP 
+Creatinin 
+Bilirubin 
+Lactate 
+PaO2 
+
+Plasma protein biomarkers
+
+2 
+1 
+0 
+-1 
+-2 
+
+Pathway analysis transcriptome 
+
+Overexpressed Underexpressed 
+
+< 1x10-7 > 0.05 < 0.05 
+< 1x10-5 < 0.0025 
+< 0.0025 < 1x10-5 
+< 0.05 < 1x10-7 
+
+Subset 
+
+G-D = .-. 
+E-O = Hyper-Hypoinflammatory 
+M1-4 = Mars1-4 
+S1-2 = SRS1-2 
+
+Fig. 4 Circular visualization of sepsis ensembles. Circle plot, where each section represents a patient subset of at least 10 patients. From in to out, 
+group size, hospital mortality, boxplot of clinical variables, heatmap of plasma protein biomarkers and a heatmap of pathway analysis of the transcriptome 
+are displayed. In the boxplot, the variables are scaled and the horizontal dotted line is 0. Each row in the heatmap represents a biomarker, 
+ordered and colored according to Fig. 2. The pathways are the 5 major pathways in Fig. 3 
+
+10 
+
+subtypes is important. Considering a bed-side approach, 
+it could be more realistic to identify SENECA subtypes 
+over ARDS or MARS and SRS subtypes, regarding the 
+time and effort that it costs. However, routinely available 
+clinical variables only indirectly reflect the underlying 
+injury process and biomarker data is essential in identifying 
+subtypes with heterogeneity of treatment effect 
+[32]. Third, as data layers increase, so does the need for 
+dimension reduction, to encounter overlap, duplicity and 
+overfitting. In this study, the .-type is, amongst others, 
+characterized by high clinical inflammatory markers such 
+as CRP and an upregulated immune system in the transcriptomic 
+data; however, host response inflammatory 
+biomarkers such as IL-6 and IL-8 are lower compared to 
+the d-type. This indicates a mismatch in the data relation-
+ship, creating a challenge in the integration of omics and 
+non-omics data. In the long run, the ultimate goal should 
+be the same for every method: to stratify patients into 
+
+more homogenous subsets with an identifiable and verifiable 
+treatable trait [33]. Taken together, the ensembles 
+explored here demonstrate feasibility of existing subtype 
+labels to jointly identify unique patients. It is unknown 
+though how these subsets will identify treatable traits. 
+
+This study has several limitations. First, SENECA subtypes 
+were applied using a reduced feature set compared 
+to the original work [11]. This limitation is previously 
+shown to have modest, if any, impact on classification 
+and subtype characteristics. Second, the prospective 
+enrollment of the MARS population occurred prior to 
+updated clinical practice guidelines and this analysis is 
+performed in a single cohort. This could limit generalizability. 
+Third, not all published sepsis subtypes were feasible 
+to include in this analysis. We selected four highly 
+cited approaches that reflected different features, analytic 
+methods, and were potentially linked to treatment. 
+Fourth, this result may not apply to low-income and 
+
+middle-income countries or patients cared for in non-
+ICU settings. 
+
+Conclusion 
+
+Among critically ill patients with sepsis, subtype strategies 
+using clinical, biomarker, and transcriptomic data 
+do not identify comparable patient populations and are 
+likely to reflect disparate clinical characteristics and 
+underlying biology.

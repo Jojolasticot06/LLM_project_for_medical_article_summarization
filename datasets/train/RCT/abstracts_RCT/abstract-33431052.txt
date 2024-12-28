@@ -1,0 +1,25 @@
+High-dose saccharin supplementation does not induce gut microbiota changes or glucose intolerance in healthy humans and mice 
+
+1/Background: Non-caloric artificial sweeteners (NCAS) are widely used as a substitute for dietary sugars to control 
+body weight or glycemia. Paradoxically, some interventional studies in humans and rodents have shown 
+unfavorable changes in glucose homeostasis in response to NCAS consumption. The causative mechanisms are 
+largely unknown, but adverse changes in gut microbiota have been proposed to mediate these effects. These 
+findings have raised concerns about NCAS safety and called into question their broad use, but further physiological 
+and dietary considerations must be first addressed before these results are generalized. We also reasoned that, since 
+NCAS are bona fide ligands for sweet taste receptors (STRs) expressed in the intestine, some metabolic effects 
+associated with NCAS use could be attributed to a common mechanism involving the host. 
+
+2/3/Results: We conducted a double-blind, placebo-controlled, parallel arm study exploring the effects of pure 
+saccharin compound on gut microbiota and glucose tolerance in healthy men and women. Participants were 
+randomized to placebo, saccharin, lactisole (STR inhibitor), or saccharin with lactisole administered in capsules twice 
+daily to achieve the maximum acceptable daily intake for 2 weeks. In parallel, we performed a 10-week study 
+administering pure saccharin at a high dose in the drinking water of chow-fed mice with genetic ablation of STRs 
+(T1R2-KO) and wild-type (WT) littermate controls. In humans and mice, none of the interventions affected glucose 
+or hormonal responses to an oral glucose tolerance test (OGTT) or glucose absorption in mice. Similarly, pure 
+saccharin supplementation did not alter microbial diversity or composition at any taxonomic level in humans and 
+mice alike. No treatment effects were also noted in readouts of microbial activity such as fecal metabolites or shortchain 
+fatty acids (SCFA). However, compared to WT, T1R2-KO mice were protected from age-dependent increases 
+in fecal SCFA and the development of glucose intolerance. 
+
+4/Conclusions: Short-term saccharin consumption at maximum acceptable levels is not sufficient to alter gut 
+microbiota or induce glucose intolerance in apparently healthy humans and mice. 

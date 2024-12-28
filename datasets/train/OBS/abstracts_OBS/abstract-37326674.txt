@@ -1,0 +1,22 @@
+1/ This observational study aimed to determine whether individuals with 
+fibromyalgia (FM) exhibit higher levels of neuroinflammation than healthy 
+controls (HCs), as measured with positron emission tomography using [ 18 
+F]DPA-714, a second-generation radioligand for the translocator protein (TSPO). 
+2/ Fifteen women with FM and 10 HCs underwent neuroimaging. Distribution volume (V 
+T ) was calculated for in 28 regions of interest (ROIs) using Logan graphical 
+analysis and compared between groups using multiple linear regressions. 
+3/ Group (FM vs HC) was the main predictor of interest and TSPO binding status (high- vs 
+mixed-affinity) was added as a covariate. The FM group had higher V T in the 
+right postcentral gyrus ( b = 0.477, P = 0.033), right occipital gray matter 
+(GM; b = 0.438, P = 0.039), and the right temporal GM ( b = 0.466, P = 0.042). 
+The FM group also had lower V T than HCs in the left isthmus of the cingulate 
+gyrus ( b = -0.553, P = 0.014). In the subgroup of high-affinity binders, the FM 
+group had higher V T in the bilateral precuneus, postcentral gyrus, parietal GM, 
+occipital GM, and supramarginal gyrus. Group differences in the right parietal 
+GM were associated with decreased quality of life, higher pain severity and 
+interference, and cognitive problems. 
+4/ In support of our hypothesis, we found increased radioligand binding (V T ) in the FM group compared with HCs in 
+several brain regions regardless of participants' TSPO binding status. The ROIs 
+overlapped with prior reports of increased TSPO binding in FM. Overall, 
+increasing evidence supports the hypothesis that FM involves microglia-mediated 
+neuroinflammation in the brain.

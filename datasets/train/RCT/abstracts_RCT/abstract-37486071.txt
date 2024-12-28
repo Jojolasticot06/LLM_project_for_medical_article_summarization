@@ -1,0 +1,20 @@
+BACKGROUND: Only two-thirds of patients admitted to psychiatric wards return to 
+their previous jobs. Return-to-work interventions in Germany are investigated 
+for their effectiveness, but information regarding cost-effectiveness is 
+lacking. This study investigates the cost-utility of a return-to-work 
+intervention for patients with mental disorders compared to treatment as usual 
+(TAU).
+METHODS: We used data from a cluster-randomised controlled trial including 166 
+patients from 28 inpatient psychiatric wards providing data at 6- and 12-month 
+follow-ups. Health and social care service use was measured with the Client 
+Sociodemographic and Service Receipt Inventory. Quality of life was measured 
+with the EQ-5D-3L questionnaire. Cost-utility analysis was performed by 
+calculating additional costs per one additional QALY (Quality-Adjusted Life 
+Years) gained by receiving the support of return-to-work experts, in comparison 
+to TAU.
+RESULTS: No significant cost or QALY difference between the intervention and 
+control groups has been detected. The return-to-work intervention cannot be 
+identified as cost-effective in comparison to TAU.
+CONCLUSIONS: The employment of return-to-work experts could not reach the 
+threshold of providing good value for money. TAU, therefore, seems to be 
+sufficient support for the target group.

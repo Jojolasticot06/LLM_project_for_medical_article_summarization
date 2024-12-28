@@ -1,0 +1,33 @@
+Context: Representativeness of 'standard' antihypertensive drug trials is 
+uncertain, with limited recruitment of older people. Some trials specifically 
+recruit older participants to address this. Trials are obliged to report 
+hospitalizations and deaths, regardless of cause, as Serious Adverse Events 
+(SAEs). If older-people's trials are representative, we would expect rates of 
+SAEs in trials to be similar to the rate of hospitalisation and death in the 
+community, and higher than standard trials. Objective: To compare the rate of 
+SAEs in hypertension trials to rates of hospitalisation and death among people 
+taking similar treatments in the community. Study Design: Observational study 
+comparing trial populations to a community cohort. Dataset: We identified trials 
+of Renin-Angiotensin-Aldosterone system (RAAS) drugs for hypertension from 
+clinicatrials.gov. We identified a community comparison population of people 
+with hypertension starting RAAS drugs using primary care data from the Wales, UK 
+(SAIL databank). Population studied: Trial participants from 110 RAAS 
+hypertension trials (11 older-people's trials, mean age 73, and 99 standard 
+trials, mean age 56). Community cohort of people with hypertension (n=56,036, 
+mean age 60) starting RAAS drugs. Outcomes: SAEs in trials (mostly accounted for 
+by hospitalizations or deaths) and all-cause hospitalizations/deaths in the 
+community comparison. SAE rates in older-people and standard trials were 
+compared, adjusting for trial characteristics. The community rate was used to 
+calculate the expected rate of hospitalizations/deaths given the age/sex 
+distribution of each trial. We then compared the expected rate with the observed 
+rate of SAEs in each trial. Results: Older-people's trials had higher SAEs rate 
+than standard trials (0.18 versus 0.11 events/person/year, adjusted IRR 1.74, 
+95% CI 1.03-2.92). The hospitalisation and death rate in the community for those 
+taking RAAS antihypertensives was much greater than the rate of SAEs reported in 
+standard (ratio 3.70 (3.12-4.55)) and older-people's trials (4.35 (2.56-7.69)), 
+adjusting for age and sex. Conclusion: Trials report substantially fewer SAEs 
+than expected from rates of hospitalisations and deaths among similar-aged 
+people receiving equivalent treatments in the community. SAE rates may be a 
+useful metric to assess trial representativeness. Clinicians should be cautious 
+when applying trial recommendations to older people, even when trials focus on 
+older people.

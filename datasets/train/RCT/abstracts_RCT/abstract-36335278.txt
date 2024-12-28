@@ -1,0 +1,31 @@
+Effects of Dexmedetomidine on Systemic Inflammation and Postoperative 
+Complications in Laparoscopic Pancreaticoduodenectomy: A Double-blind Randomized 
+Controlled Trial.
+
+1/BACKGROUND: Laparoscopic pancreaticoduodenectomy (LPD) may induce intense 
+inflammatory response which might be related to the patient's outcomes. Clinical 
+dexmedetomidine (DEX) has been widely used for opioid-sparing anesthesia and 
+satisfactory sedation. The objective of this study was to investigate the 
+influence of DEX on inflammatory response and postoperative complications in 
+LPD.
+
+2/METHODS: Ninety-nine patients undergoing LPD were randomly assigned to two 
+groups: normal saline (NS) and DEX. The primary outcome was the 
+neutrophil-to-lymphocyte ratio (NLR) differences postoperatively within 48 h. 
+Secondary outcomes were postoperative complications, the length of postoperative 
+hospital stay and the incidence of ICU admission. Other outcomes included 
+anesthetics consumption and intraoperative vital signs.
+
+3/RESULTS: NLR at postoperative day 2 to baseline ratio decreased significantly in 
+the DEX group (P = 0.032). Less major complications were observed in the DEX 
+group such as pancreatic fistula, delayed gastric emptying and intra-abdominal 
+infection (NS vs. DEX, 21.7% vs. 13.6%, P = 0.315; 10.9% vs. 2.3%, P = 0.226; 
+17.4% vs. 11.4%, P = 0.416, respectively) though there were no statistical 
+differences. Three patients were transferred to the ICU after surgery in the NS 
+group, while there was none in the DEX group (P = 0.242). The median 
+postoperative hospital stay between groups were similar (P = 0.313). Both 
+intraoperative propofol and opioids were less in the DEX group (P < 0.05).
+
+4/CONCLUSIONS: Intraoperative DEX reduced the early postoperative inflammatory 
+response in LPD. It also reduced the use of narcotics that may related to 
+reduced major complications, which need additional research further.

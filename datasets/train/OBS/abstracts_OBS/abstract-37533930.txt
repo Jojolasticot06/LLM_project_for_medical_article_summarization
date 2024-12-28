@@ -1,0 +1,30 @@
+INTRODUCTION: This study explored the differences in clinical characteristics 
+between the 2009 pandemic influenza A (H1N1) and SARS-CoV-2 BA.2 variant 
+(Omicron) infections in patients younger than age 65 years, to improve 
+identification of these diseases and better respond to the current epidemic.
+METHODS: Data from 127 patients with the 2009 pandemic influenza A (H1N1) 
+diagnosed between May and July of 2009 and 3,265 patients with Omicron diagnosed 
+between March and May of 2022 were collected. Using a 1:2 match based on age 
+(difference <2 years), sex, and underlying diseases, data from 115 patients with 
+the 2009 pandemic influenza A (H1N1) infection (H1N1 group) and 230 patients 
+with SARS-CoV-2 Omicron BA.2 infection (Omicron group) were analyzed. The 
+clinical manifestations were compared between the groups, logistic regression 
+was performed to identify possible independent risk factors for each group, and 
+multiple linear regression was used to analyze the factors predicting time for 
+nucleic acid negativization (NAN).
+RESULTS: The median [interquartile range] age of the two groups was 21 [11, 26] 
+years. Compared with the H1N1 group, the Omicron group had: lower white blood 
+cell counts and C-reactive protein levels; less fever, nasal congestion, sore 
+throat, cough, sputum, and headache; and more olfactory loss, muscle soreness, 
+and lactate dehydrogenase (LDH) abnormalities. Patients in the Omicron group 
+used fewer antibiotics and antiviral drugs, and the time for NAN was longer (17 
+[14,20] VS 4 [3,5] days, P<0.001). Logistic regression showed that fever, cough, 
+headache, and increased white blood cell count were more strongly correlated 
+with the H1N1 group, while muscle soreness and LDH abnormalities were more 
+strongly correlated with the Omicron group. Fever (B 1.529, 95% confidence 
+interval [0.149,2.909], P=0.030) significantly predicted a longer time for NAN 
+in patients with Omicron.
+DISCUSSION: There are significant differences in clinical characteristics 
+between SARS-CoV-2 Omicron infection and the 2009 pandemic influenza A (H1N1) 
+infection. Recognition of these differences has important implications for 
+clinical practice.

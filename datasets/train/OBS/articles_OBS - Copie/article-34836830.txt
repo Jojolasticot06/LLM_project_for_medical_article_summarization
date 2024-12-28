@@ -1,0 +1,233 @@
+Introduction
+Tracheostomy is a frequently performed intervention in critically ill patients who require prolonged invasive ventilation, facilitating liberation from the ventilator and possibly reducing sedation needs due to increased patient comfort.1 Patients with acute respiratory failure related to coronavirus disease 2019 (COVID–19) often need prolonged ventilation2, 3, 4 and therefore, a substantial proportion of COVID–19 patients might benefit from tracheostomy.5
+
+It is uncertain how long after start of invasive ventilation tracheostomy should be performed, in both non COVID–19 6, 7, 8 and COVID–19 patients. Early in the pandemic, adjusted tracheostomy guidelines for COVID–19 patients were released worldwide,9,10 with over 90% of these adjusted guidelines advising to wait at least 14 days after intubation before performing a tracheostomy.10 Factors in favor of delaying tracheostomy included an expected decrease in risk of contamination of healthcare workers, and high risk of dangerous deteriorations in gas exchange during the procedure.11 Timing could also have been influenced by shortages in personal protection equipment (PPE) and tracheostomy kits, and lack of experienced health care workers able to perform or guide the procedure.
+
+The practice of tracheostomy in invasively ventilated patients with acute respiratory failure related to COVID–19 in the Netherlands is largely unknown. We explored the database of the ‘PRactice of VENTilation in COVID–19’ (PRoVENT–COVID) study, which contains epidemiological characteristics, granular ventilation data, and outcomes of more than 40% of all COVID–19 patients who needed invasive ventilation during the first 3 months of the outbreak in the Netherlands.12 The aim of this study was to determine the practice of tracheostomy and to ascertain whether timing of tracheostomy had an association with duration of ventilation, length of stay and mortality. We also aimed to identify factors that had an association with timing of tracheostomy.
+
+Methods
+Study design, patients and data collection
+This is a secondary analysis of the PRoVENT–COVID study (eMethods in Online Supplement). Patients were enrolled if: (1) aged ≥18 years; (2) admitted to one of the participating ICUs; and (3) had received invasive ventilation for respiratory failure related to COVID–19. Patients with unknown tracheostomy status due to transfer to a non–participating hospital, were excluded from this analysis.
+
+Baseline characteristics were collected at start of invasive ventilation or ICU admission. Detailed variables and parameters of ventilation management were collected over the first 4 calendar days thereafter. ICU complications, including thromboembolic events, acute kidney injury and use of renal replacement therapy (RRT) were collected until day 28, as was reintubation status. Admission status and life status were collected until day 90.
+
+Endpoints
+The primary endpoint of this analysis was incidence of tracheostomy. Secondary endpoints were timing of tracheostomy (counted as the number of days between start of invasive ventilation and tracheostomy procedure), outcomes including duration of ventilation, ICU– and hospital–length of stay (LOS), and ICU–, hospital–, and day 28– and day 90–mortality, and factors associated with timing.
+
+National Dutch guidelines on tracheostomy
+Before the pandemic, Dutch guidelines regarding tracheostomy practice in invasively ventilated ICU patients advised to ‘consider a tracheostomy as soon as it is apparent that weaning from artificial ventilation is unlikely to happen within 2 weeks after endotracheal intubation’, and also ‘because this prediction is difficult, it is advised to generally delay the procedure until at least 10 days after intubation’.13 The amendment focusing on tracheostomy in COVID–19 patients was released on April 23, 202014 and advised to wait at least 2 weeks before performing tracheostomy and if possible, to further delay the procedure to reduce the risk of viral transmission.
+
+Statistical analysis
+Continuous variables are presented as medians with interquartile ranges, and categorical variables as number and percentages. Timing of tracheostomy is shown in cumulative distribution plots stratified by (1) month of admission; (2) the median timing of tracheostomy of this cohort; and (3) admission before and after introduction of the amended national guideline.
+
+Baseline characteristics and outcomes were compared between groups defined by tracheostomy status and by the median timing of this cohort. Wilcoxon rank–sum test for continuous variables and Fisher exact test for categorical variables were used accordingly. Duration of ventilation was compared through a clustered Fine–Gray competing risk model, with death before extubation treated as competing risk. Both survivors and non–survivors were included in this analysis. Binary outcomes were compared with adjusted odds ratios from a mixed–effect generalized linear model with a binomial distribution. Twenty–eight and 90–day mortality and ICU– and hospital–LOS were compared with adjusted hazard ratios from a Cox proportional hazard model. All models were adjusted for variables with a known or suspected relationship with outcome in COVID–19 patients, including age, gender, body mass index (BMI), partial arterial oxygen pressure to oxygen fraction (PaO2/FiO2) and plasma creatinine level at baseline, hypertension, diabetes mellitus, use of angiotensin converting enzyme inhibitors, use of angiotensin II receptor blockers, use of inotrope or vasopressor at start of ventilation, fluid balance, arterial pH, mean arterial pressure, heart rate, and respiratory system compliance at start of ventilation. The center and week of admission were considered as random effect. The group receiving tracheostomy and the group with timing greater than the median were used as references. In addition, duration of ventilation, LOS in survivors and 90–day mortality were compared using Kaplan–Meier estimators.
+
+To ascertain which clinical factors had an independent association with timing of tracheostomy, a mixed–effect generalized linear model with Gaussian distribution and with center as random effect was used and reported as mean difference and 95% confidence interval (CI). The following variables with a known or suspected relationship with timing of tracheostomy were selected: 1) week of admission in participating hospital, the first week being determined by the date of the first COVID–19 admission in the ICU of that particular hospital; 2) demographic characteristics (age, gender, BMI, diabetes, hypertension, heart failure, asthma, and obstructive sleep apnea syndrome); 3) ventilatory and oxygenation variables in the first day after intubation or admission, aggregated as the median from a maximum of six assessments (tidal volume, positive end–expiratory pressure, respiratory system compliance, and PaO2/FiO2); 4) laboratory tests and vital signs in the first day after intubation or admission, aggregated as the median from a maximum of six assessments (arterial pH, lactate, creatinine, heart rate and mean arterial pressure); 5) organ support during the first day after intubation or admission (use of vasopressors, use of neuromuscular blocking agents (NMBA) and fluid balance); 6) use of prone positioning in the first 4 days of ventilation; 7) incidence of complications (thromboembolic events, acute kidney injury, use of RRT); 8) need of reintubation; and 9) being admitted after the online publication of the COVID–19 amendment to the Dutch national guidelines for tracheostomy. Missing data in predictors, when present in less than 5% of the patients, were imputed by the median.
+
+In a post hoc analysis, we also examined whether the abovementioned variables were independently associated with performance of tracheostomy.
+
+All analyses were conducted in R v.4.0.2 (R Foundation, Vienna, Austria) and significance level was set at 0.05.
+
+Results
+Patients
+Between March 1 and June 1, 2020, 31 ICUs were invited for participation in the PRoVENT–COVID study and 22 met inclusion criteria. Of 1340 screened patients, 1023 were included in the current analysis (eFig. 1); the main reasons for exclusion were not having received invasive ventilation, unknown tracheostomy status due to transfer to a non–participating hospital, or having received ventilation for something other than COVID–19.
+
+Incidence of tracheostomy
+Of 1023 patients, 189 patients (18.5%) underwent tracheostomy. Tracheostomized patients were more often males and more likely to have asthma. On the first day of ventilation, tracheostomized patients had a higher respiratory compliance and etCO2, and underwent longer duration of prone positioning (eTable 1). Performance of tracheostomy was independently associated with reintubation, pulmonary embolism, AKI and use of RRT. Additionally, tracheostomy was independently associated with longer duration of ventilation and lower ICU–, hospital–, and 28– and 90–day mortality (eTable 2).
+
+Timing of tracheostomy
+Time between start of invasive ventilation and tracheostomy was median 21 [17–28] days. Time until tracheostomy in March (21 [16–28] days), April (23 [17–28] days) and May (22 [17–26] days) was similar and seemed unaffected by the online publication of the amendment (21 [17–28] vs. 21 [17–26] days) (Fig. 1).
+
+Fig. 1
+Download : Download high-res image (366KB)
+Download : Download full-size image
+Figure 1. Cumulative Distribution Curves of Timing of Tracheostomy (A): All tracheostomized patients; (B): Stratified by month of admission; (C): Stratified by timing of tracheostomy before or on the median, or after; (D): Stratified by admission before and after the protocol.
+
+Compared to patients who were tracheostomized > 21 days, patients who were tracheostomized ≤ 21 days had a lower plasma creatinine and higher respiratory compliance and were ventilated with a higher tidal volume at baseline (Table 1). Tracheostomy ≤ 21 days was independently associated with shorter duration of ventilation, but higher ICU–, hospital– and 90–day mortality (Table 2 and Fig. 2).
+
+Table 1. Baseline characteristics of patients receiving tracheostomy according to timing.
+
+Empty Cell	Timing of tracheostomya	p value
+Empty Cell	≤ 21 days (n = 96)	> 21 days (n = 93)
+Age, years	65.0 (59.0 - 72.0)	65.0 (60.0 - 71.0)	0.947
+Male gender – no (%)	75 (78.1)	77 (82.8)	0.466
+Body mass index, kg/m2	26.5 (24.7 - 31.0)	28.0 (26.1 - 29.9)	0.265
+Transferred under invasive ventilation	21 (21.9)	17 (18.3)	0.589
+Days between intubation and admission	0.0 (0.0 - 0.0)	0.0 (0.0 - 0.0)	0.922
+Use of non-invasive ventilation – no (%)	4 / 79 (5.1)	7 / 86 (8.1)	0.539
+Duration of non-invasive ventilation, hours	8.0 (5.0 - 36.0)	4.5 (1.0 - 14.8)	0.356
+Timing of tracheostomy, days	17.0 (14.0 - 19.0)	28.0 (25.0 - 32.0)	< 0.001
+Admitted after the publication of guidelineb	8 (8.3)	8 (8.6)	0.999
+Week of admission within the centerc	2.5 (1.0 - 4.0)	3.0 (2.0 - 4.0)	0.269
+Chest CT scan performed – no (%)	26 / 91 (28.6)	32 / 89 (36.0)	0.339
+Lung parenchyma affected – no (%)			0.681
+25%	11 / 26 (42.3)	9 / 32 (28.1)	
+50%	9 / 26 (34.6)	12 / 32 (37.5)	
+75%	5 / 26 (19.2)	9 / 32 (28.1)	
+100%	1 / 26 (3.8)	2 / 32 (6.2)	
+Chest X-ray performed – no (%)	55 / 63 (87.3)	49 / 55 (89.1)	0.999
+Quadrants affected – no (%)			0.583
+1	5 / 55 (9.1)	8 / 50 (16.0)	
+2	14 / 55 (25.5)	15 / 50 (30.0)	
+3	17 / 55 (30.9)	11 / 50 (22.0)	
+4	19 / 55 (34.5)	16 / 50 (32.0)	
+Severity of ARDS – no (%)			0.198
+Mild	18 (18.8)	21 / 90 (23.3)	
+Moderate	74 (77.1)	60 / 90 (66.7)	
+Severe	4 (4.2)	9 / 90 (10.0)	
+Co-existing disorders – no (%)			
+Hypertension	29 (30.2)	33 (35.5)	0.536
+Heart failure	4 (4.2)	6 (6.5)	0.532
+Diabetes	22 (22.9)	21 (22.6)	0.999
+Chronic kidney disease	6 (6.2)	5 (5.4)	0.999
+Baseline creatinine, µmol/Ld	74.0 (65.0 - 85.5)	81.0 (65.0 - 105.0)	0.032
+Liver cirrhosis	1 (1.0)	0 (0.0)	0.999
+Chronic obstructive pulmonary disease	6 (6.2)	8 (8.6)	0.588
+Active hematological neoplasia	1 (1.0)	3 (3.2)	0.363
+Active solid neoplasia	3 (3.1)	2 (2.2)	0.999
+Neuromuscular disease	0 (0.0)	1 (1.1)	0.492
+Immunosuppression	4 (4.2)	1 (1.1)	0.369
+Asthma	10 (10.4)	9 (9.7)	0.999
+Obstructive sleep apnea syndrome	5 (5.2)	5 (5.4)	0.999
+Previous medication – no (%)
+Systemic steroids	5 (5.2)	2 (2.2)	0.445
+Inhalation steroids	11 (11.5)	9 (9.7)	0.814
+Angiotensin converting enzyme inhibitor	17 (17.7)	16 (17.2)	0.999
+Angiotensin II receptor blocker	9 (9.4)	14 (15.1)	0.270
+Beta-blockers	22 (22.9)	18 (19.4)	0.596
+Insulin	9 (9.4)	5 (5.4)	0.407
+Metformin	13 (13.5)	14 (15.1)	0.837
+Statins	32 (33.3)	28 (30.1)	0.643
+Calcium channel blockers	13 (13.5)	15 (16.1)	0.685
+Organ support at start of ventilation – no (%)			
+Continuous sedation	92 (95.8)	87 (93.5)	0.532
+Inotropic or vasopressor	77 (80.2)	66 (71.0)	0.175
+Vasopressor	77 (80.2)	66 (71.0)	0.175
+Inotropic	1 (1.0)	5 (5.4)	0.114
+Fluid balance, mL	585.5 (43.5 - 1438.6)	357.9 (-61.5 - 965.5)	0.138
+Urine output, mL	682.5 (347.5 - 1172.5)	762.5 (411.2 - 1171.2)	0.579
+Ventilation support at start of ventilation			
+Assisted ventilation – no (%)	29 (30.2)	23 / 92 (25.0)	0.514
+Tidal volume, mL/kg PBW	6.7 (6.1 - 7.6)	6.4 (5.8 - 6.9)	0.019
+PEEP, cmH2O	13.0 (11.2 - 14.6)	12.5 (10.7 - 14.3)	0.478
+Peak pressure, cmH2O	26.0 (23.4 - 29.1)	25.7 (23.9 - 29.0)	0.734
+Driving pressure, cmH2O	13.0 (11.0 - 15.1)	14.0 (12.0 - 15.9)	0.090
+Mechanical power, J/min	18.9 (15.5 - 22.7)	19.1 (15.7 - 23.2)	0.882
+Compliance, mL/cmH2O	37.7 (30.9 - 45.3)	33.5 (26.4 - 40.1)	0.037
+Total respiratory rate, mpm	21.2 (19.0 - 24.0)	22.3 (19.4 - 24.5)	0.352
+FiO2	0.60 (0.49 - 0.69)	0.56 (0.47 - 0.66)	0.344
+etCO2, mmHg	36.9 (33.3 - 41.6)	38.4 (34.2 - 44.8)	0.290
+Vital signs at start of ventilation			
+Heart rate, bpm	88.5 (76.4 - 101.1)	84.0 (77.0 - 100.2)	0.429
+Mean arterial pressure, mmHg	80.3 (73.5 - 87.5)	79.9 (75.3 - 91.3)	0.484
+Laboratory tests at start of ventilation			
+pH	7.36 (7.30 - 7.40)	7.36 (7.31 - 7.41)	0.473
+PaO2, mmHg	81.4 (74.1 - 94.3)	81.8 (73.1 - 98.0)	0.896
+PaO2 / FiO2, mmHg	123.9 (93.4 - 160.8)	140.6 (109.0 - 200.7)	0.074
+PaCO2, mmHg	45.5 (40.3 - 51.9)	45.0 (39.8 - 50.5)	0.553
+Lactate, mmol/L	1.1 (0.9 - 1.5)	1.1 (1.0 - 1.4)	0.555
+Adjunctive therapies at start of ventilation			
+Prone positioning - no. (%)	30 / 93 (32.3)	303 / 92 (32.6)	0.999
+Duration of prone positioning, hours	9.5 (6.0 - 14.4)	10.0 (7.0 - 13.5)	0.897
+Recruitment maneuvers - no. (%)	1 / 84 (1.2)	33 / 80 (3.8)	0.358
+ECMO - no. (%)	0 / 95 (0.0)	0 (0.0)	—
+Use of NMBA - no. (%)	29 (30.2)	20 (21.5)	0.188
+Duration of neuromuscular blocking agents, hours	0.0 (0.0 - 8.0)	0.0 (0.0 - 0.0)	0.200
+Empty Cell			
+Data are median (quartile 25% - quartile 75%) or No (%). Percentages may not total 100 because of rounding
+
+CT: computed tomography; ARDS: Acute Respiratory Distress Syndrome; PBW: predicted body weight; PEEP: positive end expiratory pressure; ECMO: extracorporeal membrane oxygenation; NMBA: neuromuscular blocking agent
+
+
+a
+Groups defined by the median timing of this cohort.
+
+b
+National guideline on practice of tracheostomy on COVID-19 patients published on April 23, 2020.
+
+c
+First week determined as the week when the first patient was admitted in the center.
+
+d
+Most recent measurement in 24 hours before intubation, or at ICU admission under invasive ventilation.
+
+Table 2. Clinical outcomes of patients receiving tracheostomy according to timing.
+
+Empty Cell	Timing of tracheostomya	Adjusted effect estimate* (95% Confidence Interval)	p value
+Empty Cell	≤ 21 days (n = 96)	> 21 days (n = 93)
+Duration of ventilation, days	26.0 (21.0 - 32.0)	40.0 (33.5 - 46.5)	SHR, 13.74 (5.48 to 34.47)c	< 0.001
+In survivors at day 28, days	26.5 (21.8 - 33.3)	40.0 (33.5 - 46.5)		
+Reintubation – no (%)	24 / 95 (25.3)	24 (25.8)	OR, 0.96 (0.46 to 1.99)d	0.902
+Thromboembolic complications – no (%)	38 (39.6)	45 (48.4)	OR, 0.65 (0.35 to 1.22)d	0.181
+Pulmonary embolism	32 (33.3)	38 (40.9)	OR, 0.70 (0.37 to 1.33)d	0.279
+Deep vein thrombosis	3 (3.1)	9 (9.7)	OR, 0.26 (0.01 to 4.95)d	0.369
+Ischemic stroke	3 (3.1)	5 (5.4)	OR, 0.13 (0.01 to 2.07)d	0.150
+Myocardial infarction	2 (2.1)	1 (1.1)	—	—
+Systemic arterial embolism	0 (0.0)	0 (0.0)	—	—
+Acute kidney injury – no (%)	53 / 94 (56.4)	53 (57.0)	OR, 1.24 (0.58 to 2.62)d	0.578
+Need for RRT – no (%)	26 (27.1)	35 (37.6)	OR, 0.59 (0.27 to 1.30)d	0.192
+Need of rescue therapy – no (%)b	71 / 95 (74.7)	72 (77.4)	OR, 0.65 (0.29 to 1.49)d	0.312
+Prone positioning	51 / 95 (53.7)	61 / 92 (66.3)	OR, 0.43 (0.18 to 1.04)d	0.060
+Recruitment maneuver	5 / 85 (5.9)	6 / 82 (7.3)	OR, 0.73 (0.14 to 3.91)d	0.715
+Use of NMBA	53 (55.2)	46 (49.5)	OR, 1.05 (0.50 to 2.19)d	0.894
+ECMO	1 / 95 (1.1)	0 (0.0)	—	—
+Use of continuous sedation – no (%)b	95 (99.0)	90 (96.8)	OR, ∞ (0.00 to ∞)d	0.999
+Use of inotropic or vasopressor – no (%)b	90 (93.8)	85 (91.4)	OR, 0.00 (0.00 to ∞)d	0.407
+Use of vasopressor	90 (93.8)	85 (91.4)	OR, 0.00 (0.00 to ∞)d	0.407
+Use of inotropic	5 (5.2)	8 (8.6)	OR, 0.09 (0.00 to 2.67)d	0.166
+ICU length of stay, days	29.0 (24.3 - 36.8)	44.0 (37.5 - 51.0)	HR, 1.18 (0.82 to 1.69)e	0.370
+In survivors, days	29.0 (25.0 - 38.0)	43.5 (37.0 - 50.0)		
+Hospital length of stay, days	39.0 (30.0 - 50.0)	58.0 (50.0 - 66.0)	HR, 1.05 (0.72 to 1.52)e	0.810
+In survivors, days	43.0 (33.5 - 53.5)	58.0 (52.0 - 65.8)		
+ICU mortality – no (%)	21 / 95 (22.1)	9 / 88 (10.2)	OR, 3.24 (1.24 to 8.46)d	0.016
+Hospital mortality – no (%)	24 / 92 (26.1)	10 / 84 (11.9)	OR, 3.76 (1.44 to 9.85)d	0.007
+28-day mortality – no (%)	11 (11.5)	0 (0.0)	—	—
+90-day mortality – no (%)	24 / 87 (27.6)	12 / 82 (14.6)	HR, 3.24 (1.45 to 7.25)e	0.004
+Data are median (quartile 25% - quartile 75%) or No (%). Percentages may not total 100 because of rounding
+
+RRT: renal replacement therapy; NMBA: neuromuscular blocking agent; ECMO: extracorporeal membrane oxygenation; ICU: intensive care unit
+
+
+⁎
+All models adjusted for age, gender, body mass index, PaO2 / FiO2, creatinine, hypertension, diabetes mellitus, use of angiotensin converting enzyme inhibitors, use of angiotensin II receptor blockers, use of inotrope or vasopressor at start of ventilation, fluid balance, pH, mean arterial pressure, heart rate, and respiratory system compliance at start of ventilation.
+
+a
+Groups defined by the median timing of this cohort; group tracheostomized after 21 days is the reference.
+
+b
+Assessed in the first four days of ventilation.
+
+c
+Subdistribution hazard ratio from a Fine-Gray competing risk model with death before extubation in 28 days treated as a competing risk and with center as clustering effect.
+
+d
+Odds ratio from a mixed-effect generalized linear model with a binomial distribution and with center as random effect.
+
+e
+Hazard ratio from a (shared-frailty) Cox proportional hazard model (for the ICU and hospital length of stay analyses, all patients who died prior to discharge were assigned the maximum length of stay to account for death as a competing risk in this model) with center as frailty. P value for the Schoenfeld residuals; < 0.001 (ICU length of stay); < 0.001 (hospital length of stay); < 0.001 (90-day mortality)
+
+Fig. 2
+Download : Download high-res image (715KB)
+Download : Download full-size image
+Figure 2. Kaplan–Meier Curves stratified by Timing of Tracheostomy (A): Duration of Ventilation in Survivors; (B): 90–day survival; (C): Duration of ICU stay in survivors; (D): Duration of hospital stay in survivors
+
+Factors associated with timing and performance of tracheostomy
+None of the clinical factors were associated with timing of tracheostomy (eTable 3). In the post hoc analysis, independent predictors of performance of tracheostomy were asthma, respiratory system compliance, occurrence of thromboembolic complications, need for RRT and reintubation (eTable 4).
+
+Discussion
+The findings of this secondary analysis of the PRoVENT–COVID study can be summarized as follows: (1) roughly 1 in every 5 patients were tracheostomized, (2) median timing of tracheostomy was 21 days, and this remained after online publication of the amendment of the national guideline, (3) tracheostomy ≤ 21 days had an independent association with shorter duration of ventilation and higher mortality rates, and (4) timing was not influenced by clinical factors. In a post hoc analysis, asthma, respiratory system compliance, occurrence of thromboembolic complications, need for RRT and reintubation were associated with performance of tracheostomy.
+
+This analysis has several strengths. First, it is one of the largest cohorts of COVID–19 patients in which tracheostomy practice was analyzed. Second, we used data captured over the entire first wave of the pandemic in the Netherlands, encompassing about 40% of all ICU patients admitted during that time. Third, university, non–university, teaching and non–teaching centers were involved, increasing the generalizability of this study. Fourth, hospitals that were invited but did not participate were unable to do so only because of administrative and regulatory barriers, unrelated to the workload and possible lack of time on the ICU. This makes selection bias unlikely. Fifth, the exact date of publication of the tracheostomy guideline amendment was known, giving accurate insight into its influence on practice of tracheostomy. Sixth, our statistical analysis plan was published before analysis of the data, preventing reporting bias.
+
+The incidence of tracheostomy in the current cohort of COVID–19 patients is slightly higher than in LUNG SAFE,15 a large service review in which 13% of ARDS patients received a tracheostomy.16 LUNG SAFE patients were ventilated for a shorter duration and represent a more heterogeneous population of ARDS patients, possibly explaining this difference. Also, thromboembolic complications and AKI are prevalent among COVID–19 ARDS patients,17,18 factors which were shown to be predictors of performing a tracheostomy in this study.
+
+The timing of tracheostomy was substantially later in this study than in LUNG SAFE, which showed a median timing of 14 days.16 This may be due to the larger proportion of patients with moderate–severe ARDS seen in this study, as well as lower PaO2/FiO2 and use of higher PEEP at baseline. Placement of a tracheostomy canula can be unsafe in patients with severely compromised gas–exchange because of the unavoidable loss in positive airway pressure, delaying the procedure until improvement of oxygenation is seen. In addition, tracheostomy could have been postponed by health care providers out of fear of viral transmission, preferably waiting for a decrease in viral load.
+
+Practice of tracheostomy is difficult to compare to other cohorts of invasively ventilated COVID–19 patients because of the large variability seen in both incidence and timing in a number of identified studies. Incidence of tracheostomy in invasively ventilated COVID–19 patients has been shown to range from 8 to 77%,3,19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35 and mean or median timing from 4 to 23 days.5,19,22,24,27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42 As many of these identified studies are single center, this may reflect differences in local practices irrespective of national guidelines. This idea is supported by the fact that most of the identified studies showed a timing of ≤ 14 days,19,22,24,27,28,32,33,35,39,42 despite 90% of international guidelines recommending waiting at least 14 days before performing a tracheostomy in COVID–19 patients.10 The timing in our cohort, however, is in line with the majority of international guidelines, as well as the amendment of national Dutch tracheostomy guidelines. Therefore, it is possible that international advice regarding tracheostomy practice, released early on in the pandemic of 2020, was followed even before publication of the amendment of national guidelines. As it was already national practice to delay tracheostomy until at least 10 days after intubation, it would not have been a significant change in mindset.
+
+Earlier timing of tracheostomy had an association with shorter duration of ventilation in this cohort. Freeing patients from the ventilator as soon as possible is particularly valuable when there is a surge of patients needing to be treated in a pandemic. However, earlier tracheostomy was also associated with a higher mortality. This association was found after correcting for factors possibly having an independent association with outcome, such as hemodynamic and respiratory problems. It is likely that this association is the result of immortal time bias and not an actual cause and effect. This phenomenon is introduced when patients cannot experience a certain outcome during a period of follow–up. In this analysis, patients in the later tracheostomy group already had survived 21 days before being categorized. This period is quite long, which may have increased the magnitude of bias.43
+
+This study has limitations. We had 99 patients with an unknown tracheostomy status due to transfer to a non–participating hospital. In addition, we did not collect local guidelines on tracheostomy practice, making it unclear what decisions were precisely based on. Different approaches to clinical decisions from each center may have influenced outcomes. We didn't collect data on PPE and tracheostomy kit shortages and cannot determine the effect this had on timing. Whether a surgical or percutaneous technique was used for placement of tracheostomy was not recorded, which could have given additional insight into tracheostomy practice in the Netherlands. Ventilation data was restricted to the first four days of admission and therefore are unknown directly before placement of tracheostomy. Furthermore, data regarding incidence of ventilator associated pneumonia (VAP), other infections and sepsis were not collected; as these factors could influence both timing of tracheostomy and outcome, this is a limitation. Finally, use of additional therapies such as antibiotics, steroids and anticoagulants is unknown in our cohort, which could also have influenced outcome.
+
+Conclusion
+This study gives insight into the practice of tracheostomy in invasively ventilated COVID–19 patients in the Netherlands. The results suggest that earlier timing of tracheostomy is associated with a shorter duration of ventilation, which would be of crucial benefit in overloaded ICUs. However, because this study also suggested a higher mortality in patients who received earlier tracheostomy, future studies are needed to determine whether earlier tracheostomy has a positive influence on outcome in COVID–19 patients. It remains unclear which factors influenced timing of tracheostomy during the first wave of the pandemic.

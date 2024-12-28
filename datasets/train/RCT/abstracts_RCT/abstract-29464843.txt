@@ -1,0 +1,11 @@
+Revisited analysis of a SHIVA01 trial cohort using functional mutational analyses successfully predicted treatment outcome.
+
+
+1/It still remains to be demonstrated that using molecular profiling to guide therapy improves patient outcome in oncology. Classification of somatic variants is not straightforward, rendering treatment decisions based on variants with unknown significance (VUS) hard to implement. 
+
+2/The oncogenic activity of VUS and 
+mutations identified in 12 patients treated with molecularly targeted agents (MTAs) in the frame of SHIVA01 trial was assessed using Functional Annotation for Cancer Treatment (FACT). MTA response prediction was measured in vitro, blinded to the actual clinical trial results, and survival predictions according to FACT were correlated with the actual PFS of SHIVA01 patients. 
+
+3/Patients with positive prediction had a median PFS of 5.8 months versus 1.7 months in patients with negative prediction (P < 0.05). 
+
+4/Our results highlight the role of the functional interpretation of molecular profiles to predict MTA response.

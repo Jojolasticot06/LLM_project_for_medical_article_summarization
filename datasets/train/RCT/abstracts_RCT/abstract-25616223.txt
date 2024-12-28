@@ -1,0 +1,13 @@
+Effects of ambient coarse, fine, and ultrafine particles and their biological constituents on systemic biomarkers: a controlled human exposure study.
+
+1/BACKGROUND: Ambient coarse, fine, and ultrafine particles have been associated with mortality and morbidity. Few studies have compared how various particle size fractions affect systemic biomarkers.
+OBJECTIVES: We examined changes of blood and urinary biomarkers following exposures to three particle sizes.
+
+2/METHODS: Fifty healthy nonsmoking volunteers, mean age of 28 years, were exposed to coarse (2.5-10 μm; mean, 213 μg/m3) and fine (0.15-2.5 μm; mean, 238 μg/m3) concentrated ambient particles (CAPs), and filtered ambient and/or medical air. Twenty-five participants were exposed to ultrafine CAP (< 0.3 μm; mean, 136 μg/m3) and filtered medical air. Exposures lasted 130 min, separated by ≥ 2 
+weeks. Blood/urine samples were collected preexposure and 1 hr and 21 hr postexposure to determine blood interleukin-6 and C-reactive protein (inflammation), endothelin-1 and vascular endothelial growth factor (VEGF; vascular mediators), and malondialdehyde (lipid peroxidation); as well as 
+urinary VEGF, 8-hydroxy-deoxy-guanosine (DNA oxidation), and malondialdehyde. Mixed-model regressions assessed pre- and postexposure differences.
+
+3/RESULTS: One hour postexposure, for every 100-μg/m3 increase, coarse CAP was associated with increased blood VEGF (2.41 pg/mL; 95% CI: 0.41, 4.40) in models adjusted for O3, fine CAP with increased urinary malondialdehyde in single- (0.31 nmol/mg creatinine; 95% CI: 0.02, 0.60) and two-pollutant models, and ultrafine CAP with increased urinary 8-hydroxydeoxyguanosine in single- (0.69 
+ng/mg creatinine; 95% CI: 0.09, 1.29) and two-pollutant models, lasting < 21 hr. Endotoxin was significantly associated with biomarker changes similar to those found with CAPs.
+
+4/CONCLUSIONS: Ambient particles with various sizes/constituents may influence systemic biomarkers differently. Endotoxin in ambient particles may contribute to vascular mediator changes and oxidative stress.

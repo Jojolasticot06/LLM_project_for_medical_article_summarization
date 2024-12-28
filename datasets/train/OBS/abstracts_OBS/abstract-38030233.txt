@@ -1,0 +1,24 @@
+OBJECTIVE: Another course of immune checkpoint inhibitors (ICIs) is often 
+considered in patients with cancer progression and previous immune-related 
+adverse events, including inflammatory arthritis (ICI-IA), but there are limited 
+data regarding safety of ICI rechallenge in this setting. We aimed to assess the 
+rate and clinical features associated with ICI-IA flare/recurrence on ICI 
+rechallenge.
+METHODS: We conducted a multicentre observational study including cancer 
+patients with ICI-IA who started a second course of ICI more than 3 months after 
+ICI discontinuation in four French university hospitals. Primary outcome was the 
+frequency of ICI flare/recurrence after ICI rechallenge.
+RESULTS: Twenty-three patients were included. At the time of ICI rechallenge, 18 
+patients reported no symptoms of ICI-IA (78%) and 5 had grade 1 (22%), 11 
+patients (48%) were not receiving any ICI-IA treatment, 11 (48%) were still on 
+prednisone, 2 (9%) were on conventional synthetic disease-modifying 
+antirheumatic drugs and 1 (4%) on anti-IL-6. ICI-IA flare/recurrence occurred in 
+12 patients (52%) with a median time of 1 month after ICI rechallenge. ICI-IA 
+phenotype, disease activity and ICI-IA treatment at the time of ICI rechallenge 
+did not differ according to ICI-IA flare/recurrence status.
+CONCLUSION: In this first observational study of ICI-IA patients rechallenged 
+with ICI, about half of the patients experienced ICI-IA flare/recurrence with a 
+similar phenotype but occurring earlier than the initial ICI-IA, warranting 
+close monitoring during the first month of retreatment. Risk of flare did not 
+differ according to baseline immunosuppressive treatment at the time of 
+rechallenge.

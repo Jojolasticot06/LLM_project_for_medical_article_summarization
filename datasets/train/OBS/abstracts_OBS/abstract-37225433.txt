@@ -1,0 +1,32 @@
+BACKGROUND AND OBJECTIVES: The objective of this study was to examine whether 
+the regional methylation levels at the most distal D4Z4 repeat units (RU) in the 
+4qA-permissive haplotype were associated with disease severity and progression 
+in facioscapulohumeral muscular dystrophy type 1 (FSHD1).
+METHODS: This 21-year, retrospective, observational cohort study was conducted 
+at the Fujian Neuromedical Center (FNMC) in China. Methylation levels of the 
+most distal D4Z4 RU, including 10 CpGs, were assessed in all participants by 
+bisulfite sequencing. Patients with FSHD1 were stratified into 4 groups based on 
+methylation percentage quartiles, including LM1 (low methylation), LM2 (low to 
+intermediate methylation), LM3 (intermediate to high methylation), and highest 
+methylation (HM) levels. Patients received evaluations of motor function 
+focusing on lower extremity (LE) progression at baseline and in follow-ups. FSHD 
+clinical score (CS), age-corrected clinical severity scale (ACSS), and modified 
+Rankin scale were used to assess motor function.
+RESULTS: The methylation levels of the 10 CpGs were significantly lower in all 
+823 patients with genetically confirmed FSHD1 than in 341 healthy controls 
+(HCs). CpG6 methylation levels could distinguish the following: (1) patients 
+with FSHD1 from HCs; (2) symptomatic from asymptomatic/unaffected patients; (3) 
+patients with LE involvement from those without LE involvement, with AUCs (95% 
+CI) of 0.9684 (0.9584-0.9785), 0.7417 (0.6903-0.7931), and 0.6386 
+(0.5816-0.6956), respectively. Lower CpG6 methylation levels were correlated 
+with higher CS (r = -0.392), higher ACSS (r = -0.432), and earlier onset age of 
+first-ever muscle weakness (r = 0.297). For the LM1, LM2, LM3, and HM groups, 
+the respective proportions of LE involvement were 52.9%, 44.2%, 36.9%, and 
+23.4%; and onset ages of LE involvement were 20, 26.5, 25, and 26.5 years. Cox 
+regression analysis-adjusted for sex, age at examination, D4Z4 RU, and 4qA/B 
+haplotype-showed that the LM1, LM2, and LM3 groups (i.e., groups with lower 
+methylation levels) had a higher risk of independent ambulation loss, with HRs 
+(95% CI) of 3.523 (1.565-7.930), 3.356 (1.458-7.727), and 2.956 (1.245-7.020), 
+respectively.
+DISCUSSION: 4q35 distal D4Z4 hypomethylation is correlated with disease severity 
+and progression to lower extremity involvement.

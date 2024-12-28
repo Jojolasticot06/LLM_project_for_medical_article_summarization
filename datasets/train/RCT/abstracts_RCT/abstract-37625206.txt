@@ -1,0 +1,9 @@
+Efficacy of Andrographis paniculata extract treatment in mild to moderate COVID-19 patients being treated with favipiravir: A double-blind, randomized, placebo-controlled study (APFaVi trial)
+
+1/Background: While favipiravir had been the standard anti-SARS-CoV-3 drug for COVID-19 treatment in Thailand, the efficacy of favipiravir treatment is controversial. Andrographis paniculata extract (APE) inhibits viral entry, exhibits immunomodulatory effects, and proposes to have the potential for early-stage COVID-19 treatment.
+
+2/Methods: A randomized, double-blind, placebo-controlled trial was performed in Thailand during June - September 2021. Non-severe COVID-19 patients were randomized 1:1 to groups receiving 180 mg/day of APE plus favipiravir (APE-FPV group) or placebo plus favipiravir (placebo-FPV group). Efficacy in preventing disease progression to severe COVID-19 was assessed on day 4, using World Health Organization Clinical Progression Scale (WHOCPS) score and visual analog scale (VAS) for acute respiratory tract infection symptoms.
+
+3/Results: Of 146 patients, there were 73 patients in each group. Non-deterioration of WHOCPS scores on day 4 was 98.63% versus 97.26% of patients in the APE-FPV and placebo-FPV groups (p = 1.000). No difference in supplemental oxygen, hospitalization, and death was shown in both groups. The oxygen supplemental was 4.11% in the placebo-FPV group. The interleukin (IL)-1ß was significantly lower in the APE than in the placebo-FPV group throughout the study. We found no difference in virologic outcomes between groups and no substantial adverse events.
+
+4/Conclusions: APE treatment did not demonstrate additional clinical and virological benefits in patients with mild to moderate COVID-19 being treated with favipiravir. Early reduction of IL-1ß with APE may be advantageous in preventing cytokine storms in severe COVID-19 and requires further study.

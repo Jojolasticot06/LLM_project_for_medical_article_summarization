@@ -1,0 +1,11 @@
+Cardiac Rehabilitation Participation Rates and Outcomes for Patients With Heart Failure.
+
+1/PURPOSE: Exercise training has been shown to reduce combined cardiovascular mortality and hospitalizations in patients with chronic heart failure (CHF) with reduced ejection fraction (HFrEF). Whereas there are extensive data on exercise training for individuals with HFrEF in a research setting, the experience of delivering cardiac rehabilitation (CR) services in the clinical setting has not been well described. With little knowledge regarding the number of qualifying patients with HFrEF in the United States, we described our 18-month experience recruiting hospitalized inpatients and stable outpatients into phase 2 CR.
+
+2/METHODS: Patients hospitalized with CHF HFrEF were tracked for enrollment in CR. Exercise training response was described for patients identified as inpatients and for stable HFrEF outpatients referred from cardiology clinic or heart failure clinic.
+
+3/RESULTS: The cohort included 83 patients hospitalized with CHF and 36 outpatients. Only 17% (14/83) of eligible HFrEF inpatients enrolled in CR following CHF hospitalization compared with 97% (35/36) outpatient referrals. Improvements in aerobic capacity for the total cohort were observed whether 
+expressed as estimated metabolic equivalents (n = 19, 4.6 ± 1.6 to 6.2 ± 2.4, P < .0001) or (Equation is included in full-text article.)O2peak (n = 14, 14.4 ± 3.5 to 16.4 ± 4.6 mL/kg/min, P = .02) for those who completed CR.
+
+4/CONCLUSION: Significant barriers to recruiting and enrolling patients with HFrEF were observed and only 17% of inpatients attended CR. Systematic in-hospital referral with close followup in the outpatient setting has the potential to capture more eligible patients. The participation of referred stable outpatients with HFrEF was much higher. Regardless of the referral source, patients with 
+HFrEF completing CR can expect improvements in aerobic capacity, muscle strength, and depressive symptoms.

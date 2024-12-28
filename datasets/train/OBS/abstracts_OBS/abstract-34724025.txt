@@ -1,0 +1,36 @@
+OBJECTIVE: Use Medicare claims data to evaluate risk of developing 
+Guillain-Barré syndrome following vaccination with zoster vaccine.
+DESIGN, SETTING, AND PARTICIPANTS: This case series cohort study included 
+849 397 RZV-vaccinated and 1 817 099 zoster vaccine live (ZVL or 
+Zostavax)-vaccinated beneficiaries aged 65 years or older. Self-controlled 
+analyses included events identified from 2 113 758 eligible RZV-vaccinated 
+beneficiaries 65 years or older. We compared the relative risk of Guillain-Barré 
+syndrome after RZV vs ZVL, followed by claims-based and medical record-based 
+self-controlled case series analyses to assess risk of Guillain-Barré syndrome 
+during a postvaccination risk window (days 1-42) compared with a control window 
+(days 43-183). In self-controlled analyses, RZV vaccinees were observed from 
+October 1, 2017, to February 29, 2020. Patients were identified in the 
+inpatient, outpatient procedural (including emergency department), and office 
+settings using Medicare administrative data.
+EXPOSURES: Vaccination with RZV or ZVL vaccines.
+MAIN OUTCOMES AND MEASURES: Guillain-Barré syndrome was identified in Medicare 
+administrative claims data, and cases were assessed through medical record 
+review using the Brighton Collaboration case definition.
+RESULTS: Amongst those who received RZV vaccinees, the mean age was 74.8 years 
+at first dose, and 58% were women, whereas among those who received the ZVL 
+vaccine, the mean age was 74.3 years, and 60% were women. In the cohort analysis 
+we detected an increase in risk of Guillain-Barré syndrome among RZV vaccinees 
+compared with ZVL vaccinees (rate ratio [RR], 2.34; 95% CI, 1.01-5.41; 
+P = .047). In the self-controlled analyses, we observed 24 and 20 cases during 
+the risk and control period, respectively. Our claims-based analysis identified 
+an increased risk in the risk window compared with the control window (RR, 2.84; 
+95% CI, 1.53-5.27; P = .001), with an attributable risk of 3 per million RZV 
+doses (95% CI, 0.62-5.64). Our medical record-based analysis confirmed this 
+increased risk (RR, 4.96; 95% CI, 1.43-17.27; P = .01).
+CONCLUSIONS AND RELEVANCE: Findings of this case series cohort study indicate a 
+slightly increased risk of Guillain-Barré syndrome during the 42 days following 
+RZV vaccination in the Medicare population, with approximately 3 excess 
+Guillain-Barré syndrome cases per million vaccinations. Clinicians and patients 
+should be aware of this risk, while considering the benefit of decreasing the 
+risk of herpes zoster and its complications through an efficacious vaccine, as 
+risk-benefit balance remains in favor of vaccination.

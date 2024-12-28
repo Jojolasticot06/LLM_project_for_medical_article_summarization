@@ -1,0 +1,38 @@
+OBJECTIVE: To assess whether temporal changes in antimicrobial timing for sepsis 
+are associated with increasing antimicrobial use, days of therapy, or broadness 
+of antimicrobial coverage among all hospitalized patients at risk for sepsis.
+DESIGN, SETTING, AND PARTICIPANTS: This is an observational cohort study of 
+hospitalized patients at 152 hospitals in 2 health care systems during 2013 to 
+2018, admitted via the emergency department with 2 or more systemic inflammatory 
+response syndrome (SIRS) criteria. Data analysis was performed from June 10, 
+2021, to March 22, 2022.
+EXPOSURES: Hospital-level temporal trends in time to first antimicrobial 
+administration.
+OUTCOMES: Antimicrobial outcomes included antimicrobial use, days of therapy, 
+and broadness of antibacterial coverage. Clinical outcomes included in-hospital 
+mortality, 30-day mortality, length of hospitalization, and new 
+multidrug-resistant (MDR) organism culture positivity.
+RESULTS: Among 1 559 523 patients admitted to the hospital via the emergency 
+department with 2 or more SIRS criteria (1 269 998 male patients [81.4%]; median 
+[IQR] age, 67 [59-77] years), 273 255 (17.5%) met objective criteria for sepsis. 
+In multivariable models adjusted for patient characteristics, the adjusted 
+median (IQR) time to first antimicrobial administration to patients with sepsis 
+decreased by 37 minutes, from 4.7 (4.1-5.3) hours in 2013 to 3.9 (3.6-4.4) hours 
+in 2018, although the slope of decrease varied across hospitals. During the same 
+period, antimicrobial use within 48 hours, days of antimicrobial therapy, and 
+receipt of broad-spectrum coverage decreased among the broader cohort of 
+patients with SIRS. In-hospital mortality, 30-day mortality, length of 
+hospitalization, new MDR culture positivity, and new MDR blood culture 
+positivity decreased over the study period among both patients with sepsis and 
+those with SIRS. When examining hospital-specific trends, decreases in 
+antimicrobial use, days of therapy, and broadness of antibacterial coverage for 
+patients with SIRS did not differ by hospital antimicrobial timing trend for 
+sepsis. Overall, there was no evidence that accelerating antimicrobial timing 
+for sepsis was associated with increasing antimicrobial use or impaired 
+antimicrobial stewardship.
+CONCLUSIONS AND RELEVANCE: In this multihospital cohort study, the time to first 
+antimicrobial for sepsis decreased over time, but this trend was not associated 
+with increasing antimicrobial use, days of therapy, or broadness of 
+antimicrobial coverage among the broader population at-risk for sepsis, which 
+suggests that shortening the time to antibiotics for sepsis is feasible without 
+leading to indiscriminate antimicrobial use.

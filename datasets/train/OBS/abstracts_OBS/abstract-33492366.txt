@@ -1,0 +1,37 @@
+OBJECTIVE: To test the predictive accuracy of ACE screening for later health 
+problems.
+DESIGN, SETTING, AND PARTICIPANTS: This study comprised 2 birth cohorts: the 
+Environmental Risk (E-Risk) Longitudinal Twin Study observed 2232 participants 
+born during the period from 1994 to 1995 until they were aged 18 years 
+(2012-2014); the Dunedin Multidisciplinary Health and Development Study observed 
+1037 participants born during the period from 1972 to 1973 until they were aged 
+45 years (2017-2019). Statistical analysis was performed from May 28, 2018, to 
+July 29, 2020.
+EXPOSURES: ACEs were measured prospectively in childhood through repeated 
+interviews and observations in both cohorts. ACEs were also measured 
+retrospectively in the Dunedin cohort through interviews at 38 years.
+MAIN OUTCOMES AND MEASURES: Health outcomes were assessed at 18 years in E-Risk 
+and at 45 years in the Dunedin cohort. Mental health problems were assessed 
+through clinical interviews using the Diagnostic Interview Schedule. Physical 
+health problems were assessed through interviews, anthropometric measurements, 
+and blood collection.
+RESULTS: Of 2232 E-Risk participants, 2009 (1051 girls [52%]) were included in 
+the analysis. Of 1037 Dunedin cohort participants, 918 (460 boys [50%]) were 
+included in the analysis. In E-Risk, children with higher ACE scores had greater 
+risk of later health problems (any mental health problem: relative risk, 1.14 
+[95% CI, 1.10-1.18] per each additional ACE; any physical health problem: 
+relative risk, 1.09 [95% CI, 1.07-1.12] per each additional ACE). ACE scores 
+were associated with health problems independent of other information typically 
+available to clinicians (ie, sex, socioeconomic disadvantage, and history of 
+health problems). However, ACE scores had poor accuracy in predicting an 
+individual's risk of later health problems (any mental health problem: area 
+under the receiver operating characteristic curve, 0.58 [95% CI, 0.56-0.61]; any 
+physical health problem: area under the receiver operating characteristic curve, 
+0.60 [95% CI, 0.58-0.63]; chance prediction: area under the receiver operating 
+characteristic curve, 0.50). Findings were consistent in the Dunedin cohort 
+using both prospective and retrospective ACE measures.
+CONCLUSIONS AND RELEVANCE: This study suggests that, although ACE scores can 
+forecast mean group differences in health, they have poor accuracy in predicting 
+an individual's risk of later health problems. Therefore, targeting 
+interventions based on ACE screening is likely to be ineffective in preventing 
+poor health outcomes.

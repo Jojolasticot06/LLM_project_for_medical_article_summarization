@@ -1,0 +1,19 @@
+A prospective phase IIA multicenter double-blinded randomized placebo-controlled clinical trial evaluating the efficacy and safety of inhaled Tobramycin in patients with ventilator-associated pneumonia (iToVAP)
+
+1/Objective
+Treatment of ventilated pneumonia is often unsuccessful, even when patients are treated according to current guidelines. Therefore, we aimed to investigate the efficacy of the adjunctive inhaled Tobramycin in patients with pneumonia caused by Gram-negative pathogens in addition to the standard systemic treatment.
+
+2/Design
+Prospective, multicenter, double-blinded, randomized, placebo-controlled clinical trial.
+
+Setting
+26 patients in medical and surgical ICUs.
+
+Patients
+Patients with ventilator-associated pneumonia caused by Gram-negative pathogens.
+
+3/Measurement and main results
+Fourteen patients were assigned to the Tobramycin Inhal group and 12 patients to the control group. The microbiological eradication of the Gram-negative pathogens was significantly higher in the intervention group than in the control group (p < 0.001). The probability of eradication was 100% in the intervention group [95% Confidence Interval: 0.78–1.0] and 25% in the control group [95% CI: 0.09–0.53]. The increased eradication frequency was not associated with increased patient survival.
+
+4/Conclusion
+Inhaled aerosolized Tobramycin demonstrated clinically meaningful efficacy in patients with Gram-negative ventilator-associated pneumonia. The probability of eradication in the intervention group was 100%. However, the successful eradication was not associated with a reduction in systemic anti-infective therapy, a shorter ICU stay, or even a survival benefit. In the presence of multidrug-resistant Gram-negative pathogens that are sensitive only to colistin and/or aminoglycosides, supplemental inhaled therapy with nebulizers suitable for this purpose should be considered in addition to systemic antibiotic therapy.

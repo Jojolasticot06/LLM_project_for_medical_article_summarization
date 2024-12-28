@@ -1,0 +1,13 @@
+Immune microenvironment in patients with mismatch-repair-proficient oligometastatic colorectal cancer exposed to chemotherapy: the randomized MIROX GERCOR cohort study.
+
+1/In the era of immune checkpoint inhibitors, understanding the metastatic 
+microenvironment of proficient mismatch repair/microsatellite stable (pMMR/MSS) 
+colorectal cancer (CRC) is of paramount importance to both prognostication and 
+the development of more effective novel therapies. 
+2/In this study, primary and paired metastasis tissue samples were collected from patients with resectable metastatic CRC treated with adjuvant FOLFOX or peri-operative chemotherapy in the MIROX phase III prospective study. 
+3/In total, 74 cancer tissues were stained for CD3, CD8, Forkhead box protein 3 (FOXP3), programmed cell death protein-1 (PD-1, invasive front, stromal, intra-epithelial compartments), and programmed death-ligand 1 (PD-L1, tumor, immune cells). The immune profiling of primary CRC had a limited value to predict the immune context of paired metastases for all markers but CD3+. The expression of CD8 and PD-L1 was higher in metastases after neoadjuvant FOLFOX. In metastases, both CD3 T cells at the invasive front and PD-L1 expressions on immune cells were predictive of better disease-free survival. 
+4/These results show that the effect of FOLFOX on modifying the immune 
+microenvironment in resected CRC metastases and measurement of PD-L1 expression 
+and tumor-infiltrating CD8 T cells in pMMR/MSS metastatic tissue samples could 
+improve treatment strategies of metastatic CRC patients.
+

@@ -1,0 +1,36 @@
+OBJECTIVES: To evaluate serum dupilumab levels at 16 weeks of treatment and to 
+explore the association of serum dupilumab levels with treatment response and 
+adverse effects in patients with AD.
+DESIGN, SETTING, AND PARTICIPANTS: This clinical, prospective, observational 
+cohort study used data from the prospective BioDay Registry including adult 
+patients with AD who started dupilumab treatment and for whom a serum sample was 
+available at 16 weeks of treatment. All patients were treated according to the 
+BioDay protocol in the University Medical Center Utrecht in the Netherlands. 
+Patients received a loading dose of dupilumab 600 mg subcutaneously, followed by 
+300 mg every other week. Patients who had a dose adjustment or discontinued 
+treatment before 16 weeks of treatment were excluded. Data analyses were 
+performed from January to June 2022.
+MAIN OUTCOMES AND MEASURES: Disease severity of AD was assessed at baseline and 
+at weeks 16 and 52 using the Eczema Area and Severity Index (EASI). Treatment 
+response was defined as the percent reduction in EASI score vs the baseline 
+score (eg, EASI 90 indicated a 90% reduction) and as an absolute EASI cutoff 
+score of 7 or lower (controlled AD). Adverse effects were recorded during the 
+first year. At 16 weeks, dupilumab serum levels and treatment responses were 
+measured and analyzed. Multivariate logistic regression modeling was used to 
+determine the prediction of response (EASI 90; EASI ≤7) and adverse effects at 
+52 weeks, with serum dupilumab levels at 16 weeks in the presence of the 
+covariates age and sex.
+RESULTS: Among the total of 295 patients with AD (mean [SD] age, 41.5 [15.9] 
+years; 170 [57.6%] men), the median (IQR [range]) drug level was 86.6 μg/mL 
+(64.6-110.0 μg/mL [10.1-382.0 μg/mL]) at 16 weeks of treatment. No significant 
+differences were found in serum dupilumab levels between responder statuses 
+(EASI, <50, 50, 75, or 90) at week 16. Multivariate logistic regression analysis 
+showed nonsignificant odds ratios (ORs) for serum dupilumab levels at 16 weeks 
+regarding prediction of long-term response (EASI ≥90: OR, 0.96 [95% CI, 
+0.90-1.04; P = .34] and EASI ≤7: OR, 1.03 [95% CI, 0.93-1.14; P = .55]) and 
+adverse effects (OR, 1.01 [95% CI, 0.95-1.07; P = .83]).
+CONCLUSION AND RELEVANCE: This prospective clinical cohort study found a broad 
+range of serum dupilumab levels at 16 weeks of treatment and no association with 
+treatment response and adverse effects during first year of treatment. Response 
+may be dependent on target availability of the interleukin-4 receptor subunit α, 
+with an interpatient variability producing heterogeneity in response.

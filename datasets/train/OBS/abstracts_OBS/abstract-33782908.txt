@@ -1,0 +1,25 @@
+BACKGROUND: The impact of statins on COVID-19 outcomes is important given the 
+high prevalence of their use among individuals at risk for severe COVID-19. Our 
+aim is to assess whether patients receiving chronic statin treatment who are 
+hospitalized with COVID-19 have reduced in-hospital mortality if statin therapy 
+is maintained during hospitalization.
+METHODS: This work is a cross-sectional, observational, retrospective 
+multicenter study that analyzed 2921 patients who required hospital admission at 
+150 Spanish centers included in the nationwide SEMI-COVID-19 Network. We 
+compared the clinical characteristics and COVID-19 disease outcomes between 
+patients receiving chronic statin therapy who maintained this therapy during 
+hospitalization versus those who did not. Propensity score matching was used to 
+match each statin user whose therapy was maintained during hospitalization to a 
+statin user whose therapy was withdrawn during hospitalization.
+RESULTS: After propensity score matching, continuation of statin therapy was 
+associated with lower all-cause mortality (OR 0.67, 0.54-0.83, p < 0.001); lower 
+incidence of acute kidney injury (AKI) (OR 0.76,0.6-0.97, p = 0.025), acute 
+respiratory distress syndrome (ARDS) (OR 0.78, 0.69- 0.89, p < 0.001), and 
+sepsis (4.82% vs 9.85%, p = 0.008); and less need for invasive mechanical 
+ventilation (IMV) (5.35% vs 8.57, p < 0.001) compared to patients whose statin 
+therapy was withdrawn during hospitalization.
+CONCLUSIONS: Patients previously treated with statins who are hospitalized for 
+COVID-19 and maintain statin therapy during hospitalization have a lower 
+mortality rate than those in whom therapy is withdrawn. In addition, statin 
+therapy was associated with a decreased probability that patients with COVID-19 
+will develop AKI, ARDS, or sepsis and decreases the need for IMV.

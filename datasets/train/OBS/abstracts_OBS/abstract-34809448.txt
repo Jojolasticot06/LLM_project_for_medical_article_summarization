@@ -1,0 +1,25 @@
+OBJECTIVE: Arterial stiffness is a risk factor for cardiovascular disease, 
+including heart failure with preserved ejection fraction (HFpEF). MGP (matrix 
+Gla protein) is implicated in vascular calcification in animal models, and 
+circulating levels of the uncarboxylated, inactive form of MGP (ucMGP) are 
+associated with cardiovascular disease-related and all-cause mortality in human 
+studies. However, the role of MGP in arterial stiffness is uncertain. Approach 
+and Results: We examined the association of ucMGP levels with vascular 
+calcification, arterial stiffness including carotid-femoral pulse wave velocity 
+(PWV), and incident heart failure in community-dwelling adults from the 
+Framingham Heart Study. To further investigate the link between MGP and arterial 
+stiffness, we compared aortic PWV in age- and sex-matched young (4-month-old) 
+and aged (10-month-old) wild-type and Mgp+/- mice. Among 7066 adults, we 
+observed significant associations between higher levels of ucMGP and measures of 
+arterial stiffness, including higher PWV and pulse pressure. Longitudinal 
+analyses demonstrated an association between higher ucMGP levels and future 
+increases in systolic blood pressure and incident HFpEF. Aortic PWV was 
+increased in older, but not young, female Mgp+/- mice compared with wild-type 
+mice, and this augmentation in PWV was associated with increased aortic elastin 
+fiber fragmentation and collagen accumulation.
+CONCLUSIONS: This translational study demonstrates an association between ucMGP 
+levels and arterial stiffness and future HFpEF in a large observational study, 
+findings that are substantiated by experimental studies showing that mice with 
+Mgp heterozygosity develop arterial stiffness. Taken together, these 
+complementary study designs suggest a potential role of therapeutically 
+targeting MGP in HFpEF.

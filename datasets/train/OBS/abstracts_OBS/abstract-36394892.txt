@@ -1,0 +1,23 @@
+PURPOSE: To assess whether macular fluorescence lifetimes may serve as a 
+predictor for long-term outcomes in macula-off rhegmatogenous retinal 
+detachment.
+METHODS: A single-center observational study was conducted. Patients with 
+pseudophakic macula-off rhegmatogenous retinal detachment were included and 
+evaluated 1 and 6 months after successful reattachment surgery. Fluorescence 
+lifetime imaging ophthalmoscopy lifetimes in the central Early Treatment 
+Diabetic Retinopathy Study grid subfield, in two distinct channels (short 
+spectral channel and long spectral channel) were analyzed. Best-corrected visual 
+acuity optical coherence tomography of the macula and fluorescence lifetimes 
+were measured at month 1 and month 6.
+RESULTS: Nineteen patients were analyzed. Lifetimes of the previously detached 
+retinas were prolonged compared with the healthy fellow eyes. Short lifetimes at 
+month 1 were associated with better best-corrected visual acuity improvement 
+(short spectral channel: r2 = 0.27, P < 0.05, long spectral channel: r2 = 0.23, 
+P < 0.05) and with good final best-corrected visual acuity (short spectral 
+channel: r2 = 0.43, P < 0.01, long spectral channel: r2 = 0.25, P < 0.05). 
+Lifetimes were prolonged in some cases of outer retinal damage in optical 
+coherence tomography scans.
+CONCLUSION: Fluorescence lifetime imaging ophthalmoscopy might serve as a 
+prediction tool for functional recovery in pseudophakic macula-off 
+rhegmatogenous retinal detachment. Retinal fluorescence lifetimes could give 
+insight in molecular processes after rhegmatogenous retinal detachment.

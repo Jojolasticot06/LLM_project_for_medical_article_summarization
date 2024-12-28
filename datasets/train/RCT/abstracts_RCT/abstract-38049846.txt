@@ -1,0 +1,31 @@
+BACKGROUND: Germ Defence ( www.germdefence.org ) is an evidence-based 
+interactive website that promotes behaviour change for infection control within 
+households. To maximise the potential of Germ Defence to effectively reduce the 
+spread of COVID-19, the intervention needed to be implemented at scale rapidly.
+METHODS: With NHS England approval, we conducted an efficient two-arm (1:1 
+ratio) cluster randomised controlled trial (RCT) to examine the effectiveness of 
+randomising implementation of Germ Defence via general practitioner (GP) 
+practices across England, UK, compared with usual care to disseminate Germ 
+Defence to patients. GP practices randomised to the intervention arm (n = 3292) 
+were emailed and asked to disseminate Germ Defence to all adult patients via 
+mobile phone text, email or social media. Usual care arm GP practices (n = 3287) 
+maintained standard management for the 4-month trial period and then asked to 
+share Germ Defence with their adult patients. The primary outcome was the rate 
+of GP presentations for respiratory tract infections (RTI) per patient. 
+Secondary outcomes comprised rates of acute RTIs, confirmed COVID-19 diagnoses 
+and suspected COVID-19 diagnoses, COVID-19 symptoms, gastrointestinal infection 
+diagnoses, antibiotic usage and hospital admissions. The impact of the 
+intervention on outcome rates was assessed using negative binomial regression 
+modelling within the OpenSAFELY platform. The uptake of the intervention by GP 
+practice and by patients was measured via website analytics.
+RESULTS: Germ Defence was used 310,731 times. The average website satisfaction 
+score was 7.52 (0-10 not at all to very satisfied, N = 9933). There was no 
+evidence of a difference in the rate of RTIs between intervention and control 
+practices (rate ratio (RR) 1.01, 95% CI 0.96, 1.06, p = 0.70). This was similar 
+to all other eight health outcomes. Patient engagement within intervention arm 
+practices ranged from 0 to 48% of a practice list.
+CONCLUSIONS: While the RCT did not demonstrate a difference in health outcomes, 
+we demonstrated that rapid large-scale implementation of a digital behavioural 
+intervention is possible and can be evaluated with a novel efficient prospective 
+RCT methodology analysing routinely collected patient data entirely within a 
+trusted research environment.

@@ -1,0 +1,750 @@
+Introduction
+The global increase in human colonization with extended-spectrum beta-lactamase-producing Enterobacteriaceae (ESBL-E) in the last two decades has been dramatic (Woerther et al. 2013; Karanika et al. 2016) and poses a significant public health threat (CDC 2019). Antimicrobial resistance is defined as when a microbe no longer responds to a drug it was previously susceptible to. ESBL-producing organisms are resistant to third-generation cephalosporin antibiotics, commonly used for treating Gram-negative bacterial infections. Pooled rates of intestinal carriage of ESBL-producing E. coli (ESBL-EC) in Africa and Asia have been estimated at 46% (Karanika et al. 2016). ESBL-E is readily acquired among international travelers, indicating the ease of global dissemination (Arcilla et al. 2017). Drivers of human colonization with antibiotic-resistant bacteria (ARB) are subject to debate. Key drivers may include transmission through the food chain, overuse and irrational use of antibiotics among humans and animals, or direct contact with enteric bacteria from food-producing animals exposed to antibiotics (Holmes et al. 2016; Day et al. 2019; Van Boeckel et al. 2019).
+Extra-intestinal E. coli infections, including urinary tract infections and bacteremia, arise from gut-colonizing isolates; hence, colonization with antibiotic-resistant E. coli poses significant health risks (Rottier et al. 2015; Day et al. 2019; Isendahl et al. 2019). The health risks reported in high-resource settings (Rottier et al. 2015; Day et al. 2019; Isendahl et al. 2019) are likely to be even greater in the low-resource settings experienced in many low- and middle-income countries (LMICs). Evidence on the effect of direct exposure to food-producing animals on human gut colonization with antibiotic-resistant bacteria in low-resource settings is limited. A One Health approach, the premise that the health of people is connected to the health of animals and the environment, is particularly relevant to antimicrobial resistance (AMR) because of shared resistant bacteria and resistance genes across all three domains (Robinson et al. 2016). In low-resource settings, this is further underpinned by the closely shared physical surroundings of humans and animals and the outdoor environment (Ercumen et al. 2017). Few studies have assessed antibiotic-resistant bacteria and genes in the environment alongside human and animal colonization using a One Health framework in low-resource settings. Many of the existing studies have used clinical, rather than community-based, samples, and sampling is not always at a relevant temporal and spatial scale (Rousham et al. 2018). In China, human colonization with carbapenem-resistant New Delhi metallo-β-lactamase (NDM)-producing E. coli was associated with number of household livestock/animals and the use of human or animal feces, but lacked a comparison group with no livestock (Li et al. 2019). In urban Kenya, the presence of animal manure and human density, but not the presence of animals in the household, were associated with multidrug-resistant isolates in humans; other environmental samples were not assessed (Muloi et al. 2019).
+In South and South East Asian countries, including Bangladesh, the poultry industry has expanded rapidly, with a high reliance on antibiotics as growth promotors and ready access to over-the-counter antibiotics for humans and animals (GARP-Bangladesh National Working Group and GARP-Bangladesh & CDDEP 2018). Community-acquired drug-resistant infections are a significant health threat owing to the unregulated use of antibiotics, a high prevalence of infectious diseases, and limited access to qualified health care professionals (Laxminarayan et al. 2020).
+In the present study, we aimed to assess human colonization with ESBL-producing and carbapenem-resistant E. coli in Bangladesh among humans with habitually high or low exposure to poultry. We selected poultry raised without antibiotics (rural households) as well as poultry raised in high antibiotic use systems (poultry from small-scale commercial farms, and urban markets). We hypothesized that humans with high exposure to poultry, particularly those in high antibiotic use systems, have a significantly higher risk of colonization compared with those with low poultry exposure. A further aim was to characterize antibiotic-resistant genes and susceptibility profiles of antibiotic-resistant E. coli in human, poultry, and environmental samples with direct spatial and temporal connections.
+Methods
+Study Design
+We conducted an observational, cross-sectional survey of ESBL-EC carriage in adults from three contrasting community settings with close human–poultry interactions: a) backyard poultry in rural households; b) small commercial broiler poultry farms; and c) urban food markets that sell live poultry with on-site slaughtering and processing. We used E. coli as a clinically relevant organism and a recommended One Health sentinel for community antibiotic-resistant bacteria (WHO 2017b). In each setting, we selected adults with habitual daily exposure to poultry (high exposure) and a comparison group from the same setting with low or no direct exposure to poultry (low exposure) but with otherwise comparable environments. We compared poultry slaughterers with grocery food sellers in the same market; poultry farm workers with nonfarm workers from the same village, and poultry-owning householders with nonpoultry-owning householders from the same village. Our conceptual framework has been outlined previously (Rousham et al. 2018). We followed Microbiology Investigation Criteria for Reporting Objectively (MICRO) guidelines (Turner et al. 2019) and the Checklist for One Health Epidemiological Reporting of Evidence (COHERE) (Davis et al. 2017).
+The present study was the main component of a wider project on spatial and temporal dynamics of antimicrobial resistance transmission in Bangladesh (Rousham et al. 2018). The project included smaller substudies with different participants, using structured observations of humans and poultry exposures and qualitative interviews with rural poultry owners, poultry farmers, and poultry market workers, which are reported elsewhere (Alam et al. 2019; Masud et al. 2020).
+Study Sites
+Rural households and poultry farms were located in Mirzapur subdistrict, Bangladesh. Urban live poultry markets were in Dhaka. Commercial broiler farms were small (300–2,000 birds) to medium (2,000–5,000 birds)–sized family-run businesses. Mature birds are transported live from farms to Dhaka for onward distribution and sale. In the live bird markets, poultry are either sold alive or slaughtered and processed on-site for customers. Biosecurity measures, such as use of face masks, gloves, protective clothing, appropriate footwear, or washing with soap and clean water before and after handling poultry, were scant or nonexistent in the farms and urban food markets (Alam et al. 2019).
+Sampling
+Figure 1 summarizes the conceptual framework and sample collection. We collected samples from 20 rural villages, 40 commercial broiler farms, and 40 urban markets selling live poultry. In each village, farm, and market, we sampled one adult with high exposure to poultry, one adult with low exposure to poultry, and one chicken associated with the high-exposure human. One animal/unit was recommended as the most precise and sensitive sampling strategy for monitoring antimicrobial resistance via antibiotic-resistant bacteria and antibiotic susceptibility testing (Yamamoto et al. 2014). The water supply and wastewater outlet for each household/farm/market was also sampled.
+
+Figure 1. The conceptual framework and sampling plan is shown, including 20 markets, 20 farms, and 10 households sampled in the winter/dry season and a further 20 markets, 20 farms, and 10 households sampled in the summer/wet season. One poultry seller/slaughterer and one nonpoultry seller were sampled from each market.
+OPEN IN VIEWER
+The detailed sampling of villages, farms, and markets was as follows. Twenty rural villages were selected from 7 of the 15 administrative areas (unions) in Mirzapur subdistrict. Villages were selected based on proximity to one of the five branches of the rivers Bangshi and Lauhojong for another aim of the study. Of the villages meeting this criterion, convenience sampling was employed to select 20 villages. From each village, 1 poultry-owning household was selected by entering the village, omitting the first 10 eligible households and approaching the next eligible household to participate. The same method was used to select 1 nonpoultry-owning household. The adult responsible for poultry keeping was invited to participate. In all rural households this was a female adult; therefore, we selected an adult female participant in nonpoultry-owning households.
+Selection of farms started with a liaison with the local government livestock office that maintained a list of 
+ registered farms. The same criterion of being located close to a branch of the river was applied. Among farms meeting this inclusion criterion, convenience sampling was applied. Forty farms were selected from 35 villages across 13 unions in the subdistrict. In 31 villages, we selected 1 poultry farm (one poultry farmer per farm as a high-exposure participant) and one nonfarm worker from the corresponding village as a low-exposure participant. Given that we reached saturation in the number of farms available based on 1 per village, this was relaxed in 2 villages where 2 poultry farms (one worker per farm) and two nonfarm workers were selected, and in 1 large village where 4 poultry farms (one worker per farm) and four nonfarm workers were selected from the same village (Table S1). From the 40 participating farms, one farm worker was selected per farm. The poultry farm participant was either the owner or a worker (usually a family member). A member of the same village who did not own or work in a poultry farm was selected as the low-exposure participant. These households were recruited by entering the village, omitting the first 10 eligible households and approaching the next eligible household to participate. After selecting a household, the male head of household was recruited where possible. In three cases where the head of household was female, we recruited female nonfarm worker participants. The purpose of the nonfarm worker group was to select residents from the same village who did not work in small-scale commercial poultry farming.
+In Dhaka City, 40 fresh food markets that sell live poultry were selected. Selected markets included 25 from a list of those registered under Dhaka City North and South corporation and a further 15 via convenience sampling over different locations in the metropolitan area. No comprehensive list of all markets was available. In each market, one poultry seller/slaughterer (high exposure) and one fruit/vegetable or grocery seller (low exposure) from the same market were selected. Sampling started in the center of a market, omitting the first 10 eligible stalls, approaching the next eligible stall to request participation. The participant was either the owner or an employee recruited with the owner’s permission (one market stall typically had two to three workers). In the urban markets, all stall holders were male, both for the poultry stalls and fruit/vegetable or grocery stalls.
+After selection of the human participant from the poultry-owning households, poultry farms, and poultry stalls in markets, one live bird from each was selected at random. No criteria for selection of the poultry were applied. Poultry, wastewater, and drinking-water samples were collected on the same day.
+Participants reported recent illness and personal antibiotic consumption (previous 4 wk and 6 months) via an interviewer-administered survey. Each poultry-exposed participant was asked for information on the food (commercial feeds vs. home-made foods or food waste) and antibiotics provided to poultry given that they were personally responsible for administering antibiotics. Our field staff examined all medicines or vitamin and supplement products and packaging in use at the time of the survey to identify those which were antibiotics and recorded the brand names or generic drug names being used. After the survey, the product names and generic antibiotics were classified according to antibiotic class. Data were collected across two sampling periods, with half of the samples collected during each season: February–April 2017 (winter, dry season) and August–October 2017 (summer, wet season) to incorporate seasonal variation. For each farm worker, poultry owner, and market poultry seller, the low-exposure counterpart from the same village or market was sampled in the same season. Different markets, farms, and households were surveyed in each season.
+Ethical Considerations
+Written and verbal information about the study was provided, and participating volunteers gave written informed consent. Ethical clearance was obtained from the International Centre for Diarrhoeal Disease Research, Bangladesh (PR-16071) and Loughborough University (R17-P037). Chickens were purchased on a commercial basis and slaughtered by the owner/vendor who had consented to participate. Owners followed their normal procedure for slaughtering animals as for domestic consumption or commercial sale.
+Sample Collection
+We collected human fecal samples, poultry ceca samples, and mixed feces from different poultry following standard methods (Rousham et al. 2018). Study participants were provided with a stool sample container and asked to provide a fecal sample that was then collected by our field staff within 2 h and placed immediately on ice packs in a cool box. For poultry ceca samples, the chicken was slaughtered and the skin removed on-site by the owner following their usual procedures. The carcass was placed in a sterile zip-lock bag that was sealed immediately and placed inside a cool box. For poultry mixed fecal samples, 
+ of poultry litter was collected from the same living area (rural households), housing unit (farm), or cage (markets) as the poultry ceca sample using a gloved hand from three different areas of the housing or cage. After placing the litter in a sterile plastic bag, it was mixed thoroughly and the bag was placed immediately in a cool box.
+In rural households and farms, water supply samples were obtained directly from tube wells. Water supply samples were collected from the tube well directly supplying the rural poultry-owning and nonpoultry-owning households. For farms, only the tube well water to the farm was sampled, and not the water supply to the nonfarm worker households. Municipal water supply samples were collected from taps in each market. Approximately 
+ of wastewater was collected at three locations of the run-off drain adjacent to the farm, household, or market by dipping a sterile container into the drain. Wastewater samples were not collected from nonpoultry-owning households or nonfarm worker households. Wastewater samples were then pooled in a sterile 
+ plastic bottle (Nalgene).
+All samples collected at the study sites were placed immediately in a cool box (4–8°C) and transported to the laboratory within 5 h of collection. Samples were refrigerated and processed within 18 h after collection. In the laboratory, ceca samples were taken from the chicken carcass aseptically by cutting the keel bone, identifying and excising the cecum using sterilized scissors and extracting cecal contents from the opening using gentle pressure. Ceca samples were stored in a sterile container.
+Laboratory Processing and Analysis
+DNA was extracted using MO Bio Power Water DNA isolation kit (MO BIO Laboratories Inc.) for drinking and wastewater samples; MO Bio Power Soil DNA isolation kit (MO BIO Laboratories Inc.) for mixed poultry fecal samples, and QIAamp DNA Stool Mini Kit (Qiagen) for human fecal and poultry ceca samples.
+Quantification of 
+ and 
+ Genes
+Gene amplification for 
+ and 
+ employed a Bio-Rad CFX96 real-time polymerase chain reaction (PCR) platform using TaqMan technology. Primers, probes, and PCR conditions were as follows: The primers and probes targeting 
+ (CTX-M-1 qF: 5′-ACG TGG CGA TGA ATA AGC TG-3′; CTX-M-1 qR: 5′-CCC GAG GTG AAG TGG TAT CA-3′; CTX-M-1 probe: FAM 5′-ACG TTA AAC ACC GCC ATT CC-3′BHQ) and 
+ (NDM-1qF: 5′-CAA CAC AGC CTG ACT TTC GC-3′; NDM-1qR: 5′-CAG CCA AAA GCG ATG TC-3′; NDM-1 probe: FAM 5′-TGG CCC GCT CAA GGT ATT TT-3′BHQ) were designed in-house to amplify the 159-bp and 152-bp amplicons, respectively. The sensitivity of the TaqMan assay was optimized at the final probe and primer (each) concentration of 
+ and 
+, respectively. The μ
+ quantitative PCR (qPCR) mixture contained μ
+ of SsoAdvancedsupermix (
+) (Bio-Rad), μ
+ of each primer (
+), μ
+ of probe (
+), μ
+ of nuclease-free water and μ
+ of template DNA. qPCR was performed under the following conditions: an initial enzyme activation at 95°C for 3 min and thereafter 35 amplification cycles of denaturation at 95°C for 15 s and annealing at 57°C for 25 s. A recombinant plasmid DNA (
+) containing target gene sequences (
+ and 
+) was commercially produced (IDT Inc.) and used to prepare a known concentration of DNA solution. The stock solution of plasmid DNA (μ
+) was 10-fold serially diluted to make solutions containing 
+ copies of plasmid DNA that were used for generating a standard curve. The amplification of standard DNA was linear over dilutions (
+; 
+, 
+, and 
+). The Cq value variation for 
+ and 
+ was 31.35–34.79 at the limit of detection (LOD). Each sample was run in triplicate, and amplification was only considered as positive if all three technical replicates showed a positive result. The mean copy number of genes calculated from three replicates of each sample was used in downstream analysis. Data were analyzed using Bio-Rad CFX Manager (version 3.1).
+Culture of E. coli Resistant to Third-Generation Cephalosporin or Carbapenem
+From human and poultry feces samples, 
+ was mixed with 
+ of sterile phosphate-buffered saline, and 10-fold serial dilutions were made. From each dilution, three aliquots of suspension (
+) were inoculated onto one CHROMagar ESBL, one CHROMagar KPC (CHROMagar), and one TBX agar plates (Oxoid Ltd.). After incubation at 37°C for 18–24 h, the number of typical colonies of E. coli on each plate (dark pink-reddish colonies on ESBL and KPC plates; blue-green colonies on TBX plates) were counted. From the ESBL and KPC plates, two typical colonies were extracted and subcultured on MacConkey agar supplemented with cefotaxime (
+) and meropenem (
+), respectively, to obtain pure cultures.
+For drinking-water samples, 
+ of water was passed through two μ
+ cellulose membrane filters, and the filters were placed on three modified mTEC agar media plates (BD Difco): one without supplementation, one supplemented with cefotaxime (
+), and one supplemented with meropenem (
+). Plates were incubated at 37°C for 2 h followed by 18 h of incubation at 44°C. After incubation, the blue colonies typical of E. coli were counted. At least two isolated colonies were extracted from each sample plate and stored at 
+ and stored for further analysis.
+For biochemical identification and confirmation, one E. coli isolate from each sample was tested using API20E kits (BioMérieux). For any sample where the presumptive E. coli test was negative, a second isolate was tested to confirm E. coli identification.
+Antibiotic Susceptibility Testing and Detection of Antibiotic-Resistant Genes
+Antibiotic susceptibility tests (ASTs) were conducted on one ESBL-producing isolate per sample against 16 antibiotics by standard disk diffusion following Clinical and Laboratory Standards Institute (CLSI) guidelines (CLSI 2016). We prioritized critical antibiotics for human medicine (WHO 2017a), namely: gentamycin (concentration μ
+), meropenem (μ
+), ertapenem (μ
+), imipenem(μ
+), ceftriaxone (μ
+), cefotaxime zone (μ
+), ceftazimide (μ
+), cefixime (μ
+), cefepime (μ
+), ampicillin (μ
+), ciprofloxacin (μ
+), nalidixic acid (μ
+), cefoxitin (μ
+), sulfamethoxazole/trimethoprim (μ
+), nitrofurantoin (μ
+), and pipercillin-tazobactam (μ
+). ASTs for all 16 antibiotics are provided in Table S1. ASTs were grouped as seven antibiotic classes (WHO 2017a). An isolate was considered resistant to a class of antibiotic if resistance was detected to one antibiotic within that class.
+One isolate per sample was tested for genes encoding ESBL (
+, 
+, 
+, 
+, 
+, 
+); carbapenemase (
+, 
+); fluoroquinolone resistance (qnrA, qnrB, qnrS), and 16S rRNA methyltransferase (rmtB, rmtC, and armA) conferring aminoglycoside resistance.
+Statistical Analysis
+The primary outcomes were ESBL-producing and carbapenem-resistant E. coli prevalence and abundance and gene copy number for antibiotic-resistant genes assessed by qPCR in humans according to poultry exposure (high vs. low) and environmental setting (rural, farm, or market). The denominator for resistant bacteria prevalence and abundance and quantitative gene counts in human was the total number of human samples rather than the total number of ESBL-EC isolates (Turner et al. 2019). Similarly, the denominator for prevalence and abundance in poultry and wastewater was the total number of poultry and wastewater samples, respectively. Bacterial counts and gene copy number were log-transformed (
+) due to nonnormal distributions. For counts and gene copies, zero (negative) values were imputed with a random generated number between zero and the LOD for each sample type (human, cecal, mixed feces, drinking water, and wastewater) assuming a normal distribution following recommended methods for left-censored data (Canales et al. 2018). Few isolates were positive for carbapenem resistance and 
+ gene abundance; therefore, counts were enumerated but not included in analyses other than wastewater samples. For antibiotic susceptibility tests and gene prevalence (via conventional PCR), the denominator was only those samples that tested positive for ESBL-EC isolates.
+Resistance gene prevalence from conventional PCR were expressed as a proportion of all ESBL-EC–positive isolates. qnrA, qnrB, qnrS were collapsed into one group (qnr); a positive isolate for one gene was counted as qnr positive. Similarly, rmtB, rmtC, or armA were collapsed into one group for 16S rRNA methyltransferase genes. 
+ was not detected in any of the isolates.
+For antibiotic susceptibility tests, intermediate and susceptible readings were considered as susceptible. For analysis, ESBL-EC–positive isolates were grouped based on hypothesized differences in the conceptual study design. For humans, comparisons were based on high- or low-poultry exposure. For poultry, groups were based on high or low administration of antibiotics. All positive isolates from high-exposure human samples were evaluated as a group, and all positive low-exposure human samples were evaluated as a group. All positive poultry ceca and mixed feces samples were combined to represent the poultry component. All positive household poultry samples were evaluated as a low antibiotic use group and all positive farm and market poultry samples were combined as a high antibiotic use group given that these were raised in production systems with high antibiotic use.
+Data analysis was conducted using IBM SPSS (version 23.0). Univariate analyses (chi-square or unadjusted logistic regression analysis) examined differences in bacterial or gene prevalence in human associated with high or low exposure to poultry, and differences between poultry raised with high antibiotic use (farms, markets) or low antibiotic use (household poultry). Differences in resistant bacteria counts or gene abundance [
+, 
+, and 
+ gene copy number] were examined using univariate linear regression for humans, poultry, drinking water, and wastewater. Multivariable logistic regression and linear regression analyses were conducted using 
+, adjusting for season (dry/winter vs. wet/summer) and setting (rural households, farms, or markets). For multivariable analyses of human samples, additional variables of self-reported antibiotic consumption in the previous 4 wk (no, yes) and exposure group (low, high) were included. Analyses of bacterial counts and gene copy number were conducted on 
+-transformed data that were used to calculate the geometric means (GMs) and geometric standard deviations (GSDs). For AST and gene frequencies, differences between groups were analyzed using the chi-square test. Chi-square tests were performed only when the assumption was met of five or more expected observations in each cell.
+Statistical significance was taken as 
+. We did not adjust for multiple comparisons because this was an exploratory study with no anticipated effect size for comparison of risk.
+Data Availability
+Data are open access and available at the NERC Environmental Data Repository. The relevant datafiles and metadata can be found at: https://doi.org/10.5285/0239cdaf-deab-4151-8f68-715063eaea45 and https://doi.org/10.5285/dda6dd55-f955-4dd5-bc03-b07cc8548a3d.
+Results
+Participants
+In rural households, all participants with responsibility for household poultry were female. All participants from poultry farms and urban markets were male, reflecting the predominantly male workforce in these occupations (Table 1). Overall, 13% percent of participants reported consuming antibiotics in the previous 4 wk, and 18% in the previous 6 months. Although the proportion of participants reporting consumption of antibiotics varied, there were no statistically significant differences between the high- and low-exposure groups (Table 1). In the nonfarm worker group recruited from the same villages as farm workers, occupations included farmer (noncommercial) or day laborer (17/40, 42%), trader/business owner (14/40, 35%), housewife (3/40, 7.5%), office worker (3/40, 7.5%), and student or other (3/40, 7.5%).
+Table 1 Participant characteristics, prevalence, and concentration of antibiotic-resistant E. coli and resistance genes (
+) from rural households, commercial poultry farms, and urban food markets among humans with high and low exposure to poultry (total 
+) in Bangladesh.
+ 	Rural households	Poultry farms	Urban markets
+Characteristics	High-exposure human (
+)	Low-exposure human (
+)	OR (95% CI), 
+-value or mean differencea	High-exposure human (
+)	Low-exposure human (
+)	OR (95% CI), 
+-value or mean difference	High-exposure human (
+)	Low-exposure human (
+)	OR (95% CI), 
+-value or mean difference
+Age (y) [mean (SD)]	37.9 (13.0)	37.5 (12.7)	
+ (
+, 7.81) 
+42.7 (12.7)	43.2 (11.9)	0.52 (
+, 6.02) 
+31.2 (8.2)	36.6 (11.9)	5.40 (0.83, 9.96) 
+Male [
+ (%)]	0	0	NAb	40 (100)	37 (93)	NA	40 (100)	40 (100)	NA
+ESBL-E. coli positive {
+ [% (95% CI)]}	13 [65.0 (42.0, 88.0)]	17 [85.0 (68, 1.00)]	0.33 (0.71, 1.52)	25 [62.5 (47.0, 78.0)]	25 [62.5 (47.0, 78.0)]	1.00 (0.40, 2.47)	29 [72.5 (58.0, 87.0)]	26 [65.0 (50.0, 80.0)]	1.42 (0.55, 3.67)
+Carbapenem-resistant E. coli positive {
+ [% (95% CI)]}	0	0	NA	0	0	NA	2 [5.0 (
+, 12.1)]	0	NA
+GM ESBL-E. coli count [
+ (GSD)c]	3.07 (1.64)	3.27 (1.39)	0.05 (
+, 1.03) 
+2.76 (1.54)	3.06 (1.98)	0.43 (
+, 1.21) 
+3.25 (1.64)	2.67 (1.47)	
+ (
+, 0.22) 
+GM 
+ [
+ copy number (GSD)c]	5.49 (1.69)	5.58 (1.15)	
+ (
+, 0.74) 
+5.79 (1.36)	6.07 (1.23)	0.21 (
+, 0.79) 
+5.67 (1.44)	5.62 (1.30)	
+ (
+, 0.28) 
+Reported antibiotic consumption
+ Previous 4 wk {
+ [% (95% CI)]}	3 [15.0 (
+, 32.0)]	1 [5.0 (
+, 15.0)]	NA	3 [8.0 (1.0, 16.0)]	5 [13.0 (2.0, 23.0)]	NA	7 [18.0 (5.0, 30.0)]	7 [18.0 (5.0, 30.0)]	
+d
+ Previous 6 months {
+ [% (95% CI)]}	3 [15.0 (
+, 32.0)]	2 [10.0 (
+, 24.0)]	NA	4 [10.0 (0.0, 20.0)]	9 [22.5 (9.0, 36.0)]	
+d	7 [18.0 (5.0, 30.0)]	12 [30.0 (15.0, 45.0)]	
+d
+Proportion of households/farms/markets administering antibiotics to poultry [
+ (%)]	2 (10)	NA	NA	38 (95)	NA	NA	0 (0)	NA	NA
+Note: CFU, colony-forming unit; CI, confidence interval; ESBL-E. coli, extended-spectrum β
+-producing E. coli; GM, geometric mean; NA, not applicable; OR, odds ratio; SD, standard deviation; GSD, geometric standard deviation.
+a
+Independent samples 
+-test.
+b
+Statistical test not conducted due to small sample size.
+c
+For counts and gene copies, zero (negative) values were imputed with a random generated number between zero and the limit of detection for human samples assuming a normal distribution following recommended methods for left-censored data (Canales et al. 2018).
+d
+Chi-square test.
+OPEN IN VIEWER
+Use of Antibiotics in Poultry
+In poultry-owning households, only 10% (2/20) were using antibiotics (tetracycline) for poultry for treatment of illness. None used antibiotics as prophylaxis or for growth promotion. Household poultry were fed household food scraps and scavenged food. Only 1 of the 20 households used commercial feed for their household poultry. In poultry farms, the median flock size was 800 birds (range 400–4,500). All poultry farms used commercial feed. Almost all farms (95%, 38/40) administered antibiotics to poultry and 80% of the farms were giving multiple antibiotics simultaneously at the time of survey (
+) (Figure 2). The most commonly used antibiotics were tetracycline (administered on 62.5% of farms at the time of survey), fluoroquinolones (ciprofloxacin and enrofloxacin; 55% of farms), and macrolides (erythromycin or tylosin; 37.5% of farms). Fifteen percent (6/40 farms) administered polymyxins (colistin sulphate). Antibiotics were administered by the farm workers by adding to water. No poultry sellers in urban markets reported administering antibiotics to poultry at the time of the survey.
+
+Figure 2. (A) Proportion (%) of farms administering each class of antibiotic to poultry at the time of the survey and (B) proportion (%) of farms according to the number of different antibiotics administered to poultry in 40 commercial poultry farms in Mirzapur subdistrict, Bangladesh.
+OPEN IN VIEWER
+Prevalence of ESBL-EC and Carbapenem-Resistant E. coli in Poultry and the Environment
+Poultry ceca and poultry fecal litter.
+ESBL-EC prevalence in poultry ceca was 55.0% [95% confidence interval (CI): 31.1, 78.9], 37.5% (95% CI: 21.8, 53.2), and 72.5% (95% CI: 58.0, 87.0) in households, farms, and markets, respectively (Table S2). Mean 
+ ESBL-EC count was significantly higher in market poultry ceca (
+) compared with farm poultry (
+) and household poultry (
+), analysis of variance 
+; Table S2. 
+ copy number was also significantly higher in poultry ceca from markets compared with poultry ceca from farms and households (Table S2).
+In poultry mixed fecal samples, ESBL-EC prevalence was 90% (95% CI: 75.6, 104.4) in households, 67.5% (95% CI; 52.3, 82.7) in farms, and 90% (95% CI: 80.3, 99.7) in markets). ESBL-EC counts and 
+ abundance were significantly higher in market poultry compared with poultry from farms and rural households (Table S2). Carbapenem resistance was observed in only 1 poultry ceca sample and 1 poultry mixed fecal sample (Table S2).
+For subsequent analyses, poultry ceca and mixed fecal samples were combined within rural households to represent the poultry component of the One Health framework, and the same was done for ceca and mixed feces samples from farms and from urban markets. Adjusted logistic regression showed ESBL-EC colonization was significantly less likely in farm poultry compared with market poultry (reference category) [
+ (95% CI: 0.11, 0.49)] and significantly more likely in the summer/wet season compared with the winter/dry season [adjusted 
+ (95% CI: 1.46, 5.36)] (Table 3). Corresponding models were not run for carbapenem-resistant E. coli prevalence because only two samples tested positive.
+Table 2 Univariate and multivariable analyses of antibiotic resistant bacteria prevalence and abundance and 
+ gene copy number in human (
+) samples in relation to setting, poultry exposure (high versus low), season and self-reported antibiotic consumption in previous 4 weeks in rural households, poultry farms and urban markets in Bangladesh.
+Human samples (
+)	Categories	ESBL-E. coli positive 
+ (%; 95% CI)	Unadjusted OR (95% CI)	Adjusted OR (95% CI)a	GM 
+ ESBL E. coli counts (GSD)b	Unadjusted linear regression beta (95% CI)	Adjusted linear regression beta (95% CI)c	GM 
+ 
+ copy no. (GSD)b	Unadjusted linear regression beta (95% CI)	Adjusted linear regression beta (95% CI)d
+Setting	Households 
+30 (75; 61.0, 89.0)	1.36 (0.59, 3.21) 
+1.42 (0.60, 3.39) 
+3.17 (1.51)	0.03 (
+, 0.74) 
+0.04 (
+, 0.79) 
+5.54 (1.43)	
+ (
+, 0.33) 
+ (
+, 0.36) 
+Farms 
+50 (63; 52.0, 73.3)	0.76 (0.39, 1.45) 
+0.78 (0.40, 1.51) 
+2.91 (1.78)	0.00 (
+. 0.52)
+0.02 (
+, 0.57) 
+5.93 (1.30)	0.07 (
+, 0.59) 
+0.09 (
+, 0.63) 
+Markets 
+55 (69.0; 58.4, 79.1)	Ref	Ref	2.95 (1.57)	Ref	Ref	5.64 (1.36)	Ref	Ref
+Exposure	High 
+67 (67.0; 57.6, 76.4)	0.95 (0.53, 1.73) 
+0.96 (0.53, 1.75) 
+2.94 (1.68)	0.00 (
+, 0.45) 
+0.00 (
+, 0.45) 
+5.79 (1.25)	0.02 (
+, 0.42) 
+0.02 (
+, 0.41) 
+Low 
+68 (68.0; 58.7, 77.3)	Ref	Ref	3.01 (1.60)	Ref	Ref	5.68 (1.45)	Ref	Ref
+Season	Summer/wet 
+74 (74.0; 65.3, 82.7)	1.82 (1.00, 3.32) 
+1.94 (1.05, 3.59) 
+2.79 (0.38)	0.05 (
+, 0.62) 
+0.08 (
+, 0.71) 
+5.96 (1.39)	0.19 (0.14, 0.85) 
+0.22 (0.20, 0.92) 
+Winter/dry 
+61 (61.0; 51.3, 70.7)	Ref	Ref	2.85 (0.46)	Ref	Ref	5.52 (1.28)	Ref	Ref
+Antibiotic consumption last 4 weeks	Yes 
+19 (73.1; 54.8, 91.3)	1.36 (0.54, 3.41) 
+1.61 (0.62, 4.18) 
+3.22 (1.76)	0.13 (
+, 1.29) 
+0.15 (0.02, 1.40) 
+6.28 (1.49)	0.01 (
+, 0.91) 
+0.14 (0.00, 1.07) 
+No 
+116 (66.7; 59.6, 73.7)	Ref	Ref	2.94 (1.62)	Ref	Ref	5.66 (1.32)	Ref	Ref
+Note: ANOVA, analysis of variance; CI, confidence interval; ESBL-E. coli, extended-spectrum b-lactamase-producing E. coli; GM, geometric mean; OR, odds ratio; Ref, reference category; GSD, geometric standard deviation.
+a
+Model summary: Goodness of fit test (Omnibus coefficient) 
+; Cox and Snell 
+ Nagelkerke 
+.
+b
+For 
+ counts and gene copy number, zero (negative) values were imputed with a random generated number between zero and the limit of detection for each sample type (human, ceca, mixed feces, drinking water and wastewater) assuming a normal distribution following recommended methods for left-censored data (Canales et al., 2018).
+c
+Model summary: Adjusted 
+, ANOVA 
+.
+d
+Model summary: Adjusted 
+, ANOVA 
+.
+OPEN IN VIEWER
+Table 3 Univariate and multivariable analyses of antibiotic resistant bacteria prevalence and abundance and 
+ gene copy number in poultry (
+) samples in relation to setting and season in rural households, poultry farms and urban markets in Bangladesh.
+Poultry caeca and mixed faeces samples (
+)	Categories	
+ESBL-E. coli positive 
+ (%; 95% CI)
+Unadjusted OR (95% CI)	Adjusted OR (95% CI)a	GM 
+ ESBL E. coli counts (GSD)b	Unadjusted linear regression beta (95% CI)	Adjusted linear regression beta (95% CI)c	GM 
+ 
+ copy no. mean (GSD)b	Unadjusted beta (95% CI)	
+Adjusted beta (95% CI)d
+Setting	Households 
+29 (72.5; 58.0, 87.0)	0.61 (0.25, 1.48) 
+0.60 (0.24, 1.48) 
+3.01 (1.52)	
+ (
+, 
+) 
+ (
+, 
+) 
+4.70 (1.64)	
+ (
+, 
+) 
+ (
+, 
+) 
+Farms 
+42 (52.5; 41.3, 63.7)	0.26 (0.12, 0.52) 
+0.23 (0.11, 0.49) 
+2.57 (1.31)	
+ (
+, 
+) 
+ (
+, 
+) 
+4.71 (1.13)	
+ (
+, 
+) 
+ (
+, 
+) 
+Markets 
+65 (81.3; 72.5, 90.0)	Ref	Ref	3.47 (1.49)	Ref	Ref	5.48 (1.42)	Ref	Ref
+Season	Summer/wet 
+78 (78; 69.7, 86.3)	2.57 (1.38, 4.76) 
+2.81 (1.46, 5.36) 
+2.80 (1.35)	0.11 (
+, 0.75) 
+0.11 (
+, 0.73) 
+4.74 (1.12)	0.21 (0.21, 1.03) 
+0.21 (0.23, 1.01) 
+Winter/dry 
+58 (58; 48.2, 67.8)	Ref	Ref	2.57 (1.63)	Ref	Ref	5.28 (1.59)	Ref	Ref
+Note: ANOVA, analysis of variance; CI, confidence interval; ESBL-E. coli, extended-spectrum beta-lactamase-producing E. coli; GM, geometric mean; OR, odds ratio; Ref, reference category; GSD, geometric standard deviation.
+a
+Model summary: Goodness of fit test (Omnibus coefficient) 
+; Cox and Snell 
+, Nagelkerke 
+.
+b
+For 
+ counts and gene copy number, zero (negative) values were imputed with a random generated number between zero and the limit of detection for each sample type (human, cecal, mixed feces, drinking water and wastewater) assuming a normal distribution following recommended methods for left-censored data (Canales et al., 2018).
+c
+Model summary: Adjusted 
+, ANOVA 
+.
+d
+Model summary: Adjusted 
+ANOVA, 
+.
+OPEN IN VIEWER
+Multivariable linear regression of ESBL-EC counts in poultry showed no difference by season [adjusted 
+ (95% CI: 
+, 0.73)] but were significantly higher in poultry from markets compared with poultry from farms [adjusted 
+ (95% CI: 
+, 
+)] and of borderline significance compared with households [adjusted 
+ (
+, 
+)]. 
+ gene copy number was significantly higher in market poultry compared with farm poultry [adjusted 
+ (95% CI: 
+, 
+)] and household poultry [adjusted 
+ (95% CI: 
+, 
+)] and was higher in the summer/wet season compared with the winter/dry season [
+ (95% CI: 0.23, 1.01)].
+Drinking-water and wastewater samples.
+Table 4 shows that ESBL-EC prevalence in water supplies was 37.5% (95% CI: 21.8, 53.2) in markets, with significantly lower prevalence rates in farms [10.0% (95% CI: 0.3, 19.7)] and households [5.0% (95% CI: 2.1, 12.1)]. Mean ESBL-EC counts in water supplies were also significantly higher in markets compared with farms [adjusted 
+ (95% CI: 
+, 
+)] and households [adjusted 
+ (95% CI: 
+, 
+)]. Carbapenem-resistant E. coli were not detected in any water supplies. There were no significant differences in drinking water between the winter/dry season or the summer/wet season (Table 4).
+Table 4 Univariate and multivariable analyses of antibiotic resistant bacteria prevalence and abundance and 
+ gene copy number in drinking water (
+) samples in relation to setting and season in rural households, poultry farms and urban markets in Bangladesh.
+Drinking water samples
+(
+)
+Category	ESBL-E. coli positive 
+ (%; 95 CI)	Unadjusted OR (95% CI)	Adjusted OR (95% CI) a	Carbapenem-resistant E. coli positive 
+ (%; 95 CI)	Unadjusted OR (95% CI)	Adjusted OR (95% CI)	GM 
+ ESBL E. coli counts (GSD)b	Unadjusted beta (95% CI)	Adjusted beta (95% CI)c	GM 
+ Carbapenem resistant E.coli counts (GSD)	Unadjusted beta (95% CI)	Adjusted beta (95% CI)	GM 
+ 
+ copy no. mean (GSD)	Unadjusted beta (95% CI)	Adjusted beta (95% CI)
+Setting	Households (
+)	2 (5.0; 
+, 12.1)	0.09 (0.02, 0.42) 
+0.09 (0.02, 042) 
+0	NAd	NA	0.08 (0.14)	
+ (
+, 
+) 
+ (
+, 
+) 
+NA	NA	NA	2.81 (0.88)	NA	NA
+Farms (
+)	4 (10.0; 0.3, 19.7)	0.18 (0.06, 0.62) 
+0.18 (0.05, 0.62) 
+0	NA	NA	0.16 (0.41)	
+ (
+, 
+) 
+ (
+, 
+) 
+NA	NA	NA	NA	NA	NA
+Markets (
+)	15 (37.5; 21.8, 53.2)	Ref	Ref	0	NA	NA	0.28 (0.63)	Ref	Ref	NA	NA	NA	NA	NA	NA
+Season	
+Summer/wet
+(
+)
+11 (18.3; 8.3, 28.4)	1.12 (0.44, 2.88)	1.14 (0.41, 3.16)	0	NA	NA	0.19 (0.53)	0.05 (
+, 0.21) 
+0.05 (
+, 0.21) 
+NA	NA	NA	2.73 (0.64)	NA	NA
+Winter/dry
+(
+)
+10 (16.7; 7.0, 26.4)	Ref	Ref	0	NA	NA	0.16 (0.46)	Ref	 	NA	NA	NA	NA	NA	NA
+Note: ANOVA, analysis of variance; CI, confidence interval; ESBL-E. coli, extended-spectrum b-lactamase-producing E. coli; GM, geometric mean; OR, odds ratio; NA, not applicable; Ref, reference category; GSD, geometric standard deviation.
+a
+Model summary: Goodness of fit test (Omnibus coefficient) 
+, Cox and Snell 
+, Nagelkerke 
+.
+b
+For counts and gene copies, zero (negative) values were imputed with a random generated number between zero and the limit of detection for each sample type (human, ceca, mixed feces, drinking water and wastewater) assuming a normal distribution following recommended methods for left-censored data (Canales et al., 2018).
+c
+Model summary: Adjusted 
+, ANOVA 
+.
+d
+Statistical test not conducted due to small sample size.
+OPEN IN VIEWER
+In household and farm wastewater samples, 90.0% (95% CI: 80.3, 99.7) of samples were positive for ESBL-EC, and in market wastewater samples, 97.0% (95% CI: 92.4, 102.6) were positive (Table 5). Logistic regression showed ESBL-EC prevalence in wastewater did not differ by setting or season (Table 5). Carbapenem-resistant E. coli prevalence was significantly higher in urban market wastewaters, 30.0% (95% CI: 15.2, 44.8), compared with rural households, 7.5% [adjusted 
+ (95% CI: 0.05, 0.73)], and farms, 5% [adjusted 
+ (95% CI: 0.02, 0.59)] (Table 5).
+Table 5 Univariate and multivariable analyses of antibiotic resistant bacteria prevalence and abundance and 
+ gene copy number in wastewater (
+) samples in relation to setting and season in rural households, poultry farms and urban markets in Bangladesh.
+Wastewater samples (
+)	Category	ESBL-E. coli positive 
+ (%; 95 CI)	Unadjusted OR (95% CI)	Adjusted OR (95% CI)a	Carbapenem-resistant E. coli positive 
+ (%; 95 CI)	Unadjusted OR (95% CI)	Adjusted OR (95% CI)b	GM 
+ ESBL E. coli counts (GSD)c	Unadjusted beta (95% CI)	Adjusted beta (95% CI)d	GM 
+ Carbapenem resistant E.coli counts (GSD)c	Unadjusted beta (95% CI)	Adjusted beta (95% CI)e	GM l
+ 
+ copy no. mean (GSD)c	Unadjusted beta (95% CI)	Adjusted beta (95% CI) f
+Setting	Households (
+)	36 (90; 80.3, 99.7)	0.23 (0.02, 2.16) 
+0.23 ((0.02, 2.16) 
+3 (7.5; 
+, 16.0)	0.19 (0.05, 0.73) 
+0.19 (0.05, 0.73) 
+2.30 (1.31)	
+ (
+, 
+) 
+ (
+, 
+) 
+0.13 (0.63)	
+ (
+, 
+) 
+ (
+, 
+) 
+4.14 (1.44)	
+ (
+, 
+) 
+ (
+, 
+) 
+Farms (
+)	36 (90; 80.3, 99.7)	0.23 (0.02, 2.16) 
+0.23 (0.02, 2.16) 
+2 (5.0; 
+, 12.1)	0.12 (0.02, 0.59) 
+0.12 (0.02, 0.59) 
+2.40 (1.52)	
+ (
+, 
+) 
+ (
+, 
+) 
+0.15 (0.35)	
+ (
+, 
+) 
+ (
+, 
+) 
+3.77 (1.60)	
+ (
+, 
+) 
+ (
+, 
+) 
+Markets (
+)	39 (97.5; 92.4, 02.6)	Ref	Ref	12 (30.0; 15.2, 44.8)	Ref	Ref	5.10 (1.38)	Ref	Ref	0.33 (1.62)	Ref	Ref	5.79 (1.70)	Ref	Ref
+Season	Summer/wet (
+)	54 (90.0; 82.2, 7.8)	0.47 (0.11, 1.99) 
+0.47 (0.11, 1.99) 
+10 (16.7;7.0, 26.4)	1.51 (0.53, 4.29) 
+1.59 (0.53, 4.77)
+2.87 (2.00)	0.01 (
+, 0.70) 
+0.01 (
+, 0.54) 
+0.17 (1.17)	0.06 (
+, 0.52) 
+0.06 (
+, 0.52) 
+4.32 (1.93)	
+ (
+, 0.48) 
+ (
+, -.41) 
+Winter/dry (
+)	57 (95.0; 89.3, 100.0)	Ref	Ref	7 (11.7; 3.3, 20)	Ref	Ref	3.22 (1.71)	Ref	Ref	0.20 (1.02)	Ref	Ref	4.67 (1.68)	Ref	Ref
+Note: ANOVA, analysis of variance; CI, confidence interval; ESBL-E. coli, extended-spectrum b-lactamase-producing E. coli; GM, geometric mean; OR, odds ratio; Ref, reference category; GSD, geometric standard deviation.
+a
+Model summary: Goodness of fit test (Omnibus coefficient) 
+, Cox and Snell 
+, Nagelkerke 
+.
+b
+Model summary: Goodness of fit test Omnibus coefficient) 
+, Cox and Snell 
+, Nagelkerke 
+.
+c
+For counts and gene copies, zero (negative) values were imputed with a random generated number between zero and the limit of detection for each sample type (human, ceca, mixed feces, drinking water and wastewater) assuming a normal distribution following recommended methods for left-censored data (Canales et al., 2018).
+d
+Model summary: Adjusted 
+, ANOVA 
+.
+e
+Model summary: Adjusted 
+, ANOVA 
+.
+f
+Model summary: Adjusted 
+, ANOVA 
+.
+OPEN IN VIEWER
+Multivariable linear regression showed mean ESBL-EC counts in wastewater did not differ by season but did vary by setting, with significantly lower values on farms and households compared with markets: adjusted 
+ (95% CI: 
+, 
+) and 
+ (95% CI: 
+, 
+) respectively. Carbapenem-resistant E. coli counts were also significantly lower in farms and households compared with markets (Table 5). Similarly, 
+ abundance in wastewater did not differ by season but was significantly lower in farms and villages: adjusted 
+ (95% CI: 
+, 
+) and 
+ (
+, 
+), respectively, compared with markets.
+Risk factors for human colonization: poultry exposure, setting, and season.
+Prevalence of ESBL-EC colonization in humans was 67.5% (95% CI: 61.0, 74.0). Within each setting, there was no significant difference in colonization rates between the high- and low-poultry–exposure groups (Table 1). Mean ESBL-EC counts and 
+ copy number in human feces did not differ by exposure group (Table 1). Among humans, only the poultry slaughterers/sellers [5% (95% CI: 
+, 12.1)] in urban markets tested positive for carbapenem-resistant E. coli colonization.
+Logistic regression showed ESBL-EC prevalence did not vary by poultry exposure, setting, or reported antibiotic consumption in the previous 4 wk, but it was significantly more common in the summer/wet season compared with the winter/dry season {74.0% vs 61.0% [adjusted 
+ (95% CI: 1.05, 3.59)]}, however, the overall model was not significant (Table 2).
+In multivariable linear regression, ESBL-EC counts in humans did not differ by exposure group, setting, or season (Table 2). Human fecal 
+ copy number did not vary by setting or exposure group, but it was significantly higher in the summer/wet season compared with the winter/dry season [
+ (95% CI: 0.20, 0.92)]. However, the model explained a very low proportion of the variance (Table 2). Corresponding models were not run for carbapenem-resistant E. coli prevalence or bacterial counts because only one sample tested positive.
+Antibiotic susceptibility tests of ESBL-EC strains from humans, poultry, and wastewater.
+In humans, all positive isolates from the high-exposure group and all positive isolates from low-exposure group were combined, regardless of setting. In ESBL-EC isolates from humans (
+), 71% (95% CI: 63.3, 78.9) were resistant to fourth-generation cephalosporins (cefepime), 42.2% (95% CI: 33.8, 50.7) were resistant to fluoroquinolone, and 24.4% (95% CI: 17.1, 31.8) were resistant to sulfonamides (Table 6). The high-exposure group had a significantly higher proportion of resistant isolates to aminoglycosides compared with the low-exposure group {11/67 [16.4% (95% CI: 7.0, 26.0)] vs. 3/68 [4.4% (95% CI: 
+, 9.0)], chi-square 
+}, and carbapenem resistance was more common in the high- vs. low-exposure human isolates, with borderline significance {11/68 [16.4% (95% CI: 7.0, 26.0)] vs. 4/68 [5.9% (95% CI: 0.0, 12.0)], chi-square 
+}.
+Table 6 Antibiotic susceptibility tests of ESBL-producing E. coli strains isolated from human fecal samples (
+), poultry ceca and mixed fecal samples (
+), and wastewater samples (
+), showing the proportion of isolates resistant to seven antibiotic classes.
+ 	Human	Poultry ceca and mixed feces	Wastewater
+Antibiotic	High poultry exposure isolates (
+) {
+ [% (95% CI)]}	Low poultry exposure isolates (
+) {
+ [% (95% CI)]}	
+-Valuea	All human isolates	Farm and market poultry isolates (
+) {
+ [% (95% CI)]}	Household poultry isolates (
+) {
+ [% (95% CI)]}	
+-Value	All poultry isolates (
+) {
+ [% (95% CI)]}	Wastewater isolates (
+) {
+ [% (95% CI)]}
+Cefepimeb	45 [67.2 (55.6, 78.7)]	51 [75.0 (64.4, 85.5)]	0.32	96 [71.1 (63.3, 78.9)]	78 [73.6 (65.0, 82.0)]	18 [62.1 (43.0, 80.0)]	0.22	96 [71.1 (63.3, 78.8)]	84 [76.4 (68.3, 84.4)]
+Fluoroquinolones	32 [47.8 (35.0, 60.0)]	25 [36.8 (25.0, 49.0)]	0.19	57 [42.2 (33.8, 50.7)]	93 [87.7 (81.0, 94.0)]	3 [10.3 (
+, 22.0)]	
+96 [71.1 (63.3, 78.8)]	61 [55.5 (46.0, 64.9)]
+Sulfonamides	18 [26.9 (16.0, 38.0)]	15 [22.1 (12.0, 32.0)]	0.52	33 [24.4 (17.1, 31.8]	36 [79.2 (71.0, 87.0)]	4 [13.8 (0.0, 27.0)]	
+40 [65.2 (57.0, 73.3)]	50 [45.5 (36.0, 54.9)]
+Aminoglycosides	11 [16.4 (7.0, 26.0)]	3 [4.4 (
+, 9.0)]	0.02	14 [10.4 ( (5.2, 15.6)]	42 [39.6 (30.0, 49.0)]	0 (0)	
+42 [31.1 (23.2, 39.0)]	27 [24.5 (16.4, 32.7)]
+Carbapenem	11 [16.4 (7.0, 26.0)]	4 [5.9 (0.0, 12.0)]	0.05	15 [11.1 (5.7, 16.5)]	12 [11.3 (5.0, 17.0)]	3 [10.3 (
+, 22.0)]	0.88	15 [11.1 (5.7, 16.5)]	22 [20.0 (12.4, 27.6)]
+Nitrofurantoin	7 [10.4 (0.03, 0.18)]	5 [7.4 (0.01, 0.14)]	0.53	12 [8.9 (4.0, 13.8)]	14 [13.2 (7.0, 20.0)]	0 (0)	0.04	14 [10.4 (5.2, 15.6)]	10 [9.1 (3.6, 14.5)]
+Beta-lactamase inhibitor (piperacillin-tazobactam)	7 [10.4 (0.03, 0.18)]	5 [7.4 (0.01, 0.14)]	0.53	12 [8.9 (4.0, 13.8)]	11 [10.4 (4.0, 16.0)]	0 (0)	0.07	11 [8.1 (3.5, 12.8)]	21 [19.1 (11.6, 26.6)]
+Note: 
+ represents the number of samples that were positive for ESBL-producing E. coli collected from human samples (total 
+), poultry ceca and mixed feces (total 
+), and wastewater (total 
+). Resistance was classified according to CLSI guidelines (2016). CI, confidence interval; CLSI, Clinical and Laboratory Standards Institute; ESBL-E. coli, extended-spectrum β
+-producing E. coli.
+a
+p-values from chi-square test.
+b
+Fourth-generation cephalosporin.
+OPEN IN VIEWER
+In poultry ESBL-EC isolates (
+), 71.1% (95% CI: 63.3, 78.8) were resistant to fluoroquinolones, 71.1% (95% CI: 63.3, 78.8) were resistant to fourth-generation cephalosporins (cefepime), 65.2% (95% CI: 57.0, 73.3) were resistant to sulfonamides, and 31% (95% CI: 23.2, 39.0) were resistant to aminoglycosides. Farm and market poultry (ceca and mixed fecal samples combined) had a significantly higher prevalence of resistance compared with household poultry to fluoroquinolones, sulfonamide, aminoglycosides (chi-square 
+ for all) and nitrofurantoin (chi-square 
+) (Table 6).
+ASTs are not reported for drinking water because of the low number of samples that were positive for ESBL-EC. In wastewater ESBL-EC–positive isolates (
+), 76.4% (95% CI: 68.3, 84.4) were resistant to fourth-generation cephalosporins, 55.5% (95% CI: 46.0, 64.9) were resistant to fluoroquinolones, and 45.5% (95% CI: 36.0, 54.9) were resistant to sulfonamide. Antibiotic susceptibility test data for the 16 individual antibiotics by sample type are summarized in Table S3.
+Frequency of antibiotic-resistant genes in humans, poultry, and wastewaters.
+The most common resistance gene was 
+, detected in 83.7% (95% CI: 77.2, 90.0) of human isolates, 77.8% (95% CI: 70.7, 84.9) of poultry isolates, and 78.2% (95% CI: 70.3, 86.0) of wastewater isolates (Table 7). qnr was also common, with a prevalence of 43.7% (95% CI: 35.5, 52.5) in humans, 40.7% (95% CI: 32.3, 49.1) in poultry, and 36.4% (95% CI: 27.2, 45.5) in wastewater isolates, as was 
+ at a prevalence of 26.7% (95% CI: 18.6, 33.7) in humans, 57.0% (95% CI: 48.6, 65.5) in poultry, and 50.9% (95% CI: 41.4, 60.4) in wastewater isolates. The number of human-derived isolates positive for other resistance genes (
+, 
+, 
+, 
+, and 16S rRNA) was low. Among the genes with sufficient numbers to permit statistical testing, there were no significant differences in prevalence antibiotic-resistant genes between humans with high vs. low exposure to poultry (Table 7). Farm and market poultry isolates had significantly higher frequencies of 
+ compared with household poultry: 67.9% (95% CI: 58.9, 77.0) vs. 17.2% (95% CI: 2.6, 31.9), chi-square 
+. Gene frequencies disaggregated by setting and sample type are summarized in Table S4.
+Table 7 Prevalence of antibiotic-resistant genes in ESBL-producing E. coli isolates from human fecal samples (
+), poultry ceca and mixed fecal samples (
+), and wastewater samples (
+) from rural and urban Bangladesh.
+ 	Human	Poultry ceca and mixed feces	Wastewater
+Gene	High poultry exposure isolates (
+) {
+ [% (95% CI)]}	Low poultry exposure isolates (
+) {
+ [% (95% CI)]}	
+-Valuea	All human isolates (
+) {
+ [% (95% CI)]}	Farm and market poultry isolates (
+) {
+ [% (95% CI)]}a	Household poultry isolates (
+) {
+ [% (95% CI)]}	
+-Value	All poultry isolates (
+) {
+ [% (95% CI)]}	Wastewater isolates (
+) {
+ [% (95% CI)]}
+54 [80.6 (70.9, 90.3)]	59 [86.8 (78.5, 95.0)]	0.36	113 [83.7 (77.2, 90.0)]	80 [75.5 (67.1, 83.8)]	25 [86.2 (72.9, 99.6)]	0.22	105 [77.8 (70.7, 84.9)]	86 [78.2 (70.3, 86.0)]
+22.1 [31.3 (19.9, 42.7)]	15 [22.1 (11.9, 32.2)]	0.25	36 [26.7 (18.6, 33.7)]	72 [67.9 (58.9, 77.0)]	5 [17.2 (2.6, 31.9)]	
+77 [57.0 (48.6, 65.5)]	56 [50.9 (41.4, 60.4)]
+4 [6.0 (0.1, 11.8)]	2 [2.9 (
+, 7.1)]	NAb	6 [4.4 (0.9, 8.0)]	3 [2.8 (
+, 6.0)]	2 [6.9 (
+, 16.7)]	NA	5 [3.7 (0.5, 6.9)]	12 [10.9 (5.0, 16.8)]
+3 [4.5 (
+, 9.6)]	1 [1.5 (
+, 4.4)]	NA	4 [3.0 (0.1, 5.9)]	5 [4.7 (0.6, 8.8)]	0 (0)	NA	5 [3.7 (0.5, 6.9)]	2 [1.8 (
+, 4.4)]
+2 [3.0 (
+, 7.2)]	4 [5.9 (0.1, 11.6)]	NA	6 [4.4 (0.9, 8.0)]	7 [6.6 (1.8, 11.4)]	0 (0)	NA	7 [5.2 (1.4, 9.0)]	11 [10.0 (4.3, 15.7)]
+5 [7.5 (1.0, 13.9)]	5 [7.4 (1.0, 13.7)]	1.00	10 [7.4 (3.0, 12.0)]	8 [7.5 (2.6, 12.7)]	0 (0)	NA	8 [5.9 (1.9, 10.0)]	12 [10.9 (5.0, 16.8)]
+qnr	28 [41.8 (29.7, 53.9)]	31 [45.6 (33.4, 57.7)]	0.66	59 [43.7 (35.5, 52.5)]	46 [43.0 (33.8, 53.0)]	9 [31.0 (13.1, 48.9)]	0.24	55 [40.7 (32.3, 49.1)]	40 [36.4 (27.2, 45.5)]
+2 [3.0 (
+. 7.2)]	0 (0)	NA	2 [1.5 (
+, 3.6)]	2 [1.9 (
+, 4.5)]	0 (0)	NA	2 [1.5 (
+, 3.5)]	16 [14.5 (7.9, 21.2)]
+16S rRNAc	2 [3.0 (
+. 7.2)]	0 (0)	NA	2 [1.5 (
+, 3.6)]	10 [9.4 (3.8, 15.1)]	0 (0)	NA	10 [7.4 (2.9, 11.9)]	10 [9.1 (3.6, 14.5)]
+Note: 
+ represents the number of samples that were positive for ESBL-producing E. coli collected from human samples (total 
+); poultry ceca and mixed feces (total 
+), and wastewater (total 
+). CI, confidence interval; ESBL-E. coli, extended-spectrum β
+-producing E. coli; NA, not applicable; qnr, qnrA, qnrB, and qnrS collapsed into one group.
+a
+-Values based on chi-square analysis.
+b
+Statistical test not conducted due to small sample size.
+c
+ methyltransferase gene.
+OPEN IN VIEWER
+Discussion
+We compared ESBL-EC colonization among humans with high vs. low exposure to poultry, but with otherwise comparable environments. Contrary to our hypothesis, human colonization rates did not differ according to exposure to poultry, even among those exposed to farm and market poultry that were raised in high antibiotic use systems. A 67% prevalence of ESBL-EC presents concerning risk for drug-resistant community infections (CDC 2019; Day et al. 2019). Of the poultry-exposed groups, market poultry slaughterers had the highest physical exposure to poultry from handling birds based on structured observations in markets, farms, and poultry-owning households in a separate study (Alam et al. 2019). Despite this, colonization rates were not significantly higher in poultry slaughterers/sellers compared with poultry farmers and household poultry owners, although the two cases of carbapenem-resistant E. coli case were among urban poultry workers.
+Humans, poultry, and wastewaters shared the same three most common resistance genes: 
+, qnr, and 
+. Anthropogenic activities—including human and animal fecal contamination, as well as unregulated small-scale poultry farming—are likely to contribute significantly to environmental reservoirs of antibiotic bacteria and genes in Bangladesh. Multidrug-resistant and pathogenic E. coli with human and animal-derived genes have been isolated from household soil in Bangladesh (Montealegre et al. 2020). In the present study, ESBL-EC colonization was common in rural household poultry despite only 5% (2/20) of households applying antibiotics, which was for treatment rather than prophylaxis. We did not control for other livestock that may have been present in households; however, these were not given antibiotics routinely for growth promotion or prophylaxis. The high prevalence of colonization in all human participants may have obscured potential effects of poultry exposure on colonization with antibiotic-resistant organisms and antibiotic-resistant genes.
+Commercial poultry from farms and markets had a significantly higher proportions of ESBL-EC isolates resistant to fluoroquinolones, sulfonamide, aminoglycosides, and nitrofurantoin compared with household poultry, reflecting the high use of multiple antibiotics in farming, as seen in studies in other LMICs (Rugumisa et al. 2016; Brower et al. 2017). In the wider study, in-depth interviews with commercial farmers revealed that antibiotics were given throughout the production cycle with no withdrawal period (Masud et al. 2020).
+Although poultry exposure was not associated with increased human colonization in the present study, it could serve as an important source of new resistance. In Peru and Panama, chicken feces was identified as an important source of AMR genes shared with human fecal resistomes (Pehrsson et al. 2016).
+Urban food markets were highly contaminated environments for antibiotic resistance, with 38% of water supply samples positive for ESBL-EC, significantly higher mean ESBL-EC counts and 
+ abundance in market poultry, and a high prevalence (30%, 12/40) of carbapenem-resistant E. coli in market wastewater. Although carbapenem-resistant E. coli and 
+ genes were not common in humans, the high levels of environmental contamination could present a future threat for colonization with carbapenem-resistant bacteria.
+Some evidence of seasonal dimensions of antibiotic resistance was apparent: Poultry ESBL-EC colonization was significantly higher in the summer/wet season, as was 
+ abundance in both humans and poultry. Human antibiotic consumption in South Asia is highest from July to November, reflecting seasonal increases in infection in the monsoon (Van Boeckel et al. 2014) and wet and warmer conditions, which are associated with increased bacterial pathogens (Chao et al. 2019).
+The high prevalence of ESBL-EC in wastewaters likely stems from both human and animal sources. Wastewater and environmental reservoirs of antibiotic resistance, in turn, are likely to contribute to onward transmission to human and animal hosts. Modeling and surveillance studies indicate humans as the main source of community-acquired ESBL-EC (Mughini-Gras et al. 2019). Fecal contamination is likely to be one of the largest contributors of antibiotic-resistant bacteria and genes to the environment in Bangladesh, with extreme population densities and most sewage entering the environment untreated, a recognized pathway for AMR transmission (Karkman et al. 2019). Identifying the relative contribution of human and animal sources of resistant bacteria and genes using microbial source tracking approaches is an important future step for understanding the sources of environmental contamination. Such approaches could include whole-genome sequencing of isolates or analysis of the community resistome via metagenomic sequencing.
+Water, sanitation, and hygiene (WaSH) interventions are receiving increased attention for mitigation (Collignon et al. 2018; Day et al. 2019). Current WaSH programs do not encompass managing animal feces (Prendergast et al. 2019) or fecal contamination of earth floors and courtyards (Pickering et al. 2019). Reducing fecal contamination and improving fecal sludge disposal for human and animal systems presents a major development challenge. Future research is needed to examine the precise nature of the relationship between WaSH and AMR emergence and transmission.
+Strengths of the study include the ecosystem-wide approach with antibiotic-resistant bacteria and genes assessed in directly interrelated humans and poultry and their immediate environment. Estimates of antibiotic resistance and gene prevalence are conservative, based upon selecting one human and one animal sample per household, farm, or market and only one ESBL-EC isolate per host. The sampled villages, farms, and markets are likely to represent the communities in rural Mirzapur and urban markets in Dhaka.
+Potential limitations of the study include that, as formative research, we made no a priori sample size calculations because of the lack of estimates of ESBL-EC colonization or gene frequencies at the community level in Bangladesh. Samples sizes were small for comparisons within settings, especially for rural households, and too small to conduct statistical comparisons between exposure groups for some antibiotic susceptibility test data and gene prevalence rates. qPCR was limited to two genes, of which only one was sufficiently common to include in analyses. Participants in the low-exposure groups may have also been exposed to livestock or animals other than poultry, which is a potential limitation; however, these livestock were not typically intensively farmed and did not receive antibiotics as prophylaxis or for growth promotion. As an observational study, some residual confounding may also have occurred due to factors that might predict both the exposure groups and the outcomes.
+In conclusion, this study reveals a high prevalence of ESBL-EC in all three domains of the One Health paradigm. However, the risk of human colonization with ESBL-EC, carbapenem-resistant E. coli, or the concentration of resistant bacteria did not vary significantly according to exposure to poultry. Human gut colonization also did not differ significantly according to environmental setting. Bidirectional transmission of antibiotic resistance between humans, poultry, and the environment is likely in these community settings, underlining the importance of One Health mitigation strategies.

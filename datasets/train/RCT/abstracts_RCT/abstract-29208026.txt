@@ -1,0 +1,15 @@
+Operationalizing mHealth to improve patient care: a qualitative implementation science evaluation of the WelTel texting intervention in Canada and Kenya.
+
+1/BACKGROUND: Mobile health (mHealth) applications have proliferated across the globe with much enthusiasm, although few have reached scale and shown public health impact. In this study, we explored how different contextual factors influenced the implementation, effectiveness and potential for scale-up of 
+WelTel, an easy-to-use and evidence-based mHealth intervention. WelTel uses two-way SMS communication to improve patient adherence to medication and engagement in care, and has been developed and tested in Canada and Kenya.
+
+2/METHODS: We used a comparative qualitative case study design, which drew on 32 key informant interviews, conducted in 2016, with stakeholders involved in six WelTel projects. Our research was guided by the Consolidated Framework for Implementation Research (CFIR), a meta-theoretical framework, and our analysis 
+relied on a modified approach to grounded theory, which allowed us to compare findings across these projects.
+
+3/RESULTS: We found that WelTel had positive influences on the "culture of care" at local clinics and hospitals in Canada and Kenya, many of which stretched beyond the immediate patient-client relationship to influence wider organizational systems. However, these were mediated by clinician norms and practices, the availability of local champion staff, the receptivity and capacity of local management, and the particular characteristics of the technology platform, including the ability for adaptation and co-design. We also 
+found that scale-up was influenced by different forms of data and evidence, which played important roles in legitimization and partnership building. Even with robust research evidence, scale-up was viewed as a precarious and uncertain process, embedded within the wider politics and financing of Canadian and Kenyan 
+health systems. Challenges included juggling different interests, determining appropriate financing pathways, maintaining network growth, and "packaging" the intervention for impact and relevance.
+
+4/CONCLUSIONS: Our comparative case study, of a unique transnational mobile health research network, revealed that moving from mHealth pilots to scale is a difficult, context-specific process that couples social and technological innovation. Fostering new organizational partnerships and ways of learning are 
+paramount, as mHealth platforms straddle the world of research, industry and public health. Partnerships need to avoid the perils of the technological fix, and engage the structural barriers that mediate people's health and access to services.
+

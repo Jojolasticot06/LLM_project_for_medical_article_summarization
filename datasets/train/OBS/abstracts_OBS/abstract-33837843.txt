@@ -1,0 +1,24 @@
+PURPOSE: This study assesses the potential for vascular-metabolic imaging with 
+FluoroDeoxyGlucose (FDG)-Positron Emission Tomography/Computed Tomography 
+(PET/CT) perfusion to provide markers of prognosis specific to the site and 
+stage of colorectal cancer.
+METHODS: This prospective observational study comprised of participants with 
+suspected colorectal cancer categorized as either (a) non-metastatic colon 
+cancer (M0colon), (b) non-metastatic rectal cancer (M0rectum), or (c) metastatic 
+colorectal cancer (M+). Combined FDG-PET/CT perfusion imaging was successfully 
+performed in 286 participants (184 males, 102 females, age: 69.60 ± 10 years) 
+deriving vascular and metabolic imaging parameters. Vascular and metabolic 
+imaging parameters alone and in combination were investigated with respect to 
+overall survival.
+RESULTS: A vascular-metabolic signature that was significantly associated with 
+poorer survival was identified for each patient group: M0colon - high Total 
+Lesion Glycolysis (TLG) with increased Permeability Surface Area Product/Blood 
+Flow (PS/BF), Hazard Ratio (HR) 3.472 (95% CI: 1.441-8.333), p = 0.006; M0rectum 
+- high Metabolic Tumour Volume (MTV) with increased PS/BF, HR 4.567 (95% CI: 
+1.901-10.970), p = 0.001; M+ participants, high MTV with longer Time To Peak 
+(TTP) enhancement, HR 2.421 (95% CI: 1.162-5.045), p = 0.018. In participants 
+with stage 2 colon cancer as well as those with stage 3 rectal cancer, the 
+vascular-metabolic signature could stratify the prognosis of these participants.
+CONCLUSION: Vascular and metabolic imaging using FDG-PET/CT can be used to 
+synergise prognostic markers. The hazard ratios suggest that the technique may 
+have clinical utility.

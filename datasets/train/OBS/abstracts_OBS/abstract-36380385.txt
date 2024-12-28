@@ -1,0 +1,34 @@
+BACKGROUND: Vascular calcification is a major cause of the high morbidity and 
+mortality of cardiovascular diseases and is closely associated with the 
+intestinal microbiota. Short-chain fatty acids (SCFAs) are derived from the 
+intestinal microbiota and can also regulate intestinal microbiota homeostasis. 
+However, it remains unclear whether exogenous supplementation with propionate, a 
+SCFA, can ameliorate vascular calcification by regulating the intestinal 
+microbiota. This study was conducted to explore the roles of propionate and the 
+intestinal microbiota in the process of vascular calcification.
+METHODS: In total, 92 patients were enrolled consecutively as the observational 
+cohort to analyse the relationship between SCFAs and vascular calcification in 
+both blood and faecal samples. A rat model of vascular calcification was induced 
+by vitamin D3 and nicotine (VDN) to validate the effect of propionate. 
+Differences in the intestinal microbiota were analysed by 16S ribosomal RNA gene 
+sequencing. Faecal microbiota transplantation and Akkermansia muciniphila 
+transplantation experiments were performed to evaluate the functions of the 
+intestinal microbiota.
+RESULTS: The results of the observational cohort study revealed that the levels 
+of SCFAs (particularly propionate) in both blood and faecal samples 
+independently correlated negatively with calcification scores (P < 0.01). To 
+verify the activities of propionate, it was provided to VDN-treated rats, and 
+oral or rectal propionate delivery reshaped the intestinal microbiota, resulted 
+in elevated SCFA production, improved intestinal barrier function and alleviated 
+inflammation, ultimately ameliorating vascular calcification. Furthermore, we 
+demonstrated that transplantation of the propionate-modulated intestinal 
+microbiota induced beneficial outcomes similar to those with oral or rectal 
+propionate administration. Interestingly, linear discriminant analysis (LDA) 
+effect size (LEfSe) revealed that oral or rectal propionate administration and 
+propionate-modulated intestinal microbiota transplantation both enriched 
+primarily Akkermansia. Subsequently, we demonstrated that Akkermansia 
+supplementation could ameliorate VDN-induced vascular calcification in rats.
+CONCLUSIONS: Propionate can significantly ameliorate vascular calcification in 
+VDN-treated rats, and this effect is mediated by intestinal microbiota 
+remodelling. The findings in our study indicate that the intestinal tract-vessel 
+axis is a promising target for alleviating vascular calcification.

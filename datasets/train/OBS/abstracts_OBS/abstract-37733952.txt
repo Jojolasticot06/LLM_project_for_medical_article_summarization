@@ -1,0 +1,23 @@
+INTRODUCTION: Forty-seven percent of all adults in the US have a diagnosis of 
+high blood pressure. Among all US emergency department (ED) users, an estimated 
+45% have high blood pressure. The success of high blood pressure interventions 
+in reducing ED visits is partially predicated on patients' adherence to 
+treatment plans. One method for promoting adherence to treatment plans is shared 
+decision-making between patients and medical providers.
+METHODS: We conducted a cross-sectional observational study using 2015-2019 
+Medical Expenditure Panel Survey data. We used studies on shared decision-making 
+as a guide to create a predictor variable for shared decision-making. We 
+determined covariates according to the Andersen Behavioral Model of Health 
+Services Use. ED use was the outcome variable. We used cross tabulation to 
+compare covariates of ED use and multivariable logistical regression to assess 
+the association between shared decision-making and ED use. Our sample size was 
+30,407 adults.
+RESULTS: Less than half (39.3%) of respondents reported a high level of shared 
+decision-making; 23.3% had 1 or more ED visits. In the unadjusted model, 
+respondents who reported a high level of shared decision-making were 20% less 
+likely than those with a low level of shared decision-making to report 1 or more 
+ED visits (odds ratio [OR], 0.80; 95% CI, 0.75-0.86; P <.001). After adjusting 
+for covariates, a high level of shared decision-making was still associated with 
+lower odds of ED use (OR, 0.86; 95% CI, 0.76-0.97; P = .01).
+CONCLUSION: Shared decision-making may be an effective method for reducing ED 
+use among patients with high blood pressure.

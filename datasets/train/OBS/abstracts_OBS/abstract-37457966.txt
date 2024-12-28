@@ -1,0 +1,26 @@
+BACKGROUND: Inactivated SARS-CoV-2 vaccination has recently been approved for 
+children aged 3-17 years in China. However, data on long-term humoral responses 
+to inactivated vaccines in children with chronic hepatitis B (CHB) are still 
+limited.
+METHODS: In this prospective observational study, CHB children after primary 
+inactivated SARS-CoV-2 vaccines were recruited consecutively and followed up for 
+1 year. CHB adults from another cohort study (NCT05007665) were used as a 
+control. The receptor-binding domain IgG antibody (anti-RBD-IgG), neutralizing 
+antibody (NAb), neutralization against Omicron (BA2.12.1, BA.4 and BA.5), and 
+memory B -cell (MBC) responses were evaluated.
+RESULTS: Overall, 115 CHB children and 351 CHB adults were included in this 
+analysis. The antibody titers decreased over the first ~180 days and then 
+plateaued up to 1 year in CHB children. However, lower and faster declines in 
+antibody responses were observed in CHB adults. Interestingly, the 
+seroprevalence of antibodies was still high after over 8 months in CHB children 
+(anti-RBD-IgG [90%] and NAbs [83%]). However, neutralization against Omicron 
+subvariants was significantly reduced in CHB children (-3.68-fold to 
+-8.60-fold). Notably, neutralization against the BA.5 subvariant was obviously 
+diminished in CHB children compared with adults. Moreover, CHB children had 
+similar RBD-specific MBCs but higher RBD-specific atypical MBCs compared with 
+adults.
+CONCLUSION: Inactivated vaccination could elicit more robust and durable 
+antibody responses to the wild-type SARS-CoV-2 strain in CHB children than in 
+CHB adults but showed inferior responses to Omicron subvariants (especially to 
+the BA.5 strain). Hence, new Omicron-related or all-in-one vaccines are needed 
+immediately for CHB children.

@@ -1,0 +1,652 @@
+Introduction 
+
+The primary focus of most studies conducted on critically 
+ill patients has been to ascertain the diagnosis, 
+occurrence rates, and clinical outcomes among individuals 
+who acquired ventilator-associated pneumonia (VAP) 
+[1]. However, recent data have shown that not all patients 
+with lower respiratory tract infections (LRTI) admitted 
+to the intensive care unit (ICU) are alike and may have 
+different clinical characteristics and clinical outcomes 
+[2–4]. Still, other less-known entities are frequent in 
+the ICU, such as ventilator-associated tracheobronchitis 
+(VAT) and hospital-acquired pneumonia (HAP) happening 
+on the ward or in the ICU patients with spontaneous 
+breathing but needing mechanical ventilation after diagnosis—(
+so-called ventilated HAP [VHAP]) [5, 6]. Most 
+of the cumulative incidence of these entities is extracted 
+from clinical trials and administrative observational 
+datasets that allow us to determine the effect of medical 
+interventions, often of new antibiotics [7]. However, 
+these data might not represent the real world, and more 
+data is needed. 
+
+Over the last twenty years, the profile of patients 
+cared for in the ICU has profoundly changed [8–10]. 
+Additionally, there has been an increase in ICU beds in 
+some healthcare systems, making the admission criteria 
+currently different from what they used to be. More 
+importantly, these criteria are different among countries 
+[11, 12]. A critical remark is that some patients 
+on the ward might have a longer hospital stay, exposing 
+them to hospital-specific pathogens, making them 
+more susceptible to clinical complications than those 
+treated in the ICU, where better access to multidisciplinary 
+teams (e.g., infectious diseases and respiratory 
+physicians, pharmacists, and even physiotherapists) 
+with precise guidelines and goals of care are available 
+[13, 14]. 
+
+The European Network for ICU-Related Respiratory 
+Infections (ENIRRI) network aimed to determine the 
+clinical outcomes of patients who developed nosocomial 
+LRTI while admitted to the ICU [5, 15]. We hypothesised 
+
+Take-home message 
+Respiratory infections remain a frequent complication in patients 
+admitted to the intensive care unit (ICU). In our study, multidrugresistant 
+pathogens were more frequently isolated in ventilatorassociated 
+pneumonia patients than in other nosocomial lower 
+respiratory tract infections. Notably, patients with hospital-acquired 
+pneumonia which require invasive ventilation have the highest 
+mortality rate among patients with nosocomial LRTI in the ICU. 
+
+that patients with VHAP in this cohort would show the 
+highest mortality rates, as has been repeatedly published 
+before; however, to our knowledge, no observational 
+studies have been published in Europe and South America 
+evaluating this critical clinical issue. Therefore, the 
+primary goal of this study is to report the clinical characteristic 
+of patients with nosocomial LRTI admitted to the 
+ICU and to describe microbiology and the clinical outcomes 
+of these patients using a prospective multinational 
+cohort. 
+
+Methods 
+
+We carried out a prospective, multicentric, and observational 
+cohort study at 28 selected ICUs in 13 countries across 
+Europe and Latin America (Argentina, Belgium, Colombia, 
+Croatia, France, Germany, Ireland, Italy, Netherlands, 
+Poland, Portugal, Spain, Turkey) with critically ill patients 
+admitted from 9th May 2016 until 16th August 2019. The 
+time frame was determined by the enrolment period at 
+each site (enrolment was performed during a 12-month 
+continuous period in each participant site). We recruited 
+consecutive patients aged 18 years or older who developed 
+LRTI 48 h after admission (i.e., nosocomial LRTI), who were 
+later admitted to ICU, and/or who developed LRTI during 
+the ICU stay. Then, a follow-up until hospital discharge 
+was performed. This study is the primary analysis of the 
+ENIRRI study. The study received approval from the institution’s 
+Internal Review Board (Comité Ètic d’Investigació 
+Clínica, registry number HCB/2020/0370). And registered 
+at ClinicalTrials.gov Identifier: NCT03183921. We obtained 
+
+informed consent for patients where this was required per 
+local regulations. All clinical data were anonymised and 
+transferred to the coordinating centre for data curation and 
+analysis. Additionally, each one of the thirteen participating 
+sites presented the project to its institutional ethics commit-
+tee, and it was approved. 
+
+Patients 
+
+Patients were eligible if they had all three conditions 
+below: (1) aged 18 years or older; (2) admitted to ICU; 
+and (3) having a nosocomial LRTI. We excluded readmitted 
+patients. 
+
+Data collection 
+
+Recorded data included demographic characteristics, 
+comorbidities, the time course of illness, treatments 
+administered, laboratory and microbiologic data, complications 
+during ICU stay, and outcomes. We determined 
+disease severity by Simplified Acute Physiology 
+Score (SAPS) II [16] and assessed organ failure using the 
+Sequential Organ Failure Assessment (SOFA) score [17] 
+calculating both within the first day of ICU admission. 
+The study protocol of this project has been previously 
+published and was shared with all the local investigators 
+before beginning the enrolment [5, 15]. 
+
+Ventilatory management strategies, treatments and 
+microbiological assessments were not standardised 
+among centres. They were left to the discretion of the 
+attending clinician, based on local guidelines and recommendations 
+and supported by international guidelines [1, 
+4]. 
+
+LRTI definitions 
+
+A nosocomial LRTI was based on clinical criteria (i.e., 
+new or progressive pulmonary infiltrates on chest radiographs, 
+except for VAT, and at least two of the following: 
+temperature > 38 °C or < 36 °C; leucocytosis > 12,000 
+mm3 or leukopenia < 4000 mm3; or purulent respiratory 
+secretions). We classified the LRTI patients at the ICU 
+as follows: (1) HAP: LRTI acquired outside the ICU 
+at least = 
+48 h after admission, not requiring invasive 
+mechanical ventilation; (2) VHAP: LRTI acquired outside 
+the ICU at least = 
+48 h after the admission, requiring 
+invasive mechanical ventilation due to the LRTI; (3) 
+ICU-HAP: LRTI acquired at least = 
+48 h after the ICU 
+admission, not requiring invasive mechanical ventilation 
+due to the LRTI; (4) VAP: patients admitted to the ICU 
+who develop LRTI at least after = 
+48 h of tracheal intubation/
+tracheostomy and (5) VAT: patients admitted to the 
+ICU who develop LRTI at least = 
+48 h after tracheal intubation/
+tracheostomy without a new or progressive radiological 
+pulmonary infiltrate. 
+
+The following diagnostic thresholds were used to confirm 
+the microbiological diagnosis: bronchial alveolar 
+lavage (BAL)/mini-BAL/protected specimen brush 
+(PSB) = 
+104 colony-forming units per mL and sputum/ 
+endotracheal aspirate (ETA) = 
+105 colony-forming units 
+per mL or any threshold if the patient had concomitant 
+antibiotic treatment when the sample was collected. 
+
+We used the Berlin definition to classify patients with 
+acute respiratory distress syndrome (ARDS) [18]. The 
+acute kidney injury use was established using the Kidney 
+Disease Improving Global Outcomes score = 
+2 [19]. As 
+recommended by international guidelines, septic shock 
+was defined as sepsis-induced hypotension persisting 
+despite adequate fluid resuscitation [20]. Sepsis-induced 
+tissue hypoperfusion was defined as infection-induced 
+hypotension, elevated lactate, or oliguria. Septic shock 
+was identified by the following clinical features sepsis 
+with persisting hypotension requiring vasopressors to 
+maintain median arterial pressure (MAP) = 
+65 mmHg 
+and having a serum lactate level > 2 mmol/L (18 mg/dL) 
+despite adequate volume resuscitation [21]. Multiple 
+organ dysfunction was determined when three or more 
+organ systems failed after the nosocomial LRTI diagnosis 
+[17, 22]. 
+
+Clinical outcomes at the end of antibiotic treatment 
+were defined as (1) Cure: all infection-related signs 
+and symptoms have disappeared or have returned to 
+the pre-infection state, and chest X-ray findings show 
+improvement or stabilisation at an acceptable level. (2) 
+Failure: all infection-related signs and symptoms were 
+not improved, or one or more antibiotics were added due 
+to lack of clinical improvement; the patient died while on 
+antibiotic treatment. (3) Unknown: the patient was discharged 
+before the end of the treatment evaluation. (4) 
+Recurrence was defined as a new nosocomial LRTI episode 
+(i.e., new clinical signs compatible with pneumonia) 
+confirmed by significant growth in quantitative culture 
+after the first diagnosis of LRTI was made; it includes 
+time until hospital discharge [23, 24]. The study protocol 
+has been previously published elsewhere with all the definitions 
+[15]. 
+
+Objectives 
+
+The primary objective of our study was to determine the 
+clinical and laboratory characteristics, microbiologic features 
+and outcomes of patients diagnosed with nosocomial 
+LRTI in critically ill patients. The secondary aims 
+included describing the clinical impact of these entities 
+and comparing the different study groups. 
+
+Statistical analysis 
+
+We reported categorical variables as numbers and frequencies 
+(%), normally distributed continuous variables 
+
+as means (standard deviation [SD]) and skewed continuous 
+variables as medians (interquartile ranges [IQR]). 
+We performed .2 tests or Fisher’s exact tests to compare 
+qualitative variables, Student’s t tests, ANOVAs or 
+Mann–Whitney U, and non-parametric Kruskal–Wallis 
+tests to compare normally distributed or skewed continuous 
+variables, whenever appropriate. We used SPSS (version 
+28) for data analysis. 
+
+Results 
+
+A total of 1060 patients were included in the study. 
+The most frequent nosocomial LRTI was VAP (52.5% 
+[556/1060]), followed by VAT (15.1% [160/1060]), hospital-
+acquired pneumonia not receiving invasive mechanical 
+ventilation (HAP) (14.3% [152/1060]), ICU-acquired 
+pneumonia not receiving invasive mechanical ventilation 
+(ICU-HAP) (9.2% [98/1060]), and VHAP (8.9% 
+[94/1060]) (Fig. 1). Most patients were male (72.5% 
+[769/1060]) with a median (IQR) age of 64 (50–74) years. 
+The most prevalent comorbidities were diabetes mellitus 
+(20.3% [215/1060]), chronic heart disease (27% 
+[286/1060]), and chronic lung disease (22.5% [230/1060]). 
+The sociodemographic characteristics of each study 
+group were balanced in age, sex, and body mass index 
+(BMI, Table 1). Notably, most patients received enteral 
+nutrition (71.5% [758/1060]), previous muscle relaxants 
+(26.8% [284/1060]), systemic steroids (24.1% [255/1060]) 
+and have had surgery during the hospitalisation (43.2% 
+[458/1060]). The list of characteristics evaluated in the 
+cohort and its frequencies are presented in Table 1. 
+
+Characteristics of the intensive care units and admissions 
+
+Most of the patients were admitted to the ICU due 
+to medical diagnoses (66% [700/1060]), followed by 
+emergent surgery (15.4% [153/1060]), trauma (9.6% 
+[102/1060]), and elective surgery (9% [95/1060]) (Fig. 2). 
+
+The most frequent cause of ICU admission was hypoxemic 
+acute respiratory failure (28.4% [301/1060]), followed 
+by postoperative (13% [138/1060]) and altered 
+consciousness (12.1% [128/1060]). Most of these 
+patients came from the emergency department (27.4% 
+[290/1060]) and the general ward (26.8% [284/1060]). 
+Of those who developed hypoxemic acute respira-
+tory failure, a higher proportion developed VAP (VAT: 
+11.29% [34/301] vs VAP: 37.8% [114/301] vs ICU-HAP: 
+9.6% [29/301] vs VHAP: 16.3% [49/301] vs HAP: 25% 
+[75/301]). 
+
+Laboratories results, severity scores, and systemic 
+complications 
+
+When comparing the laboratory results, we found that 
+several organ dysfunctions and biomarkers of systemic 
+inflammation differed among the study groups (Table 2). 
+For instance, we found that patients diagnosed with 
+VHAP had higher serum procalcitonin (PCT) concentrations 
+at ICU admission (Table 2). We also found that the 
+PaO2/FiO2 ratio was lower in patients with VHAP, HAP, 
+and VAP. 
+
+Patients diagnosed with VHAP had a more severe disease 
+when evaluated by different severity scores at ICU 
+admission (Table 2). For instance, patients diagnosed 
+with VHAP showed higher scores in SOFA (VHAP: 
+9 [7–12], vs VAP: 8 [5–10], vs ICU-HAP: 5 [3–8], vs 
+HAP: 7 [5–9], vs VAT: 8 [6–10]) (Table 2, Supplemental 
+Table 1). Notably, we found that the Clinical Pulmonary 
+Infection Score (CPIS) was not different among the 
+groups (in ventilated patients). Microbiological and etiological 
+findings are described below and are reported in 
+Table 3. Systemic complications are presented in Table 4, 
+stratified by the study groups. We found that patients 
+diagnosed with VAP and VHAP had a higher prevalence 
+
+
+Fig. 1 Study flow chart 
+
+Table 1 Characteristics and comorbid conditions stratified by the study groups 
+
+Characteristic All cohort VAT VAP ICU-HAP VHAP HAP 
+n 1060 n 160 n 556 n 98 n 94 n 152 
+Age, years 64 (50–74) 63 (49–76) 62 (47–73) 64.5 (53–75) 65 (55–73) 68 (59–75) 
+Male 769 (72.5) 114 (71.3) 405 (72.8) 72 (73.5) 70 (74.5) 108 (71.1) 
+Weight, kg 75 (65–85) 65 (70–80) 65 (70–80) 80 (65–90) 76 (67–89) 65 (75–85) 
+Height, cm 170 (165–175) 170 (163.5–175) 170 (165–176) 170 (163–176) 170 (165–177.5) 170 (165–175) 
+BMI, kg/m2 26 (23.2–29.4) 25.4 (22.9–29) 26.1 (23.4–29.4) 27.8 (23.4–29.7) 26.1 (23–30.8) 24.8 (22.1–29.4) 
+Overweight 343 (36) 50 (34.7) 186 (37.2) 37 (42) 29 (33) 41 (30.8) 
+Obese 206 (21.6) 27 (18.8) 112 (22.4) 19 (21.6) 23 (26.1) 25 (18.8) 
+Chronic heart disease 286 (27) 47 (29.4) 139 (25) 36 (36.7) 23 (24.5) 41 (27) 
+Diabetes mellitus 215 (20.3) 42 (26.3) 103 (18.6) 16 (16.3) 22 (23.4) 32 (21.1) 
+Chronic lung disease 239 (22.5) 29 (18.1) 107 (19.2) 34 (34.7) 33 (35.1) 36 (23.7) 
+Chronic renal failure 120 (11.3) 23 (14.4) 55 (9.9) 10 (10.2) 5 (5.3) 27 (17.8) 
+Active solid neoplasia 149 (14.1) 19 (11.9) 53 (9.5) 24 (24.5) 19 (20.2) 34 (22.4) 
+Alcohol abuse 94 (8.9) 12 (7.5) 55 (9.9) 6 (6.1) 8 (8.5) 13 (8.6) 
+Chronic liver disease 66 (6.2) 11 (6.9) 30 (5.4) 7 (7.1) 8 (8.5) 10 (6.6) 
+Immunosuppressed 100 (9.4) 9 (5.6) 48 (8.6) 15 (15.3) 7 (7.5) 21 (13.8) 
+Active smoker 60 (5.7) 8 (5) 38 (6.8) 2 (2) 7 (7.5) 5 (3.3) 
+Ex-smoker 67 (6.3) 6 (3.8) 31 (5.6) 10 (10.2) 8 (8.5) 12 (7.9) 
+Active autoimmune 57 (5.4) 6 (3.8) 33 (6) 6 (6.1) 1 (1.1) 11 (7.2) 
+disease 
+
+Cirrhosis 36 (3.4) 5 (3.1) 17 (3.1) 3 (3.1) 5 (5.3) 6 (4) 
+Chemotherapy 49 (4.6) 3 (1.9) 15 (2.7) 9 (9.2) 3 (3.2) 19 (12.5) 
+Enteral nutrition 758 (71.5) 133 (83.1) 435 (78.2) 60 (61.2) 54 (57.5) 76 (50) 
+Continuous enteral 679 (64.1) 123 (76.9) 416 (74.8) 45 (45.9) 49 (52.1) 46 (30.3) 
+feeding 
+Previous surgery 458 (43.2) 66 (41.3) 247 (44.4) 52 (53.1) 33 (35.1) 60 (39.5) 
+Coma 250 (23.6) 56 (35) 148 (26.6) 10 (10.2) 19 (20.2) 17 (11.2) 
+Parenteral nutrition 196 (18.5) 32 (20) 103 (18.5) 18 (18.4) 22 (23.4) 21 (13.8) 
+Systemic steroids 255 (24.1) 32 (20) 143 (25.7) 24 (24.5) 22 (23.4) 34 (22.4) 
+Surgical trauma 101 (9.5) 20 (12.5) 63 (11.3) 7 (7.1) 8 (8.5) 3 (2) 
+Previous NIV 151 (14.3) 14 (8.8) 80 (14.4) 30 (30.6) 11 (11.7) 16 (10.5) 
+Therapeutic hypo28 
+(2.6) 9 (5.6) 16 (2.9) 0 (0) 1 (1.1) 2 (1.3) 
+thermia 
+
+Previous HFNO 93 (8.8) 7 (4.4) 39 (7) 23 (23.5) 7 (7.5) 17 (11.2) 
+
+Oral feeding 71 (6.7) 7 (4.4) 15 (2.7) 15 (15.3) 5 (5.3) 29 (19.1) 
+
+BMI body mass index, HAP hospital-acquired pneumonia, HFNO high flow nasal oxygen, ICU intensive care unit, NIV non-invasive ventilation, VAP ventilator-associated 
+pneumonia, VAT ventilator-associated tracheobronchitis, VHAP ventilated hospital-acquired pneumonia 
+
+of acute kidney injury, ARDS, multiple organ failure, and 
+septic shock diagnosis. 
+
+Etiological diagnosis of nosocomial LRTI 
+
+Any microbiological test was performed in 95% 
+[1008/1060] of patients. 5% (52/1060) of the cohort had 
+no microbiological sample. A total of 70.5% (711/1008) 
+had a microbial diagnosis. A total of 16.07% (162/1008) 
+had ETA-Sputum and BAL/miniBAL/PSB. The 96.3% 
+(971/1008) had ETA-Sputum or BAL/miniBAL/PSB. 
+The 97.8% (986/1008) ETA-sputum, BAL/miniBAL/PSB, 
+respiratory virus testing, or real-time polymerase chain 
+
+reaction (PCR) in respiratory samples. The most frequent 
+sample collected during the diagnosis of nosocomial 
+LRTI was blood culture in 82.5% [832/1008], followed by 
+ETA and sputum culture (Table 3). Notably, the etiological 
+pathogen was more frequently identified in patients 
+diagnosed with VAP (75.4% [419/556]). 
+
+The most frequently identified microorganisms were 
+P. aeruginosa (18.4% [186/1008]), Klebsiella spp. (14.4% 
+[145/1008]), A. baumanii (11.0% [111/1008]), methicillin-
+susceptible S. aureus (MSSA) (10.81% [109/1008]) 
+and E. coli (8.5% [86/1008]). We found that patients with 
+VHAP and HAP had a lower prevalence of P. aeruginosa, 
+
+Fig. 2 Characteristics of the ICUs stratified per study groups A Cohort distribution by ICU type. B VAT distribution by ICU type. C VAP distribution by 
+ICU type. D ICU-HAP distribution by ICU type. E VHAP distribution by ICU type. F HAP distribution by ICU type 
+
+Table 2 Scores, laboratories, and inflammatory markers ICU admission, stratified by the study groups 
+
+Score or biomarker 
+at ICU admission 
+VAT VAP ICU-HAP VHAP HAP All cohort 
+n 160 n 556 n 98 n 94 n 152 n 1060 
+SAPS II 48 (35–66) 48 (38–58) 37 (28–47) 49 (39–60) 45 (33–57) 47 (36–58) 
+SOFA 8 (6–10) 8 (5–10) 5 (3–8) 9 (7–12) 7 (5–9) 7 (5–10) 
+CPIS 4 (3–6) 6 (5–7) 6 (5–7) 6 (4–7) 6 (5–7) 6 (4–7) 
+Leucocytes, 109/L 12 (8.9–15.6) 13 (9.8–17.5) 12.4 (7.3–17) 13 (9.3–18.2) 13.7 (8.4–18.5) 12.8 (9.3–17.5) 
+CRP, mg/dL 16.5 [6.7–80] 23 [9.6–130] 33.3 [9.9–152] 54 [7.6–205.5] 54 [20.1–180] 24.7 [9.5–137.8] 
+PCT at ICU, ng/mL 0.9 (0.2–2.4) 0.7 (0.2–3) 0.6 (0.2–3.1) 2.9 (0.6–10) 1.2 (0.3–3.7) 0.8 (0.2–3.4) 
+PaO2/FiO2 ratio 228.5 (177–284.5) 198 (144–267) 185 (134–267) 133 (96.1–218) 165.9 (113–240) 190 (138–266) 
+
+CRP C-reactive protein, CPIS clinical pulmonary infection score, HAP hospital-acquired pneumonia, ICU intensive care unit, PCT procalcitonin, SAPS II Simplified Acute 
+Physiology Score II, SOFA Sequential Organ Failure Assessment, VAP ventilator-associated pneumonia, VAT ventilator-associated tracheobronchitis, VHAP ventilated 
+
+hospital-acquired pneumonia 
+
+Klebsiella spp., and methicillin-resistant Staphylococcus 
+aureus (MRSA) than patients in the other groups. In contrast, 
+patients with VAT, VAP, and ICU-HAP had comparable 
+etiological pathogens, with a high prevalence of P. 
+aeruginosa, Klebsiella spp., and MRSA (Fig. 3). 
+
+Multidrug-resistant pathogens 
+
+Interestingly, we found that 31% (320/1008) of the 
+patients included in the study had an etiological pathogen 
+that could be classified either as multidrug-resistant 
+(MDR), pan-drug-resistant (PDR), extensively drugresistant 
+(XDL), extended spectrum-beta-lactamase 
+(ESBL), or carbapenem-resistant. Most resistant pathogens 
+were classified as MDR (13.1% [132/1008]). The 
+total proportion of Gram-negative roots isolated was 
+50.3% (507/1008). Among these Gram-negative roots 
+
+(i.e., A. baumanii, Citrobacter spp., E. coli, Legionella 
+spp., Enterobacter spp., Klebsiella spp., M. morgagni, 
+
+P. aeruginosa, Proteus spp., Serratia spp.) we found 
+ESBL in 14.4% (73/507) and carbapenem-resistant in 
+11% (56/507). When analysing the distribution of these 
+pathogens per study group, we found that VAP patients 
+had a statistically significant higher prevalence of MDR 
+pathogens (23.1% [74/320]), carbapenem-resistant pathogens 
+(13.7% [44/320]), ESBL (13.43% [43/320]) and XDR 
+(11.6% [37/320]) in comparison to the other study groups 
+(Table 3). 
+Clinical outcomes 
+
+A total of 58.4% [619/1060] of the patients were reported 
+to have resolved the infection. 33.4% [354/1060] patients 
+
+Table 3 Microbiological diagnosis and antibiotic resistance patterns 
+
+VAT 
+n 160 
+VAP 
+n 556 
+ICU-HAP 
+n 98 
+VHAP 
+n 94 
+HAP 
+n 152 
+All cohort 
+n 1060 
+Samples collected during LRTI diagnosis 152 (95) 531 (95.5) 92 (93.8) 92 (97.8) 141 (92.7) 1008 (95) 
+Blood culture 122 (76.3) 452 (81.3) 75 (76.5) 71 (75.5) 112 (73.7) 832 (78.5) 
+ETA-Sputum 110 (68.8) 249 (44.8) 50 (51) 37 (39.4) 67 (44.1) 513 (48.4) 
+BAL/miniBAL/PSB 75 (46.9) 352 (63.3) 49 (50) 59 (62.8) 85 (55.9) 620 (58.5) 
+Real-time PCR in respiratory samples 26 (16.3) 39 (7) 8 (8.2) 2 (2.1) 12 (7.9) 87 (8.2) 
+Respiratory virus testing 15 (9.4) 65 (11.7) 15 (15.3) 23 (24.5) 16 (10.5) 134 (12.6) 
+Pleural fluid 3 (1.9) 22 (4) 9 (9.2) 11 (11.7) 7 (4.6) 52 (4.9) 
+Microorganisms isolated 121 (75.6) 419 (75.4) 52 (53.1) 39 (41.5) 80 (52.6) 711 (67.1) 
+Acinetobacter baumanii 9 (5.6) 66 (11.9) 5 (5.1) 4 (4.3) 12 (7.9) 96 (9.1) 
+Aspergillus spp. 0 (0) 3 (0.5) 1 (1) 3 (3.2) 1 (0.7) 8 (0.8) 
+Corynebacterium 1 (0.6) 0 (0) 0 (0) 0 (0) 1 (0.7) 2 (0.2) 
+Citrobacter spp. 0 (0) 5 (0.9) 1 (1) 0 (0) 0 (0) 6 (0.6) 
+E. coli 5 (3.1) 35 (6.3) 7 (7.1) 7 (7.4) 9 (5.9) 63 (5.9) 
+Enterobacter spp. 5 (3.1) 24 (4.3) 4 (4.1) 1 (1.1) 8 (5.3) 42 (4) 
+Haemophilus spp. 6 (3.8) 15 (2.7) 1 (1) 2 (2.1) 5 (3.3) 29 (2.7) 
+Klebsiella spp. 22 (13.8) 57 (10.3) 6 (6.1) 8 (8.5) 12 (7.9) 105 (9.9) 
+Legionella spp. 0 (0) 0 (0) 0 (0) 0 (0) 1 (0.7) 1 (0.1) 
+Moraxella catarrhalis 0 (0) 2 (0.4) 0 (0) 0 (0) 2 (1.3) 4 (0.4) 
+Morganella morgagni 0 (0) 4 (0.7) 0 (0) 1 (1.1) 0 (0) 5 (0.5) 
+MRSA 7 (4.4) 21 (3.8) 8 (8.2) 6 (6.4) 13 (8.6) 55 (5.2) 
+MSSA 16 (10) 56 (10.1) 7 (7.1) 2 (2.1) 4 (2.6) 85 (8) 
+P. aeruginosa 33 (20.6) 101 (18.2) 7 (7.1) 4 (4.3) 9 (5.9) 154 (14.5) 
+Proteus spp. 2 (1.3) 11 (2) 0 (0) 0 (0) 1 (0.7) 14 (1.3) 
+S. pneumoniae 6 (3.8) 8 (1.4) 4 (4.1) 1 (1.1) 2 (1.3) 21 (2) 
+Serratia spp. 9 (5.6) 11 (2) 1 (1) 0 (0) 0 (0) 21 (2) 
+Antibiotic resistance patterns identified 64 (40) 201 (36.1) 19 (19.4) 32 (34) 15 (9.9) 320 (30.2) 
+MDR 24 (15) 74 (13.3) 9 (9.2) 14 (14.9) 11 (7.2) 132 (12.5) 
+ESBL 11 (6.9) 43 (7.7) 8 (8.2) 7 (7.4) 4 (2.6) 73 (6.9) 
+Carbapenemase resistant 8 (5) 44 (7.9) 1 (1) 3 (3.2) 0 (0) 56 (5.3) 
+XDR 7 (4.4) 37 (6.7) 1 (1) 7 (7.4) 0 (0) 52 (4.9) 
+PDR 3 (1.9) 3 (0.5) 0 (0) 1 (1.1) 0 (0) 7 (0.7) 
+
+All the characteristics are presented in counts (%) 
+
+ETA endotracheal aspirate, BAL bronchial alveolar lavage, LRTI lower respiratory tract infections, MRSA methicillin-resistant Staphylococcus aureus, MSSA methicillinsensitive 
+Staphylococcus aureus, PCR polymerase chain reaction, MDR multidrug-resistant, PDR pandrug-resistant, XDR extensively-drug resistant, ESBL extended 
+spectrum-beta-lactamase, VAT ventilator-associated tracheobronchitis, VAP ventilator-associated pneumonia, ICU-HAP Intensive Care Unit (ICU)hospital-acquired 
+pneumonia, VHAP ventilated hospital-acquired pneumonia, HAP hospital-acquired pneumonia 
+
+presented treatment failure, and the remaining 7.9% of stay (LOS) in survivors was 20 [11–35] days, and the 
+[84/1060] had an unknown outcome. Recurrence of hospital LOS was 38 [22–65] days. Patients with VAP 
+nosocomial LRTI was found in 10.7% [84/1060] of the had longer hospital and ICU LOS compared with other 
+whole cohort. VAT patients progress to VAP in 7.5% groups (VAT: 20.5 [11.5–30] vs VAP: 25 [15–41] vs 
+(12/160). ICU-HAP: 20 [11–35] vs VHAP: 12 [6–27] vs HAP:12 
+
+In-hospital mortality was 37.5% (397/1060), ICU mor-[6–19.5]) and (VAT: 31 [19–57] vs VAP: 44 [24–70] vs 
+tality was reported in 30.8% (326/397) of the patients, ICU-HAP: 38 [28–72] vs VHAP: 34.5 [20–61] vs HAP: 34 
+and 28-day mortality was 27.5% (291/1060). Patients [21–54.5]) respectively (Table 4). 
+diagnosed with VHAP had higher hospital mortality 
+(50% [47/94]), ICU mortality (40.3% [38/94]) and 28-day 
+mortality (41.5% [39/94]) when compared to the other 
+groups (Fig. 1; Table 4). The median (IQR) ICU length 
+
+Table 4 Systemic complications upon diagnosis and clinical outcomes stratified the study groups 
+
+Complications at ICU admission VAT 
+n 160 
+VAP 
+n 556 
+ICU-HAP 
+n 98 
+VHAP 
+n 94 
+HAP 
+n 152 
+All cohort 
+n 1060 
+Acute kidney injury 23 (14.4) 106 (19.1) 12 (12.2) 16 (17) 22 (14.5) 179 (16.9) 
+ARDS 20 (12.5) 116 (20.9) 16 (16.3) 32 (34) 45 (29.6) 229 (21.6) 
+Septic shock 19 (11.9) 148 (26.6) 22 (22.5) 38 (40.4) 31 (20.4) 258 (24.3) 
+Multiple organ failure 14 (8.8) 60 (10.8) 6 (6.1) 16 (17) 8 (5.3) 104 (9.8) 
+Clinical cure, n (%) 96 (60) 331 (59.5) 62 (63.3) 45 (47.9) 85 (55.9) 619 (58.4) 
+Treatment failure, n (%) 52 (32.5) 184 (33.1) 22 (22.5) 44 (46.8) 52 (34.2) 354 (33.4) 
+ICU mortality, n (%) 48 (30) 176 (31.7) 16 (16.3) 38 (40.3) 48 (31.6) 326 (30.8) 
+Hospital mortality, n (%) 59 (36.9) 210 (37.8) 24 (24.5) 47 (50) 57 (37.5) 397 (37.5) 
+28-days mortality, n (%) 51 (31.8) 143 (25.7) 14 (14.3) 39 (41.5) 44 (28.9) 291 (27.4) 
+ICU LOS, median (IQR) 20.5 (11.5–30) 25 (15–41) 20 (11–35) 12 (6–27) 12 (6–19.5) 20 (11–35) 
+Hospital LOS, median (IQR) 31 (19–57) 44 (24–70) 38 (28–72) 34.5 (20–61) 34 (21–54.5) 38 (22–65) 
+
+ARDS acute respiratory distress syndrome, ICU intensive care unit, LOS lenght of stay, VAP ventilator-associated pneumonia, VAT ventilator-associated 
+tracheobronchitis, VHAP ventilated hospital-acquired pneumonia 
+
+Fig. 3 Etiological diagnosis stratified by the study groups 
+Discussion 
+
+This study represents a contemporary multinational 
+observational perspective aiming to describe all the 
+possible nosocomial pneumonia presentations in a critical 
+care setting. The main finding is the high mortality, 
+especially among those with VHAP. Additionally, these 
+patients presented not only a worse unadjusted outcome 
+for mortality but also for morbidity with longer 
+duration of their stay in both hospital and ICU. We 
+also found that the etiological pathogens in patients 
+admitted with nosocomial pneumonia in the ICU were 
+
+similar among groups. However, we found that multidrug-
+resistant pathogens were more frequently identified 
+in VAP patients and were infrequent in the other 
+groups. These findings have important therapeutic 
+implications that should be further explored. 
+
+Patients admitted to the ICU often present pneumonia 
+as an infectious complication during their stay (i.e., nosocomial 
+pneumonia). However, most of the work done 
+has been continuously focused on only one entity: VAP. 
+Nevertheless, in recent years, VAT has emerged as a new 
+relevant infection in patients under invasive mechanical 
+
+ventilation. Some authors have hypothesised that VAT is 
+an intermediate infection before affecting the lung parenchyma 
+[25–27]. In contrast, others have proposed VAT 
+as an independent entity that does not need antibiotic 
+treatment [4, 28]. Current international guidelines have 
+contradictory recommendations about differentiating 
+VAP and VAT and how to treat these infections [4]. On 
+the other hand, as more patients are being admitted to 
+the ICU without requiring invasive mechanical ventilation, 
+different types of nosocomial pneumonia are now a 
+growing global problem in the ICU [29, 30]. Notably, the 
+clinical characteristics and outcomes of these new kinds 
+of pneumonia in the ICU have yet to be appropriately 
+described. 
+
+An important finding was the higher frequency of 
+infection due to P. aeruginosa in the study groups. 
+Over the last 5–10 years, epidemiological studies have 
+reported increased rates of Klebsiella pneumonia and 
+other non-fermentative Gram-negative pathogens [10, 
+31–34]. This has also resulted in resistant strains, especially 
+carbapenem-resistant pathogens [35–37], our 
+findings remind us that P. aeruginosa should still be considered 
+a common pathogen in patients with nosocomial 
+pneumonia [33]. Yet, we had a low rate of aetiology identification 
+in patients without invasive mechanical ventilation, 
+which could underestimate the prevalence of other 
+etiological pathogens [4]. This is a common feature being 
+shown in studies including patients that were not invasively 
+ventilated and opens the question of how we could 
+improve diagnostic yields in patients without an artificial 
+airway in place [38]. An alternative to this could be PCRbased 
+technologies; however, further studies are needed 
+to prove the utility of these new technologies. 
+
+Attributable pneumonia-related mortality has been and 
+will be a matter of debate. Studies have been published to 
+determine this effect, but the results remain unclear. One 
+of the most cited studies was published almost ten years 
+ago from a meta-analysis of individual patient data from 
+randomised studies. Melsen et al. reported an overall 
+attributable mortality of 13% in patients with VAP [39]. 
+The authors reported attributable avoidable mortality in 
+patients with mid-range severity and after surgery. However, 
+data obtained by us suggest higher rates of mortality. 
+In our study, higher mortality rates were linked with 
+severity scores, especially in patients with VHAP. As the 
+clinical characteristics and outcomes are different among 
+the different kinds of nosocomial types of pneumonia, we 
+propose to analyse attributable mortality based on the 
+various clinical trajectories associated with ICU admission. 
+In other words, pneumonia is not a static process, 
+and dynamic changes apply and might better understand 
+the attributable mortality dilemma in patients with nosocomial 
+pneumonia. 
+
+Etiological diagnosis of pneumonia represents a cornerstone 
+element for adequate medical treatment. Not 
+only to obtain and to identify the responsible pathogen 
+promptly but also a valid identification with a significant 
+sample avoids overtreatment and helps in early de-escalation 
+[40]. As our results showed, patients with VHAP 
+yielded poor microbiological confirmation. This can 
+be interpreted in two ways. One, patients have received 
+previous antibiotic treatment, which made antibiotic 
+levels not allow the growth, or two, we should propose 
+a more specific and invasive technique for this type of 
+patient (i.e., bronchoscopy at intubation). Unfortunately, 
+previous studies have shown that the performance of 
+bronchoscopy is not widely part of clinical practice in 
+European ICUs [41]. Yet, bronchoscopy is a valuable 
+technique, and international pneumonia guidelines currently 
+recommend it to improve diagnosis accuracy [1, 4]. 
+
+Our study has some limitations that are important to 
+mention. Although the study is a multicentre, multinational 
+study conducted in Europe and Latin America, 
+some other countries still need to be included to allow 
+the generalisability of the results. There needs to be more 
+representation from the Scandinavian countries where 
+low resistance rates have been published. However, this 
+study finds the differences and aetiology in places with 
+potentially higher resistance rates, and this information 
+would be valuable. Second, the diagnosis and treatment 
+of the patients were not standardised per the study protocol 
+among the different participating ICUs; thus, some 
+fungal and virus tests were not performed, which might 
+represent a potential bias. However, our results provide 
+an insightful analysis of current clinical practice. Third, 
+this study only recruited patients with nosocomial LRTI 
+admitted to the ICU. This does not allow us to estimate 
+the prevalence or incidence rate of LRTI among patients 
+admitted to the hospital. Nevertheless, the proportion of 
+nosocomial LRTI are well described and subcategorised 
+in the VAT/VAP/ICUHAP/VHAP/HAP groups. 
+
+In conclusion, with a prospective design analysis, this 
+cohort study provides contemporary data on all the different 
+types of nosocomial pneumonia that need to be 
+treated in the critically ill setting. We found that VHAP 
+mortality was the highest among patients admitted to 
+the ICU, confirming what has been reported in previous 
+clinical trials. However, the reason these patients 
+have a higher mortality rate is still being determined 
+and should be further explored in upcoming studies. 
+Finally, we found that multidrug-resistant pathogens 
+more frequently infected patients with VAP than other 
+nosocomial pneumonia, which might have important 
+clinical implications.

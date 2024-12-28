@@ -1,0 +1,32 @@
+AIMS/HYPOTHESIS: No established blood-based biomarker exists to monitor diabetic 
+sensorimotor polyneuropathy (DSPN) and evaluate treatment response. The 
+neurofilament light chain (NFL), a blood biomarker of neuroaxonal damage in 
+several neurodegenerative diseases, represents a potential biomarker for DSPN. 
+We hypothesised that higher serum NFL levels are associated with prevalent DSPN 
+and nerve dysfunction in individuals recently diagnosed with diabetes.
+METHODS: This cross-sectional study included 423 adults with type 1 and type 2 
+diabetes and known diabetes duration of less than 1 year from the prospective 
+observational German Diabetes Study cohort. NFL was measured in serum samples of 
+fasting participants in a multiplex approach using proximity extension assay 
+technology. DSPN was assessed by neurological examination, nerve conduction 
+studies and quantitative sensory testing. Associations of serum NFL with DSPN 
+(defined according to the Toronto Consensus criteria) were estimated using 
+Poisson regression, while multivariable linear and quantile regression models 
+were used to assess associations with nerve function measures. In exploratory 
+analyses, other biomarkers in the multiplex panel were also analysed similarly 
+to NFL.
+RESULTS: DSPN was found in 16% of the study sample. Serum NFL levels increased 
+with age. After adjustment for age, sex, waist circumference, height, HbA1c, 
+known diabetes duration, diabetes type, cholesterol, eGFR, hypertension, CVD, 
+use of lipid-lowering drugs and use of non-steroidal anti-inflammatory drugs, 
+higher serum NFL levels were associated with DSPN (RR [95% CI] per 1-normalised 
+protein expression increase, 1.92 [1.50, 2.45], p<0.0001), slower motor (all 
+p<0.0001) and sensory (all p≤0.03) nerve conduction velocities, lower sural 
+sensory nerve action potential (p=0.0004) and higher thermal detection threshold 
+to warm stimuli (p=0.023 and p=0.004 for hand and foot, respectively). There was 
+no evidence for associations between other neurological biomarkers and DSPN or 
+nerve function measures.
+CONCLUSIONS/INTERPRETATION: Our findings in individuals recently diagnosed with 
+diabetes provide new evidence associating higher serum NFL levels with DSPN and 
+peripheral nerve dysfunction. The present study advocates NFL as a potential 
+biomarker for DSPN.

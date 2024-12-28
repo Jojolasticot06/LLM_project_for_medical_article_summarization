@@ -1,0 +1,464 @@
+Recent evidence demonstrates that COVID-19 is associated with a high risk 
+of developing acute kidney injury (AKI), in particular, in patients with acute 
+respiratory distress syndrome (ARDS) (1, 2). A recently published study 
+including 3,993 hospitalized COVID-19 patients showed that the frequency of 
+COVID-19–associated AKI was 46% and that mortality rates were six times higher 
+compared with patients without AKI (3). Furthermore, in 35% of survivors, renal 
+function had not recovered to baseline at discharge (3). In another multicenter 
+study including 67 ICUs in the United States, 20% of ICU patients developed AKI 
+and received renal replacement therapy (RRT) (4). Approximately 63% of these 
+patients died while one third of the survivors remained RRT-dependent upon dis-
+charge, and 15% of the survivors were still RRT-dependent on day 60 (4). A recent 
+meta-analysis including 15 studies concluded that the development of AKI in 
+COVID-19 was associated with a 19-fold increased odds of in-hospital death (5). 
+
+Given the large impact of COVID-19–associated 
+AKI on patient outcomes, especially among those 
+treated with RRT, special attention is required to identify 
+patients at higher risk for developing AKI early 
+in the course of the syndrome, thus, enabling timely 
+implementation of supportive measures. According 
+to the Kidney Disease: Improving Global Outcomes 
+(KDIGO) guidelines, AKI is diagnosed based on 
+changes in kidney function such as rise in serum creatinine. 
+However, serum creatinine has a low sensitivity; 
+in patients with normal underlying kidney function, a 
+significant proportion of the glomerular filtration rate 
+has to be lost before a change in serum creatinine is detectable. 
+Urine output has a low specificity as it can be 
+effected by volume status, anti-diuretic hormone secretion, 
+and medications, without actual change in kidney 
+function (6). The recognition of AKI is unacceptably 
+delayed in up to 43% of hospitalized patients (7), leading 
+to potential loss of therapeutic opportunities. 
+
+Increased urinary biomarkers of kidney stress can 
+identify patients at high risk for AKI (8). In the cardiac 
+surgical setting, the implementation of supportive 
+measures in these high-risk patients might reduce the 
+occurrence or severity of AKI (9, 10). In this context, tissue 
+inhibitor of metalloproteinases 2 (TIMP-2) and the 
+insulin-like growth factor binding protein 7 (IGFBP7) 
+have been identified as possible AKI biomarkers, given 
+
+that both molecules are released early following various 
+insults to the kidney, resulting in reversible G1 cell 
+cycle arrest (11–13). 
+
+This study aimed to explore the role of the urinary 
+biomarkers TIMP-2 and IGFBP7 to predict AKI in 
+critically ill patients with COVID-19. 
+
+METHODS 
+
+Study Design and Ethics 
+
+We conducted a multicenter, multinational, observational 
+study in 12 centers across Europe and the 
+United Kingdom. Institutional review board approval 
+was obtained from the Research Ethics Committee of 
+the Chamber of Physicians Westfalen-Lippe and the 
+Westfalian Wilhelms University Muenster (2020-265f-
+S) as well as the corresponding institutional review 
+boards of all participating centers. The study was registered 
+prior to patient enrollment at ClinicalTrials. 
+gov (NCT04406688, date of registration May 28, 
+2020). In the United Kingdom, it was approved as 
+a National Institute for Health and Care Research 
+(NIHR) portfolio study (NIHR Central Portfolio 
+Management System Identificator 45824). The study 
+was conducted in accordance with the Declaration of 
+Helsinki (Version Fortaleza, 2013). Written informed 
+consent was obtained from all participating patients 
+or representatives according to local requirements and 
+legislation. 
+
+Participants 
+
+Eligible patients included adult patients with moderate 
+or severe ARDS (according to the Berlin definition: 
+acute onset of hypoxemia [moderate, Pao2/Fio2 = 
+101–200 mm Hg with positive end-expiratory pressure 
+(PEEP) = 5 cm H2O and severe, Pao2/Fio2 = 100 mm 
+Hg with PEEP = 5 cm H2O] with bilateral infiltrates 
+on frontal chest radiograph, with no evidence of left 
+atrial hypertension) due to severe acute respiratory 
+syndrome coronavirus 2 (SARS-CoV-2) (positive polymerase 
+chain reaction test). Patients were excluded if 
+any of the following criteria were present: preexisting 
+AKI, severe chronic kidney disease (CKD) with an 
+estimated glomerular filtration rate (eGFR) less than 
+20 mL/min/1.73 m2, chronic dialysis dependency, 
+kidney transplant within the last 12 months, pregnancy 
+or breastfeeding. 
+
+Study Procedures 
+
+Patients admitted with moderate or severe ARDS 
+within 7 days due to COVID-19 infection were included 
+in this study. Patients or their legally authorized 
+representatives were approached by members of 
+the study team and invited to give written informed 
+consent/assent for participation in the study. Consent 
+processes followed local guidelines. With informed 
+consent in place, blood and urine samples were collected 
+at different time points: at study inclusion, 
+12 hours, and 24 hours later. Urinary (TIMP-2) × 
+(IGFBP7) was measured using the NephroCheck test 
+(BioMérieux, Lyon, France). 
+
+Outcomes 
+
+The purpose of this study was to analyze the predictive 
+performance of (TIMP-2) × (IGFBP7) for moderate or 
+severe AKI in patients with SARS-CoV-2–associated 
+ARDS. Accordingly, the primary endpoint of the study 
+was the rate of moderate or severe AKI (KDIGO stage 
+2/3). within 7 days. Secondary endpoints included the 
+rate of transient (< 72 hr) and persistent AKI (= 72 hr), 
+treatment with RRT during hospital stay, duration of 
+RRT, mortality during hospital stay, duration of mechanical 
+ventilation, duration of vasopressor administration, 
+and ICU and hospital length of stay. 
+
+Statistical Analysis 
+
+In the primary statistical analysis, the distribution of 
+biomarker values (TIMP-2) × (IGFBP7) at study inclusion, 
+12 hours, and 24 hours after inclusion was 
+compared between those patients who did and did not 
+reach the primary endpoint using two-sided WilcoxonMann-
+Whitney (WMW) tests . Sample size considerations 
+were based on previously published data (14). 
+At 12 hours after inclusion, median biomarker values 
+of 0.2 and 0.5 (ng/mL)2/1,000, respectively, were expected 
+in patients who did not and did reach the primary 
+endpoint, with sds of logarithmized values 1 and 
+3, respectively. Five percent of the recruited patients 
+are assumed to have missing data, and among the remaining 
+patients, 25% are assumed to reach the primary 
+endpoint. Under these assumptions the power of 
+the WMW test is greater than85%. 
+
+Multivariable predictive analyses of the occurrence 
+of the primary endpoint were performed by logistic 
+
+regression. An initial model includes the baseline 
+clinical variables sex, age, weight, hypertension, congestive 
+heart failure, diabetes, CKD (eGFR < 60 mL/ 
+min), severe ARDS, peripheral vascular disease, 
+angiotensin-converting enzyme inhibitors, and angiotensin 
+receptor blockers. Based on the initial model 
+stepwise variable selection was applied to establish a 
+clinical reference model, as well as a new model with 
+the additional biomarker (TIMP-2) × (IGFBP7). The 
+predictive performance regarding the occurrence of 
+the primary endpoint was evaluated by receiver operating 
+characteristic (ROC) analyses, the Youden index, 
+the integrated discrimination improvement (IDI), and 
+the category-free net reclassification improvement 
+(cfNRI). 
+
+Statistical analyses were performed using the SAS 
+software (Version 9.4 for Windows; SAS Institute, Cary, 
+NC) and IBM SPSS Statistics 28 for Windows (IBM 
+Corporation, Somers, NY). All statistical analyses are 
+exploratory, not confirmatory. p values are regarded 
+noticeable (“significant”) in case p value of less than or 
+equal to 0.05 without adjustment for multiple testing. 
+An overall significance level was not determined and 
+cannot be calculated. 
+
+RESULTS 
+
+Patients 
+
+The study was conducted between June 2020 and 
+December 2021 in 12 centers in Germany, Spain, Italy, 
+Portugal, and the United Kingdom. A total of 766 
+patients were screened and 300 patients were enrolled 
+(Fig. 1). Mean age was 57 years (sd, 14 yr) and 71% 
+were males. Baseline serum creatinine was 0.83 mg/ 
+dL (sd, 0.21 mg/dL). Median Sequential Organ Failure 
+Assessment score was 7 (Q1–Q3, 3–10) and median 
+Acute Physiology And Chronic Health Evaluation II 
+score 16 (Q1–Q3, 11–25). Further baseline characteristics 
+are shown in Table 1. 
+
+Patients who met the primary endpoint were older, 
+more likely to suffer from peripheral vascular disease 
+and had higher severity of illness scores. (Table 1) 
+
+Outcomes 
+
+Of 300 included patients, 86 developed AKI (28.7%) 
+of which 46 episodes were transient and 29 persistent 
+(Table 2). Thirty-nine of 300 patients (13%) met 
+
+
+Figure 1. Participant flow. AKI = acute kidney injury, ARDS = acute respiratory distress syndrome, eGFR = estimated glomerular 
+filtration rate. 
+
+the primary endpoint moderate/severe AKI within 
+7 days (15 patients [5.0%] KDIGO stage 2 and 24 
+patients [8.0%] KDIGO stage 3). The median time 
+to development of AKI was 1 day (Q1–Q3, 0–2 d). 
+Among patients meeting the primary endpoint, 17 
+of 39 received RRT (43.6%) and 32 died (82.1%) 
+(Table 2). 
+
+Biomarker Performance 
+
+Patients who met the primary endpoint had significantly 
+higher urinary (TIMP-2) × (IGFBP7) concentrations 
+at the time of inclusion and 12 hours later 
+compared with endpoint-negative patients (inclusion: 
+median 1.73 [Q1–Q3, 1.0–2.48] [ng/mL]2/1,000 vs 0.31 
+[Q1–Q3, 0.15–0.71] [ng/mL]2/1,000; p < 0.001; 12 hr: 
+median 0.92 [Q1–Q3, 0.25–1.44] [ng/mL]2/1,000 vs 
+0.30 [Q1–Q3, 0.13–0.87] [ng/mL]2/1,000; p = 0.003). 
+No significant differences in (TIMP-2) × (IGFBP7) 
+levels were detectable at 24 hours (Fig. 2). 
+
+At inclusion, the optimal cutoff value (maximizing 
+the Youden index) for the prediction of the primary 
+endpoint was 0.90 (ng/mL)2/1,000 (Youden index, 
+0.67; sensitivity, 85%; specificity, 82%) (eTable 1, 
+http://links.lww.com/CCM/H320). 
+
+The median lead time provided by the positive biomarker 
+result was 24 hours (Q1–Q3, 0–24 hr). 
+
+The ROC analyses for prediction of AKI resulted 
+in an area under the receiver operating characteristic 
+
+curve (AUC) of 0.89 (95% CI, 0.84–0.93) at inclusion, 
+
+0.67 (95% CI, 0.56–0.78) at 12 hours and 0.58 (95% 
+CI, 0.46–0.70) at 24 hours after inclusion (Fig. 3A). For 
+prediction of persistent AKI, the AUC was 0.81 (95% 
+CI, 0.73–0.90) at inclusion, AUC 0.60 (95% CI, 0.46– 
+0.73) at 12 hours and AUC 0.60 (95% CI, 0.47–0.73) 
+at 24 hours (Fig. 3B). For prediction of RRT, the AUC 
+was 0.76 (95% CI, 0.66–0.86) at inclusion, 0.58 (95% 
+CI, 0.45–0.72) at 12 hours and 0.57 (95% CI, 0.44– 
+0.70) at 24 hours (Fig. 3C). 
+Additional Predictive Ability of (TIMP-2) × 
+(IGFBP7) Over Clinical Variables 
+
+Urinary (TIMP-2) × (IGFBP7) significantly improved 
+risk prediction when added to the clinical model for 
+the primary endpoint, using ROC, AUC, IDI, and 
+cfNRI analyses (eTable 2, http://links.lww.com/CCM/ 
+H320). 
+
+DISCUSSION 
+
+The Acute Disease Quality Initiative consensus state-
+ment on COVID-19–associated AKI recommended 
+to investigate novel biomarkers for the diagnosis and 
+prognosis of AKI in the setting of COVID-19. Urinary 
+(TIMP-2) × (IGFBP7) concentrations have been analyzed 
+in non-COVID-19 settings with good predictive 
+ability to detect patients at risk for AKI (11, 13, 15). In 
+
+
+TABLE 1. 
+
+Baseline and Patient Characteristics 
+
+Characteristics Total (n = 300) 
+No Moderate/Severe 
+AKI (n = 261) 
+Moderate/Severe 
+AKI (n = 39) p 
+Age, mean (sd), yr 56.9 (13.9) 56.2 (14.0) 61.3 (12.9) 0.034 
+Male sex, n (%) 213 (71.0) 185 (70.9) 28 (71.8) 0.907 
+Weight, mean (sd), kg 89.5 (20.9) 89.1 (21.0) 91.7 (20.2) 0.481 
+Sequential Organ Failure Assessment 
+score, median (Q1–Q3) 
+7 (3–10) 7 (3–9) 10 (5–12) < 0.001 
+Acute Physiology And Chronic Health 
+Evaluation score, median (Q1–Q3) 
+16 (11–25) 15 (10–23) 26 (13–32) < 0.001 
+Baseline creatinine, mean (sd), mg/dLa 0.83 (0.21) 0.83 (0.2) 0.82 (0.2) 0.709 
+Time acute respiratory distress syndrome 
+to inclusion, median (Q1–Q3), d 
+0 (0–1) 0 (0–1) 0 (0–1) 0.120 
+Time COVID-19 positivity to inclusion 
+(Q1–Q3), d 
+6 (3–10) 6 (3–10) 5 (4–12) 0.778 
+COVID-19 symptoms at hospital admission, n (%) 
+Fever/shivering 204 (68.0) 183 (78.5) 21 (56.8) 0.004 
+Dry cough 167 (55.7) 152 (65.0) 15 (40.5) 0.005 
+Loss of taste or smell 28 (9.3) 25 (10.8) 3 (8.1) 0.616 
+Respiratory distress 228 (76.0) 194 (80.2) 34 (89.5) 0.170 
+Headache 44 (14.7) 41 (17.8) 3 (8.1) 0.139 
+Gastrointestinal symptoms 50 (16.7) 44 (18.8) 6 (16.7) 0.759 
+Lowest Horovitz index at inclusion, median 
+(Q1–Q3), mm Hg 
+103.0 (79.0–143.0) 107.0 (82.5–144.0) 88.5 (68.8–120.0) 0.185 
+Extracorporeal membrane oxygenation 
+therapy, n (%) 
+59 (19.7) 47 (8.0) 12 (30.8) 0.061 
+Comorbidities, n (%) 
+Hypertension 123 (41.0) 103 (39.8) 20 (51.3) 0.173 
+Congestive heart failure 11 (3.7) 11 (4.2) 0 (0) 0.191 
+Diabetes 59 (19.7) 51 (19.7) 8 (20.5) 0.904 
+Chronic obstructive pulmonary disease 19 (6.3) 16 (6.2) 3 (7.7) 0.718 
+Chronic kidney disease 5 (1.7) 4 (1.5) 1 (2.6) 0.641 
+Myocardial infarction 14 (4.7) 11 (4.3) 3 (7.7) 0.346 
+Atrial fibrillation 17 (5.7) 14 (5.4) 3 (7.7) 0.562 
+Stroke 9 (3.0) 7 (2.8) 2 (5.1) 0.430 
+Peripheral vascular disease 10 (3.3) 5 (1.9) 5 (12.8) < 0.001 
+Medication, n (%) 
+ß-blockers 48 (16.0) 39 (15.0) 9 (23.7) 0.174 
+Statins 71 (23.7) 60 (23.1) 11 (28.9) 0.428 
+Diuretics 45 (15.0) 38 (14.7) 7 (18.4) 0.547 
+Angiotensin-converting enzyme inhibitors 59 (19.7) 50 (19.3) 9 (23.7) 0.527 
+Angiotensin receptor blockers 42 (14.0) 36 (13.8) 6 (15.8) 0.748 
+
+AKI = acute kidney injury. 
+aThis value represents patients premorbid kidney function. 
+
+
+TABLE 2. 
+
+Outcome Parameters 
+
+Outcome 
+No Moderate/Severe 
+AKIa (n = 261) 
+Moderate/Severe 
+AKI a(n = 39) pa 
+AKI all, n (%) 47 (18.2) 39 (100) < 0.001 
+Transientb 32 (80.0) 14 (40.0) 
+Persistentb 8 (20.0) 21 (60.0) 
+Renal replacement therapy, n (%) 8 (3.1) 17 (43.6) < 0.001 
+Mortality during hospital stay, n (%) 63 (24.7) 32 (82.1) < 0.001 
+Duration of mechanical ventilation, median (Q1–Q3), d 11 (6–30) 42 (19–68) 0.004c 
+Duration of vasopressor administration, median (Q1–Q3), d 5 (2–19) 46 (33–46) < 0.001c 
+ICU length of stay, median (Q1–Q3), d 15 (8–42) 48 (29–70) 0.001c 
+Hospital length of stay, median (Q1–Q3), d 26 (17–47) 77 (30–91) 0.015c 
+
+AKI = acute kidney injury. 
+aReferring to the primary endpoint moderate/severe AKI within 7 d. 
+bMissing values 11. 
+cLog rank. 
+
+
+Figure 2. Urinary tissue inhibitor of metalloproteinases 2 and insulin like growth factor binding protein 7 (TIMP-2) × (IGFBP7) levels 
+at different time points. The box represents the 25th/75th percentile. Whiskers are drawn from the ends of the box to the largest and 
+smallest observed values within 1.5 times the interquartile range. Outliers beyond the whiskers are represented by circles. AKI = acute 
+kidney injury.
+
+Figure 3. Predictive performance of (tissue inhibitor of metalloproteinases 2 [TIMP-2]) × (insulin-like growth factor binding protein 7 
+[IGFBP7]) for kidney outcomes. Receiver operating characteristic curves of urinary TIMP-2 and IGFBP7 for prediction of moderate/ 
+severe acute kidney injury (AKI) (A), prediction of persistent AKI (B), and for prediction of renal replacement therapy (C) (green line: at 
+inclusion, red line: 12hr after inclusion, orange line: 24hr after inclusion). 
+
+a biomarker-based approach, these two G1 cell cycle 
+arrest markers guided the implementation of a bundle 
+of supportive measures which was associated with a 
+significantly reduced occurrence of AKI (9). Such a patient 
+individualized approach using novel biomarkers 
+could also be beneficial for COVID-19 patients in order 
+to improve outcomes. However, first it is important to 
+investigate whether (TIMP-2) × (IGFBP7) is also predictive 
+for AKI in this specific setting. In this study, we 
+demonstrated that urinary (TIMP-2) × (IGFBP7) has 
+an even better ability to predict AKI than in other settings 
+(15, 16). When adding (TIMP-2) × (IGFBP7) to 
+a clinical model, risk prediction increased significantly 
+compared with only using clinical variables. In other 
+settings, it has been demonstrated that the implementation 
+of the KDIGO bundle (discontinuation of all 
+nephrotoxic agents, ensure volume status and perfusion 
+pressure, consideration of a functional hemodynamic 
+monitoring, monitoring of serum creatinine 
+and urine output, avoidance of hyperglycemia, and 
+consideration of alternatives to radiocontrast agents) 
+in patients at high risk for AKI can reduce the occurrence 
+of AKI (9, 10, 17). Transferring the new data to 
+COVID-19 patients, patients with elevated (TIMP-2) 
+× (IGFBP7) levels should also be treated according to 
+the KDIGO guidelines by implementing the KDIGO 
+bundle. 
+
+To our best knowledge, only few small studies have 
+investigated the performance of (TIMP-2) × (IGFBP7) 
+in critically ill patients with COVID-19. One small 
+study demonstrated that patients with COVID-19 
+
+associated AKI and high levels of (TIMP-2) × (IGFBP7) 
+were more prone to receive RRT compared with those 
+with low levels of (TIMP-2) × (IGFBP7) (18). Another 
+small observational study showed that urinary (TIMP
+
+2) × (IGFBP7) greater than or equal to 0.2 was a risk 
+factor for AKI (hazard ratio 7.23; 95% CI, 0.99–52.4; 
+p = 0.050) (19). Both studies did not specifically focus 
+on COVID-19 patients with ARDS. 
+Interestingly, we found that urinary (TIMP-2) × 
+(IGFBP7) did not persisted for very long after enrollment. 
+Although levels at 12 hours were still significantly 
+higher in patients who met the endpoint, 
+the levels were, on average, lower than at enrollment 
+(Fig. 2). The predictive value of (TIMP-2) × (IGFBP7) 
+is dependent on the kinetic of the biomarkers in the 
+context of the course of the disease. We know from 
+other studies that (TIMP-2) × (IGFBP7) sharply 
+increases after an insult and then rapidly decreases. 
+Obviously, the first time point we measured (TIMP
+
+2) × (IGFBP7) was at the peak of the kinetic curve 
+and therefore the predictive value was very good. 
+Therefore, it is possible that the two later time points 
+were too late. We speculate that hypoxemia may have 
+been the trigger for kidney stress which was then reflected 
+by (TIMP-2) and (IGFBP7) release. Once the 
+patient was admitted to the hospital, the hypoxemic 
+stress was presumably reduced or eliminated completely. 
+Further studies will need to explore this hypothesis 
+further. 
+Important strengths of this study are the multicenter 
+study design as well as the large sample size and the 
+
+application of both, serum creatinine and urine output 
+criteria to diagnose AKI. However, we also acknowledge 
+some limitations. First, we cannot account for the 
+virus type. Most of the patients were included during 
+the Delta variant interval. However, due to the international 
+collaboration, we cannot preclude that some 
+patients may have been infected with other variants. 
+Whether the risk of AKI varies with different virus variants 
+or (unlikely) impacts the expression of (TIMP-2) × 
+(IGFBP7) is unknown. Second, we focused on COVID19 
+patients with moderate and severe ARDS who are 
+particularly susceptible for AKI. It remains unknown 
+whether the results are generalizable to other COVID19 
+cohorts. Third, as the biomarker levels within the 
+first 24 hours of enrollment were not different, the timing 
+of the measurement in the course of the COVID-19 
+infection is very important. In this study, the median 
+time from moderate/severe ARDS to inclusion was 0 
+days. The results of this study may not be transferable to 
+patients meeting the ARDS criteria days earlier. Fourth, 
+confounding is a frequent issue in observational studies. 
+To control for this, we per-formed multivariable 
+analyses and confirmed the additional value of (TIMP
+
+
+2) × (IGFBP7) for early identifying AKI. However, residual 
+effects from unmeasured confounders upon the 
+findings cannot be ruled out. 
+CONCLUSIONS 
+
+In patients with COVID-19–associated moderate or 
+severe ARDS, urinary (TIMP-2) × (IGFBP7) demonstrated 
+a high predictive ability for moderate or severe 
+AKI. Future studies need to investigate whether (TIMP
+
+
+2) × (IGFBP7) based implementation of supportive 
+measures helps to reduce the occurrence of AKI.

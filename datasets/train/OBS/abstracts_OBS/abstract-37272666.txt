@@ -1,0 +1,22 @@
+INTRODUCTION: To elucidate the postnatal dynamics and clinical associations of 
+fecal calprotectin (FC) in very preterm infants, with a focus on necrotizing 
+enterocolitis (NEC) and feeding intolerance (FI).
+METHODS: We performed a prospective observational cohort study in infants with a 
+gestational age of <32 weeks or birth weight <1,500 g with weekly feces 
+collection. The relationships between FC, NEC, and FI were investigated, 
+adjusting for demographic and clinical factors.
+RESULTS: A total of 1,086 fecal samples were collected from 194 preterm infants. 
+Postnatal FC levels of non-NEC infants were highly variable and followed an 
+age-dependent patterned progression. FC levels were elevated in patients with 
+NEC before and at NEC onset, distinguishing them from non-NEC infants and those 
+at sepsis onset. Among infants without NEC or sepsis, those with FI exhibited 
+lower FC concentrations throughout hospitalization and displayed a significant 
+delay in reaching high FC levels after meconium compared with non-FI infants. 
+The age to reach the first high nonmeconial FC levels was positively associated 
+with the time to achieve full enteral feeding.
+DISCUSSION: Postnatal FC dynamics among premature infants followed a patterned 
+progression but were disturbed in patients with NEC and FI. Because of the high 
+variations, the use of FC levels in NEC diagnosis should be implemented with 
+caution in clinical practice. FC may help understand FI and feeding progression 
+in very preterm infants. Further research is needed to validate these findings 
+and explore the potential clinical applications of FC in this population.

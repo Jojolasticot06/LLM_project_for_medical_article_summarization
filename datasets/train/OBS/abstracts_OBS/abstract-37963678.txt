@@ -1,0 +1,25 @@
+BACKGROUND: Based on Barker's hypothesis, some studies investigated the 
+associations between birth weight and several disorders. Apart from issues with 
+statistical power and well-known shortcomings of the observational study design, 
+there are no studies accounting for changes in weight-related body size over the 
+life course regarding rheumatoid arthritis, psoriasis, psoriatic arthritis and 
+multiple sclerosis.
+METHODS: Using genetic information of up to 806 834 participants, this study 
+investigated the associations between time-varying weight-related body size from 
+birth to adulthood and the mentioned autoimmune diseases. Performing Mendelian 
+randomisation (MR), the radial inverse-variance weighted approach was used 
+iteratively in primary analyses. Robustness of the results was confirmed in 
+several sensitivity analyses. Potential time-dependent mediation mechanisms were 
+identified through network-clustering and assessed using multivariable MR.
+RESULTS: Genetically predicted birth weight (fetal effect) was positively 
+associated with rheumatoid arthritis (OR 1.44; 95% CI 1.17 to 1.77; Padj =0.005) 
+but not with psoriasis, psoriatic arthritis or multiple sclerosis. This 
+association was found to be mediated by body mass index (BMI) in adulthood (OR 
+1.45; 95% CI 1.14 to 1.84; Padj =0.019) rather than childhood. The direct effect 
+of birth weight attenuated (OR 1.19; 95% CI 0.88 to 1.62); Padj =1) after 
+adjustment for time-varying BMI.
+CONCLUSION: Increased birth weight appears to be a risk factor for later 
+manifestation of rheumatoid arthritis due to both fetal genetic components and 
+high BMI persisting into adulthood. Approaches to prevent and minimise the risk 
+of rheumatoid arthritis could include preventing obesity in adults with high 
+birth weight.

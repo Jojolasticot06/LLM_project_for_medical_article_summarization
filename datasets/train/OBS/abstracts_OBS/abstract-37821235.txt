@@ -1,0 +1,32 @@
+BACKGROUND AND OBJECTIVES: To determine the relevance of minor 
+neuropsychological deficits (MNPD) in patients with subjective cognitive decline 
+(SCD) with regard to CSF levels of Alzheimer disease (AD) biomarkers, cognitive 
+decline, and clinical progression to mild cognitive impairment (MCI).
+METHODS: This study included patients with clinical SCD and SCD-free, healthy 
+control (HC) participants with available baseline CSF and/or longitudinal 
+cognitive data from the observational DZNE Longitudinal Cognitive Impairment and 
+Dementia study. We defined MNPD as a performance of at least 0.5SD below the 
+mean on a demographically adjusted total score derived from the Consortium to 
+Establish a Registry for Alzheimer's Disease neuropsychological assessment 
+battery. We compared SCD patients with MNPD and those without MNPD with regard 
+to CSF amyloid-β (Aβ)42/Aβ40, phosphorylated tau (p-tau181), total tau and 
+Aβ42/p-tau181 levels, longitudinal cognitive composite trajectories, and risk of 
+clinical progression to incident MCI (follow-up M ± SD: 40.6 ± 23.7 months). In 
+addition, we explored group differences between SCD and HC in those without 
+MNPD.
+RESULTS: In our sample (N = 672, mean age: 70.7 ± 5.9 years, 50% female), SCD 
+patients with MNPD (n = 55, 12.5% of SCD group) showed significantly more 
+abnormal CSF biomarker levels, increased cognitive decline, and a higher risk of 
+progression to incident MCI (HR: 4.07, 95% CI 2.46-6.74) compared with SCD 
+patients without MNPD (n = 384). MNPD had a positive predictive value of 57.0% 
+(95% CI 38.5-75.4) and a negative predictive value of 86.0% (95% CI 81.9-90.1) 
+for the progression of SCD to MCI within 3 years. SCD patients without MNPD 
+showed increased cognitive decline and a higher risk of incident MCI compared 
+with HC participants without MNPD (n = 215; HR: 4.09, 95% CI 2.07-8.09), while 
+AD biomarker levels did not differ significantly between these groups.
+DISCUSSION: Our results suggest that MNPD are a risk factor for AD-related 
+clinical progression in cognitively normal patients seeking medical counseling 
+because of SCD. As such, the assessment of MNPD could be useful for individual 
+clinical prediction and for AD risk stratification in clinical trials. However, 
+SCD remains a risk factor for future cognitive decline even in the absence of 
+MNPD.

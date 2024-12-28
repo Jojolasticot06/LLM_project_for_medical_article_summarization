@@ -1,0 +1,28 @@
+Efficacy of combination therapy of fluvoxamine and favipiravir vs favipiravir 
+monotherapy to prevent severe COVID-19 among mild to moderate COVID-19 patients: 
+Open-label randomized controlled trial (EFFaCo study).
+
+1/OBJECTIVES: Fluvoxamine (FVX) is an antidepressant proposed to its 
+immunomodulatory effects in preventing deterioration in mild and moderate 
+COVID-19.
+
+2/METHODS: An open-label, 1:1 randomized controlled trial was assigned either 
+combination therapy 50 mg twice daily of FVX for 10 days and favipiravir (FPV) 
+or FPV alone to assess the efficacy in preventing disease progression in mild to 
+moderate COVID-19 on the 5th day.
+
+3/RESULTS: In total, 134 patients with mild COVID-19 received FPV and 132 received 
+FVX/FPV, 31 patients with moderate COVID-19 received FPV/dexamethasone 
+(FPV/Dex), and 30 received FVX/FPV/Dex. The intention-to-treat (ITT) analysis 
+showed no difference of no clinical deterioration on the 5th day in both mild 
+COVID-19 (100% in FPV vs 97% in FVX/FPV) and moderate COVID-19 (83.9% in FPV/Dex 
+vs 86.7% in FVX/FPV/Dex). However, there was a low rate of oxygen supplemental, 
+hospitalization, or intensive care in both groups and zero death in all groups. 
+No significant difference in oxygen supplemental, hospitalization, radiological, 
+virological, or biochemical outcomes, and the immunomodulatory effect was 
+observed between the group.
+
+4/CONCLUSION: The combined fluvoxamine treatment did not add benefit in preventing 
+deterioration in patients with mild to moderate COVID-19 without the 
+immunomodulatory effect observed, although it demonstrated low hospitalization 
+rates, oxygen supplemental, intensive care needed, and zero mortality.

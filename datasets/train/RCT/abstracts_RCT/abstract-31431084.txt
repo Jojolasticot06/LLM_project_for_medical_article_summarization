@@ -1,0 +1,21 @@
+Predicting no return to sports after three months in patients with traumatic 
+knee complaints in general practice by combining patient characteristics, trauma 
+characteristics and knee complaints.
+
+
+1/Background: It remains unclear to what extent patients with traumatic knee 
+complaints aged 18-45 years seen in general practice experience difficulties 
+with return to sports.
+Objectives: This study aims to determine the proportion of patients with a knee trauma that return to sports at six weeks and three months follow-up. Also examined were associations between no return to sports and baseline patient/trauma characteristics, knee complaints and MR (magnetic resonance) findings, as well as the additive value of MR findings.
+
+2/Methods: 
+Included were patients with traumatic knee complaints participating in a 
+randomized controlled trial assessing the cost-effectiveness of an MR scan in 
+general practice. Patients were classified as 'no return to sports' or 'return 
+to sports' (sports on pre-injury or adapted level). Potential baseline 
+predictors for no return to sports were assessed using logistic regression 
+analyses. The area under the curves (AUC) was compared.
+
+3/Results: At six weeks and three months follow-up, 147 (59%) and 175 (74%) patients, respectively, reported return to sports. Combining patient characteristics, trauma characteristics and knee complaints predicted no return to sports with an AUC of 0.86 (95%CI: 0.81-0.90) at six weeks and of 0.82 (95%CI: 0.76-0.88) at three months follow-up. After adding MR findings, the AUC was 0.79 (95%CI: 0.71-0.87) at six weeks and 0.79 (95%CI: 0.70-0.88) at three months follow-up.
+
+4/Conclusion: Three out of four patients with a knee trauma in general practice reported return to sports at three months follow-up. A combination of patient/trauma characteristics and knee complaints predicted no return to sports, whereas MR findings had no additive value. 

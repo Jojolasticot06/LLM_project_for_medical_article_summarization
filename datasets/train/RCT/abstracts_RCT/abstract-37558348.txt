@@ -1,0 +1,44 @@
+BACKGROUND: Insecticide resistance among malaria-vector species is a pervasive 
+problem that might jeopardise global disease-control efforts. Novel 
+vector-control tools with different modes of action, including long-lasting 
+insecticidal nets (LLINs) incorporating new active ingredients, are urgently 
+needed to delay the evolution and spread of insecticide resistance. We aimed to 
+measure phenotypic and genotypic insecticide-resistance profiles among wild 
+Anopheles collected over 3 years to assess the longitudinal effects of 
+dual-active-ingredient LLINs on insecticide resistance.
+METHODS: For this analysis, data nested in a 3-year, four parallel-arm, 
+superiority cluster-randomised controlled trial (cRCT) in Tanzania, collected 
+from 84 clusters (39 307 households) formed of 72 villages in the Misungwi 
+district, were used to measure insecticide-resistance profiles among female 
+Anopheles mosquitoes via insecticide-resistance bioassays and quantitative 
+RT-PCR of metabolic-resistance genes. Wild, blood-fed, indoor-resting mosquitoes 
+were collected annually during the rainy seasons from house walls in clusters 
+from all four trial groups. Mosquitoes were morphologically identified as An 
+gambiae sensu lato (SL) or An funestus SL before separate bioassay testing. The 
+primary outcomes were lethal-dose values for α-cypermethrin, permethrin, and 
+piperonyl butoxide pre-exposure plus permethrin-resistance intensity bioassays, 
+mortality 72 h after insecticidal exposure for chlorfenapyr bioassays, fertility 
+reduction 72 h after insecticidal exposure for pyriproxyfen bioassays, and fold 
+change in metabolic-enzyme expression relative to an insecticide-susceptible 
+laboratory strain. All primary outcomes were measured in An funestus SL 1 year, 
+2 years, and 3 years after LLIN distribution. Primary outcomes were also 
+assessed in An gambiae SL if enough mosquitoes were collected. The cRCT is 
+registered with ClinicalTrials.gov (NCT03554616).
+FINDINGS: Between May 24, 2019, and Oct 25, 2021, 47 224 female Anopheles were 
+collected for resistance monitoring. In the pyrethroid (PY)-LLIN group, there 
+were significant increases in α-cypermethrin-resistance intensity (year 1 
+LD50=9·52 vs year 2 76·20, p<0·0001) and permethrin-resistance intensity (year 1 
+13·27 vs year 2 35·83, p=0·0019) in An funestus SL. In the pyriproxyfen PY-LLIN 
+group, there was similar increase in α-cypermethrin-resistance intensity (year 1 
+0·71 vs year 2 81·56, p<0·0001) and permethrin-resistance intensity (year 1 5·68 
+vs year 2 50·14, p<0·0001). In the piperonyl butoxide PY-LLIN group, 
+α-cypermethrin-resistance intensity (year 1 33·26 vs year 3 70·22, p=0·0071) and 
+permethrin-resistance intensity (year 1 47·09 vs year 3 2635·29, p<0·0001) also 
+increased over time. In the chlorfenapyr PY-LLIN group, there were no effects on 
+α-cypermethrin-resistance intensity (year 1 0·42 vs year 3 0·99, p=0·54) or 
+permethrin-resistance intensity (data were not estimable due to nearly 100% 
+mortality). There were also minimal reductions in chlorfenapyr susceptibility. 
+However, in the chlorfenapyr PY-LLIN group, a significant decline in 
+piperonyl-butoxide synergy was seen by year 3 (year 1 0·02 vs year 3 0·26, 
+p=0·020). Highly over-expressed detoxification enzymes showed dynamic patterns 
+of selection throughout the trial.

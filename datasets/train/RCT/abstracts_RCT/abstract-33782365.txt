@@ -1,0 +1,11 @@
+EFFICACY AND SAFETY OF INTRAVITREAL AFLIBERCEPT USING A TREAT-AND-EXTEND REGIMEN FOR NEOVASCULAR AGE-RELATED MACULAR DEGENERATION: The ARIES Study: A Randomized Clinical Trial.
+
+1/BACKGROUND/PURPOSE: Treating neovascular age-related macular degeneration with intravitreal aflibercept treat-and-extend (T&E) can reduce treatment burden. ARIES assessed whether intravitreal aflibercept early-start T&E was noninferior to late-start T&E.
+
+2/METHODS: A randomized, open-label, Phase 3b/4 study that included treatment-naïve patients aged ≥50 years with the best-corrected visual acuity 73-25 Early Treatment Diabetic Retinopathy Study letters and active choroidal neovascularization secondary to AMD. Patients received 2 mg intravitreal aflibercept at Week (W) 0, W4, W8, and W16. At W16, patients were randomized 1:1 to early-start (2W interval adjustments) or late-start T&E (8W intervals until W48 then 2W interval adjustments). Primary endpoint: the best-corrected visual 
+acuity change from randomization to W104.
+
+3/RESULTS: Two-hundred seventy-one patients were randomized. The mean (SD) best-corrected visual acuity at baseline was 60.2 (12.1; early-T&E) and 61.3 (10.8; late-T&E) letters. The mean (SD) best-corrected visual acuity change (W16-104) was -2.1 (11.4) versus -0.4 (8.4) letters (early-T&E vs. late-T&E; least-squares mean difference: -2.0; 95% confidence interval: -4.75 to 0.71; P = 0.0162 for noninferior); +4.3 (13.4) versus +7.9 (11.9) letters (W0-104). The mean (SD) number of injections was 12.0 (2.3) versus 13.0 (1.8). From baseline to W104, 93.4% and 96.2% maintained best-corrected visual acuity; the mean (SD) central retinal thickness change was -161.6 (135.6) µm and -158.6 (125.1) µm. The last injection interval (W104) was ≥12W for 47.2% and 51.9% of patients.
+
+4/CONCLUSION: Outcomes were similar between patients with neovascular age-related macular degeneration treated with an intravitreal aflibercept early-T&E or late-T&E regimen after initial dosing, with one injection difference over 2 years.
+

@@ -1,0 +1,13 @@
+A randomized 2×2 factorial trial, part 1: single-dose rabbit antithymocyte globulin induction may improve renal transplantation outcomes.
+
+1/BACKGROUND: We conducted a randomized and unblinded 2 × 2 sequential-factorial trial, composed of an induction arm (part 1) comparing single-dose (SD) versus divided-dose rabbit antithymocyte globulin (rATG), and a maintenance arm (part 2) comparing tacrolimus minimization versus withdrawal. We report the long-term safety and efficacy of SD-rATG induction in the context of early steroid 
+withdrawal and tacrolimus minimization or withdrawal.
+
+2/METHODS: Patients (n=180) received 6 mg/kg rATG, SD or four alternate-day doses (1.5 mg/kg/dose), with early steroid withdrawal and tacrolimus or sirolimus maintenance. After 6 months targeted maintenance levels were tacrolimus, 2 to 4 ng/mL and sirolimus, 4 to 6 ng/mL or, if calcineurin inhibitor-withdrawn, sirolimus 8 to 12 ng/mL with mycophenolate mofetil 2 g two times per day. 
+Primary endpoints were renal function (abbreviated modification of diet in renal disease) and chronic graft histopathology (Banff). Secondary endpoints included patient survival, graft survival, biopsy-proven rejection, and infectious or noninfectious complications.
+
+3/RESULTS: Follow-up averaged longer than 4 years. Tacrolimus or sirolimus and mycophenolate mofetil exposure was identical between groups. The SD-rATG associated with improved renal function (2-36 months; P<0.001) in deceased donor recipients. The SD-rATG associated with quicker lymphocyte, CD4 T cell, and CD4-CD8 recovery and fewer infections. Cox multivariate hazard modeling showed divided-dose-rATG (P=0.019), deceased donor (P=0.003), serious infection (P=0.0.018), and lower lymphocyte count (P=0.001) associated with increased mortality. Patients with all four covariates showed a 27-fold increased likelihood of death (P=0.00002). Chronic graft histopathology, rejection rates, 
+and death-censored graft survival were not significantly different between 
+groups.
+
+4/CONCLUSION: The SD-rATG induction improves the 3-year renal function in recipients of deceased donor kidneys. This benefit, along with possibly improved patient survival and fewer infections suggest that how rATG is administered may impact its efficacy and safety.

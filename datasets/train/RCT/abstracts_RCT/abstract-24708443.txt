@@ -1,0 +1,11 @@
+Evidence suggesting that oral corticosteroids increase mortality in stable chronic obstructive pulmonary disease.
+
+1/BACKGROUND: Oral corticosteroids were used to control stable chronic obstructive pulmonary disease (COPD) decades ago. However, recent guidelines do not recommend long-term oral corticosteroids (LTOC) use for stable COPD patients, partly because it causes side-effects such as respiratory muscle deterioration and immunosuppression. Nonetheless, the impact of LTOC on life prognosis for stable COPD patients has not been clarified.
+
+2/METHODS: We used the data of patients randomized to non-surgery treatment in the National Emphysema Treatment Trial. Severe and very severe stable COPD patients who were eligible for volume reduction surgery were recruited at 17 clinical centers in the United States and randomized during 1998-2002. Patients were followed-up for at least five years. Hazard ratios for death by LTOC were estimated by three models using Cox proportional hazard analysis and propensity score matching.
+
+3/RESULTS: The pre-matching cohort comprised 444 patients (prescription of LTOC: 23.0%. Age: 66.6 ± 5.4 year old. Female: 35.6%. Percent predicted forced expiratory volume in one second: 27.0 ± 7.1%. Mortality during follow-up: 67.1%). Hazard ratio using a multiple-variable Cox model in the pre-matching cohort was 1.54 (P = 0.001). Propensity score matching was conducted with 26 
+parameters (C-statics: 0.73). The propensity-matched cohort comprised of 65 LTOC(+) cases and 195 LTOC(-) cases (prescription of LTOC: 25.0%. Age: 66.5 ± 5.3 year old. Female: 35.4%. Percent predicted forced expiratory volume in one second: 26.1 ± 6.8%. Mortality during follow-up: 71.3%). No parameters differed between cohorts. The hazard ratio using a single-variable Cox model in 
+the propensity-score-matched cohort was 1.50 (P = 0.013). The hazard ratio using a multiple-variable Cox model in the propensity-score-matched cohort was 1.73 (P = 0.001).
+
+4/CONCLUSIONS: LTOC may increase the mortality of stable severe and very severe COPD patients.

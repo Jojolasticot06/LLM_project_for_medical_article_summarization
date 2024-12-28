@@ -1,0 +1,1164 @@
+Introduction 
+
+The global prevalence of obesity, which is associated with 
+an increased risk of CVD [1, 2], is increasing. Clinical 
+guidelines from the American Heart Association and 
+ADA recommend weight loss of 5–8% for overweight 
+and obese individuals to prevent CVD [3–6]. As the 
+first-line treatment option for obesity, lifestyle interventions 
+have been shown to aid weight loss and improve 
+cardiometabolic health markers in several large-scale 
+
+
+studies [7–10]. However, it is unclear whether the clinical 
+guidelines benefit specific populations or whether 
+personalised lifestyle interventions are needed. 
+
+Older adults (=65 years) have attracted much attention, as 
+they are highly likely to suffer from muscle and bone loss, 
+sarcopenia and frailty during weight loss interventions, 
+despite improvements in cardiometabolic health [11]. A 
+systematic review suggested that lifestyle interventions 
+were similarly effective at promoting weight loss and 
+cardiometabolic health in older (=60 years) and younger 
+(<60 years) adults, but this conclusion was mainly based 
+on short-or medium-term (=2 years) studies and/or studies 
+with a focus on older adults only [12]. A secondary 
+analysis of the Action for Health in Diabetes (Look 
+AHEAD) trial showed that, compared with middle-aged 
+adults (45–64 years), older adults (65–76 years) lost more 
+body weight and had comparable improvements in cardiometabolic 
+health markers during a 4 year lifestyle intervention 
+[13]. Few studies have compared changes in body 
+composition and cardiometabolic health markers during a 
+long-term (>2 years) lifestyle intervention in younger 
+(25–45 years), middle-aged (46–54 years) and older 
+(55–70 years) adults. 
+
+With regard to sex differences, a systematic review of 
+RCTs of weight loss interventions reported that men 
+demonstrated greater weight loss than women [14], 
+whereas the concurrent change in cardiometabolic health 
+markers is unknown. We have previously reported that 
+women and men responded differently to an 8 week 
+low-energy diet (LED) to induce rapid weight loss with 
+regard to body weight and cardiometabolic health markers 
+[15], but whether these effects will be long-lasting is 
+unclear. A recent 2 year study found that there were no 
+sex differences in intraorgan fat change and CVD risk 
+after diet-induced weight loss [16], but the findings were 
+limited by the small sample size. 
+
+The PREVention of diabetes through lifestyle interventions 
+and population studies In Europe and around 
+the World (PREVIEW) study was a 3 year, large-scale 
+RCT of a lifestyle intervention for the prevention of 
+diabetes in a large overweight population with prediabetes 
+[17]. Type 2 diabetes and prediabetes have been 
+demonstrated to be associated with an increased risk of 
+CVD [18, 19] and the increased risk has been found to 
+be mainly driven by abnormal levels of cardiometabolic 
+health markers (e.g. blood pressure) [20]. Therefore, in 
+the present observational study, we aimed to examine 
+age-and sex-specific effects of a LED followed by a 
+lifestyle-based weight maintenance (WM) intervention 
+on body weight and cardiometabolic health markers in 
+the PREVIEW participants. In addition, we compared 
+the cumulative incidence of type 2 diabetes among age 
+and sex groups. 
+
+Methods 
+
+Study design and participants The PREVIEW study 
+(ClinicalTrials.gov: NCT01777893) was a long-term, largescale 
+RCT conducted at eight intervention centres in 
+Denmark, Finland, the Netherlands, the UK, Spain, 
+Bulgaria, Australia and New Zealand. The detailed study 
+design and main findings have been published [15, 17, 21]. 
+Briefly, the primary outcome of the study was the impact of a 
+high-protein/low-glycaemic index (HP/LGI) diet and a 
+moderate-protein/moderate-glycaemic index (MP/MGI) diet 
+on the risk of type 2 diabetes. The PREVIEW protocol was 
+approved by the human ethics committee at each intervention 
+centre (see electronic supplementary material [ESM] Table 1). 
+The PREVIEW study was conducted in accordance with the 
+Declaration of Helsinki. 
+
+Overweight or obese (BMI =25 kg/m2) adult participants 
+aged 25–70 years with prediabetes were enrolled from 
+June 2013 to April 2015. At the screening visit, an OGTT 
+with 75 g glucose was conducted and those with impaired 
+fasting plasma glucose (FPG) and/or impaired glucose tolerance 
+were considered to have prediabetes, according to ADA 
+criteria [22]. FPG and 2 h plasma glucose were measured 
+using a glucose analyser. All eligible participants provided 
+written informed consent. 
+
+Interventions The PREVIEW study consisted of two 
+phases.Phase 1was an8weekrapidweight loss 
+(WL) phase with a LED (3400 kJ/day) [15]and phase 
+2 was a 148 week WM phase. Those who failed to 
+achieve the target weight reduction (>8% of initial body 
+weight) were excluded. During the WM phase, participants 
+were randomised into one of the four diet and 
+physical activity (PA) combined intervention groups. 
+Randomisation was stratified by age group (younger: 
+25–45 years; middle-aged: 46–54 years; older: 55– 
+70 years) and sex (women and men). In defining the 
+age range of each age group both the age classification 
+from the World Health Organization [23] and the age 
+range of menopause in women (44–54 years; menopause 
+is associated with an increased risk of CVD [24]) were 
+taken into consideration. 
+
+During the WM phase, participants were advised to 
+consume an HP/LGI diet (25 E% [% energy] protein, 45 
+E% carbohydrates, GI <50) or an MP/MGI diet (15 E% 
+protein, 55 E% carbohydrates, GI 56–70) combined with 
+either high-or moderate-intensity PA. The high-intensity 
+PA programme consisted of high-intensity PA (e.g. aerobics 
+with very vigorous effort) for 75 min/week and the 
+moderate-intensity PA programme consisted of moderateintensity 
+PA (e.g. conditioning exercises) for 150 min/ 
+week. Diets were consumed ad libitum without energy 
+restriction. Counselling visits were conducted to improve 
+
+diet and PA compliance, with decreasing frequency as the 
+trial progressed [25]. Outcomes were collected at seven 
+clinical investigation days (CIDs 1–7 at 0, 8, 26, 52, 78, 
+104 and 156 weeks, respectively); a detailed overview of 
+the data collected at the different time points is provided 
+in ESM Table 2. We allowed the following visit windows 
+for data collection: at 8 weeks: -3 to +5 days; at 26 weeks: 
+±1 week; at 52 weeks: ±2 weeks; remaining time points: 
+±4 weeks. Adherence to the diets was evaluated using 
+4 day food records and adherence to the PA programmes 
+was evaluated using 7 day accelerometry data. 
+
+This observational study is a post hoc, secondary analysis 
+focusing on the secondary outcomes, including body weight 
+and composition and cardiometabolic health markers. We 
+merged all participants into one intervention group and 
+reclassified them by sex and age range used in the original 
+randomisation, because (1) there was no significant interaction 
+of intervention arm and age or sex and (2) diet and PA 
+compliance were lower than expected [17]. 
+
+Outcome measures The measurements of body weight, waist 
+circumference, fat mass, fat-free mass (FFM), bone mineral 
+content (BMC), bone mineral density (BMD), FPG, 2 h plasma 
+glucose, HbA1c, fasting triacylglycerol, HDL-cholesterol, 
+LDL-cholesterol, systolic blood pressure (SBP) and diastolic 
+blood pressure (DBP) were carried out as described previously 
+[15, 17]. Briefly, all blood samples were drawn from the 
+antecubital vein of participants in a fasting state (except for 
+2 h plasma glucose), stored at -80°C and transported to the 
+Finnish Institute for Health and Welfare for analysis. 
+
+Type 2 diabetes ascertainment Type 2 diabetes was defined 
+according to World Health Organization and ADA criteria 
+[22, 26] and was diagnosed either (1) by an OGTT (FPG 
+=7.0 mmol/l and/or 2 h plasma glucose =11.1 mmol/l) 
+conducted at the intervention centres or (2) by a medical 
+doctor. Most participants dropped out or completed the study 
+by week 156, but some had a longer (>156 weeks) survival 
+time because of the visit windows. We assumed that 
+their last status was observed at 156 weeks. 
+
+Statistical analysis Linear mixed models were used to examine 
+the associations of age and sex with changes in outcomes of 
+interest during the 3 year lifestyle intervention from baseline 
+to 156 weeks in all participants (available case analysis). 
+Covariates that might influence the outcomes of interest 
+[27–30] were added into the models (ESM Methods). Model 
+1 included age, sex, ethnicity, baseline BMI, baseline smoking 
+status, baseline alcohol consumption, baseline energy intake 
+and baseline PA, changes in energy intake and PA from baseline, 
+baseline values of outcomes, intervention arm, time 
+(categorical) and a two-way interaction of time and age group 
+or sex as fixed covariates and participant identifier and 
+
+intervention centre as random effects. Model 2 additionally 
+included percentage weight loss from baseline as a fixed 
+covariate when cardiometabolic health markers were added 
+as a dependent variable. If the interaction term was significant, 
+post hoc multiple comparisons with Bonferroni correction or 
+pairwise comparisons (independent samples t tests) were 
+conducted at each time point. Sensitivity analyses were 
+conducted in those who completed the study or by additionally 
+adjusting for carbohydrate, protein, fat and fibre intakes. 
+For body composition outcomes, the models were additionally 
+adjusted for light PA, moderate-to-vigorous PA, sedentary 
+time and wear time. 
+
+The associations of percentage weight loss or weight regain 
+with changes in cardiometabolic health markers during the 
+rapid WL phase or the WM phase by age and sex were examined 
+using linear mixed models including age, sex, ethnicity, 
+baseline BMI, baseline smoking status, baseline alcohol 
+consumption, baseline energy intake and PA, baseline values 
+of outcomes, percentage weight loss from baseline and a twoway 
+interaction of percentage weight loss and age group or 
+sex as fixed covariates and intervention centre as a random 
+effect. For weight regain, the models additionally included 
+percentage regain weight and intervention arm as fixed 
+covariates. 
+
+Cumulative incidence of type 2 diabetes by age and sex 
+was calculated using the Kaplan–Meier method, without 
+adjustment. Diabetes incidence was compared among age 
+and sex groups using a time-dependent Cox hazards regression 
+model adjusted for loge(time) × sex or age, ethnicity, 
+baseline smoking status, baseline alcohol consumption, baseline 
+BMI, baseline FPG, baseline 2 h plasma glucose, baseline 
+PA and baseline energy intake, changes in PA and energy 
+intake from baseline, intervention arm and intervention site 
+as covariates. The proportional hazards assumption was evaluated 
+using a Wald test of the interaction of time and age or 
+sex. 
+
+Missing data, including dietary intake, PA and changes in 
+outcomes of interest, were imputed using the expectation 
+maximisation algorithm. The normality of residuals was determined 
+using histograms and P–P plots. Data were analysed 
+using IBM SPSS v28.0 software (Chicago, IL, USA) and 
+OriginPro 2020 software (OriginLab, Northampton, MA, 
+USA). The statistical test was two-sided and p<0.05 was 
+considered statistically significant. 
+
+Results 
+
+Participants A total of 2223 participants were included in the 
+study (Fig. 1). Of these, 783 (35.2%) were younger, 319 
+(14.3%) were middle-aged and 1121 (50.4%) were older 
+adults; 1503 (67.6%) were women and 720 (32.4%) were 
+men. Participants’ baseline characteristics are shown in 
+
+
+Table 1 and ESM Table 3. Dietary intake and PA by age and 
+sex are shown in ESM Table 4. 
+
+Changes in body weight and cardiometabolic health markers 
+by age Intheavailablecaseanalysis, therewerenodifferences 
+in weight loss among age groups at 8 weeks, whereas middle-
+
+Fig. 1 Study flow diagram. A 
+total of 2224 participants started 
+the weight loss phase, but one 
+withdrew consent and requested 
+data deletion. Younger adults: 
+25–45 years; middle-aged adults: 
+46–54 years; older adults: 55– 
+70 years. To enable the data 
+collection to be as complete as 
+possible, we allowed the 
+following visit windows for data 
+collection: at 8 weeks: -3to 
+5 days; at 26 weeks: ±1 week; at 
+52 weeks: ±2 weeks; remaining 
+time points: ±4 weeks 
+
+aged and older adults had greater sustained weight loss than 
+younger adults during the WM phase at 78, 104 and 156 weeks 
+(adjusted mean difference for older vs younger adults at 
+156 weeks -1.58 kg [95% CI -2.27, -0.89], p<0.001; 
+-1.25% [95% CI -1.92, -0.58], p<0.001; Fig. 2 and ESM 
+Fig. 1, respectively). Older and younger adults lost similar 
+
+1503 women and 720 men 
+783 younger, 319 middle-aged, 1121 older adults 
+Not eligible (n=10,139) 
+Attended CID 2 (8 weeks) (n=2022) 
+Attended CID 3 (26 weeks) (n=1627) 
+Attended CID 4 (52 weeks) (n=1381) 
+Attended CID 6 (104 weeks) (n=1093) 
+Attended CID 7 (156 weeks) (n=962) 
+Attended CID 5 (78 weeks) (n=1243) 
+Screened for this study (n=5472) 
+Pre-screened for this study (n=15,611) 
+Eligible for WL phase (n=2326) 
+Randomised to one of the four groups, 
+attended CID 1 (baseline) and started the 
+WL phase (n=2223) 
+Available case analysis (n=2223) 
+Complete case analysis (n=962) 
+1355 women and 667 men 
+663 younger, 304 middle-aged, 1055 older adults 
+1077 women and 550 men 
+475 younger, 256 middle-aged, 896 older adults 
+912 women and 469 men 
+373 younger, 222 middle-aged, 786 older adults 
+827 women and 416 men 
+325 younger, 201 middle-aged, 717 older adults 
+709 women and 384 men 
+273 younger, 174 middle-aged, 646 older adults 
+619 women and 343 men 
+224 younger, 151 middle-aged, 587 older adults 
+
+Table 1 Baseline characteristics by age and sex 
+Variable All participants Age group 
+(n=2223) 
+Younger (n=783) Middle-aged (n=319) Older (n=1121) 
+Sex 
+Women (n=1503) Men (n=720) 
+Sociodemographics 
+Women 1503 (67.6) 564 (72.0) 220 (69.0) 
+Age range, years 25–70 25–45 46–54 
+Age, years 55 (43, 61) 39 (34, 43) 50 (48, 52) 
+Ethnicity 
+White 1947 (87.6) 600 (76.6) 274 (85.9) 
+Othera 276 (12.4) 183 (23.4) 45 (14.1) 
+Smoking status 
+No 1875 (84.3) 605 (77.3) 281 (88.1) 
+Yes, but less than weekly 72 (3.2) 39 (5.0) 7 (2.2) 
+Yes, at least daily 239 (10.8) 124 (15.8) 27 (8.5) 
+Missing 37 (1.7) 15 (1.9) 4 (1.3) 
+Alcohol consumption 
+No 718 (32.3) 319 (40.7) 106 (33.2) 
+Yes 1470 (66.1) 448 (57.2) 208 (65.2) 
+Missing 35 (1.6) 16 (2.0) 5 (1.6) 
+Anthropometry and body composition 
+Body weight, kg 96.7 (84.7, 111.1) 103.0 (90.1, 118.8) 98.1 (84.7, 110.3) 
+Height, m 1.67 (1.61, 1.75) 1.68 (1.63, 1.75) 1.66 (1.61, 1.74) 
+Waist circumference, cm 110.4 (14.7) 111.2 (16.2) 109.8 (14.5) 
+BMI, kg/m2 33.9 (30.7, 38.5) 35.9 (31.7, 41.1) 34.0 (30.9, 38.8) 
+Fat mass, kg 40.9 (33.4, 50.4) 44.5 (36.2, 54.9) 40.8 (33.8, 49.0) 
+FFM, kg 54.0 (47.7, 64.1) 56.8 (49.8, 66.6) 53.6 (47.5, 64.1) 
+bBMC, g2720 (2401, 3136) 2886 (2544, 3271) 2756 (2414, 3170) 
+BMD, g/cm2c 1.3 (1.2, 1.3) 1.3 (1.2, 1.4) 1.3 (1.2, 1.3) 
+Glucose metabolism 
+FPG, mmol/l 6.2 (0.7) 5.9 (0.7) 6.2 (0.7) 
+2 h plasma glucose, mmol/l 7.7 (2.2) 7.2 (2.0) 7.9 (2.3) 
+HbA1c, mmol/mol 36.7 (4.0) 35.6 (4.1) 37.3 (4.1) 
+HbA1c, % 5.5 (0.4) 5.4 (0.4) 5.6 (0.4) 
+Lipid metabolism 
+Triacylglycerol, mmol/l 1.3 (1.0, 1.8) 1.3 (1.0, 1.8) 1.3 (0.9, 1.7) 
+Total cholesterol, mmol/l 5.2 (1.0) 5.0 (0.9) 5.2 (0.9) 
+HDL-cholesterol, mmol/l 1.2 (1.1, 1.4) 1.2 (1.0, 1.3) 1.3 (1.1, 1.4) 
+LDL-cholesterol, mmol/l 3.2 (2.6, 3.8) 3.1 (2.5, 3.6) 3.3 (2.7, 3.8) 
+Blood pressure 
+SBP, mmHg 129.1 (15.9) 124.1 (14.7) 126.1 (14.3) 
+DBP, mmHg 78.7 (71.0, 85.3) 77.0 (69.0, 83.7) 78.2 (69.9, 84.5) 
+719 (64.1) 
+55–70 
+61 (57, 65) 
+1073 (95.7) 
+48 (4.3) 
+989 (88.2) 
+26 (2.3) 
+88 (7.9) 
+18 (1.6) 
+293 (26.1) 
+814 (72.6) 
+14 (1.2) 
+92.7 (82.4, 105.6) 
+1.67 (1.61, 1.74) 
+110.1 (13.7) 
+32.9 (30.0, 36.8) 
+38.6 (32.1, 47.3) 
+52.0 (46.2, 62.3) 
+2600 (2300, 3000) 
+1.2 (1.1, 1.3) 
+6.3 (0.7) 
+7.9 (2.3) 
+37.3 (3.7) 
+5.6 (0.3) 
+1.4 (1.1, 1.9) 
+5.3 (1.0) 
+1.3 (1.1, 1.5) 
+3.3 (2.7, 3.9) 
+133.3 (15.9) 
+80.0 (72.7, 86.3) 
+– 
+25–70 
+53 (42, 60) 
+1299 (86.4) 
+204 (13.6) 
+1264 (84.1) 
+50 (3.3) 
+169 (11.2) 
+20 (1.3) 
+571 (38.0) 
+911 (60.6) 
+21 (1.4) 
+92.4 (81.6, 106.1) 
+1.64 (1.59, 1.68) 
+107.5 (14.0) 
+34.3 (30.9, 39.3) 
+42.4 (34.7, 51.6) 
+49.7 (45.7, 54.9) 
+2550 (2318, 2800) 
+1.2 (1.1, 1.3) 
+6.1 (0.7) 
+7.6 (2.2) 
+36.7 (3.9) 
+5.5 (0.4) 
+1.3 (1.0, 1.7) 
+5.3 (1.0) 
+1.3 (1.1, 1.5) 
+3.3 (2.7, 3.8) 
+127.1 (16.0) 
+77.3 (69.3, 84.3) 
+– 
+25–70 
+56 (44, 63) 
+648 (90.0) 
+72 (10.0) 
+611 (84.9) 
+22 (3.1) 
+70 (9.7) 
+17 (2.4) 
+147 (20.4) 
+559 (77.6) 
+14 (1.9) 
+104.8 (94.7, 118.9) 
+1.77 (1.73, 1.82) 
+116.7 (14.3) 
+33.5 (30.5, 37.3) 
+37.4 (30.9, 46.3) 
+67.4 (61.7, 74.0) 
+3336 (3000, 3662) 
+1.3 (1.2, 1.4) 
+6.3 (0.7) 
+7.7 (2.3) 
+36.8 (4.1) 
+5.5 (0.4) 
+1.4 (1.1, 2.0) 
+5.0 (1.0) 
+1.1 (1.0, 1.3) 
+3.1 (2.6, 3.7) 
+133.2 (14.7) 
+80.7 (74.3, 87.1) 
+
+Data are mean (SD), median (25th, 75th percentiles) or n (%) 
+
+a Includes Asian, black, Arabic, Hispanic and other participants. .2 test was performed based on full categories including white, Asian, black, Arabic, 
+Hispanic and other participants 
+b Data available for 614 of 783 younger participants, 227 of 319 middle-aged participants and 639 of 1121 older participants or 1037 of 1503 women and 
+
+443 of 720 men from Denmark, Spain, Bulgaria, Australia and New Zealand 
+c Data available for 419 of 783 younger participants, 221 of 319 middle-aged participants and 476 of 1121 older participants or 759 of 1503 women and 
+357 of 720 men from Denmark, Spain, Australia and New Zealand 
+
+FFM (kg and %) and BMC at 8 weeks, but older adults had less than younger adults, whereas there were no differences in 
+FFM and BMC regain than younger adults during the WM weight loss (%) between the two age groups at 156 weeks 
+phase at 104 and 156 weeks. In the complete case analysis, (ESM Fig. 2). The significant differences in FFM and 
+middle-aged adults had greater weight loss (kg) at 156 weeks BMC remained after additionally adjusting for PA type. 
+
+
+ab 
+
+p for interaction of time and age group <0.001 p for interaction of time and age group <0.001 
+0 
+
+0 
+
+-2
+
+Change in body weight from baseline (kg) 
+
+0 8 26 52 78 104 
+† 
+** 
+156
+
+0 8 26 52 78 104 156 
+Younger 
+Middle-aged 
+Older 
+‡ 
+†† 
+†† 
+* 
+† 
+** 
+†† 
+*** 
+††† 
+*** 
+Change in waist circumference 
+from baseline (cm)
+
+-3 
+
+-6 
+
+-9 
+
+-12 
+
+-4 
+
+-6 
+
+-8 
+-10 
+
+Time (weeks) Time (weeks) 
+
+-10 
+p for interaction of time and age group <0.001 p for interaction of time and age group <0.001 
+0 8 26 52 104 
+Time (weeks) 
+156 0 8 26 52 104 
+Time (weeks) 
+156 
+c d 
+‡‡ 
+†† 
+‡ 
+†† 
+†† 
+*** 
+††† 
+*** 
+2 
+0 
+
+† 
+†† 
+*** 
+*** 
+†† 
+***
+
+Change in fat mass from baseline (kg) 
+
+Change in FFM from baseline (kg)
+
+0 
+
+-2 
+
+-1 
+
+-4 
+-6 
+
+-2 
+
+-8 
+
+-3 
+
+f
+
+e 
+
+Change in BMD from baseline (g/m2 ) 
+p for interaction of time and age group <0.001 
+156 
+‡ 
+†† 
+††† 
+* 
+††† 
+*** 
+0826 52 104 
+Time (weeks) 
+
+
+60 
+
+Change in BMC from baseline (g)
+
+30 
+
+0 
+
+-30 
+
+-60 
+
+Fig. 2 Changes in anthropometry and body composition from baseline 
+by age group (n=2223). Values are estimated marginal mean (95% CI) 
+changes from baseline in body weight (a), waist circumference (b), fat 
+mass (c), FFM (d),BMC (e)and BMD (f). Younger adults: 25–45 years; 
+middle-aged adults: 46–54 years; older adults: 55–70 years. Analyses 
+were performed using a linear mixed model including sex, age, ethnicity, 
+baseline BMI, baseline smoking status, baseline alcohol consumption, 
+baseline values of the outcome being considered, baseline energy intake 
+and PA, time-varying changes in energy intake and PA from baseline, 
+intervention arm, time and interaction of time and age group or sex as 
+
+In the available case analysis, compared with younger 
+adults, older adults had smaller decreases in HbA1c and SBP 
+at 8 weeks and they maintained greater improvements in these 
+outcomes and in 2 h plasma glucose during the whole WM 
+
+p for interaction of time and age group=0.09 
+
+p for age group=0.27 
+p first time <0.001 
+0.03 
+0.02 
+0.01 
+
+0.00 
+
+-0.01 
+
+-0.02 
+0 8 26 52 104 156 
+
+Time (weeks) 
+
+fixed covariates and participant identifier and intervention centre as 
+random effects. Post hoc multiple comparisons with Bonferroni adjustment 
+were performed to compare age groups at each time point, where 
+appropriate. Older vs younger adults *p<0.05, **p<0.01 and 
+***p<0.001; middle-aged vs younger adults †p<0.05, ††p<0.01 and 
+
+†††p<0.001; older vs middle-aged adults ‡p<0.05 and ‡‡p<0.01. BMC 
+data were based on 614 younger, 227 middle-aged and 639 older participants 
+from Denmark, Spain, Bulgaria, Australia and New Zealand. BMD 
+data were based on 419 younger, 221 middle-aged and 476 older participants 
+from Denmark, Spain, Australia and New Zealand 
+phase (ESM Fig. 3). Older adults had greater decreases in 
+triacylglycerol than younger adults at 8 weeks, but the differences 
+disappeared at 156 weeks. After adjustment for weight 
+loss, the above-mentioned significant differences remained 
+
+
+(adjusted mean difference in 2 h plasma glucose for older vs 
+younger adults at 156 weeks 0.65mmol/l [95% CI 0.50, 0.80], 
+p<0.001; adjusted mean difference in SBP for older vs younger 
+adults at 156 weeks 2.57 mmHg [95% CI 1.37, 3.77], 
+p<0.001; Fig. 3). In addition, smaller decreases in FPG and 
+2 h plasma glucose in middle-aged vs younger adults and 
+smaller decreases in FPG, 2 h plasma glucose, HbA1c and 
+SBP in older vs middle-aged adults were observed at 
+a b 
+c d 
+e f 
+g h 
+
+
+Fig. 3 Weight loss-adjusted changes in cardiometabolic health markers 
+from baseline by age group (n=2223). Values are estimated marginal 
+mean (95% CI) changes from baseline in FPG (a), 2hplasmaglucose 
+(b), HbA1c (c), triacylglycerol (d), HDL-cholesterol (e), LDL-cholesterol 
+(f), SBP (g)and DBP(h). Younger adults: 25–45 years; middle-aged 
+adults: 46–54 years; older adults: 55–70 years. Analyses were 
+performed using a linear mixed model including sex, age, ethnicity, 
+baseline BMI, baseline smoking status, baseline alcohol consumption, 
+baseline values of the outcome being considered, time-varying 
+percentage weight loss from baseline, baseline energy intake and PA, 
+time-varying changes in energy intake and PA from baseline, 
+intervention arm, time and interaction of time and age group as 
+covariates and participant identifier and intervention centre as random 
+effects. Post hoc multiple comparisons with Bonferroni adjustment 
+were performed to compare age groups at each time point. Older vs 
+younger adults *p<0.05, **p<0.01 and ***p<0.001; middle-aged vs 
+younger adults †p<0.05, ††p<0.01 and †††p<0.001; older vs middle-aged 
+adults ‡p<0.05, ‡‡p<0.01 and ‡‡‡p<0.001 
+156 weeks. The above-mentioned results remained robust 
+after adjusting for dietary intake. In the complete case analysis, 
+there were no significant differences in the abovementioned 
+outcomes between middle-aged and older adults 
+at 156 weeks, but the direction of effect was the same (ESM 
+Fig. 4). 
+
+Changes in body weight and cardiometabolic health markers 
+by sex In the available case analysis, compared with men, 
+women lost less body weight (adjusted mean difference at 
+8 weeks 1.74 kg [95% CI 1.07, 2.41], p<0.001; 1.12% [95% 
+CI 0.47, 1.78], p<0.001; Fig. 4 and ESM Fig. 5, respectively) 
+but more FFM (kg and %) at 8 weeks and had less sustained 
+weight loss (adjusted mean difference at 156 weeks 1.39 kg 
+[95% CI 0.71, 2.06], p<0.001; 1.78% [95% CI 1.12, 2.43], 
+p<0.001) and less change in FFM during the WM phase. In 
+addition, women lost more BMC and BMD than men over 
+3 years. The above-mentioned results remained robust in the 
+complete case analysis. The significant differences in FFM 
+and BMC remained after additionally adjusting for PA type. 
+
+In the available case analysis, compared with men, women 
+had smaller decreases in FPG, HbA1c, triacylglycerol, LDLcholesterol 
+and DBP and greater decreases in HDLcholesterol 
+at 8 weeks (ESM Fig. 6). After the WM phase, 
+women had greater improvements in FPG and HDLcholesterol 
+than men, while they had smaller improvements 
+in HbA1c and LDL-cholesterol. After adjustment for percent-
+age weight loss, the significant differences in HbA1c,LDLcholesterol, 
+HDL-cholesterol and DBP between women and 
+men remained at 8 weeks (Fig. 5). In this analysis, after the 
+WM phase, women had greater improvements in FPG, triacylglycerol, 
+HDL-cholesterol, SBP and DBP than men (adjusted 
+mean difference at 156 weeks in FPG -0.15 mmol/l [95% 
+CI -0.18, -0.11], p<0.001; SBP -1.41 mmHg [95% CI -2.34, 
+-0.48], p=0.003; triacylglycerol -0.08 mmol/l [95% CI 
+-0.11, -0.04], p<0.001; Fig. 5), while they had smaller 
+improvements in HbA1c and LDL-cholesterol. The above
+
+
+mentioned results remained robust after adjusting for dietary 
+intake. In the complete case analysis, there were no significant 
+differences in SBP and DBP between women and men at 
+156 weeks, but the direction of effect was the same (ESM 
+Fig. 7). 
+
+Associations of weight change with cardiometabolic health 
+markers Rapid weight loss was associated with greater 
+improvements in SBP in older adults than younger adults 
+(ESM Table 5). Weight loss was associated with smaller 
+improvements in FPG, triacylglycerol, HDL-cholesterol, 
+LDL-cholesterol, SBP and DBP in women than men. 
+During the WM phase, weight regain was associated with 
+more adverse FPG, HbA1c and SBP in older vs younger 
+adults. 
+
+Type 2 diabetes incidence The total number of cases of type 2 
+diabetes was 69 (seven during the rapid WL phase and 62 
+during the WM phase; 13 younger, 14 middle-aged and 42 
+older adults; 48 women and 21 men). The 3 year cumulative 
+incidence was 4.6% in younger, 8.8% in middle-aged and 
+6.6% in older adults; and 6.8% in women and 5.6% in men 
+(Fig. 6). The adjusted hazard ratio was 0.43 (95% CI 0.20, 
+
+0.89) for older vs middle-aged adults (p=0.02). 
+Discussion 
+
+We found that the cardiometabolic benefits of a LED followed 
+by a lifestyle intervention differed by age and sex in overweight 
+adults with prediabetes. Older adults benefited less 
+from a lifestyle-based WM intervention in relation to body 
+composition and cardiometabolic health markers than younger 
+adults, despite greater sustained weight loss. Women 
+benefited less from the lifestyle intervention in relation to 
+body weight and composition and cardiometabolic health 
+markers than men. After the lifestyle-based WM phase, 
+women showed greater improvements in fasting glucose, 
+triacylglycerol and HDL-cholesterol, and smaller improvements 
+in HbA1c and LDL-cholesterol. Older adults had a 
+lower incidence of type 2 diabetes at the end of the study than 
+middle-aged adults. 
+
+Several potential mechanisms may explain the observed 
+age and sex differences in the present study. Ageing may lead 
+to the redistribution of adipose tissue, from subcutaneous to 
+visceral depots [31]. Distribution of adipose tissue is also 
+affected by sex [32]. Epidemiological studies have confirmed 
+the association of visceral adiposity with deteriorating metabolic 
+outcomes, whereas subcutaneous adipose tissue has 
+been found to be associated with protective properties [33]. 
+In addition, epigenetic age acceleration was found to be positively 
+correlated with glucose and the triacylglycerol–glucose 
+index [34]. 
+
+ab 
+
+0 
+
+0 
+
+-2
+
+Change in body weight from baseline (kg) 
+
+Change in waist circumferencefrom baseline (cm)
+p for interaction of time and sex <0.001 
+Women 
+Men 
+*** 
+*** 
+*** 
+** 
+** 
+** 
+p for interaction of time and sex=0.41 
+p for sex <0.001 
+p for time <0.001 
+-3 
+
+-6 
+
+-9 
+
+-12 
+
+-4 
+
+-6 
+
+-8 
+-10 
+
+0826 52 78 104 156 0826 52 78 104 156 
+Time (weeks) Time (weeks) 
+
+cd 
+
+Change in fat mass from baseline (kg) 
+
+156 
+*** 
+*** 
+*** 
+*** 
+*** 
+0826 52 104 
+Time (weeks) 
+
+
+p for interaction of time and sex <0.001 
+
+0 8 26 52 104 156 
+*** 
+*** 
+*** 
+*** 
+*** 
+p for interaction of time and sex <0.001 
+
+Change in FFM from baseline (kg)
+
+0 
+
+-2 
+
+-4 
+-6 
+
+-8 
+
+0 
+
+-1 
+
+-2 
+
+-3 
+
+-10 
+
+Time (weeks) 
+
+ef 
+
+Change in BMC from baseline (g)
+
+40 
+
+20 
+
+0 
+
+-20 
+
+-40 
+-60 
+
+-80 
+
+Change in BMD from baseline (g/m2 ) 
+p for interaction of time and sex=0.11 
+p for sex <0.001 
+p for time <0.001 
+p for sex=0.002 
+p for time <0.001 
+0 8 26 52 104 156 
+p for interaction of time and sex=0.34 
+
+0.03 
+
+0.02 
+
+0.01 
+
+0.00 
+
+-0.01 
+
+-0.02 
+
+0 8 26 52 104 156 
+
+Time (weeks) 
+
+Fig. 4 Changes in anthropometry and body composition from baseline in 
+women and men (n=2223). Values are estimated marginal mean (95% 
+
+CI) changes from baseline in body weight (a), waist circumference (b), fat 
+mass (c), FFM (d), BMC (e)and BMD (f). Analyses were performed 
+using a linear mixed model including sex, age, ethnicity, baseline BMI, 
+baseline smoking status, baseline alcohol consumption, baseline values of 
+the outcome being considered, baseline energy intake and PA, time-varying 
+changes in energy intake and PA from baseline, intervention arm, 
+In the present study, older adults had greater sustained 
+weight loss than younger adults, which is in agreement with 
+the findings from the secondary analyses of the Weight Loss 
+Maintenance trial and the Look AHEAD trial [13, 35]. 
+However, among those participating in the adapted Diabetes 
+Prevention Program (DPP) lifestyle intervention, there were 
+
+Time (weeks) 
+
+time and interaction of time and age group or sex as fixed covariates 
+and participant identifier and intervention centre as random effects. Post 
+hoc pairwise comparisons (independent samples t tests) were performed 
+to compare women and men at each time point, where appropriate. 
+Women vs men **p<0.01 and ***p<0.001. BMC data were based on 
+1037 women and 443 men from Denmark, Spain, Bulgaria, Australia and 
+New Zealand. BMD data were based on 759 women and 357 men from 
+Denmark, Spain, Australia and New Zealand 
+
+no differences in weight loss between older and younger 
+adults [36]. The conflicting results may be attributed to differences 
+in study duration and the age range of groups compared. 
+In the adapted DPP, the intervention lasted only 10 months, 
+whereas in our study we did not find significant differences in 
+weight loss between younger and older adults until 52 weeks. 
+
+a b 
+c d 
+e f 
+g h 
+Fig. 5 Weight-adjusted changes in cardiometabolic health markers from 
+baseline in women and men (n=2223). Values are estimated marginal 
+mean (95% CI) changes from baseline in FPG (a), 2 h plasma glucose 
+(b), HbA1c (c), triacylglycerol (d), HDL-cholesterol (e), LDL-cholesterol 
+(f), SBP (g) and DBP (h). Analyses were performed using a linear mixed 
+model including sex, age, ethnicity, baseline BMI, baseline smoking 
+status, baseline alcohol consumption, baseline values of the outcome 
+being considered, time-varying percentage weight loss from baseline, 
+baseline energy intake and PA, time-varying changes in energy intake 
+and PA from baseline, intervention arm, time and interaction of time and 
+sex as fixed covariates and participant identifier and intervention centre as 
+random effects. Post hoc pairwise comparisons (independent samples t 
+tests) were performed to compare women and men at each time point, 
+where appropriate. Women vs men *p<0.05, **p<0.01 and ***p<0.001 
+
+a 
+
+less regain of FFM and BMC after rapid weight loss were 
+
+observed in older adults than in younger adults, which 
+
+10 
+
+suggests that future weight management programmes 
+
+designed for older adults should take both weight loss and
+
+8 
+
+Adjusted hazard ratio 
+Older vs younger, 0.78 (95% CI 0.35, 1.71); p=0.53 
+Middle-aged vs younger, 1.82 (95% CI 0.77, 4.33); p=0.17 
+Older vs middle-aged, 0.43 (95% CI 0.20, 0.89); p=0.02 
+0 52 104 156 
+Younger 
+Middle-aged 
+Older 
+prevention of FFM and BMC loss into consideration. 
+Regarding prevention of FFM and BMC loss, an RCT demonstrated 
+that resistance exercise was associated with a lower 
+weight loss-induced decrease in BMD in older adults [37]. 
+
+6 
+
+4 
+
+Moreover, systematic reviews have suggested that resistance 
+exercise is effective in the prevention of osteoporosis in older 
+
+2
+
+Cumulative incidence of type 2 diabetes (%) 
+
+adults [38] and that exercise is also effective in the prevention 
+of FFM loss in middle-aged and older adults after moderate 
+
+0 
+
+energy restriction-induced weight loss [39]. In the PREVIEW 
+Weeks after CID 1 study, participants were not advised to focus on resistance 
+
+No. at risk exercise during the WM phase, because the aim of the study 
+Younger 783 371 272 182 was to compare the effect of intensity levels rather than types 
+Middle-aged 
+Older 
+319 
+1121 
+220 
+778 
+172 
+647 
+108 
+477 of exercise. For preservation of BMC and FFM, future weight 
+management programmes might consider including other 
+b types of PA (e.g. resistance exercise). 
+
+7 Many previous studies have explored the effects of lifestyle 
+
+Adjusted hazard ratio 
+Women vs men, 1.10 (95% CI 0.62, 1.96); p=0.53 
+Women 
+Men 
+0 52 104 156 
+
+
+Cumulative incidence of type 2 diabetes (%) 
+
+interventions on cardiometabolic health markers in older 
+
+6 
+
+adults [12, 36] and the associations of weight loss with cardio5 
+metabolic health markers [9, 40–42], whereas few have 
+
+compared changes in cardiometabolic health markers across 
+4 age groups. In the present study, older adults had smaller 
+3 improvements in cardiometabolic health markers than youn
+
+
+ger adults during the WM phase, especially at the end of the 
+2 study, although they had a worse metabolic profile at baseline 
+1 (a larger potential for improvement) and greater sustained 
+
+weight loss. The differences at the end of the study between 
+
+0 younger and older adults still remained after adjustment for 
+weight loss, which suggests that age per se may also influence 
+
+Weeks after CID 1 
+
+cardiometabolic health markers. In addition, we found that 
+
+No. at risk 
+Women 1503 907 706 487 
+Men 720 462 385 280 
+
+Fig. 6 Cumulative incidence of type 2 diabetes by age and sex (n=2223). 
+Values are cumulative incidence of diabetes by age (a)and sex(b) at each 
+time point. Diabetes was diagnosed by an OGTT with 75 g glucose or by 
+a medical doctor. Cumulative incidence was calculated using the Kaplan– 
+Meier method, without adjustment. The incidence of diabetes was 
+compared among age groups or between women and men using a timedependent 
+Cox hazards regression model adjusted for loge(time) × age or 
+sex, ethnicity, baseline smoking status, baseline alcohol consumption, 
+baseline BMI, baseline FPG, baseline 2 h plasma glucose, baseline PA 
+and baseline energy intake, changes in PA and energy intake from baseline, 
+intervention arm and intervention site as covariates 
+
+In addition, in the adapted DPP, participants were divided into 
+only two age groups (<65 vs =65 years), whereas in our study 
+we compared three age groups. 
+
+Notably, the above-mentioned studies did not report body 
+composition data and the present study therefore adds to the 
+evidence base by exploring long-term changes in body 
+composition among age groups. Less weight regain but also 
+
+older adults, who had more adverse metabolic profiles at baseline, 
+had a lower incidence of type 2 diabetes at the end of the 
+study than middle-aged adults. This might be partly explained 
+by the effect of menopause on the risk of type 2 diabetes in 
+middle-aged women [43]. Selection bias caused by a high 
+attrition rate may be another explanation. 
+
+In terms of sex differences in changes in body weight and 
+body composition, in a previous PREVIEW publication we 
+reported that women lost less body weight but more FFM and 
+BMC than men during the rapid weight loss phase [15]; in the 
+present study these patterns were the same during the WM 
+phase. Our findings on sex differences in weight loss are in 
+line with a meta-analysis of six lifestyle-based weight loss 
+RCTs [14] and a recent study on sex differences in intraorgan 
+fat levels and hepatic lipid metabolism [16]. In addition, a 
+systematic review suggested that men tend to lose more 
+weight with intensive low-fat reducing diets and PA 
+programmes than women [44]. However, a review argued that 
+the observed sex differences in weight loss are attributable to 
+greater initial body weight or a greater degree of energy 
+
+restriction in men, instead of inherent sex differences [32]. In 
+the present study, the difference in weight loss still remained 
+after adjustment for baseline body weight and change in energy 
+intake from baseline. Considering body composition, in 
+agreement with our findings, Evans et al [45] also found that 
+men lost body fat (%) more effectively than women in a 1 year 
+weight loss trial including dietary interventions and exercise 
+guidance. In addition, Tirosh et al [46] found that women had 
+a greater increase in the fat mass/FFM ratio and a greater 
+reduction in BMD than men during a lifestyle-based weight 
+loss intervention. Accordingly, it may be important for 
+women to prevent FFM and BMC loss when participating in 
+weight management programmes. Current data show that 
+dietary protein may affect body composition [47], but in the 
+present study the sex-specific differences in fat mass and 
+BMC remained significant even after adjusting for protein 
+intake. Moreover, our findings were also independent of PA 
+type (i.e. light PA and moderate-to-vigorous PA). Previous 
+studies have found that other types of PA (e.g. resistance exercise 
+and aerobic exercise) may have different effects on body 
+composition [47] and future studies should therefore investi-
+gate whether sex influences these effects. 
+
+A recent review suggested that sex may be an important 
+factor in determining the effect of dietary or lifestyle interventions 
+on cardiometabolic health [48]. In particular, Perreault 
+et al [49] found that in the DPP lifestyle cohort, among those 
+who lost >3% of their body weight, men appeared to have 
+greater decreases in cardiometabolic health markers than 
+women. However, this study did not include a diet-induced 
+rapid WL phase and DPP investigators were therefore not able 
+to observe sex differences in changes in cardiometabolic 
+health markers during a rapid WL phase and a WM phase. 
+In the present study, we showed that men benefited more in 
+terms of body weight and composition and cardiometabolic 
+health markers from the diet-induced WL phase. In addition, 
+weight loss was associated with greater improvements in 
+cardiometabolic health markers in men than women during 
+the rapid WL phase. These findings suggest that the LED 
+and rapid weight loss may be more effective in CVD prevention 
+in men than in women. 
+
+The present study has some strengths. The large sample 
+size and representative populations from eight countries could 
+be considered a strength. Because of the wide age range 
+included, we were able to compare differences in outcomes 
+among younger, middle-aged and older adults. In addition, 
+unlike short-term studies, our study was able to address longer 
+term comorbidities associated with obesity and related 
+diseases such as CVD. The present study also has limitations. 
+First, the attrition rate was higher than expected, which resulted 
+in a high percentage of missing data. To reduce the bias, we 
+imputed the missing data and carried out a complete case 
+analysis. Most of our findings in younger vs older adults and 
+women vs men remained robust in the complete case analysis. 
+
+Moreover, the significant differences in younger vs older 
+adults also remained in weight-adjusted models. Significant 
+differences between middle-aged adults and other age groups, 
+however, disappeared in the complete case analysis, but the 
+direction of effect was the same. This may be because the 
+differences were small and were not detectable in the small 
+sample size (completers). Finally, the design and statistical 
+analysis of the present secondary analysis were not 
+prespecified and the baseline characteristics of subgroups 
+were not precisely balanced. We adjusted for baseline BMI 
+and outcomes, but it was not possible to completely remove 
+some other participant-specific baseline characteristics, especially 
+CVD and type 2 diabetes risk. These unmeasured and 
+unadjusted confounders may have influenced the results. 
+Taken together, given the existence of bias, our findings 
+should be interpreted with caution and warrant further repli-
+cation in an independent study. 
+
+In conclusion, this observational study found that, in a large 
+population of overweight adults with prediabetes, the 
+cardiometabolic benefits of a LED followed by a lifestyle 
+intervention differed by age and sex. Older adults benefited 
+less from the lifestyle intervention in relation to body 
+composition and cardiometabolic health markers than 
+younger adults. Women benefited less from the LED 
+followed by the lifestyle intervention in relation to body 
+weight and body composition than men. Our findings 
+suggest that future weight management programmes 
+designed for older adults or women may want to consider 
+the prevention of FFM and bone mass loss. However, 
+given that this is a hypothesis-generating study, independent 
+replication is needed before the implementation of 
+age-and sex-specific interventions.

@@ -1,0 +1,126 @@
+1. Introduction
+In case of isolated parotid swelling, otorhinolaryngologists need first to differentiate between malignant and benign tumor. In France in this early 21st century, they can use two complementary examinations: magnetic resonance imaging (MRI), and fine-needle aspiration biopsy (FNAB), with their respective positive predictive values (i.e., the probability of the disease being present if the examination findings are suggestive).
+
+In France, in 2016, the French Rare Head and Neck Tumor Expert Network (REFCOR) stated that MRI was the “standard examination” in case of principal salivary gland tumor (https://www.google.com/search?client=firefox-b-d&q=Recommandation+pour+la+pratique+clinique.+Tumeur+maligne+des+glandes+salivaires). Likewise, in 2020, The French society of otorhinolaryngology (SFOR) recommended “morphologic nuclear MRI for characterization and extension assessment of > 1 cm parotid lesions” [1]. During the same period, a meta-analysis of more than 5600 patients [2] assessed the diagnostic accuracy of FNAB as 96% for distinguishing benign versus malignant parotid tumors; the authors stressed the importance of ultrasound guidance [3]. According to some authors [4], [5], [6], associating MRI and FNAB improved preoperative diagnostic performance. However, to the best of or knowledge, only 1 study since the turn of the 21st century [7] assessed PPV for the two examinations in the same cohort, with more than a hundred patients with parotid swelling (Table 1), and no studies did this in the most frequent clinical setting: i.e., isolated parotid swelling, without associated facial palsy, ipsilateral jugulocarotid lymphadenopathy, contralateral parotid swelling or progressive carcinoma [4], [5], [6], [7], [8], [9], [10], [11], [12], [13], [14].
+
+Table 1. Positive predictive values (PPV) for malignant tumor on MRI and fine-needle aspiration in cohorts of more than a hundred parotid gland tumors (study including both parotid and submaxillary tumors).
+
+First author	Date	Number	MRI PPV	FNAB PPV
+Zbaren [8]	2001	228	−	83%
+Cohen [9]	2004	169	–	84%
+Lin [10]	2007	279	–	81%
+Jafari [11]	2009	110	–	80%
+Fahkry [12]	2012	202	–	73%
+Mallon [13]	2013	211	–	76%
+Trygwason [7]	2013	543	52.7%	98.6%
+Pommier [6]	2017	112	–	88.5%
+Eytan1 [4]	2018	477	–	80.8%
+We therefore conducted a retrospective observational study in a cohort of 212 consecutive patients with isolated parotid swelling without prior treatment, operated on after etiological diagnostic work-up associating parotid MRI and ultrasound-guided fine-needle aspiration biopsy (UFNAB). The main endpoint was MRI and UFNAB PPV for diagnosis of malignant tumor, benign tumor and the most frequent etiology. Secondary endpoints comprised:
+•
+comparison of PPV for the two examinations versus classical clinical factors of malignancy;
+
+•
+the impact on PPV of dynamic analysis in MRI;
+
+•
+MRI and UFNAB PPV in case of discordance in diagnosing malignant tumor, benign tumor or the most frequent etiology;
+
+•
+UFNAB PPV when MRI suggested malignant tumor, benign tumor or the most frequent etiology.
+
+
+2. Material and methods
+The study was conducted according to STARD guidelines (https://www.equator-network.org/reporting-guidelines/stard/) [15], [16]. Medical files were analyzed for 212 consecutive patients, aged over 18 years, with isolated parotid swelling without prior treatment, operated on in a university hospital ENT and head and neck surgery department between January 2015 and December 2020 after etiological diagnostic work-up associating parotid MRI and UFNAB. The cohort included 81.2% of patients undergoing parotidectomy in the department over the study period. Fig. 1 details exclusion criteria for 48 of the patients. This was a retrospective observational study without direct benefit for patients, and therefore did not come under Act no. 2012-300 of March 5, 2012 (https://www.legifrance.gouv.fr/eli/loi/2012/3/5/SASX0901817L/jo/texte).
+
+
+Download : Download high-res image (643KB)
+Download : Download full-size image
+Fig. 1. Flowchart.
+
+In 33.4% of cases (70/212), MRI was performed in our center's radiology department. Dynamic analysis with calculation of the apparent diffusion coefficient (ADC) and the perfusion curve was associated to morphologic analysis in 48.5% of cases 48.5% (103/212).
+
+UFNAB was performed in various structures outside of our center, after and blind to the MRI. The diagnosis suggested by cytologic analysis of the UFNAB sample was not drawn up on the Milan classification [17], [18] but rather categorized as benign/malignant/hesitant between benign and malignant on World Health Organization criteria [19].
+
+The diagnosis determined by pathologic examination of the specimen on WHO criteria [19] served as gold-standard: 16.9% (36/212) malignant and 83.1% (176/212) benign tumors. The most frequent etiology was pleomorphic adenoma, in 62.2% of cases (132/212). Two patients had 2 synchronous tumors: cystadenolymphoma + oncocytic adenoma, and pleomorphic adenoma + oncocytic adenoma.
+
+Data were saved to Statview software (Systat Inc., USA). The main endpoint was the PPV of MRI and of UFNAB for diagnosing malignant tumor, benign tumor and the most frequent etiology in the cohort. Secondary endpoints comprised:
+•
+comparison of MRI and UFNAB PPVs versus clinical factors (tumor fixation, adjacent skin infiltration, spontaneous pain and/or pain on palpation, sudden change in tumor progression path) reported [20] as founding suspicion of malignancy, plus history of ipsilateral head and neck radiotherapy and non-progressive treated malignancy;
+
+•
+impact on PPV of dynamic analysis in MRI;
+
+•
+MRI and UFNAB PPVs in case of discordance in suggesting malignant tumor, benign tumor and the most frequent etiology;
+
+•
+UFNAB PPV when MRI suggested malignant tumor, benign tumor or the most frequent etiology.
+
+
+PPV (Table 2) was calculated by dichotomizing examination results as matching the pathologic gold-standard diagnosis or not (http://www.aly-abbara.com/utilitaires/statistiques/sensibilite_specificite_vpp_vpn.html). In case of diagnostic hesitation between malignant and benign tumor (indeterminate malignancy, round-cell tumor, basal cell tumor, tumor with cellular atypias, doubtful cyst, etc.) or between 2 precise diagnoses, each suggested diagnosis was counted as true positive (Table 2) for the various types of tumor for which PPV was assessed. Likewise, in case of synchronous tumor, results were counted as true positive (Table 2) if 1 of the 2 tumors diagnosed on pathology matched the diagnosis suggested on MRI/UFNAB. Correlations were assessed between malignancy on the one hand and age, gender and maximal tumor diameter on the other. Analyses used the non-parametric Mann-Whitney U test for quantitative variables and the parametric Fisher test for qualitative variables. The significance threshold was set at P < 0.005, in line with the movement toward better science supported by the European Annals of Otorhinolaryngology Head & Neck Diseases [21], [22].
+
+Table 2. Positive predictive value calculation methodology (TP/TP + FP).
+
+Empty Cell	Positive on pathology	Negative on pathology
+Suggested on complementary examination	True positive (TP)	False positive (FP)
+Not suggested on complementary examination	False negative (FN)	True negative (TN)
+3. Results
+3.1. Population
+The study population comprised 112 women and 100 men, aged 18 to 93 years (median: 52 years). Table 3 shows clinical data. The largest tumor diameter of the specimen, to the nearest half-centimeter, ranged from 5 to 70 mm (median: 25 mm).
+
+Table 3. Clinical data (212 patients).
+
+Clinical data	% (Number)
+Non-progressive oncologic history	13.6% (29/212):
+29 carcinomas (cerebral, cutaneous, laryngeal, oropharyngeal, prostate, rectal, kidney, breast, thyroid, uterine, vesical),
+3 lymphomas and
+2 leukemias.
+History of head and neck radiotherapy	1.4% (3/212)
+Sudden change in progression path	6.6% (14/212)
+Spontaneous pain or pain on palpation	7.5% (16/212)
+Tumor fixation	1.8% (4/212)
+Skin infiltration	2.8% (6/212)
+MRI suggested malignant and benign tumor in respectively 13.6% (29/212) and 79.2% (168/212) of cases, and hesitated in 6.2% (15/212). It suggested a single precise etiology and pleomorphic adenoma respectively in 73.5% (156/212) and 63.2% (134/212) of cases.
+
+UFNAB suggested malignant and benign tumor in respectively 7.1% (15/212) and 76.8% (163/212) of cases, and hesitated in 16.1% (34/212). It suggested a single precise etiology and pleomorphic adenoma respectively in 79.7% (169/212) and 69.8% (148/212) of cases.
+
+Three Annexes (Annexes 1 to 3) are available as Supplemental Material in the on-line version at the website mentioned at the end of this article. They detail the clinical data, diagnoses suggested by MRI and by UFNAB and the gold-standard pathology diagnosis (Annex 1), the data underlying MRI PPV (Annex 2), and the data underlying UFNAB PPV (Annex 3), with corresponding sensitivity and specificity values.
+
+3.2. MRI and UFNAB PPVs for malignant tumor, benign tumor and pleomorphic adenoma
+MRI and UFNAB PPVs for malignant tumor, benign tumor and pleomorphic adenoma were respectively 45.4%, 88.8% and 89.6%, and 46.9%, 88.1% and 85.2%.
+
+3.3. PPVs of clinical factors suggesting malignancy
+PPVs for tumor fixation, adjacent skin infiltration, spontaneous pain and/or pain on palpation and sudden change in tumor progression path were respectively 75%, 50%, 43.7% and 14.2%. PPVs for history of head and neck radiotherapy and of non-progressive cancer were respectively 75% and 48.2%. There were no significant correlations of malignancy with age (P = 0.20), gender (P = 0.85) or maximal diameter (P = 0.032).
+
+3.4. Dynamic analysis in MRI and PPV
+MRI PPV with (n = 103) and without (n = 109) dynamic analysis was respectively 45.4% and 45.4% for malignant tumor, 89.8% and 89.4% for benign tumor, and 88.1% and 88.1% for pleomorphic adenoma.
+
+3.5. PPV in case of discordance between MRI and FNAB in suggesting malignant tumor, benign tumor or pleomorphic adenoma
+In case of discordance between MRI and FNAB in suggesting malignant tumor (n = 17), benign tumor (n = 20) or pleomorphic adenoma (n = 34), MRI PPV was respectively, 42.8%, 33.3% and 42.8%, and UFNAB PPV 100%, 36.3% and 50%.
+
+3.6. UFNAB PPV when MRI suggested malignant tumor, benign tumor or pleomorphic adenoma.
+UFNAB PPV when MRI suggested malignant tumor (n = 44) was 51.8% for malignant tumor, 67.7% for benign tumor and 37.5% for pleomorphic adenoma.
+
+UFNAB PPV when MRI suggested benign tumor (n = 138) was 32.2% for malignant tumor, 91.5% for benign tumor and 88.5% for pleomorphic adenoma.
+
+UFNAB PPV when MRI suggested pleomorphic adenoma (n = 135) was 23.5% for malignant tumor, 93.9% for benign tumor and 92% for pleomorphic adenoma.
+
+4. Discussion
+In France in this early 21st century, with the SFORL guidelines [1] and French Rare Head and Neck Tumor Expert Network (REFCOR) (https://www.google.com/search?client=firefox-b-d&q=Recommandation+pour+la+pratique+clinique.+Tumeur+maligne+des+glandes+salivaires), MRI has become the gold-standard morphologic examination in parotid swelling. Its contribution to confirming the parotid topography of the swelling, analyzing the anatomic relations and assessing satellite lymph-node area status is unchallenged [1], [4], [5], [6], [7], but debate continues as to its contribution to definitive diagnosis and to the role of FNAB in this context.
+
+In isolated parotid swelling, without associated facial palsy, ipsilateral jugulocarotid lymphadenopathy, contralateral parotid swelling or associated malignancy, which accounted for 81.2% of parotidectomies performed in our center between 2015 and 2020, MRI PPV for diagnosing benign tumor (89.6%) or pleomorphic adenoma (88.1%) confirms its diagnostic accuracy in these two cases. For malignant tumor, on the other hand, MRI PPV is lower, at 45.4% in the present series, in agreement with the PPV of 52.7% reported by Trygwason et al. [7]. With PPV of 88.8%, the accuracy of UFNAB, according to reports of series of more than a hundred patients [6], [7], [8], [9], [10], [11], [12], [13] published since the start of the century (Table 1), is better than that of MRI. There are several reasons for this relative diagnostic weakness of MRI for isolated malignant parotid tumor. The first is pathophysiological, concerning the continuum between benign and malignant tumor in many etiologies, which is better analyzed on cytology than on MRI. The second is methodological: in the present study, FNAB was systematically ultrasound-guided, which is known to enhance diagnostic accuracy [3], whereas, in MRI, dynamic analysis with calculation of ADC and perfusion curve was associated to morphologic analysis in only 48.5% of cases. The importance of associating dynamic analysis to morphologic analysis in MRI was highlighted by several recent meta-analyses and literature reviews [23], [24], [25]. In 2018, Lian et al. [23] reported superiority over isolated morphologic analysis in distinguishing malignant from benign parotid tumors. In 2020, Coudert et al. [24] confirmed this, stressing the diagnostic accuracy of MRI in distinguishing malignant tumor from pleomorphic adenoma, with an ADC threshold of 1.2 to 1.6. In our own university, Espinoza and Halimi [26], in agreement with Tao et al. [27] in their cohort of 148 patients with parotid tumor, were more restrictive and proposed, for parotid swelling without satellite lymphadenopathy, an algorithm using an ADC cut-off of 1, with lower values strongly suggesting malignancy. In 2021, Chen et al. [25], in a meta-analysis including more than a thousand patients, reported that ADC showed good sensitivity in diagnosing malignant parotid tumor, but with great diagnostic heterogeneity; they advocated assessing the contribution of diffusion-weighted imaging (DWI) in future. The present study, where PPV did not differ whether dynamic analysis was associated or not, did not show any contribution of dynamic MRI analysis. However, we were comparing two different groups of patients, rather than use of dynamic analysis or not within the same group, and our findings cannot actually contradict a contribution of dynamic MRI analysis.
+
+These reports raise the question of the present modalities of associating MRI to UFNAB in isolated parotid swelling, which is the most frequent situation in our clinical experience, given that UFNAB is not limited by morbidity. Liu et al. [2], in a meta-analysis, reported a very low risk of complications after FNAB in parotid gland swelling, with 1% hematoma, 1.6% infection and no facial palsy.
+
+Several strategies have been discussed since the turn of the century.
+
+The first may be described as “minimalist” and was advocated in 2000 by Bartels et al. [28]. It reserves MRI and FNAB to selected cases. Most patients with limited, mobile, isolated superficial parotid swelling would not require complementary examinations if interview is complete and clinical examination is very precise [28]. Similarly, for Ru et al. [29], palpation and MRI data show agreement in assessing tumor topography, and FNAB is the only complementary examination that accurately distinguishes malignant and benign tumors; they advise against routine resort to MRI, but reserve it for specific cases. For several reasons, we do not share these minimalist attitudes. Firstly, apart from tumor fixation and history of radiotherapy, the PPVs for the various clinical signs suggesting malignancy [20] were, in the present study, lower than that of MRI. Moreover, Wong and Li [30] reported that the diagnostic accuracy of FNAB was clearly greater than that of clinical examination in identifying malignant tumor: the rate of misdiagnosis was 26% on clinical symptomatology and 6.5% on FNAB. Secondly, the morphologic contribution of MRI is undisputed in a pathology in which definitive diagnosis requires a surgical approach [1], [4], [6], [7], [8], [9], [10], [11], [12], [13]. And lastly, since the Act of March 4, 2002 concerning patients’ rights and health system quality, French law requires patients to be involved in medical decision-making concerning them, which in turn requires consent based on “honest, clear and adapted information” regarding pathology and treatment (https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000227015/). Thanks to the precision of its morphologic analysis, MRI refines clinical findings and seems to us to be essential for providing the patient with the requisite information.
+
+In contrast, the second strategy could be called “maximalist”, and was advocated by Heaton et al. in 2017 [5]. It consists in associating MRI and UFNAB, as in the present study, to maximize information so as to enhance diagnostic certainty. This follows the letter of the law (Act March 4, 2002), but is the most costly attitude and benefit is unclear for diagnosing malignant parotid tumor. In a cohort of 148 patients with parotid tumor, 54 of whom had preoperative work-up combining MRI and FNAB, Paris et al. [4] reported that accuracy in diagnosing malignant tumor was 93% for MRI and 92% for FNAB, and 91% when the two were combined. Likewise, in a cohort of 112 patients operated on for parotid swelling after FNAB, 84 of whom had also undergone MRI, Pommier et al. [6] reported that the combination provided diagnostic gain, but only of 2%, whereas the PPV for diagnosis of malignant tumor was 88.5% for FNAB alone and 86.9% when MRI was associated [6]. And finally, the situation in which the otorhinolaryngologist needs the most help is when results are discrepant, posing the problem of which to prioritize: from the present study, it seems that, although the robustness of the PPVs is low, being calculated on the basis of just a few patients, associating the two examinations is especially useful for diagnosing benign tumor. When MRI and UFNAB diverged, the PPV of MRI for diagnosing benign tumor was 42.8%, compared to 100% for UFNAB, which was thus the examination that should guide diagnosis. In contrast, when MRI and UFNAB diverged in diagnosing malignant tumor (n = 17), the PPVs of MRI and UFNAB for the two diagnoses were respectively 42.8% and 33.33%, which was too close, and too low, for either to show superiority.
+
+The third strategy could be called “adaptive”, and is in line with cost-saving policy, associating MRI and UFNAB non-systematically. In 2017, in Poland, Mirkaziewski et al. [31] advocated implementing MRI after FNAB and only when the latter failed to determine diagnosis or suggested pleomorphic adenoma. In 2018, considering the contribution of dynamic analysis, they inversed this sequence, in favor of first-line MRI with FNAB only in case of “ambiguous” diagnosis [32]. Several reports, including the present, support this. The PPV of UFNAB was not better than that of MRI for diagnosing pleomorphic adenoma (85.2% vs. 88.1%) and was poorer for benign tumor (45.1% vs. 89.6%), arguing against its use when these diagnoses are suggested on MRI. Conversely, MRI showed poor PPV for diagnosing malignant tumor, and UFNAB, with a higher PPV, should be performed when MRI suggests malignant tumor. Analysis of the PPV of UFNAB according to MRI findings confirms this approach: it was greater than 90% for diagnosing benign tumor and pleomorphic adenoma when MRI suggested the same etiologies, confirming the diagnostic accuracy of MRI in these two cases.
+
+There was some variation in the examinations performed in the present study, with only 33.5% of MRIs in our own radiology department (leading to lack of dynamic analysis in more than half of the cases overall), UFNAB performed in a number of different structures (whereas many reports [3], [13] highlight operator experience as a key factor in its diagnostic contribution), and the absence of systematic reporting, in both radiology and cytology (Annex 1). This heterogeneity might seem to vitiate our findings, but we in fact see it as reflecting real-life implementation of MRI and UFNAB for isolated parotid swelling in adults in France in this early 21st century. It also reflects the current organization of health care in France, in which the law leaves the choice of structure in which these examinations are made entirely up to the practitioner and patient. While we recognize the importance of free choice in medicine and do not wish in any way to cast it in doubt, it nevertheless seems to us that the technical requirements and necessary experience as well as the non-negligible cost of these examinations should encourage their performance in regional expert centers. A second and equally important criticism, never raised in the studies with more than a hundred patients on the diagnostic accuracy of MRI and UFNAB for parotid swelling published since the turn of the century [6], [7], [8], [9], [10], [11], [12], [13], [14], concerns the dichotomization involved in calculating PPV (Table 2). Thus, in case of diagnostic hesitation regarding malignancy and/or between several diagnoses, the probability of the examination turning up an accurate finding, and thus counting as true positive for each diagnosis (Table 2), is increased, reinforcing the predictive value, whereas the pathologic gold-standard cannot in fact validate or invalidate the result of the examination, which was indecisive. This problem of diagnostic hesitation, found in 6.2% of MRIs and 16.6% of UFNABs in the present series, is exacerbated by several factors. The first concerns changes to the international classification of salivary gland tumors [17], [18], [19], in which several categories, such as round-cell tumor or basal cell tumor, include malignant and benign etiologies, undermining the diagnostic conclusions drawn from UFNAB. The second factor undermines the diagnostic conclusions drawn from MRI: a precise ADC threshold for malignancy is lacking; in the present series, MRI and UFNAB suggested a single precise etiology in only 73.5% and 79.7% of cases, respectively. The last factor concerns the increasing judicialization of medicine in France (https://www.academie-medecine.fr/le-pouvoir-medical/?lang=en) and French doctors’ negative experience of this trend (https://syntheses.univ-rennes1.fr/search-theses/notice/view/rennes1-ori-wf-1-13347?height=500&width=900). Associated with increasing insurance premiums [33], [34], we feel that this leads to the risk of a significant number of practitioners adopting a “defensive” attitude, as seen in the USA [35], filling their examination reports with as many diagnoses as possible to avoid being accused of failure to diagnose.
+
+5. Conclusion
+Several practical points emerge from the present study. Systematic association of UFNAB to MRI in case of isolated parotid swelling does not fundamentally improve diagnostic accuracy. UFNAB is of value in case of history of head and neck radiotherapy or tumor fixation or when MRI is hesitant or suggests malignancy and/or has a low ADC. When MRI suggests benign tumor and especially pleomorphic adenoma, on the other hand, the contribution of UFNAB is more limited.

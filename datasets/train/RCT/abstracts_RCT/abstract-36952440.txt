@@ -1,0 +1,31 @@
+BACKGROUND: Short-term neck pain after posterior cervical foraminotomy 
+(posterior surgery) compared with anterior cervical discectomy with fusion 
+(anterior surgery) treating cervical radiculopathy has only been assessed once, 
+retrospectively, to our knowledge. The aim of this study was to prospectively 
+evaluate the course of neck pain for 6 weeks after both treatments.
+METHODS: This is a secondary analysis of the multicenter Foraminotomy ACDF 
+Cost-Effectiveness Trial (FACET), conducted from January 2016 to May 2020. Of 
+389 patients who had single-level, 1-sided cervical radiculopathy and were 
+screened for eligibility, 265 were randomly assigned to undergo posterior 
+surgery (n = 132) or anterior surgery (n = 133). The primary outcome of the 
+present analysis was neck pain, assessed weekly for 6 weeks using the visual 
+analog scale (VAS), on a scale of 0 to 100. The secondary outcomes were arm 
+pain, neck disability, work ability, quality of life, treatment satisfaction, 
+motor and sensory changes, and hospital length of stay. Data were analyzed with 
+mixed model analysis in intention-to-treat samples using 2-sided 95% confidence 
+intervals (CIs).
+RESULTS: In the first postoperative week, the mean VAS for neck pain was 56.2 mm 
+(95% CI, 51.7 to 60.8 mm) after posterior surgery and 46.7 mm (95% CI, 42.2 to 
+51.2 mm) after anterior surgery. The mean between-group difference was 9.5 mm 
+(95% CI, 3.3 to 15.7 mm), which gradually decreased to 2.3 mm (95% CI, -3.6 to 
+8.1 mm) at postoperative week 6. As of postoperative week 5, there was no 
+significant difference between groups. Responder analyses confirmed this result. 
+Secondary outcomes showed small differences between groups.
+CONCLUSIONS: Insight into the course of neck pain during the first 6 weeks after 
+posterior compared with anterior surgery is provided. Despite initially more 
+neck pain after posterior surgery, patients swiftly improved and, as of 
+postoperative week 5, results similar to those after anterior surgery were 
+observed. Our findings should enable improved patient counseling and enhanced 
+shared decision-making between physicians and patients with cervical 
+radiculopathy, where more neck pain in the first postoperative weeks should be 
+balanced against the benefits of posterior surgery.

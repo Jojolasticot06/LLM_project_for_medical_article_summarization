@@ -1,0 +1,30 @@
+OBJECTIVE: To examine the prevalence of symptoms of stress-related disorders, 
+primarily posttraumatic stress disorder (PTSD), in family members of patients 
+admitted to the ICU with COVID-19 approximately 90 days after admission.
+DESIGN, SETTING, AND PARTICIPANTS: This prospective, multisite, mixed-methods 
+observational cohort study assessed 330 family members of patients admitted to 
+the ICU (except in New York City, which had a random sample of 25% of all 
+admitted patients per month) between February 1 and July 31, 2020, at 8 
+academic-affiliated and 4 community-based hospitals in 5 US states.
+EXPOSURE: Having a family member in the ICU with COVID-19.
+MAIN OUTCOMES AND MEASURES: Symptoms of PTSD at 3 months, as defined by a score 
+of 10 or higher on the Impact of Events Scale 6 (IES-6).
+RESULTS: A total of 330 participants (mean [SD] age, 51.2 [15.1] years; 228 
+[69.1%] women; 150 [52.8%] White; 92 [29.8%] Hispanic) were surveyed at the 
+3-month time point. Most individuals were the patients' child (129 [40.6%]) or 
+spouse or partner (81 [25.5%]). The mean (SD) IES-6 score at 3 months was 11.9 
+(6.1), with 201 of 316 respondents (63.6%) having scores of 10 or higher, 
+indicating significant symptoms of PTSD. Female participants had an adjusted 
+mean IES-6 score of 2.6 points higher (95% CI, 1.4-3.8; P < .001) than male 
+participants, whereas Hispanic participants scored a mean of 2.7 points higher 
+compared with non-Hispanic participants (95% CI, 1.0-4.3; P = .002). Those with 
+graduate school experience had an adjusted mean score of 3.3 points lower (95% 
+CI, 1.5-5.1; P < .001) compared with those with up to a high school degree or 
+equivalent. Qualitative analyses found no substantive differences in the 
+emotional or communication-related experiences between those with high vs low 
+PTSD scores, but those with higher scores exhibited more distrust of 
+practitioners.
+CONCLUSIONS AND RELEVANCE: In this cohort study, symptoms of PTSD among family 
+members of ICU patients with COVID-19 were high. Hispanic ethnicity and female 
+gender were associated with higher symptoms. Those with higher scores reported 
+more distrust of practitioners.

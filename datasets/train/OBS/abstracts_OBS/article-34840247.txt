@@ -1,0 +1,193 @@
+Cardiac rehabilitation (CR) is a comprehensive program consisting of medically supervised exercise, nutritional counseling and behavioral interventions1 which has been proven to reduce hospital readmissions, as well as cardiovascular disease and all-cause mortality.2,3 Despite being a class 1A recommendation by the American Heart Association and American College of Cardiology for risk reduction, CR is remarkably underutilized with only 20–30% of eligible patients in the United States attending even a single session of CR.4–6 Even among those who start, many do not complete the program.7 While any participation (i.e., attending ≥1 session) is associated with improved clinical outcomes,3 the benefits of CR are likely dose-dependent, with additional sessions conferring additional benefits. Studies suggest that each additional 6 sessions completed is associated with a reduced risk of future myocardial infarction by 5–11%2 and that those who complete ≥ 25 sessions have significantly reduced mortality 1–5 yr later than those who completed 1–24 sessions.8
+
+Socioeconomic status (SES) is a measure of social standing of a group or individual and is closely tied to health outcomes.9 Socioeconomic status is often measured by educational attainment, income, occupation, or a combination of these factors. Of these individual factors, educational attainment appears to be a particularly strong predictor of health-related behaviors and health outcomes, a pattern that is also seen specifically within risk for myocardial infarction.10 Speaking of SES more broadly, patients of lower SES have a higher prevalence of behavioral risk factors for coronary artery disease (CAD) such as smoking.11 Additionally, they tend to exercise less and make fewer needed behavioral changes after an myocardial infarction (MI),12,13 which corresponds to overall poorer health, greater cardiac risk severity, and an increased rate of mortality after MI.14–16 While individuals of lower-SES are sicker at baseline,14 and stand to significantly improve their health outcomes from CR, this population is much less likely to attend CR than those of higher-SES.6,13,17,18 However, the effects of SES on adherence to CR are less clear. Two studies showed that patients with lower SES had lower CR adherence.19,20 However, a third study found that patients with lower SES actually had higher rates of CR adherence compared to patients with higher SES.21
+
+The benefits of CR may also vary based on characteristics of the patient and it is possible that patients with lower SES improve less than those of higher SES. In one study, patients of lower educational status had lower baseline cardiorespiratory fitness (CRF) and smaller overall improvements following CR compared to patients with more education.22 However, other studies suggest that gains from CR in lower SES populations can be comparable to those observed in less vulnerable patients.23–25
+
+Given the mixed results in the existing literature, we sought to further clarify the associations of SES with various aspects of CR. We used educational attainment as a measure of SES because it has been shown to be a very reliable predictor of health-related behaviors, and specifically, risk for MI.10 Using a large, prospectively collected clinical database, we examined educational attainment as a predictor of: demographic and clinical characteristics, adherence to CR, and improvement during CR. We hypothesized that lower-SES patients would have a worse clinical profile at entry to CR, and would improve less while attending CR, than their higher-SES counterparts.
+
+Go to:
+METHODS
+We analyzed data that were prospectively gathered on consecutively enrolled individuals entering the University of Vermont Medical Center Phase II CR program between January 2016 and December 2019. For patients with multiple admissions to CR, only the data from the initial enrollment was included in the current analysis. For clinical changes garnered during CR, data were examined from patients for which both entry and exit data were available. Time between intake and exit assessments was 3–4 mo. Patients could generally attend ≤ 36 sessions of CR, which were in addition to the two assessments. Classroom style educational sessions were offered to all patients in areas of: nutrition, benefits of exercise, cardiac symptoms, stress reduction, cardiac risk factors, reversing heart disease, and medications. Associated reading materials for these sessions is provided, but the education level of the materials has not been examined.
+
+STUDY MEASURES
+Educational attainment was collected at intake to the program by self-report, patients were asked “what is the highest level of education you completed?” Education was categorized into three levels for these analyzes: < high school (HS, including General Educational Development (GED)), HS (but no 4-yr degree), and at least a 4-year degree (16 yr+).
+
+During the CR intake visit, data were collected on age, sex, and anthropometric variables (stadiometer obtained height, digital scale measured weight, and tape measured waist circumference [measured at the level of the umbilicus]). Smoking status was queried by self-report and, starting in May 2018, was confirmed through expired carbon monoxide (CO). Measures of total cholesterol, triglycerides (TG), high density lipoprotein cholesterol (HDL-C), and glucose were obtained in the morning following a 12-hr fast prior to starting CR. Low-density lipoprotein cholesterol was calculated by using the formula of Friedewald et al.26 Non-insulin-dependent diabetes mellitus was confirmed by diagnosis and prescription of hypoglycemic medication as documented in the electronic health record. Time (d) between diagnosis or CR-qualifying event and entry into CR was calculated for each patient. In addition, information on treatment with evidence-based cardiovascular drugs (antiplatelet agents, β-adrenergic blockers, statins, and angiotensin-converting enzyme inhibitors or angiotensin receptor blockers) was recorded. Patients underwent a symptom-limited exercise tolerance test with collection and analysis of expired gas for determination of peak oxygen uptake (VO2peak) in mL·kg−1.min−1 (relative) or in L·min−1 (absolute). Handgrip strength was obtained with a Jamar Hand Dynamometer (Patterson Medical). A comorbidities score was calculated as a combination of the presence and severity of conditions that could limit activities within the CR program including chronic obstructive pulmonary disease, peripheral vascular disease, orthopedic problems, and cerebrovascular accident/stroke. If a comorbid condition was absent, a score of 0 was entered. For each diagnosis a score of 1–3 signified; (1) not symptomatic during exercise, (2) symptomatic during exercise or (3) exercise limiting resulting in a score from 0–12.27
+
+Self-reported physical function was assessed using the Medical Outcomes Study Short Form-36 (MOS SF-36) survey questionnaire (0–100 scale) with 100 representing excellent physical function.28 Depressive symptoms were assessed using the Patient Health Questionnaire-9 (PHQ-9) (0–27 scale) with higher numbers indicating more depressive symptoms.29 At the initial CR session, an individual’s willingness to commit to consuming a heart healthy diet and a long-term exercise program was assessed using the Stages of Change model.30 This model describes five stages that people go through on their way to change: pre-contemplation (“Not Ready”), contemplation (“Thinking about it in the next 6-mo”), preparation (“Planning to Commit this month”), action (“I’m here, let’s go”), and maintenance (“My diet has kept my weight and cholesterol normal/I am already a long term exerciser”). Stages of change for both exercise and diet were scored on a scale from 1–5 from not ready to maintenance.
+
+CR participation was measured as a continuous variable with a range from 0–36 sessions, 36 being the maximum allowable under most insurance plans. Number of sessions completed was extracted from the clinical record.
+
+STATISTICAL PROCEDURES
+Descriptive statistics were generated for baseline characteristics across all participants and by three categories of educational attainment (<HS/GED, ≥ HS, 16+). Categorical variables were tested by educational attainment using Pearson’s chi-squared test and continuous variables using the Kruskal-Wallis Test. Analyses were also repeated for males and females separately.
+
+The contribution of educational attainment to explaining post-test outcomes was tested using approaches most appropriate to the type and distribution of the outcome variable. Weight, body mass index (BMI), waist, VO2peak, METS, and handgrip were analyzed using analysis of covariance. The MOS SF-36 was converted to a binary variable (i.e., <65 and 65–100) and analyzed using logistic regression. The PHQ-9 was analyzed using generalized linear modeling with a negative binomial distribution and log link function. For all models, missing data resulted in casewise deletion. For all of these variables, initial models only included baseline values and educational attainment as independent variables. Analyses were repeated, including baseline values and education attainment as independent variables, but also controlling for age, sex, number of comorbidities (as a categorical variable, 0 vs. >0), METS (except when analyzing VO2peak), presence of Type 2 diabetes, and number of CR sessions completed (as a categorical variable, ≤9, 10–18, 19–27, and 28–36). For all tests of multiple comparisons by educational attainment, the Tukey-Kramer adjustment was used.
+
+Analyses were conducted using deidentified data and thus were not classified as human subjects research by the University of Vermont IRB. All analyses were conducted using SAS 9.4 (SAS Institute). Across all tests, statistical significance was represented by < .05 (2-tailed).
+
+Go to:
+RESULTS
+Characteristics of the 1407 patients included in the analyses can be seen in Table 1. Overall, 28% of patients were female, average age was 66.7 yr, 51% reported being a former smoker, average BMI was 29.7 kg/m2, just below the obese classification (BMI >30 kg/m2), and the vast majority were taking antiplatelet agents and statins.
+
+Table 1.
+Patient Characteristics by Educational Attainment at Baseline
+
+Total
+(n=1,407)	<HS/GED
+(n=97)	HS
+(n=696)	4-year degree+
+(n=614)	P
+Age, yr	66.4 ± 11.1	66.9 ± 10.9	65.7 ± 11.1	67.0 ± 11.2	.030
+Sex, Female	401 (28)	26 (27)	236 (34)	139 (23)	<.001
+Race, White	1,374 (98)	92 (95)	683 (98)	599 (98)	.131
+Days since event	36.5 ± 32.0	40.8 ± 40.5	35.9 ± 24.3	36.4 ± 37.7	.154
+Weight, kg	86.9 ± 19.6	92.8 ± 22.6	87.3 ± 19.7	85.4 ± 18.8	.004
+BMI, kg/m2	29.7 ± 6.0	32.2 ± 6.9	30.3 ± 6.0	28.6 ± 5.7	<.001
+Diagnosis, % CABG	249 (18)	16 (16)	125 (18)	108 (18)	.134
+TC, mg/DL	156.0 ± 44.3	155.8 ± 34.9	155.1 ± 45.7	157.1 ± 44.0	.506
+TG, mg/DL	133.9 ± 91.3	171.3 ± 121.0	140.1 ± 96.1	121.1 ± 77.4	<.001
+HDL-C, mg/DL	46.5 ± 14.6	43.8 ± 12.3	45.1 ± 13.5	48.6 ± 15.8	.001
+LDL-C, mg/DL	83.6 ± 36.4	81.4 ± 28.6	83.1 ± 37.3	84.4 ± 36.5	.656
+HbA1c, %	6.3 ± 1.2	6.4 ± 1.1	6.5 ± 1.4	6.0 ± 1.1	<.001
+VO2, ml/kg/min	19.8 ± 6.7	17.3 ± 4.3	18.5 ± 5.7	21.8 ± 7.4	<.001
+METS	5.8 ± 2.1	5.0 ± 1.3	5.5 ± 1.9	6.4 ± 2.2	<.001
+Waist circumference, in	41.0 ± 5.7	43.2 ± 6.0	41.5 ± 5.8	40.2 ± 5.6	<.001
+Handgrip, kg	34.6 ± 11.7	34.9 ± 11.2	33.4 ± 11.9	36.0 ± 11.3	<.001
+Number of CR sessions	23.4 ± 13.0	20.3 ± 13.7	22.3 ± 13.1	25.1 ± 12.4	<.001
+Completed CR	949 (68)	51 (53)	438 (63)	460 (75)	<.001
+≥ 1 comorbidities	327 (23)	33 (34)	183 (26)	111 (18)	<.001
+MOS SF-36	62.8 ± 26.6	55.0 ± 24.7	60.6 ± 26.6	66.4 ± 26.5	<.001
+MOS SF-36 <65	620 (46)	51 (59)	330 (49)	239 (41)	.001
+PHQ-9	4.2 ± 4.3	4.6 ± 4.8	4.6 ± 4.6	3.7 ± 3.7	.008
+Carbon Monoxide, ppm	2.8 ± 7.3	4.4 ± 6.0	3.6 ± 9.9	1.6 ± 2.0	.003
+Current smoker	75 (5)	12 (12)	49 (7)	14 (2)	<.001
+Former smoker	715 (51)	57 (59)	400 (57)	258 (42)	<.001
+Stages of change, Diet	3.9 ± 0.9	3.6 ± 1.2	3.8 ± 0.9	4.1 ± 0.7	<.001
+Stages of change, Exercise	4.0 ± 0.8	3.5 ± 1.0	3.8 ± 0.8	4.2 ± 0.8	<.001
+Betablockers	1,091 (78)	70 (72)	542 (78)	479 (78)	.420
+ACE-I/ARB	730 (52)	59 (61)	376 (54)	295 (48)	.018
+Antiplatelet agents	1,397 (99)	97 (100)	692 (99)	608 (99)	.676
+Statin	1,283 (91)	91 (94)	639 (92)	553 (90)	.344
+Type 2 diabetes	322 (23)	26 (27)	199 (29)	97 (16)	<.001
+Open in a separate window
+Note: Data are presented as either mean ± SD or n (%) of those responding yes.
+
+Abbreviations: ACE-I, angiotensin-converting enzyme inhibitors; ARB, angiotensin receptor blockers; BMI, body mass index; CABG, coronary artery bypass graft; CR, cardiac rehabilitation, GED, General Educational Development; HbA1c, Hemoglobin A1C; HDL-C, high density lipoprotein cholesterol; HS, high school; LDL-C, low-density lipoprotein cholesterol; METs, metabolic equivalents; MOS SF-36, Medical Outcomes Study Short Form-36; PHQ-9, Patient Health Questionnaire-9;TC, total cholesterol; TG, triglycerides; VO2peak, peak oxygen uptake.
+
+Categorical and continuous variables were tested using Pearson’s chi-squared test and Kruskal-Wallis Test, respectively.
+
+Data were missing on the following variables: days since event (5%), TC, TG, HDL-C, LDL-C (16%), VO2 (27%), METS (11%), waist circumference (11%), handgrip (16%), carbon monoxide (59%), stages of change (8%). Data was not missing systematically by educational category except for stages of change, where missing data was 20% in the <HS/GED category compared to 7% in the higher categories.
+
+Most of the baseline clinical characteristics examined varied by educational attainment. Those with lower educational attainment had higher BMIs, higher TG, lower HDL, lower levels of CRF, higher comorbidity scores, and were more likely to be current smokers (both by self-report and objective measurement) (P <.01). Behavioral and psychosocial measures also differed by educational attainment. Those with lower educational attainment had higher depression scores, lower physical function scores, and had lower scores on readiness to change for both diet and exercise (P<.001). Associations between educational attainment and baseline variables generally did not vary by sex (Table 2). However, males had a significant association between age and education and CO measure (indicative of current smoking) and education, which was not seen in females. For males, lower educational attainment was associated with younger age and higher CO scores.
+
+Table 2.
+Patient Characteristics by Educational Attainment and Sex at Baseline
+
+<HS/GED	HS	4-year degree+	p
+Female				
+n	26	236	139	
+Age, yr	70.1 ± 12.1	67.7 ± 11.5	66.8 ± 11.9	.320
+Weight, kg	83.2 ± 26.5	77.9 ± 18.9	74.1 ± 18.3	.059
+BMI, kg/m2	33.2 ± 9.1	30.4 ± 7.0	28.2 ± 7.0	.001
+HbA1c, %	6.3 ± 1.0	6.4 ± 1.3	6.0 ± 1.0	.007
+VO2, ml/kg/min	14.6 ± 2.4	15.4 ± 4.2	19.0 ± 6.7	<.001
+METS	4.3 ± 0.7	4.5 ± 1.6	5.6 ± 2.0	<.001
+Waist circumference, in	40.5 ± 5.8	39.8 ± 6.2	37.5 ± 5.6	.002
+Handgrip, kg	22.3 ± 5.4	22.6 ± 6.6	24.5 ± 7.4	.056
+Number of CR sessions	22.3 ± 14.6	21.4 ± 13.0	24.4 ± 12.7	.086
+1 or more comorbidities	11 (42)	71 (30)	30 (22)	.050
+MOS SF-36	47.5 ± 25.5	50.4 ± 24.8	59.0 ± 24.4	.005
+MOS SF-36 <65	17 (71)	151 (67)	73 (54)	.051
+PHQ-9	6.3 ± 6.5	5.3 ± 4.9	4.2 ± 3.3	.381
+Carbon Monoxide, ppm	5.2 ± 8.6	3.1 ± 6.2	2.1 ± 4.0	.855
+Male				
+n	71	460	475	
+Age	65.6 ± 10.3	64.7 ± 10.7	67.1 ± 11.0	<.001
+Weight, kg	96.3 ± 20.0	92.1 ± 18.3	88.8 ± 17.7	<.001
+BMI, kg/m2	31.8 ± 5.9	30.3 ± 5.5	28.7 ± 5.3	<.001
+HbA1c, %	6.4 ± 1.2	6.5 ± 1.4	6.1 ± 1.1	<.001
+VO2, ml/kg/min	18.1 ± 4.5	20.0 ± 5.8	22.6 ± 7.4	<.001
+METS	5.3 ± 1.4	5.9 ± 1.9	6.6 ± 2.2	<.001
+Waist circumference, in	44.1 ± 5.9	42.3 ± 5.3	41.0 ± 5.3	<.001
+Handgrip, kg	38.7 ± 9.6	38.8 ± 10.2	39.2 ± 10.1	.774
+Number of CR sessions	19.5 ± 13.4	22.7 ± 13.1	25.3 ± 12.4	<.001
+1 or more comorbidities	22 (31)	112 (24)	81 (17)	.003
+MOS SF-36	57.9 ± 23.9	65.9 ± 25.9	68.7 ± 26.7	.002
+MOS SF-36 <65	34 (54)	179 (41)	166 (37)	.033
+PHQ-9	3.9 ± 3.8	4.2 ± 4.3	3.5 ± 3.8	.080
+Carbon monoxide (ppm)	4.1 ± 4.7	3.8 ± 11.3	1.5 ± 1.0	<.001
+Open in a separate window
+Note: Data are presented as mean ± SD or n (%).
+
+Abbreviations: BMI, body mass indexCR, cardiac rehabilitation, GED, General Educational Development; HbA1c, Hemoglobin A1C; HS, high school; LDL-C, low-density lipoprotein cholesterol; METs, metabolic equivalents; MOS SF-36, Medical Outcomes Study Short Form-36; PHQ-9, Patient Health Questionnaire-9; VO2peak, peak oxygen uptake.
+
+Categorical and continuous variables were tested using Pearson’s chi-squared test and Kruskal-Wallis Test, respectively.
+
+Table 1 also shows CR attendance by education category. On average, patients completed 23 sessions of CR with 66% (N=917) of patients completing an exit evaluation. Total number of sessions attended, and completion of an exit evaluation, differed by educational attainment with the <high school/GED group completing 20 sessions on average with 53% completing an exit evaluation. In comparison, the 4-year degree group completed 25 sessions on average with 75% completing an exit evaluation.
+
+Changes in clinical and psychosocial characteristics were examined within the 917 patients who had both an entrance and exit evaluation. All characteristics examined (Table 3) improved overall, with modest decreases in weight, BMI, and waist circumference and larger improvements in CRF (VO2peak, METSpeak), physical function, and depressive symptoms.
+
+Table 3.
+Least Squares Means and Odds Ratios of Post-Test Clinical Variables by Educational Attainment, Adjusted for Pre-Test Scores
+
+<HS/GED	HS	4-year degree+	p
+Weight, kg	85.4 (0.5)	84.6 (0.2)	84.2 (0.2)	.044
+BMI, kg/m2	29.2 (0.2)‡	28.9 (0.1)	28.7 (0.1)‡	.005
+Waist, in	40.4 (0.3)‡	40.0 (0.1)§	39.6 (0.1)‡§	.003
+VO2peak, ml/kg/min	22.0 (0.6)‡	23.5 (0.2)§	24.2 (0.2)‡§	<.001
+METS	6.8 (0.3)‡	7.3 (0.1)§	7.6 (0.1)‡§	.002
+Handgrip, kg	35.4 (0.7)	36.9 (0.2)	37.1 (0.2)	.074
+MOS SF-36	2.8 (1.3, 6.3)‡	1.4 (0.9, 2.3)	Ref.‡	.029
+PHQ-9	2.0 (1.2)	1.6 (1.1)	1.5 (1.1)	.135
+Open in a separate window
+*Significant difference between <HS/GED and HS
+‡Significant difference between <HS/GED and 4-year degree+
+§Significant difference between HS and 4-year-degree+
+Abbreviations: BMI, body mass index; GED, General Educational Development; HS, high school; METS, metabolic equivalents; MOS SF-36, Medical Outcomes Study Short Form-36; PHQ-9, Patient Health Questionnaire-9; VO2peak, peak oxygen uptake.
+
+Weight, BMI, waist, VO2, METS, and Handgrip were tested using ANCOVA. Results for these variables show least squares means and standard errors. The Tukey-Kramer adjustment was used for multiple comparisons. MOS SF-36 was tested using logistic regression. Results show the odds of having a MOS SF-36 score below 65 compared to individuals with a 4-year degree+, with a 95% confidence interval. PHQ-9 was tested using generalized linear modeling with a negative binomial distribution. Results for PHQ-9 show least squares means and standard errors. The Tukey-Kramer adjustment was used for multiple comparisons.
+
+Exit scores (controlling for entrance scores) represented as least square means and odd ratios by educational attainment can be seen in Table 3. Changes in all variables, except for weight, handgrip, and PHQ-9, were associated with educational attainment. Exit scores controlling for entrance score as well as other variables that could impact gains can be seen in Table 4. Even when controlling for these other variables (detailed in Table 4) educational attainment remained independently associated with changes in VO2peak, METSpeak, and handgrip strength.
+
+Table 4.
+Least Squares Means and Odds Ratios of Post-Test Clinical Variables by Educational Attainment, Adjusted for Baseline Scores, Age, Sex, Comorbidities, METS, Type 2 Diabetes, and Number of CR Sessions
+
+ 	<HS/GED	HS	4-year degree+	p
+Weight, kg	85.4 (0.5)	84.9 (0.3)	84.7 (0.3)	0.367
+BMI, kg/m2	29.3 (0.2)	29.0 (0.1)	28.9 (0.1)	0.123
+Waist, in	40.4 (0.3)	40.0 (0.1)	39.8 (0.2)	0.086
+VO2peak, ml/kg/min	20.3 (0.6)*‡	22.1 (0.3)*§	22.8 (0.3)‡§	<0.001
+METS	6.0 (0.3)*‡	6.7 (0.1)*§	7.0 (0.1)‡§	<0.001
+Handgrip, kg	34.3 (0.7)‡	36.0 (0.4)	36.2 (0.4)‡	0.029
+MOS SF-36	2.0 (0.8, 4.9)	1.1 (0.6, 1.9)	Ref.	0.320
+PHQ-9	2.2 (1.2)	1.8 (1.1)	1.6 (1.1)	0.185
+Open in a separate window
+*Significant difference between <HS/GED and HS
+‡Significant difference between <HS/GED and 4-year degree+
+§Significant difference between HS and 4-year-degree+
+Abbreviations: BMI, body mass index; GED, General Educational Development; HS, high school; METS, metabolic equivalents; MOS SF-36, Medical Outcomes Study Short Form-36; PHQ-9, Patient Health Questionnaire-9; VO2peak, peak oxygen uptake.
+
+Number of CR sessions was categorized into 4 levels: 0–9 sessions, 10–18 sessions, 19–27 sessions, and 28–36 sessions. METS was not included as a predictor in models predicting VO2 or METS.
+
+Weight, BMI, waist, VO2, METS, and Handgrip were tested using ANCOVA. Results for these variables show least squares means and standard errors. The Tukey-Kramer adjustment was used for multiple comparisons. MOS SF-36 was tested using logistic regression. Results show the odds of having a MOS SF-36 score below 65 compared to individuals with a 4-year degree+, with a 95% confidence interval. PHQ-9 was tested using generalized linear modeling with a negative binomial distribution. Results for PHQ-9 show least squares means and standard errors. The Tukey-Kramer adjustment was used for multiple comparisons.
+
+Go to:
+DISCUSSION
+Socioeconomic status is an important predictor of having CAD as well as worse outcomes after a cardiac event.31 Socioeconomic circumstances may impede a patient’s ability to change health-related behaviors after a cardiac event32 and accordingly SES is a significant predictor of behavior change following a cardiac event.13,33 Results from this study are consistent with previous findings that SES, educational attainment specifically, is associated with multiple elements of a patient’s clinical trajectory, from clinical characteristics at intake, to engagement in CR, to benefits attained during CR.
+
+At intake, most of the clinical characteristics examined varied by educational attainment. Those with lower educational attainment had higher BMIs, higher TG, lower HDL, lower levels of CRF, higher comorbidity scores, and were more likely to be current smokers. Those with lower educational attainment also had higher depression scores and lower physical function scores. Relative to patients with higher levels of education, individuals with less educational attainment have characteristics that will require additional clinical support. This is consistent with existing literature where generally those with lower-SES have a worse cardiovascular disease risk profile.10,16,34
+
+Patients with lower-educational attainment in this study also completed fewer CR sessions, and were less likely to complete CR. These results are consistent with previous studies showing an inverse relationship between attendance at CR and SES.19,20 There are several reasons why SES may be linked to poorer attendance at CR. Barriers to accessing CR are likely overrepresented in lower-SES patients. For example, travel time and transportation difficulties are common barriers to CR attendance35 which likely disproportionately affect those of lower-SES. For example, individuals with lower income are less likely to own personal vehicles36 and those with lower income or less educational attainment are more likely to experience issues accessing nonemergency medical transportation.37 Patient cost-share (i.e. co-pays) is also a powerful predictor of CR attendance,38 and reductions in co-pays have been shown to improve preventive health behaviors in those with lower educational attainment specifically.39
+
+Our results also showed that those who participated in CR showed improvement across a wide range of measures. Some of these improvements were not associated with educational attainment, such as depression measures. These data converge with meta-analytic research showing that quality of life improves broadly within CR.40 This is also similar to previous research where patients with pre-existing and new onset depression both benefited from attending CR.22 Thus, it seems likely that the psychosocial benefits of CR are widespread.
+
+Other benefits of CR did vary with educational attainment such as improvements in CRF and body composition. Lower-SES is also associated with other behaviors that could impede progress during CR. For example, individuals with a history of MI who are of lower-SES are more likely to smoke11,14 which could impede improvements in CRF.41 Also, lower-SES is associated with making fewer behavioral changes after MI13 which could translate into smaller gains during CR.
+
+Another important factor linking SES and health outcomes is health literacy (HL), which is the ability for a person to obtain, understand, and use health information to make proper healthcare decisions.42 Poorer HL is related to greater medical noncompliance and higher risk for CVD broadly.43–45 An integrative review of SES and HL found that SES (specifically educational attainment) was the most important determinate of HL and that HL moderated the relationship between SES and health-related outcomes such as use of preventive services and health status.46 Clinicians should be mindful of HL as a potential barrier to CR participation or to reaping all the benefits of attending CR.
+
+Cardiorespiratory fitness was the variable that had the strongest associations with educational attainment of those examined in this study. Baseline CRF was strongly correlated with education and changes in CRF were predicted by educational attainment, even when controlling for other variables. Correlations between educational attainment and change in VO2peak have been demonstrated previously.22 Exercise capacity is improved by participation in CR, but is also likely influenced by behavior outside of CR (i.e., amount of exercise done at home). Exercise done outside of CR could be a contributor to the SES differences seen in CRF improvement. When examining the relationship between SES and different domains of physical activity (e.g., leisure time versus occupational), the inverse relationship appears strongest when examining leisure time physical activity.47–49 Nationally-representative data in the U.S. highlight not only the stark disparity in leisure-time physical activity between college graduates and adults with less than a HS degree, but also the importance of age as a moderator: Disparities are greatest in adults aged ≥ 60 yr, with a 20% difference in probability of meeting national guidelines for physical activity between these educational groups.49 While educational attainment may not be directly impacting engagement in physical activity, it appears to be an important predictor of level of engagement. These data are important to consider as CR patients are older and will reap more benefits if their behaviors change outside of the boundaries of the CR program. Individuals with lower educational attainment appear to be less likely to do so.
+
+Given that patients with lower-SES are less likely to access and benefit from CR, programs should strive to improve engagement with these patients. While SES is a multi-faceted concept, several approaches could be beneficial. Automatic referral to CR can reduce disparities in access (Gravely-Witte ,2010).50 Co-pays reduce CR attendance38 and reduction/elimination of co-pays could benefit those of lower-SES disproportionately.39 Programs could also directly intervene on lower-SES CR participation. For example, providing incentives for completing CR sessions greatly improves attendance among Medicaid patients.51,52 Smoking, and the inability to quit following MI, is also overrepresented in lower-SES populations13,33 and interferes with CRF gains.41 Thus, better treatment for smoking in CR could also improve the benefits lower-SES patients gain from CR. Also, given the potential moderating relationship HL has on health outcomes for those of lower-SES46 attending to the HL of patients, and providing appropriate educational materials, could improve gains from CR.
+
+There are several limitations of the current work that deserve mention. Data were from a single site, with a racially homogenous sample. There was limited heterogeneity in number of sessions completed, limiting the ability to measure effects of number of sessions completed on outcomes. Follow-up data was not collected on those who did not complete the program so changes could not be compared to those who did not complete the program. Given that lower-SES patients are less likely to complete the program outcome data from the lower-SES patients is likely to be biased towards patients with better outcomes. Time between intake and exit assessments, while generally 3–4 mo, can vary by patient, which could influence changes in variables examined. Medication adherence and chronic pain could have affected outcomes and were not included in analyses. While stages of change variables differed by educational category, the potential moderating effect of stages of change on outcomes could not be examined due to these variables being more likely to be missing in the lower educational category. The reading level of educational materials offered could have been too high, which could have influenced outcomes, especially in the lower educational attainment group. Future research should examine how these variables affect engagement in CR, and benefits garnered during CR. Despite these limitations these analyses provide novel information on how patients of different educational attainment access, and benefit from, CR.

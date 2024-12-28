@@ -1,0 +1,12 @@
+Endoscopic harvesting device type and outcomes in patients undergoing coronary artery bypass surgery.
+
+1/OBJECTIVE: To evaluate angiographic and clinical outcomes associated with open and closed dissection tunnel endoscopic vein harvesting (EVH) devices.
+BACKGROUND: A previous PREVENT-IV (PRoject of Ex-vivo Vein graft ENgineering via Transfection IV) analysis reported that EVH for coronary artery bypass graft surgery was associated with worse outcomes than with traditional vein harvesting; however, outcomes by EVH device type were not available.
+
+2/METHODS: Using data from the PREVENT-IV trial, we compared 1549 patients from 75 surgical sites who underwent EVH with open (n = 390) or closed (n = 1159) harvest tunnel devices. Outcomes included the incidence of vein graft failure at 12 to 18 months and a composite of death, myocardial infarction, and 
+revascularization through 5 years.
+
+3/RESULTS: Among patients undergoing open and closed tunnel EVH, no difference in the per-patient incidence of vein graft failure (43.8% vs 47.1%; adjusted odds ratio, 0.91; 95% confidence interval, 0.53-1.55; P = 0.724) or per-graft incidence of vein graft failure (25.5% vs 25.9%; adjusted odds ratio, 0.96; 95% 
+confidence interval, 0.59-1.55; P = 0.847) was observed. At 5 years, no difference was observed in the primary composite clinical outcome between patients who underwent open and closed system EVH (21.5% vs 23.9%; adjusted hazard ratio, 0.85; 95% confidence interval, 0.66-1.10; P = 0.221).
+
+4/CONCLUSIONS: No differences in angiographic or clinical outcomes were observed among patients who underwent open versus closed tunnel endoscopic harvesting for coronary bypass surgery. These findings suggest that the risks associated with EVH that were reported in a previous PREVENT-IV analysis are not related to a specific EVH device.

@@ -1,0 +1,29 @@
+PURPOSE: Personal continuity between patient and physician is a core value of 
+primary care. Although previous studies suggest that personal continuity is 
+associated with fewer potentially inappropriate prescriptions, evidence on 
+continuity and prescribing in primary care is scarce. We aimed to determine the 
+association between personal continuity and potentially inappropriate 
+prescriptions, which encompasses potentially inappropriate medications (PIMs) 
+and potential prescribing omissions (PPOs), by family physicians among older 
+patients.
+METHODS: We conducted an observational cohort study using routine care data from 
+patients enlisted in 48 Dutch family practices from 2013 to 2018. All 25,854 
+patients aged 65 years and older having at least 5 contacts with their practice 
+in 6 years were included. We calculated personal continuity using 3 established 
+measures: the usual provider of care measure, the Bice-Boxerman Index, and the 
+Herfindahl Index. We used the Screening Tool of Older Person's Prescriptions 
+(STOPP) and the Screening Tool to Alert doctors to Right Treatment (START) 
+specific to the Netherlands version 2 criteria to calculate the prevalence of 
+potentially inappropriate prescriptions. To assess associations, we conducted 
+multilevel negative binomial regression analyses, with and without adjustment 
+for number of chronic conditions, age, and sex.
+RESULTS: The patients' mean (SD) values for the usual provider of care measure, 
+the Bice-Boxerman Continuity of Care Index, and the Herfindahl Index were 0.70 
+(0.19), 0.55 (0.24), and 0.59 (0.22), respectively. In our population, 72.2% and 
+74.3% of patients had at least 1 PIM and PPO, respectively; 30.9% and 34.2% had 
+at least 3 PIMs and PPOs, respectively. All 3 measures of personal continuity 
+were positively and significantly associated with fewer potentially 
+inappropriate prescriptions.
+CONCLUSIONS: A higher level of personal continuity is associated with more 
+appropriate prescribing. Increasing personal continuity may improve the quality 
+of prescriptions and reduce harmful consequences.

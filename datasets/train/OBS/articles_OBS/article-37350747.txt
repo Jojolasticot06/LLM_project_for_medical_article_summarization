@@ -1,0 +1,697 @@
+Introduction
+
+Cardiogenic shock (CS) in the setting of severe aortic stenosis (AS) carries a 
+poor prognosis. It leads to a vicious cycle of subendocardial ischaemia, reduced 
+preload and increased afterload, ultimately resulting in acute decompensation 
+and death.https://creativecommons.org/licenses/by-nc/4.0/
+Previous studies in AS patients with CS who 
+underwent successful balloon aortic valvuloplasty (BAV) reported a 
+30-day mortality of 33%–47%,https://creativecommons.org/licenses/by-nc/4.0/
+,https://creativecommons.org/licenses/by-nc/4.0/
+1-year mortality of 70%,https://creativecommons.org/licenses/by-nc/4.0/
+and 2-year mortality 
+of 90%.https://creativecommons.org/licenses/by-nc/4.0/
+Therefore, conservative therapy leads to poor outcomes in 
+these patients. Most patients in CS are denied surgical aortic valve replacement 
+because of increased peri-operative risk of morbidity and mortality. 
+Transcatheter aortic valve replacement (TAVR) has become an attractive 
+alternative because of the less invasive nature of this procedure.
+
+It is estimated that 1%–4% of the patients undergoing TAVR may 
+present with CS.https://creativecommons.org/licenses/by-nc/4.0/
+Because of the low prevalence, prior single and multi- 
+centre studies have been limited by a small sample size. An earlier study 
+from the Society of Thoracic Surgeons (STS)/American College of 
+Cardiology (ACC) Transcatheter Valve Therapy Registry (TVT-R-R) 
+reported the outcomes of TAVR in 2220 patients in CS from 2014 
+to 2017.https://creativecommons.org/licenses/by-nc/4.0/
+However, many of these patients underwent TAVR with older 
+generation valves, the primary endpoint was limited to 30-day outcomes, 
+and only patients >65 years were included. Meanwhile, TAVR 
+volumes continue to increase, operator volume and experience continue 
+to grow, and newer device platforms have been introduced.https://creativecommons.org/licenses/by-nc/4.0/
+The safety and efficacy of TAVR with new generation transcatheter heart 
+valves in patients with CS remains largely unknown. Accordingly, we 
+
+
+analysed the TVT-R-R data to report in-hospital, 30-day, and 1-year outcomes 
+of TAVR with balloon-expandable bioprosthesis in patients with 
+AS and CS in a contemporary real-world setting. We also report the predictors 
+of 1-year mortality in this population.
+
+Methods
+
+Study population
+
+Consecutive patients undergoing TAVR with contemporary 
+balloon-expandable transcatheter heart valves [SAPIEN 3 and SAPIEN 
+3 Ultra (Edwards Lifesciences, Irvine, CA, USA)] in the USA, between 
+17 June 2015 and 30 September 2022, were evaluated in the current 
+study. Patient eligibility for treatment with TAVR was determined by 
+each site using their local heart team and standard of care procedures. 
+All data were site-reported as per standards set by the STS/ACC TVT- 
+R-R. As a requirement by the Centers for Medicare & Medicaid 
+Services, the TVT-R-R includes all patients who undergo TAVR in the 
+USA. The data are frequently audited for accuracy and represent a real- 
+world population. Details of the TVT-R-R have been reported previously.
+https://creativecommons.org/licenses/by-nc/4.0/
+The study has been approved by a central institutional review board 
+(Advarra) and granted a waiver of informed consent by the Duke 
+University School of Medicine Institutional Review Board under the 
+Common Rule 45 CFR 46.3. The analyses were performed on data downloaded 
+by Edwards Lifesciences from the STS/ACC TVT-R-R. Since the 
+data sharing agreement between Edwards Lifesciences and the STS/ 
+ACC is restricted to valve manufactured by Edwards Lifesciences only, 
+this analysis was based only on the Edwards SAPIEN 3 and SAPIEN 
+Ultra valves as previously.https://creativecommons.org/licenses/by-nc/4.0/
+
+
+The primary group of interest included patients with CS who underwent 
+TAVR. CS was defined as the (i) coding of CS within 24 h of procedure 
+on the TVT-R form (n = 1922); and/or (ii) pre-procedural use of 
+inotropes (n = 3678) or mechanical circulatory support (MCS) devices 
+(intra-aortic balloon pump, n = 411; catheter-based assist device, 
+n = 364); and/or (iii) cardiac arrest within 24 h prior to TAVR (n = 371). 
+Detailed definitions of these categories are provided in the supplementary 
+data. There was overlap in these groups as the same patient could be included 
+in multiple categories, giving us a final study population of 5006 CS 
+patients. The control group comprised patients undergoing TAVR without 
+underlying CS. There were many patients who were labelled as ‘elective’ 
+and ‘CS’ on the TVT-R forms but had TAVR on the same day of 
+admission. These were assumed to be most likely mislabelled based on 
+intra-procedural inotropes or coding errors. Therefore, we performed 
+a sensitivity analysis after excluding the same day TAVR and ‘elective status’ 
+patients. This confirmed that this specific group was not as sick and 
+was probably mislabelled, as the mean STS score was in the intermediate 
+category at 4.9, mean left ventricular ejection fraction (LVEF) was in the 
+normal range (55%), and only 0.5% had moderate-severe mitral regurgitation 
+(MR) (see http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad387#supplementary-data
+). Some patients may 
+have been same day transfers from outside hospitals; however, those 
+numbers should be low and may not affect the overall results. Based on 
+this analysis, we excluded these patients from the CS group and included 
+them in the non-CS group. http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad387#supplementary-data
+present the results of the whole cohort of 9499 patients prior to exclusion. 
+The results are similar to the selected cohort but suggest a lower 
+risk CS population because of possible mislabelling of same day elective 
+TAVRs as CS.
+
+Procedural and clinical outcomes
+
+The primary outcome of interest was all-cause mortality at 1 year. 
+Procedural characteristics, major complications, and in-hospital outcomes 
+were reported. Implant success was defined as successful deployment of 
+a single TAVR device in the proper anatomical location. Technical success 
+(at exit from procedure room) was defined using the Valve Academic 
+Research Consortium (VARC)-3 criteria as freedom from mortality, 
+successful deployment of the device, and freedom from surgery or intervention 
+related to the device or to a major vascular or access-related or cardiac 
+structural complication.http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad387#supplementary-data
+Major adverse cardiac and cerebrovascular 
+events including all-cause mortality, cardiac death, stroke, aortic valve reintervention, 
+life-threatening bleeding, major vascular complication, new dialysis, 
+new onset atrial fibrillation, percutaneous coronary intervention (PCI), 
+permanent pacemaker (PPM), valve-related readmission, and any readmission 
+were assessed at 30 days and 1 year post-TAVR. New York Heart 
+Association (NYHA) functional class and quality of life (QoL) determined 
+by the Kansas City Cardiomyopathy Questionnaire overall summary score 
+(KCCQ OS) were also reported at 30 days and 1 year after TAVR. 
+Landmark analysis was performed using 30 days post-TAVR as a landmark 
+point.
+
+Statistical analysis
+
+Continuous variables were presented as mean (SD) or median [interquartile 
+range (IQR)] and were compared between groups using the two-sample 
+t-test or Wilcoxon rank sum test. Categorical variables were presented as 
+frequencies and percentages and were compared using the .2 or Fisher’s 
+exact test. The 30-day and 1-year adverse event rates were based on 
+Kaplan–Meier estimates, and all comparisons were made using the log-rank 
+test. Patients who were lost to follow-up or withdrew were censored at the 
+time of their last known alive status. A propensity score matching analysis 
+was performed to adjust for differences in baseline characteristics and potential 
+confounders that may lead to biased estimates of the CS vs. non-CS 
+group comparison. The propensity score was calculated by logistic regression 
+including the following baseline covariates: age, sex, body mass index, 
+access site, prior PCI, prior coronary artery bypass graft (CABG) surgery, 
+prior stroke, carotid stenosis, peripheral arterial disease (PAD), hypertension, 
+diabetes, chronic lung disease (CLD), immunocompromise status, porcelain 
+aorta, atrial fibrillation, creatinine level, haemoglobin level, estimated 
+glomerular filtration rate, aortic valve mean gradient, LVEF, MR, tricuspid 
+regurgitation (TR), NYHA functional class III/IV, 5-meter walk test, 
+KCCQ OS score, currently on dialysis, prior PPM placement, previous implantable 
+cardioverter-defibrillator (ICD) placement, aortic regurgitation 
+(AR), prior transient ischaemic attack (TIA) or stroke, endocarditis, use 
+of home oxygen, and STS score. Missing baseline data were imputed using 
+the Markov–Chain Monte Carlo method prior to modelling. Missing values 
+were imputed five times, and the mean propensity score within an individual 
+was used for final matching. http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad387#supplementary-data
+presents 
+the percentage of patients with missing baseline characteristics values. 
+Based on their propensity scores, each CS patient was matched to a 
+non-CS patient 1:1 to create two balanced cohorts, using a greedy matching 
+strategy with a calliper of width equal to 0.02 of the SD of the logit of the 
+propensity score. Residual differences after propensity matching were assessed 
+using absolute standardized differences of each covariate and displayed 
+using a Love plot. Sensitivity analyses were performed to 
+investigate the robustness of the results. The outcomes were assessed in 
+an additional propensity score-matched cohort of patients labelled CS 
+but were admitted on the same day as TAVR. This sensitivity analysis was 
+performed without imputation. These patients were subsequently excluded 
+from the ‘CS’ group and were incorporated into the ‘non-CS’ group 
+as explained above. Univariate analysis was performed to determine the 
+baseline characteristics that were predictive of 30-day and 1-year all-cause 
+mortality. A multivariable Cox proportional hazard model with a stepwise 
+selection method of significant predictors using entry and exit criterion of 
+P = 0.1 was used to identify independent predictors of all-cause mortality 
+at 30 days and 1 year in CS patients. Adjusted hazard ratios (HRs) were calculated 
+for four pre-specified sub-groups using a multivariable Cox proportional 
+hazard analysis adjusting for all the covariates used in the propensity 
+score. Paired t-test was performed to analyse the change in KCCQ score 
+and LVEF from baseline to 1 year in patients who had complete data at 
+all the time points. All statistical analyses were performed using SAS, version 
+9.4 (SAS Institute), and statistical significance was set at a two-sided P < 0.05 
+without multiplicity adjustment.
+
+
+Table 1 Unadjusted baseline characteristics for patients with and without cardiogenic shock
+Baseline characteristicsaCardiogenic shockNo cardiogenic shockP-valuen = 5006n = 304 499Age (years)75.56 ± 11.026 (5001)78.99 ± 8.604 (304 422)<0.0001Male sex64.52% (3229/5005)58.46% (177 998/304 460)<0.0001RaceWhite88.7% (4442)92.6% (281 831)<0.0001Black/African American4.9% (245)3.8% (11 494)<0.0001Other3.2% (160)1.8% (5362)<0.0001BMI (kg/m2)29.08 ± 14.937 (4991)29.72 ± 12.330 (303 863)0.003STS score10.76 ± 10.362 (4663)4.88 ± 3.993 (297 192)<0.0001NYHA class III/IV91.33% (4527/4957)67.79% (204 767/302 081)<0.0001Hypertension85.48% (4279/5006)90.22% (274 622/304 403)<0.0001Diabetes43.66% (2185/5005)38.22% (116 299/304 299)<0.0001Currently on dialysis10.97% (549/5004)3.66% (11 121/304 218)<0.0001Chronic lung disease38.67% (1926/4980)31.91% (96 831/303 443)<0.0001Current/recent smoker (<1 year)14.36% (601/4186)7.72% (19 390/251 078)<0.0001Use of home oxygen10.17% (509/5006)7.19% (21 891/304 279)<0.0001Immunocompromised8.0% (386/4824)6.67% (19 457/291 511)0.0003Hostile chest5.87% (294/5006)4.37% (13 311/304 359)<0.0001Porcelain aorta3.08% (154/5005)1.82% (5545/304 271)<0.0001Atrial fibrillation/flutter49.77% (2490/5003)35.71% (108 649/304 291)<0.0001Prior stroke12.07% (604/5005)10.60% (32 261/304 359)0.0008PAD26.03% (1303/5005)23.02% (70 057/304 310)<0.0001Carotid stenosis18.94% (775/4091)19.97% (51 437/257 596)0.1Prior PCI31.9% (1598/5003)31.6% (94 653/299 709)0.59Prior CABG18.68% (935/5005)16.66% (50 700/304 317)0.0001Left main stenosis =50%10.03% (469/4675)6.67% (19 688/295 089)<0.0001Prior MI36.89% (1845/5001)19.04% (57 895/304 130)<0.0001< 30 days48.59% (894/1840)11.89% (6859/57 699)<0.0001= 30 days51.41% (946/1840)88.11% (50 840/57 699)<0.0001Permanent pacemaker12.63% (632/5004)11.28% (34 314/304 283)0.003Previous ICD7.83% (392/5006)2.8% (8519/304 187)<0.0001Baseline albumin3.28 ± 0.60 (4416)3.83 ± 0.50 (253 259)<0.0001Baseline creatinine1.71 ± 1.501 (4984)1.30 ± 1.105 (303 320)<0.0001Baseline haemoglobin10.88 ± 2.071 (4987)12.36 ± 2.002 (303 405)<0.0001Endocarditis2.46% (123/5002)0.62% (1876/304 291)<0.0001Prior BAV7.81% (390/4995)2.88% (8763/304 227)<0.0001Valve in valve12.01% (601/5006)3.33% (10 145/304 499)<0.0001Concomitant PCI1.52% (76/5006)0.33% (995/304 499)<0.0001Echocardiographic characteristicsLVEF (%)39.79 ± 17.641 (4975)56.11 ± 12.321 (302 624)<0.0001Aortic valve area (cm2)0.695 ± 0.3189 (4639)0.745 ± 0.2489 (296 402)<0.0001
+
+
+AV mean gradient (mmHg)40.77 ± 17.377 (4734)42.04 ± 14.036 (299 696)<0.0001Aortic regurgitation (=moderate)28.61% (1418/4956)16.15% (48 697/301 600)<0.0001Bicuspid aortic valve8.93% (442/4950)5.20% (15 748/302 596)<0.0001Mitral regurgitation (=moderate)45.21% (1954/4322)24.90% (60 024/241 025)<0.0001Tricuspid regurgitation (=moderate)32.39% (1606/4958)16.77% (50 571/301 604)<0.0001aValues are mean ± SD (n) or % (n). 
+AV, aortic valve; BAV, balloon aortic valvuloplasty; BMI, body mass index; STS, Society of Thoracic Surgeons; CABG, coronary artery bypass graft; ICD, implantable 
+cardioverter-defibrillator; PCI, percutaneous coronary intervention; LVEF, left ventricular ejection fraction; MI, myocardial infarction; MR, mitral regurgitation; NYHA, New York 
+Heart Association; PAD, peripheral arterial disease.
+
+Results
+
+Baseline characteristics
+
+Of the 309 505 patients who underwent TAVR with balloon-expandable 
+SAPIEN 3 (S3) and SAPIEN 3 Ultra (S3U) valves during the study period, 
+1.6% (n = 5006) presented with CS prior to the TAVR. Of the 5006 patients 
+with CS, 12% (n = 601) underwent valve in valve (ViV), and 4405 
+patients underwent TAVR in native aortic valve. Two-thirds of the patients 
+received S3 valve (n = 3343), and one-third had S3U (n = 1663) 
+valves. The median (IQR) number of days from date of admission to 
+the TAVR procedure was 5 (2–9) days. Complete follow-up for outcomes 
+was available in 92.37% patients at 30 days and 76.35% patients 
+at 1 year in the CS group. In the non-CS group, complete follow-up 
+was available in 93.03% patients at 30 days and 76.86% patients at 1 
+year. Patients in CS group were younger, less likely females, and had a significantly 
+higher mean STS score compared to those not in CS. http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad387#supplementary-data
+shows the differences in baseline demographics, co-morbidities, and 
+echocardiographic characteristics between the two groups. Overall, 
+the CS group was much sicker with a higher prevalence of diabetes, atrial 
+fibrillation, prior stroke, prior CABG, PAD, acute coronary syndrome 
+(ACS), end-stage renal disease (ESRD), CLD, prior BAV, left main stenosis 
+> 50%, or obstructive coronaryartery disease.
+
+CS patients had a lower LVEF (39% vs. 56%), lower mean aortic gradient 
+(40 mmHg vs. 42 mmHg), smaller effective aortic valve area (0.65 
+vs. 0.71 cm2), higher frequency of bicuspid aortic valve (9% vs. 5%), 
+=moderate AR (28% vs. 16%), and = moderate MR (45% vs. 25%). 
+Transfemoral access (93% vs. 95%) was less common with higher use 
+of transapical and axillary access in CS patients. Following propensity 
+matching using the variables listed in the methods section, the sample 
+size was reduced to 4952 patients in both groups. After propensity 
+matching, there were no or minimal differences between the baseline 
+characteristics as shown in http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad387#supplementary-data
+and http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad387#supplementary-data
+.
+
+In-hospital and 30-day outcomes
+
+http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad387#supplementary-data
+presents the procedural and in-hospital differences between the 
+matched CS and non-CS groups. In-hospital mortality was significantly 
+higher in patients with CS compared with no CS [9.9% vs. 2.7%; odds 
+ratio (OR), 3.64, 95% confidence interval (CI) 3.02–4.39; P < 0.0001]. 
+Cardiac death (5.9% vs. 1.5%), stroke (2.9% vs. 1.5%), new dialysis 
+(3.5% vs. 1.1%), TIA, major vascular complication, life-threatening 
+bleeding, new onset atrial fibrillation, and PCI were also significantly 
+higher in the CS group compared to the non-CS group. There was 
+no difference in aortic valve re-intervention, PPM rate, or peri- 
+procedural myocardial infarction (MI). Conversion to open cardiac surgery 
+(0.73% vs. 0.38%) and coronary compression or obstruction rate 
+(0.40% vs. 0.18%) were higher in CS patients compared with non-CS, 
+whereas annular dissection, aortic dissection, device embolization, 
+and perforation rates were similar. Patients in the CS group had a higher 
+frequency of general anaesthesia use and longer procedure times. 
+Implant success was high and numerically similar (97.9% vs. 98.9%) in 
+both groups. Technical success as defined by VARC-3 criteria was 
+achieved in 94.5% of the patients presenting with CS compared to 
+96.7% in the non-CS group (P < 0.0001). Median length of stay 
+post-TAVR was more than double (5 vs. 2 days), and discharge to 
+home was significantly lower (59% vs. 79%) in the CS group compared 
+to the non-CS group. The rate of 30-day mortality (12.9% vs. 4.9%) and 
+stroke (3.2% vs. 1.9%) was significantly higher in the CS group compared 
+to the non-CS group (P < 0.0001). http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad387#supplementary-data
+shows the differences 
+between other outcomes. Overall, the trends were similar to the in- 
+hospital outcomes.
+
+One-year outcomes of transcatheter 
+aortic valve replacement in cardiogenic 
+shock
+
+http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad387#supplementary-data
+shows the 1-year outcomes in the matched group. Adjusted 
+1-year mortality was significantly higher at 29.7% in the CS group compared 
+to 22.6% in the non-CS group (HR, 1.57; 95% CI 1.43–1.72; P < 
+0.001) (http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad387#supplementary-data
+). The rates of stroke, life-threatening bleeding, major 
+vascular complications, new dialysis, atrial fibrillation, and PCI were 
+higher in the CS patients. The rates of PPM (9.3% vs. 9.1%), aortic valve 
+re-intervention (0.83% vs. 0.54%), valve-related readmissions, and overall 
+readmissions (39% vs. 38%) were similar in the CS and non-CS 
+groups. In a landmark analysis after 30 days (http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad387#supplementary-data
+), all-cause mortality 
+was similar between the CS and non-CS groups (19.3% vs. 18.5%, HR, 
+1.07; 95% CI 0.95–1.21; P = 0.26). http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad387#supplementary-data
+provides the results of significant univariate predictors of all-cause mortality 
+at 1 year.
+
+http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad387#supplementary-data
+shows the 1-year mortality Kaplan–Meier curves, and http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad387#supplementary-data
+shows the adjusted HRs for pre- 
+
+
+Table 2 Adjusted baseline characteristics for patients with and without cardiogenic shock
+Baseline characteristicsaCardiogenic shockNo cardiogenic shockP-valuen = 4952n = 4952Age (years)75.62 ± 10.913 (4948)75.80 ± 11.153 (4951)0.4Male sex64.61% (3199/4951)64.17% (3177/4951)0.64RaceWhite88.8% (4395/4952)88.3% (4373/4952)0.49Black/African American5.0% (245/4952)7.1% (351/4952)<0.0001Other3.1% (157/4952)2.2% (110/4952)0.004BMI (kg/m2)29.09 ± 14.995 (4937)28.93 ± 11.255 (4934)0.54STS score10.25 ± 9.095 (4609)9.97 ± 10.517 (4789)0.16NYHA class III/IV91.23% (4474/4904)90.96% (4475/4920)0.63Hypertension85.60% (4239/4952)86.13% (4265/4952)0.45Diabetes43.71% (2164/4951)45.03% (2229/4950)0.19Currently on dialysis10.85% (537/4950)11.40% (564/4948)0.38Chronic lung disease38.75% (1909/4926)39.58% (1951/4929)0.4Current/recent smoker (<1 year)14.38% (595/4138)11.56% (488/4220)0.0001Use of home oxygen10.18% (504/4952)10.12% (501/4951)0.92Immunocompromised7.97% (380/4770)8.54% (408/4870)0.31Hostile chest5.84% (289/4952)6.12% (303/4951)0.55Porcelain aorta3.09% (153/4951)3.32% (164/4944)0.52Atrial fibrillation/flutter49.71% (2460/4949)50.16% (2482/4948)0.65Prior stroke12.0% (594/4951)12.24% (606/4951)0.71PAD26.10% (1292/4951)26.95% (1334/4950)0.34Carotid stenosis18.96% (768/4051)19.0% (778/4094)0.96Previous PCI32.1% (1586/4949)32.5% (1609/4947)0.61Prior CABG18.68% (925/4951)18.80% (930/4947)0.88Left main stenosis =50%9.99% (462/4625)8.84% (424/4798)0.055Prior MI36.89% (1825/4947)28.67% (1418/4946)<0.0001< 30 days48.30% (879/1820)25.14% (356/1416)<0.0001= 30 days51.70% (941/1820)74.86% (1060/1416)<0.0001Permanent pacemaker12.71% (629/4950)12.66% (626/4946)0.94Previous ICD7.88% (390/4952)8.56% (424/4951)0.21Baseline albumin3.28 ± 0.60 (4364)3.53 ± 0.59 (4225)<0.0001Baseline creatinine1.70 ± 1.504 (4930)1.80 ± 1.704 (4929)0.002Baseline haemoglobin10.90 ± 2.067 (4933)10.87 ± 2.068 (4932)0.48Endocarditis2.38% (118/4948)2.22% (110/4946)0.59Prior BAV7.67% (379/4942)7.18% (355/4947)0.35Valve in valve11.85% (587/4952)7.43% (368/4952)<0.0001Concomitant PCI1.51% (75/4952)0.67% (33/4952)<0.0001Echocardiographic characteristicsLVEF (%)39.94 ± 17.619 (4922)39.90 ± 16.282 (4929)0.91Aortic valve area (cm2)0.696 ± 0.3198 (4593)0.705 ± 0.2741 (4754)0.12Continued 
+
+
+specified subgroups within the CS patients. Patients with = moderate 
+MR prior to TAVR had a significantly increased risk of 1-year mortality 
+compared to those with = moderate MR (34.0% vs. 27.6%; P < 0.001) 
+(http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad387#supplementary-data
+). After adjustment, =moderate MR was not a significant predictor 
+of 1-year mortality (adjusted HR 1.07; 95% CI 0.93–1.22; P = 
+0.34). When the CS population was stratified by LVEF, we noted the 
+lowest all-cause mortality in patients with LVEF >40%. There was no 
+difference in all-cause mortality between patients with LVEF <20% 
+and 20%–40% (P = 0.96) (http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad387#supplementary-data
+). After multivariate adjustment, 
+LVEF prior to TAVR was not associated with 1-year mortality. 
+Patients who underwent TAVR for native vs. ViV showed a trend towards 
+higher 1-year mortality (HR 1.2; 95% CI, 0.98–1.44; P = 0.072), 
+which became significant after multivariate adjustment (adjusted HR 
+1.26; 95% CI 1.03–1.56; P = 0.028) (http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad387#supplementary-data
+). http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad387#supplementary-data
+shows the 
+1-year outcomes of the CS subgroups. Combined use of MCS and inotropes 
+was associated with the highest mortality followed by MCS only 
+group. Those on inotropes alone, had cardiac arrest within 24 h or 
+were entered as CS on the TVT-R form had similar 1-year mortality. 
+On stratifying the CS patients by median number of days from admission 
+to TAVR, we found that early TAVR (= 5 days) was associated with 
+lower 30-day (11.6% vs. 14.3%, P = 0.02) and 1-year mortality (26.5% 
+vs. 33.3%, P < 0.0001) compared to those who had TAVR after 5 
+days from admission. After adjusting for covariates, early TAVR showed 
+a trend towards lower 1-year mortality but was not significant (HR, 
+0.91; 95% CI 0.81–1.03; P = 0.149).
+
+Table 2 Continued 
+Baseline characteristicsaCardiogenic shockNo cardiogenic shockP-valuen = 4952n = 4952AV mean gradient (mmHg)40.75 ± 17.390 (4687)40.73 ± 15.991 (4816)0.95Aortic regurgitation (=moderate)28.41% (1393/4903)27.78% (1363/4906)0.49Bicuspid aortic valve8.96% (439/4898)6.24% (307/4918)<0.0001Mitral regurgitation (=moderate)45.1% (1927/4277)48.2% (2015/4176)0.003Tricuspid regurgitation (=moderate)32.15% (1577/4905)32.08% (1578/4919)0.94aValues are mean ± SD (n) or % (n). 
+AV, aortic valve; BAV, balloon aortic valvuloplasty; BMI, body mass index; STS, Society of Thoracic Surgeons; CABG, coronary artery bypass graft; ICD, implantable 
+cardioverter-defibrillator; PCI, percutaneous coronary intervention; LVEF, left ventricular ejection fraction; MI, myocardial infarction; MR, mitral regurgitation; NYHA, New York 
+Heart Association; PAD, peripheral arterial disease.
+
+Multivariate predictors of 30-day and 
+1-year mortality
+
+http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad387#supplementary-data
+shows the multivariate predictors of 30-day mortality after 
+TAVR in CS. Age, lower mean gradient, lower albumin levels, lower 
+KCCQ scores, ESRD, PPM rate, PAD, and use of MCS prior to 
+TAVR were independently associated with increased 30-day mortality. http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad387#supplementary-data
+shows the multivariable predictors of all-cause mortality at 1 
+year in patients with CS undergoing TAVR. Age (adjusted HR, 1.02; 95% 
+CI 1.02–1.03), ESRD (adjusted HR, 2.07; 95% CI 1.69–2.53), immunocompromised 
+status (adjusted HR, 1.33; 95% CI 1.05–1.69), previous 
+ICD (adjusted HR, 1.37; 95% CI 1.07–1.77), and PAD (adjusted HR, 
+1.25; 95% CI 1.06–1.47) were independently associated with increased 
+mortality at 1-year in CS patients, whereas higher aortic mean gradient 
+(adjusted HR, 0.98; 95% CI 0.98–0.99), higher albumin (adjusted HR, 
+0.66; 95% CI 0.57–0.75), and higher haemoglobin (adjusted HR, 0.91; 
+95% CI 0.87–0.95) were associated with lower 1-year mortality.
+
+Echocardiographic and functional 
+outcomes
+
+At discharge, mean gradient (10 mmHg) and rate of moderate or severe 
+paravalvular leak (PVL) (0.9%) were similar in CS and non-CS 
+groups (see http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad387#supplementary-data
+). At 30-day follow-up, 
+mean LVEF improved from baseline in CS patients (39% to 46%), and 
+mean gradients and rate of moderate/severe PVL (1.4%) stayed stable. 
+Patients who survived to 1 year noted further improvement in LVEF to 
+52% with similar mean gradients and PVL rates (0.93%). In a paired analysis 
+of patients who had echocardiographic data at baseline, 30 days, 
+and 1 year, change in LVEF was similar amongst CS (. mean LVEF 
+6.5%) and non-CS groups (. mean LVEF 6.7%, P = 0.54) at 30 days. 
+At 1 year, CS patients (. mean LVEF 11.9%) were noted to have a higher 
+improved EF compared to non-CS patients (. mean LVEF 10.0%, 
+P = 0.002). There was a significant improvement in NYHA class from 
+baseline to 30 days and 1 year (see http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad387#supplementary-data
+) with 88% of patients in NYHA class I/II at 1 year. Similarly, 
+KCCQ OS scores improved significantly from 28 at baseline to 80 at 
+1 year (see http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad387#supplementary-data
+).
+
+Discussion
+
+This large real-world observational study demonstrates that TAVR with 
+contemporary balloon expandable S3 and S3U valves is a safe and effective 
+treatment option for patients presenting with CS. The rate of 
+in-hospital and 30-day mortality after TAVR in patients with CS was 
+9.9% and 12.9%, which is considerably lower than the reported mortality 
+of 35%–70% in conservatively managed patients.http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad387#supplementary-data
+,http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad387#supplementary-data
+The 30-day 
+landmark analysis showed no difference in mortality between the 
+propensity-matched CS and non-CS groups suggesting a good long- 
+term prognosis if patients survive the initial post-procedural stay. 
+Additionally, the majority of survivors were doing well at 1 year with 
+significant improvements in NYHA functional class and QoL assessed 
+by KCCQ OS scores. The rate of major and minor complications 
+post-TAVR was low, and procedural success was high despite the presence 
+of CS. Lastly, we found that older age, lower mean gradient, lower 
+albumin, ESRD, immunocompromised state, prior ICD, and PAD were 
+
+
+Table 3 Adjusted procedural and in-hospital outcomes for patients with and without cardiogenic shock
+OutcomesaCardiogenic shockNo cardiogenic shockOdds ratioP-valuen = 4952n = 4952(95% CI)**
+Procedural outcomesAccessNA0.09Transfemoral93.27% (4617/4950)92.43% (4576/4951)
+Non-transfemoral6.72% (333/4950)7.57% (375/4951)
+Access typeNA0.05Percutaneous89.74% (4323/4817)89.19% (4289/4809)
+Cutdown8.28% (399/4817)8.44% (406/4809)
+Mini thoracotomy1.12% (54/4817)1.37% (66/4809)
+Mini sternotomy0.44% (21/4817)0.79% (38/4809)
+Procedure indicationNA<0.0001Aortic stenosis87.79% (4343/4947)92.42% (4571/4946)
+Aortic regurgitation4.63% (229/4947)1.76% (87/4946)
+Mixed AS/AR2.69% (133/4947)2.55% (126/4946)
+Failed bioprosthetic surgical valves4.89% (242/4947)3.28% (162/4946)
+Valve sizeNA0.0820 mm3.41% (169/4951)2.83% (140/4947)
+23 mm29.41% (1456/4951)27.77% (1374/4947)
+26 mm40.29% (1995/4951)41.44% (2050/4947)
+29 mm26.88% (1331/4951)27.96% (1383/4947)
+General anaesthesia58.79% (2907/4945)49.11% (2427/4942)1.20 [1.15, 1.24]<0.0001Procedure time, min (IQR)83.00 [59.00, 120.00]76.00 [57.00, 104.00]NA<0.0001Contrast volume (ml, median)75.00 [49.00, 119.50]76.00 [50.00, 115.00]NA0.19Implant success97.86% (4844/4950)98.89% (4892/4947)0.99 [0.98, 0.99]<0.0001Technical successb94.5% (4673/4945)96.7% (4773/4935)0.98 [0.97, 0.99]<0.0001Procedure complicationsConversion to open heart surgery0.73% (36/4951)0.38% (19/4944)1.89 [1.09, 3.29]0.02Coronary compression or obstruction0.40% (20/4952)0.18% (9/4952)2.22 [1.01, 4.88]0.04Annular dissection0.32% (16/4952)0.14% (7/4952)2.29 [0.94, 5.55]0.06Aortic dissection0.24% (12/4952)0.26% (13/4952)0.92 [0.42, 2.02]0.84Device embolization0.18% (9/4952)0.08% (4/4952)2.25 [0.69, 7.30]0.17Perforation0.99% (49/4952)0.75% (37/4952)1.32 [0.87, 2.03]0.19Index hospitalizationLength of stay5.00 [2.00, 9.00]2.00 [1.00, 5.00]NA<0.0001ICU stay (h)44.8 [20.15, 102.15]24.0 [0.90, 46.0]NA<0.0001Discharge locationHome59.55% (2949/4952)79.28% (3926/4952)NA<0.0001Extended care/rehab19.1% (946/4952)11.09% (549/4952)NA<0.0001Nursing home8.32% (412/4952)5.51% (273/4952)NA<0.0001Hospice0.77% (38/4952)0.30% (15/4952)NA0.002Continued 
+
+
+independent predictors of higher 1-year mortality in CS patients undergoing 
+TAVR (http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad387#supplementary-data
+).
+
+Table 3 Continued 
+OutcomesaCardiogenic shockNo cardiogenic shockOdds ratioP-valuen = 4952n = 4952(95% CI)**
+In-hospitalAll-cause mortality9.94% (492/4952)2.73% (135/4952)3.64 [3.02, 4.39]<0.0001Cardiac death5.92% (293/4952)1.49% (74/4952)3.96 [3.08, 5.09]<0.0001Stroke2.89% (143/4952)1.45% (72/4952)1.99 [1.50, 2.63]<0.0001All-cause mortality or stroke12.22% (605/4952)3.96% (196/4952)3.09 [2.64, 3.61]<0.0001Aortic valve re-intervention0.24% (12/4952)0.14% (7/4952 (0.141.71 [0.68, 4.35]0.25New dialysis3.53% (175/4952)1.11% (55/4952)3.18 [2.36, 4.30]<0.0001TIA0.26% (13/4952)0.08% (4/4952)3.25 [1.06, 9.96]0.03Major vascular complication2.32% (115/4952)1.31% (65/4952)1.77 [1.31, 2.39]0.0002Life-threatening bleeding2.46% (122/4952)0.65% (32/4952)3.81 [2.59, 5.62]<0.0001Atrial fibrillation (new onset)3.84% (157/4084)1.59% (67/4224)2.42 [1.83, 3.22]<0.0001PCI1.51% (75/4952)0.67% (33/4952)2.27 [1.51, 3.42]<0.0001Permanent pacemaker7.19% (356/4952)7.03% (348/4952)1.02 [0.89, 1.18]0.75Peri-procedural MI0.20% (10/4952)0.16% (8/4952)1.25 [0.49, 3.16]0.64aValues are mean ± SD (n), % (n), or median [IQR]; odds ratio for procedural and in-hospital outcomes. 
+bTechnical success defined using VARC-3 criteria. 
+AS, aortic stenosis; AR, aortic regurgitation; ICU, intensive care unit; IQR, interquartile range; TIA, transient ischaemic attack; PCI, percutaneous coronary intervention; MI, myocardial 
+infarction.
+
+This is the largest study to date exploring the outcomes of TAVR in 
+patients presenting with CS in the contemporary era of third- and 
+fourth-generation transcatheter heart valves. A previous analysis 
+from TVT-R-Rhttp://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad387#supplementary-data
+reported the outcomes of TAVR in CS patients. 
+However, that study included patients from 2014 to 2017 when older 
+generation TAVR valves were being used, had a smaller sample size, 
+high-risk patients were used as the comparison group, and the primary 
+analysis was restricted to 30-day outcomes. In addition, TAVR numbers 
+were growing, but it was not ubiquitous as low-risk indication was not 
+approved. Our study expands this previous analysis by using more contemporary 
+data (2015–22), a larger sample size of 5006 patients, only 
+including the latest third- and fourth-generation balloon-expandable 
+valve platforms, and using 1-year mortality as the primary outcome 
+of interest. We used propensity score matching to identify if ‘shock’ itself 
+was associated with worse outcomes. Propensity matching helped 
+identify a high-risk group comparable in terms of co-morbidities and 
+demographics thus providing a reasonable comparison. We found 
+that the 30-day and 1-year mortality in the current analysis was lower 
+than previously reported, which may reflect a better selection of patients 
+undergoing TAVR, better procedural outcomes with the latest 
+generation SAPIEN valves, and increasing operator experience and volume. 
+Another key finding of the current study is that there was no difference 
+in mortality between the CS and matched non-CS groups after 
+the 30-day landmark analysis, compared to the previous analysishttp://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad387#supplementary-data
+that 
+showed higher mortality after 30 days. Another study reported plateauing 
+of mortality after 90 days from TAVR; however, it was limited 
+by a small sample size of 180 patients.http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad387#supplementary-data
+Thus, our landmark analysis 
+suggests that mortality after 30 days is secondary to the patients’ co- 
+morbidities and risk factors rather than CS prior to TAVR. It is critical 
+to identify strategies to manage the shock component post-TAVR to 
+achieve better long-term outcomes.
+
+CS patients undergoing TAVR had significantly higher in-hospital, 
+30-day, and 1-year mortality compared to the matched non-CS patients. 
+One-year mortality in the present study was 29%, which is lower 
+than the previously reported mortality rate of 35%–50% after TAVR in 
+CS.http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad387#supplementary-data
+,http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad387#supplementary-data
+In comparison, mortality was 50% in AS patients who were not 
+surgical candidates and were managed medically,http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad387#supplementary-data
+70% in patients who 
+underwent BAV only for CS,http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad387#supplementary-data
+50% in CS patients presenting with acute 
+MI,http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad387#supplementary-data
+and 35%–55% in CS patients with severe MR undergoing transcatheter 
+edge-to-edge repair.http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad387#supplementary-data
+These studies provide a reasonable indirect 
+comparison suggesting that TAVR in CS may have better 
+outcomes than these groups. If AS is the primary cause of obstructive 
+CS resulting in low cardiac output and systemic perfusion, treating the 
+cause can lead to rapid improvement in the clinical status of the patient. 
+These patients are usually too sick for surgical intervention, so TAVR 
+may be the only feasible option. As TAVR has become safer and 
+more streamlined, earlier and faster intervention to relive obstructive 
+shock in these patients may continue to improve outcomes.
+
+In this cohort of CS patients undergoing TAVR, we found multiple 
+risk factors that were independently associated with all-cause mortality 
+at 1 year. None of the procedural or shock-related factors were predictive 
+of long-term mortality consistent with the 30-day landmark analysis. 
+For example MI within 30 days of TAVR was not associated with 
+30-day or 1-year mortality in patients with CS undergoing TAVR. ESRD 
+had the highest hazards of all the risk factors with a two-fold increase in 
+risk of 1-year mortality. This is consistent with previous studies that reported 
+a 1-year mortality of 37% in ESRD patients without CS.http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad387#supplementary-data
+Thus, 
+careful discussions and shared decision-making should happen in ESRD 
+
+
+patients presenting with CS. Significant MR, significant TR, and LVEF 
+were associated with 1-year mortality in the univariate analysis but became 
+non-significant after multivariate adjustment. This signifies that 
+the acute outcomes may be affected by other valvular disorders, but co- 
+morbidities tend to determine the long-term outcomes.http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad387#supplementary-data
+There was 
+no difference in 1-year mortality between those with LVEF <20% or 
+20%–40%, suggesting that very low EF should not be the only variable 
+used in offering or denying TAVR in the setting of CS. In patients who 
+survived, EF improved significantly during follow-up, and valvular regurgitation 
+lesions improved. Patients undergoing ViV had a significantly 
+lower 1-year mortality compared to those undergoing TAVR for native 
+AS. Urgent and emergent TAVR can be performed with minimal or no 
+contrast use because of the presence of a previous bioprosthetic 
+valve, thus offering a quick bailout compared to patients with native 
+AS. The median time from date of admission to TAVR in CS patients 
+in the current study was 5 days reflecting some delay in intervention in 
+these sick patients. To investigate this further, we examined if early 
+TAVR would be associated with better outcomes in CS. TAVR within 
+the first 5 days of admission was significantly associated with lower 
+1-year mortality in univariate analysis; however, there was only a 
+trend towards lower mortality after adjusting for co-morbidities 
+and risk factors. Thus, it could be hypothesized that early work-up, 
+consultation with the heart valve team, and intervention may benefit 
+patients presenting in CS.
+
+Table 4 Adjusted 30-day and 1-year outcomes for patients with and without cardiogenic shock
+OutcomesaCardiogenic shockNo cardiogenic shockHazard ratioP-valuen = 4952n = 4952(95% CI)
+30-day outcomesAll-cause mortality12.87% (608)4.93% (232)2.73 [2.35–3.18]<0.0001Cardiac death6.90% (323)2.05% (97)3.43 [2.73–4.30]<0.0001Stroke3.26% (154)1.85% (89)1.76 [1.36–2.29]<0.0001All-cause mortality/stroke15.24% (725)6.34% (301)2.51 [2.19–2.87]<0.0001Aortic valve reintervention0.36% (16)0.16% (8)2.06 [0.88–4.81]0.09Life-threatening bleeding2.89% (127)1.14% (52)2.56 [1.86–3.54]<0.0001Major vascular complication2.49% (120)1.50% (73)1.66 [1.24–2.22]0.0005New dialysis3.80% (178)1.40% (66)2.77 [2.09–3.67]<0.0001New onset atrial fibrillation4.06% (159)1.73% (71)2.36 [1.79–3.12]<0.0001PCI1.68% (81)0.74% (36)2.28 [1.54–3.37]<0.0001Permanent pacemaker8.05% (381)8.07% (389)0.98 [0.85–1.13]0.83Valve-related readmission0.72% (31)0.50% (23)1.42 [0.83–2.43]0.20Any readmission11.9% (507)11.03% (499)1.08 [0.95–1.22]0.251-year outcomesAll-cause mortality29.70% (1126)22.64% (800)1.57 [1.43–1.72]<0.0001Cardiac death11.34% (446)5.78% (205)2.35 [1.99–2.77]<0.0001Stroke4.29% (178)3.11% (124)1.50 [1.20–1.89]0.0004All-cause mortality and stroke31.85% (1238)24.16% (871)1.58 [1.45–1.72]<0.0001Aortic valve reintervention0.83% (28)0.54% (18)1.71 [0.95–3.09]0.07Life-threatening bleeding4.03% (157)1.73% (69)2.44 [1.84–3.24]<0.0001Major vascular complication2.66% (124)1.84% (82)1.54 [1.17–2.04]0.002New dialysis4.39% (193)2.18% (87)2.32 [1.80–2.99]<0.0001New onset atrial fibrillation4.60% (172)2.14% (82)2.24 [1.72–2.92]<0.0001PCI2.36% (98)2.11% (72)1.45 [1.07–1.96]0.02Permanent pacemaker9.26% (411)9.08% (418)1.00 [0.87–1.15]0.99Valve-related readmission2.89% (84)2.32% (74)1.28 [0.94–1.76]0.12Any re-admission39.31% (1205)37.78% (1290)1.07 [0.99–1.16]0.09aValues are mean ± SD (n) or % (n). 
+PCI, percutaneous coronary intervention.
+
+
+Among all the CS patients who underwent TAVR, approximately 
+60% were discharged home, 20% went to an inpatient rehabilitation 
+unit, and 8% were discharged to a nursing home. This is reassuring 
+and reflects the need to include TAVR early in the treatment algorithm 
+for the management of severe AS and CS. Once the obstructive component 
+from AS is relieved, the majority of patients recover and 
+rehabilitate almost completely to be discharged home. Patients who 
+survived and followed at 1 year noted a significant improvement in their 
+NYHA functional class with 88% reporting class I or II status. In addition, 
+there was a marked improvement in their QoL as assessed by KCCQ 
+scores which increased by 40 points from baseline to 30 days and 50 
+points from baseline to 1 year. This implies that not only majority of 
+
+495224002233 2111 1468 
+495228452668 2533 1766 
+Number at risk:
+Cardiogenic ShockNo Cardiogenic ShockP < 0.0001HR: 1.57 [95% CI: 1.43, 1.72] 29.7% 
+22.6% 
+Death (%) 
+0 
+5 
+10 
+15 
+20 
+25 
+30 
+Time in Months 
+0 369 12 
+Cardiogenic Shock 
+No Cardiogenic ShockFigure 1 One-year all-cause mortality in propensity-matched cardiogenic shock and non-cardiogenic shock groups.
+4,952 3,7944,952 4,1822,400 2,2332,1111,468 
+2,845 2,6682,533 1,766 
+Log Rank P < 0.0001 
+No Cardiogenic ShockLog Rank P = 0.2640 
+HR: 2.73 [95% CI: 2.35, 3.18] 
+HR: 1.07 [95% CI: 0.95, 1.21] 
+12.8% 
+4.9% 
+19.3% 
+18.5%
+Death (%) 
+0 
+10 
+20 
+30 
+Time in Months 
+0 30d3 6 9 12 
+Cardiogenic ShockNo Cardiogenic ShockCardiogenic ShockNumber at RiskFigure 2 Thirty-day landmark analysis of propensity-matched cardiogenic shock and non-cardiogenic shock groups through 1 year CS.
+the patients were alive at 1 year, but they were doing quite well based 
+on NYHA functional class and QoL KCCQ OS score improvements. 
+Cardiac deaths accounted for 50% of all deaths at 30 days and 38% 
+at 1 year signifying that majority of these patients die from non-cardiac 
+comorbidities.
+
+This study has important implications in the current era. With the 
+growth of TAVR worldwide, increasing operator experience, better devices, 
+and extension of indication into low-risk groups, it is important to 
+remember that TAVR was originally evaluated and approved in patients 
+who were at prohibitive risk of surgery in the PARTNER trial.http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad387#supplementary-data
+TAVR led 
+to a 20-point absolute reduction in all-cause mortality with a number 
+needed to treat of 5 in that cohort. The rate of 1-year mortality in the 
+current study is similar to the TAVR arm in the original trial; however, 
+CS patients who are usually much sicker were not included in that trial. 
+All TAVR trials to-date have excluded CS, and it is extremely difficult to 
+conduct a randomized trial in AS patients with CS, so observational studies 
+such as the current one can help guide treatment recommendations. 
+The current European and US guidelines appropriately mention that 
+TAVR should be offered to patients only if their expected survival 
+from other co-morbidities is >1 year. Considering that 70% of the patients 
+who present with CS prior to TAVR were alive at 1 year, CS by 
+itself should not be considered a prohibitive factor. Other co-morbidities 
+and risk factors predictive of higher mortality in this group can help select 
+the appropriate patients for intervention. BAV has been evaluated extensively 
+in the past for CS patients to facilitate recovery or to serve as a 
+bridge to definite therapy in the future. However, studies have shown 
+that the short-term and long-term mortality post-successful valvuloplasty 
+remains very high.http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad387#supplementary-data
+Our study shows that TAVR in CS patients was 
+found to be safe with a low risk of major peri-procedural complications, 
+highly effective with a close to 98% successful implant rate and low PVL 
+rate, and was associated with >90% in-hospital survival in a traditionally 
+morbid condition. As the peri-procedural risk of TAVR and BAV is similar, 
+it seems that definitive therapy in terms of TAVR is more beneficial 
+than BAV alone. Overall, this study confirms the safety and efficacy of 
+TAVR in patients with CS and suggests that TAVR with new generation 
+balloon-expandable valves may be offered to most patients who are anatomically 
+suitable candidates, as long as active medical conditions such as 
+sepsis, pneumonia, haemorrhage, cancer, or other issues preclude them 
+from recovery or deriving any benefit.
+
+Limitations
+
+There are several limitations of the study. This is an observational study 
+with the possibility of selection bias as the sickest patients may not be 
+
+5632662472391682,1861,0369589056372,2261,1001,029970667Number at risk:
+Group 1Group 2Group 3Overall Log-Rank P-Value =0.0817Group 1 vs Group 2 =0.9639Group 1 vs Group 3 =0.1757Group 2 vs Group 3 =0.032430.6%
+31.5%
+28.2%
+Death (%)
+01020304050Time in Months036912Group 1 (LVEF < 20)
+Group 2 (LVEF 20-40)
+Group 3 (LVEF > 40)
+44052129197518621291601288274265190Number at risk:
+Group1Group230.7%
+24.3%
+Death (%)
+01020304050Time in Months036912Group1 (Native Cases)
+Group2 (VIV Cases)
+BC3,2861,6051,4931,406994610319303285165387148135132101696332306292214Number at risk:
+Group1Group2Group3Group4Overall Log-Rank P-Value < 0.0001Group 1 vs 4 Log-Rank P = 0.95Group 2 vs 4 Log-Rank P = 0.02Group 3 vs 4 Log-Rank P < 0.00128.6%
+33.4%
+38.9%
+28.2%
+Death (%)
+01020304050Time in Months036912)ylnOtroppuSlacinahceM(2puorG)ylnOeportonI(1puorGGroup3 (Inotrope and Mechanical Support)Group4 (Cardiogenic Shockand/or Cardiac Arrest)
+D19549458728145562369116410891039732Number at risk:
+Group1Group2P < 0.00134.0%
+27.6%
+Death (%)
+01020304050Time in Months036912Group1 (Mod or SevMR)
+Group2 (None/Trace/Mild MR)
+AP =0.072Figure 3 One-year all-cause mortality for pre-specified subgroups in the cardiogenic shock group. (A) =Moderate mitral regurgitation vs. = mild/ 
+trace/none mitral regurgitation. (B) Left ventricular ejection fraction <20% vs. 20%–40% vs. > 40%. (C) Native cases vs. valve-in-valve. (D) 
+Pre-procedure inotropes only, vs. mechanical circulatory support only vs. mechanical circulatory support and inotropes vs. coding of CS on TVT-R 
+form/cardiac arrest.
+01230123Alive Death 
+ABFigure 4 Multivariate predictors of all-cause mortality in patients with cardiogenic shock. (A) Multivariate predictors of all-cause mortality at 30 days in 
+patients with cardiogenic shock. (B) Multivariate predictors of all-cause mortality at 1 year in patients with cardiogenic shock. AV, aortic valve; BL, baseline; 
+HGB, haemoglobin; VIV, valve-in-valve; ICD, implantable cardioverter-defibrillator; MI, myocardial infarction.
+offered TAVR due to futility. All the data are site-reported. This may 
+lead to data entry and coding errors as the TVT-R-R definition of CS 
+may not apply to all cases. The mortality rate of those that were entered 
+as CS on TVT-R forms was similar to the CS patients on inotropes 
+alone, suggesting that coding of CS by the sites was accurate 
+in identifying patients with CS. As there is lack of haemodynamic data 
+or lactate levels, we included the best possible measures in the definition 
+of CS. The recently published Society for Cardiovascular 
+Angiography and Interventions shock stage classification defines classic 
+CS (stage C) as a patient who manifests with hypoperfusion and who 
+requires one intervention (pharmacological or mechanical) beyond volume 
+resuscitation. These patients typically present with relative hypotension 
+(but hypotension is not required).http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad387#supplementary-data
+Based on this, use of 
+positive inotropes or MCS device prior to TAVR would classify patients 
+as CS and were included the CS definition. Furthermore, we excluded 
+same-day elective TAVR procedures who may have been inadvertently 
+labelled as CS as explained in the ‘Methods’ section (see http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad387#supplementary-data
+). PCI was performed in 30% of the CS patients 
+who presented with MI within 30 days of TAVR as per the operator 
+discretion. As the registry did not collect data on completeness of revascularization, 
+its effect on outcomes cannot be determined. This 
+study only included balloon-expandable valves, so the outcomes cannot 
+be extrapolated to self-expanding valves. The follow-up is based 
+on the TVT-R-R only as Medicare linkage is not available currently. 
+Complete 1-year follow-up was available in 76% patients, which is 
+similar to the previously published TVT-R-R-based studies.http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad387#supplementary-data
+,http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad387#supplementary-data
+,http://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad387#supplementary-data
+Although there was no significant difference in the missingness of 
+data between the CS and non-CS groups, we cannot be certain that 
+this did not affect the overall results. All patients were censored at 
+the time of last follow-up. Lastly, multiple testing may have increased 
+the risk of type I error.
+
+Conclusions
+
+This large observational real-world study demonstrates that TAVR 
+can be performed safely and successfully in patients with CS with current 
+generation balloon expandable S3 and S3U valves. Despite the 
+high mortality associated with CS, > 90% of the patients survived 
+the initial hospitalization, and the majority of these patients were alive 
+at 1 year with a significant improvement in their QoL and functional 
+status. Patients who survived the first 30 days after TAVR had similar 
+mortality rates to those who were not in CS. TAVR should be considered 
+as a definitive treatment in most patients in CS if they are anatomically 
+suitable candidates and do not have prohibitive 
+co-morbidities that would curtail long-term survival. Future efforts 
+should be focused on timing and peri-TAVR management of shock 
+to further improve outcomes.

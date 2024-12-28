@@ -1,0 +1,56 @@
+Outcomes 12 Months After Temperature-Controlled Radiofrequency Device Treatment 
+of the Nasal Valve for Patients With Nasal Airway Obstruction.
+
+1/IMPORTANCE: Nasal valve collapse is a primary cause of nasal airway obstruction 
+(NAO). Patients with NAO and nasal valve collapse experience a variety of 
+symptoms that lower their quality of life, such as nasal congestion, headache, 
+sleep disturbance, daytime sleepiness, and snoring.
+OBJECTIVE: To determine if active treatment of the nasal valve with a 
+temperature-controlled radiofrequency (TCRF) device, previously demonstrated 
+superior to a sham procedure at 3 months, was safe and associated with sustained 
+improvements in symptoms of NAO through 12 months.
+2/DESIGN, SETTING, AND PARTICIPANTS: In a prospective, multicenter, 
+single-blinded, randomized clinical trial, patients in 16 centers in the US with 
+index procedures between August and December 2020 were assigned to TCRF device 
+treatment of the nasal valve or a sham control procedure (no RF energy). 
+Patients had a baseline Nasal Obstruction Symptom Evaluation (NOSE) Scale score 
+of 55 or greater with nasal valve collapse as the primary or substantial 
+contributor to NAO. After primary end point evaluation at 3 months, eligible 
+patients in the sham control arm crossed over to active treatment. Data analysis 
+was performed between April and May 2022.
+INTERVENTIONS: Patients were treated bilaterally with the TCRF device at 4 or 
+fewer nonoverlapping areas on the nasal mucosa at the junction of the upper and 
+lower lateral cartilage on the lateral nasal wall.
+MAIN OUTCOMES AND MEASURES: The primary end point measure was responder rate, 
+defined as 20% or greater reduction in NOSE Scale score or 1 or greater 
+reduction in NOSE Scale clinical severity category.
+3/RESULTS: A total of 108 patients received active treatment (77 as index active 
+treatment, 31 after crossover). The mean (SD) age of patients was 48.5 (12.3) 
+years; 66 (61.1%) were women. The combined group of patients receiving active 
+treatment had a mean baseline NOSE Scale score of 76.3 (95% CI, 73.6-79.1). At 
+12 months (n = 88), the responder rate was 89.8% (95% CI, 81.7%-94.5%). The NOSE 
+Scale score improved from baseline (mean change, -44.9 [95% CI, -52.1 to 
+-37.7]). No device/procedure-related serious adverse events were reported.
+4/CONCLUSIONS AND RELEVANCE: In this follow-up of a cohort from a randomized 
+clinical trial, the minimally invasive TCRF device, previously demonstrated to 
+be superior to a sham procedure, was safe and associated with improvement in 
+symptoms of NAO through 12 months postprocedure.
+TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT04549545.
+
+DOI: 10.1001/jamaoto.2022.2293
+PMCID: PMC9437830
+PMID: 36048465 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Han 
+reported receiving personal fees from Aerin Medical (research consultant) during 
+the conduct of the study; and personal fees (research consultant) from 
+Medtronic, Intersect ENT, Genentech, Sanofi Genzyme, AstraZeneca, and 
+GlaxoSmithKline outside the submitted work. Dr Silvers reported receiving 
+personal fees (consultant) from Aerin Medical and Intersect ENT outside the 
+submitted work. Dr Yen reported receiving research funding from Aerin Medical 
+during the conduct of the study; and personal fees from OptiNose US, Stryker 
+ENT, Regeneron, Sanofi Genzyme, Genentech, Oyster Point Pharma, Neurent Medical; 
+stock options from Cyrano Therapeutics and Sound Health; and research funding 
+from GlaxoSmithKline, OptiNose US, Gossamer Bio, Septal Solutions, Stryker ENT, 
+Lyra Therapeutics, Neurent Medical, AstraZeneca, and Sound Health outside the 
+submitted work. No other disclosures were reported.

@@ -1,0 +1,33 @@
+Effectiveness of the spirometry-based motivational intervention to quit smoking: 
+RESET randomised trial.
+
+1/BACKGROUND: The effectiveness of providing feedback on spirometry results for 
+smoking cessation remains inconclusive according to the current evidence.
+OBJECTIVES: To assess the effectiveness of a motivational intervention based on 
+spirometry results in achieving prolonged smoking abstinence (12 months 
+post-intervention).
+DESIGN AND SETTING: A randomised, controlled, observer-blinded, multicentre 
+clinical trial was conducted (from January 2012 to December 2015) in 20 primary 
+healthcare centres in the Tarragona province, Spain.
+
+2/METHODS: Participants, active smokers aged 35-70 without known respiratory 
+disease, were recruited from primary healthcare centres by family doctors and 
+nurses. They were randomly assigned to either the intervention group (IG = 308) 
+or the control group (CG = 306). Both groups received brief smoking cessation 
+counselling. Additionally, the IG underwent spirometry and received detailed 
+information about the results, including lung age. The primary outcome was 
+prolonged abstinence, defined as lasting at least 12 months and validated 
+through cotinine measurement in urine.
+
+3/RESULTS: The prolonged abstinence rate was 7.8% in the IG, compared to 2.6% in 
+the CG (p = 0.004). At 12 months, in the multivariate analysis, the intervention 
+was identified as an independent factor for smoking cessation (OR 2.8; 95%CI 1.2 
+to 7.7), a trend maintained throughout the follow-up (HR 2.74; 95%CI 1.13 to 
+6.62). Moreover, according to the Prochaska and DiClemente model, the 
+preparation or action phase to quit was also associated with smoking cessation 
+(HR 2.55, 95%CI 1.07 to 6.09).
+
+4/CONCLUSION: A primary care-delivered intervention involving brief counselling 
+and detailed spirometry information proves effective in increasing abstinence 
+rates among active smokers without known respiratory disease. Additionally, 
+smoking cessation is also influenced by the individual's stage of change.

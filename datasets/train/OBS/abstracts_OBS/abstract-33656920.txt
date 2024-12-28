@@ -1,0 +1,33 @@
+BACKGROUND: Human exposure to intensively farmed livestock is a potential risk 
+for transmission of antibiotic-resistant bacteria (ARB) but few studies have 
+assessed the relative role of animal vs. environmental sources of ARB in 
+low-resource community settings.
+OBJECTIVES: We conducted an observational study to compare ARB colonization and 
+antibiotic-resistant gene prevalence and abundance in humans with high or low 
+exposure to poultry in rural households, commercial poultry farms, and urban 
+markets in Bangladesh.
+METHODS: Extended-spectrum β-lactamase (ESBL)-producing and carbapenem-resistant 
+E. coli were quantified in feces from adults with high or low poultry exposure 
+(n = 100, respectively), poultry (n = 200), drinking water (n = 120), and 
+wastewater (n = 120) from 40 rural households, 40 poultry farms, and 40 urban 
+markets.
+RESULTS: ESBL-producing E. coli (ESBL-EC) prevalence was 67.5% (95% CI: 61.0, 
+74.0) in samples from adults, 68.0% (95% CI: 61.5, 74.5) in samples from 
+poultry, and 92.5% (95% CI: 87.7, 97.3) in wastewater samples. 
+Carbapenem-resistant E. coli prevalence was high in market wastewaters [30% (95% 
+CI: 15.0, 45.0)] but low in humans (1%) and poultry (1%). Human, poultry, and 
+wastewater isolates shared common resistance genes: blaCTX-M-1, qnr, and blaTEM. 
+Human colonization was not significantly associated with exposure to poultry or 
+setting (rural, farm, or market). Ninety-five percent of commercial poultry 
+farms routinely administered antibiotics. Susceptibility tests were 
+significantly different in household vs. farm and market poultry isolates for 
+four of seven antibiotic classes. In human isolates, there were no differences 
+except aminoglycoside resistance (16.4% high vs. 4.4% low exposure, p = 0.02). 
+Urban market wastewaters and poultry samples had significantly higher 
+concentrations of ESBL-EC (p < 0.001) and blaCTX-M-1 (p < 0.001) compared with 
+samples from farms and rural households.
+DISCUSSION: ESBL-EC colonization was high in humans but not significantly 
+associated with exposure to poultry. Bidirectional transmission of antibiotic 
+resistance is likely between humans, poultry, and the environment in these 
+community settings, underlining the importance of One Health mitigation 
+strategies.

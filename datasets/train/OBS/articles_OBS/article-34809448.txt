@@ -1,0 +1,885 @@
+Among patients with heart failure (HF), more than 
+half have HF with preserved rather than reduced 
+ejection fraction (HFpEF; HFrEF).1 Despite the 
+high prevalence, mortality, and economic burden of 
+HFpEF, treatments for this disorder have been limited.
+2 Hypertension is a well-established risk factor for 
+
+HFpEF, and recent data suggest that increased central 
+blood pressure and large vessel stiffness influence 
+ventricular-arterial coupling, and are integral to the 
+pathophysiology of HFpEF.3,4 Greater arterial stiffness 
+
+increases left ventricular (LV) pulsatile afterload and 
+induces LV hypertrophy and diastolic dysfunction, both 
+hallmarks of cardiac remodeling in HFpEF.5 Stiffening 
+of the large elastic arteries is associated with increased 
+risk of systolic hypertension and HF as well as coronary 
+artery disease, stroke, and atrial fibrillation.6 Despite 
+this, there is currently no approved treatment to prevent 
+aortic stiffness. Carotid-femoral pulse wave velocity 
+(PWV), which is the gold standard measure of aortic 
+stiffness, approximately doubles between the ages of 
+30 and 70 years in humans.7 Given the rapidly growing 
+elderly population,8 there is a great unmet clinical 
+need to determine the molecular mechanisms leading 
+to increased arterial stiffness. 
+
+MGP (matrix Gla protein) is a vitamin K-dependent 
+extracellular matrix protein that inhibits vascular calcification. 
+Mice that lack MGP develop spontaneous arterial 
+calcification at an early age.9,10 Human polymorphisms in 
+the MGP gene have been associated with both the presence 
+and progression of coronary artery calcification11 
+and with incident myocardial infarction,12 although the 
+results of these association studies have not always been 
+replicated.13,14 The biological activity of MGP depends on 
+.-glutamylcarboxylase, an enzyme that converts inactive, 
+ucMGP (uncarboxylated MGP) to active, cMGP (carboxylated 
+MGP).15 In addition, MGP contains phosphorylated 
+serine residues that may also regulate its activity.15 Vitamin 
+K serves as an essential cofactor for MGP carboxylation, 
+and cMGP is the active form of the protein that 
+confers protection against vascular calcification.16 Many 
+studies have shown an important association between 
+increased ucMGP levels and cardiovascular disease, 
+chronic kidney disease, and mortality.17,18 
+
+Higher levels of ucMGP have also been associated 
+with increased vascular stiffness in select patient samples.
+19,20 Arterial stiffness reflects the reduced ability of 
+an artery to expand and contract in response to changes 
+in blood pressure. Arterial stiffness increases with 
+advancing age and is associated with a higher incidence 
+of hypertension, adverse myocardial remodeling with diastolic 
+dysfunction, and HFpEF.21 Although higher levels 
+of ucMGP are associated with arterial stiffness, a causal 
+link between ucMGP and vascular compliance remains 
+to be determined and the relationship of ucMGP levels 
+with new-onset hypertension and HFpEF is unknown. 
+
+In this study, we examined the association of plasma 
+ucMGP levels with arterial stiffness in a large communitybased 
+sample. In the context of the known close association 
+between arterial stiffness and HF risk, we also 
+examined the association between ucMGP with adverse 
+LV remodeling and the development of hypertension and 
+HFpEF. We also studied mice with heterozygous deletion 
+of the Mgp gene to determine effects on the closely 
+related trait of aortic pulse wave velocity. Taken together, 
+our human and mouse studies sought to implicate an 
+important role of MGP in increased arterial stiffness as a 
+precursor to HFpEF. 
+
+MATERIALS AND METHODS 
+
+The data supporting the study findings will be made available 
+on reasonable request. FHS data are made publicly available 
+and can be accessed through the National Institutes of Health 
+database of genotypes and phenotypes (https://www.ncbi.nlm. 
+nih.gov/gap/). Please see the Major Resources Table in the 
+Supplemental Material. 
+
+Study Sample 
+
+We studied participants in the Framingham Heart Study, a 
+prospective longitudinal community-based observational 
+cohort study. Participants who attended the following baseline 
+examinations were included: Offspring cohort exam 7 (1998– 
+2001, n=3539) and Third Generation exam 1 (2002–2005, 
+n=4095).22,23 Individuals with prior HF (n=51), end-stage renal 
+disease (estimated glomerular filtration rate <30 mL/minute 
+
+per 1.73 m2, n=25), prevalent atrial fibrillation (n=140), or missing 
+biomarker data (n=152) were excluded. No participants 
+were taking warfarin, which could alter MGP status. In addition, 
+individuals missing information concerning key clinical covariates 
+in primary analyses (n=200) were excluded, leaving 7066 
+individuals for analysis. For each outcome of interest, we further 
+excluded individuals who were missing ascertainment of baseline 
+disease status or the outcome (Table S4). The study was 
+approved by the appropriate institutional review boards, and all 
+participants provided written informed consent. 
+
+Clinical, Biomarker, and Imaging Assessment 
+
+Participants underwent a comprehensive medical history, 
+anthropometric assessment, and physical examination. Blood 
+pressure was measured in a seated position after at least 5 
+minutes of rest, and hypertension was defined as a systolic 
+blood pressure of at least 140 mmHg, diastolic blood pressure 
+of at least 90 mmHg, or current use of antihypertensive 
+medication. Plasma samples were obtained and immediately 
+processed and stored at -80 °C until assayed. Total ucMGP 
+was assayed using a modified sandwich ELISA approach, multiplexed 
+on a Luminex xMAP platform (Sigma-Aldrich).24 The 
+assay had a detection range of 119 to 9110 pg/mL, with interassay 
+and intra-assay coefficients of variation of 17.8% and 
+10.8%, respectively. Participants underwent evaluation of vascular 
+function using applanation tonometry and assessment of 
+brachial artery flow-mediated vasodilation, as well as standard 
+transthoracic echocardiography at the time of baseline (Third 
+Generation) or subsequent examination (Offspring cohort exam 
+8, 2005–2008) as previously described.25 A subset of 3339 
+individuals underwent multidetector computed tomography 
+with evaluation of coronary, thoracic aortic, and abdominal aortic 
+calcium measurements.26 
+
+Genome-Wide Genotyping and Imputation 
+
+Genome-wide genotyping was performed using the Affymetrix 
+500K mapping arrays and 50K supplemental Human Gene 
+Focused arrays (Affymetrix, Inc, Santa Clara, CA) and the 
+Illumina Human Exome BeadChip v.1.0 (Exome Chip; Illumina, 
+Inc, San Diego, CA). Imputation was performed using the 1000 
+Genomes Project Reference Panel using MACH.27,28 Results 
+were filtered for imputation quality ratio <0.8 and minor allele 
+frequency <0.01, and a genomic locus was defined using linkage 
+disequilibrium r2<0.1. We determined if top SNPs had in 
+silico associations with expression quantitative trait loci and relevant 
+clinical phenotypes.29 
+
+Clinical Outcome Ascertainment 
+
+We followed participants for longitudinal changes in blood 
+pressure and incident hypertension between the baseline and 
+follow-up examinations (Offspring exam 8, 2005–2008; Third 
+Generation exam 2, 2008–2011). Changes in systolic blood 
+pressure, diastolic blood pressure, and pulse pressure were 
+defined as the change between the baseline and follow-up 
+examinations. Participants were also followed every 2 years for 
+medical updates. Medical records were reviewed, and incident 
+HF outcomes were adjudicated by a 3-physician panel. Medical 
+records were also reviewed for assessment of LV function at or 
+around the time of the first HF event. Each incident HF event 
+
+was categorized as HFpEF (LVEF=50%), HFrEF (LVEF<50%), 
+or unclassified (no LV function assessment available at or 
+around the time of HF event).30 
+
+Statistical Analysis of Framingham Cohort Data 
+
+Baseline clinical characteristics were summarized for each of 
+the 2 cohorts. ucMGP concentrations were natural log-transformed 
+due to a right-skewed distribution. Clinical correlates of 
+ucMGP were examined using stepwise linear regression, forcing 
+age and sex into the model, and using P=0.10 for entry 
+and P=0.05 for retention in the model. We used linear regression 
+to examine the association between the ucMGP level and 
+measures of cardiovascular function, including arterial stiffness, 
+endothelial function, as well as cardiac structure and function. 
+Analyses were first adjusted for age and sex and then additionally 
+adjusted for systolic blood pressure, antihypertensive drug 
+treatment, diabetes, body mass index, smoking status, total and 
+high-density lipoprotein cholesterol, and prevalent myocardial 
+infarction. Vascular and echocardiographic strain analyses 
+were also adjusted for heart rate. PWV was transformed as the 
+negative inverse due to skewness (-1000/PWV) as previously 
+described.25 Computed tomography-based analyses examined 
+continuous calcium scores after adding 1 unit and log-transformation. 
+In cross-sectional analyses, we adjusted for multiple 
+hypothesis testing using a Bonferroni-corrected threshold of 
+P<0.01 (5 primary traits: coronary artery calcium, PWV, left 
+atrial diameter, LV mass index). 
+
+We examined the association between the level of ucMGP 
+and changes in blood pressure and incident hypertension at 
+baseline and follow-up examinations using linear and logistic 
+regression, respectively. For continuous blood pressure analyses, 
+we imputed blood pressure for participants taking antihypertensive 
+medications by adding 5 mmHg to the diastolic and 10 
+mmHg to the systolic blood pressure, as previously described.31 
+Models were first adjusted for age and sex and further adjusted 
+for baseline blood pressure, body mass index, diabetes, smoking, 
+total and high-density lipoprotein cholesterol, and prevalent 
+myocardial infarction. Multivariable Cox regression models were 
+used to examine the association between ucMGP level and incident 
+HFpEF or HFrEF. Models accounted for multiple competing 
+risks (death, other subtype of HF, and unclassified HF). We 
+tested the proportional hazards assumption and found it was not 
+violated. We also performed sex-stratified analyses and tested 
+for ucMGP*sex interactions. All analyses were conducted using 
+SAS version 9.4 software (SAS Institute). 
+
+A genome-wide association study of MGP concentrations 
+was performed using an additive genetic model in a 
+linear mixed effects model (“LMEKIN” function, Kinship 
+Package, R). We defined cis variants within 1 Mb of the MGP 
+gene. The threshold for genome-wide significance was set 
+at P<5×10-8 with suggestive associations at P<1×10-6 . We 
+performed Mendelian Randomization testing using 2 cis-
+SNP variants (P<10-5, LD r2<0.1) as instrumental variables 
+to examine whether MGP was causal for arterial stiffness as 
+ascertained by PWV.32 
+
+Mouse Echocardiography 
+
+All experiments involving mice were approved by the Partners 
+Subcommittee on Research Animal Care (Protocol No. 
+2008N000169). C57Bl/6 wild-type and MGP+/- heterozygous 
+
+mice were used in this study.9,33 Heterozygous mice were chosen 
+for this study, since MGP-/- homozygous mice invariably 
+succumb to severe aortic calcification with aortic rupture at 
+˜6 weeks of age.9 Mice were anesthetized with continuous 
+flow ˜1.5% isoflurane gas and placed in a supine position 
+for imaging. Mice were subsequently prepared for imaging 
+by connecting ECG electrodes to limbs and using a chemical 
+hair remover (Nair, Carter-Horner, Mississauga, ON, Canada) 
+on the skin over the area to be imaged.34 Mouse echocardiography 
+was performed using an ultrasound biomicroscope 
+(Vevo770, VisualSonics, Toronto, ON, Canada).35 Imaging of 
+the abdominal aorta was conducted using the RMV 704 scanner 
+probe with a central frequency of 40 MHz, a focal length 
+of 6 mm, and a field of view of 10 mm×10 mm, as previously 
+described.35 Briefly, using the M-mode setting, the velocity of 
+blood flow in the center of the aortic vessel was measured at 
+the proximal and distal ends of the field of view. The distances 
+between the foot of the flow waveform and the R-wave of the 
+ECG (arrival times) and the distance between the 2 points of 
+measurement in the aorta were determined post-acquisition 
+using the Vevo770 software and averaged over 5 to 10 cardiac 
+cycles. PWV was calculated by dividing the distance between 
+the proximal and distal locations (in millimeters) by the difference 
+in the proximal and distal arrival times of the waveforms 
+(in milliseconds), as previously described.35,36 
+
+Mouse Cardiac Magnetic Resonance 
+
+C57Bl/6 wild-type and MGP+/- heterozygote mice were anesthetized 
+with continuous flow ˜2% isoflurane gas in a chamber 
+and then transferred to a face mask and placed in a headfirst 
+prone position for MRI scanning. Mice were subsequently prepared 
+for imaging by connecting ECG electrodes to limbs, placing 
+a body temperature probe, and placing a respiratory pillow 
+under their abdomen. Mouse cardiac magnetic resonance was 
+performed on a small bore 4.7T scanner (Biospec 47/40 USR, 
+Bruker, Billerica, MA). As previously described,37,38 2D time 
+resolved phase contrast imaging (98×98 µm,2 1 mm slice thickness, 
+repetition time/echo time=5.3 ms/1.6 ms, 5 1 ms trigger 
+delays with interleaving for view sharing temporal resolution of 
+1 ms, 4 averages) of the descending aorta was conducted at 
+2 single perpendicular slices 1 cm apart in encoding for the 
+through-plane flow at VENC=170 cm/s. PWV was calculated 
+from slice separation (1 cm) divided by the time difference of 
+the upslope from the velocity time curve using the multi-point 
+transit time method39 of the pulse traveling from one slice to 
+the other. Conventional myocardial balanced steady-state free 
+precession imaging (repetition time=8 ms, echo time=2.5 ms, 
+128×128 µm,2 1 mm slice thickness, 20 phases)40 was performed 
+to measure cardiac function. Reference myocardial T1 
+mapping (single echo nonselective inversion recovery gradient 
+echo, repetition time=3008 ms, echo time=2.4 ms, TI=150, 
+300, 500, 900, 1500, and 3000 ms) was performed to yield 
+native T1 values. 
+
+Aortic Immunofluorescence and Histology 
+
+Aortas were fixed in formalin (10%) for 24 hours before paraffinization 
+and sectioning (6-µm). Staining with Verhoeff-
+Van Gieson and Masson’s Trichrome (Thermo Scientific, MI) 
+were performed for assessment of elastin integrity and collagen 
+deposition, respectively. Two-dimensional images were 
+
+analyzed using imageJ software. Aortas were also embedded 
+and cryopreserved in optimal cutting-temperature medium 
+(Sakura Tissue-Tek, Zoeterwoude, Netherlands), and 6-µm 
+sections were prepared. To detect specific collagens in aortas, 
+frozen tissue sections were fixed in cold 100% methanol and 
+incubated with primary antibodies specific for COL1 (collagen 
+1; Abcam, No. ab34710) and COL3 (Abcam, No. ab6310). 
+The location of F-actin and nuclei were identified by staining 
+with F-actin (ActinGreenTM 488 ReadyProbes, ThermoFisher 
+Scientific) and 4’,6-diamidino-2-phenylindole, respectively. 
+
+Separate histological sections from the same mice were 
+prepared for ex vivo alizarin red staining to assess calcium content, 
+as previously described.41,42 Briefly, sections were deparaffinized 
+and stained with 2% Alizarin red (pH 4.2) for 5 minutes 
+at room temperature and rinsed repeatedly with distilled water. 
+Images of whole aortas were captured with a low magnification 
+microscope (magnification, ×10; Nikon Eclipse 80i microscope) 
+in a darkened background. 
+
+siRNA-Mediated Knockdown of MGP in 
+Vascular Smooth Muscle Cells 
+
+siRNA directed against human and mouse MGP (siMGP) 
+and scrambled control siRNA (siSC) were obtained from 
+Dharmacon (SMARTpool, Thermo Scientific). Human aortic 
+smooth muscle cells (Cell Applications No. 355-75a) and 
+murine aortic vascular smooth muscle cells (ATCC CRL-2797) 
+were transfected with siRNA using Lipofectamine RNAiMAX 
+reagent, as described by the manufacturer (Life Technologies). 
+
+Measurement of Gene Expression by 
+Quantitative RT-PCR 
+
+Total RNA from aortas and cells were extracted by the phenol/
+guanidinium method. Reverse transcription was performed 
+using the High-Capacity cDNA Reverse Transcription 
+Kit (Applied Biosystems, Foster City, CA). A Mastercycler ep 
+Realplex (Eppendorf, Hamburg, Germany) was used for realtime 
+amplification and quantification of transcripts. Relative 
+expression of target transcripts were normalized to levels of 
+18S ribosomal RNA, determined using the relative CT method. 
+Taqman gene expression assays were used to quantify mRNA 
+levels encoding MGP, RUNX2, COL1A1, and COL1A2. 
+
+Near-Infrared Imaging and Quantification of 
+Aortic Calcification 
+
+To quantify aortic calcification, age-matched wild-type and 
+Mgp+/- mice, as well as Mgp-/- mice as a positive control, 
+were injected via the tail vein with OsteoSense-680 
+(PerkinElmer, 2 µL/g each) 24 hours before euthanasia, as 
+described previously.33 Aortas were isolated and analyzed ex 
+vivo by fluorescence reflectance imaging using an Odyssey 
+Imaging System (LI-COR Biotechnology, Lincoln, NE) and 
+software version 3.0.16.43,44 
+
+Statistical Analysis 
+
+Statistical analyses for the murine and in vitro experiments 
+were performed using Graph Pad Prism 8.0 (GraphPad 
+Software, La Jolla, CA) and Stata 13.0 (StataCorp LLC). The 
+Shapiro-Wilk test was used to determine the normality of each 
+
+continuous variable, and all such variables were found to be measures of arterial stiffness, including carotid-femoral 
+
+normally distributed. Data are reported as mean±SEM, unless 
+otherwise indicated. For > 2 group comparisons of continuous 
+variables, 2-tailed 1-way ANOVA with Sidak post hoc testing 
+was employed. A 2-sided P<0.05 was considered to be statistically 
+significant. 
+
+RESULTS 
+
+Baseline characteristics of the 7066 participants (mean age 
+49 years, 54% women) are presented in Table S1. Higher 
+ucMGP levels were associated with older age and male sex. 
+In age- and sex-adjusted analyses, higher ucMGP concentrations 
+were also associated with other cardiovascular risk 
+factors including higher blood pressure, higher body mass 
+index, hyperlipidemia, and lower estimated glomerular filtration 
+rate (Table S2). In addition, levels of ucMGP were 
+higher among those with previous myocardial infarction. 
+
+Among a subset of 3339 individuals with ascertainment 
+of vascular calcification, 44% had coronary, 23% 
+had thoracic, and 53% had abdominal aortic calcification 
+as defined by a computed tomography–based calcium 
+score of >0. We found no significant associations 
+between the levels of ucMGP and coronary, thoracic aortic, 
+or abdominal aortic calcium deposition (P>0.05 for all, 
+Table 1). In contrast, ucMGP levels were associated with 
+
+PWV and central pulse pressure (Table 1). A 1-SD unit 
+higher log-transformed ucMGP was associated with a 
+
+0.122 SD higher PWV (negative inverse transformed) in 
+age- and sex-adjusted analyses (SE 0.009, P<0.001). 
+After adjusting for other clinical covariates, the ucMGP 
+levels remained independently associated with PWV 
+(beta 0.040, SE 0.008, P<0.001). Higher levels of 
+ucMGP were also associated with decreased brachial 
+flow-mediated vasodilation (age- and sex-adjusted beta 
+-0.040, SE 0.012, P=0.001), which is a marker of endothelial 
+dysfunction; however, this association was not 
+significant in the multivariable-adjusted model (P=0.39). 
+Higher levels of ucMGP were also associated with 
+echocardiographic measures of cardiac structure and 
+function, including increased left atrial diameter and 
+relative wall thickness as well as worse LV global longitudinal 
+strain (P=0.0002 for all, Table 1). In multivariableadjusted 
+analyses, ucMGP remained associated with 
+worse global longitudinal strain (P=0.005); however this 
+relationship was attenuated after additionally adjusting 
+for heart rate (P=0.07). 
+
+In longitudinal multivariable analyses, we observed 
+that higher baseline ucMGP levels were associated with 
+future increases in systolic but not diastolic blood pressure, 
+resulting in a widening in pulse pressure, adjusting 
+
+Table 1. Association of ucMGP and Cardiovascular Structure and Function 
+
+Age- and sex-adjusted Multivariable-adjusted 
+Beta SE P value Beta SE P value 
+Cardiac CT measures 
+Coronary artery calcium 0.007 0.015 0.668 -0.014 0.016 0.378 
+Thoracic aortic calcium -0.008 0.012 0.509 -0.002 0.012 0.866 
+Abdominal aortic calcium 0.015 0.014 0.271 -0.010 0.014 0.480 
+Vascular function measures 
+Carotid femoral pulse wave velocity* 0.122 0.009 <0.001 0.040 0.008 <0.001 
+Aortic augmentation index* -0.015 0.012 0.214 -0.001 0.012 0.922 
+Central pulse pressure (carotid)* 0.086 0.014 <0.001 0.018 0.012 0.144 
+Brachial flow-mediated vasodilation* -0.040 0.012 0.001 -0.011 0.013 0.386 
+Echocardiographic measures 
+Left atrial diameter 0.109 0.011 <0.001 -0.003 0.011 0.771 
+LV end-diastolic dimension 0.063 0.012 <0.001 0.007 0.012 0.545 
+Relative wall thickness 0.050 0.013 <0.001 -0.007 0.014 0.604 
+LV mass 0.081 0.011 <0.001 -0.021 0.010 0.034 
+LV fractional shortening 0.006 0.013 0.649 -0.004 0.014 0.790 
+LV global longitudinal strain* 0.134 0.017 <0.001 0.029 0.016 0.074 
+LV circumferential strain* 0.035 0.018 0.047 0.034 0.018 0.059 
+LV radial strain* -0.019 0.018 0.293 -0.020 0.019 0.294 
+LV transverse strain* -0.042 0.018 0.019 -0.001 0.019 0.941 
+
+Multivariable-adjusted model, adjusted for age, sex, systolic blood pressure, hypertension treatment, diabetes, body mass index, 
+smoking, total and HDL cholesterol, and prevalent myocardial infarction. LV mass analyses adjusted for height and weight in place of 
+BMI. Beta=SD unit difference in response variable per 1-SD unit difference in log-transformed. LV indicates left ventricle; and ucMGP, 
+uncarboxylated form of MGP. 
+
+for other clinical variables (Table 2). Using multivariable 
+analyses, 1-unit higher baseline log-transformed ucMGP 
+level was associated with a future 1.7 mmHg increase in 
+pulse pressure (SE 0.34, P<0.0001). Baseline ucMGP 
+levels were associated with the development of hypertension: 
+1-SD unit higher baseline ucMGP level was 
+associated with a 41% higher odds of future hypertension 
+(age- and sex-adjusted OR, 1.41 [95% CI, 1.28– 
+1.55], P<0.001). This association was attenuated after 
+multivariable adjustment (OR, 1.11 [95% CI, 0.99–1.23], 
+P=0.07). We selected covariates a priori based on the 
+fact that they were known to be traditional clinical risk 
+factors associated with the development of HF and 
+hypertension in prior studies based in Framingham Heart 
+Study participants. Further adjustment for estimated glomerular 
+filtration rate did not result in substantive differences. 
+It is of note that the associations of ucMGP with 
+central pulse pressure, brachial flow-mediated vasodilation, 
+and LV relative wall thickness were attenuated when 
+adjusting for systolic blood pressure, thus supporting a 
+direct impact of ucMGP on vascular function. 
+
+Over a median follow-up period of 12 years, 197 
+participants developed incident heart failure, with 101 
+classified as HFpEF and 77 as HFrEF. Higher baseline 
+ucMGP levels were associated with increased risk 
+of incident overall HF (multivariable-adjusted hazard 
+ratio per 1-SD unit increase in ucMGP, 1.34 [95% CI, 
+1.13–1.59], P=0.001). Of note, ucMGP levels were specifically 
+associated with incident HFpEF with no significant 
+association with HFrEF (HFpEF: hazard ratio, 1.51 
+[95% CI, 1.18–1.94], P=0.001; HFrEF: hazard ratio, 
+1.24 [95% CI, 0.95–1.62], P=0.12). 
+
+We found 2 genome-wide significant loci on chromosome 
+12 associated with circulating ucMGP levels (Table 
+S3): rs1800801 in the 5’ untranslated region of the 
+MGP gene itself (P<10-100), and rs4764124, which is 
+
+located within an intron of the SMCO3 gene (single-pass 
+membrane protein with coiled-coil domains 3) and is 
+near the MGP locus (P=6.9×10-10). There were two missense 
+variants in linkage disequilibrium with rs1800801: 
+rs4236 (MGP, P=1.7×10-38) and rs11276 (ART4 [ADPribosyltransferase 
+4], P=5.5×10-38), both predicted to be 
+tolerated, benign variants,45,46 and 2 synonymous SNPs 
+rs1861698 (ART4, P<10-100) and rs3088189 (ART4, 
+P=6.0×10-38) that were also associated with circulating 
+ucMGP levels. We found 2 cis-protein quantitative trait 
+loci (cis-pQTLs, defined as loci associated with ucMGP 
+levels with P<1×10-5, located within 1 Mb of the MGP 
+gene, pruned to linkage disequilibrium r2<0.1) and used 
+these as instrumental variables for ucMGP to test associations 
+with PWV using 2-sample Mendelian randomization. 
+One of the 2 cis-pQTLs was suggestive of a causal 
+relationship of MGP levels to PWV (MR test P=0.04). 
+
+We searched our top MGP locus SNP rs1800801 
+against published databases of gene expression and 
+known clinical phenotypes.29 We found that rs1800801 
+was associated with MGP expression in various tissues 
+(nerve, P=1.0×10-11; lung, P=1.1×10-4; thyroid 
+P=1.9×10-6) as well as mRNA expression of other 
+genes. In vascular beds, rs1800801 was associated 
+with expression of SMCO3 (aorta, P=1.4×10-5; coronary, 
+P=1.1×10-4), C12orf60 (tibial artery, P=5.8×10-6 , 
+aorta P=7.0×10-8, coronary P=8.7×10-4), ERP27 (aorta, 
+P=1.6×10-17; coronary P=2.3×10-9), and ARHGDIB 
+(tibial artery, P=4.7×10-5; aorta P=3.7×10-6). Missense 
+variants in MGP were also associated with lumbar bone 
+mineral density (lowest P=1.9×10-4). 
+
+Functional data indicate that MGP is a potent inhibitor 
+of vascular calcification.9,16 However, in our study, higher 
+ucMGP levels were associated with increased arterial 
+stiffness, increased cardiovascular disease, and adverse 
+outcomes presumably because of counterregulatory 
+
+Table 2. Association of ucMGP and Longitudinal Cardiovascular Outcomes 
+
+Change in blood pressure 
+Age- and sex-adjusted Multivariable-adjusted 
+Beta SE P value Beta SE P value 
+Systolic blood pressure -0.01 0.01 0.43 0.05 0.01 <0.001 
+Diastolic blood pressure -0.06 0.01 <0.0001 -0.01 0.01 0.62 
+Pulse pressure 0.03 0.01 0.04 0.06 0.01 <0.001 
+Future hypertension OR 95% CI P value OR 95% CI P value 
+Incident hypertension 1.41 (1.28–1.55) <0.001 1.11 (0.99–1.23) 0.07 
+Future heart failure HR 95% CI P value HR 95% CI P value 
+Incident heart failure 1.52 (1.28–1.80) <0.001 1.34 (1.13–1.59) 0.001 
+Incident HFpEF 1.74 (1.37–2.21) <0.001 1.51 (1.18–1.94) 0.001 
+Incident HFrEF 1.32 (1.00–1.73) 0.048 1.24 (0.95–1.62) 0.12 
+
+Multivariable-adjusted model, adjusted for age, sex, systolic blood pressure, hypertension treatment, diabetes, body mass index, 
+smoking, total and HDL cholesterol, and prevalent myocardial infarction. Blood pressure and hypertension analyses simultaneously 
+adjusted for systolic and diastolic blood pressure. In addition, heart failure analyses were adjusted for baseline LV hypertrophy 
+and left bundle branch block. Beta indicates 1-SD unit change per 1-SD unit difference in log-transformed ucMGP; HFpEF, heart 
+failure with preserved ejection fraction; HFrEF, heart failure with reduced ejection fraction; HR, hazard ratio per 1-SD unit difference 
+in log-transformed ucMGP; OR, odds ratio per 1-SD unit difference in log-transformed ucMGP; and ucMGP, uncarboxylated 
+form of MGP. 
+
+or compensatory mechanisms related to MGP expression 
+and/or possibly because ucMGP is not adequately 
+modified by vitamin K-dependent gamma carboxylase to 
+form cMGP, the biologically active protein.17 To determine 
+whether MGP levels are causally related to vascular stiffness, 
+we compared aortic PWV in age- and sex-matched 
+young and old Mgp+/- and wild-type mice. All female mice 
+were nulliparous. It was not possible to study Mgp-/- 
+mice because these mice develop spontaneous arterial 
+calcification by 2 weeks of age and die of aortic rupture 
+by ˜6 weeks of age.9 In contrast to Mgp-/- mice, heterozygous 
+Mgp+/- mice do not develop appreciable arterial 
+calcification even at 12 months of age, as measured by 
+Osteosense near-infrared fluorescence (Figure S1A). 
+Furthermore, there was no detectable difference in calcium 
+content in aortic sections from Mgp+/- mice, compared 
+with wild-type mice, as evidenced by Alizarin red 
+staining (Figure S1B). In 4-month-old mice (Figure 1A), 
+the aortic PWV assessed by echocardiography was similar 
+in Mgp+/- and wild-type mice, with no apparent sex 
+differences (mean±SEM; female: 1.8±0.2 m/s versus 
+2.3±0.3, P=0.38; male: 2.2±0.2 versus 2.2±0.4 m/s, 
+P=0.99). However, at 10 months of age (Figure 1B), 
+female Mgp+/- mice had a higher aortic PWV compared 
+with female wild-type mice (7.6±0.5 versus 2.5±0.2 m/s, 
+P<0.0001). There was no difference between the aortic 
+PWV of 10-month-old male Mgp+/- mice and wildtype 
+mice (3.6±0.7 versus 3.5±0.5 m/s, P>0.99). These 
+results indicate that Mgp heterozygosity in older female 
+mice causes increased arterial stiffness. 
+
+To determine whether the difference in aortic stiffness 
+observed in older female versus male Mgp+/- mice 
+is due to sex-specific differences in Mgp expression levels, 
+aortic Mgp mRNA levels were measured by qPCR 
+(Figure 1C). Mgp expression levels were decreased by 
+>60% in aortas isolated from aged female and male 
+Mgp+/- mice when compared with age-matched wildtype 
+female and male mice. These results suggest that 
+the sex-specific differences in the effects of Mgp heterozygosity 
+on the development of vascular stiffness are not 
+associated with sex-specific differences in aortic Mgp 
+mRNA expression levels. 
+
+To further support our echocardiographic findings, we 
+assessed PWV and myocardial T1 mapping using mouse 
+cardiac magnetic resonance. As shown in Figure S2A 
+and S2B, PWV was increased in female Mgp+/- mice 
+(7.6±0.6 m/s) compared with male Mgp+/- mice (2.7±0.1 
+m/s, P<0.0001) and female wild-type (2.3±0.1 m/s, 
+P<0.0001). Further, T1-weighted signals (a marker of 
+LV fibrosis) were higher in the left ventricles of female 
+Mgp+/- mice (1337±7.0 ms) relative to female wild-type 
+mice (Figure S2C and S2D, 1313±4.7 ms, P=0.045). 
+However, female Mgp+/- mice did not exhibit different 
+LVEF or LV end-systolic and end-diastolic volumes (Figure 
+S3) compared with male Mgp+/- mice or wild-type 
+mice. These findings indicate that Mgp heterozygosity 
+
+
+Figure 1. Arterial stiffness is increased in 10-mo-old female 
+Mgp+/- mice. 
+A, No difference was observed in pulse wave velocity (PWV) 
+between female and male wild-type (WT) and Mgp+/- mice at 4 mo 
+of age. B, Ten-month-old female Mgp+/- mice had increased PWV 
+compared with age-matched WT female mice, but no difference 
+between male Mgp+/- and WT mice was observed. PWV was higher 
+in 10-mo-old female Mgp+/- mice than their male counterparts. C, 
+Mgp heterozygosity is associated with a >60% decrease in aortic 
+expression of Mgp mRNA. mRNA expression levels of Mgp were 
+significantly lower in aged Mgp+/- female and male mice (n=7 in 
+each group) compared with age-matched wild-type mice (n=5 in 
+each group). No difference in aortic Mgp mRNA levels was detected 
+between Mgp+/- female and male mice. Statistical comparisons were 
+made with a 1-way ANOVA with Sidak post hoc testing. 
+
+
+in older female mice results in increased aortic stiffness 
+and is associated with a higher degree of cardiac fibrosis 
+compared with wild-type mice. 
+
+Aortic stiffness is primarily dependent on changes in 
+the matrix composition of the vessel’s medial layer with 
+elastin fiber disruption and increased collagen deposition. 
+In particular, collagen I plays a crucial role in arterial 
+stiffening, the expression of which is induced by Runx2 
+(Runt-related transcription factor 2).47 We therefore 
+sought to investigate the pathological consequences 
+underlying the role of MGP heterozygosity in arterial 
+stiffness. First, we determined the histological changes 
+associated with Mgp heterozygosity. We focused on 
+female mice, given the fact we only demonstrated 
+increased stiffness in female Mgp heterozygote mice. 
+While the aortas of 10-month-old wild-type mice were 
+histologically normal, the aortas of 10-month-old Mgp+/- 
+mice had elastin fiber fragmentation (Figure 2A) and collagen 
+accumulation (absolute increase of 34.1±7.0%) 
+in the medial layer (Figure 2B). A substantial induction 
+of collagen I (COLI) protein expression was observed in 
+the aortic media from Mgp+/- mice via immunofluorescence 
+(Figure 2C). However, no increase in COL3 was 
+observed in the aortas from Mgp heterozygote mice. To 
+further study the role of MGP on the regulation of collagen 
+expression, we treated murine aortic vascular smooth 
+muscle cells (Figure 2D) and human aortic smooth 
+muscle cells (Figure 2E) with an siRNA targeting MGP. 
+Silencing MGP (˜70% in murine aortic vascular smooth 
+muscle cells and 95% in human aortic smooth muscle 
+cells) increased the expression of RUNX2 (˜30% in 
+murine aortic vascular smooth muscle cells and >2-fold 
+in human aortic smooth muscle cells). In addition, and 
+consistent with the immunofluorescent results, knockdown 
+of MGP resulted in an increase in Col1a1 and 
+Col1a2 mRNA levels in mouse aortic SMCs (Figure 2D). 
+Similarly, in human aortic SMCs, knockdown of MGP 
+increased COL1A2 by >40% but did not significantly 
+affect COL1A1 expression. These findings indicate that 
+MGP heterozygosity is associated with increased aortic 
+collagen I protein expression and that, similarly, reduced 
+MGP levels in vascular smooth muscle cells result in 
+increased expression of RUNX2 and collagen I. 
+
+DISCUSSION 
+
+We examined the role of MGP in the development of 
+arterial stiffness as a precursor to HFpEF using complementary 
+studies in a large human community-based 
+cohort and a mouse model of MGP heterozygosity. 
+Our findings were as follows: first, increased levels of 
+ucMGP were associated with increased vascular stiffness 
+as measured by aortic PWV and were associated 
+with measures of cardiac function including LV strain. 
+Second, circulating ucMGP levels portended the future 
+development of pulse pressure widening and HFpEF in a 
+
+large cohort. To determine if MGP was causally related to 
+vascular stiffness, we took 2 approaches. We used SNPs 
+associated with ucMGP levels as instrumental variables 
+and found that Mendelian randomization analysis implicated 
+ucMGP as causal for PWV. We also ascertained 
+aortic PWV in MGP heterozygote mice. Compared with 
+matched wild-type mice, female MGP+/- mice had a 
+3-fold increase in aortic PWV with concomitant cardiac 
+fibrosis. Taken together, these observations are consistent 
+with a direct role for MGP in regulating the development 
+of vascular stiffness. Our findings also suggest that 
+MGP-related vascular effects may contribute to the risk 
+of HFpEF. 
+
+Although our mouse models indicate a protective benefit 
+of MGP in arterial stiffness, higher ucMGP levels were 
+associated with increased arterial stiffness, increased cardiovascular 
+disease, and adverse outcomes presumably 
+because (1) circulating MGP levels are upregulated secondarily 
+and compensatory to a primary insult and/or (2) 
+ucMGP is not adequately modified by vitamin K-dependent 
+gamma carboxylase to form cMGP, the biologically 
+active protein. Our prior work in patients with calciphylaxis 
+and end-stage renal disease suggest that, while ucMGP 
+levels are elevated in states of vascular disease, the ratio 
+of cMGP:ucMGP is lower in the disease state.17 Similarly, 
+in the calcification disorder pseudoxanthoma elasticum, 
+defective carboxylation of MGP is observed and the ratio 
+of cMGP:ucMGP is reduced.48,49 Furthermore, in patients 
+with chronic heart failure, while levels of ucMGP were 
+higher with worsening HF severity, the ratio of cMGP to 
+ucMGP was lower in more severe states of HF.50 Therefore, 
+reduced activation of MGP to the carboxylated form 
+appears to be an important factor in cardiovascular disorders. 
+Similarly, our in vitro and in vivo findings support 
+a protective role of active MGP in arterial stiffness. We 
+therefore hypothesize that arterial stiffness is manifested 
+by inadequate or insufficient modification to the active 
+(carboxylated) form of MGP. 
+
+There are different species of MGP in the circulation 
+and, to become fully active, MGP must both be carboxylated 
+and phosphorylated.51 Both ucMGP and dp-ucMGP 
+(dephosphorylated uncarboxylated matrix GLA protein) 
+represent fractions of MGP that are inactive.15 
+Furthermore, both ucMGP and dp-ucMGP have been 
+associated with cardiovascular disease, however some 
+differences have been noted in these associations.17,51–55 
+For instance, ucMGP has been associated with cardiovascular 
+disease in patients with known CAD but not in 
+diabetics, whereas dp-ucMGP is associated with risk 
+in diabetics.56 One potential explanation for this is that 
+ucMGP, which consists of phosphorylated MGP species, 
+may behave differently than dp-ucMGP at a biologic level 
+in tissues, thus differentially affecting circulating levels. 
+A limitation of our investigation is that whereas ucMGP 
+associations with arterial stiffness, hypertension, and 
+HFpEF were determined, dp-ucMGP was not measured.
+
+Figure 2. Mgp heterozygosity is associated with increased medial collagen accumulation and elastin disruption and reduced 
+MGP expression in vascular smooth muscle cells increases collagen I expression. 
+A–C, Sections of aortas from 10-mo-old female wild-type (WT) and Mgp+/- mice. A, Verhoeff–Van Gieson (VVG) staining showing disrupted 
+elastin fiber integrity in the aortas of female Mgp+/- mice compared with wild-type mice. B, Masson’s Trichrome staining demonstrating 
+increased collagen (blue staining) in the medial layer of aortas from female Mgp+/- mice compared with wild-type mice (quantification shown 
+in the right, Student t test). C, Aortas isolated from WT and Mgp+/- mice were stained for F-actin (green), COL1 (pink), COL3 (gold), and 
+DNA (blue, DAPI). Increased levels of COL1, but not COL3, protein were seen in aortas from female Mgp+/- mice compared with wild-type 
+mice. D, Treatment of mouse aortic smooth muscle cells (n=6 biologically independent samples in each group) with siMGP (resulting in 
+>70% knockdown of Mgp mRNA) caused an increase in Runx2, Col1a1, and Col1a2 expression (Student t test). E, Treatment of human 
+aortic smooth muscle cells (n=6 biologically independent samples in each group) with siMGP (resulting in >90% knockdown of MGP 
+mRNA) increased RUNX2 and COL1A2 mRNA levels (Student t test). 
+
+While the primary focus of MGP has been on its role in addition, separate smaller studies (<200 individuals) 
+the development of vascular calcification, a few previous have found a strong association between dp-ucMGP 
+studies have suggested a potential association with arte-and CF-PWV in both hypertensive and diabetic indirial 
+stiffness.19,20,57–60 Recent studies demonstrated that viduals, further supporting a role for MGP with arterial 
+aortic PWV independently correlated with dp-ucMGP stiffness.57,59 We extend these findings to show an assoin 
+European populations (˜1000 individuals).19,20,58,60 In ciation of circulating ucMGP levels with arterial stiffness 
+
+in >7000 individuals. While a previous study found an 
+association between dp-ucMGP and worse outcomes in 
+patients with chronic heart failure, ours is the first study to 
+show such an association with future incident HFpEF.50 
+It has been suggested that abnormal ventricular-vascular 
+coupling, caused by increased arterial stiffness, may contribute 
+to the pathophysiology of HFpEF.50 
+
+MGP has an established protective role against vascular 
+calcification through inhibition of BMP (bone morphogenetic 
+protein) signaling and direct binding and 
+inhibition of calcium phosphate crystal growth in the 
+extracellular matrix.33,61 In human studies, both polymorphisms 
+in the MGP gene and increased circulating MGP 
+levels have been associated with coronary artery calcification 
+and cardiovascular events.11,62 Furthermore, mice 
+that lack both alleles of MGP develop spontaneous arterial 
+calcification at an early age.9 For this reason, previous 
+studies have suggested that MGP influences vascular 
+stiffness through its role in preventing calcification.20,57 
+It was interesting, therefore, that ucMGP levels were 
+associated with vascular stiffness in the absence of an 
+association with detectable vascular calcification. However, 
+our study is limited in that the human and mouse 
+imaging techniques may not be able to detect microcalcifications.
+63,64 Therefore, we cannot exclude the possibility 
+that microcalcification is the mechanism by which MGP 
+heterozygosity increases aortic stiffness. Our findings are 
+substantiated by Mendelian randomization results showing 
+that ucMGP genetic proxies are associated with PWV 
+in humans. Importantly, ucMGP requires activation by a 
+vitamin K-dependent carboxylase, therefore making the 
+MGP pathway modifiable with vitamin K therapy. Indeed, 
+recent studies have demonstrated that Vitamin K2 treatment 
+is protective against age-related aortic stiffening in 
+243 healthy adults, but it will be important to study the 
+effects of vitamin K therapy in larger cohorts with vascular 
+disease.65 We further demonstrated that 10-month-old 
+female, but not male, MGP+/- mice developed increased 
+aortic stiffness, in the context of ˜50% lower aortic MGP 
+mRNA levels, compared with wild-type mice. It was notable 
+that only female MGP+/- mice developed increased 
+aortic stiffness, especially given recent findings that 
+Vitamin K2 treatment prevented age-related aortic stiffness 
+increases only in postmenopausal women.65 These 
+findings allude to a possible female-predominant role 
+for MGP in the development of vascular stiffness. Taken 
+together, our results suggest that MGP heterozygosity is 
+a cause for arterial stiffness and that, in humans, arterial 
+stiffness is associated with increased ucMGP levels, the 
+inactive form of the protein. 
+
+The exact mechanisms that link ucMGP with arterial 
+stiffness, particularly before detectable arterial macrocalcification, 
+remain unclear. We show here a direct effect 
+of MGP deficiency on aortic collagen expression in mice, 
+pointing to a possible mechanistic link between MGP 
+and arterial stiffness. Arterial compliance is regulated, 
+
+in large part, by the relative contribution of the scaffolding 
+proteins: collagen and elastin. Previous studies have 
+reported a prominent role for type I collagen metabolism 
+in the development of arterial stiffness.66,67 Similarly, our 
+data points to an influence of MGP on type I collagen 
+accumulation. Furthermore, MGP may influence stiffness 
+through its inhibition of Runx2 expression, which 
+was previously found to induce arterial stiffness in a diabetic 
+mouse model.47 Interestingly, while the in vitro data 
+points to a mechanistic link between MGP deficiency 
+and increased arterial stiffness through the increased 
+production of collagen, reduced levels of Mgp in male 
+aortas did not manifest in increased PWV. This possibly 
+relates to sex-specific levels of complexity in the in 
+vivo model that remain unknown. Future studies will be 
+needed to understand the interplay between MGP and 
+sex-specific hormones and/or gene expression and how 
+this relates to arterial stiffening. 
+
+Beyond its association with arterial stiffness, we show 
+that ucMGP is associated with LV systolic mechanics, 
+as well as the future development of hypertension and 
+HFpEF. Hypertension is a well-established risk factor 
+for HFpEF, and recent data suggest that central blood 
+pressure and large vessel stiffness in particular appear 
+integral to the pathophysiology of HFpEF.3,68 Arterial 
+stiffness increases LV pulsatile afterload and induces 
+LV hypertrophy and diastolic dysfunction, both hall-
+marks of cardiac remodeling in HFpEF.3,5 Further, concomitant 
+vascular and ventricular stiffening results in 
+abnormal coupling, adversely affecting cardiovascular 
+function.69 Our findings substantiate an important role 
+of ucMGP in this process. 
+
+We also explored genetic determinants of ucMGP levels 
+using a genome-wide association study. Not surprisingly, 
+we found an association between circulating ucMGP levels 
+and rs1800801 near the MGP gene (P<10-100). This 
+MGP gene variant has previously been associated with 
+vascular calcification and atherosclerotic disease.70 Previous 
+studies have demonstrated that this SNP has a crucial 
+role on the promoter activity of the MGP gene.12 We then 
+used SNPs associated with ucMGP levels as instrumental 
+variables and found that Mendelian randomization analysis 
+implicated ucMGP as causal for PWV, strengthening our 
+observational findings of ucMGP and arterial stiffness. 
+
+There are limitations in our study that deserve mention. 
+First, this study focuses on the measurement of 
+ucMGP and not the active, carboxylated form of MGP 
+(cMGP). Antibodies specific to cMGP are not available 
+at this time, as they once were previously.17 Thus, we are 
+unable to comment on the relative ratio of active:inactive 
+MGP. Second, we cannot exclude residual confounding 
+or establish causal relationships with our cohort study by 
+virtue of its observational design. Third, our cohort study 
+included middle-aged and older adults who were largely 
+of European ancestry; the generalizability of our human 
+data to other ages and races/ethnicities is unknown. 
+
+Fourth, both Mendelian Randomization analysis and a 
+murine model were used to provide evidence of a causal 
+link between MGP and arterial stiffness. However, only 
+female Mgp+/- mice developed increased aortic PWV 
+and not male Mgp+/- mice. Sex-specific differences 
+were not observed in the human cohort. Future investigation 
+is needed to understand the sex-specific findings 
+of Mgp+/- mice. 
+
+In summary, we identified novel associations between 
+ucMGP and increased risk of large artery stiffening, elevated 
+systolic blood pressure, pulse pressure widening, 
+and future HFpEF. These observational findings are reinforced 
+by Mendelian randomization analyses showing a 
+putative causal association with PWV, as well as functional 
+studies using Mgp+/- mice, that provide further evidence 
+for a mechanistic role for MGP in the protection against 
+large artery stiffening with aging. Our findings support the 
+novel hypothesis that MGP regulates arterial stiffness.

@@ -1,0 +1,32 @@
+INTRODUCTION: Strong evidence suggests a significant role for iron accumulation 
+in the brain in addition to the well-documented neurodegenerative aspects of 
+Huntington's disease (HD). The putative mechanisms by which iron is linked to 
+the HD pathogenesis are multiple, including oxidative stress, ferroptosis and 
+neuroinflammation. However, no previous study in a neurodegenerative disease has 
+linked the observed increase of brain iron accumulation as measured by MRI with 
+well-established cerebrospinal fluid (CSF) and blood biomarkers for iron 
+accumulation, or with associated processes such as neuroinflammation. This study 
+is designed to link quantitative data from iron levels and neuroinflammation 
+metabolites obtained from 7T MRI of HD patients, with specific and well-known 
+clinical biofluid markers for iron accumulation, neurodegeneration and 
+neuroinflammation. Biofluid markers will provide quantitative measures of 
+overall iron accumulation, neurodegeneration and neuroinflammation, while MRI 
+measurements on the other hand will provide quantitative spatial information on 
+brain pathology, neuroinflammation and brain iron accumulation, which will be 
+linked to clinical outcome measures.
+METHODS: This is an observational cross-sectional study, IMAGINE-HD, in HD gene 
+expansion carriers and healthy controls. We include premanifest HD gene 
+expansion carriers and patients with manifest HD in an early or moderate stage. 
+The study includes a 7T MRI scan of the brain, clinical evaluation, motor, 
+functional, and neuropsychological assessments, and sampling of CSF and blood 
+for the detection of iron, neurodegenerative and inflammatory markers. 
+Quantitative Susceptibility Maps will be reconstructed using T2* weighted images 
+to quantify brain iron levels and Magnetic Resonance Spectroscopy will be used 
+to obtain information about neuroinflammation by measuring cell-specific 
+intracellular metabolites' level and diffusion. Age and sex matched healthy 
+subjects are included as a control group.
+DISCUSSION: Results from this study will provide an important basis for the 
+evaluation of brain iron levels and neuroinflammation metabolites as an imaging 
+biomarker for disease stage in HD and their relationship with the salient 
+pathomechanisms of the disease on the one hand, and with clinical outcome on the 
+other.

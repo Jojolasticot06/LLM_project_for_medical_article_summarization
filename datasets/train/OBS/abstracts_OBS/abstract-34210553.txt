@@ -1,0 +1,24 @@
+BACKGROUND: In the emergency department (ED) definitive diagnosis of SARS-COV-2 
+pneumonia is challenging as nasopharyngeal swab (NPS) can give false negative 
+results. Strategies to reduce false negative rate of NPS have limitations. 
+Serial NPSs (24-48 h from one another) are time-consuming, sputum can not be 
+collected in the majority of patients, and bronchoalveolar lavage (BAL), the 
+most sensitive test, requires specific expertise. Laryngotracheal aspiration 
+(LTA) is easy to perform and showed a similar accuracy to BAL for diagnosis of 
+other pulmonary diseases, however it was not studied to diagnose SARS-COV-2 
+pneumonia.
+OBJECTIVE: An observational cross-sectional study was performed to evaluate the 
+negative predictive value of LTA in patients with suspected SARS-COV-2 pneumonia 
+despite a negative NPS.
+METHODS: In the EDs of two university hospitals, consecutive patients with 
+suspected SARS-COV-2 pneumonia despite a negative NPS underwent LTA performed 
+with a nasotracheal tube connected to a vacuum system. Final diagnosis based on 
+all respiratory specimen tests (NPS, LTA and BAL) and hospital data was 
+established by two reviewers and in case of discordance by a third reviewer.
+RESULTS: 117 patients were enrolled. LTA was feasible in all patients and no 
+patients experienced adverse events. Fifteen (12.7%) patients were diagnosed 
+with community-acquired SARS-COV-2 pneumonia: 13 LTA positive and only 2 (1.7%) 
+LTA negative. The negative predictive value of NPS and LTA was 87.3% (79.9% - 
+92.7%) and 98.1% (93.3%99.8%) respectively.
+CONCLUSIONS: LTA resulted feasible, safe and reduced false negative rate in 
+patients with suspected SARS-COV-2 pneumonia despite a negative NPS.

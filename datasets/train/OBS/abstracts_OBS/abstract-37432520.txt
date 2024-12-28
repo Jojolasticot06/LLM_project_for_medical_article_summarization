@@ -1,0 +1,25 @@
+PURPOSE: The Acute Disease Quality Initiative (ADQI) Workgroup recently released 
+a consensus definition of sepsis-associated acute kidney injury (SA-AKI), 
+combining Sepsis-3 and Kidney Disease Improving Global Outcomes (KDIGO) AKI 
+criteria. This study aims to describe the epidemiology of SA-AKI.
+METHODS: This is a retrospective cohort study carried out in 12 intensive care 
+units (ICUs) from 2015 to 2021. We studied the incidence, patient 
+characteristics, timing, trajectory, treatment, and associated outcomes of 
+SA-AKI based on the ADQI definition.
+RESULTS: Out of 84,528 admissions, 13,451 met the SA-AKI criteria with its 
+incidence peaking at 18% in 2021. SA-AKI patients were typically admitted from 
+home via the emergency department (ED) with a median time to SA-AKI diagnosis of 
+1 day (interquartile range (IQR) 1-1) from ICU admission. At diagnosis, most 
+SA-AKI patients (54%) had a stage 1 AKI, mostly due to the low urinary output 
+(UO) criterion only (65%). Compared to diagnosis by creatinine alone, or by both 
+UO and creatinine criteria, patients diagnosed by UO alone had lower renal 
+replacement therapy (RRT) requirements (2.8% vs 18% vs 50%; p < 0.001), which 
+was consistent across all stages of AKI. SA-AKI hospital mortality was 18% and 
+SA-AKI was independently associated with increased mortality. In SA-AKI, 
+diagnosis by low UO only, compared to creatinine alone or to both UO and 
+creatinine criteria, carried an odds ratio of 0.34 (95% confidence interval (CI) 
+0.32-0.36) for mortality.
+CONCLUSION: SA-AKI occurs in 1 in 6 ICU patients, is diagnosed on day 1 and 
+carries significant morbidity and mortality risk with patients mostly admitted 
+from home via the ED. However, most SA-AKI is stage 1 and mostly due to low UO, 
+which carries much lower risk than diagnosis by other criteria.

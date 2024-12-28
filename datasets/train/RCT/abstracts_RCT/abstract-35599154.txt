@@ -1,0 +1,13 @@
+Randomized clinical trial of BCG vaccine in patients with convalescent COVID-19: Clinical evolution, adverse events, and humoral immune response
+
+1/Background: The Bacillus Calmette-Guérin (BCG) vaccine may confer cross-protection against viral diseases in adults. This study evaluated BCG vaccine cross-protection in adults with convalescent coronavirus disease 2019 (COVID-19).
+
+2/Method: This was a multicenter, prospective, randomized, placebo-controlled, double-blind phase III study (ClinicalTrials.gov: NCT04369794).
+Setting: University Community Health Center and Municipal Outpatient Center in South America.
+Patients: a total of 378 adult patients with convalescent COVID-19 were included.
+Intervention: single intradermal BCG vaccine (n = 183) and placebo (n = 195).
+Measurements: the primary outcome was clinical evolution. Other outcomes included adverse events and humoral immune responses for up to 6 months.
+
+3/Results: A significantly higher proportion of BCG patients with anosmia and ageusia recovered at the 6-week follow-up visit than placebo (anosmia: 83.1% vs. 68.7% healed, p = 0.043, number needed to treat [NNT] = 6.9; ageusia: 81.2% vs. 63.4% healed, p = 0.032, NNT = 5.6). BCG also prevented the appearance of ageusia in the following weeks: seven in 113 (6.2%) BCG recipients versus 19 in 126 (15.1%) placebos, p = 0.036, NNT = 11.2. BCG did not induce any severe or systemic adverse effects. The most common and expected adverse effects were local vaccine lesions, erythema (n = 152; 86.4%), and papules (n = 111; 63.1%). Anti-severe acute respiratory syndrome coronavirus 2 humoral response measured by N protein immunoglobulin G titer and seroneutralization by interacting with the angiotensin-converting enzyme 2 receptor suggest that the serum of BCG-injected patients may neutralize the virus at lower specificity; however, the results were not statistically significant.
+
+4/Conclusion: BCG vaccine is safe and offers cross-protection against COVID-19 with potential humoral response modulation.

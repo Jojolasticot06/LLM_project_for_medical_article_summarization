@@ -1,0 +1,10 @@
+Expression of HGF, pMet, and pAkt is related to benefit of radiotherapy after breast-conserving surgery: a long-term follow-up of the SweBCG91-RT randomised trial.
+
+1/Experimental studies suggest that hepatocyte growth factor (HGF) and its transmembrane tyrosine kinase receptor, Met, in part also relying on Akt kinase activity, mediate radioresistance. 
+
+2/We investigated the importance of these biomarkers for the risk of ipsilateral breast tumour recurrence (IBTR) after adjuvant radiotherapy (RT) in primary breast cancer. HGF, phosphorylated Met (pMet) and phosphorylated Akt (pAkt) were evaluated immunohistochemically on tissue microarrays from 1004 patients in the SweBCG91-RT trial, which randomly assigned patients to breast-conserving therapy, with or without adjuvant RT. HGF was evaluated in the stroma (HGFstr ); pMet in the membrane (pMetmem ); HGF, pMet and pAkt in the cytoplasm (HGFcyt , pMetcyt , pAktcyt ); and pAkt in the nucleus (pAktnuc ). The prognostic and treatment predictive effects were evaluated to primary endpoint IBTR as first event during the first  years. 
+
+3/Patients with tumours expressing low levels of HGFcyt and pMetcyt and high levels of pAktnuc derived a larger benefit from RT [hazard ratio (HR): 0.11 (0.037-0.30), 0.066 (0.016-0.28) and 0.094 (0.028-0.31), respectively] compared to patients with high expression of HGFcyt and pMetcyt , and low pAktnuc [HR: 
+0.36 (0.19-0.67), 0.35 (0.20-0.64) and 0.47 (0.32-0.71), respectively; interaction analyses: P = 0.052, 0.035 and 0.013, respectively]. These differences remained in multivariable analysis when adjusting for patient age, tumour size, histological grade, St Gallen subtype and systemic treatment (interaction analysis, P-values: 0.085, 0.027, and 0.023, respectively). 
+
+4/This study suggests that patients with immunohistochemically low HGFcyt , low pMetcyt and high pAktnuc may derive an increased benefit from RT after breast-conserving surgery concerning the risk of developing IBTR.

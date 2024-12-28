@@ -1,0 +1,9 @@
+Reengagement strategies for hepatitis C patients lost to follow-up: A randomized clinical trial
+
+1/Background and aims: To achieve the World Health Organization's goal of eliminating HCV by 2030, reengagement of lost to follow-up cases is mandatory. However, there is lack of evidence concerning the best strategy. Our study evaluated the effectiveness, efficiency, predictive factors, and costs of 2 different strategies.
+
+2/Methods: We identified patients positive for HCV antibodies without RNA requests from 2005 to 2018. Patients fulfilling trial criteria (NCT04153708) were randomized to (1) phone call or (2) letter of invitation to schedule an appointment, followed by switching strategy.
+
+3/Results: Three hundred forty-five patients among 1167 lost to follow-up were identified. An analysis of the first 270 randomized patients (72% male, 51±13 y) showed a higher contact rate in the mail than in the phone call strategy (84.5% vs. 50.3%). In the intention-to-treat analysis, no differences were found related to appointment attendance (26.5% vs. 28.5%). Regarding efficiency, 3.1 letters and 8 phone calls were needed to successfully link 1 patient (p<0.001) but dropped down to 2.3 phone calls if we only considered the first call attempt (p=0.008). Prior specialist's evaluation and HCV testing in the predirect-acting antiviral era were the only factors associated with no showing up for the appointment. The cost per patient was €621.3 (2.5 quality-adjusted life-years) in the phone call strategy and €611.8 (2.4 quality-adjusted life-years) in the mail letter strategy.
+
+4/Conclusions: Reengagement of patients with HCV is feasible, and equally effective with similar costs in both strategies. The mail letter was more efficient, except when only 1 phone call was considered. Prior specialist's evaluation and testing in the predirect-acting antiviral era were factors associated with nonattendance to the appointment.

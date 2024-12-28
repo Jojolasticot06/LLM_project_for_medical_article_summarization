@@ -1,0 +1,26 @@
+BACKGROUND: Balance disorders in patients diagnosed with Parkinson's disease 
+(PD) are associated with a change in balance-keeping strategy and reflex 
+disorders which regulate the maintenance of vertical body posture. Center of 
+foot pressure (COP) displacement signals were analyzed during quiet standing 
+experiments to define such changes. The research aimed to apply stock exchange 
+indices based on the trend change analyses to the assessment of a level of the 
+Parkinson disease progression on the grounds of the analysis of the COP signals.
+METHODS: 30 patients in two stages of PD, 40 elderly participants, and 20 
+individuals at a young age were studied. Each person was subjected to 3 
+measurements with open and closed eyes. A technical analysis of the COP 
+displacement signal was performed, and the following quantities were determined: 
+indices related to the number of trend changes (TCI), indices defining a mean 
+time (TCI_dT), and mean displacement (TCI_dS) and mean velocity (TCI_dV) between 
+such changes.
+RESULTS: The results indicate a higher TCI value for PD than for aged-matched 
+control group (p < 0.05). In the case of PD patients, there was also an increase 
+in the TCI_dS value by 2-5 mm, which mainly contributed to the increase in 
+TCI_dV. Statistically significant differences for the TCI_dT values occurred 
+between all groups in which differences in the average COP velocity were noted.
+CONCLUSIONS: The TCI and TCI_dV results obtained for the healthy participants 
+enabled the development of indices supporting PD diagnostics. The causes of the 
+TCI_dV changes in patients were determined, i.e., whether they resulted from an 
+increase in the TCI_dT or TCI_dS between the moments of trend changes indicated 
+by the developed algorithm. The developed methodology provides new information 
+on the impact of PD on the strategy of maintaining balance, which was impossible 
+to obtain using currently used analyses.

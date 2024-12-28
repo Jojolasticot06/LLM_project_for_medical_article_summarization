@@ -1,0 +1,15 @@
+Despite extensive technological advances in recent years, objective and 
+continuous assessment of physiologic measures after vaccination is rarely 
+performed. We conducted a prospective observational study to evaluate short-term 
+self-reported and physiologic reactions to the booster BNT162b2 mRNA 
+(Pfizer-BioNTech, https://www.pfizer.com) vaccine dose. A total of 1,609 
+participants were equipped with smartwatches and completed daily questionnaires 
+through a dedicated mobile application. The extent of systemic reactions 
+reported after the booster dose was similar to that of the second dose and 
+considerably greater than that of the first dose. Analyses of objective heart 
+rate and heart rate variability measures recorded by smartwatches further 
+supported this finding. Subjective and objective reactions after the booster 
+dose were more apparent in younger participants and in participants who did not 
+have underlying medical conditions. Our findings further support the safety of 
+the booster dose from subjective and objective perspectives and underscore the 
+need for integrating wearables in clinical trials.

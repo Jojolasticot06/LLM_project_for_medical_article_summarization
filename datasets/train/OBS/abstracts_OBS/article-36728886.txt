@@ -1,0 +1,310 @@
+Chronic Obstructive Pulmonary Disease (COPD) is a common, preventable and treatable 1 
+pathology that is characterized by persistent respiratory symptoms and airflow limitation.1 2 
+According to the World Health Organization, COPD is the third highest cause of mortality 3 
+worldwide in 2019.2 The evolution of COPD is not limited to respiratory symptoms: 4 
+comorbidities are extremely frequent during the evolution of the disease3, and increase the 5 
+impact on the quality of life of COPD patients.4 Among these comorbidities, the impairment of 6 
+postural control has been described as one important extra-respiratory manifestation for these 7 
+patients.5 8 
+
+Postural control is a complex system, which manages the body’s position in space for the dual 9 
+purposes of stability and orientation.6 The postural control of COPD patients has been 10 
+documented by numerous experimental studies and three systematic reviews have highlighted 11 
+the impairment of postural control of people with COPD compared to control participants.7–9 12 
+However, the mechanisms behind and the potential consequences of postural control alteration 13 
+are only partially known.8,9 14 
+
+Pulmonary rehabilitation is one of the major treatments for people with COPD10 and consists 15 
+of a comprehensive, individualised intervention based on thorough assessment of identifiable 16 
+treatable traits.11,12 Exercise training and therapeutic education are considered as cornerstones 17 
+of pulmonary rehabilitation and various interventions are delivered in addition to fit patient 18 
+needs.12 The initial evaluation of a pulmonary rehabilitation program must be holistic to realize 19 
+an overview of patient’s strengths, impairments, and project. To this purpose, a wide range of 20 
+areas are assessed during this evaluation (e.g. pulmonary function, symptoms, exercise 21 
+capacity, muscular function, quality of life, etc.).11 22 
+
+The latest American Thoracic Society/European Respiratory Society statement on pulmonary 23 
+rehabilitation recommended to include the evaluation of postural control in the initial 24 
+assessment.13 However, no specific tests are recommended in the guidelines and a 25 
+
+comprehensive assessment of postural control can be complex, time-consuming, and is not 1 
+usually performed as a first-line procedure in patients with COPD.14 Although not all people 2 
+with COPD have impaired postural control (an estimated 40-45% have reduced postural 3 
+control15,16), identifying the characteristics and predictors of a reduced postural control could 4 
+facilitate the detection and the classification of at risk-patients and thus individuals who require 5 
+a comprehensive postural control assessment. In addition, exploring the correlation between 6 
+postural control in COPD patients and various clinical factors could be of interest to clarify or 7 
+support hypotheses about the underlying mechanisms (e.g. muscle function or dyspnea9) and 8 
+impacts of postural control impairment (e.g. on activities of daily living or quality of life15). 9 
+
+The aims of this study were 1) to identify clinical factors that characterize patients with reduced 10 
+postural control, 2) to identify predictors of a reduced postural control in these patients and 3) 11 
+to investigate any correlation between postural control and clinical factors in patients with 12 
+COPD. 13 
+
+ 14 
+
+METHODS 15 
+
+ 16 
+
+STUDY DESIGN AND SETTINGS 17 
+
+This study is a secondary cross-sectional analysis of the PARACHUTE study17, conducted in 18 
+the pulmonary rehabilitation unit of the Centre Hospitalier des Pays de Morlaix, from January 19 
+2019 to December 2019. This study’s purpose was to determine the effect of a pulmonary 20 
+rehabilitation program on fear of falling of COPD patients. This research was approved by the 21 
+ethics committee of the Centre Hospitalier Universitaire de Brest (number 29BRC18.0246) and 22 
+was registered on Clinical Trials (number NCT03793452). 23 
+
+PARTICIPANTS 2 
+
+Inclusion criteria were as follows: patients older than 18 years old with a confirmed diagnostic 3 
+of COPD stage 2 to 4 (A-D) according to the GOLD criteria.1 4 
+
+Exclusion criteria were: (1) Patients with a diagnosed pathology impairing his balance, (2) 5 
+Previous pneumonectomy or lobectomy in the past 6 months, (3) Refusal of participation, (4) 6 
+Patients with an incapacity to follow a standard rehabilitation program, (5) Pregnant or breast-7 
+feeding woman, (6) Patients under tutorship or curatorship. 8 
+
+Participants participated on a four-week program in the pulmonary rehabilitation unit of the 9 
+Centre Hospitalier des Pays de Morlaix. Patients were assessed at the beginning and at the end 10 
+of the program. The study of the association between postural control and clinical factors was 11 
+performed on baseline data. 12 
+
+
+ASSESSMENTS 14 
+
+The postural control was assessed using the Brief BESTest (BBT) which is a composite 15 
+functional tool18. The BBT is a derivative of the BESTest, an assessment aiming to investigate 16 
+every sub-components of postural control.19,20 The BBT explores a significant number of sub-17 
+components of postural control (seven out of nine according to Sibley et al. operational 18 
+definition of postural control21). The BBT is valid22 and reliable22,23 in the COPD population. 19 
+Normative values were reported by O’Hoski et al.24 for people from 50 to 90 years old. 20 
+
+Every participant realized a spirometry with Forced Expiratory Volume in 1 second and Forced 21 
+Vital Capacity maneuvers after bronchodilators, in accordance to international 22 
+recommendations.25 23 
+
+An arterial puncture was performed for arterial blood gases analysis to obtain the resting partial 1 
+pressure of oxygen in blood (PaO2) and the partial pressure of carbon dioxide in blood. 2 
+
+Inspiratory muscle strength was obtained by assessing the maximal inspiratory pressure (MIP) 3 
+measured using a Micro RPM (Micro Medical), following the European Respiratory Society 4 
+statement on respiratory muscle testing.26 Isometric maximal voluntary quadriceps strength and 5 
+quadriceps endurance were measured using a hand-held dynamometer (MicroFET 2, Hoggan), 6 
+following a standardized, validated and reliable procedure.27,28 7 
+
+Exercise capacity was measured using the six-minute walk test and the one-minute Sit to Stand 8 
+test. The six-minute walk test is a self-paced walking test, which measures the distance covered 9 
+by an individual over the course of six minutes. This is a valid and reliable tool for assessing 10 
+exercise capacity in people with COPD.29 The one-minute Sit to Stand test assessed the ability 11 
+to change from a sitting to a standing position repeatedly, for one minute. The one-minute Sit 12 
+to Stand test is a relevant and reliable tool for assessing functional status of patients with 13 
+COPD.30 14 
+
+Dyspnea was evaluated in a multi-dimensional way with the Dyspnea-12 questionnaire, the 15 
+Modified Medical Research Council dyspnea Scale, the London Chest Activity of Daily Living 16 
+and the Multidimensional Dyspnea Profile (conducted at the end of the six-minute walk test). 17 
+The Dyspnea-12is a questionnaire investigating the affective and sensory dimensions of the 18 
+dyspnea.31 The Modified Medical Research Council is a zero-to-four scale, assessing the global 19 
+impact of dyspnea in the life of patients.32 The London Chest Activity of Daily Living is a tool 20 
+designed to assessed the impact of dyspnea in fifteen different activities of daily living.33 The 21 
+Multidimensional Dyspnea Profile is a composite tool that assessed the affective and sensory 22 
+dimension of dyspnea related to an activity.34 The Multidimensional Dyspnea Profile is 23 
+separated into three different scales (“A1” and “A2” regarding affective dimension of dyspnea 24 
+
+and “QS” regarding the sensory dimension of dyspnea). These questionnaires were validated in 1 
+the COPD population and translated into French.35,36 2 
+
+Quality of life (QoL) was measured with both the Saint George Respiratory questionnaire 3 
+(SGRQ) and the COPD Assessment Test (CAT). The SGRQ is a questionnaire designed to 4 
+measure the impact on overall health, daily life, and perceived well-being in patients with 5 
+obstructive airways disease.35 The SGRQ gives three sub-scores (symptoms, activities, and 6 
+impacts) and a total score. Each score is given on a 0-to-100-point scale (a higher score indicates 7 
+a higher impact of the disease in the QoL of patients). The CAT is a questionnaire assessing the 8 
+impact of COPD on health status.38 The CAT totals eight items, each item is scored on a 1 to 5 9 
+point scale. Range of CAT scores from 0–40 where higher scores denote a more severe impact 10 
+of COPD on patient life. 11 
+
+Anxiety and depression were evaluated using the Hospital Anxiety and Depression Scale .39 It 12 
+consists of 14 items, 7 for anxiety disorders and 7 for depressive disorders. Each item is scored 13 
+between 0 and 3 and a score out of 21 is given for each dimension. A higher score indicates a 14 
+higher risk of anxiety or depressive symptoms. 15 
+
+Patients were asked to report falls on the twelve-month period before the inclusion in the 16 
+program. Fear of falling was evaluated using the Fall Efficacy Scale-International.40 , a self-17 
+administered questionnaire designed to assess the fear of falling that has been widely used in 18 
+previous research in the COPD population.41,42 It consists of 16 items, scored from 1 to 4 by the 19 
+patient. The total score is therefore between 16 and 64 points. A high score indicates a high fear 20 
+of falling. 21 
+
+STATISTICAL ANALYSIS 23 
+
+Descriptive data were presented as mean (± standard deviation) or as median (interquartile 1 
+range) according to the nature of the variable and the distribution. The normality of the 2 
+distribution was tested using the Shapiro-Wilk test. 3 
+
+Using the normative values of the BBT 24, a reduction of postural control was defined by a BBT 4 
+score below the lower limit of the 95% confidence interval to the mean BBT score for the 5 
+decade. Thus, the participants were classified into the reduced postural control group or the 6 
+non-reduced postural control group. The analysis of the differences between these two groups 7 
+was performed using the independent Student t-test, the Mann-Whitney U test or the .2. The 8 
+effect size for between-group differences was calculated using the Cohen’s d or the rank biserial 9 
+correlation. 10 
+
+The correlation analysis between the postural control score (BBT) and the clinical factors was 11 
+performed using the Pearson correlation coefficient or the Spearman’s rank correlation 12 
+coefficient. 13 
+
+A binomial logistic regression was performed with the presence or not of a reduced postural 14 
+control as the dependent variable. A forward stepwise approach was used to determine the best 15 
+regression model. Independent variables were selected from the between-groups analysis and 16 
+the correlation analysis. The number of independent variables selected was adapted to the 17 
+sample size, using the rule of thumb of a minimum of ten participants per predictor.43 Selected 18 
+independent variables were successively incorporated into the model to obtain the lowest 19 
+possible Akaike Information Criterion and the higher possible Nagelneke R2. A Receiver 20 
+Operating Characteristic curve was performed to evaluate the sensitivity and the specificity of 21 
+the regression model. 22 
+
+A p-value of less than 0.05 was considered statistically significant. The statistical analysis was 23 
+performed using Jamovi 1.8.1.0 (The Jamovi Project). 24 
+
+ 1 
+
+RESULTS 2 
+
+
+
+PARTICIPANTS AND CHARACTERISTICS 4 
+
+80 patients were consecutively included in the PARACHUTE study. Seven patients were 5 
+excluded from the final analysis: four participants did not respect eligibility criteria and three 6 
+did not perform the postural control assessment at baseline. Thus, a total of 73 participants were 7 
+included in the analysis. The detailed characteristics of included patients are shown in the table 8 
+1. 43 participants presented a reduced postural control as previously defined in study’s methods, 9 
+26 participants were considered having a non-reduced postural control and four participants 10 
+were not classified (no normative data available for their age decade). The between group 11 
+comparison (reduced postural control versus non-reduced postural control) showed significant 12 
+differences in the following clinical factors: PaO2 (P = .019 ; d = .62), SGRQ-total (P = .04 ; d 13 
+= -0.75), SGRQ-Symptoms (p < .001 ; d = -0.88), SGRQ-Activities (P = .02 ; d = -0.59), SGRQ-14 
+Impacts (P = .045 ; d = -0.51), CAT (P = .040 ; d = -0.52) and Anxiety score of Hospital Anxiety 15 
+and Depression Scale -(P = .015 ; d = -0.63). The difference was not significant for BMI (P = 16 
+.07; d = -0.45) and MIP (P = .09; d = .42). 17 
+
+
+CORRELATIONS
+
+The significant correlations between postural control (BBT score) and the clinical factors are 20 
+represented in the table 2. This analysis was performed for all participants, independently of 21 
+postural control status. 22 
+
+LOGISTIC REGRESSION 1 
+
+The logistic regression was performed to determine predictive factors for presenting a reduced 2 
+postural control. The best logistic regression model included the SGRQ-Symptoms (OR =1.05: 3 
+95% CI, 1.02 - 1.08, P = .003), PaO2 (OR = .93: 95% CI, .87 - .99, P = .020), MIP (OR = .96: 4 
+95% CI, .93 - .99, P = .020) and BMI (OR =1.15: 95% CI, 1.01 - 1.31, P = .034). This model 5 
+was the best in accordance with the a priori set criteria (Akaike Information Criterion = 69.6; 6 
+Nagelneke R2 = .44). Setting the cut-off at 0.67, the model sensibility was 74% and specificity 7 
+was 74%, the area under the curve was 0.84 (figure 1). 8 
+
+The final equation is the following: 9 
+
+P (Reduced postural control) = 2.4201 + 0.0481*SGRQ-Symptoms – 0.0771*PaO2 – 10 
+0.0390*MIP+ 0.1418*BMI 11 
+
+Where “P (reduced postural control)” is the probability of presenting a reduced postural control. 12 
+
+The estimated marginal means for each predictor are represented in the figure 2. 13 
+ 
+
+DISCUSSION
+
+
+The main aim of this study was to identify clinical factors that characterized COPD patients 17 
+with reduced postural control: these patients presented significantly impaired QoL scores, lower 18 
+PaO2 and higher anxiety score. Secondly, the analysis of the correlation between postural 19 
+control and clinical factors identified significant associations with QoL, PaO2, inspiratory 20 
+muscle strength, dyspnea, exercise capacity and fear of falling. Lastly, predictive clinical factors 21 
+of an impaired postural control were symptom-related QoL, PaO2, inspiratory muscle strength 1 
+and BMI. 2 
+
+Previous research has shown that postural control impairment is frequent in COPD patients.15,16 3 
+In the present study, nearly six out of ten COPD patients were considered to have a reduced 4 
+postural control. So, this study adds to the evidence that postural control impairment is very 5 
+common in patients with COPD, and that this domain must be explored by clinicians with 6 
+regard to its consequences in terms of falling 44 and performing daily tasks15. 7 
+
+This study identified that the QoL is significantly more impaired in COPD patients with altered 8 
+postural control. QoL scores were also correlated with postural control, and the symptoms sub-9 
+score of the SGRQ was identified as the strongest predictor of the presence of a reduced postural 10 
+control in these patients. The reduction of QoL in patients with impaired postural control and 11 
+the significant correlation could suggest that postural control impairment has a negative impact 12 
+on daily lives of people with COPD. However, the identification of the SGRQ-symptoms sub-13 
+score as one of the predictors of a reduced postural control could implicate that the relation 14 
+between these parameters is bilateral: on the one hand, it seems probable that a reduction in 15 
+postural control induces an impairment in quality of life. But on the other hand, symptoms (such 16 
+as dyspnea) and their perceived consequences have the potential to interact negatively with 17 
+postural control, as suggested by previous research9. 18 
+
+If some authors have hypothesized that hypoxemia could be an underlying mechanism of 19 
+postural control impairment in COPD45, few studies on postural control included a direct 20 
+measure of arterial blood pressure in oxygen. Ozalevli et al.46 reported a significant correlation 21 
+between PaO2 and the Berg balance scale (r = .28) in patients with COPD, which is in line with 22 
+the present study. According to our results, the PaO2 is also a significant predictor of the 23 
+presence of a reduced postural control in COPD patients: any decrease in PaO2 increases the 24 
+risk of presenting a postural control impairment in the latter. 25 
+
+The results of this study suggest that inspiratory muscle strength could play a role in postural 1 
+control impairment in COPD. The presence of a reduced inspiratory strength could increase the 2 
+risk of presenting a postural control impairment in COPD patients. This is in line with previous 3 
+clinical research47 and is consistent with laboratory studies that highlighted the role of 4 
+inspiratory muscles in postural control function48,49. This finding is potentially important for 5 
+the management of COPD patients with decreased postural control function, as inspiratory 6 
+muscle training could be a relevant intervention for them. While balance training or functional 7 
+exercises are the interventions with the highest level of evidence50,51, previous studies in 8 
+elderly52 and in people with COPD53 have shown that inspiratory muscle training could be a 9 
+potential relevant intervention for postural control enhancement 10 
+
+Our results identified that the BMI is a significant predictor of postural control impairment in 11 
+patients with COPD: in our analysis any raise in the BMI increases the risk of presenting a 12 
+reduced postural control. Using a similar study design, Jacome et al. reported BMI as a 13 
+significant predictor of reduced postural control with comparable odds ratio (OR =1.12 in 14 
+Jacome study versus 1.16 here).16 15 
+
+Previous studies attempted to identify predictors of reduced postural control in COPD patients: 16 
+Jacome et al.16 identified BMI, number of medications, alterations in recreational activities and 17 
+depression score as predictors of reduced postural control (defined by a Timed up and Go score 18 
+below normative values). Liwsrisakun et al.54 found that the exercise capacity (assessed by the 19 
+six-minute walk test) was the only predictor of a reduced postural control (here defined using 20 
+fall risk cut-off for the Timed up and Go test and the Berg Balance Scale ). The definition of 21 
+“reduced postural control” differed in these studies and the clinical factors used for logistic 22 
+regression were not the same and could therefore explain the differences observed. 23 
+
+Even if identified predictors are the result of a statistical analysis, it could be hypothesized that 24 
+positive changes in these predictor scores could induce interesting modifications in postural 25 
+
+control of COPD patients. Future studies should investigate the impact on postural control of 1 
+changes in QoL, PaO2, inspiratory muscle strength or BMI. 2 
+
+
+LIMITATIONS
+
+Firstly, this is a secondary analysis of a study designed for a different purpose. It implicates that 5 
+the sample size calculation was not tailor made for this purpose and that the number of included 6 
+participants is small for this type of analysis. However, for logistic regression analysis, some 7 
+authors suggested a sample size of ten participants per predictor,43 which is the case here. In 8 
+any case, the equation needs to be validated with a larger sample size and confirmed 9 
+prospectively. The second limitation is that participants were voluntary patients participating in 10 
+a pulmonary rehabilitation program. This does not represent all patients with COPD and the 11 
+extrapolation to the whole COPD population should be confirmed in future research with a 12 
+more representative panel.
+
+
+CONCLUSION
+
+In the context of a pulmonary rehabilitation program, this study shows that COPD patients with 16 
+reduced postural control present characteristics in several clinical factors that distinguish them 17 
+from patients with non-impaired postural control. Symptom-related QoL, PaO2, MIP and BMI 18 
+were identified as predictors of an impaired postural control in these patients. 19 

@@ -1,0 +1,201 @@
+Introduction
+Global agencies advocate for the use of information and communication technologies to accelerate progress on priorities, such as the sustainable development goals, the Roadmap for Measurement and Accountability, and the Global Strategy for Women’s, Children’s and Adolescents’ Health.1,2 In particular, the transition from paper to digital systems for routine health information systems and managing service delivery has attracted major investment.3–12 Some of the drivers for this transition include the clerical burden of maintaining multiple paper-based registers and the manual aggregation of data that absorbs time that could otherwise be used for service provision and supervision. Developing reports from paper-based data is not only error-prone and time-consuming but also risks propagation of these problems across several administrative levels and limiting opportunities for real-time, data-driven decision-making.8,10–13 Lastly, the current design of paper-based systems places a greater emphasis on data collection for health management information systems and indicator reporting,14 rather than on point-of-care decision-support needs, which are important for high-quality care.
+
+Although there is heightened interest in the digital transformation of paper-based systems, this process may be conducted in an ad hoc manner and protracted due to the scale of the challenge. Often the focus may be to convert analogue forms into electronic versions, as opposed to digitalizing, which introduces opportunities for improvements and harnesses the potential added value from digital systems, such as real-time decision support.15,16 At the individual level of service delivery, health workers may value the familiarity and convenience of paper registers14 and be apprehensive of the changes associated with – and consequences of – shifting to digital tools. Health workers’ varying levels of literacy in information and communication technologies may contribute to potential resistance to transitioning to digital tools. Additionally, digital systems that are not responsive to users’ needs may hamper the extent to which paper-based tools can be migrated successfully into a digital format.17–23 Despite the abundance of research on barriers to and facilitators for the deployment of digital systems,17–23 the literature is limited in detailing the processes of how to digitalize.
+
+In 2014 the World Health Organization (WHO) launched a multisite study across Bangladesh, Indonesia and Pakistan to validate a replicable and systematic process of transforming paper registers to digital systems that are optimized to enhance service provision and fulfil reporting requirements. Here we describe the methods used to create the digital system and a preliminary assessment of its feasibility and uptake. We highlight key lessons from this effort and offer reflections towards a pragmatic approach for the digital transformation of paper registers.
+
+Go to:
+Methods
+Study design
+We designed a multisite, formative study with a common set of research questions across sites. Table 1 provides an overview of the three phases of developing and piloting the digital register: (i) needs assessment; (ii) prototype development; and (iii) feasibility assessment.24 The study ran from November 2014 to June 2018. The study was conducted by the Technologies for Health Registers, Information, and Vital Events group comprised of researchers, technology developers and government partners. Each country team was interdisciplinary, comprising a local technology team embedded within the research teams to co-design the implementations. Ona, a software development company in Nairobi, Kenya, provided the technology development guidance and assisted site teams to develop and deploy their own software. WHO provided overall coordination, including protocol development, standardizing templates for extracting and analysing information and facilitating information exchange and learning across sites.
+
+Table 1
+Research phases and questions in the study of transitioning paper registers to digital systems, Bangladesh, Indonesia and Pakistan, 2015–2018
+Phase	Aims	Research questions	Methods
+Phase 1: Needs assessment	Understand health workers' responsibilities, workflows, routine data reporting needs, and intervention schedules and tasks for service delivery to establish the functional requirements for an optimized digital register system	What are the current workflows, data generation responsibilities and technology capacities of health workers in each study site?
+What are the current information systems and data needs of supervisors and decision-makers in each study site?
+How can existing workflows, data collection and data reporting be optimized through a digital application?	Desk review;
+data mapping;
+observation of staff;
+in-depth interviews and focus group discussions;
+semi-structured questionnaires
+Phase 2: Prototype development	Create a functional version (minimum viable product) of digital application that meets minimum requirements of capturing routinely collected data, addresses service delivery needs, and achieves usability across targeted cadres of health worker	What functions are required of the digital register for both the generic version and the local adaptations for each site and cadre of health worker?
+What are the key factors to make the digital register easy to use and to integrate the workflows, data collection and reporting needs of key cadres of health workers, supervisors and decision-makers?
+What are the technical requirements to support local adaptation and use of the digital register?	Focus group discussions;
+usability testing;
+co-design workshops;
+repeated feedback to refine prototype
+Phase 3: Feasibility assessment	Determine the factors necessary to support implementation of the digital system and uptake by health workers	What is the uptake by health workers of the developed digital register?
+What are the requirements to support implementation of the digital register?	Pilot testing with continuous data monitoring;
+monitoring of project data
+Open in a separate window
+Study setting
+The study was conducted among primary health workers providing reproductive, maternal, newborn and child health services, and their supervisors and managerial health staff, in three country sites: Gaibandha district (rural), Bangladesh; Central Lombok district (rural), Indonesia; and Karachi (urban) and Shikarpur (rural) districts, Pakistan. All sites were in countries that prioritized digitalizing the routine health information systems and which had a strong reliance on primary health workers to provide the targeted health services. However, each site had different information needs, models of service delivery, cadres of health workers and health infrastructure capabilities, to provide a diverse range of experiences to inform the digitalization process. Research teams engaged their respective district health office and health ministry counterparts to ensure that the process and findings supported a broader digital health vision and informed plans for sustainability beyond the study.
+
+Intervention
+The first phase (running for 6‒9 months, depending on the site) was a needs assessment to gather information on health workers’ responsibilities, workflows, routine data reporting requirements and service delivery needs. Researchers at each site conducted a desk review of all the paper registers for all relevant cadres of health workers listed in Table 2. We then consolidated and cross-checked the findings for logical ways of grouping together the multiple registers. We coded the data fields from the paper registers using data extraction forms25 to describe the purpose of the data elements and determine the data points that would need to be incorporated into the digital system. The extraction forms detailed the frequency of the data collected; type of data field (numeric, string or multiple choice); purpose of the information (service delivery or aggregation); how the data were aggregated and linked to indicators; and abnormalities or issues with collecting the data (such as data fields that were repeated or redundant, meaning they did not contribute to service delivery or reporting needs). Based on this extraction, research teams at sites compiled a spreadsheet data dictionary following a standardized template.
+
+Table 2
+Study participants by cadre type and setting in three study sites in Bangladesh, Indonesia and Pakistan, 2015–2018
+Participants	     Health worker cadres by setting
+     Gaibandha district, Bangladesh	     Central Lombok district, Indonesia	Karachi (urban) and Shikarpur (rural) districts, Pakistan
+Primary health workers (5–7 of each cadre)	Family welfare assistants: provide routine reproductive, maternal, newborn and child health services through home visits, such as antenatal screening and referrals for clinical services
+Family welfare visitors: provide routine reproductive, maternal, newborn and child health services through clinics, with a focus on family planning and antenatal care
+Health assistants: deliver immunizations according to the expanded programme on immunizations; hold routine outreach vaccination events	Midwives (bidan): provide antenatal care; conduct deliveries, intrapartum care and postnatal care; provide contraception, including intrauterine devices
+Nutritionist workers (gizi): provide services related to maternal and child nutrition promotion; child growth monitoring; distribution of vitamin A; community outreach for anthelmintics and nutrition
+Vaccinators (vaksinator): provide routine child vaccinations at health outreach centres and school programmes	Lady health workers: provide core community activities, such as household registration and census enumeration; pregnancy surveillance; community-based antenatal care; polio vaccination and other routine immunizations; vital events tracking; and related reproductive, maternal, newborn and child health services
+Vaccinators: provide all childhood vaccinations and women’s tetanus vaccinations at clinics and during outreach services; responsible for tracking logistics and supplies
+Supervisors of primary health workers (3–5 of each cadre)	Family planning inspectors: supervise family welfare assistants
+Health inspectors: supervise health assistants	Head of primary health care: supervise and be responsible for all health workers at the primary health-care centre (puskesmas)
+bidan coordinator: supervise bidan midwives
+gizi coordinator: supervise nutrition workers
+vaksinator coordinator: supervise vaccinators	Lady health visitors: supervise lady health workers; provide facility-based antenatal care, deliveries; handle obstetric complications
+District-level health managers for reproductive, maternal, newborn and child health services (1 of each cadre)	Deputy director family planning;
+Upazila health and family planning officer;
+Upazila family planning officer	District health office head;
+District public health head;
+District family health division head;
+District midwife (maternal and child health) coordinator;
+District vaccinator coordinator;
+District nutritionist coordinator	Provincial head of expanded programmes on immunization;
+Provincial director of lady health worker programme
+Open in a separate window
+Notes: Upazila are the equivalent of subdistricts. Local terms for the health worker cadres are shown in italics.
+
+We also conducted in-depth interviews with the relevant cadres of health worker and their respective supervisors to further determine their requirements related to routine data collection, service provision needs, intervention schedules, and circumstances that call for deviations from their standard workflows. Site teams also shadowed health workers to observe the workers’ interactions and work patterns in real time. During direct observations, a trained study assistant made notes of tasks performed, when and how data were recorded, and how data were used by health workers to make decisions during interactions with clients.
+
+The second phase, over the following 6‒9 months, was to develop a prototype digital application that met the identified needs for health service delivery and information systems.26 Site teams used paper mock-ups in co-design workshops as a way for end-users to provide input on and collaboratively refine the digital prototype. Our intention was to identify new features at an early stage (client scheduling, sorting entries by name, alerts for conditions requiring following) as well as issues of functionality and usability.27 The teams also embedded analytical tools, such as Flurry Analytics (Flurry, San Francisco, United States of America) to track commonly used functions and steps that led to system crashes or errors in the software application, as part of measures for improving the usability of the digital application.
+
+We used the Open Smart Register Platform (OpenSRP, Nairobi, Kenya), an open-source, mobile-based digital application for developing the prototypes, testing the usability and conducting the feasibility assessment. Each site customized OpenSRP and organized the content as modules corresponding to the health domain and the service delivery needs of the health worker cadre. Once a functional prototype was developed, the site teams assessed health workers’ ease of completing tasks on the digital application by observing and timing how health workers reacted to the various functions assigned to them, such as registering a client and completing a consultation. We also used focus group discussions to obtain additional information on health workers’ preferences and challenges with the prototypes and to understand their requirements for additional features.
+
+Implementation
+The third phase was the feasibility assessment. Each site implemented a version of the digital application developed based on their site-specific requirements and organized across health domain modules and responsibilities of the targeted health worker cadre. We monitored uptake of the developed digital application over a 9-month period at the Indonesia site (June 2015 to March 2016) and over 5 months at the Bangladesh and Pakistan sites (November 2016 to March 2017). We measured uptake based on successful enrolment of new clients or households done through the application, as well as weekly health worker form submissions. During the feasibility assessment, sites continued to update the digital application modules in response to feedback from the health workers.
+
+Each site team conducted a 5-day training for targeted cadres of health worker (Table 2) on the use of the mobile device (such as turning on or off the data plan), the functions of the digital application (such as following up clients, interpreting prompts) and in some cases refresher training on the health content (such as vaccination schedules). The training also included use of dummy data and scenarios to test the practical uses of the application.
+
+Site teams developed a system monitoring plan, in which technical supervisors tracked the mobile devices using centralized system monitoring software and a review of form submissions and time stamps. All health workers received a unique username and password login detail for accessing the application modules on a tablet device. Site teams tracked failures of the mobile devices, evidence of tampering and staff members’ active times at the individual user level and compared the data across the pool of users. Users who deviated markedly from the group median and mean number of forms submitted were visited by supervisory field teams to verify the information. We established specific data collection benchmarks based on catchment populations to determine the weekly proportion of clients met in a timely manner and of appointments overdue and appointments expired (no longer valid) to identify high and low-performing workers. Site teams reviewed a random selection of forms submitted by health workers for technical validity (such as plausibility of correct last menstrual period) and calculated potential error rates. The teams also generated statistical summary sheets for supervisory review and identification of performance variability.
+
+The multisite study team met in person annually to review progress and held bi-weekly online meetings to exchange lessons learnt and discuss solutions to common challenges. Two cross-site workstreams emerged. One workstream focused on the technology and overall design of the digital system, including how to adapt the application to allow integration with other digital systems and manage the data types and coding language of the application. Another workstream focused on questions related to the content, training, deployment and monitoring. At the end of the study, WHO staff consolidated the health content across different sites to work towards a generic application for each health domain.
+
+We extracted data via secure data transmission protocols to external dashboards and reporting tools for monitoring and evaluation purposes. Individual and patient data captured by health workers during routine service delivery were made available to the relevant government health management information reporting systems, in line with the standard practice of paper reporting forms.
+
+Ethical approval for the study was obtained from the WHO ethical review committee and the institutional review boards of Interactive Research and Development, Pakistan, Bangladesh Medical Research Council, Johns Hopkins School of Public Health, USA and University of Mataram, Indonesia.
+
+The Review Panel on Research Projects, coordinated by the WHO Department of Sexual and Reproductive Health and Research and the Special Program on Human Reproduction approved the scientific and technical content of the core research protocol through an external committee (Protocol ID A65886).
+
+Go to:
+Results
+Study teams reviewed an average of 17 paper registers at each site, which we consolidated into seven modules within the digital application for different cadres of health worker across different sites. Two modules were designed for the Bangladesh site (for family welfare assistants and family welfare visitors); three modules for the Indonesia site (for midwives, nutritionists and vaccinators); and two modules for the Pakistan site (for lady health workers and vaccinators; Table 3). We made efforts to streamline the numerous registers into health domain modules on, for example, antenatal care, household enumeration and vaccination. The common core functions of the digital application included: (i) tracking of client health status and services received; (ii) decision support to health workers by providing prompts and alerts; (iii) screening for potential risks; (iv) identifying clients in need of services; (v) scheduling follow-up appointments in accordance with the clinical protocols; and (vi) coordinating care across health workers. The development process resulted in features for enhancing usability, such as identifying returning clients through quick response (QR) codes, performing a smart search to facilitate follow-up of clients, printing out completed forms to submit for reporting, enabling health workers to view their overall performance, and using the application offline. Screenshots of these modules and outputs are provided in the supplementary files in the authors’ data repository.25
+
+Table 3
+Description of the paper registers reviewed and digital modules developed at three study sites in Bangladesh, Indonesia and Pakistan, 2015–2018
+Stage	Gaibandha district, Bangladesh	Central Lombok district, Indonesia	Karachi and Shikarpur districts, Pakistan
+Stage 1: Needs assessment
+Register review	22 paper registers reviewed	20 paper registers reviewed:	16 paper registers reviewed:
+Family welfare assistants’ registers: couple roster; child roster (age 0–1 years); child roster (age 0–5 years); adolescent health service delivery roster; pregnant woman roster; household population roster; 2-monthly summary reporting forms for family welfare assistants
+
+Family welfare visitors’ registers: antenatal care register; delivery register; child register; general patient register; 3 summary reporting forms
+
+Health assistants’ registers: adolescent girl and woman registration and vaccination information; neonatal registration and vaccination information; daily vaccine and other care reports	Antenatal care registers: new antenatal care; antenatal care visit; birth plan; delivery and postnatal care
+
+Family planning registers: new family planning method form; updated family planning method form; closed family planning method form
+
+Postnatal care registers: postnatal care registration; postnatal care visit; postpartum family planning
+
+Child registry registers: child registration; neonatal visit; baby visit; child visit; child immunization	Lady health workers’ registers: family register; monthly report by lady health workers; community chart; register for diagnosis; family planning register; lady health workers monthly programme register; health committee meeting report; women’s group meeting report; list of children less than 3 years of age; list of pregnant women
+
+Lady health visitors’ registers: child health register; outpatient department register; stock register
+
+Vaccinators’ registers: daily register; permanent register; stock register
+No. of professionals interviewed or observeda	15 health workers observed:
+5 family welfare assistants
+5 family welfare visitors
+5 health assistants	23 health workers interviewed or observed:
+5 community-based midwives (bidan)
+5 nutritionists (gizi)
+5 vaccinators (jurim)
+6 community health volunteers (kader)
+1 medical chief or head of Central Lombok district health office
+1 district midwife coordinator	19 health workers interviewed or observed:
+5 vaccinators
+5 lady health workers
+5 lady health visitors
+1 lady health supervisor
+1 deputy provincial head of the expanded programme on immunization
+1 provincial director of the lady health workers programme
+1 deputy provincial director of lady health visitor programme
+Stage 2: Prototype development
+No. of modules	2 digital prototypes	3 digital prototypes	2 digital prototypes
+Details	A module for family welfare assistants to record community health worker activities related to household registration, pregnancy registration, antenatal care danger signs, referral and commodity distribution, and postnatal care;
+a module for family welfare visitors to record antenatal care	A module for community-based midwives to record registration of mothers, antenatal care, postnatal care, care for children under 5 years of age, and family planning;
+a module for nutritionists to record child registration, anthropometry and anaemia tracking, electronic growth charts, nutrition education and promotion media;
+a module for vaccinators that included child registration, child expanded programme on immunization schedule and vaccine tracking	A module for lady health workers to register households including women and children for pregnancy registration, antenatal and postnatal care and family planning;
+a vaccinator module for registration and follow-up of women and children at expanded programme on immunization centres and immunization clinics
+Stage 3: Feasibility assessment
+No of health workers trained on the module	45 family welfare assistants; numbers were increased from the research protocol on request from the health ministry
+18 supervisors of family welfare assistants	13 midwives
+12 nutritionists
+12 vaccinators	6 vaccinators
+3 lady health workers
+No. of health workers using the module during pilot deployment	44 family welfare assistants	13 midwives
+12 nutritionists
+12 vaccinators	8 health workers (3 lady health workers and 5 vaccinators)
+Open in a separate window
+a Only health workers involved in service delivery were observed; supervisory staff were only interviewed.
+
+Note: Local terms for the health worker cadres are shown in italics.
+
+The process of mapping registers across the range of health domains demonstrated the repetition of the data collected by different cadres of health workers. For example, in Bangladesh, of the 571 data fields appearing across different registers for the family welfare assistants, we estimated that less than 100 data points were necessary for the health records, after removing duplicate and redundant fields.28 Likewise, in Indonesia we found that 33 of 87 (38%) indicators compiled from data collected by midwives, vaccinators, nutritionists and community child development workers were repeated or redundant, or were not compatible. We streamlined redundant and conflicting data elements to identify the essential requirements for the digital prototype and conducted a series of stakeholder discussions to gain consensus on the final set of data elements to be included.28
+
+We trained a total of 67 health workers across the three sites on the use of the application and monitored its uptake by 65 health workers during the feasibility assessment (Table 3). Table 4 shows the numbers of households and patients registered into the application over the trial period and the usage statistics for the health workers.
+
+Table 4
+Outcomes of the feasibility assessment during pilot deployment of a new digital records application in three study sites in Bangladesh, Indonesia and Pakistan, 2016–2017
+Indicator	Gaibandha district, Bangladesh
+(Nov 2016–Mar 2017)	Central Lombok district, Indonesia
+(Jun 2015–Mar 2016)	Karachi and Shikarpur districts, Pakistan
+(Nov 2016–Mar 2017)
+All sites
+No. of registrations into the module	1348 households registered by family welfare assistants;
+1402 pregnant women enrolled by family welfare assistants	959 new pregnant women registered by midwives (mean per midwife: 73; range: 10–346);
+180 new family planning users enrolled (mean per midwife: 13; range: 0–159);
+137 new children registered (mean per midwife: 10; range: 0–56)	334 households (with 1762 household members) enrolled by lady health workers;
+438 children from these households referred and vaccinated
+Site-specific performance monitoring
+Mean number of forms submitted per health worker per week (range)	48 forms (8–101)	54 forms (26–234)	NA
+No. (%) of health workers submitting forms consistently for at least 10 days	27/44 (61)	8/13 (62)	NA
+No. (%) of health workers with form submissions below the average	17/44 (39)	5/13 (38)	NA
+Mean number of sessions on use of modules per health worker (range)	NA	193 (67–501)	NA
+Time taken for household enrolment, minutes (range)	NA	NA	Mean: 2.5; median: 1.8 (0.8–13.3)
+Open in a separate window
+NA: not applicable.
+
+The majority of health workers were able to use the digital modules but with substantial variability in the numbers of form submissions. The weekly number of forms submitted by health workers ranged from 8 to 234, and depended on the responsibilities of the cadre of health worker, including whether they were community- or facility-based (Table 4). This variation persisted throughout the feasibility assessment and highlighted the need for data-driven feedback and coaching to optimize uptake of the digital system by health workers. For example, when reinforcement and supervision was provided at the Indonesia site, the rates of form submissions improved (Fig. 1). Additional examples from the Bangladesh and Pakistan sites are available in the data repository.25
+
+An external file that holds a picture, illustration, etc.
+Object name is BLT.22.287816-F1.jpg
+Fig. 1
+Changes in digital form submissions by nurse midwives in response to feedback and coaching, Central Lombok district, Indonesia, June 2015 to March 2016
+
+App: application
+
+Notes: The large declines in forms submitted were typically due to periodic trainings and health centre events that workers needed to attend, and therefore made fewer form submissions. The pauses correspond to times when the module was not in use, such as public holidays.
+
+Go to:
+Discussion
+Although the process was resource intensive, we were able to create digital application modules that were responsive to a diverse set of health worker cadres and continue to be implemented in different countries beyond the research period. The study also provided important information for WHO and research teams beyond the observed findings. The approach used in Indonesia directly informed the transformation of the WHO antenatal care guidelines into the WHO digital antenatal care module, a digital decision-support and client-record application.29 Most notably, this study catalysed the launch of the WHO SMART guidelines initiative30 to provide generic recommended health content in a format that can be used within digital systems.30 Lastly, the process of refining OpenSRP contributed to its recognition as a digital global good,31 and OpenSRP continues to evolve and be implemented globally.
+
+Throughout the study, several common themes emerged around the sustainability of this effort. First, the digitalization process required careful planning to link with the local health information systems and existing digital systems, and putting measures in place to adapt to the evolving health information system. For example, in Bangladesh, teams spent approximately 9 months in the initial phase, mapping the different digital tools used and working with government counterparts to ensure there was a plan for information exchange across systems. With the introduction of data standards, the process for digital systems to exchange data may become more efficient. In Indonesia, the team drew on lessons learnt from the study to introduce the Fast Healthcare Interoperability Resources data standard32 to the health ministry as a way to exchange data more efficiently in digital systems.
+
+The concurrent use of paper and digital systems was another recurring issue as countries continued to require paper-based reporting. An interim strategy developed in consultation with government partners in Indonesia was to use data entry assistants to complete the paper registers, while the health workers focused on using the digital modules. Additionally, the Indonesian site undertook a process of entering information from existing registers so that health workers could have immediate access to the details for follow-up care of pregnant women. In Pakistan, financial incentives were used with success but issues were raised about the long-term viability of this approach. Although we were not able to resolve the balancing of the dual use of paper and digital systems, we identified approaches to alleviate the double burden. Further work is needed to assist governments in managing this mix of paper and digital systems, as well as understanding the requirements, cost implications and level of uptake by health workers if digital systems become the primary source.
+
+The adoption of the digital application also required extensive training and time to allow health workers to familiarize themselves with the modules, particularly for older health workers. The close monitoring of uptake of the application assisted in targeting feedback, and sometimes uncovered underlying issues, such as death in a health worker’s family, thus explaining the individual’s divergent performance. In Pakistan, individual attention in the training was useful for enhancing health workers’ understanding of the application. Although most of the health workers could use the application with limited supervision by the end of the training, a follow-up plan was made for those still facing difficulties. In Bangladesh, the research team dedicated a 90-day period for health workers to familiarize themselves with the digital application and for the research team to solve minor problems and enhance the usability of the application. The team also developed a checklist to systematically review health workers’ use of the digital application before the system was deployed in real situations. In Indonesia, the research team monitored health workers’ daily patterns of use, including challenges faced during the deployment. Coaching on their performance in service coverage as well as active feedback from the health workers on how to improve the platform allowed for rapid modifications to the digital application, with the goal of improving uptake of the modules. Additionally, considerable efforts were dedicated to the use of digitized data to facilitate monthly reporting and active use of data by supervisors in monthly review meetings.
+
+When this study was initiated, the use of mobile technologies for expanding health information systems was met with enthusiasm by implementers and funders, despite the limited evidence base for feasibility or impact.33–37 Furthermore, with the exception of the Collaborative Requirements Development Methodology38 developed in the United States, there were few resources to guide the transformation of paper registers into digital systems. Since then, investments in digitalization and national-level implementations have greatly increased. Nevertheless, lessons learnt from this process remain relevant: the political and technical considerations for streamlining data capture, managing the dual burden of using both paper and digital systems, and facilitating appropriate and continuous support to health workers.
+
+Our experiences also resonate with commonly documented challenges in digitalization initiatives, such as aligning with the end-user needs and workflows, ensuring training and reinforcement to health workers, and planning for successful information exchange and data use.4,10,39–44 We also encountered issues that emerged more clearly during the digitalization process. An example was the management of incomplete information (date of birth or unnamed children), which existed on paper registers but needed to be addressed in the digital system due to the built-in checks and compulsory fields. The fragmentation of service delivery processes within health systems was also an impediment to designing a digital system appropriate to clients’ needs, but also presented an opportunity to identify ways in which digital tools can help synchronize and coordinate care across disparate primary health workers. Ultimately, the deployment of digital systems requires both well-designed applications and human resource development plans to realize and sustain the gains to the health system; digital modules are necessary, but not sufficient, for successful digitalization.
+
+Although this was a multisite study, one limitation is that all the sites were in south-eastern Asia and did not include settings from other geographical areas. Furthermore, the data span across different time periods due to contextual factors (such as local ethical approval, the process to gain access to health workers and alignment with government priorities). Lastly, while this study aimed to offer a systematic approach to digitalization, there were inevitable adaptations and local deviations from the generic protocol required to accommodate government priorities and engagements across different stakeholders.
+
+In conclusion, the digitalization of routine health information systems requires a systematic approach and concerted efforts with governments to move beyond simply automating the existing system and to manage the accompanying organizational, behavioural and technical transitions. As digital technologies become increasingly widespread, the mechanics of effectively designing, implementing and sustaining digital systems for service provision and accountability remains an area for continuous learning.

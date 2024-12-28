@@ -1,0 +1,9 @@
+How amenable is type 2 diabetes treatment for precision diabetology? A meta-regression of glycaemic control data from 174 randomised trials
+
+1/Aims/hypothesis: There are two prerequisites for the precision medicine approach to be beneficial for treated individuals. First, there must be treatment heterogeneity; second, in the case of treatment heterogeneity, we need to detect clinical predictors to identify people who would benefit from one treatment more than from others. There is an established meta-regression approach to assess these two prerequisites that relies on measuring the variability of a clinical outcome after treatment in placebo-controlled randomised trials. Our aim was to apply this approach to the treatment of type 2 diabetes.
+
+2/Methods: We performed a meta-regression analysis using information from 174 placebo-controlled randomised trials with 178 placebo and 272 verum (i.e. active treatment) arms including 86,940 participants with respect to the variability of glycaemic control as assessed by HbA1c after treatment and its potential predictors.
+
+3/Results: The adjusted difference in log(SD) values between the verum and placebo arms was 0.037 (95% CI: 0.004, 0.069). That is, we found a small increase in the variability of HbA1c values after treatment in the verum arms. In addition, one potentially relevant predictor for explaining this increase, drug class, was observed, and GLP-1 receptor agonists yielded the largest differences in log(SD) values.
+
+4/Conclusions/interpretation: The potential of the precision medicine approach in the treatment of type 2 diabetes is modest at best, at least with regard to an improvement in glycaemic control. Our finding of a larger variability after treatment with GLP-1 receptor agonists in individuals with poor glycaemic control should be replicated and/or validated with other clinical outcomes and with different study designs.

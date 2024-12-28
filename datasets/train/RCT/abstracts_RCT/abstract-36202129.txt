@@ -1,0 +1,39 @@
+BACKGROUND: There is an urgent need to reduce the burden of depression among 
+older adults in low-income and middle-income countries (LMICs). We aimed to 
+evaluate the efficacy of a task-shared, collaborative care psychosocial 
+intervention for improving recovery from depression in older adults in Brazil.
+METHODS: PROACTIVE was a pragmatic, two-arm, parallel-group, cluster-randomised 
+controlled trial conducted in Guarulhos, Brazil. Primary care clinics (clusters) 
+were stratified by educational level and randomly allocated (1:1) to either 
+enhanced usual care alone (control group) or to enhanced usual care plus the 
+psychosocial intervention (intervention group), which involved a 17-week 
+psychosocial programme based on psychoeducation and behavioural activation 
+approaches. Individuals approached for the initial screening assessment were 
+selected randomly from a list of individuals provided by the Health Secretariat 
+of Guarulhos. Face-to-face baseline assessments were conducted among adults aged 
+60 years or older registered with one of the primary care clinics and identified 
+with clinically significant depressive symptomatology (9-item Patient Health 
+Questionnaire [PHQ-9] score ≥10). Community health workers delivered the 
+programme through home sessions, supported by a dedicated tablet application. 
+Masking of clinic staff and community health workers who delivered the 
+intervention was not feasible; however, research assistants conducting 
+recruitment and follow-up assessments were masked to trial allocation. The 
+primary outcome was recovery from depression (PHQ-9 score <10) at 8-month 
+follow-up. All primary analyses were performed by intention to treat with 
+imputed data. Adaptations to the protocol were made due to the COVID-19 
+pandemic; recruitment and intervention home sessions were stopped, and follow-up 
+assessments were conducted by telephone. This trial is registered with the 
+ISRCTN registry, ISRCTN57805470.
+FINDINGS: We identified 24 primary care clinics in Guarulhos that were willing 
+to participate, of which 20 were randomly allocated to either the control group 
+(ten [50%] clusters) or to the intervention group (ten [50%] clusters). The four 
+remaining eligible clusters were kept as reserves. Between May 23, 2019, and Feb 
+21, 2020, 8146 individuals were assessed for eligibility, of whom 715 (8·8%) 
+participants were recruited: 355 (49·7%) in the control group and 360 (50·3%) in 
+the intervention group. 284 (80·0%) participants in the control group and 253 
+(70·3%) in the intervention group completed follow-up at 8 months. At 8-month 
+follow-up, 158 (62·5%) participants in the intervention group showed recovery 
+from depression (PHQ-9 score <10) compared with 125 (44·0%) in the control group 
+(adjusted odds ratio 2·16 [95% CI 1·47-3·18]; p<0·0001). These findings were 
+maintained in the complete case analysis. No adverse events related to the 
+intervention were observed.

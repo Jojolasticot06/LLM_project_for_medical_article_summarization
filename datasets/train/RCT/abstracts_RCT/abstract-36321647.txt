@@ -1,0 +1,12 @@
+Investigating the efficacy and safety of calcipotriol/betamethasone dipropionate 
+foam and laser microporation for psoriatic nail disease-A hybrid trial using a 
+smartphone application, optical coherence tomography, and patient-reported 
+outcome measures.
+
+1/There is a lack of efficacious topical treatments for patients suffering from psoriatic nail disease (PND). 
+
+2/We investigated the efficacy of Calcipotriol-Betamethasone Dipropionate (Cal/BD) foam with and without ablative fractional laser (AFL) in patients with PND. A total of 144 nails from 11 patients were treated in a 24-week long, open-label, randomized, intra-patient controlled proof-of-concept hybrid trial. In addition to daily Cal/BD foam application, half of each patient's psoriatic nails were randomized to receive optical coherence tomography (OCT)-guided AFL treatment at baseline, 6-, and 12-week follow-ups. In-clinic assessment (N-NAIL), patient-reported outcomes (PROMs), and drug consumption were supplemented by remote evaluation of 15 subclinical OCT features, smartphone app-based safety monitoring, and photo-based assessment (NAPSI). 
+
+3/After 24 weeks of Cal/BD foam treatment, patients achieved a significant improvement (p < 0.001) in both clinical (N-NAIL -76%, NAPSI -68%) and subclinical (OCT -43%) PND severity as well as a 71% reduction in PROMs. AFL-assisted Cal/BD treatment led to higher clinical (N-NAIL -85%, NAPSI -78%) and OCT-assessed (-46%) reduction of PND signs than Cal/BD alone (N-NAIL -66%, NAPSI -58%, OCT -37%), but did not reach statistical significance. Smartphone app images documented adverse events and mild local skin reactions, particularly erythema (75%), laser-induced swelling (28%), and crusting (27%). 
+
+4/This hybrid trial demonstrated a reduction in clinical NAPSI and N-NAIL scores, subclinical OCT features, and PROMs, suggesting that Cal/BD foam is a safe and efficacious treatment for PND. Larger trials are warranted to prove the clinical benefit of AFL pretreatment as a Cal/BD delivery enhancer.

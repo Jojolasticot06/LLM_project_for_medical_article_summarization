@@ -1,0 +1,9 @@
+Recombinant C1 inhibitor in the prevention of severe COVID-19: a randomized, open-label, multi-center phase IIa trial
+
+1/Background: Conestat alfa (ConA), a recombinant human C1 inhibitor, may prevent thromboinflammation.
+
+2/Methods: We conducted a randomized, open-label, multi-national clinical trial in which hospitalized adults at risk for progression to severe COVID-19 were assigned in a 2:1 ratio to receive either 3 days of ConA plus standard of care (SOC) or SOC alone. Primary and secondary endpoints were day 7 disease severity on the WHO Ordinal Scale, time to clinical improvement within 14 days, and safety, respectively.
+
+3/Results: The trial was prematurely terminated because of futility after randomization of 84 patients, 56 in the ConA and 28 in the control arm. At baseline, higher WHO Ordinal Scale scores were more frequently observed in the ConA than in the control arm. On day 7, no relevant differences in the primary outcome were noted between the two arms (p = 0.11). The median time to defervescence was 3 days, and the median time to clinical improvement was 7 days in both arms (p = 0.22 and 0.56, respectively). Activation of plasma cascades and endothelial cells over time was similar in both groups. The incidence of adverse events (AEs) was higher in the intervention arm (any AE, 30% with ConA vs. 19% with SOC alone; serious AE, 27% vs. 15%; death, 11% vs. 0%). None of these were judged as being related to the study drug.
+
+4/Conclusion: The study results do not support the use of ConA to prevent COVID-19 progression.

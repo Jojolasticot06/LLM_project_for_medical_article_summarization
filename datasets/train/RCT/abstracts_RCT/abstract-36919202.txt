@@ -1,0 +1,24 @@
+1/ African children are at risk of malaria and malnutrition. 
+2/ We quantified relationships between malaria and malnutrition among young Ugandan children in a 
+high malaria transmission region. Data were used from a randomized controlled 
+trial where Ugandan HIV-unexposed (n = 393) and HIV-exposed (n = 186) children 
+were randomized to receive no malaria chemoprevention, monthly 
+sulfadoxine-pyrimethamine, daily trimethoprim-sulfamethoxazole, or monthly 
+dihydroartemisinin-piperaquine (DP) from age 6-24 months, and then were followed 
+off chemoprevention until age 36 months. Monthly height and weight, and time of 
+incident malaria episodes were obtained; 89 children who received DP contributed 
+piperaquine (PQ) concentrations. Malaria hazard was modeled using parametric 
+survival analysis adjusted for repeated events, and height and weight were 
+modeled using a Brody growth model. 
+3/ Among 579 children, stunting (height-for-age 
+z-score [ZHA] < -2) was associated with a 17% increased malaria hazard (95% 
+confidence interval [CI] 10-23%) compared with children with a ZHA of zero. DP 
+was associated with a 35% lower malaria hazard (hazard ratio [HR] [95% CI], 0.65 
+[0.41-0.97]), compared to no chemoprevention. After accounting for PQ levels, 
+stunted children who received DP had 2.1 times the hazard of malaria (HR [95% 
+CI] 2.1 [1.6-3.0]) compared with children with a ZHA of zero who received DP. 
+Each additional malaria episode was associated with a 0.4% reduced growth rate 
+for height. 
+4/ Better dosing regimens are needed to optimize malaria prevention in 
+malnourished populations, but, importantly, malaria chemoprevention may reduce 
+the burden of malnutrition in early childhood.

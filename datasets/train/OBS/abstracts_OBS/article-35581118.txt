@@ -1,0 +1,180 @@
+1. Introduction
+Day-surgery (i.e., admission for less than 12 hours, without overnight stay) has become a major public health priority in optimizing healthcare [1], which French health authorities aimed to develop so as to reach a 70% rate by 2022 (https://www.has-sante.fr/).
+
+The advantages of otologic day-surgery have been described in adults [2], [3], but few studies focused on pediatrics [4], [5], [6], [7], [8]. In 2010, Bhattacharyya [9] was one of the first to report ambulatory pediatric otolaryngologic procedures in the USA, highlighting its role in myringoplasty.
+
+The French ENT Society [Société française d’oto-rhino laryngologie (SFORL)] advocated day-surgery as not showing extra risk in myringoplasty in its updated guidelines for childhood tympanic perforation surgery. The procedure has benefitted from the progress seen in all areas of anesthesiology and pediatric otology: ultra-short acting anesthetics, preventive analgesia and anti-emetics. To assess the organization of outpatient pediatric otology, we studied a series of children undergoing major ear surgery: myringoplasty, ossiculoplasty, tympanoplasty with or without mastoidectomy, or cochlear implantation [10], [11], [12], [13].
+
+We performed an observational study of children undergoing otologic surgery in the pediatric day-surgery unit. The main endpoint was factors for success of outpatient management. The secondary endpoint was the number of unscheduled postoperative consultations and readmissions.
+
+2. Material and method
+Files for consecutive pediatric admissions for ear surgery considered major according to the literature [12], [13] over a 3-year period in a French university hospital were analyzed. The single-center retrospective observational study followed STROE guidelines [14].
+
+Outpatient management was standardized, and planned during the preoperative consultations. Perioperative analgesia comprised paracetamol, non-steroidal anti-inflammatory drugs and, if needed, morphine chlorhydrate. Intraoperatively, absorbable devices were used for outer ear canal packing and sutures. Discharge was decided on by the otologist or the anesthetist, according to postoperative course, on 3 conditions: resumed feeding, > 3 h postoperative monitoring, and Pediatric Post-Anesthesia Discharge Scoring System (Ped-PADSS) score ≥ 9 [15]. The discharge prescription comprised a step-1 analgesic, quinolone ear drops in case of canal packing, and oral antibiotics in case of intraoperative middle-ear inflammation. Absorbable packing avoided the need for unpacking at day 7. Postoperative dressing, covered by a hood in case of mastoidectomy, was managed by a home nurse. A unit nurse systematically called patients on day 1. The first postoperative consultation was scheduled for day 7 for cochlear implantation and between day 10 and month 1 for the other procedures.
+
+2.1. Inclusion
+Between January 2017 and December 2019, eligible children were those admitted to the pediatric day-surgery unit for the first time, for myringoplasty, tympanoplasty with or without mastoidectomy, or cochlear implantation. Exclusion criteria comprised surgery under scheduled conventional admission, and history of the same procedure in our hospital.
+
+2.2. Study variables
+General population data and specific otologic surgery data were collected: gender, surgeon's status, analgesic drugs, anesthetic drugs, type of surgery, complications affecting stay (categoric variables), and age, surgery time, anesthesia time (from induction to extubation), length of stay and American Society of Anesthesia (ASA) score (continuous variables).
+
+2.3. Endpoints
+The main endpoint was variables affecting success. The secondary endpoint was variables associated with readmission or unscheduled postoperative consultation.
+
+2.4. Statistics
+Statistical analysis used STATA software, version 11 (StataCorp, Texas, USA). Continuous variables were reported as mean or median with standard deviation, and categoric variables as percentage. Normal distribution of continuous variables was assessed on Kolmogorov–Smirnov test for samples > 50 patients. Equality of variance was checked on F-test. The Student t-test was used to compare mean values of normally distributed continuous variables.
+
+Associations between parameters or patient groups were assessed on Fisher test. Independence of parameters was assessed on Chi2 test of variance in normal distributions. The significance threshold was set at P < 0.005, in line with improved practice as encouraged by the European Annals of Otorhinolaryngology, Head & Neck Diseases [16], [17].
+
+3. Results
+3.1. Patients
+Among the children undergoing major ear surgery during the study period, 214 out of 271 were included. Fifteen of the 57 exclusions concerned scheduled surgery with pediatric ENT department admission: parental refusal of day-surgery in 5 cases, excessive home-to-hospital distance in 2, incompatible comorbidity in 8; the other 42 were patients with history of the same procedure in our unit.
+
+Table 1 presents population data. There were 125 boys (58%) and 89 girls. Median age was 109 months (9 years) (SD, 44 months; [range: 8–196 months (16 years)]). Mean anesthesia time was 128 ± 38 minutes. Otologists performed 166 procedures (78%) and residents 48 (22%). In 121 cases (57%), no mastoidectomy was associated: 84 myringoplasties and 37 tympanoplasties; in 93 (43%), mastoidectomy was associated: 47 cochlear implantations and 46 closed tympanoplasties for cholesteatoma.
+
+Table 1. Population and procedure data.
+
+Number (214)	Number (%) or [SD]
+Age	
+ (median, years)	9 [3.7]
+Anesthesia time	
+ (median, minutes)	128 [38]
+Gender	
+ Boy	125 (58)
+ Girl	89 (42)
+Otologist	
+ Senior	166 (78)
+ Assistant	48 (22)
+Mastoidectomy	
+ Yes	121 (56)
+ No	93 (44)
+ASA score	
+ 1	196 (92)
+ 2	18 (8)
+Anesthetic drugs	
+ Sevoflurane	214 (100)
+ Propofol	148 (69)
+ Remifentanil	214 (100)
+ Paracetamol	214 (100)
+ Ibuprofen	125 (58)
+ Solumedrol	214 (100)
+ Ondansetron	207 (96)
+3.2. Endpoints
+3.2.1. Success of day-surgery
+Day-surgery was successful in 203 cases, for a success rate of 95%. In 11 cases, the surgeon or the anesthetist required crossover to admission to the pediatric ENT department: i.e., failure rate of 5%.
+
+Crossover concerned myringoplasty in 2 cases, cochlear implantation in 7 and closed tympanoplasty in 2, including 9 procedures with mastoidectomy. Symptoms or reasons comprised postoperative nausea and vomiting in 3 cases, non-controlled pain in 3, and late awakening in 5.
+
+Fig. 1 shows the influence of the study variables on crossover. Table 2 shows factors for day-surgery failure; univariate analysis revealed a plausible association with age < 36 months (P = 0.002).
+
+
+Download : Download high-res image (356KB)
+Download : Download full-size image
+Fig. 1. Major otologic procedures in children between 2017 and 2019: types of admission and reasons for crossover. The histogram shows success rate as percentage according to type of surgery. Procedure 1: myringoplasty without mastoidectomy; procedure 2: tympanoplasty without mastoidectomy; procedure 3: closed tympanoplasty; procedure 4: cochlear implantation.
+
+Table 2. Univariate analysis of risk factors for day-surgery failure. Significant values in bold.
+
+Empty Cell	Univariate (P)
+Age	
+ < 36 months	0.002
+Gender	
+ Male/female	0.2
+Anesthesia time	
+ < 60 minutes	1
+ < 90 minutes	1
+ < 120 minutes	0.7578
+ < 160 minutes	1
+ASA score	
+ 1 vs. 2	1
+Surgeon	
+ Senior/assistant	0.07
+Anesthetic drugs	
+ Propofol	1
+ Remifentanil	1
+ Ondansetron	1
+ Sevoflurane	1
+ Solumedrol	1
+ Paracetamol	1
+Approach	
+ Trans-canal/posterior	0.401
+Procedure	
+ Myringoplasty	0.535
+ Tympanoplasty only	1
+ Tympanoplasty + mastoidectomy	0.408
+ Cochlear implant	0.709
+Procedure with/without mastoidectomy	0.759
+3.2.2. Readmission, unscheduled consultation
+There were no readmissions.
+
+There were 7 unscheduled consultations (3%), following myringoplasty in 3 cases, tympanoplasty without mastoidectomy in 3, and cochlear implantation in 1. The reasons were mild otorrhagia in 5 cases, and non-complicated otorrhea in 2. Univariate analysis identified no predictive factors for unscheduled consultation (Table 3).
+
+Table 3. Univariate analysis of risk factors for unscheduled consultation.
+
+Empty Cell	Univariate (P)
+Age	
+ < 50 months	0.520
+ < 90 months	0.679
+ < 120 months	1.00
+ < 150 months	1.00
+Gender	
+ Male/female	0.453
+Anesthesia time	
+ < 90 minutes	0.567
+ < 120 minutes	0.247
+Surgery time	
+ > 150 minutes	1.00
+ASA score	
+ 1 vs. 2	0.464
+Surgeon	
+ Senior/assistant	1.0
+Anesthetic drugs	
+ Propofol	0.206
+ Remifentanil	1
+ Ondansetron	1.00
+ Ibuprofen	0.702
+ Paracetamol	1.00
+Approach	
+ Trans-canal/posterior	0.600
+Procedure	
+ Myringoplasty	0.709
+ Tympanoplasty only	0.607
+ Tympanoplasty + mastoidectomy	0.650
+ Cochlear implant	0.180
+Day-surgery failure (crossover)	0.987
+4. Discussion
+Otologic surgery is compatible with less than 12 hours’ admission without overnight stay and the standards of outpatient management [1]. The feasibility and safety of major ear surgery, as advocated by Bonnafous et al. in adults [12], were confirmed in the present study of 214 children aged 8 months to 16 years. Discharge home from the unit was authorized in 95% of cases after myringoplasty, tympanoplasty with or without mastoidectomy and cochlear implantation.
+
+The activity of a day-surgery unit is a hot performance indicator for healthcare establishment managers [18], [19]. The absence of overnight stay reduces costs by reducing logistic and accommodation charges: the patient is admitted to the center, undergoes surgery and returns home (or is accommodated in a hotel attached to the unit) all in the same day. The center implements a quality indicator to reveal the efficiency of theater organization, planning and the surgery team. In 2017, Uziel stressed that French teams were lagging behind in developing outpatient otology: 30% of procedures were day-surgeries, with a wide range between centers from 1% to 72% of otology activity [1]. The lack of studies focusing on postoperative course and care in otology was deplored by the French ENT Society (SFORL), as contributing to the lack of safety guidelines. Likewise, Jelicic et al. noted the lack of consensus regarding outpatient management in a survey of Canadian otologists [20].
+
+With a 95% day-surgery rate (256/271) over a 3-year period, we prioritized this form of management in pediatric otology. Lazard et al. highlighted the specific reorganization of surgical management needed to increase the rate of day-surgery [2]: setting up a day-surgery unit optimized organization within 2 years, with day-case rates increasing from a third to a half of otologic procedures. Twenty-three of their 259 cases were children, and the authors advocated separate adult and pediatric units. Bonnafous et al. [12] likewise reported a soar in adult outpatient otology after the creation of a dedicated unit, rising from 65% to 92% of major otologic procedures.
+
+In a pediatric day-surgery unit, good practice rules are easy to apply. To achieve good preoperative hydration, especially in infants, a clear liquid may be taken an hour ahead of general anesthesia [21]. Discharge criteria are assessed by the nursery nurse and unit nurse using the Ped-PADSS score [15]. We implement 5 criteria: awakeness, pain, nausea and vomiting, vital signs, and surgery site bleeding, assessed as 0 = severe hindrance, 1 = moderate hindrance, and 2 = no hindrance; scores > 9 allow discharge without passing through the anesthesiologist if there is no dyspnea or dysphonia. Biedermann et al. [15] reported that 95% of children achieved Ped-PADSS ≥ 9 after 2 hours’ surveillance. Pre-admission selection is a key factor for success [13]. To be eligible, patients must meet strict medical and surgical criteria, such as ASA class I or II. In pediatrics, the French National Council of Child Surgery (CNCE) and the French-speaking Pediatric Anesthesiologists’ Association (ADARPEF) drew up French guidelines for pediatric day-surgery (http://e-adarpef.fr/wp-content/uploads/2015/03/chirurgie-ambulatoire.pdf). The general eligibility criteria echo the surgical, anesthesiological and environmental contraindications [22], [23]. The type of surgery and expected postoperative course are taken into account to assess the suitability of monitoring at home or in a hospital hotel.
+
+The present low 5% failure rate was comparable to those reported elsewhere in studies analyzing indicators of success in scheduling surgery in a pediatric day-case unit (Table 4) [4], [5], [7], [8], [11], [12], [18], [19], [24], [25]. According to Roxbury et al. [10], parents need warning of the possibility of transfer to conventional admission and the risk of failure of day-case management. Hasan et al. [7] identified 3 factors associated with elevated risk of nausea and vomiting and failure of same-day discharge. In 152 pediatric otology procedures with mastoidectomy, risk was higher in case of cholesteatoma resection, severe pain, and intravenous administration of morphine sulfate on return to the unit [7]. Morphine-based analgesia in the recovery room may induce nausea and vomiting, but intraoperative ondansetron and dexamethasone provides very effective prophylaxis [7], [26].
+
+Table 4. Indicators for successful day-surgery according to type of procedure, general anesthesia time and patient age.
+
+Author, date	Number	Age < 12 months	Anesthesia time (minutes)	Without mastoidectomy n (%)	With mastoidectomy n (%)	Same-day discharge, n (%)	Crossover n (%)	Reconsultation n (%)	Readmission n (%)
+Rowlands et al., 2002	150	0	ND	150	0	140 (93)	10 (6.7)	ND	ND
+Ryan et al., 2002	74	0	71	74	0	71 (96)	3 (4)	4 (5.4)	0
+Rowlands et al., 2003	32	ND	117	0	32	13 (41)	19 (59)	12 (3.7)	0
+Liu et al., 2000	65	0	ND	0	65	63 (97)	2 (3)	1 (1.5)	0
+Hasan et al., 2004	152	ND	162	68 (45)	84 (55)	55 (36)	97 (64)	ND	ND
+Powell et al., 2010	52	0	144	20 (38)	32 (62)	52 (100)	0	2 (3.8)	0
+Stephens et al., 2010	21	0	ND	0	21 (100)	20 (95)	1 (5)	0	0
+Sivam et al., 2017	579	ND	ND	0	579 (100)	573 (99)	6 (1)	ND	ND
+Roxbury et al., 2015	2556	ND	ND	1634 (64)	922 (26)	ND	ND	32 (1.3)	18 (0.7)
+Present series	256	6 (2)	130	136 (53)	120 (47)	242 (95)	14 (5)	9 (3.2)	0
+ND: no data.
+
+
+Age is a controversial topic, especially as cochlear implantation may be indicated in infants. The present series included 6 cases of cochlear implantation in under-12-month-olds, only 1 of whom required crossover to conventional admission. Among the medical and surgical selection criteria of the French Health Authority, age is not an exclusion criterion in itself. The “Day-surgery: an overview” report (https://www.has-sante.fr/upload/docs/application/pdf/2013-11/day_surgery_-_an_overview.pdf) rather underlines team experience and type of surgery. Some under-6-month-olds may be included after prior agreement from the anesthesiologist and surgeon. Yeh et al. [23] reported good tolerance of anesthesia in 123 pediatric cochlear implantations, especially in the 12 under-1-year-olds; complications, if any, were predominantly respiratory. The present results showed a plausible association between failure and age < 36 months. Roxbury et al. [10] analyzed 2556 pediatric otology procedures and likewise found the risk of complications to be greatest in under-36-month-olds. For these younger patients, usually cochlear implantation candidates, extra perioperative precautions should be taken: planning surgery from the start of the program, so as to ensure sufficient recovery-room time, and nausea and vomiting prophylaxis are the best means of meeting the Ped-PADSS criteria [15].
+
+After discharge, 3% of children came for an unscheduled consultation. The literature reports rates of 1–5% for this indicator, which is useful for assessment of outpatient organization (Table 4). Causes in the present series comprised otorrhagia at day 1 and mild otorrhea. Roxbury et al. [10] reported a low, 1%, rate of complications; the main causes were related to healing: disunion, and wound superinfection. For Liu et al. [27] and Alyono and Oghalai [18], the main complications were hematoma, otorrhea and scar disunion; these were minor complications, not requiring readmission.
+
+Readmission rates are another key indicator. In the present series, this rate was 0. Roxbury et al. [10] reported low rates of adverse events at 30 days: 0.4% revision surgeries and 0.7% readmission. In their large cohort, children undergoing complex procedures (tympanoplasty with mastoidectomy, cochlear implantation) were more likely to be readmitted, independently of other factors. Children aged under 36 months were 4.4 times as likely to be readmitted as older children [OR: 4.4; 95% CI (2.002–9.599); P < 0.001]. Causes of readmission were mainly infection (76%), followed by postoperative bleeding.
+
+This study had certain limitations, notably the absence of a satisfaction questionnaire for patients and parents, and of assessment of their social context. In 12 observational studies assessing patient satisfaction with day-surgery, the Health Authority found a high rate of satisfaction with treatment without overnight stay; the report stressed the importance of psychosocial and environmental selection criteria and the particularities of minors. Some unscheduled admissions are due to social factors such as lack of accompaniment or help at home or request by the patients or family, but even so pediatric outpatient management is often preferred by families, although some apprehension may persist [13], [26], [27]. There are many criteria defining social context: single-parent family, parental educational level, cultural origin, sibling position; and these may impact success of outpatient management, unscheduled consultation and readmission [28]. The contribution of collecting these factors for planning should be assessed in a future study. Satisfaction audits, as proposed by Grenier et al. [29], are also useful for detecting shortcomings in management and optimizing relations with the community healthcare network. Hicklin et al. [30] consulted the families of 100 children after hospital stay for pediatric head and neck surgery, and reported 95% satisfaction among parents. Community care provided by general practitioners and nurses should be identified and teamwork between the hospital unit and family doctors or community ENT specialists should be arranged in the preoperative information.
+
+5. Conclusion
+In a dedicated pediatric day-surgery unit, otologic procedures in children proved compatible with admission for less than 12 hours without overnight stay. Safe planning of major ear surgery was confirmed in the present large series, which included infants, children and adolescents. To reduce the extra risk of crossover to conventional admission in younger children, often undergoing cochlear implantation, specific perioperative precautions are needed: early morning scheduling, and prophylaxis against nausea and vomiting.

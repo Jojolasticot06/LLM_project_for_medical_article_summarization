@@ -1,0 +1,26 @@
+Efficacy and safety of CPX-351 versus 7 + 3 chemotherapy by European LeukemiaNet 
+2017 risk subgroups in older adults with newly diagnosed, high-risk/secondary 
+AML: post hoc analysis of a randomized, phase 3 trial.
+
+1/CPX-351 (Europe: Vyxeos® liposomal; United States: Vyxeos®) is a dual-drug 
+liposomal encapsulation of daunorubicin and cytarabine in a synergistic 1:5 
+molar ratio. In a phase 3 study in older adults with newly diagnosed, 
+high-risk/secondary AML, CPX-351 improved the remission frequency, overall 
+survival, and post-transplant survival versus 7 + 3. 
+
+2/This post hoc analysis evaluated the final 5-year follow-up outcomes according to the European LeukemiaNet 2017 risk classification. CPX-351-treated patients had a higher remission frequency (adverse risk: 41% vs 26%; intermediate risk: 58% vs 39%) 
+and longer median overall survival (adverse risk: 7.59 vs 5.52 months; 
+intermediate risk: 11.86 vs 7.75 months) and post-transplant survival (adverse 
+risk: 43.14 vs 7.08 months; intermediate risk: not reached vs 13.57 months) 
+versus 7 + 3, with outcomes generally poorer among patients with adverse-risk 
+AML. The safety profile of CPX-351 among patients with adverse-risk or 
+intermediate-risk AML was consistent with that of the overall study population. 
+
+3/Early mortality was lower, and hospitalization length of stay per patient-year 
+was shorter with CPX-351 versus 7 + 3 within the adverse-risk and 
+intermediate-risk subgroups. 
+
+4/The favorable outcomes observed with CPX-351 in 
+this post hoc analysis are consistent with results for the overall study 
+population and further support the use of CPX-351 in these 
+patients.

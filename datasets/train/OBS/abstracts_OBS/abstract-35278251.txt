@@ -1,0 +1,30 @@
+BACKGROUND: Severe chronic pain that interferes with daily activities is 
+associated with an increased risk of mortality. We assessed the overall 
+mortality of tertiary chronic pain patients in comparison with the general 
+population, with a special aim to analyse the association of health-related 
+quality of life (HRQoL) and its dimensions with the risk of death.
+METHODS: In this prospective observational follow-up study, patients with 
+non-cancer chronic pain attended an outpatient multidisciplinary pain management 
+(MPM) episode in a tertiary pain clinic in 2004-2012 and were followed until May 
+2019. Mortality between the patients and the general population was compared 
+with standardized mortality ratios (SMR) in different age groups. Causes of 
+death and comorbidities were compared among the deceased. Association of 
+mortality and HRQoL and its dimensions, measured with the 15D instrument, was 
+studied with Cox proportional hazards model.
+RESULTS: During a mean of 10.4-year follow-up of 1498 patients, 296 died. The 
+SMR in the youngest age group (18-49 years) was significantly higher than that 
+of the general population: 2.6 for males and 2.9 for females. Even elderly 
+females (60-69 years) had elevated mortality (SMR 2.3). Low baseline HRQoL at 
+the time of MPM, as well as poor ratings in the psychosocial dimensions of 
+HRQoL, was associated with an increased risk of death.
+CONCLUSIONS: Our results support the role of HRQoL measurement by a validated 
+instrument such as the 15D in capturing both the physical and the psychological 
+symptom burden, and consequently, an elevated risk of death, in patients with 
+chronic pain.
+SIGNIFICANCE: Severe chronic pain is associated with elevated mortality. In 
+patients in chronic pain under 50 years old, the mortality was 2.5-3 times 
+higher than in the general population. Psychological distress appears to 
+contribute to the increased mortality. Regular follow-up by health-related 
+quality of life (HRQoL) measurement could be useful in identifying patients in 
+chronic pain who are in need of intensive symptom management and to prevent 
+early death.

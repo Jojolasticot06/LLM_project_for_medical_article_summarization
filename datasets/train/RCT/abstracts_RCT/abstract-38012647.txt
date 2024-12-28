@@ -1,0 +1,30 @@
+BACKGROUND: Cervical cancer is the leading cause of cancer death in Kenyan 
+women. Integrating cervical cancer screening into family planning (FP) clinics 
+is a promising strategy to improve health for reproductive-aged women. The 
+objective of this cluster randomized trial was to test the efficacy of an 
+implementation strategy, the Systems Analysis and Improvement Approach (SAIA), 
+as a tool to increase cervical cancer screening in FP clinics in Mombasa County, 
+Kenya.
+METHODS: Twenty FP clinics in Mombasa County were randomized 1:1 to SAIA versus 
+usual procedures. SAIA has five steps: (1) cascade analysis tool to understand 
+the cascade and identify inefficiencies, (2) sequential process flow mapping to 
+identify bottlenecks, (3) develop and implement workflow modifications 
+(micro-interventions) to address identified bottlenecks, (4) assess the 
+micro-intervention in the cascade analysis tool, and (5) repeat the cycle. 
+Prevalence ratios were calculated using Poisson regression with robust standard 
+errors to compare the proportion of visits where women were screened for 
+cervical cancer in SAIA clinics compared to control clinics.
+RESULTS: In the primary intent-to-treat analysis in the last quarter of the 
+trial, 2.5% (37/1507) of visits with eligible FP clients at intervention 
+facilities included cervical cancer screening compared to 3.7% (66/1793) in 
+control clinics (prevalence ratio [PR] 0.67, 95% CI 0.45-1.00). When adjusted 
+for having at least one provider trained to perform cervical cancer screening at 
+baseline, there was no significant difference between screening in intervention 
+clinics compared to control clinics (adjusted PR 1.14, 95% CI 0.74-1.75).
+CONCLUSIONS: The primary analysis did not show an effect on cervical cancer 
+screening. However, the COVID-19 pandemic and a healthcare worker strike likely 
+impacted SAIA's implementation with significant disruptions in FP care delivery 
+during the trial. While SAIA's data-informed decision-making and clinic-derived 
+solutions are likely important, future work should directly study the mechanisms 
+through which SAIA operates and the influence of contextual factors on 
+implementation.

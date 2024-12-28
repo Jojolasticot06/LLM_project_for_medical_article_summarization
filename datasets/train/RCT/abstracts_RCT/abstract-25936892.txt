@@ -1,0 +1,10 @@
+Phantom evaluation of a navigation system for out-of-plane CT-guided puncture.
+
+1/OBJECTIVE: The purpose of this phantom study was to assess a new real time electromagnetically-guided navigation system and compare it to standard computed tomography (CT) guidance.
+
+2/MATERIAL AND METHODS: A prospective, randomized, comparative study was carried out over a two-day period. Operators without prior experience on the new navigation system sequentially attempted to puncture two 6 mm-diameter targets (one attempt for each target) with out-of-plane trajectories using both the standard CT-guided method and the new navigation station (NAV method).
+
+3/RESULTS: Intention-to-treat analysis was performed for 54 operators. Twenty-two operators out of 54 (40.7%) reached the target on first attempt with the NAV method versus none (0%) using CT-guidance (P<0.001). The median distance of the puncture from the center of the target was 3.7mm [Q1-Q3=2-6.7] using NAV versus 15 mm [10-20] using CT-guidance (P<0.001). Overall planning and puncture time 
+were shorter using NAV: 76s [50-118] versus 214s [181-264] using CT-guidance (P<0.001).
+
+4/CONCLUSION: Novice operators consistently performed faster and more accurate phantom punctures with out-of-plane trajectories using the electromagnetically-guided navigation system than with the standard CT-guided method.

@@ -1,0 +1,26 @@
+PURPOSE: Postural control impairment has been identified as a potential 
+extrarespiratory manifestation in patients with chronic obstructive pulmonary 
+disease (COPD). The aims of this study were to identify clinical factors that 
+characterize patients with reduced postural control, to examine the correlation 
+between clinical factors and postural control and to determine predictors of an 
+impaired postural control among COPD participants enrolled in a pulmonary 
+rehabilitation (PR) program.
+METHODS: This study is a secondary analysis of an observational study 
+(PARACHUTE). The baseline assessment of the PR program was used for the 
+analysis. Postural control impairment was defined using the Brief BESTest score 
+(BBT).
+RESULTS: Participants (n = 73) were included in the analysis, 43 of them were 
+classified in the reduced postural control group. The between-group comparison 
+(non-reduced vs reduced postural control) identified differences for partial 
+pressure in oxygen (Pa O2 ), Saint George Respiratory Questionnaire (SGRQ) total 
+score and subscores (SGRQ-Symptoms, SGRQ-Activities, and SGRQ-Impact), COPD 
+assessment test (CAT), and anxiety score of the Hospital Anxiety and Depression 
+Scale. The BBT score was significantly correlated with maximal inspiratory 
+pressure (MIP), SGRQ, SGRQ-Symptoms, SGRQ-Impact, Falls Efficacy Scale, modified 
+Medical Research Council Scale, 6-min walk test, and Pa O2 . Logistic regression 
+identified SGRQ-Symptoms, Pa O2 , MIP, and body mass index (BMI) as predictors 
+of the presence of reduced postural control.
+CONCLUSION: Low quality of life (QoL) and Pa O2 and high anxiety seem to be 
+discriminative characteristics of patients with COPD with reduced postural 
+control. Furthermore, QoL, Pa O2 , inspiratory muscle strength, and BMI seem to 
+be acceptable predictors of the presence of postural control impairment.

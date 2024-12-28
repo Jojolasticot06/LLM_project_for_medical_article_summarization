@@ -1,0 +1,25 @@
+PURPOSE: To investigate whether the COVID-19 pandemic and national lockdown had 
+an impact on the extent of cancer disease at FDG PET/CT staging as surrogate 
+marker.
+METHODS: Retrospective observational study including cancer patients submitted 
+to FDG PET/CT staging from June 1 to October 31, 2020, and June 1 to October 31, 
+2019, respectively. Data regarding primary tumour, nodal (N) status and number 
+of involved nodal stations, and presence and number of distant metastases (M) 
+were collected. Each scan was classified in limited vs advanced status. Data 
+were aggregated across the study population and tumour type. Bi-weekly 
+frequencies of the observed events were analysed.
+RESULTS: Six hundred eleven patients were included (240 in 2019 vs 371 in 2020, 
+respectively). A significant increase of advanced disease patients (rate 1.56, 
+P < 0.001), N + or M + patients (rate 1.84 and 2.09, respectively, P < 0.001), 
+and patients with a greater number of involved N stations or M (rate 2.01 and 
+2.06, respectively, P < 0.001) were found in 2020 compared with data of 2019. 
+Analysis by tumour type showed a significant increase of advanced disease in 
+lymphoma and lung cancer in 2020 compared with 2019 (P < 0.001). In addition, a 
+significant increase of nodal involvement was found in lung, gastro-intestinal, 
+and breast cancers, as well as in lymphoma patients (P < 0.02). A significant 
+increase of distant metastases was found in lung cancers (P = 0.002).
+CONCLUSION: Cancer patients with advanced disease at FDG PET/CT staging 
+increased in 2020 compared with 2019, following the national lockdown due to the 
+COVID-19 pandemic, 1.5-fold with a significant increase of patients with N or M 
+involvement. Targeted health interventions are needed to mitigate the effects of 
+the pandemic on patient outcome.

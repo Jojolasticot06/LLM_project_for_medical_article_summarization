@@ -1,0 +1,29 @@
+
+1/Background: STARDOM2 is a randomized, double-blind, phase 3 trial evaluating
+ the efficacy and safety of co-crystal of tramadol-celecoxib (CTC)—a firstin-
+class analgesic co-crystal comprising racemic tramadol hydrochloride and 
+celecoxib in a supramolecular network that modifies their pharmacokinetic 
+properties—for the management of acute postoperative pain (NCT03062644; 
+EudraCT:2016–000593-38). 
+
+2/Methods: Patients with moderate-to-severe pain following abdominal hysterectomy
+ were randomized 2:2:2:2:2:1 to oral CTC 100 mg (rac-tramadol hydrochloride 
+44 mg/celecoxib 56 mg) twice daily (BID); CTC 150 mg (66/84 mg) BID; CTC 200 mg 
+(88/112 mg) BID; immediate-release tramadol 100 mg four times daily (QID); 
+celecoxib 100 mg BID; or placebo, for 5 days. The primary endpoint was the sum 
+of pain intensity differences over 0–4 h (SPID0–4). Key secondary endpoints were 
+rescue medication use within 4 h, 50% response rate at 4 h, and safety/tolerability. 
+
+3/Results: Of 1355 patients enrolled, 1138 were randomized (full analysis set) 
+and 1136 treated (safety analysis set). In the prespecified gatekeeping analysis 
+of SPID0–4, CTC 200 mg was not superior to tramadol but showed non-inferior 
+efficacy (p <0.001) that was sustained throughout the 120-h period, despite a 
+5-day cumulative tramadol administration of 880 mg with CTC 200 mg BID versus
+ 2000 mg with tramadol 100 mg QID. Treatment-emergent adverse events 
+(TEAEs) and severe TEAEs were less common with CTC 200 mg versus tramadol. 
+Treatment-related TEAEs were 14.4% with CTC 200 mg and 23.6% with tramadol. 
+
+4/Conclusions: Although the study did not meet its primary endpoint, CTC 200 mg 
+showed a clinically relevant improvement in overall benefit/risk profile versus 
+tramadol alone, with considerably lower cumulative opioid exposure. 
+

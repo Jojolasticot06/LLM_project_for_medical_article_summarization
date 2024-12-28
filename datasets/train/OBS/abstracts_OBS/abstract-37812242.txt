@@ -1,0 +1,27 @@
+PURPOSE: Lower respiratory tract infections (LRTI) are the most frequent 
+infectious complication in patients admitted to the intensive care unit (ICU). 
+We aim to report the clinical characteristics of ICU-admitted patients due to 
+nosocomial LRTI and to describe their microbiology and clinical outcomes.
+METHODS: A prospective observational study was conducted in 13 countries over 
+two continents from 9th May 2016 until 16th August 2019. Characteristics and 
+outcomes of ventilator-associated pneumonia (VAP), ventilator-associated 
+tracheobronchitis (VAT), ICU hospital-acquired pneumonia (ICU-HAP), HAP that 
+required invasive ventilation (VHAP), and HAP in patients transferred to the ICU 
+without invasive mechanical ventilation were collected. The clinical diagnosis 
+and treatments were per clinical practice and not per protocol. Descriptive 
+statistics were used to compare the study groups.
+RESULTS: 1060 patients with LRTI (72.5% male sex, median age 64 [50-74] years) 
+were included in the study; 160 (15.1%) developed VAT, 556 (52.5%) VAP, 98 
+(9.2%) ICU-HAP, 152 (14.3%) HAP, and 94 (8.9%) VHAP. Patients with VHAP had 
+higher serum procalcitonin (PCT) and Sequential Organ Failure Assessment (SOFA) 
+scores. Patients with VAP or VHAP developed acute kidney injury, acute 
+respiratory distress syndrome, multiple organ failure, or septic shock more 
+often. One thousand eight patients had microbiological samples, and 711 (70.5%) 
+had etiological microbiology identified. The most common microorganisms were 
+Pseudomonas aeruginosa (18.4%) and Klebsiella spp (14.4%). In 382 patients 
+(36%), the causative pathogen shows some antimicrobial resistance pattern. ICU, 
+hospital and 28-day mortality were 30.8%, 37.5% and 27.5%, respectively. 
+Patients with VHAP had the highest ICU, in-hospital and 28-day mortality rates.
+CONCLUSION: VHAP patients presented the highest mortality among those admitted 
+to the ICU. Multidrug-resistant pathogens frequently cause nosocomial LRTI in 
+this multinational cohort study.

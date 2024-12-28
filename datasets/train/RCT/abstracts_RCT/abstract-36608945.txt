@@ -1,0 +1,42 @@
+BACKGROUND: Unhealthy diet, physical inactivity, and social disconnection are 
+important modifiable risk factors for non-communicable and other chronic 
+diseases, which might be alleviated through nature-based community 
+interventions. We tested whether a community gardening intervention could reduce 
+these common health risks in an adult population that is diverse in terms of 
+age, ethnicity, and socioeconomic status.
+METHODS: In this observer-blind, randomised, controlled trial, we recruited 
+individuals who were on Denver Urban Garden waiting lists for community gardens 
+in Denver and Aurora (CO, USA), aged 18 years or older, and had not gardened in 
+the past 2 years. Participants were randomly assigned (1:1), using a randomised 
+block design in block sizes of two, four, or six, to receive a community garden 
+plot (intervention group) or remain on a waiting list and not garden (control 
+group). Researchers were masked to group allocation. Primary outcomes were diet, 
+physical activity, and anthropometry; secondary outcomes were perceived stress 
+and anxiety. During spring (April to early June, before randomisation; timepoint 
+1 [T1]), autumn (late August to October; timepoint 2 [T2]), and winter (January 
+to March, after the intervention; timepoint 3 [T3]), participants completed 
+three diet recalls, 7-day accelerometry, surveys, and anthropometry. Analyses 
+were done using the intention-to-treat principle (ie, including all participants 
+randomly assigned to groups, and assessed as randomised). We used mixed models 
+to test time-by-intervention hypotheses at an α level of 0·04, with T2 and T3 
+intervention effects at an α level of 0·005 (99·5% CI). Due to potential effects 
+of the COVID-19 pandemic on outcomes, we excluded all participant data collected 
+after Feb 1, 2020. This study is registered with ClinicalTrials.gov, 
+NCT03089177, and data collection is now complete.
+FINDINGS: Between Jan 1, 2017, and June 15, 2019, 493 adults were screened and 
+291 completed baseline measures and were randomly assigned to the intervention 
+(n=145) or control (n=146) groups. Mean age was 41·5 years (SD 13·5), 238 (82%) 
+of 291 participants were female, 52 (18%) were male, 99 (34%) identified as 
+Hispanic, and 191 (66%) identified as non-Hispanic. 237 (81%) completed 
+measurements before the beginning of the COVID-19 pandemic. One (<1%) 
+participant in the intervention group had an adverse allergic event in the 
+garden. Significant time-by-intervention effects were observed for fibre intake 
+(p=0·034), with mean between-group difference (intervention minus control) at T2 
+of 1·41 g per day (99·5% CI -2·09 to 4·92), and for moderate-to-vigorous 
+physical activity (p=0·012), with mean between-group difference of 5·80 min per 
+day (99·5% CI -4·44 to 16·05). We found no significant time-by-intervention 
+interactions for combined fruit and vegetable intake, Healthy Eating Index 
+(measured using Healthy Eating Index-2010), sedentary time, BMI, and waist 
+circumference (all p>0·04). Difference score models showed greater reductions 
+between T1 and T2 in perceived stress and anxiety among participants in the 
+intervention group than among those in the control group.

@@ -1,0 +1,11 @@
+Resistance exercise training improves mucociliary clearance in subjects with COPD: A randomized clinical trial.
+
+1/INTRODUCTION: Elastic tubing was recently investigated as an alternative to the conventional resistance training (RT) in chronic obstructive pulmonary disease (COPD). The effects of RT on the mucociliary system have not yet been reported in the literature.
+OBJECTIVE: The aim of this study was to evaluate the effects of two RT programs on mucociliary clearance in subjects with COPD.
+
+2/METHODS: Twentyeight subjects with COPD were randomly allocated by strata, according to individual strength of lower limbs, to defined groups: conventional resistance training (GCT) or resistance training using elastic tubing (GET). Nineteen subjects (GET: n=9; GCT: n=10) completed the study and were included in the analysis. The measurement of vital signs (blood pressure, heart rate and 
+respiratory rate), lung function (spirometry) and the primary outcome mucociliary clearance analysis (saccharin transit time test (STT)) were performed before and after the 12 weeks of RT.
+
+3/RESULTS: In relation to the mucociliary transportability analysis, no differences were observed between the baseline evaluations of the training groups (p=0.05). There was a significant reduction in the STT values in both training groups, GET (10.64±5.06 to 6.01±4.91) and GCT (12.07±5.10 to 7.36±2.54) with p=0.03. However, no differences between groups were observed on the magnitude of SST changes after interventions (GET: -43.51%; GCT: -38.94%; p=0.97).
+
+4/CONCLUSION: The present study demonstrated that both RT with elastic tubing and conventional training with weights promoted similar gains in the mucociliary transportability of subjects with COPD.

@@ -1,0 +1,22 @@
+BACKGROUND: The period following hospital discharge is one of significant 
+vulnerability. Little is known about the relationship between post-discharge 
+healthcare use and the risk of readmission.
+OBJECTIVES: To explore associations between medical consultations and other 
+healthcare use parameters and the risk of 30-day unplanned hospital readmission.
+METHODS: Between July 2017 and March 2018, we monitored all adult internal 
+medicine patients for 30 days after their discharge from four mid-sized 
+hospitals. Using follow-up telephone calls, we assessed their post-discharge 
+healthcare use: consultations with general practitioners (GPs) and specialist 
+physicians, emergency room (ER) visits, and home visits by nurses. The binary 
+outcome was defined as any unplanned hospital readmission within 30 days of 
+discharge, and this was analyzed using logistic regression.
+RESULTS: Of 934 patients discharged, 111 (12%) experienced at least one 
+unplanned hospital readmission within 30 days. Attending at least one GP 
+consultation decreased the odds of readmission by half (adjusted OR: 0.5; 95%CI: 
+0.3-0.7), whereas attending at least one specialist consultation doubled those 
+odds (aOR: 2.0; 95%CI: 1.2-3.3). GP consultations also reduced the odds of the 
+combined risk of an ER visit or unplanned hospital readmission (aOR: 0.5; 95%CI: 
+0.3-0.7). ER visits were also associated with a higher readmission risk after 
+adjusting for confounding factors (aOR: 10.0; 95%CI: 6.0-16.8).
+CONCLUSION: GP consultations were associated with fewer ER visits and unplanned 
+hospital readmissions.

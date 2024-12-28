@@ -1,0 +1,74 @@
+1. Am J Surg Pathol. 2018 Jan;42(1):39-52. doi: 10.1097/PAS.0000000000000948.
+
+Whole Slide Imaging Versus Microscopy for Primary Diagnosis in Surgical 
+Pathology: A Multicenter Blinded Randomized Noninferiority Study of 1992 Cases 
+(Pivotal Study).
+
+Mukhopadhyay S(1), Feldman MD(2), Abels E(3), Ashfaq R(4), Beltaifa S(5), 
+Cacciabeve NG(5), Cathro HP(6), Cheng L(7), Cooper K(2), Dickey GE(5), Gill 
+RM(8), Heaton RP Jr(5), Kerstens R(3), Lindberg GM(4), Malhotra RK(4), Mandell 
+JW(6), Manlucu ED(5), Mills AM(6), Mills SE(6), Moskaluk CA(6), Nelis M(3), 
+Patil DT(1), Przybycin CG(1), Reynolds JP(1), Rubin BP(1), Saboorian MH(4), 
+Salicru M(4), Samols MA(5), Sturgis CD(1), Turner KO(4), Wick MR(6), Yoon JY(4), 
+Zhao P(5), Taylor CR(9).
+
+Author information:
+(1)Department of Pathology, Cleveland Clinic, Cleveland, OH.
+(2)Department of Pathology, Hospital of the University of Pennsylvania, 
+Philadelphia, PA.
+(3)Philips Digital Pathology Solutions, Best, The Netherlands.
+(4)Miraca Life Sciences, Irving, TX.
+(5)Advanced Pathology Associates, Silver Spring, MD.
+(6)Department of Pathology, University of Virginia, Charlottesville, VA.
+(7)Department of Pathology, Indiana University School of Medicine, Indianapolis, 
+IA.
+(8)Department of Pathology, University of California, San Francisco.
+(9)Department of Pathology, Keck School of Medicine University of Southern 
+California, Los Angeles, CA.
+
+Comment in
+    Am J Surg Pathol. 2018 Jun;42(6):841-842.
+
+Most prior studies of primary diagnosis in surgical pathology using whole slide 
+imaging (WSI) versus microscopy have focused on specific organ systems or 
+included relatively few cases. The objective of this study was to demonstrate 
+that WSI is noninferior to microscopy for primary diagnosis in surgical 
+pathology. A blinded randomized noninferiority study was conducted across the 
+entire range of surgical pathology cases (biopsies and resections, including 
+hematoxylin and eosin, immunohistochemistry, and special stains) from 4 
+institutions using the original sign-out diagnosis (baseline diagnosis) as the 
+reference standard. Cases were scanned, converted to WSI and randomized. Sixteen 
+pathologists interpreted cases by microscopy or WSI, followed by a wash-out 
+period of ≥4 weeks, after which cases were read by the same observers using the 
+other modality. Major discordances were identified by an adjudication panel, and 
+the differences between major discordance rates for both microscopy (against the 
+reference standard) and WSI (against the reference standard) were calculated. A 
+total of 1992 cases were included, resulting in 15,925 reads. The major 
+discordance rate with the reference standard diagnosis was 4.9% for WSI and 4.6% 
+for microscopy. The difference between major discordance rates for microscopy 
+and WSI was 0.4% (95% confidence interval, -0.30% to 1.01%). The difference in 
+major discordance rates for WSI and microscopy was highest in endocrine 
+pathology (1.8%), neoplastic kidney pathology (1.5%), urinary bladder pathology 
+(1.3%), and gynecologic pathology (1.2%). Detailed analysis of these cases 
+revealed no instances where interpretation by WSI was consistently inaccurate 
+compared with microscopy for multiple observers. We conclude that WSI is 
+noninferior to microscopy for primary diagnosis in surgical pathology, including 
+biopsies and resections stained with hematoxylin and eosin, immunohistochemistry 
+and special stains. This conclusion is valid across a wide variety of organ 
+systems and specimen types.
+
+DOI: 10.1097/PAS.0000000000000948
+PMCID: PMC5737464
+PMID: 28961557 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of Interest and Source of Funding: 
+Supported by Philips. E.A., R.K., and M.N. are employees of Philips. C.R.T. and 
+M.D.F. are consultants to Philips for which they receive a personal 
+remuneration. S.M., D.T.P., C.G.P., and C.D.S. received a personal remuneration 
+for participating as readers in this study and have no other relationships with 
+or financial interest in Philips. A.M.M., C.A.M., J.W.M., S.E.M., and H.P.C. 
+report that they received compensation in the form of salary support from 
+Philips for their participation in this study. All pathologists in the study 
+completed a Financial Disclosure Form and Form FDA 3454. The remaining authors 
+have disclosed that they have no significant relationships with, or financial 
+interest in, any commercial companies pertaining to this article.

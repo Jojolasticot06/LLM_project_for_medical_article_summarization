@@ -1,0 +1,10 @@
+Poor long-term prognosis in patients admitted with strong suspicion of acute myocardial infarction but discharged with another diagnosis
+
+1/Background: Characteristics and prognosis of patients admitted with strong suspicion of myocardial infarction (MI) but discharged without an MI diagnosis are not well-described.
+Objectives: To compare background characteristics and cardiovascular outcomes in patients discharged with or without MI diagnosis.
+
+2/Methods: The DETermination of the role of Oxygen in suspected Acute Myocardial Infarction (DETO2X-AMI) trial compared 6629 patients with strong suspicion of MI randomized to oxygen or ambient air. The main composite end-point of this subgroup analysis was the incidence of all-cause death, rehospitalization with MI, heart failure (HF) or stroke during a follow-up of 2.1 years (median; range: 1-3.7 years) irrespective of randomized treatment.
+
+3/Results: 1619 (24%) received a non-MI discharge diagnosis, and 5010 patients (76%) were diagnosed with MI. Groups were similar in age, but non-MI patients were more commonly female and had more comorbidities. At thirty days, the incidence of the composite end-point was 2.8% (45 of 1619) in non-MI patients, compared to 5.0% (250 of 5010) in MI patients with lower incidences in all individual end-points. However, for the long-term follow-up, the incidence of the composite end-point increased in the non-MI patients to 17.7% (286 of 1619) as compared to 16.0% (804 of 5010) in MI patients, mainly driven by a higher incidence of all-cause death, stroke and HF.
+
+4/Conclusions: Patients admitted with a strong suspicion of MI but discharged with another diagnosis had more favourable outcomes in the short-term perspective, but from one year onwards, cardiovascular outcomes and death deteriorated to a worse long-term prognosis.

@@ -1,0 +1,12 @@
+Predictors of ventricular remodelling in patients with reperfused acute myocardial infarction and left ventricular dysfunction candidates for bone marrow cell therapy: insights from the BONAMI trial.
+
+1/PURPOSE: Few data are available regarding the relation of left ventricular (LV) mechanical dyssynchrony to remodelling after acute myocardial infarction (MI) and stem cell therapy. We evaluated the 1-year time course of both LV mechanical dyssynchrony and remodelling in patients enrolled in the BONAMI trial, a randomized, multicenter controlled trial assessing cell therapy in patients with 
+reperfused MI.
+
+2/METHODS: Patients with acute MI and ejection fraction (EF) ≤ 45 % were randomized to cell therapy or to control and underwent thallium single-photon emission computed tomography (SPECT), radionuclide angiography, and echocardiography at baseline, 3 months, and 1 year. Eighty-three patients with a 
+comprehensive 1-year follow-up were included. LV dyssynchrony was assessed by the standard deviation (SD) of the LV phase histogram using radionuclide angiography. Remodelling was defined as a 20 % increase in LV end-systolic volume index (LVESVI) at 1 year.
+
+3/RESULTS: At baseline, LVEF, wall motion score index, and perfusion defect size were significantly impaired in the 43 patients (52 %) with LV remodelling (all p < 0.001), without significant increase in LV mechanical dyssynchrony. During follow-up, there was a progressive increase in LV SD (p = 0.01). Baseline independent predictors of LV remodelling were perfusion SPECT defect size 
+(p = 0.001), LVEF (p = 0.01) and a history of hypertension (p = 0.043). Bone marrow cell therapy did not affect the time-course of LV remodelling and dyssynchrony.
+
+4/CONCLUSIONS: LV remodelling 1 year after reperfused MI is associated with progressive LV dyssynchrony and is related to baseline infarct size and ejection fraction, without impact of cell therapy on this process.

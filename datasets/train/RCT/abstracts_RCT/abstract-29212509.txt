@@ -1,0 +1,13 @@
+Incremental cost and cost-effectiveness of low-dose, high-frequency training in basic emergency obstetric and newborn care as compared to status quo: part of a cluster-randomized training intervention evaluation in Ghana.
+
+1/BACKGROUND: Low-dose, high-frequency (LDHF) training is a new approach best practices to improve clinical knowledge, build and retain competency, and transfer skills into practice after training. LDHF training in Ghana is an opportunity to build health workforce capacity in critical areas of maternal and newborn health and translate improved capacity into better health outcomes.
+
+2/mETHODS: This study examined the costs of an LDHF training approach for basic emergency obstetric and newborn care and calculates the incremental cost-effectiveness of the LDHF training program for health outcomes of newborn survival, compared to the status quo alternative of no training. The costs of 
+LDHF were compared to costs of traditional workshop-based training per provider trained. Retrospective program cost analysis with activity-based costing was used to measure all resources of the LDHF training program over a 3-year analytic time horizon. Economic costs were estimated from financial records, 
+informant interviews, and regional market prices. Health effects from the program's impact evaluation were used to model lives saved and disability-adjusted life years (DALYs) averted. Uncertainty analysis included 
+one-way and probabilistic sensitivity analysis to explore incremental cost-effectiveness results when fluctuating key parameters.
+
+3/RESULTS: For the 40 health facilities included in the evaluation, the total LDHF training cost was $823,134. During the follow-up period after the first LDHF training-1 year at each participating facility-approximately 544 lives were saved. With deterministic calculation, these findings translate to $1497.77 per 
+life saved or $53.07 per DALY averted. Probabilistic sensitivity analysis, with mean incremental cost-effectiveness ratio of $54.79 per DALY averted ($24.42-$107.01), suggests the LDHF training program as compared to no training has 100% probability of being cost-effective above a willingness to pay threshold of $1480, Ghana's gross national income per capita in 2015.
+
+4/CONCLUSION: This study provides insight into the investment of LDHF training and value for money of this approach to training in-service providers on basic emergency obstetric and newborn care. The LDHF training approach should be considered for expansion in Ghana and integrated into existing in-service training programs and health system organizational structures for lower cost and more efficiency at scale.

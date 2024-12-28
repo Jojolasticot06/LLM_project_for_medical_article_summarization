@@ -1,0 +1,97 @@
+INTRODUCTION
+Personal continuity is considered one of the core values of primary care.1-5 This form of continuity, also known as relational continuity, implies familiarity and mutual confidence between patient and physician that can and usually do arise from repeated contacts over time.6 Reported benefits include reduced mortality rates,7,8 fewer hospital admissions,9 reduced health care costs,10 a better patient-physician relationship,11,12 improved preventive care,13 fewer emergency department visits,14 greater patient and physician satisfaction,12,15,16 and better medication use and compliance.13,17-22 Adverse outcomes of personal continuity could include frustrating or difficult patient-physician relationships and delayed diagnosis or referral.23 In recent years, personal continuity has declined in primary care.24 This decline has been due to a variety of changes in society and health care, including family physicians increasingly working part time and in larger practices.1,2,5,25
+
+Managing prescriptions is an important aspect of providing primary care for older adults, because inappropriate prescribing potentially leads to avoidable adverse drug events such as hospitalizations, falls, and acute kidney injury.26,27 The primary care population is aging,28 and older patients have more chronic conditions and use more medication compared with younger patients. Additionally, older adults have a higher risk of harm due to drug-drug and drug-disease interactions,29 and age-related pharmacokinetic and pharmacodynamic changes.30 Dutch family physicians are therefore expected to regularly evaluate medication with their older patients.31 We hypothesized that when personal continuity is higher, prescription management is better.
+
+Previous studies have shown that personal continuity in primary care is associated with improved statin use,32 heart failure medication adherence,33 and diabetes monitoring.34 Among patients with a dementia diagnosis, a recent study shows that personal continuity is associated with improved prescribing in primary care.35 In addition, higher pharmacy continuity is associated with less inappropriate medication use and improved adherence.36 On the other hand, to avoid frustrating or difficult patient-physician interactions, family physicians may prescribe inappropriate medication to meet a patient’s demands.
+
+The actual association between personal continuity and potentially inappropriate prescriptions (PIPs) by family physicians is largely unknown. We therefore aimed to study the association between personal continuity and prescriptions with potentially harmful consequences, as defined by the Screening Tool of Older Person’s Prescriptions (STOPP) criteria and the Screening Tool to Alert doctors to Right Treatment (START) criteria, in primary care.37
+
+METHODS
+Setting, Study Population, and Data Collection
+We conducted an observational cohort study using anonymized routine care data, extracted from the database of the Academic Network of Primary Care (ANHA) at Amsterdam University Medical Centers during a 6-year period (2013-2018). These 48 family practices were located in the urban area in and around Amsterdam and Haarlem, The Netherlands. Patients were included if they were enlisted at least 1 year with the same family practice; had at least 5 contacts (ie, telephone calls, home visits, e-mails, and/or face-to-face consultations) with their practice over 6 years, of which at least 2 were with a family physician; and were aged 65 years or older in 2013 (Figure 1).
+
+Figure 1.
+Figure 1.
+Selection of the study population.
+
+Potential covariates included sex, age, number of chronic conditions, and measures of personal continuity (described below). Medications were included as 5th-level Anatomic Therapeutic Chemical codes based on the STOPP and START criteria.38 Conditions were ascertained from International Classification of Primary Care codes.39 We defined chronic conditions according to definitions of the Netherlands Institute for Health Services Research (Supplemental Table 1 and Supplemental Table 2).
+
+Personal Continuity Measures
+No consensus exists on the preferred way to measure our main determinant, personal continuity.40 To optimize the validity and robustness of our results,41 we therefore decided to use 3 established measures: the usual provider of care (UPC) measure and the Herfindahl Index (HI), both of which capture the density of contacts with family physicians, and the Bice-Boxerman Index (BBI), also known as the Continuity of Care Index, which captures the dispersion of contacts among family physicians (Table 1).7,40,42-47 For each patient, we used all contacts that were registered in the electronic health record by any family physician during our study period. Values range from 0 to 1 for all 3 personal continuity measures, with higher values denoting greater personal continuity.
+
+Table 1.
+Continuity Measures, Examples, and Calculation
+
+Definitions of Inappropriate Prescribing
+Potentially inappropriate prescriptions can be categorized as potentially inappropriate medications (PIMs) and potential prescribing omissions (PPOs).48 To determine our main outcomes of PIMs and PPOs, we used the STOPP and START specific to the Netherlands version 2 criteria, respectively.49 These validated instruments for identifying inappropriate prescriptions contain 108 criteria and have been applied in various international health care settings.37 The Netherlands-specific versions of the criteria, created in 201250 and revised in 2015 and 2020,49 are currently included in multidisciplinary guidelines on polypharmacy among older adults.31 Of the 108 items defined by Huibers et al38 and Damoiseaux-Volman et al,51 we were able to program applicable scripts for 100 items (68 PIMs and 32 PPOs) for our study (Supplemental Table 3 and Supplemental Table 4).
+
+We did not find any literature on weighting of a previous prescription that was repeated and therefore based our decision on consensus expert opinion. Using the expertise of several family physicians, a clinical statistician, a clinical geriatrician, and a pharmacist, we agreed that without additional knowledge of the family physicians’ motivation, repeated prescriptions should not be weighted equally as the prescribing of multiple different PIMs or PPOs. We therefore determined the number of PIMs and PPOs by adding the unique number of each per patient during our study period.
+
+Statistical Analysis
+We used R version 4.0.3 in R-studio (R Foundation for Statistical Computing) with the packages readr, dplyr, lubridate, stringr, tidyr, and haven to program the STOPP and START criteria scripts and count the number of PIPs per patient. We used SPSS version 28 (IBM Corp) to create descriptive plots and to conduct subsequent analyses. Descriptive statistics were used to summarize percentages or ranges for categorical variables and means with SDs for noncategorical variables. As the linearity assumption was not met for the continuity measures and for age, we categorized UPC, BBI, and HI values into tertiles (low, intermediate, and high personal continuity), and age into decades.
+
+Multilevel negative binomial regression analyses were conducted to analyze the main associations between personal continuity and PIPs. We accounted for correlation among patients of the same practice by including practice as level. Because the associations were modified by number of chronic conditions for PIMs, we stratified the patient population into tertiles (0-2, 3-4, or 5-18 chronic conditions). Additional covariates consisted of age, sex, and number of chronic conditions. We present the crude and adjusted stratified results as rate ratios, which represent the relative differences in incidence of PIMs or PPOs between 2 groups. We compared the high- and intermediate-continuity groups with the low-continuity group.
+
+Ethical Approval
+The ANHA database is run according to Dutch privacy legislation and contains pseudonymized primary care data from all patients of the participating family practices, except for those who decline participation. The medical ethics committee of VU University Medical Center (now Amsterdam University Medical Center–location VUmc) confirmed that the Medical Research Involving Human Subjects Act does not apply to observational studies based on anonymized data from the ANHA database, and these studies are therefore exempt from the patient informed consent (protocol no. VUmc2015-260).
+
+RESULTS
+A total of 269,478 patients enlisted in 48 practices had at least 1 contact with their practice over our 6-year study period (Figure 1). Our final analytic sample contained 25,854 older adult patients having a total of 1,198,861 contacts, of which 674,627 were with family physicians. The mean number of family physician contacts was 26.1 per patient (range = 2-1,115) (Table 2). The patients had a mean age of 74.6 years in 2013 (range = 65-94).
+
+Table 2.
+Baseline Characteristics of the Study Population
+
+Baseline Characteristics
+On average, the older the patients, the more chronic conditions they had (Table 2). Patients were enlisted with their practice for a mean (SD) of 16.9 (8.8) years. During our 6-year study period, patients having 5 to 18 chronic conditions had more contacts with their family physician, 35.4 (29.7), than the patients having 0 to 2 chronic conditions or 3 or 4 chronic conditions, 16.8 (14.6) and 24.5 (19.7), respectively.
+
+The patients’ mean (SD) values for the UPC measure, the BBI, and the HI were 0.70 (0.19), 0.55 (0.24), and 0.59 (0.22), respectively. In the total population, the cutoffs for the low, intermediate, and high tertiles were 0.12, 0.60, and 0.80 for the UPC; 0.00, 0.42, and 0.65 for the BBI; and 0.09, 0.47, and 0.67 for the HI. The mean numbers of PIMs and PPOs were lower in the groups with fewer chronic conditions.
+
+Incidences of PIMs and PPOs
+Over 6 years, the total number of unique PIMs and PPOs was 56,605 and 55,578, respectively; the 10 most frequently observed of each type are shown in Table 3 and Table 4, respectively. In our study population, 72.2% and 74.3% of patients had at least 1 PIM and PPO, respectively, and 30.9% and 34.2% had at least 3 PIMs and PPOs, respectively. The most frequently observed PIM was “stop benzodiazepines” (15.7% of all PIMs) and the most frequently observed PPO was “start laxatives in patients receiving opioids regularly” (14.7% of all PPOs).
+
+Table 3.
+The 10 Most Frequently Observed PIMs
+
+Table 4.
+The 10 Most Frequently Observed PPOs
+
+Associations of Continuity With PIMs and PPOs
+Higher UPC, BBI, and HI values, reflecting greater personal continuity, were associated with a lower rate of PPOs after adjusting for age, sex, and number of chronic conditions (Table 5; crude analysis is shown in Supplemental Table 5). For PPOs, the rate ratio of high vs low UPC was 0.91; in other words, as this ratio is less than 1, the incidence of PPO is lower in the high UPC group than in the low UPC group. The respective rate ratios were 0.93 for the BBI and 0.88 for the HI. Rate ratios comparing the intermediate vs low category were 0.96 for the UPC, 1.00 for the BBI, and 0.95 for the HI. The PPO incidence was highest in the low continuity groups, followed by the intermediate groups, and then by the high continuity groups.
+
+Table 5.
+Adjusted Associations Between Personal Continuity Measures and Incident PPO
+
+For the outcome of PIMs, we found a similar association, although mainly observed in the group of patients with 5 to 18 chronic conditions (Table 6; crude analysis is shown in Supplemental Table 6). In this group, for PIM, the rate ratio of high vs low UPC was 0.90; in other words, the incidence of PIM was lower in the high UPC group compared with the low UPC group. The respective rate ratios were 0.93 for the BBI and 0.87 for the HI. Corresponding values comparing the intermediate vs low category were 0.94 for the UPC, 0.99 for the BBI, and 0.92 for the HI. In the group with 3 or 4 chronic conditions, we found a similar trend, although it was not significant. In the group with 0 to 2 chronic conditions, the rate ratio of high vs low BBI was 1.13; the ratio was not significant for the UPC and HI measures.
+
+Table 6.
+Adjusted Associations Between Personal Continuity Measures and Incident PIM
+
+DISCUSSION
+Summary
+We found that higher personal continuity (defined by UPC, BBI, or HI) was associated with a lower rate of PPOs among older adults in primary care (P <.001). For PIMs, this association was observed only among the group having 5 to 18 chronic conditions. In our primary care population, the prevalence of PIMs and PPOs was high: three-fourths of older patients had at least 1 PIM or PPO, and one-third had at least 3 PIMs or PPOs.
+
+The differing results for PPOs and PIMs might be explained by the differences in definitions. PPOs provide information on correct prescribing (START criteria), whereas PIMs provide information on correct deprescribing (STOPP criteria). Previous literature shows that family physicians experience organizational, interpersonal, and individual socioecologic barriers in deprescribing.52 Perhaps these barriers overwhelm the potential benefits of personal continuity.
+
+Comparison With Existing Literature
+To our knowledge, ours is the first study published on the association of personal continuity between patient and family physician and the occurrence of PIPs in primary care. Recently, Delgado et al35 found that higher personal continuity is associated with fewer potentially inappropriate prescriptions and fewer adverse events among patients with dementia. Our results are similar, although our study included older primary care patients generally, regardless of diagnoses.
+
+In our study, personal continuity levels were intermediate, on average, and similar to those in other international studies.47,53 Initially, we also included the Modified Continuity Index to assess personal continuity.40 This measure does not take into account the number of encounters with a single clinician, however, which is essential to calculating personal continuity. We therefore decided not to include this measure in the results.
+
+The prevalence of PIMs and PPOs was 72.2% and 74.3%, respectively, among all patients. The PIM prevalence was higher and the PPO prevalence was lower than those in another study in Dutch family practices (PIM 34.7% and PPO 84.8%).54 The STOPP and START versions used in that study did not include our first and second most frequent PIMs, pertaining to benzodiazepine use, which could explain the differing prevalences. Other studies have also differed from ours regarding the most frequently observed PIMs and PPOs. Those studies by Nauta et al55 and O’Riordan et al,56 however, used different versions of the STOPP and START criteria and included fewer criteria (39 PIMs and 18 PPOs in the former study, and 48 PIMs and 22 PPOs in the latter study, as compared with 68 PIMs and 32 PPOs in our study).
+
+A Dutch longitudinal hospital study51 used criteria definitions similar to ours. That study found that the PIM and PPO prevalences were lower, possibly because their follow-up was shorter than ours. Nonetheless, the most frequently observed PIMs and PPOs were similar to those in our study.51
+
+Strengths and Limitations
+This study was based on longitudinal real-life health care data from 48 family practices covering all family physician contacts over 6 years, which is a major strength. The included practices varied in list sizes, patient populations, and practice organization, and had similar continuity levels compared with practices in other studies.47,53 We therefore consider our results generalizable for Dutch family practices, in particular in urban areas. Another strength is that we used 3 established personal continuity measures.
+
+We were able to program scripts for 100 of 108 STOPP and START criteria. These criteria are used as established, well-known tools to identify inappropriate prescriptions among older patients.37 The criteria are limited, however, by indicating potentially inappropriate prescribing and lack information on possible careful considerations by the prescriber.50 Despite inclusion of these criteria in Dutch guidelines in 2012,50 the prevalence of PIMs and PPOs in our study population was still high; however, this could be the result of our exclusion of patients having fewer than 5 contacts with their practice or fewer than 2 family physician contacts (Figure 1), which was required to accurately calculate personal continuity. Similarly, if our follow-up period had been shorter, we would not have been able to accurately calculate personal continuity for most patients with fewer contacts. In addition, we determined the number of unique PIPs per patient during 6 years to avoid overestimating the effect. From a clinical perspective, however, any PIP should be prevented to provide optimal care.
+
+Finally, we focused on personal continuity between family physician and patient, whereas other health care professionals in primary care (eg, family physician trainees, practice nurses) may also provide personal continuity and prescribe medication. This is especially true among patients with certain chronic conditions, including diabetes and other cardiovascular risk factors, because care for these conditions is partially provided by practice nurses; contacts with clinicians other than family physicians were not included in this study.57
+
+Implications for Research and Practice
+This study adds to the currently known benefits of personal continuity in primary care. We recommend that family physicians improve personal continuity because it is associated with PIP. Team-based care with multiple clinicians may be detrimental. In particular, older patients with many chronic conditions could benefit from personal continuity to reduce inappropriate prescribing and possibly prevent adverse events. This proposal is in line with findings of other studies in primary care. Family physicians should therefore encourage older patients to schedule appointments with the same family physician and discuss prescribing and deprescribing to reduce potential barriers. The possible causal association could be determined by a targeted randomized intervention, that is, by specifically allocating 1 prescriber per patient.
+
+In addition, the prevalence of PIPs in primary care is high. Perhaps, the practical use of the STOPP and START criteria to identify PIPs could be improved by developing and implementing a user-friendly, time-efficient (digital) tool to support family physicians and their patients in prescription management, including deprescribing.
+
+Finally, by initially using 4 established measures to calculate continuity, we found inconsistent results depending on the measure. We are therefore working on a clinimetric study to provide recommendations for applying the right continuity measure in the right situation. In addition, future studies should use qualitative research (eg, semistructured interviews) to include patients’ perspectives on personal continuity.

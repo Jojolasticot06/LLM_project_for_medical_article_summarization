@@ -1,0 +1,22 @@
+OBJECTIVE: To assess associations between inflammatory remission, formal 
+treatment targets and the likelihood of starting a new disease-modifying 
+antirheumatic drug (DMARD), among patients with early rheumatoid arthritis (RA).
+METHODS: Patients newly diagnosed with RA were identified in the Swedish 
+Rheumatology Quality Register (n=11 784). Disease Activity Score 28 (DAS28) and 
+DMARD-treatment were assessed at RA diagnosis and 3, 6, 12 and 24 months 
+thereafter. Inflammatory remission was defined as: swollen joints (0-28)=0 and C 
+reactive protein <10 mg/L and normal erythrocyte sedimentation rate. The primary 
+treatment target was DAS28 remission (<2.6). The proportion of patients in 
+inflammatory remission who failed to reach DAS28 targets was assessed at each 
+follow-up visit, and their likelihood of starting a new DMARD was compared with 
+patients in inflammatory remission who reached the treatment target. rate ratios 
+(RR) and 95% CIs were estimated with modified Poisson regression.
+RESULTS: Overall, 34%, 39%, 44% and 47% were in inflammatory remission at 3, 6, 
+12 and 24 months. Among these, 20%, 22%, 20% and 19%, respectively, failed to 
+reach DAS28 remission. Patients who failed to reach DAS28 remission despite 
+being in inflammatory remission were more likely to start a new DMARD treatment 
+(RR (95% CI) at 6 months=1.59 (1.29 to 1.96), 12 months=1.52 (1.23 to 1.87)) and 
+24 months=1.47 (1.20 to 1.80).
+CONCLUSION: Failing to reach formal treatment targets, despite being in 
+inflammatory remission, is common among patients with early RA, and is 
+associated with an increased likelihood of starting a new DMARD-treatment.

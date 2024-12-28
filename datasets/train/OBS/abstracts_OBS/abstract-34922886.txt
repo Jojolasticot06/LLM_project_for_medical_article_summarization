@@ -1,0 +1,22 @@
+PURPOSE: The purpose of this study was to examine the survival benefits of a 
+workflow in which an interventional radiology (IR) team participates in a 
+primary trauma survey on patients with hemodynamically unstable trauma.
+MATERIALS AND METHODS: A retrospective observational study was conducted between 
+2012 and 2019 at a single institution. Patients who underwent an IR procedure as 
+the initial hemostasis were assigned to the hemodynamically stable group (HSG) 
+or hemodynamically unstable group (HUG). The primary and secondary outcomes were 
+survival at hospital discharge compared with the probability of survival (Ps) 
+and the time course.
+RESULTS: A total of 160 patients (100 men, 60 women; median age, 57.5 years 
+[interquartile range (IQR): 31.5-72 years]) with an injury severity score of 24 
+(IQR: 13.75-34) were included. A total of 125 patients were included in the HSG 
+group and 35 patients in the HUG group. The observational survival rate was 
+significantly greater than the Ps rate by 4.9% (95% confidence interval [CI]: 
+1.6-8.4%; P = 0.005) in HSG and by 24.6% in HUG (95% CI: 16.9-32.3%; P < 0.001). 
+The observational survival rate was significantly greater than Ps in HUG than in 
+HSG (P < 0.001). The median time to initiate IR procedures and the median 
+procedure time in HUG were 54 min [IQR: 45-66 min] and 48 min [IQR: 30-85 min], 
+respectively; both were significantly shorter than those in the HSG.
+CONCLUSION: A trauma workflow utilizing an IR team in a primary survey is 
+associated with improved survival of patients with hemodynamically unstable 
+trauma when compared with Ps with a shorter time course.

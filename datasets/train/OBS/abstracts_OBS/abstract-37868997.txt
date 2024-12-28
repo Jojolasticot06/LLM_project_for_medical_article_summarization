@@ -1,0 +1,24 @@
+INTRODUCTION: Despite predicted efficacy, immunotherapy in epithelial ovarian 
+cancer (EOC) has limited clinical benefit and the prognosis of patients remains 
+poor. There is thus a strong need for better identifying local immune dynamics 
+and immune-suppressive pathways limiting T-cell mediated anti-tumor immunity.
+METHODS: In this observational study we analyzed by immunohistochemistry, gene 
+expression profiling and flow cytometry the antigenic landscape and immune 
+composition of 48 EOC specimens, with a focus on tumor-infiltrating lymphocytes 
+(TILs).
+RESULTS: Activated T cells showing features of partial exhaustion with a 
+CD137+CD39+PD-1+TIM-3+CD45RA-CD62L-CD95+ surface profile were exclusively 
+present in EOC specimens but not in corresponding peripheral blood or ascitic 
+fluid, indicating that the tumor microenvironment might sustain this peculiar 
+phenotype. Interestingly, while neoplastic cells expressed several 
+tumor-associated antigens possibly able to stimulate tumor-specific TILs, 
+macrophages provided both co-stimulatory and inhibitory signals and were more 
+abundant in TILs-enriched specimens harboring the 
+CD137+CD39+PD-1+TIM-3+CD45RA-CD62L-CD95+ signature.
+CONCLUSION: These data demonstrate that EOC is enriched in 
+CD137+CD39+PD-1+TIM-3+CD45RA-CD62L-CD95+ T lymphocytes, a phenotype possibly 
+modulated by antigen recognition on neoplastic cells and by a combination of 
+inhibitory and co-stimulatory signals largely provided by infiltrating myeloid 
+cells. Furthermore, we have identified immunosuppressive pathways potentially 
+hampering local immunity which might be targeted by immunotherapeutic 
+approaches.

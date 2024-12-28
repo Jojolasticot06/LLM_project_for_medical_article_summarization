@@ -1,0 +1,25 @@
+1/ PB2452, a neutralizing monoclonal antibody fragment that binds the antiplatelet 
+drug ticagrelor with high affinity, is being developed as a ticagrelor reversal 
+agent. 
+2/ To identify a clinically useful intravenous (i.v.) reversal regimen, a 
+semimechanistic exposure-response model was developed during the PB2452 
+first-in-human phase I study. From a randomized, double-blind, 
+placebo-controlled, single-dose trial to evaluate the safety, efficacy, and 
+pharmacokinetics (PKs) of PB2452 in 61 healthy volunteers pretreated with 
+ticagrelor, sequential dose cohort data were used to build and refine an 
+exposure-response model that combined population PK models for ticagrelor 
+(TICA), ticagrelor active metabolite (TAM), and PB2452, and related their 
+binding relationships to the PK of uncomplexed TICA and TAM which is predictive 
+of platelet inhibition. Platelet function was assessed by multiple assays. The 
+model was developed using Bayesian methods in NONMEM. Human PK and 
+pharmacodynamic data from sequential dose cohorts were used to initially define 
+and then refine model parameters. 
+3/ Model simulations indicated that an initial 
+i.v. bolus of PB2452, followed by a high-rate infusion, and then a slower-rate 
+infusion would provide immediate and sustained reversal of the antiplatelet 
+effects of ticagrelor. Based on model predictions, a 6 g i.v. bolus followed by 
+6 g infused over 4 h and then 6 g over 12 h was identified and tested in study 
+subjects and shown to provide complete reversal within 5 min of infusion onset 
+that was sustained for 20-24 h. 
+4/ The model is predictive of the reversal profile 
+of PB2452 and will inform future trials of PB2452.

@@ -1,0 +1,32 @@
+BACKGROUND: Experimental evidence and studies of children and adolescents 
+suggest that ambient fine particulate matter [particulate matter  ≤ 2.5 μm in 
+aerodynamic diameter (PM2.5)] air pollution may be obesogenic, but the 
+relationship between PM2.5 and the risk of body weight gain and obesity in 
+adults is uncertain.
+OBJECTIVES: Our goal was to characterize the association between PM2.5 and the 
+risks of weight gain and obesity.
+METHODS: We followed 3,902,440 U.S. Veterans from 2010 to 2018 (median 8.1 y, 
+interquartile range: 7.3-8.4) and assigned time-updated PM2.5 exposures by 
+linking geocoded residential street addresses with satellite-based estimates of 
+surface-level PM2.5 mass (at  ∼ 1-km2 resolution). Associations with PM2.5 were 
+estimated using Cox proportional hazards models for incident obesity [body mass 
+index (BMI) ≥ 30 kg/m2] and a 10-lb increase in weight relative to baseline and 
+linear mixed models for associations with intra-individual changes in BMI and 
+weight.
+RESULTS: A 10-μg/m3 higher average annual PM2.5 concentration was associated 
+with risk of incident obesity [n = 2,325,769; hazard ratio (HR) = 1.08 (95% CI: 
+1.06, 1.11)] and the risk of a 10-lb (4.54 kg) increase in weight [HR = 1.07 
+(95% CI: 1.06, 1.08)] and with higher intra-individual changes in BMI 
+[0.140 kg/m2 per year (95% CI: 0.139, 0.142)] and weight [0.968 lb/y (95% CI: 
+0.955, 0.981)]. Nonlinear exposure-response models indicated associations at 
+PM2.5 concentrations below the national standard of 12 μg/m3. As expected, a 
+negative exposure control (ambient air sodium) was not associated with obesity 
+or weight gain. Associations were consistent in direction and magnitude across 
+sensitivity analyses that included alternative outcomes and exposures assigned 
+at different spatial resolutions.
+DISCUSSION: PM2.5 air pollution was associated with the risk of obesity and 
+weight gain in a large predominantly male cohort of U.S. Veterans. Discussions 
+about health effects of PM2.5 should include its association with obesity, and 
+deliberations about the epidemiology of obesity should consider its association 
+with PM2.5. Investigation in other cohorts will deepen our understanding of the 
+relationship between PM2.5 and weight gain and obesity.

@@ -1,0 +1,11 @@
+Improving detection of clinically significant prostate cancer: magnetic resonance imaging/transrectal ultrasound fusion guided prostate biopsy.
+
+1/PURPOSE: Given the limitations of prostate specific antigen and standard biopsies for detecting prostate cancer, we evaluated the cancer detection rate and external validity of a magnetic resonance Imaging/transrectal ultrasound fusion guided prostate biopsy system used at the National Institutes of Health.
+
+2/MATERIALS AND METHODS: We performed a phase III trial of a magnetic resonance imaging/transrectal ultrasound fusion guided prostate biopsy system with participants enrolled between 2012 and 2013. A total of 153 men consented to the study and underwent 3 Tesla multiparametric magnetic resonance imaging with an 
+endorectal coil for clinical suspicion of prostate cancer. Lesions were classified as low or moderate/high risk for prostate cancer. Magnetic resonance imaging/transrectal ultrasound fusion guided biopsy and standard 12-core prostate biopsy were performed and 105 men were eligible for analysis.
+
+3/RESULTS: Mean patient age was 65.8 years and mean prostate specific antigen was 9.5 ng/ml. The overall cancer detection rate was 62.9% (66 of 105 patients). The cancer detection rate in those with moderate/high risk on imaging was 72.3% (47 of 65) vs 47.5% (19 of 40) in those classified as low risk for prostate cancer 
+(p<0.05). Mean tumor core length was 4.6 and 3.7 mm for fusion biopsy and standard 12-core biopsy, respectively (p<0.05). Magnetic resonance imaging/transrectal ultrasound fusion guided biopsy detected prostate cancer that was missed by standard 12-core biopsy in 14.3% of cases (15 of 105), of which 86.7% (13 of 15) were clinically significant. This biopsy upgraded 23.5% of cancers (4 of 17) deemed clinically insignificant on 12-core biopsy to clinically significant prostate cancer necessitating treatment.
+
+4/CONCLUSIONS: Magnetic resonance imaging/transrectal ultrasound fusion guided biopsy can improve prostate cancer detection. The results of this trial support the external validity of this platform and may be the next step in the evolution of prostate cancer management.

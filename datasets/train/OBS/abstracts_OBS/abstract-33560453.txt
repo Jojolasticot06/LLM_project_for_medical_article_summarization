@@ -1,0 +1,27 @@
+PURPOSE: To assess the presence and pattern of incidental interstitial lung 
+alterations suspicious of COVID-19 on fluorine-18-fluorodeoxyglucose positron 
+emission tomography (PET)/computed tomography (CT) ([18F]FDG PET/CT) in 
+asymptomatic oncological patients during the period of active COVID-19 in a 
+country with high prevalence of the virus.
+METHODS: This is a multi-center retrospective observational study involving 59 
+Italian centers. We retrospectively reviewed the prevalence of interstitial 
+pneumonia detected during the COVID period (between March 16 and 27, 2020) and 
+compared to a pre-COVID period (January-February 2020) and a control time (in 
+2019). The diagnosis of interstitial pneumonia was done considering lung 
+alterations of CT of PET.
+RESULTS: Overall, [18F]FDG PET/CT was performed on 4008 patients in the COVID 
+period, 19,267 in the pre-COVID period, and 5513 in the control period. The rate 
+of interstitial pneumonia suspicious for COVID-19 was significantly higher 
+during the COVID period (7.1%) compared with that found in the pre-COVID (5.35%) 
+and control periods (5.15%) (p < 0.001). Instead, no significant difference 
+among pre-COVID and control periods was present. The prevalence of interstitial 
+pneumonia detected at PET/CT was directly associated with geographic virus 
+diffusion, with the higher rate in Northern Italy. Among 284 interstitial 
+pneumonia detected during COVID period, 169 (59%) were FDG-avid (average SUVmax 
+of 4.1).
+CONCLUSIONS: A significant increase of interstitial pneumonia incidentally 
+detected with [18F]FDG PET/CT has been demonstrated during the COVID-19 
+pandemic. A majority of interstitial pneumonia were FDG-avid. Our results 
+underlined the importance of paying attention to incidental CT findings of 
+pneumonia detected at PET/CT, and these reports might help to recognize early 
+COVID-19 cases guiding the subsequent management.
